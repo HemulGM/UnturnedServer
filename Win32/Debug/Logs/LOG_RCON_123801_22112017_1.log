@@ -1,0 +1,196 @@
+RocketRcon v2.4.8.0
+
+login aVIPs22031994
+players
+Client has executed command "players"
+Players:
+PlayerID: 76561198366717561 Name: MAXIMUSSSSSSS Character: MAXIMUSSSSSSS Ping: 31
+PlayerID: 76561198301131571 Name: PogChamp Character: Тише Будь! Ping: 218
+PlayerID: 76561198418285364 Name: Sseak CSGOBlocks.Com Character: Maks_Fenlyandno Ping: 201
+PlayerID: 76561198245870076 Name: 0|TheGangstar|0 Character: Nyan Bread Ping: 80
+PlayerID: 76561198114166100 Name: Silence Character: Владимир Пустовой Ping: 66
+PlayerID: 76561198197448591 Name: Носок с ручкой Character: arleta Ping: 141
+PlayerID: 76561198398244891 Name: глобал в кэс Character: килер 2000 Ping: 27
+PlayerID: 76561198358000300 Name: boost_machina Character: Анальный мишка Ping: 96
+PlayerID: 76561198429862658 Name: vadem_vvv Character: вадим чужа Ping: 67
+
+[World] Тише Будь! [PogChamp]: "/i 373 200"
+Дал Тише Будь! вещь 373:200
+
+Не обработано: Дал Тише Будь! вещь 373:200
+Client has executed command "bans"
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 28092894
+PlayerID: 76561198336969313
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 208127
+PlayerID: 76561198212486347
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 208458
+PlayerID: 76561198391097237
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 370945
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30973172
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30973188
+Client has executed command "players"
+Players:
+PlayerID: 76561198366717561 Name: MAXIMUSSSSSSS Character: MAXIMUSSSSSSS Ping: 21
+PlayerID: 76561198301131571 Name: PogChamp Character: Тише Будь! Ping: 222
+PlayerID: 76561198418285364 Name: Sseak CSGOBlocks.Com Character: Maks_Fenlyandno Ping: 210
+PlayerID: 76561198245870076 Name: 0|TheGangstar|0 Character: Nyan Bread Ping: 83
+PlayerID: 76561198114166100 Name: Silence Character: Владимир Пустовой Ping: 72
+PlayerID: 76561198197448591 Name: Носок с ручкой Character: arleta Ping: 144
+PlayerID: 76561198398244891 Name: глобал в кэс Character: килер 2000 Ping: 31
+PlayerID: 76561198358000300 Name: boost_machina Character: Анальный мишка Ping: 102
+PlayerID: 76561198429862658 Name: vadem_vvv Character: вадим чужа Ping: 68
+
+END
+END
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 28092892
+PlayerID: 76561198336969313
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 208125
+PlayerID: 76561198212486347
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 208456
+PlayerID: 76561198391097237
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 370943
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30973170
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30973186
+
+END
+END
+[World] arleta [Носок с ручкой]: "И что с ними делать?"
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [1802]
+
+[World] Тише Будь! [PogChamp]: "Копи ее"
+
+[World] Анальный мишка [boost_machina]: "б.игн 363"
+
+[World] Анальный мишка [boost_machina]: "/buy 363"
+
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198366717561 Name: MAXIMUSSSSSSS Character: MAXIMUSSSSSSS Ping: 24
+PlayerID: 76561198301131571 Name: PogChamp Character: Тише Будь! Ping: 223
+PlayerID: 76561198418285364 Name: Sseak CSGOBlocks.Com Character: Maks_Fenlyandno Ping: 199
+PlayerID: 76561198245870076 Name: 0|TheGangstar|0 Character: Nyan Bread Ping: 87
+PlayerID: 76561198114166100 Name: Silence Character: Владимир Пустовой Ping: 73
+PlayerID: 76561198197448591 Name: Носок с ручкой Character: arleta Ping: 140
+PlayerID: 76561198398244891 Name: глобал в кэс Character: килер 2000 Ping: 27
+PlayerID: 76561198358000300 Name: boost_machina Character: Анальный мишка Ping: 98
+PlayerID: 76561198429862658 Name: vadem_vvv Character: вадим чужа Ping: 73
+
+Client has executed command "bans"
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 28092872
+PlayerID: 76561198336969313
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 208105
+PlayerID: 76561198212486347
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 208436
+PlayerID: 76561198391097237
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 370923
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30973150
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30973166
+
+END
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [1812]
+
+END
+[World] Тише Будь! [PogChamp]: "И можешь покупать любые предметы и машины"
+
+[World] Анальный мишка [boost_machina]: ",/buy 363"
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [1822]
+
+MessageAnnouncer >> Broadcast: Посетите наш сайт. Вы будете удивлены! unturned.hemulgm.ru
+
+MessageAnnouncer >> Посетите наш сайт. Вы будете удивлены! unturned.hemulgm.ru
+
+[World] Тише Будь! [PogChamp]: "И вертолеты..."
+
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198366717561 Name: MAXIMUSSSSSSS Character: MAXIMUSSSSSSS Ping: 17
+PlayerID: 76561198301131571 Name: PogChamp Character: Тише Будь! Ping: 217
+PlayerID: 76561198418285364 Name: Sseak CSGOBlocks.Com Character: Maks_Fenlyandno Ping: 203
+PlayerID: 76561198245870076 Name: 0|TheGangstar|0 Character: Nyan Bread Ping: 82
+PlayerID: 76561198114166100 Name: Silence Character: Владимир Пустовой Ping: 76
+PlayerID: 76561198197448591 Name: Носок с ручкой Character: arleta Ping: 129
+PlayerID: 76561198398244891 Name: глобал в кэс Character: килер 2000 Ping: 38
+PlayerID: 76561198358000300 Name: boost_machina Character: Анальный мишка Ping: 120
+PlayerID: 76561198429862658 Name: vadem_vvv Character: вадим чужа Ping: 72
+
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 28092852
+PlayerID: 76561198336969313
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 208085
+PlayerID: 76561198212486347
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 208416
+PlayerID: 76561198391097237
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 370903
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30973130
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30973146
+
+END
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [1832]
+
+END
+[World] Тише Будь! [PogChamp]: "Подожди"
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [1842]
+

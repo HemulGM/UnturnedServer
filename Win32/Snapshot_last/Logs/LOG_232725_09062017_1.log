@@ -1,0 +1,33 @@
+Не обработано: RocketRcon v2.4.8.0
+RocketRcon v2.4.8.0
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198278360341 Name: AcademeG Character: AcademeG Ping: 82
+PlayerID: 76561198268161521 Name: DOMIK Character: Listiger_wolf2 Ping: 54
+PlayerID: 76561198391815543 Name: dinorendulic03 Character: dinorendulic03 Ping: 179
+PlayerID: 76561198326929390 Name: kuki Character: soliclukas Ping: 103
+PlayerID: 76561198282144710 Name: Max_Prom Character: Max_Prom Ping: 197
+PlayerID: 76561198152412351 Name: superCDHC Character: superCDHC Ping: 70
+PlayerID: 76561198349678079 Name: kuba_janiec Character: kuba_janiec Ping: 139
+PlayerID: 76561198254435217 Name: MKN Character: MKN Ping: 105
+
+TimerTerminateCommand.Enabled with Players:
+[World] superCDHC [superCDHC]: "/kit claim"
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294116160
+
+END with Bans:
+[Group] Max_Prom [Max_Prom]: "/kits"
+
+[World] Listiger_wolf2 [DOMIK]: "/kit hgm1"
+

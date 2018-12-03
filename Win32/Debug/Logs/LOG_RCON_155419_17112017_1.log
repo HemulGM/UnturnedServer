@@ -1,0 +1,3319 @@
+17.11.2017 15:54:20: RocketRcon v2.4.8.0
+
+17.11.2017 15:54:22: Client has executed command "players"
+Players:
+PlayerID: 76561198234232440 Name: FuSian Character: Fusian Ping: 61
+PlayerID: 76561198349888524 Name: Takeo Masaki Loot.farm cs.money Character: hotdog Ping: 28
+PlayerID: 76561198106869292 Name: roman146rus Character: roman146rus Ping: 52
+PlayerID: 76561198170498361 Name: _Nick_Hunter_ Character: Nick_Hunter[RUS] Ping: 139
+PlayerID: 76561198408019916 Name: slava.fan555 Character: Славик Cухоруков Ping: 108
+PlayerID: 76561198444494613 Name: vladkrigin Character: 666а Ping: 143
+
+17.11.2017 15:54:23: Client has executed command "bans"
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 28513115
+PlayerID: 76561198395511982
+JudgeID: 0
+Reason: 999999 Duration: 31536000 Remaining: 30067867
+PlayerID: 76561198331180787
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30416085
+PlayerID: 76561198172502147
+JudgeID: 76561198237123262
+Reason: 3600 Duration: 31536000 Remaining: 30419479
+PlayerID: 76561198331252339
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30431812
+PlayerID: 76561198434258763
+JudgeID: 0
+Reason: reid Duration: 608400 Remaining: 198359
+
+17.11.2017 15:54:23: END
+17.11.2017 15:54:23: Client has executed command "bans"
+
+17.11.2017 15:54:23: Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 28513115
+PlayerID: 76561198395511982
+JudgeID: 0
+Reason: 999999 Duration: 31536000 Remaining: 30067867
+PlayerID: 76561198331180787
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30416085
+PlayerID: 76561198172502147
+JudgeID: 76561198237123262
+Reason: 3600 Duration: 31536000 Remaining: 30419479
+PlayerID: 76561198331252339
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30431812
+PlayerID: 76561198434258763
+JudgeID: 0
+Reason: reid Duration: 608400 Remaining: 198359
+
+17.11.2017 15:54:23: END
+17.11.2017 15:54:25: END
+17.11.2017 15:54:26: Client has executed command "cchat "/35/15/19 /18/05/10/24/00/18 /14/00/16/09/25/09 /02/15/16/17/15/18" 255 0 0"
+
+17.11.2017 15:54:26: ServerControl >> Broadcast: Вот сейчас напиши вопрос
+
+17.11.2017 15:54:26: Не обработано: ServerControl >> Broadcast: Вот сейчас напиши вопрос
+17.11.2017 15:54:30: MessageAnnouncer >> Broadcast: vk.com/unturned_hgm - группа сервера ВК, уникальный кит в записи!
+
+17.11.2017 15:54:30: MessageAnnouncer >> vk.com/unturned_hgm - группа сервера ВК, уникальный кит в записи!
+
+17.11.2017 15:54:30: Client has executed command "cchat "/37/15/12/07/14/15 /18/11/00/14/00/19/29" 255 0 0"
+
+17.11.2017 15:54:30: ServerControl >> Broadcast: Должно сканать
+
+17.11.2017 15:54:30: Не обработано: ServerControl >> Broadcast: Должно сканать
+17.11.2017 15:54:33: [World] Nick_Hunter[RUS] [_Nick_Hunter_]: "какой айди бензопилы?"
+
+17.11.2017 15:54:33: Client has executed command "cchat "490" 255 0 0"
+
+17.11.2017 15:54:33: ServerControl >> Broadcast: 490
+
+17.11.2017 15:54:33: Не обработано: ServerControl >> Broadcast: 490
+17.11.2017 15:54:38: Client has executed command "players"
+
+17.11.2017 15:54:38: Players:
+PlayerID: 76561198234232440 Name: FuSian Character: Fusian Ping: 67
+PlayerID: 76561198349888524 Name: Takeo Masaki Loot.farm cs.money Character: hotdog Ping: 23
+PlayerID: 76561198106869292 Name: roman146rus Character: roman146rus Ping: 48
+PlayerID: 76561198170498361 Name: _Nick_Hunter_ Character: Nick_Hunter[RUS] Ping: 132
+PlayerID: 76561198408019916 Name: slava.fan555 Character: Славик Cухоруков Ping: 91
+PlayerID: 76561198444494613 Name: vladkrigin Character: 666а Ping: 123
+
+17.11.2017 15:54:38: Client has executed command "cchat "=))))))" 255 0 0"
+
+17.11.2017 15:54:38: ServerControl >> Broadcast: =))))))
+
+17.11.2017 15:54:38: Не обработано: ServerControl >> Broadcast: =))))))
+17.11.2017 15:54:40: Client has executed command "bans"
+
+17.11.2017 15:54:40: Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 28513098
+PlayerID: 76561198395511982
+JudgeID: 0
+Reason: 999999 Duration: 31536000 Remaining: 30067850
+PlayerID: 76561198331180787
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30416068
+PlayerID: 76561198172502147
+JudgeID: 76561198237123262
+Reason: 3600 Duration: 31536000 Remaining: 30419462
+PlayerID: 76561198331252339
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30431795
+PlayerID: 76561198434258763
+JudgeID: 0
+Reason: reid Duration: 608400 Remaining: 198342
+
+17.11.2017 15:54:40: END
+17.11.2017 15:54:40: Client has executed command "bans"
+
+17.11.2017 15:54:40: Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 28513097
+PlayerID: 76561198395511982
+JudgeID: 0
+Reason: 999999 Duration: 31536000 Remaining: 30067849
+PlayerID: 76561198331180787
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30416067
+PlayerID: 76561198172502147
+JudgeID: 76561198237123262
+Reason: 3600 Duration: 31536000 Remaining: 30419461
+PlayerID: 76561198331252339
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30431794
+PlayerID: 76561198434258763
+JudgeID: 0
+Reason: reid Duration: 608400 Remaining: 198341
+
+17.11.2017 15:54:40: END
+17.11.2017 15:54:41: END
+17.11.2017 15:54:51: Connecting: PlayerID: 76561198423084997 Name: lovemariina Character: Rendy
+
+17.11.2017 15:54:51: Rendy connected with IP 212.19.13.28
+
+17.11.2017 15:54:53: Client has executed command "cchat "/38/05/05" 255 0 0"
+
+17.11.2017 15:54:53: ServerControl >> Broadcast: Еее
+
+17.11.2017 15:54:53: Не обработано: ServerControl >> Broadcast: Еее
+17.11.2017 15:54:55: Client has executed command "cchat "/50/15/01/09/19" 255 0 0"
+
+17.11.2017 15:54:56: ServerControl >> Broadcast: Робит
+
+17.11.2017 15:54:56: Не обработано: ServerControl >> Broadcast: Робит
+17.11.2017 15:54:58: Client has executed command "players"
+
+17.11.2017 15:54:58: Players:
+PlayerID: 76561198234232440 Name: FuSian Character: Fusian Ping: 74
+PlayerID: 76561198349888524 Name: Takeo Masaki Loot.farm cs.money Character: hotdog Ping: 31
+PlayerID: 76561198106869292 Name: roman146rus Character: roman146rus Ping: 57
+PlayerID: 76561198170498361 Name: _Nick_Hunter_ Character: Nick_Hunter[RUS] Ping: 142
+PlayerID: 76561198408019916 Name: slava.fan555 Character: Славик Cухоруков Ping: 94
+PlayerID: 76561198444494613 Name: vladkrigin Character: 666а Ping: 139
+PlayerID: 76561198423084997 Name: lovemariina Character: Rendy Ping: 388
+
+17.11.2017 15:54:59: [World] roman146rus [roman146rus]: "это теперь по всему работает?"
+
+17.11.2017 15:55:01: END
+17.11.2017 15:55:01: Client has executed command "bans"
+
+17.11.2017 15:55:01: Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 28513076
+PlayerID: 76561198395511982
+JudgeID: 0
+Reason: 999999 Duration: 31536000 Remaining: 30067828
+PlayerID: 76561198331180787
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30416046
+PlayerID: 76561198172502147
+JudgeID: 76561198237123262
+Reason: 3600 Duration: 31536000 Remaining: 30419440
+PlayerID: 76561198331252339
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30431773
+PlayerID: 76561198434258763
+JudgeID: 0
+Reason: reid Duration: 608400 Remaining: 198320
+Client has executed command "bans"
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 28513076
+PlayerID: 76561198395511982
+JudgeID: 0
+Reason: 999999 Duration: 31536000 Remaining: 30067828
+PlayerID: 76561198331180787
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30416046
+PlayerID: 76561198172502147
+JudgeID: 76561198237123262
+Reason: 3600 Duration: 31536000 Remaining: 30419440
+PlayerID: 76561198331252339
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30431773
+PlayerID: 76561198434258763
+JudgeID: 0
+Reason: reid Duration: 608400 Remaining: 198320
+
+17.11.2017 15:55:01: END
+17.11.2017 15:55:02: END
+17.11.2017 15:55:03: Client has executed command "cchat "/47/05/19 /05/26/06" 255 0 0"
+
+17.11.2017 15:55:03: ServerControl >> Broadcast: Нет ещё
+
+17.11.2017 15:55:03: Не обработано: ServerControl >> Broadcast: Нет ещё
+17.11.2017 15:55:08: Client has executed command "cchat "/52/48/12/29/11/15 /01/05/14/08/15/16/09/12/00, /04/12/32 /16/17/09/13/05/17/00" 255 0 0"
+
+17.11.2017 15:55:08: ServerControl >> Broadcast: ТОлько бензопила, для примера
+
+17.11.2017 15:55:08: Не обработано: ServerControl >> Broadcast: ТОлько бензопила, для примера
+17.11.2017 15:55:18: Client has executed command "players"
+
+17.11.2017 15:55:18: Players:
+PlayerID: 76561198234232440 Name: FuSian Character: Fusian Ping: 69
+PlayerID: 76561198349888524 Name: Takeo Masaki Loot.farm cs.money Character: hotdog Ping: 29
+PlayerID: 76561198106869292 Name: roman146rus Character: roman146rus Ping: 76
+PlayerID: 76561198170498361 Name: _Nick_Hunter_ Character: Nick_Hunter[RUS] Ping: 134
+PlayerID: 76561198408019916 Name: slava.fan555 Character: Славик Cухоруков Ping: 83
+PlayerID: 76561198444494613 Name: vladkrigin Character: 666а Ping: 157
+PlayerID: 76561198423084997 Name: lovemariina Character: Rendy Ping: 142
+
+17.11.2017 15:55:19: Client has executed command "bans"
+
+17.11.2017 15:55:19: Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 28513058
+PlayerID: 76561198395511982
+JudgeID: 0
+Reason: 999999 Duration: 31536000 Remaining: 30067810
+PlayerID: 76561198331180787
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30416028
+PlayerID: 76561198172502147
+
+17.11.2017 15:55:19: END
+17.11.2017 15:55:19: JudgeID: 76561198237123262
+Reason: 3600 Duration: 31536000 Remaining: 30419422
+PlayerID: 76561198331252339
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30431755
+PlayerID: 76561198434258763
+JudgeID: 0
+Reason: reid Duration: 608400 Remaining: 198302
+
+17.11.2017 15:55:19: Client has executed command "bans"
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 28513058
+PlayerID: 76561198395511982
+JudgeID: 0
+Reason: 999999 Duration: 31536000 Remaining: 30067810
+PlayerID: 76561198331180787
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30416028
+PlayerID: 76561198172502147
+JudgeID: 76561198237123262
+Reason: 3600 Duration: 31536000 Remaining: 30419422
+PlayerID: 76561198331252339
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30431755
+PlayerID: 76561198434258763
+JudgeID: 0
+Reason: reid Duration: 608400 Remaining: 198302
+
+17.11.2017 15:55:19: END
+17.11.2017 15:55:21: END
+17.11.2017 15:55:27: [World] roman146rus [roman146rus]: "классно"
+
+17.11.2017 15:55:30: MessageAnnouncer >> Broadcast: Посетите наш сайт. Вы будете удивлены! unturned.hemulgm.ru
+
+17.11.2017 15:55:30: MessageAnnouncer >> Посетите наш сайт. Вы будете удивлены! unturned.hemulgm.ru
+
+17.11.2017 15:55:38: Client has executed command "players"
+Players:
+PlayerID: 76561198234232440 Name: FuSian Character: Fusian Ping: 69
+PlayerID: 76561198349888524 Name: Takeo Masaki Loot.farm cs.money Character: hotdog Ping: 31
+PlayerID: 76561198106869292 Name: roman146rus Character: roman146rus Ping: 62
+PlayerID: 76561198170498361 Name: _Nick_Hunter_ Character: Nick_Hunter[RUS] Ping: 163
+PlayerID: 76561198408019916 Name: slava.fan555 Character: Славик Cухоруков Ping: 81
+PlayerID: 76561198444494613 Name: vladkrigin Character: 666а Ping: 172
+PlayerID: 76561198423084997 Name: lovemariina Character: Rendy Ping: 149
+
+17.11.2017 15:55:39: Client has executed command "bans"
+
+17.11.2017 15:55:39: Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 28513038
+PlayerID: 76561198395511982
+JudgeID: 0
+Reason: 999999 Duration: 31536000 Remaining: 30067790
+PlayerID: 76561198331180787
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30416008
+PlayerID: 76561198172502147
+JudgeID: 76561198237123262
+Reason: 3600 Duration: 31536000 Remaining: 30419402
+PlayerID: 76561198331252339
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30431735
+PlayerID: 76561198434258763
+JudgeID: 0
+Reason: reid Duration: 608400 Remaining: 198282
+
+17.11.2017 15:55:39: END
+17.11.2017 15:55:39: Client has executed command "bans"
+
+17.11.2017 15:55:39: Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 28513038
+PlayerID: 76561198395511982
+JudgeID: 0
+Reason: 999999 Duration: 31536000 Remaining: 30067790
+PlayerID: 76561198331180787
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30416008
+PlayerID: 76561198172502147
+JudgeID: 76561198237123262
+Reason: 3600 Duration: 31536000 Remaining: 30419402
+PlayerID: 76561198331252339
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30431735
+PlayerID: 76561198434258763
+JudgeID: 0
+Reason: reid Duration: 608400 Remaining: 198282
+
+17.11.2017 15:55:39: END
+17.11.2017 15:55:41: END
+17.11.2017 15:55:42: Client has executed command "cchat "/13/15/07/14/15 /05/26/06 /14/00/16/09/18/00/19/29 /16/17/15/18/19/15: /09/04 /01/05/14/08/15/16/09/12/28" 255 0 0"
+
+17.11.2017 15:55:42: ServerControl >> Broadcast: можно ещё написать просто: ид бензопилы
+
+17.11.2017 15:55:42: Не обработано: ServerControl >> Broadcast: можно ещё написать просто: ид бензопилы
+17.11.2017 15:55:51: [World] Nick_Hunter[RUS] [_Nick_Hunter_]: "а мне показалось что ты айди написал 490  что эту цифру он должен сказать"
+
+17.11.2017 15:55:58: Client has executed command "players"
+
+17.11.2017 15:55:58: Players:
+PlayerID: 76561198234232440 Name: FuSian Character: Fusian Ping: 74
+PlayerID: 76561198349888524 Name: Takeo Masaki Loot.farm cs.money Character: hotdog Ping: 25
+PlayerID: 76561198106869292 Name: roman146rus Character: roman146rus Ping: 58
+PlayerID: 76561198170498361 Name: _Nick_Hunter_ Character: Nick_Hunter[RUS] Ping: 131
+PlayerID: 76561198408019916 Name: slava.fan555 Character: Славик Cухоруков Ping: 107
+PlayerID: 76561198444494613 Name: vladkrigin Character: 666а Ping: 121
+PlayerID: 76561198423084997 Name: lovemariina Character: Rendy Ping: 173
+
+17.11.2017 15:55:59: [World] Nick_Hunter[RUS] [_Nick_Hunter_]: "ид бензопилы"
+
+17.11.2017 15:55:59: Client has executed command "cchat "490" 255 0 0"
+
+17.11.2017 15:55:59: ServerControl >> Broadcast: 490
+
+17.11.2017 15:55:59: Не обработано: ServerControl >> Broadcast: 490
+17.11.2017 15:56:00: END
+17.11.2017 15:56:00: Client has executed command "bans"
+
+17.11.2017 15:56:00: Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 28513017
+PlayerID: 76561198395511982
+JudgeID: 0
+Reason: 999999 Duration: 31536000 Remaining: 30067769
+PlayerID: 76561198331180787
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30415987
+PlayerID: 76561198172502147
+JudgeID: 76561198237123262
+Reason: 3600 Duration: 31536000 Remaining: 30419381
+PlayerID: 76561198331252339
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30431714
+PlayerID: 76561198434258763
+JudgeID: 0
+Reason: reid Duration: 608400 Remaining: 198261
+
+17.11.2017 15:56:00: Client has executed command "bans"
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 28513017
+PlayerID: 76561198395511982
+JudgeID: 0
+Reason: 999999 Duration: 31536000 Remaining: 30067769
+PlayerID: 76561198331180787
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30415987
+PlayerID: 76561198172502147
+JudgeID: 76561198237123262
+Reason: 3600 Duration: 31536000 Remaining: 30419381
+PlayerID: 76561198331252339
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30431714
+PlayerID: 76561198434258763
+JudgeID: 0
+Reason: reid Duration: 608400 Remaining: 198261
+
+17.11.2017 15:56:00: END
+17.11.2017 15:56:02: END
+17.11.2017 15:56:04: [World] Nick_Hunter[RUS] [_Nick_Hunter_]: "а все робит"
+
+17.11.2017 15:56:15: Client has executed command "cchat "=)" 255 0 0"
+
+17.11.2017 15:56:15: ServerControl >> Broadcast: =)
+
+17.11.2017 15:56:15: Не обработано: ServerControl >> Broadcast: =)
+17.11.2017 15:56:18: Client has executed command "players"
+
+17.11.2017 15:56:18: Players:
+PlayerID: 76561198234232440 Name: FuSian Character: Fusian Ping: 62
+PlayerID: 76561198349888524 Name: Takeo Masaki Loot.farm cs.money Character: hotdog Ping: 34
+PlayerID: 76561198106869292 Name: roman146rus Character: roman146rus Ping: 55
+PlayerID: 76561198170498361 Name: _Nick_Hunter_ Character: Nick_Hunter[RUS] Ping: 123
+PlayerID: 76561198408019916 Name: slava.fan555 Character: Славик Cухоруков Ping: 101
+PlayerID: 76561198444494613 Name: vladkrigin Character: 666а Ping: 128
+PlayerID: 76561198423084997 Name: lovemariina Character: Rendy Ping: 144
+
+17.11.2017 15:56:19: Client has executed command "bans"
+
+17.11.2017 15:56:19: Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 28512998
+PlayerID: 76561198395511982
+JudgeID: 0
+Reason: 999999 Duration: 31536000 Remaining: 30067750
+PlayerID: 76561198331180787
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30415968
+PlayerID: 76561198172502147
+JudgeID: 76561198237123262
+Reason: 3600 Duration: 31536000 Remaining: 30419362
+PlayerID: 76561198331252339
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30431695
+PlayerID: 76561198434258763
+JudgeID: 0
+Reason: reid Duration: 608400 Remaining: 198242
+
+17.11.2017 15:56:19: END
+17.11.2017 15:56:19: Client has executed command "bans"
+
+17.11.2017 15:56:19: Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 28512998
+PlayerID: 76561198395511982
+JudgeID: 0
+Reason: 999999 Duration: 31536000 Remaining: 30067750
+PlayerID: 76561198331180787
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30415968
+PlayerID: 76561198172502147
+JudgeID: 76561198237123262
+Reason: 3600 Duration: 31536000 Remaining: 30419362
+PlayerID: 76561198331252339
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30431695
+PlayerID: 76561198434258763
+JudgeID: 0
+Reason: reid Duration: 608400 Remaining: 198242
+
+17.11.2017 15:56:19: END
+17.11.2017 15:56:21: END
+17.11.2017 15:56:30: MessageAnnouncer >> Broadcast: Наберите /kit help, чтобы получить первую мед. помощь (бинты, таблетки, еда)
+
+17.11.2017 15:56:30: MessageAnnouncer >> Наберите /kit help, чтобы получить первую мед. помощь (бинты, таблетки, еда)
+
+17.11.2017 15:56:35: Client has executed command "cchat "/65 /04/15/01/00/02/12/31 /14/00/09/01/15/12/05/05 /17/00/18/16/17/15/18/19/17/00/14/06/14/14/28/05" 255 0 0"
+
+17.11.2017 15:56:35: ServerControl >> Broadcast: Я добавлю наиболее распространённые
+
+17.11.2017 15:56:35: Не обработано: ServerControl >> Broadcast: Я добавлю наиболее распространённые
+17.11.2017 15:56:38: Client has executed command "players"
+
+17.11.2017 15:56:38: Players:
+PlayerID: 76561198234232440 Name: FuSian Character: Fusian Ping: 69
+PlayerID: 76561198349888524 Name: Takeo Masaki Loot.farm cs.money Character: hotdog Ping: 30
+PlayerID: 76561198106869292 Name: roman146rus Character: roman146rus Ping: 46
+PlayerID: 76561198170498361 Name: _Nick_Hunter_ Character: Nick_Hunter[RUS] Ping: 136
+PlayerID: 76561198408019916 Name: slava.fan555 Character: Славик Cухоруков Ping: 95
+PlayerID: 76561198444494613 Name: vladkrigin Character: 666а Ping: 133
+PlayerID: 76561198423084997 Name: lovemariina Character: Rendy Ping: 152
+
+17.11.2017 15:56:39: Client has executed command "bans"
+
+17.11.2017 15:56:39: Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 28512978
+PlayerID: 76561198395511982
+JudgeID: 0
+Reason: 999999 Duration: 31536000 Remaining: 30067730
+PlayerID: 76561198331180787
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30415948
+PlayerID: 76561198172502147
+JudgeID: 76561198237123262
+Reason: 3600 Duration: 31536000 Remaining: 30419342
+PlayerID: 76561198331252339
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30431675
+PlayerID: 76561198434258763
+JudgeID: 0
+Reason: reid Duration: 608400 Remaining: 198222
+
+17.11.2017 15:56:39: END
+17.11.2017 15:56:39: Client has executed command "bans"
+
+17.11.2017 15:56:39: Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 28512978
+PlayerID: 76561198395511982
+JudgeID: 0
+Reason: 999999 Duration: 31536000 Remaining: 30067730
+PlayerID: 76561198331180787
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30415948
+PlayerID: 76561198172502147
+JudgeID: 76561198237123262
+Reason: 3600 Duration: 31536000 Remaining: 30419342
+PlayerID: 76561198331252339
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30431675
+PlayerID: 76561198434258763
+JudgeID: 0
+Reason: reid Duration: 608400 Remaining: 198222
+
+17.11.2017 15:56:39: END
+17.11.2017 15:56:41: END
+17.11.2017 15:56:41: Client has executed command "cchat "/33 /19/15 /04/15/22/05/17/00" 255 0 0"
+
+17.11.2017 15:56:41: ServerControl >> Broadcast: А то дохера
+
+17.11.2017 15:56:41: Не обработано: ServerControl >> Broadcast: А то дохера
+17.11.2017 15:56:50: [World] Славик Cухоруков [slava.fan555]: "как у меня клава не работала"
+
+17.11.2017 15:56:58: Client has executed command "players"
+
+17.11.2017 15:56:58: Players:
+PlayerID: 76561198234232440 Name: FuSian Character: Fusian Ping: 69
+PlayerID: 76561198349888524 Name: Takeo Masaki Loot.farm cs.money Character: hotdog Ping: 25
+PlayerID: 76561198106869292 Name: roman146rus Character: roman146rus Ping: 52
+PlayerID: 76561198170498361 Name: _Nick_Hunter_ Character: Nick_Hunter[RUS] Ping: 124
+PlayerID: 76561198408019916 Name: slava.fan555 Character: Славик Cухоруков Ping: 81
+PlayerID: 76561198444494613 Name: vladkrigin Character: 666а Ping: 127
+PlayerID: 76561198423084997 Name: lovemariina Character: Rendy Ping: 140
+
+17.11.2017 15:56:59: Client has executed command "bans"
+
+17.11.2017 15:56:59: Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 28512958
+PlayerID: 76561198395511982
+JudgeID: 0
+Reason: 999999 Duration: 31536000 Remaining: 30067710
+PlayerID: 76561198331180787
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30415928
+PlayerID: 76561198172502147
+JudgeID: 76561198237123262
+Reason: 3600 Duration: 31536000 Remaining: 30419322
+PlayerID: 76561198331252339
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30431655
+PlayerID: 76561198434258763
+JudgeID: 0
+Reason: reid Duration: 608400 Remaining: 198202
+
+17.11.2017 15:56:59: END
+17.11.2017 15:56:59: Client has executed command "bans"
+
+17.11.2017 15:56:59: Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 28512958
+PlayerID: 76561198395511982
+JudgeID: 0
+Reason: 999999 Duration: 31536000 Remaining: 30067710
+PlayerID: 76561198331180787
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30415928
+PlayerID: 76561198172502147
+JudgeID: 76561198237123262
+Reason: 3600 Duration: 31536000 Remaining: 30419322
+PlayerID: 76561198331252339
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30431655
+PlayerID: 76561198434258763
+JudgeID: 0
+Reason: reid Duration: 608400 Remaining: 198202
+
+17.11.2017 15:56:59: END
+17.11.2017 15:57:01: END
+17.11.2017 15:57:18: Client has executed command "players"
+
+17.11.2017 15:57:18: Players:
+PlayerID: 76561198234232440 Name: FuSian Character: Fusian Ping: 73
+PlayerID: 76561198349888524 Name: Takeo Masaki Loot.farm cs.money Character: hotdog Ping: 33
+PlayerID: 76561198106869292 Name: roman146rus Character: roman146rus Ping: 55
+PlayerID: 76561198170498361 Name: _Nick_Hunter_ Character: Nick_Hunter[RUS] Ping: 130
+PlayerID: 76561198408019916 Name: slava.fan555 Character: Славик Cухоруков Ping: 99
+PlayerID: 76561198444494613 Name: vladkrigin Character: 666а Ping: 129
+PlayerID: 76561198423084997 Name: lovemariina Character: Rendy Ping: 139
+
+17.11.2017 15:57:19: Client has executed command "bans"
+
+17.11.2017 15:57:19: Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 28512938
+PlayerID: 76561198395511982
+JudgeID: 0
+Reason: 999999 Duration: 31536000 Remaining: 30067690
+PlayerID: 76561198331180787
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30415908
+PlayerID: 76561198172502147
+JudgeID: 76561198237123262
+Reason: 3600 Duration: 31536000 Remaining: 30419302
+PlayerID: 76561198331252339
+
+17.11.2017 15:57:19: END
+17.11.2017 15:57:19: JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30431635
+PlayerID: 76561198434258763
+JudgeID: 0
+Reason: reid Duration: 608400 Remaining: 198182
+
+17.11.2017 15:57:19: Client has executed command "bans"
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 28512938
+PlayerID: 76561198395511982
+JudgeID: 0
+Reason: 999999 Duration: 31536000 Remaining: 30067690
+PlayerID: 76561198331180787
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30415908
+PlayerID: 76561198172502147
+JudgeID: 76561198237123262
+Reason: 3600 Duration: 31536000 Remaining: 30419302
+PlayerID: 76561198331252339
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30431635
+PlayerID: 76561198434258763
+JudgeID: 0
+Reason: reid Duration: 608400 Remaining: 198182
+
+17.11.2017 15:57:19: END
+17.11.2017 15:57:21: END
+17.11.2017 15:57:22: Client has executed command "cchat "/19/09/16/00 /09/04 /03/15/17/05/12/11/09, /11/00/14/09/18/19/17/28" 255 0 0"
+
+17.11.2017 15:57:22: ServerControl >> Broadcast: типа ид горелки, канистры
+
+17.11.2017 15:57:22: Не обработано: ServerControl >> Broadcast: типа ид горелки, канистры
+17.11.2017 15:57:27: Client has executed command "cchat "/44/15/03/04/00 /00/09/17/04/17/15/16" 255 0 0"
+
+17.11.2017 15:57:27: ServerControl >> Broadcast: Когда аирдроп
+
+17.11.2017 15:57:27: Не обработано: ServerControl >> Broadcast: Когда аирдроп
+17.11.2017 15:57:30: MessageAnnouncer >> Broadcast: vk.com/unturned_hgm - цены на премиум, VIP и другие услуги смотрите в группе!
+
+17.11.2017 15:57:30: MessageAnnouncer >> vk.com/unturned_hgm - цены на премиум, VIP и другие услуги смотрите в группе!
+
+17.11.2017 15:57:33: Client has executed command "cchat "/42/12/09 /09/08/12/05/24/05/14/09/05" 255 0 0"
+
+17.11.2017 15:57:33: ServerControl >> Broadcast: Или излечение
+
+17.11.2017 15:57:33: Не обработано: ServerControl >> Broadcast: Или излечение
+17.11.2017 15:57:37: [World] Nick_Hunter[RUS] [_Nick_Hunter_]: "через минут 5"
+
+17.11.2017 15:57:38: Client has executed command "players"
+
+17.11.2017 15:57:38: Players:
+PlayerID: 76561198234232440 Name: FuSian Character: Fusian Ping: 55
+PlayerID: 76561198349888524 Name: Takeo Masaki Loot.farm cs.money Character: hotdog Ping: 35
+PlayerID: 76561198106869292 Name: roman146rus Character: roman146rus Ping: 56
+PlayerID: 76561198170498361 Name: _Nick_Hunter_ Character: Nick_Hunter[RUS] Ping: 141
+PlayerID: 76561198408019916 Name: slava.fan555 Character: Славик Cухоруков Ping: 83
+PlayerID: 76561198444494613 Name: vladkrigin Character: 666а Ping: 125
+PlayerID: 76561198423084997 Name: lovemariina Character: Rendy Ping: 135
+
+17.11.2017 15:57:39: Client has executed command "bans"
+
+17.11.2017 15:57:39: Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 28512918
+PlayerID: 76561198395511982
+JudgeID: 0
+Reason: 999999 Duration: 31536000 Remaining: 30067670
+PlayerID: 76561198331180787
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30415888
+PlayerID: 76561198172502147
+JudgeID: 76561198237123262
+Reason: 3600 Duration: 31536000 Remaining: 30419282
+PlayerID: 76561198331252339
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30431615
+PlayerID: 76561198434258763
+JudgeID: 0
+Reason: reid Duration: 608400 Remaining: 198162
+
+17.11.2017 15:57:39: END
+17.11.2017 15:57:39: Client has executed command "bans"
+
+17.11.2017 15:57:39: Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 28512918
+PlayerID: 76561198395511982
+JudgeID: 0
+Reason: 999999 Duration: 31536000 Remaining: 30067670
+PlayerID: 76561198331180787
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30415888
+PlayerID: 76561198172502147
+JudgeID: 76561198237123262
+Reason: 3600 Duration: 31536000 Remaining: 30419282
+PlayerID: 76561198331252339
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30431615
+PlayerID: 76561198434258763
+JudgeID: 0
+Reason: reid Duration: 608400 Remaining: 198162
+
+17.11.2017 15:57:39: END
+17.11.2017 15:57:41: END
+17.11.2017 15:57:43: Client has executed command "cchat "/63/19 /14/05 /02/15/16/17/15/18)" 255 0 0"
+
+17.11.2017 15:57:43: ServerControl >> Broadcast: Эт не вопрос)
+
+17.11.2017 15:57:43: Не обработано: ServerControl >> Broadcast: Эт не вопрос)
+17.11.2017 15:57:54: Client has executed command "cchat "/63/19 /11/15/14/18/15/12/29 /01/20/04/05/19 /15/19/02/05/24/00/19/29, /05/18/12/09 /18/16/17/15/18/32/19" 255 0 0"
+
+17.11.2017 15:57:54: ServerControl >> Broadcast: Эт консоль будет отвечать, если спросят
+
+17.11.2017 15:57:54: Не обработано: ServerControl >> Broadcast: Эт консоль будет отвечать, если спросят
+17.11.2017 15:57:58: Client has executed command "players"
+
+17.11.2017 15:57:58: Players:
+PlayerID: 76561198234232440 Name: FuSian Character: Fusian Ping: 70
+PlayerID: 76561198349888524 Name: Takeo Masaki Loot.farm cs.money Character: hotdog Ping: 33
+PlayerID: 76561198106869292 Name: roman146rus Character: roman146rus Ping: 56
+PlayerID: 76561198170498361 Name: _Nick_Hunter_ Character: Nick_Hunter[RUS] Ping: 138
+PlayerID: 76561198408019916 Name: slava.fan555 Character: Славик Cухоруков Ping: 96
+PlayerID: 76561198444494613 Name: vladkrigin Character: 666а Ping: 204
+PlayerID: 76561198423084997 Name: lovemariina Character: Rendy Ping: 158
+
+17.11.2017 15:57:59: Client has executed command "bans"
+
+17.11.2017 15:57:59: Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 28512898
+PlayerID: 76561198395511982
+JudgeID: 0
+Reason: 999999 Duration: 31536000 Remaining: 30067650
+PlayerID: 76561198331180787
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30415868
+PlayerID: 76561198172502147
+JudgeID: 76561198237123262
+Reason: 3600 Duration: 31536000 Remaining: 30419262
+PlayerID: 76561198331252339
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30431595
+PlayerID: 76561198434258763
+JudgeID: 0
+Reason: reid Duration: 608400 Remaining: 198142
+
+17.11.2017 15:57:59: END
+17.11.2017 15:57:59: Client has executed command "bans"
+
+17.11.2017 15:57:59: Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 28512898
+PlayerID: 76561198395511982
+JudgeID: 0
+Reason: 999999 Duration: 31536000 Remaining: 30067650
+PlayerID: 76561198331180787
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30415868
+PlayerID: 76561198172502147
+JudgeID: 76561198237123262
+Reason: 3600 Duration: 31536000 Remaining: 30419262
+PlayerID: 76561198331252339
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30431595
+PlayerID: 76561198434258763
+JudgeID: 0
+Reason: reid Duration: 608400 Remaining: 198142
+
+17.11.2017 15:57:59: END
+17.11.2017 15:58:01: END
+17.11.2017 15:58:07: Rendy moved x:-288.2886 y:54.89536(+16.218) z:-342.8625 in the last second (0.1000023)
+
+17.11.2017 15:58:07: Не обработано: Rendy moved x:-288.2886 y:54.89536(+16.218) z:-342.8625 in the last second (0.1000023)
+17.11.2017 15:58:16: [World] Nick_Hunter[RUS] [_Nick_Hunter_]: "много мебели перетаскивать"
+
+17.11.2017 15:58:18: Client has executed command "players"
+
+17.11.2017 15:58:18: Players:
+PlayerID: 76561198234232440 Name: FuSian Character: Fusian Ping: 73
+PlayerID: 76561198349888524 Name: Takeo Masaki Loot.farm cs.money Character: hotdog Ping: 36
+PlayerID: 76561198106869292 Name: roman146rus Character: roman146rus Ping: 61
+PlayerID: 76561198170498361 Name: _Nick_Hunter_ Character: Nick_Hunter[RUS] Ping: 132
+PlayerID: 76561198408019916 Name: slava.fan555 Character: Славик Cухоруков Ping: 77
+PlayerID: 76561198444494613 Name: vladkrigin Character: 666а Ping: 179
+PlayerID: 76561198423084997 Name: lovemariina Character: Rendy Ping: 141
+
+17.11.2017 15:58:19: Client has executed command "bans"
+
+17.11.2017 15:58:19: Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 28512878
+PlayerID: 76561198395511982
+JudgeID: 0
+Reason: 999999 Duration: 31536000 Remaining: 30067630
+PlayerID: 76561198331180787
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30415848
+PlayerID: 76561198172502147
+JudgeID: 76561198237123262
+Reason: 3600 Duration: 31536000 Remaining: 30419242
+PlayerID: 76561198331252339
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30431575
+PlayerID: 76561198434258763
+JudgeID: 0
+Reason: reid Duration: 608400 Remaining: 198122
+
+17.11.2017 15:58:19: END
+17.11.2017 15:58:19: Client has executed command "bans"
+
+17.11.2017 15:58:19: Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 28512878
+PlayerID: 76561198395511982
+JudgeID: 0
+Reason: 999999 Duration: 31536000 Remaining: 30067630
+PlayerID: 76561198331180787
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30415848
+PlayerID: 76561198172502147
+JudgeID: 76561198237123262
+Reason: 3600 Duration: 31536000 Remaining: 30419242
+PlayerID: 76561198331252339
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30431575
+PlayerID: 76561198434258763
+JudgeID: 0
+Reason: reid Duration: 608400 Remaining: 198122
+
+17.11.2017 15:58:19: END
+17.11.2017 15:58:21: END
+17.11.2017 15:58:30: MessageAnnouncer >> Broadcast: Наберите /kit claim, чтобы получить Claim Flag
+
+17.11.2017 15:58:30: MessageAnnouncer >> Наберите /kit claim, чтобы получить Claim Flag
+
+17.11.2017 15:58:38: Client has executed command "players"
+
+17.11.2017 15:58:38: Players:
+PlayerID: 76561198234232440 Name: FuSian Character: Fusian Ping: 71
+PlayerID: 76561198349888524 Name: Takeo Masaki Loot.farm cs.money Character: hotdog Ping: 26
+PlayerID: 76561198106869292 Name: roman146rus Character: roman146rus Ping: 50
+PlayerID: 76561198170498361 Name: _Nick_Hunter_ Character: Nick_Hunter[RUS] Ping: 131
+PlayerID: 76561198408019916 Name: slava.fan555 Character: Славик Cухоруков Ping: 88
+PlayerID: 76561198444494613 Name: vladkrigin Character: 666а Ping: 138
+PlayerID: 76561198423084997 Name: lovemariina Character: Rendy Ping: 148
+
+17.11.2017 15:58:39: Client has executed command "bans"
+
+17.11.2017 15:58:39: Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 28512858
+PlayerID: 76561198395511982
+JudgeID: 0
+Reason: 999999 Duration: 31536000 Remaining: 30067610
+PlayerID: 76561198331180787
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30415828
+PlayerID: 76561198172502147
+JudgeID: 76561198237123262
+Reason: 3600 Duration: 31536000 Remaining: 30419222
+PlayerID: 76561198331252339
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30431555
+PlayerID: 76561198434258763
+JudgeID: 0
+Reason: reid Duration: 608400 Remaining: 198102
+
+17.11.2017 15:58:39: END
+17.11.2017 15:58:39: Client has executed command "bans"
+
+17.11.2017 15:58:39: Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 28512858
+PlayerID: 76561198395511982
+JudgeID: 0
+Reason: 999999 Duration: 31536000 Remaining: 30067610
+PlayerID: 76561198331180787
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30415828
+PlayerID: 76561198172502147
+JudgeID: 76561198237123262
+Reason: 3600 Duration: 31536000 Remaining: 30419222
+PlayerID: 76561198331252339
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30431555
+PlayerID: 76561198434258763
+JudgeID: 0
+Reason: reid Duration: 608400 Remaining: 198102
+
+17.11.2017 15:58:39: END
+17.11.2017 15:58:41: END
+17.11.2017 15:58:58: Client has executed command "players"
+
+17.11.2017 15:58:58: Players:
+PlayerID: 76561198234232440 Name: FuSian Character: Fusian Ping: 72
+PlayerID: 76561198349888524 Name: Takeo Masaki Loot.farm cs.money Character: hotdog Ping: 28
+PlayerID: 76561198106869292 Name: roman146rus Character: roman146rus Ping: 46
+PlayerID: 76561198170498361 Name: _Nick_Hunter_ Character: Nick_Hunter[RUS] Ping: 130
+PlayerID: 76561198408019916 Name: slava.fan555 Character: Славик Cухоруков Ping: 83
+PlayerID: 76561198444494613 Name: vladkrigin Character: 666а Ping: 134
+PlayerID: 76561198423084997 Name: lovemariina Character: Rendy Ping: 140
+
+17.11.2017 15:58:59: Client has executed command "bans"
+
+17.11.2017 15:58:59: Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 28512838
+PlayerID: 76561198395511982
+JudgeID: 0
+Reason: 999999 Duration: 31536000 Remaining: 30067590
+PlayerID: 76561198331180787
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30415808
+PlayerID: 76561198172502147
+JudgeID: 76561198237123262
+Reason: 3600 Duration: 31536000 Remaining: 30419202
+PlayerID: 76561198331252339
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30431535
+PlayerID: 76561198434258763
+JudgeID: 0
+Reason: reid Duration: 608400 Remaining: 198082
+
+17.11.2017 15:58:59: END
+17.11.2017 15:58:59: Client has executed command "bans"
+
+17.11.2017 15:58:59: Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 28512838
+PlayerID: 76561198395511982
+JudgeID: 0
+Reason: 999999 Duration: 31536000 Remaining: 30067590
+PlayerID: 76561198331180787
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30415808
+PlayerID: 76561198172502147
+JudgeID: 76561198237123262
+Reason: 3600 Duration: 31536000 Remaining: 30419202
+PlayerID: 76561198331252339
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30431535
+PlayerID: 76561198434258763
+JudgeID: 0
+Reason: reid Duration: 608400 Remaining: 198082
+
+17.11.2017 15:58:59: END
+17.11.2017 15:59:01: END
+17.11.2017 15:59:18: Client has executed command "players"
+
+17.11.2017 15:59:18: Players:
+PlayerID: 76561198234232440 Name: FuSian Character: Fusian Ping: 66
+PlayerID: 76561198349888524 Name: Takeo Masaki Loot.farm cs.money Character: hotdog Ping: 27
+PlayerID: 76561198106869292 Name: roman146rus Character: roman146rus Ping: 61
+PlayerID: 76561198170498361 Name: _Nick_Hunter_ Character: Nick_Hunter[RUS] Ping: 128
+PlayerID: 76561198408019916 Name: slava.fan555 Character: Славик Cухоруков Ping: 93
+PlayerID: 76561198444494613 Name: vladkrigin Character: 666а Ping: 127
+PlayerID: 76561198423084997 Name: lovemariina Character: Rendy Ping: 141
+
+17.11.2017 15:59:19: Client has executed command "bans"
+
+17.11.2017 15:59:19: Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 28512818
+PlayerID: 76561198395511982
+JudgeID: 0
+Reason: 999999 Duration: 31536000 Remaining: 30067570
+PlayerID: 76561198331180787
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30415788
+PlayerID: 76561198172502147
+JudgeID: 76561198237123262
+Reason: 3600 Duration: 31536000 Remaining: 30419182
+PlayerID: 76561198331252339
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30431515
+PlayerID: 76561198434258763
+JudgeID: 0
+Reason: reid Duration: 608400 Remaining: 198062
+
+17.11.2017 15:59:19: END
+17.11.2017 15:59:19: Client has executed command "bans"
+
+17.11.2017 15:59:19: Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 28512818
+PlayerID: 76561198395511982
+JudgeID: 0
+Reason: 999999 Duration: 31536000 Remaining: 30067570
+PlayerID: 76561198331180787
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30415788
+PlayerID: 76561198172502147
+JudgeID: 76561198237123262
+Reason: 3600 Duration: 31536000 Remaining: 30419182
+PlayerID: 76561198331252339
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30431515
+PlayerID: 76561198434258763
+JudgeID: 0
+Reason: reid Duration: 608400 Remaining: 198062
+
+17.11.2017 15:59:19: END
+17.11.2017 15:59:21: [World] hotdog [Takeo Masaki Loot.farm cs.money]: "кто выживать вместе"
+
+17.11.2017 15:59:22: END
+17.11.2017 15:59:30: MessageAnnouncer >> Broadcast: Если модератор ведёт себя неподобающе, пишите в группу или ЛС (vk.com/unturned_hgm, vk.com/hemulgm)
+
+17.11.2017 15:59:30: MessageAnnouncer >> Если модератор ведёт себя неподобающе, пишите в группу или ЛС (vk.com/unturned_hgm, vk.com/hemulgm)
+
+17.11.2017 15:59:38: Client has executed command "players"
+
+17.11.2017 15:59:38: Players:
+PlayerID: 76561198234232440 Name: FuSian Character: Fusian Ping: 60
+PlayerID: 76561198349888524 Name: Takeo Masaki Loot.farm cs.money Character: hotdog Ping: 28
+PlayerID: 76561198106869292 Name: roman146rus Character: roman146rus Ping: 65
+PlayerID: 76561198170498361 Name: _Nick_Hunter_ Character: Nick_Hunter[RUS] Ping: 135
+PlayerID: 76561198408019916 Name: slava.fan555 Character: Славик Cухоруков Ping: 94
+PlayerID: 76561198444494613 Name: vladkrigin Character: 666а Ping: 122
+PlayerID: 76561198423084997 Name: lovemariina Character: Rendy Ping: 134
+
+17.11.2017 15:59:39: Client has executed command "bans"
+
+17.11.2017 15:59:39: Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 28512798
+PlayerID: 76561198395511982
+JudgeID: 0
+Reason: 999999 Duration: 31536000 Remaining: 30067550
+PlayerID: 76561198331180787
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30415768
+PlayerID: 76561198172502147
+JudgeID: 76561198237123262
+Reason: 3600 Duration: 31536000 Remaining: 30419162
+PlayerID: 76561198331252339
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30431495
+PlayerID: 76561198434258763
+JudgeID: 0
+Reason: reid Duration: 608400 Remaining: 198042
+
+17.11.2017 15:59:39: END
+17.11.2017 15:59:40: Client has executed command "bans"
+
+17.11.2017 15:59:40: Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 28512798
+PlayerID: 76561198395511982
+JudgeID: 0
+Reason: 999999 Duration: 31536000 Remaining: 30067550
+PlayerID: 76561198331180787
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30415768
+PlayerID: 76561198172502147
+JudgeID: 76561198237123262
+Reason: 3600 Duration: 31536000 Remaining: 30419162
+PlayerID: 76561198331252339
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30431495
+PlayerID: 76561198434258763
+JudgeID: 0
+Reason: reid Duration: 608400 Remaining: 198042
+
+17.11.2017 15:59:40: END
+17.11.2017 15:59:42: END
+17.11.2017 15:59:48: [World] hotdog [Takeo Masaki Loot.farm cs.money]: "/sell 394 5"
+
+17.11.2017 15:59:58: Client has executed command "players"
+
+17.11.2017 15:59:58: Players:
+PlayerID: 76561198234232440 Name: FuSian Character: Fusian Ping: 59
+PlayerID: 76561198349888524 Name: Takeo Masaki Loot.farm cs.money Character: hotdog Ping: 31
+PlayerID: 76561198106869292 Name: roman146rus Character: roman146rus Ping: 55
+PlayerID: 76561198170498361 Name: _Nick_Hunter_ Character: Nick_Hunter[RUS] Ping: 127
+PlayerID: 76561198408019916 Name: slava.fan555 Character: Славик Cухоруков Ping: 118
+PlayerID: 76561198444494613 Name: vladkrigin Character: 666а Ping: 132
+PlayerID: 76561198423084997 Name: lovemariina Character: Rendy Ping: 137
+
+17.11.2017 15:59:59: Client has executed command "bans"
+
+17.11.2017 15:59:59: Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 28512778
+PlayerID: 76561198395511982
+JudgeID: 0
+Reason: 999999 Duration: 31536000 Remaining: 30067530
+PlayerID: 76561198331180787
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30415748
+PlayerID: 76561198172502147
+JudgeID: 76561198237123262
+Reason: 3600 Duration: 31536000 Remaining: 30419142
+PlayerID: 76561198331252339
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30431475
+PlayerID: 76561198434258763
+JudgeID: 0
+Reason: reid Duration: 608400 Remaining: 198022
+
+17.11.2017 15:59:59: END
+17.11.2017 16:00:00: Client has executed command "bans"
+
+17.11.2017 16:00:00: Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 28512777
+PlayerID: 76561198395511982
+JudgeID: 0
+Reason: 999999 Duration: 31536000 Remaining: 30067529
+PlayerID: 76561198331180787
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30415747
+PlayerID: 76561198172502147
+JudgeID: 76561198237123262
+Reason: 3600 Duration: 31536000 Remaining: 30419141
+PlayerID: 76561198331252339
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30431474
+PlayerID: 76561198434258763
+JudgeID: 0
+Reason: reid Duration: 608400 Remaining: 198021
+
+17.11.2017 16:00:00: END
+17.11.2017 16:00:02: END
+17.11.2017 16:00:18: Client has executed command "players"
+
+17.11.2017 16:00:18: Players:
+PlayerID: 76561198234232440 Name: FuSian Character: Fusian Ping: 64
+PlayerID: 76561198349888524 Name: Takeo Masaki Loot.farm cs.money Character: hotdog Ping: 36
+PlayerID: 76561198106869292 Name: roman146rus Character: roman146rus Ping: 62
+PlayerID: 76561198170498361 Name: _Nick_Hunter_ Character: Nick_Hunter[RUS] Ping: 130
+PlayerID: 76561198408019916 Name: slava.fan555 Character: Славик Cухоруков Ping: 186
+PlayerID: 76561198444494613 Name: vladkrigin Character: 666а Ping: 163
+PlayerID: 76561198423084997 Name: lovemariina Character: Rendy Ping: 135
+
+17.11.2017 16:00:19: Client has executed command "bans"
+
+17.11.2017 16:00:19: Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 28512758
+PlayerID: 76561198395511982
+JudgeID: 0
+Reason: 999999 Duration: 31536000 Remaining: 30067510
+PlayerID: 76561198331180787
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30415728
+PlayerID: 76561198172502147
+JudgeID: 76561198237123262
+Reason: 3600 Duration: 31536000 Remaining: 30419122
+PlayerID: 76561198331252339
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30431455
+PlayerID: 76561198434258763
+JudgeID: 0
+Reason: reid Duration: 608400 Remaining: 198002
+
+17.11.2017 16:00:19: END
+17.11.2017 16:00:20: Client has executed command "bans"
+
+17.11.2017 16:00:20: Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 28512758
+PlayerID: 76561198395511982
+JudgeID: 0
+Reason: 999999 Duration: 31536000 Remaining: 30067510
+PlayerID: 76561198331180787
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30415728
+PlayerID: 76561198172502147
+JudgeID: 76561198237123262
+Reason: 3600 Duration: 31536000 Remaining: 30419122
+PlayerID: 76561198331252339
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30431455
+PlayerID: 76561198434258763
+JudgeID: 0
+Reason: reid Duration: 608400 Remaining: 198002
+
+17.11.2017 16:00:20: END
+17.11.2017 16:00:22: END
+17.11.2017 16:00:23: Client has executed command "airdrop"
+
+17.11.2017 16:00:23: Successfully set airdrop!
+
+17.11.2017 16:00:23: Client has executed command "airdrop"
+Successfully set airdrop!
+
+17.11.2017 16:00:23: Client has executed command "airdrop"
+Successfully set airdrop!
+Client has executed command "airdrop"
+Successfully set airdrop!
+
+17.11.2017 16:00:23: Client has executed command "airdrop"
+Successfully set airdrop!
+
+17.11.2017 16:00:24: Client has executed command "airdrop"
+Successfully set airdrop!
+Client has executed command "airdrop"
+Successfully set airdrop!
+
+17.11.2017 16:00:24: Client has executed command "airdrop"
+Successfully set airdrop!
+
+17.11.2017 16:00:24: Client has executed command "airdrop"
+Successfully set airdrop!
+
+17.11.2017 16:00:24: Client has executed command "airdrop"
+Successfully set airdrop!
+Client has executed command "cchat "/33/09/17/04/17/15/16 /24/05/17/05/08 2 /24. " 255 255 0"
+ServerControl >> Broadcast: Аирдроп через 2 ч.
+
+17.11.2017 16:00:24: Не обработано: ServerControl >> Broadcast: Аирдроп через 2 ч.
+17.11.2017 16:00:30: MessageAnnouncer >> Broadcast: Посетите наш сайт. Вы будете удивлены! unturned.hemulgm.ru
+
+17.11.2017 16:00:30: MessageAnnouncer >> Посетите наш сайт. Вы будете удивлены! unturned.hemulgm.ru
+
+17.11.2017 16:00:38: Client has executed command "players"
+
+17.11.2017 16:00:38: Players:
+
+17.11.2017 16:00:38: PlayerID: 76561198234232440 Name: FuSian Character: Fusian Ping: 63
+PlayerID: 76561198349888524 Name: Takeo Masaki Loot.farm cs.money Character: hotdog Ping: 38
+PlayerID: 76561198106869292 Name: roman146rus Character: roman146rus Ping: 62
+PlayerID: 76561198170498361 Name: _Nick_Hunter_ Character: Nick_Hunter[RUS] Ping: 124
+PlayerID: 76561198408019916 Name: slava.fan555 Character: Славик Cухоруков Ping: 91
+PlayerID: 76561198444494613 Name: vladkrigin Character: 666а Ping: 129
+PlayerID: 76561198423084997 Name: lovemariina Character: Rendy Ping: 135
+
+17.11.2017 16:00:39: Client has executed command "bans"
+
+17.11.2017 16:00:39: Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 28512738
+PlayerID: 76561198395511982
+JudgeID: 0
+Reason: 999999 Duration: 31536000 Remaining: 30067490
+PlayerID: 76561198331180787
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30415708
+PlayerID: 76561198172502147
+JudgeID: 76561198237123262
+Reason: 3600 Duration: 31536000 Remaining: 30419102
+PlayerID: 76561198331252339
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30431435
+PlayerID: 76561198434258763
+JudgeID: 0
+Reason: reid Duration: 608400 Remaining: 197982
+
+17.11.2017 16:00:39: END
+17.11.2017 16:00:40: Client has executed command "bans"
+
+17.11.2017 16:00:40: Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 28512738
+PlayerID: 76561198395511982
+JudgeID: 0
+Reason: 999999 Duration: 31536000 Remaining: 30067490
+PlayerID: 76561198331180787
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30415708
+PlayerID: 76561198172502147
+JudgeID: 76561198237123262
+Reason: 3600 Duration: 31536000 Remaining: 30419102
+PlayerID: 76561198331252339
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30431435
+PlayerID: 76561198434258763
+JudgeID: 0
+Reason: reid Duration: 608400 Remaining: 197982
+
+17.11.2017 16:00:40: END
+17.11.2017 16:00:41: END
+17.11.2017 16:00:58: Client has executed command "players"
+
+17.11.2017 16:00:58: Players:
+PlayerID: 76561198234232440 Name: FuSian Character: Fusian Ping: 57
+PlayerID: 76561198349888524 Name: Takeo Masaki Loot.farm cs.money Character: hotdog Ping: 27
+PlayerID: 76561198106869292 Name: roman146rus Character: roman146rus Ping: 62
+PlayerID: 76561198170498361 Name: _Nick_Hunter_ Character: Nick_Hunter[RUS] Ping: 131
+PlayerID: 76561198408019916 Name: slava.fan555 Character: Славик Cухоруков Ping: 85
+PlayerID: 76561198444494613 Name: vladkrigin Character: 666а Ping: 185
+PlayerID: 76561198423084997 Name: lovemariina Character: Rendy Ping: 136
+
+17.11.2017 16:00:59: Client has executed command "bans"
+
+17.11.2017 16:00:59: Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 28512718
+PlayerID: 76561198395511982
+JudgeID: 0
+Reason: 999999 Duration: 31536000 Remaining: 30067470
+PlayerID: 76561198331180787
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30415688
+PlayerID: 76561198172502147
+JudgeID: 76561198237123262
+Reason: 3600 Duration: 31536000 Remaining: 30419082
+PlayerID: 76561198331252339
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30431415
+PlayerID: 76561198434258763
+JudgeID: 0
+Reason: reid Duration: 608400 Remaining: 197962
+
+17.11.2017 16:01:00: END
+17.11.2017 16:01:00: Client has executed command "bans"
+
+17.11.2017 16:01:00: Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 28512718
+PlayerID: 76561198395511982
+JudgeID: 0
+Reason: 999999 Duration: 31536000 Remaining: 30067470
+PlayerID: 76561198331180787
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30415688
+PlayerID: 76561198172502147
+JudgeID: 76561198237123262
+Reason: 3600 Duration: 31536000 Remaining: 30419082
+PlayerID: 76561198331252339
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30431415
+PlayerID: 76561198434258763
+JudgeID: 0
+Reason: reid Duration: 608400 Remaining: 197962
+
+17.11.2017 16:01:00: END
+17.11.2017 16:01:01: END
+17.11.2017 16:01:02: [World] Nick_Hunter[RUS] [_Nick_Hunter_]: "сократилось время аирдропа? было 5 часов стало 2"
+
+17.11.2017 16:01:18: Client has executed command "players"
+
+17.11.2017 16:01:18: Players:
+PlayerID: 76561198234232440 Name: FuSian Character: Fusian Ping: 65
+PlayerID: 76561198349888524 Name: Takeo Masaki Loot.farm cs.money Character: hotdog Ping: 35
+PlayerID: 76561198106869292 Name: roman146rus Character: roman146rus Ping: 63
+PlayerID: 76561198170498361 Name: _Nick_Hunter_ Character: Nick_Hunter[RUS] Ping: 131
+PlayerID: 76561198408019916 Name: slava.fan555 Character: Славик Cухоруков Ping: 116
+PlayerID: 76561198444494613 Name: vladkrigin Character: 666а Ping: 135
+PlayerID: 76561198423084997 Name: lovemariina Character: Rendy Ping: 152
+
+17.11.2017 16:01:19: Client has executed command "bans"
+
+17.11.2017 16:01:19: Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 28512698
+PlayerID: 76561198395511982
+JudgeID: 0
+Reason: 999999 Duration: 31536000 Remaining: 30067450
+PlayerID: 76561198331180787
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30415668
+PlayerID: 76561198172502147
+JudgeID: 76561198237123262
+Reason: 3600 Duration: 31536000 Remaining: 30419062
+PlayerID: 76561198331252339
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30431395
+PlayerID: 76561198434258763
+JudgeID: 0
+Reason: reid Duration: 608400 Remaining: 197942
+
+17.11.2017 16:01:20: END
+17.11.2017 16:01:20: Client has executed command "bans"
+
+17.11.2017 16:01:20: Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 28512698
+PlayerID: 76561198395511982
+JudgeID: 0
+Reason: 999999 Duration: 31536000 Remaining: 30067450
+PlayerID: 76561198331180787
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30415668
+PlayerID: 76561198172502147
+JudgeID: 76561198237123262
+Reason: 3600 Duration: 31536000 Remaining: 30419062
+PlayerID: 76561198331252339
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30431395
+PlayerID: 76561198434258763
+JudgeID: 0
+Reason: reid Duration: 608400 Remaining: 197942
+
+17.11.2017 16:01:20: END
+17.11.2017 16:01:21: END
+17.11.2017 16:01:28: hotdog moved x:-666.8743 y:76.36861(+37.82879) z:281.3549 in the last second (0.1010284)
+
+17.11.2017 16:01:28: Не обработано: hotdog moved x:-666.8743 y:76.36861(+37.82879) z:281.3549 in the last second (0.1010284)
+17.11.2017 16:01:30: MessageAnnouncer >> Broadcast: vk.com/hemulgm - ЕДИНСТВЕННЫЙ администратор сервера
+
+17.11.2017 16:01:30: MessageAnnouncer >> vk.com/hemulgm - ЕДИНСТВЕННЫЙ администратор сервера
+
+17.11.2017 16:01:38: Client has executed command "players"
+
+17.11.2017 16:01:38: Players:
+PlayerID: 76561198234232440 Name: FuSian Character: Fusian Ping: 72
+PlayerID: 76561198349888524 Name: Takeo Masaki Loot.farm cs.money Character: hotdog Ping: 30
+PlayerID: 76561198106869292 Name: roman146rus Character: roman146rus Ping: 49
+PlayerID: 76561198170498361 Name: _Nick_Hunter_ Character: Nick_Hunter[RUS] Ping: 158
+PlayerID: 76561198408019916 Name: slava.fan555 Character: Славик Cухоруков Ping: 89
+PlayerID: 76561198444494613 Name: vladkrigin Character: 666а Ping: 131
+PlayerID: 76561198423084997 Name: lovemariina Character: Rendy Ping: 143
+
+17.11.2017 16:01:39: Client has executed command "bans"
+
+17.11.2017 16:01:39: Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 28512678
+PlayerID: 76561198395511982
+JudgeID: 0
+Reason: 999999 Duration: 31536000 Remaining: 30067430
+PlayerID: 76561198331180787
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30415648
+PlayerID: 76561198172502147
+JudgeID: 76561198237123262
+Reason: 3600 Duration: 31536000 Remaining: 30419042
+PlayerID: 76561198331252339
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30431375
+PlayerID: 76561198434258763
+JudgeID: 0
+Reason: reid Duration: 608400 Remaining: 197922
+
+17.11.2017 16:01:39: END
+17.11.2017 16:01:40: Client has executed command "bans"
+
+17.11.2017 16:01:40: Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 28512678
+PlayerID: 76561198395511982
+JudgeID: 0
+Reason: 999999 Duration: 31536000 Remaining: 30067430
+PlayerID: 76561198331180787
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30415648
+PlayerID: 76561198172502147
+JudgeID: 76561198237123262
+Reason: 3600 Duration: 31536000 Remaining: 30419042
+PlayerID: 76561198331252339
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30431375
+PlayerID: 76561198434258763
+JudgeID: 0
+Reason: reid Duration: 608400 Remaining: 197922
+
+17.11.2017 16:01:40: END
+17.11.2017 16:01:41: END
+17.11.2017 16:01:58: Client has executed command "players"
+
+17.11.2017 16:01:58: Players:
+PlayerID: 76561198234232440 Name: FuSian Character: Fusian Ping: 62
+PlayerID: 76561198349888524 Name: Takeo Masaki Loot.farm cs.money Character: hotdog Ping: 33
+PlayerID: 76561198106869292 Name: roman146rus Character: roman146rus Ping: 55
+PlayerID: 76561198170498361 Name: _Nick_Hunter_ Character: Nick_Hunter[RUS] Ping: 137
+PlayerID: 76561198408019916 Name: slava.fan555 Character: Славик Cухоруков Ping: 64
+PlayerID: 76561198444494613 Name: vladkrigin Character: 666а Ping: 116
+PlayerID: 76561198423084997 Name: lovemariina Character: Rendy Ping: 204
+
+17.11.2017 16:01:59: Client has executed command "bans"
+
+17.11.2017 16:01:59: Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 28512658
+PlayerID: 76561198395511982
+JudgeID: 0
+Reason: 999999 Duration: 31536000 Remaining: 30067410
+PlayerID: 76561198331180787
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30415628
+PlayerID: 76561198172502147
+JudgeID: 76561198237123262
+Reason: 3600 Duration: 31536000 Remaining: 30419022
+PlayerID: 76561198331252339
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30431355
+PlayerID: 76561198434258763
+JudgeID: 0
+Reason: reid Duration: 608400 Remaining: 197902
+
+17.11.2017 16:01:59: END
+17.11.2017 16:02:00: Client has executed command "bans"
+
+17.11.2017 16:02:00: Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 28512658
+PlayerID: 76561198395511982
+JudgeID: 0
+Reason: 999999 Duration: 31536000 Remaining: 30067410
+PlayerID: 76561198331180787
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30415628
+PlayerID: 76561198172502147
+JudgeID: 76561198237123262
+Reason: 3600 Duration: 31536000 Remaining: 30419022
+PlayerID: 76561198331252339
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30431355
+PlayerID: 76561198434258763
+JudgeID: 0
+Reason: reid Duration: 608400 Remaining: 197902
+
+17.11.2017 16:02:00: END
+17.11.2017 16:02:00: [World] hotdog [Takeo Masaki Loot.farm cs.money]: "/kit start"
+
+17.11.2017 16:02:02: END
+17.11.2017 16:02:18: Client has executed command "players"
+
+17.11.2017 16:02:18: Players:
+PlayerID: 76561198234232440 Name: FuSian Character: Fusian Ping: 73
+PlayerID: 76561198349888524 Name: Takeo Masaki Loot.farm cs.money Character: hotdog Ping: 38
+PlayerID: 76561198106869292 Name: roman146rus Character: roman146rus Ping: 48
+PlayerID: 76561198170498361 Name: _Nick_Hunter_ Character: Nick_Hunter[RUS] Ping: 130
+PlayerID: 76561198408019916 Name: slava.fan555 Character: Славик Cухоруков Ping: 125
+PlayerID: 76561198444494613 Name: vladkrigin Character: 666а Ping: 124
+PlayerID: 76561198423084997 Name: lovemariina Character: Rendy Ping: 140
+
+17.11.2017 16:02:19: Client has executed command "bans"
+
+17.11.2017 16:02:19: Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 28512638
+PlayerID: 76561198395511982
+JudgeID: 0
+Reason: 999999 Duration: 31536000 Remaining: 30067390
+PlayerID: 76561198331180787
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30415608
+PlayerID: 76561198172502147
+JudgeID: 76561198237123262
+Reason: 3600 Duration: 31536000 Remaining: 30419002
+PlayerID: 76561198331252339
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30431335
+PlayerID: 76561198434258763
+JudgeID: 0
+Reason: reid Duration: 608400 Remaining: 197882
+
+17.11.2017 16:02:19: END
+17.11.2017 16:02:20: Client has executed command "bans"
+
+17.11.2017 16:02:20: Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 28512638
+PlayerID: 76561198395511982
+JudgeID: 0
+Reason: 999999 Duration: 31536000 Remaining: 30067390
+PlayerID: 76561198331180787
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30415608
+PlayerID: 76561198172502147
+JudgeID: 76561198237123262
+Reason: 3600 Duration: 31536000 Remaining: 30419002
+PlayerID: 76561198331252339
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30431335
+PlayerID: 76561198434258763
+JudgeID: 0
+Reason: reid Duration: 608400 Remaining: 197882
+
+17.11.2017 16:02:20: END
+17.11.2017 16:02:21: END
+17.11.2017 16:02:30: MessageAnnouncer >> Broadcast: Используйте /report [ник], чтобы отправить жалобу на игрока
+
+17.11.2017 16:02:30: MessageAnnouncer >> Используйте /report [ник], чтобы отправить жалобу на игрока
+
+17.11.2017 16:02:38: Client has executed command "players"
+
+17.11.2017 16:02:38: Players:
+PlayerID: 76561198234232440 Name: FuSian Character: Fusian Ping: 66
+PlayerID: 76561198349888524 Name: Takeo Masaki Loot.farm cs.money Character: hotdog Ping: 30
+PlayerID: 76561198106869292 Name: roman146rus Character: roman146rus Ping: 53
+PlayerID: 76561198170498361 Name: _Nick_Hunter_ Character: Nick_Hunter[RUS] Ping: 137
+PlayerID: 76561198408019916 Name: slava.fan555 Character: Славик Cухоруков Ping: 95
+PlayerID: 76561198444494613 Name: vladkrigin Character: 666а Ping: 125
+PlayerID: 76561198423084997 Name: lovemariina Character: Rendy Ping: 134
+
+17.11.2017 16:02:39: Client has executed command "bans"
+
+17.11.2017 16:02:39: Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 28512618
+PlayerID: 76561198395511982
+JudgeID: 0
+Reason: 999999 Duration: 31536000 Remaining: 30067370
+PlayerID: 76561198331180787
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30415588
+PlayerID: 76561198172502147
+JudgeID: 76561198237123262
+Reason: 3600 Duration: 31536000 Remaining: 30418982
+PlayerID: 76561198331252339
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30431315
+PlayerID: 76561198434258763
+JudgeID: 0
+Reason: reid Duration: 608400 Remaining: 197862
+
+17.11.2017 16:02:39: END
+17.11.2017 16:02:40: Client has executed command "bans"
+
+17.11.2017 16:02:40: Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 28512618
+PlayerID: 76561198395511982
+JudgeID: 0
+Reason: 999999 Duration: 31536000 Remaining: 30067370
+PlayerID: 76561198331180787
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30415588
+PlayerID: 76561198172502147
+JudgeID: 76561198237123262
+Reason: 3600 Duration: 31536000 Remaining: 30418982
+PlayerID: 76561198331252339
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30431315
+PlayerID: 76561198434258763
+JudgeID: 0
+Reason: reid Duration: 608400 Remaining: 197862
+
+17.11.2017 16:02:40: END
+17.11.2017 16:02:41: END
+17.11.2017 16:02:58: Client has executed command "players"
+
+17.11.2017 16:02:58: Players:
+PlayerID: 76561198234232440 Name: FuSian Character: Fusian Ping: 73
+PlayerID: 76561198349888524 Name: Takeo Masaki Loot.farm cs.money Character: hotdog Ping: 30
+PlayerID: 76561198106869292 Name: roman146rus Character: roman146rus Ping: 73
+PlayerID: 76561198170498361 Name: _Nick_Hunter_ Character: Nick_Hunter[RUS] Ping: 134
+PlayerID: 76561198408019916 Name: slava.fan555 Character: Славик Cухоруков Ping: 75
+PlayerID: 76561198444494613 Name: vladkrigin Character: 666а Ping: 124
+PlayerID: 76561198423084997 Name: lovemariina Character: Rendy Ping: 147
+
+17.11.2017 16:02:59: Client has executed command "bans"
+
+17.11.2017 16:02:59: Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 28512598
+PlayerID: 76561198395511982
+JudgeID: 0
+Reason: 999999 Duration: 31536000 Remaining: 30067350
+PlayerID: 76561198331180787
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30415568
+PlayerID: 76561198172502147
+JudgeID: 76561198237123262
+Reason: 3600 Duration: 31536000 Remaining: 30418962
+PlayerID: 76561198331252339
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30431295
+PlayerID: 76561198434258763
+JudgeID: 0
+Reason: reid Duration: 608400 Remaining: 197842
+
+17.11.2017 16:03:00: END
+17.11.2017 16:03:00: Client has executed command "bans"
+
+17.11.2017 16:03:00: Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 28512598
+PlayerID: 76561198395511982
+JudgeID: 0
+Reason: 999999 Duration: 31536000 Remaining: 30067350
+PlayerID: 76561198331180787
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30415568
+PlayerID: 76561198172502147
+JudgeID: 76561198237123262
+Reason: 3600 Duration: 31536000 Remaining: 30418962
+PlayerID: 76561198331252339
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30431295
+PlayerID: 76561198434258763
+JudgeID: 0
+Reason: reid Duration: 608400 Remaining: 197842
+
+17.11.2017 16:03:00: END
+17.11.2017 16:03:02: END
+17.11.2017 16:03:17: Connecting: PlayerID: 76561198263148425 Name: __EHoT Character: zohan
+
+17.11.2017 16:03:18: zohan connected with IP 188.19.47.127
+
+17.11.2017 16:03:18: Client has executed command "players"
+
+17.11.2017 16:03:18: Players:
+PlayerID: 76561198234232440 Name: FuSian Character: Fusian Ping: 66
+PlayerID: 76561198349888524 Name: Takeo Masaki Loot.farm cs.money Character: hotdog Ping: 26
+PlayerID: 76561198106869292 Name: roman146rus Character: roman146rus Ping: 72
+PlayerID: 76561198170498361 Name: _Nick_Hunter_ Character: Nick_Hunter[RUS] Ping: 129
+PlayerID: 76561198408019916 Name: slava.fan555 Character: Славик Cухоруков Ping: 90
+PlayerID: 76561198444494613 Name: vladkrigin Character: 666а Ping: 124
+PlayerID: 76561198423084997 Name: lovemariina Character: Rendy Ping: 144
+PlayerID: 76561198263148425 Name: __EHoT Character: zohan Ping: 0
+
+17.11.2017 16:03:19: Client has executed command "bans"
+
+17.11.2017 16:03:19: Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 28512578
+PlayerID: 76561198395511982
+JudgeID: 0
+Reason: 999999 Duration: 31536000 Remaining: 30067330
+PlayerID: 76561198331180787
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30415548
+PlayerID: 76561198172502147
+JudgeID: 76561198237123262
+Reason: 3600 Duration: 31536000 Remaining: 30418942
+PlayerID: 76561198331252339
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30431275
+PlayerID: 76561198434258763
+JudgeID: 0
+Reason: reid Duration: 608400 Remaining: 197822
+
+17.11.2017 16:03:19: END
+17.11.2017 16:03:20: Client has executed command "bans"
+
+17.11.2017 16:03:20: Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 28512578
+PlayerID: 76561198395511982
+JudgeID: 0
+Reason: 999999 Duration: 31536000 Remaining: 30067330
+PlayerID: 76561198331180787
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30415548
+PlayerID: 76561198172502147
+JudgeID: 76561198237123262
+Reason: 3600 Duration: 31536000 Remaining: 30418942
+PlayerID: 76561198331252339
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30431275
+PlayerID: 76561198434258763
+JudgeID: 0
+Reason: reid Duration: 608400 Remaining: 197822
+
+17.11.2017 16:03:20: END
+17.11.2017 16:03:21: END
+17.11.2017 16:03:27: [World] Славик Cухоруков [slava.fan555]: "блин у меня весь дом в стволах"
+
+17.11.2017 16:03:30: MessageAnnouncer >> Broadcast: Наберите /rules (/r) для просмотра правил
+
+17.11.2017 16:03:30: MessageAnnouncer >> Наберите /rules (/r) для просмотра правил
+
+17.11.2017 16:03:38: Client has executed command "players"
+
+17.11.2017 16:03:38: Players:
+PlayerID: 76561198234232440 Name: FuSian Character: Fusian Ping: 70
+PlayerID: 76561198349888524 Name: Takeo Masaki Loot.farm cs.money Character: hotdog Ping: 40
+PlayerID: 76561198106869292 Name: roman146rus Character: roman146rus Ping: 85
+PlayerID: 76561198170498361 Name: _Nick_Hunter_ Character: Nick_Hunter[RUS] Ping: 124
+PlayerID: 76561198408019916 Name: slava.fan555 Character: Славик Cухоруков Ping: 73
+PlayerID: 76561198444494613 Name: vladkrigin Character: 666а Ping: 149
+PlayerID: 76561198423084997 Name: lovemariina Character: Rendy Ping: 141
+PlayerID: 76561198263148425 Name: __EHoT Character: zohan Ping: 30
+
+17.11.2017 16:03:39: [World] zohan [__EHoT]: "аир был?"
+
+17.11.2017 16:03:40: Client has executed command "bans"
+
+17.11.2017 16:03:40: Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 28512557
+PlayerID: 76561198395511982
+JudgeID: 0
+Reason: 999999 Duration: 31536000 Remaining: 30067309
+PlayerID: 76561198331180787
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30415527
+PlayerID: 76561198172502147
+JudgeID: 76561198237123262
+Reason: 3600 Duration: 31536000 Remaining: 30418921
+PlayerID: 76561198331252339
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30431254
+PlayerID: 76561198434258763
+JudgeID: 0
+Reason: reid Duration: 608400 Remaining: 197801
+
+17.11.2017 16:03:40: END
+17.11.2017 16:03:41: Client has executed command "bans"
+
+17.11.2017 16:03:41: Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 28512557
+PlayerID: 76561198395511982
+JudgeID: 0
+Reason: 999999 Duration: 31536000 Remaining: 30067309
+PlayerID: 76561198331180787
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30415527
+PlayerID: 76561198172502147
+JudgeID: 76561198237123262
+Reason: 3600 Duration: 31536000 Remaining: 30418921
+PlayerID: 76561198331252339
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30431254
+PlayerID: 76561198434258763
+JudgeID: 0
+Reason: reid Duration: 608400 Remaining: 197801
+
+17.11.2017 16:03:41: END
+17.11.2017 16:03:42: [World] Славик Cухоруков [slava.fan555]: "хорошо что скоро магазин стволов открою"
+
+17.11.2017 16:03:43: END
+17.11.2017 16:03:54: [World] zohan [__EHoT]: "???"
+
+17.11.2017 16:03:54: [World] hotdog [Takeo Masaki Loot.farm cs.money]: "/sell 1369"
+
+17.11.2017 16:03:58: Client has executed command "players"
+
+17.11.2017 16:03:58: Players:
+PlayerID: 76561198234232440 Name: FuSian Character: Fusian Ping: 62
+PlayerID: 76561198349888524 Name: Takeo Masaki Loot.farm cs.money Character: hotdog Ping: 36
+PlayerID: 76561198106869292 Name: roman146rus Character: roman146rus Ping: 232
+PlayerID: 76561198170498361 Name: _Nick_Hunter_ Character: Nick_Hunter[RUS] Ping: 136
+PlayerID: 76561198408019916 Name: slava.fan555 Character: Славик Cухоруков Ping: 99
+PlayerID: 76561198444494613 Name: vladkrigin Character: 666а Ping: 183
+PlayerID: 76561198423084997 Name: lovemariina Character: Rendy Ping: 141
+PlayerID: 76561198263148425 Name: __EHoT Character: zohan Ping: 23
+
+17.11.2017 16:03:58: DeathMessagesRemastered >> Broadcast: Rendy был съеден зомби! 
+
+17.11.2017 16:03:58: Rendy [lovemariina] was mauled by a zombie!
+
+17.11.2017 16:03:58: Не обработано: Rendy [lovemariina] was mauled by a zombie!
+17.11.2017 16:04:00: Client has executed command "bans"
+
+17.11.2017 16:04:00: Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 28512538
+PlayerID: 76561198395511982
+JudgeID: 0
+Reason: 999999 Duration: 31536000 Remaining: 30067290
+PlayerID: 76561198331180787
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30415508
+PlayerID: 76561198172502147
+JudgeID: 76561198237123262
+Reason: 3600 Duration: 31536000 Remaining: 30418902
+PlayerID: 76561198331252339
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30431235
+PlayerID: 76561198434258763
+JudgeID: 0
+Reason: reid Duration: 608400 Remaining: 197782
+
+17.11.2017 16:04:00: END
+17.11.2017 16:04:00: Client has executed command "bans"
+
+17.11.2017 16:04:00: Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 28512537
+PlayerID: 76561198395511982
+JudgeID: 0
+Reason: 999999 Duration: 31536000 Remaining: 30067289
+PlayerID: 76561198331180787
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30415507
+PlayerID: 76561198172502147
+JudgeID: 76561198237123262
+Reason: 3600 Duration: 31536000 Remaining: 30418901
+PlayerID: 76561198331252339
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30431234
+PlayerID: 76561198434258763
+JudgeID: 0
+Reason: reid Duration: 608400 Remaining: 197781
+
+17.11.2017 16:04:00: END
+17.11.2017 16:04:01: [World] zohan [__EHoT]: "аир был?"
+
+17.11.2017 16:04:03: END
+17.11.2017 16:04:18: Client has executed command "players"
+
+17.11.2017 16:04:18: Players:
+PlayerID: 76561198234232440 Name: FuSian Character: Fusian Ping: 65
+PlayerID: 76561198349888524 Name: Takeo Masaki Loot.farm cs.money Character: hotdog Ping: 30
+PlayerID: 76561198106869292 Name: roman146rus Character: roman146rus Ping: 71
+PlayerID: 76561198170498361 Name: _Nick_Hunter_ Character: Nick_Hunter[RUS] Ping: 132
+PlayerID: 76561198408019916 Name: slava.fan555 Character: Славик Cухоруков Ping: 83
+PlayerID: 76561198444494613 Name: vladkrigin Character: 666а Ping: 137
+PlayerID: 76561198423084997 Name: lovemariina Character: Rendy Ping: 138
+PlayerID: 76561198263148425 Name: __EHoT Character: zohan Ping: 32
+
+17.11.2017 16:04:19: [World] Rendy [lovemariina]: "/tpa 666"
+
+17.11.2017 16:04:20: Client has executed command "bans"
+
+17.11.2017 16:04:20: Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 28512517
+PlayerID: 76561198395511982
+JudgeID: 0
+Reason: 999999 Duration: 31536000 Remaining: 30067269
+PlayerID: 76561198331180787
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30415487
+PlayerID: 76561198172502147
+JudgeID: 76561198237123262
+Reason: 3600 Duration: 31536000 Remaining: 30418881
+PlayerID: 76561198331252339
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30431214
+PlayerID: 76561198434258763
+JudgeID: 0
+Reason: reid Duration: 608400 Remaining: 197761
+
+17.11.2017 16:04:21: END
+17.11.2017 16:04:21: Client has executed command "bans"
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 28512516
+PlayerID: 76561198395511982
+JudgeID: 0
+Reason: 999999 Duration: 31536000 Remaining: 30067268
+PlayerID: 76561198331180787
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30415486
+PlayerID: 76561198172502147
+JudgeID: 76561198237123262
+Reason: 3600 Duration: 31536000 Remaining: 30418880
+PlayerID: 76561198331252339
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30431213
+PlayerID: 76561198434258763
+JudgeID: 0
+Reason: reid Duration: 608400 Remaining: 197760
+
+17.11.2017 16:04:22: END
+17.11.2017 16:04:23: END
+17.11.2017 16:04:29: [World] Славик Cухоруков [slava.fan555]: "да дохрена самолётов вылетело"
+
+17.11.2017 16:04:30: [World] hotdog [Takeo Masaki Loot.farm cs.money]: "только что"
+
+17.11.2017 16:04:30: MessageAnnouncer >> Broadcast: Добро пожаловать на HGM. Тут рады вам больше, чем на любом другом сервере!
+MessageAnnouncer >> Добро пожаловать на HGM. Тут рады вам больше, чем на любом другом сервере!
+[World] 666а [vladkrigin]: "/TPACCEPT"
+
+17.11.2017 16:04:38: Client has executed command "players"
+
+17.11.2017 16:04:38: Players:
+PlayerID: 76561198234232440 Name: FuSian Character: Fusian Ping: 68
+PlayerID: 76561198349888524 Name: Takeo Masaki Loot.farm cs.money Character: hotdog Ping: 36
+PlayerID: 76561198106869292 Name: roman146rus Character: roman146rus Ping: 167
+PlayerID: 76561198170498361 Name: _Nick_Hunter_ Character: Nick_Hunter[RUS] Ping: 137
+PlayerID: 76561198408019916 Name: slava.fan555 Character: Славик Cухоруков Ping: 88
+PlayerID: 76561198444494613 Name: vladkrigin Character: 666а Ping: 126
+PlayerID: 76561198423084997 Name: lovemariina Character: Rendy Ping: 134
+PlayerID: 76561198263148425 Name: __EHoT Character: zohan Ping: 33
+
+17.11.2017 16:04:39: END
+17.11.2017 16:04:40: Client has executed command "bans"
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 28512498
+PlayerID: 76561198395511982
+JudgeID: 0
+Reason: 999999 Duration: 31536000 Remaining: 30067250
+PlayerID: 76561198331180787
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30415468
+PlayerID: 76561198172502147
+JudgeID: 76561198237123262
+Reason: 3600 Duration: 31536000 Remaining: 30418862
+PlayerID: 76561198331252339
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30431195
+PlayerID: 76561198434258763
+JudgeID: 0
+Reason: reid Duration: 608400 Remaining: 197742
+
+17.11.2017 16:04:40: Client has executed command "bans"
+
+17.11.2017 16:04:40: Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 28512498
+PlayerID: 76561198395511982
+JudgeID: 0
+Reason: 999999 Duration: 31536000 Remaining: 30067250
+PlayerID: 76561198331180787
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30415468
+PlayerID: 76561198172502147
+JudgeID: 76561198237123262
+Reason: 3600 Duration: 31536000 Remaining: 30418862
+PlayerID: 76561198331252339
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30431195
+PlayerID: 76561198434258763
+JudgeID: 0
+Reason: reid Duration: 608400 Remaining: 197742
+
+17.11.2017 16:04:40: END
+17.11.2017 16:04:41: END
+17.11.2017 16:04:42: [World] 666а [vladkrigin]: "/TPACCEPT"
+
+17.11.2017 16:04:44: [World] Славик Cухоруков [slava.fan555]: "их очень много ящиков"
+
+17.11.2017 16:04:45: [World] Nick_Hunter[RUS] [_Nick_Hunter_]: "ну ты и соня"
+
+17.11.2017 16:04:49: [World] 666а [vladkrigin]: "/TPACCEPT"
+
+17.11.2017 16:04:58: Client has executed command "players"
+
+17.11.2017 16:04:58: Players:
+PlayerID: 76561198234232440 Name: FuSian Character: Fusian Ping: 70
+PlayerID: 76561198349888524 Name: Takeo Masaki Loot.farm cs.money Character: hotdog Ping: 23
+PlayerID: 76561198106869292 Name: roman146rus Character: roman146rus Ping: 65
+PlayerID: 76561198170498361 Name: _Nick_Hunter_ Character: Nick_Hunter[RUS] Ping: 125
+PlayerID: 76561198408019916 Name: slava.fan555 Character: Славик Cухоруков Ping: 72
+PlayerID: 76561198444494613 Name: vladkrigin Character: 666а Ping: 128
+PlayerID: 76561198423084997 Name: lovemariina Character: Rendy Ping: 137
+PlayerID: 76561198263148425 Name: __EHoT Character: zohan Ping: 30
+
+17.11.2017 16:04:59: Client has executed command "bans"
+
+17.11.2017 16:04:59: Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 28512478
+PlayerID: 76561198395511982
+JudgeID: 0
+Reason: 999999 Duration: 31536000 Remaining: 30067230
+PlayerID: 76561198331180787
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30415448
+PlayerID: 76561198172502147
+JudgeID: 76561198237123262
+Reason: 3600 Duration: 31536000 Remaining: 30418842
+PlayerID: 76561198331252339
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30431175
+PlayerID: 76561198434258763
+JudgeID: 0
+Reason: reid Duration: 608400 Remaining: 197722
+
+17.11.2017 16:04:59: END
+17.11.2017 16:05:00: Client has executed command "bans"
+
+17.11.2017 16:05:00: Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 28512478
+PlayerID: 76561198395511982
+JudgeID: 0
+Reason: 999999 Duration: 31536000 Remaining: 30067230
+PlayerID: 76561198331180787
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30415448
+PlayerID: 76561198172502147
+JudgeID: 76561198237123262
+Reason: 3600 Duration: 31536000 Remaining: 30418842
+PlayerID: 76561198331252339
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30431175
+PlayerID: 76561198434258763
+JudgeID: 0
+Reason: reid Duration: 608400 Remaining: 197722
+
+17.11.2017 16:05:00: END
+17.11.2017 16:05:01: END
+17.11.2017 16:05:02: [World] hotdog [Takeo Masaki Loot.farm cs.money]: "/sell 1382"
+
+17.11.2017 16:05:03: [World] Славик Cухоруков [slava.fan555]: "а я подхвотил сегодня 3 ящика"
+
+17.11.2017 16:05:18: Client has executed command "players"
+
+17.11.2017 16:05:18: Players:
+PlayerID: 76561198234232440 Name: FuSian Character: Fusian Ping: 64
+PlayerID: 76561198349888524 Name: Takeo Masaki Loot.farm cs.money Character: hotdog Ping: 29
+PlayerID: 76561198106869292 Name: roman146rus Character: roman146rus Ping: 84
+PlayerID: 76561198170498361 Name: _Nick_Hunter_ Character: Nick_Hunter[RUS] Ping: 130
+PlayerID: 76561198408019916 Name: slava.fan555 Character: Славик Cухоруков Ping: 83
+PlayerID: 76561198444494613 Name: vladkrigin Character: 666а Ping: 121
+PlayerID: 76561198423084997 Name: lovemariina Character: Rendy Ping: 150
+PlayerID: 76561198263148425 Name: __EHoT Character: zohan Ping: 25
+
+17.11.2017 16:05:19: [World] Славик Cухоруков [slava.fan555]: "вто токочто подхотил 3-тий"
+
+17.11.2017 16:05:20: Client has executed command "bans"
+
+17.11.2017 16:05:20: Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 28512457
+PlayerID: 76561198395511982
+JudgeID: 0
+Reason: 999999 Duration: 31536000 Remaining: 30067209
+PlayerID: 76561198331180787
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30415427
+PlayerID: 76561198172502147
+JudgeID: 76561198237123262
+Reason: 3600 Duration: 31536000 Remaining: 30418821
+PlayerID: 76561198331252339
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30431154
+PlayerID: 76561198434258763
+JudgeID: 0
+Reason: reid Duration: 608400 Remaining: 197701
+
+17.11.2017 16:05:20: END
+17.11.2017 16:05:21: Client has executed command "bans"
+
+17.11.2017 16:05:21: Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 28512457
+PlayerID: 76561198395511982
+JudgeID: 0
+Reason: 999999 Duration: 31536000 Remaining: 30067209
+PlayerID: 76561198331180787
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30415427
+PlayerID: 76561198172502147
+JudgeID: 76561198237123262
+Reason: 3600 Duration: 31536000 Remaining: 30418821
+PlayerID: 76561198331252339
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30431154
+PlayerID: 76561198434258763
+JudgeID: 0
+Reason: reid Duration: 608400 Remaining: 197701
+
+17.11.2017 16:05:21: END
+17.11.2017 16:05:21: [World] zohan [__EHoT]: "кто что дать может из аира"
+
+17.11.2017 16:05:23: END
+17.11.2017 16:05:27: [World] hotdog [Takeo Masaki Loot.farm cs.money]: "/sell 1484"
+
+17.11.2017 16:05:30: MessageAnnouncer >> Broadcast: Наберите /kit start, чтобы получить стартовый набор (еда, вода, топор)
+
+17.11.2017 16:05:30: MessageAnnouncer >> Наберите /kit start, чтобы получить стартовый набор (еда, вода, топор)
+
+17.11.2017 16:05:33: [World] Fusian [FuSian]: "обменять могу"
+
+17.11.2017 16:05:38: Client has executed command "players"
+
+17.11.2017 16:05:38: Players:
+PlayerID: 76561198234232440 Name: FuSian Character: Fusian Ping: 67
+PlayerID: 76561198349888524 Name: Takeo Masaki Loot.farm cs.money Character: hotdog Ping: 33
+PlayerID: 76561198106869292 Name: roman146rus Character: roman146rus Ping: 70
+PlayerID: 76561198170498361 Name: _Nick_Hunter_ Character: Nick_Hunter[RUS] Ping: 138
+PlayerID: 76561198408019916 Name: slava.fan555 Character: Славик Cухоруков Ping: 94
+PlayerID: 76561198444494613 Name: vladkrigin Character: 666а Ping: 119
+PlayerID: 76561198423084997 Name: lovemariina Character: Rendy Ping: 133
+PlayerID: 76561198263148425 Name: __EHoT Character: zohan Ping: 28
+
+17.11.2017 16:05:39: Client has executed command "bans"
+
+17.11.2017 16:05:39: Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 28512438
+PlayerID: 76561198395511982
+JudgeID: 0
+Reason: 999999 Duration: 31536000 Remaining: 30067190
+PlayerID: 76561198331180787
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30415408
+PlayerID: 76561198172502147
+JudgeID: 76561198237123262
+Reason: 3600 Duration: 31536000 Remaining: 30418802
+PlayerID: 76561198331252339
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30431135
+PlayerID: 76561198434258763
+JudgeID: 0
+Reason: reid Duration: 608400 Remaining: 197682
+
+17.11.2017 16:05:39: END
+17.11.2017 16:05:40: Client has executed command "bans"
+
+17.11.2017 16:05:40: Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 28512438
+PlayerID: 76561198395511982
+JudgeID: 0
+Reason: 999999 Duration: 31536000 Remaining: 30067190
+PlayerID: 76561198331180787
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30415408
+PlayerID: 76561198172502147
+JudgeID: 76561198237123262
+Reason: 3600 Duration: 31536000 Remaining: 30418802
+PlayerID: 76561198331252339
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30431135
+PlayerID: 76561198434258763
+JudgeID: 0
+Reason: reid Duration: 608400 Remaining: 197682
+
+17.11.2017 16:05:40: END
+17.11.2017 16:05:41: [World] zohan [__EHoT]: "что на что"
+
+17.11.2017 16:05:42: END
+17.11.2017 16:05:51: [World] Fusian [FuSian]: "патроны на тото"
+
+17.11.2017 16:05:58: Client has executed command "players"
+
+17.11.2017 16:05:58: Players:
+PlayerID: 76561198234232440 Name: FuSian Character: Fusian Ping: 63
+PlayerID: 76561198349888524 Name: Takeo Masaki Loot.farm cs.money Character: hotdog Ping: 34
+PlayerID: 76561198106869292 Name: roman146rus Character: roman146rus Ping: 255
+PlayerID: 76561198170498361 Name: _Nick_Hunter_ Character: Nick_Hunter[RUS] Ping: 136
+PlayerID: 76561198408019916 Name: slava.fan555 Character: Славик Cухоруков Ping: 103
+PlayerID: 76561198444494613 Name: vladkrigin Character: 666а Ping: 117
+PlayerID: 76561198423084997 Name: lovemariina Character: Rendy Ping: 141
+PlayerID: 76561198263148425 Name: __EHoT Character: zohan Ping: 29
+
+17.11.2017 16:05:59: Client has executed command "bans"
+
+17.11.2017 16:05:59: Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 28512418
+PlayerID: 76561198395511982
+JudgeID: 0
+Reason: 999999 Duration: 31536000 Remaining: 30067170
+PlayerID: 76561198331180787
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30415388
+PlayerID: 76561198172502147
+JudgeID: 76561198237123262
+Reason: 3600 Duration: 31536000 Remaining: 30418782
+PlayerID: 76561198331252339
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30431115
+PlayerID: 76561198434258763
+JudgeID: 0
+Reason: reid Duration: 608400 Remaining: 197662
+
+17.11.2017 16:05:59: END
+17.11.2017 16:06:00: Client has executed command "bans"
+
+17.11.2017 16:06:00: Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 28512418
+PlayerID: 76561198395511982
+JudgeID: 0
+Reason: 999999 Duration: 31536000 Remaining: 30067170
+PlayerID: 76561198331180787
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30415388
+PlayerID: 76561198172502147
+JudgeID: 76561198237123262
+Reason: 3600 Duration: 31536000 Remaining: 30418782
+PlayerID: 76561198331252339
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30431115
+PlayerID: 76561198434258763
+JudgeID: 0
+Reason: reid Duration: 608400 Remaining: 197662
+
+17.11.2017 16:06:00: END
+17.11.2017 16:06:01: END
+17.11.2017 16:06:07: [World] roman146rus [roman146rus]: "/home"
+
+17.11.2017 16:06:11: Disconnecting: PlayerID: 76561198106869292 Name: roman146rus Character: roman146rus
+
+17.11.2017 16:06:16: Connecting: PlayerID: 76561198436087982 Name: yarmon Character: yarmon
+
+17.11.2017 16:06:17: yarmon connected with IP 188.19.8.223
+
+17.11.2017 16:06:18: Client has executed command "players"
+
+17.11.2017 16:06:18: Players:
+PlayerID: 76561198234232440 Name: FuSian Character: Fusian Ping: 69
+PlayerID: 76561198349888524 Name: Takeo Masaki Loot.farm cs.money Character: hotdog Ping: 34
+PlayerID: 76561198170498361 Name: _Nick_Hunter_ Character: Nick_Hunter[RUS] Ping: 132
+PlayerID: 76561198408019916 Name: slava.fan555 Character: Славик Cухоруков Ping: 100
+PlayerID: 76561198444494613 Name: vladkrigin Character: 666а Ping: 126
+PlayerID: 76561198423084997 Name: lovemariina Character: Rendy Ping: 138
+PlayerID: 76561198263148425 Name: __EHoT Character: zohan Ping: 29
+PlayerID: 76561198436087982 Name: yarmon Character: yarmon Ping: 199
+
+17.11.2017 16:06:19: Client has executed command "bans"
+
+17.11.2017 16:06:19: Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 28512398
+PlayerID: 76561198395511982
+JudgeID: 0
+Reason: 999999 Duration: 31536000 Remaining: 30067150
+PlayerID: 76561198331180787
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30415368
+PlayerID: 76561198172502147
+JudgeID: 76561198237123262
+Reason: 3600 Duration: 31536000 Remaining: 30418762
+PlayerID: 76561198331252339
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30431095
+PlayerID: 76561198434258763
+JudgeID: 0
+Reason: reid Duration: 608400 Remaining: 197642
+
+17.11.2017 16:06:19: END
+17.11.2017 16:06:20: Client has executed command "bans"
+
+17.11.2017 16:06:20: Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 28512398
+PlayerID: 76561198395511982
+JudgeID: 0
+Reason: 999999 Duration: 31536000 Remaining: 30067150
+PlayerID: 76561198331180787
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30415368
+PlayerID: 76561198172502147
+JudgeID: 76561198237123262
+Reason: 3600 Duration: 31536000 Remaining: 30418762
+PlayerID: 76561198331252339
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30431095
+PlayerID: 76561198434258763
+JudgeID: 0
+Reason: reid Duration: 608400 Remaining: 197642
+
+17.11.2017 16:06:20: END
+17.11.2017 16:06:21: END
+17.11.2017 16:06:27: [World] zohan [__EHoT]: "/home"
+
+17.11.2017 16:06:27: zohan moved x:-138.2724 y:65.88714(+36.32644) z:925.9868 in the last second (0.2379227)
+
+17.11.2017 16:06:27: Не обработано: zohan moved x:-138.2724 y:65.88714(+36.32644) z:925.9868 in the last second (0.2379227)
+17.11.2017 16:06:27: DeathMessagesRemastered >> Broadcast: yarmon истёк кровью!
+yarmon [yarmon] bled to death!
+
+17.11.2017 16:06:27: Не обработано: yarmon [yarmon] bled to death!
+17.11.2017 16:06:30: MessageAnnouncer >> Broadcast: Внимание! PvP-режим по субботам! PvP-режим!!!
+
+17.11.2017 16:06:30: MessageAnnouncer >> Внимание! PvP-режим по субботам! PvP-режим!!!
+
+17.11.2017 16:06:38: Client has executed command "players"
+
+17.11.2017 16:06:38: Players:
+PlayerID: 76561198234232440 Name: FuSian Character: Fusian Ping: 61
+PlayerID: 76561198349888524 Name: Takeo Masaki Loot.farm cs.money Character: hotdog Ping: 32
+PlayerID: 76561198170498361 Name: _Nick_Hunter_ Character: Nick_Hunter[RUS] Ping: 128
+PlayerID: 76561198408019916 Name: slava.fan555 Character: Славик Cухоруков Ping: 80
+PlayerID: 76561198444494613 Name: vladkrigin Character: 666а Ping: 128
+PlayerID: 76561198423084997 Name: lovemariina Character: Rendy Ping: 141
+PlayerID: 76561198263148425 Name: __EHoT Character: zohan Ping: 30
+PlayerID: 76561198436087982 Name: yarmon Character: yarmon Ping: 72
+
+17.11.2017 16:06:39: Client has executed command "bans"
+
+17.11.2017 16:06:39: Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 28512378
+PlayerID: 76561198395511982
+JudgeID: 0
+Reason: 999999 Duration: 31536000 Remaining: 30067130
+PlayerID: 76561198331180787
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30415348
+PlayerID: 76561198172502147
+JudgeID: 76561198237123262
+Reason: 3600 Duration: 31536000 Remaining: 30418742
+PlayerID: 76561198331252339
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30431075
+PlayerID: 76561198434258763
+JudgeID: 0
+Reason: reid Duration: 608400 Remaining: 197622
+
+17.11.2017 16:06:39: END
+17.11.2017 16:06:40: Client has executed command "bans"
+
+17.11.2017 16:06:40: Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 28512378
+PlayerID: 76561198395511982
+JudgeID: 0
+Reason: 999999 Duration: 31536000 Remaining: 30067130
+PlayerID: 76561198331180787
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30415348
+PlayerID: 76561198172502147
+JudgeID: 76561198237123262
+Reason: 3600 Duration: 31536000 Remaining: 30418742
+PlayerID: 76561198331252339
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30431075
+PlayerID: 76561198434258763
+JudgeID: 0
+Reason: reid Duration: 608400 Remaining: 197622
+
+17.11.2017 16:06:40: END
+17.11.2017 16:06:41: Disconnecting: PlayerID: 76561198436087982 Name: yarmon Character: yarmon
+
+17.11.2017 16:06:42: END
+17.11.2017 16:06:46: [World] hotdog [Takeo Masaki Loot.farm cs.money]: "/sell 99"
+
+17.11.2017 16:06:53: [World] Славик Cухоруков [slava.fan555]: "кому дать пистолет дробовик тп ко мне"
+
+17.11.2017 16:06:58: Client has executed command "players"
+
+17.11.2017 16:06:58: Players:
+PlayerID: 76561198234232440 Name: FuSian Character: Fusian Ping: 76
+PlayerID: 76561198349888524 Name: Takeo Masaki Loot.farm cs.money Character: hotdog Ping: 26
+PlayerID: 76561198170498361 Name: _Nick_Hunter_ Character: Nick_Hunter[RUS] Ping: 142
+PlayerID: 76561198408019916 Name: slava.fan555 Character: Славик Cухоруков Ping: 94
+PlayerID: 76561198444494613 Name: vladkrigin Character: 666а Ping: 163
+PlayerID: 76561198423084997 Name: lovemariina Character: Rendy Ping: 140
+PlayerID: 76561198263148425 Name: __EHoT Character: zohan Ping: 28
+
+17.11.2017 16:06:59: Client has executed command "bans"
+
+17.11.2017 16:06:59: Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 28512358
+PlayerID: 76561198395511982
+JudgeID: 0
+Reason: 999999 Duration: 31536000 Remaining: 30067110
+PlayerID: 76561198331180787
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30415328
+PlayerID: 76561198172502147
+JudgeID: 76561198237123262
+Reason: 3600 Duration: 31536000 Remaining: 30418722
+PlayerID: 76561198331252339
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30431055
+PlayerID: 76561198434258763
+JudgeID: 0
+Reason: reid Duration: 608400 Remaining: 197602
+
+17.11.2017 16:06:59: END
+17.11.2017 16:06:59: Client has executed command "bans"
+
+17.11.2017 16:07:00: Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 28512358
+PlayerID: 76561198395511982
+JudgeID: 0
+Reason: 999999 Duration: 31536000 Remaining: 30067110
+PlayerID: 76561198331180787
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30415328
+PlayerID: 76561198172502147
+JudgeID: 76561198237123262
+Reason: 3600 Duration: 31536000 Remaining: 30418722
+PlayerID: 76561198331252339
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30431055
+PlayerID: 76561198434258763
+JudgeID: 0
+Reason: reid Duration: 608400 Remaining: 197602
+
+17.11.2017 16:07:00: END
+17.11.2017 16:07:02: END
+17.11.2017 16:07:08: [World] zohan [__EHoT]: "/tpa славик сухоруков"
+
+17.11.2017 16:07:08: [World] Nick_Hunter[RUS] [_Nick_Hunter_]: "может револьвер дробовик"
+
+17.11.2017 16:07:16: [World] zohan [__EHoT]: "тп"
+
+17.11.2017 16:07:18: Client has executed command "players"
+
+17.11.2017 16:07:18: Players:
+PlayerID: 76561198234232440 Name: FuSian Character: Fusian Ping: 65
+PlayerID: 76561198349888524 Name: Takeo Masaki Loot.farm cs.money Character: hotdog Ping: 40
+PlayerID: 76561198170498361 Name: _Nick_Hunter_ Character: Nick_Hunter[RUS] Ping: 138
+PlayerID: 76561198408019916 Name: slava.fan555 Character: Славик Cухоруков Ping: 79
+PlayerID: 76561198444494613 Name: vladkrigin Character: 666а Ping: 129
+PlayerID: 76561198423084997 Name: lovemariina Character: Rendy Ping: 135
+PlayerID: 76561198263148425 Name: __EHoT Character: zohan Ping: 30
+
+17.11.2017 16:07:18: [World] Fusian [FuSian]: "/home"
+
+17.11.2017 16:07:18: Fusian moved x:849.6334 y:89.81961(+75.42554) z:241.4 in the last second (0.2379227)
+
+17.11.2017 16:07:18: Не обработано: Fusian moved x:849.6334 y:89.81961(+75.42554) z:241.4 in the last second (0.2379227)
+17.11.2017 16:07:19: [World] zohan [__EHoT]: "прими"
+
+17.11.2017 16:07:20: Client has executed command "bans"
+
+17.11.2017 16:07:20: Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 28512337
+PlayerID: 76561198395511982
+JudgeID: 0
+Reason: 999999 Duration: 31536000 Remaining: 30067089
+PlayerID: 76561198331180787
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30415307
+PlayerID: 76561198172502147
+JudgeID: 76561198237123262
+Reason: 3600 Duration: 31536000 Remaining: 30418701
+PlayerID: 76561198331252339
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30431034
+PlayerID: 76561198434258763
+JudgeID: 0
+Reason: reid Duration: 608400 Remaining: 197581
+
+17.11.2017 16:07:20: END
+17.11.2017 16:07:21: Client has executed command "bans"
+
+17.11.2017 16:07:21: Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 28512337
+PlayerID: 76561198395511982
+JudgeID: 0
+Reason: 999999 Duration: 31536000 Remaining: 30067089
+PlayerID: 76561198331180787
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30415307
+PlayerID: 76561198172502147
+JudgeID: 76561198237123262
+Reason: 3600 Duration: 31536000 Remaining: 30418701
+PlayerID: 76561198331252339
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30431034
+PlayerID: 76561198434258763
+JudgeID: 0
+Reason: reid Duration: 608400 Remaining: 197581
+
+17.11.2017 16:07:21: END
+17.11.2017 16:07:22: [World] Славик Cухоруков [slava.fan555]: "ну да"
+
+17.11.2017 16:07:24: END
+17.11.2017 16:07:26: [World] Славик Cухоруков [slava.fan555]: "/tpa a"
+
+17.11.2017 16:07:30: MessageAnnouncer >> Broadcast: vk.com/unturned_hgm - группа сервера ВК, уникальный кит в записи!
+
+17.11.2017 16:07:30: MessageAnnouncer >> vk.com/unturned_hgm - группа сервера ВК, уникальный кит в записи!
+
+17.11.2017 16:07:31: Disconnecting: PlayerID: 76561198263148425 Name: __EHoT Character: zohan
+
+17.11.2017 16:07:35: [World] Славик Cухоруков [slava.fan555]: "лол"
+
+17.11.2017 16:07:38: Client has executed command "players"
+
+17.11.2017 16:07:38: Players:
+PlayerID: 76561198234232440 Name: FuSian Character: Fusian Ping: 90
+PlayerID: 76561198349888524 Name: Takeo Masaki Loot.farm cs.money Character: hotdog Ping: 31
+PlayerID: 76561198170498361 Name: _Nick_Hunter_ Character: Nick_Hunter[RUS] Ping: 128
+PlayerID: 76561198408019916 Name: slava.fan555 Character: Славик Cухоруков Ping: 89
+PlayerID: 76561198444494613 Name: vladkrigin Character: 666а Ping: 143
+PlayerID: 76561198423084997 Name: lovemariina Character: Rendy Ping: 142
+
+17.11.2017 16:07:39: Client has executed command "bans"
+
+17.11.2017 16:07:39: Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 28512318
+PlayerID: 76561198395511982
+JudgeID: 0
+Reason: 999999 Duration: 31536000 Remaining: 30067070
+PlayerID: 76561198331180787
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30415288
+PlayerID: 76561198172502147
+JudgeID: 76561198237123262
+Reason: 3600 Duration: 31536000 Remaining: 30418682
+PlayerID: 76561198331252339
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30431015
+PlayerID: 76561198434258763
+JudgeID: 0
+Reason: reid Duration: 608400 Remaining: 197562
+
+17.11.2017 16:07:39: END
+17.11.2017 16:07:40: Client has executed command "bans"
+
+17.11.2017 16:07:40: Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 28512318
+PlayerID: 76561198395511982
+JudgeID: 0
+Reason: 999999 Duration: 31536000 Remaining: 30067070
+PlayerID: 76561198331180787
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30415288
+PlayerID: 76561198172502147
+JudgeID: 76561198237123262
+Reason: 3600 Duration: 31536000 Remaining: 30418682
+PlayerID: 76561198331252339
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30431015
+PlayerID: 76561198434258763
+JudgeID: 0
+Reason: reid Duration: 608400 Remaining: 197562
+[World] Славик Cухоруков [slava.fan555]: "подожду"
+
+17.11.2017 16:07:40: END
+17.11.2017 16:07:41: END
+17.11.2017 16:07:47: [World] 666а [vladkrigin]: "/home"
+
+17.11.2017 16:07:58: Client has executed command "players"
+
+17.11.2017 16:07:58: Players:
+PlayerID: 76561198234232440 Name: FuSian Character: Fusian Ping: 66
+PlayerID: 76561198349888524 Name: Takeo Masaki Loot.farm cs.money Character: hotdog Ping: 27
+PlayerID: 76561198170498361 Name: _Nick_Hunter_ Character: Nick_Hunter[RUS] Ping: 123
+PlayerID: 76561198408019916 Name: slava.fan555 Character: Славик Cухоруков Ping: 94
+PlayerID: 76561198444494613 Name: vladkrigin Character: 666а Ping: 138
+PlayerID: 76561198423084997 Name: lovemariina Character: Rendy Ping: 129
+
+17.11.2017 16:07:59: Client has executed command "bans"
+
+17.11.2017 16:07:59: Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 28512298
+PlayerID: 76561198395511982
+JudgeID: 0
+Reason: 999999 Duration: 31536000 Remaining: 30067050
+PlayerID: 76561198331180787
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30415268
+PlayerID: 76561198172502147
+JudgeID: 76561198237123262
+Reason: 3600 Duration: 31536000 Remaining: 30418662
+PlayerID: 76561198331252339
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30430995
+PlayerID: 76561198434258763
+JudgeID: 0
+Reason: reid Duration: 608400 Remaining: 197542
+
+17.11.2017 16:08:00: END
+17.11.2017 16:08:00: Client has executed command "bans"
+
+17.11.2017 16:08:00: Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 28512298
+PlayerID: 76561198395511982
+JudgeID: 0
+Reason: 999999 Duration: 31536000 Remaining: 30067050
+PlayerID: 76561198331180787
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30415268
+PlayerID: 76561198172502147
+JudgeID: 76561198237123262
+Reason: 3600 Duration: 31536000 Remaining: 30418662
+PlayerID: 76561198331252339
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30430995
+PlayerID: 76561198434258763
+JudgeID: 0
+Reason: reid Duration: 608400 Remaining: 197542
+
+17.11.2017 16:08:00: END
+17.11.2017 16:08:01: END
+17.11.2017 16:08:13: Disconnecting: PlayerID: 76561198444494613 Name: vladkrigin Character: 666а
+
+17.11.2017 16:08:16: Connecting: PlayerID: 76561198263148425 Name: __EHoT Character: zohan
+
+17.11.2017 16:08:16: zohan connected with IP 188.19.47.127
+
+17.11.2017 16:08:18: Client has executed command "players"
+
+17.11.2017 16:08:18: Players:
+PlayerID: 76561198234232440 Name: FuSian Character: Fusian Ping: 66
+PlayerID: 76561198349888524 Name: Takeo Masaki Loot.farm cs.money Character: hotdog Ping: 35
+PlayerID: 76561198170498361 Name: _Nick_Hunter_ Character: Nick_Hunter[RUS] Ping: 130
+PlayerID: 76561198408019916 Name: slava.fan555 Character: Славик Cухоруков Ping: 95
+PlayerID: 76561198423084997 Name: lovemariina Character: Rendy Ping: 145
+PlayerID: 76561198263148425 Name: __EHoT Character: zohan Ping: 24
+
+17.11.2017 16:08:19: Client has executed command "bans"
+
+17.11.2017 16:08:19: Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 28512278
+PlayerID: 76561198395511982
+JudgeID: 0
+Reason: 999999 Duration: 31536000 Remaining: 30067030
+PlayerID: 76561198331180787
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30415248
+PlayerID: 76561198172502147
+JudgeID: 76561198237123262
+Reason: 3600 Duration: 31536000 Remaining: 30418642
+PlayerID: 76561198331252339
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30430975
+PlayerID: 76561198434258763
+JudgeID: 0
+Reason: reid Duration: 608400 Remaining: 197522
+
+17.11.2017 16:08:19: END
+17.11.2017 16:08:20: Client has executed command "bans"
+
+17.11.2017 16:08:20: Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 28512278
+PlayerID: 76561198395511982
+JudgeID: 0
+Reason: 999999 Duration: 31536000 Remaining: 30067030
+PlayerID: 76561198331180787
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30415248
+PlayerID: 76561198172502147
+JudgeID: 76561198237123262
+Reason: 3600 Duration: 31536000 Remaining: 30418642
+PlayerID: 76561198331252339
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30430975
+PlayerID: 76561198434258763
+JudgeID: 0
+Reason: reid Duration: 608400 Remaining: 197522
+
+17.11.2017 16:08:20: END
+17.11.2017 16:08:21: END
+17.11.2017 16:08:23: PlayerInfoLib >> No expired player info records found for this batch.
+
+17.11.2017 16:08:24: Saving server
+
+17.11.2017 16:08:24: Сохранение сервера
+17.11.2017 16:08:30: Connecting: PlayerID: 76561198444494613 Name: vladkrigin Character: 666а
+
+17.11.2017 16:08:30: 666а connected with IP 87.225.75.232
+
+17.11.2017 16:08:30: MessageAnnouncer >> Broadcast: Посетите наш сайт. Вы будете удивлены! unturned.hemulgm.ru
+MessageAnnouncer >> Посетите наш сайт. Вы будете удивлены! unturned.hemulgm.ru
+
+17.11.2017 16:08:33: [World] zohan [__EHoT]: "/buy 1271 2"
+
+17.11.2017 16:08:38: Client has executed command "players"
+
+17.11.2017 16:08:38: Players:
+PlayerID: 76561198234232440 Name: FuSian Character: Fusian Ping: 73
+PlayerID: 76561198349888524 Name: Takeo Masaki Loot.farm cs.money Character: hotdog Ping: 30
+PlayerID: 76561198170498361 Name: _Nick_Hunter_ Character: Nick_Hunter[RUS] Ping: 120
+PlayerID: 76561198408019916 Name: slava.fan555 Character: Славик Cухоруков Ping: 75
+PlayerID: 76561198423084997 Name: lovemariina Character: Rendy Ping: 138
+PlayerID: 76561198263148425 Name: __EHoT Character: zohan Ping: 30
+PlayerID: 76561198444494613 Name: vladkrigin Character: 666а Ping: 158
+
+17.11.2017 16:08:39: Client has executed command "bans"
+
+17.11.2017 16:08:39: Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 28512258
+PlayerID: 76561198395511982
+JudgeID: 0
+Reason: 999999 Duration: 31536000 Remaining: 30067010
+PlayerID: 76561198331180787
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30415228
+PlayerID: 76561198172502147
+JudgeID: 76561198237123262
+Reason: 3600 Duration: 31536000 Remaining: 30418622
+PlayerID: 76561198331252339
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30430955
+PlayerID: 76561198434258763
+JudgeID: 0
+Reason: reid Duration: 608400 Remaining: 197502
+
+17.11.2017 16:08:39: END
+17.11.2017 16:08:40: Client has executed command "bans"
+
+17.11.2017 16:08:40: Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 28512257
+PlayerID: 76561198395511982
+JudgeID: 0
+Reason: 999999 Duration: 31536000 Remaining: 30067009
+PlayerID: 76561198331180787
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30415227
+PlayerID: 76561198172502147
+JudgeID: 76561198237123262
+Reason: 3600 Duration: 31536000 Remaining: 30418621
+PlayerID: 76561198331252339
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30430954
+PlayerID: 76561198434258763
+JudgeID: 0
+Reason: reid Duration: 608400 Remaining: 197501
+
+17.11.2017 16:08:40: END
+17.11.2017 16:08:42: END
+17.11.2017 16:08:55: Disconnecting: PlayerID: 76561198234232440 Name: FuSian Character: Fusian
+
+17.11.2017 16:08:58: Client has executed command "players"
+
+17.11.2017 16:08:58: Players:
+PlayerID: 76561198349888524 Name: Takeo Masaki Loot.farm cs.money Character: hotdog Ping: 39
+PlayerID: 76561198170498361 Name: _Nick_Hunter_ Character: Nick_Hunter[RUS] Ping: 135
+PlayerID: 76561198408019916 Name: slava.fan555 Character: Славик Cухоруков Ping: 100
+PlayerID: 76561198423084997 Name: lovemariina Character: Rendy Ping: 141
+PlayerID: 76561198263148425 Name: __EHoT Character: zohan Ping: 42
+PlayerID: 76561198444494613 Name: vladkrigin Character: 666а Ping: 122
+
+17.11.2017 16:08:59: [World] zohan [__EHoT]: "стой тут"
+
+17.11.2017 16:09:00: Client has executed command "bans"
+
+17.11.2017 16:09:00: Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 28512237
+PlayerID: 76561198395511982
+JudgeID: 0
+Reason: 999999 Duration: 31536000 Remaining: 30066989
+PlayerID: 76561198331180787
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30415207
+PlayerID: 76561198172502147
+JudgeID: 76561198237123262
+Reason: 3600 Duration: 31536000 Remaining: 30418601
+PlayerID: 76561198331252339
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30430934
+PlayerID: 76561198434258763
+JudgeID: 0
+Reason: reid Duration: 608400 Remaining: 197481
+
+17.11.2017 16:09:00: END
+17.11.2017 16:09:00: Client has executed command "bans"
+
+17.11.2017 16:09:00: Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 28512237
+PlayerID: 76561198395511982
+JudgeID: 0
+Reason: 999999 Duration: 31536000 Remaining: 30066989
+PlayerID: 76561198331180787
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30415207
+PlayerID: 76561198172502147
+JudgeID: 76561198237123262
+Reason: 3600 Duration: 31536000 Remaining: 30418601
+PlayerID: 76561198331252339
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30430934
+PlayerID: 76561198434258763
+JudgeID: 0
+Reason: reid Duration: 608400 Remaining: 197481
+
+17.11.2017 16:09:01: END
+17.11.2017 16:09:02: END
+17.11.2017 16:09:03: [World] zohan [__EHoT]: "ок"
+
+17.11.2017 16:09:03: [World] Славик Cухоруков [slava.fan555]: "ок"
+
+17.11.2017 16:09:08: [World] zohan [__EHoT]: "home"
+
+17.11.2017 16:09:10: [World] zohan [__EHoT]: "/home"
+
+17.11.2017 16:09:11: zohan moved x:-138.2724 y:65.88714(+35.42521) z:925.9868 in the last second (0.2379227)
+
+17.11.2017 16:09:11: Не обработано: zohan moved x:-138.2724 y:65.88714(+35.42521) z:925.9868 in the last second (0.2379227)
+17.11.2017 16:09:18: Client has executed command "players"
+
+17.11.2017 16:09:18: Players:
+PlayerID: 76561198349888524 Name: Takeo Masaki Loot.farm cs.money Character: hotdog Ping: 27
+PlayerID: 76561198170498361 Name: _Nick_Hunter_ Character: Nick_Hunter[RUS] Ping: 127
+PlayerID: 76561198408019916 Name: slava.fan555 Character: Славик Cухоруков Ping: 80
+PlayerID: 76561198423084997 Name: lovemariina Character: Rendy Ping: 146
+PlayerID: 76561198263148425 Name: __EHoT Character: zohan Ping: 38
+PlayerID: 76561198444494613 Name: vladkrigin Character: 666а Ping: 129
+
+17.11.2017 16:09:19: Client has executed command "bans"
+
+17.11.2017 16:09:19: Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 28512218
+PlayerID: 76561198395511982
+JudgeID: 0
+Reason: 999999 Duration: 31536000 Remaining: 30066970
+PlayerID: 76561198331180787
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30415188
+PlayerID: 76561198172502147
+JudgeID: 76561198237123262
+Reason: 3600 Duration: 31536000 Remaining: 30418582
+PlayerID: 76561198331252339
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30430915
+PlayerID: 76561198434258763
+JudgeID: 0
+Reason: reid Duration: 608400 Remaining: 197462
+
+17.11.2017 16:09:19: END
+17.11.2017 16:09:20: Client has executed command "bans"
+
+17.11.2017 16:09:20: Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 28512218
+PlayerID: 76561198395511982
+JudgeID: 0
+Reason: 999999 Duration: 31536000 Remaining: 30066970
+PlayerID: 76561198331180787
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30415188
+PlayerID: 76561198172502147
+JudgeID: 76561198237123262
+Reason: 3600 Duration: 31536000 Remaining: 30418582
+PlayerID: 76561198331252339
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30430915
+PlayerID: 76561198434258763
+JudgeID: 0
+Reason: reid Duration: 608400 Remaining: 197462
+
+17.11.2017 16:09:20: END
+17.11.2017 16:09:20: Disconnecting: PlayerID: 76561198263148425 Name: __EHoT Character: zohan
+
+17.11.2017 16:09:22: END
+17.11.2017 16:09:23: [World] Славик Cухоруков [slava.fan555]: "я здесь буду постояно ето же мой дом"
+
+17.11.2017 16:09:24: [World] Rendy [lovemariina]: "/home"
+
+17.11.2017 16:09:30: MessageAnnouncer >> Broadcast: Наберите /kit help, чтобы получить первую мед. помощь (бинты, таблетки, еда)
+
+17.11.2017 16:09:30: MessageAnnouncer >> Наберите /kit help, чтобы получить первую мед. помощь (бинты, таблетки, еда)
+
+17.11.2017 16:09:38: Client has executed command "players"
+
+17.11.2017 16:09:38: Players:
+PlayerID: 76561198349888524 Name: Takeo Masaki Loot.farm cs.money Character: hotdog Ping: 30
+PlayerID: 76561198170498361 Name: _Nick_Hunter_ Character: Nick_Hunter[RUS] Ping: 134
+PlayerID: 76561198408019916 Name: slava.fan555 Character: Славик Cухоруков Ping: 110
+PlayerID: 76561198423084997 Name: lovemariina Character: Rendy Ping: 145
+PlayerID: 76561198444494613 Name: vladkrigin Character: 666а Ping: 162
+
+17.11.2017 16:09:39: Client has executed command "bans"
+
+17.11.2017 16:09:39: Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 28512198
+PlayerID: 76561198395511982
+JudgeID: 0
+Reason: 999999 Duration: 31536000 Remaining: 30066950
+PlayerID: 76561198331180787
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30415168
+PlayerID: 76561198172502147
+JudgeID: 76561198237123262
+Reason: 3600 Duration: 31536000 Remaining: 30418562
+PlayerID: 76561198331252339
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30430895
+PlayerID: 76561198434258763
+JudgeID: 0
+Reason: reid Duration: 608400 Remaining: 197442
+
+17.11.2017 16:09:39: END
+17.11.2017 16:09:40: Client has executed command "bans"
+
+17.11.2017 16:09:40: Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 28512198
+PlayerID: 76561198395511982
+JudgeID: 0
+Reason: 999999 Duration: 31536000 Remaining: 30066950
+PlayerID: 76561198331180787
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30415168
+PlayerID: 76561198172502147
+JudgeID: 76561198237123262
+Reason: 3600 Duration: 31536000 Remaining: 30418562
+PlayerID: 76561198331252339
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30430895
+PlayerID: 76561198434258763
+JudgeID: 0
+Reason: reid Duration: 608400 Remaining: 197442
+
+17.11.2017 16:09:40: END
+17.11.2017 16:09:41: END
+17.11.2017 16:09:58: Client has executed command "players"
+
+17.11.2017 16:09:58: Players:
+PlayerID: 76561198349888524 Name: Takeo Masaki Loot.farm cs.money Character: hotdog Ping: 26
+PlayerID: 76561198170498361 Name: _Nick_Hunter_ Character: Nick_Hunter[RUS] Ping: 125
+PlayerID: 76561198408019916 Name: slava.fan555 Character: Славик Cухоруков Ping: 96
+PlayerID: 76561198423084997 Name: lovemariina Character: Rendy Ping: 149
+PlayerID: 76561198444494613 Name: vladkrigin Character: 666а Ping: 182
+
+17.11.2017 16:09:59: Client has executed command "bans"
+
+17.11.2017 16:09:59: Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 28512178
+PlayerID: 76561198395511982
+JudgeID: 0
+Reason: 999999 Duration: 31536000 Remaining: 30066930
+PlayerID: 76561198331180787
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30415148
+PlayerID: 76561198172502147
+JudgeID: 76561198237123262
+Reason: 3600 Duration: 31536000 Remaining: 30418542
+PlayerID: 76561198331252339
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30430875
+PlayerID: 76561198434258763
+JudgeID: 0
+Reason: reid Duration: 608400 Remaining: 197422
+
+17.11.2017 16:09:59: END
+17.11.2017 16:10:00: Client has executed command "bans"
+
+17.11.2017 16:10:00: Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 28512178
+PlayerID: 76561198395511982
+JudgeID: 0
+Reason: 999999 Duration: 31536000 Remaining: 30066930
+PlayerID: 76561198331180787
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30415148
+PlayerID: 76561198172502147
+JudgeID: 76561198237123262
+Reason: 3600 Duration: 31536000 Remaining: 30418542
+PlayerID: 76561198331252339
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30430875
+PlayerID: 76561198434258763
+JudgeID: 0
+Reason: reid Duration: 608400 Remaining: 197422
+
+17.11.2017 16:10:00: END
+17.11.2017 16:10:01: END
+17.11.2017 16:10:13: [World] Славик Cухоруков [slava.fan555]: "отдог я тебя видил на мосте"
+
+17.11.2017 16:10:18: Client has executed command "players"
+
+17.11.2017 16:10:18: Players:
+PlayerID: 76561198349888524 Name: Takeo Masaki Loot.farm cs.money Character: hotdog Ping: 62
+PlayerID: 76561198170498361 Name: _Nick_Hunter_ Character: Nick_Hunter[RUS] Ping: 141
+PlayerID: 76561198408019916 Name: slava.fan555 Character: Славик Cухоруков Ping: 74
+PlayerID: 76561198423084997 Name: lovemariina Character: Rendy Ping: 130
+PlayerID: 76561198444494613 Name: vladkrigin Character: 666а Ping: 135
+
+17.11.2017 16:10:18: [World] Славик Cухоруков [slava.fan555]: "хотдог"
+
+17.11.2017 16:10:20: Client has executed command "bans"
+
+17.11.2017 16:10:20: Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 28512157
+PlayerID: 76561198395511982
+JudgeID: 0
+Reason: 999999 Duration: 31536000 Remaining: 30066909
+PlayerID: 76561198331180787
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30415127
+PlayerID: 76561198172502147
+JudgeID: 76561198237123262
+Reason: 3600 Duration: 31536000 Remaining: 30418521
+PlayerID: 76561198331252339
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30430854
+PlayerID: 76561198434258763
+JudgeID: 0
+Reason: reid Duration: 608400 Remaining: 197401
+
+17.11.2017 16:10:20: END
+17.11.2017 16:10:20: Client has executed command "bans"
+
+17.11.2017 16:10:20: Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 28512157
+PlayerID: 76561198395511982
+JudgeID: 0
+Reason: 999999 Duration: 31536000 Remaining: 30066909
+PlayerID: 76561198331180787
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30415127
+PlayerID: 76561198172502147
+JudgeID: 76561198237123262
+Reason: 3600 Duration: 31536000 Remaining: 30418521
+PlayerID: 76561198331252339
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30430854
+PlayerID: 76561198434258763
+JudgeID: 0
+Reason: reid Duration: 608400 Remaining: 197401
+
+17.11.2017 16:10:20: END
+17.11.2017 16:10:22: END
+17.11.2017 16:10:23: Client has executed command "cchat "/33/09/17/04/17/15/16 /24/05/17/05/08 1 /24. 50 /13. " 255 255 0"
+
+17.11.2017 16:10:23: ServerControl >> Broadcast: Аирдроп через 1 ч. 50 м.
+
+17.11.2017 16:10:23: Не обработано: ServerControl >> Broadcast: Аирдроп через 1 ч. 50 м.
+17.11.2017 16:10:30: MessageAnnouncer >> Broadcast: vk.com/unturned_hgm - цены на премиум, VIP и другие услуги смотрите в группе!
+
+17.11.2017 16:10:30: MessageAnnouncer >> vk.com/unturned_hgm - цены на премиум, VIP и другие услуги смотрите в группе!
+
+17.11.2017 16:10:38: Client has executed command "players"
+
+17.11.2017 16:10:38: Players:
+PlayerID: 76561198349888524 Name: Takeo Masaki Loot.farm cs.money Character: hotdog Ping: 28
+PlayerID: 76561198170498361 Name: _Nick_Hunter_ Character: Nick_Hunter[RUS] Ping: 130
+PlayerID: 76561198408019916 Name: slava.fan555 Character: Славик Cухоруков Ping: 87
+PlayerID: 76561198423084997 Name: lovemariina Character: Rendy Ping: 134
+PlayerID: 76561198444494613 Name: vladkrigin Character: 666а Ping: 129
+
+17.11.2017 16:10:39: Client has executed command "bans"
+
+17.11.2017 16:10:39: Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 28512138
+PlayerID: 76561198395511982
+JudgeID: 0
+Reason: 999999 Duration: 31536000 Remaining: 30066890
+PlayerID: 76561198331180787
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30415108
+PlayerID: 76561198172502147
+JudgeID: 76561198237123262
+Reason: 3600 Duration: 31536000 Remaining: 30418502
+PlayerID: 76561198331252339
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30430835
+PlayerID: 76561198434258763
+JudgeID: 0
+Reason: reid Duration: 608400 Remaining: 197382
+
+17.11.2017 16:10:39: END
+17.11.2017 16:10:40: Client has executed command "bans"
+
+17.11.2017 16:10:40: Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 28512138
+PlayerID: 76561198395511982
+JudgeID: 0
+Reason: 999999 Duration: 31536000 Remaining: 30066890
+PlayerID: 76561198331180787
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30415108
+PlayerID: 76561198172502147
+JudgeID: 76561198237123262
+Reason: 3600 Duration: 31536000 Remaining: 30418502
+PlayerID: 76561198331252339
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30430835
+PlayerID: 76561198434258763
+JudgeID: 0
+Reason: reid Duration: 608400 Remaining: 197382
+
+17.11.2017 16:10:40: END
+17.11.2017 16:10:41: END
+17.11.2017 16:10:58: Client has executed command "players"
+
+17.11.2017 16:10:58: Players:
+PlayerID: 76561198349888524 Name: Takeo Masaki Loot.farm cs.money Character: hotdog Ping: 29
+PlayerID: 76561198170498361 Name: _Nick_Hunter_ Character: Nick_Hunter[RUS] Ping: 129
+PlayerID: 76561198408019916 Name: slava.fan555 Character: Славик Cухоруков Ping: 101
+PlayerID: 76561198423084997 Name: lovemariina Character: Rendy Ping: 205
+PlayerID: 76561198444494613 Name: vladkrigin Character: 666а Ping: 127
+
+17.11.2017 16:10:59: Client has executed command "bans"
+
+17.11.2017 16:10:59: Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 28512118
+PlayerID: 76561198395511982
+JudgeID: 0
+Reason: 999999 Duration: 31536000 Remaining: 30066870
+PlayerID: 76561198331180787
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30415088
+PlayerID: 76561198172502147
+JudgeID: 76561198237123262
+Reason: 3600 Duration: 31536000 Remaining: 30418482
+PlayerID: 76561198331252339
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30430815
+PlayerID: 76561198434258763
+JudgeID: 0
+Reason: reid Duration: 608400 Remaining: 197362
+
+17.11.2017 16:10:59: END
+17.11.2017 16:10:59: Client has executed command "bans"
+
+17.11.2017 16:10:59: Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 28512118
+PlayerID: 76561198395511982
+JudgeID: 0
+Reason: 999999 Duration: 31536000 Remaining: 30066870
+PlayerID: 76561198331180787
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30415088
+PlayerID: 76561198172502147
+JudgeID: 76561198237123262
+Reason: 3600 Duration: 31536000 Remaining: 30418482
+PlayerID: 76561198331252339
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30430815
+PlayerID: 76561198434258763
+JudgeID: 0
+Reason: reid Duration: 608400 Remaining: 197362
+
+17.11.2017 16:10:59: END
+17.11.2017 16:11:01: END
+17.11.2017 16:11:02: [World] Rendy [lovemariina]: "/home"
+

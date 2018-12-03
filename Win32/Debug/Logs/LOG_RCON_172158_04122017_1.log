@@ -1,0 +1,94 @@
+RocketRcon v2.4.8.0
+
+login aVIPs22031994
+players
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198403731875 Name: Malav Character: Malav Ping: 54
+PlayerID: 76561198133535023 Name: Emil`) Character: Адель Гиниятулли Ping: 89
+PlayerID: 76561198416514639 Name: Aulak Character: Aulak Ping: 54
+PlayerID: 76561198315561906 Name: MaXiMuS Character: MaXiMuS Ping: 50
+
+[World] Aulak [Aulak]: "/bui 1219"
+Client has executed command "GET NOW"
+ServerControl >> VALUE NOW [0] [0] [2698]
+
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27039085
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 29919363
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 29919379
+PlayerID: 76561198408019916
+JudgeID: 76561198237123262
+Reason: raid Duration: 604800 Remaining: 271710
+PlayerID: 76561198366284525
+JudgeID: 76561198237123262
+Reason: REKLAMA Duration: 604800 Remaining: 449879
+
+END
+END
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198403731875 Name: Malav Character: Malav Ping: 62
+PlayerID: 76561198133535023 Name: Emil`) Character: Адель Гиниятулли Ping: 97
+PlayerID: 76561198416514639 Name: Aulak Character: Aulak Ping: 58
+PlayerID: 76561198315561906 Name: MaXiMuS Character: MaXiMuS Ping: 54
+
+END
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27039080
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 29919358
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 29919374
+PlayerID: 76561198408019916
+JudgeID: 76561198237123262
+Reason: raid Duration: 604800 Remaining: 271705
+PlayerID: 76561198366284525
+JudgeID: 76561198237123262
+Reason: REKLAMA Duration: 604800 Remaining: 449874
+
+END
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2708]
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2710]
+
+[World] Aulak [Aulak]: "/buy 1219"
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2718]
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2721]
+
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198403731875 Name: Malav Character: Malav Ping: 50
+PlayerID: 76561198133535023 Name: Emil`) Character: Адель Гиниятулли Ping: 93
+PlayerID: 76561198416514639 Name: Aulak Character: Aulak Ping: 58
+PlayerID: 76561198315561906 Name: MaXiMuS Character: MaXiMuS Ping: 50
+

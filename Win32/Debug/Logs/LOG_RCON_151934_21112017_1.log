@@ -1,0 +1,273 @@
+RocketRcon v2.4.8.0
+
+login aVIPs22031994
+players
+Reason: cheater Duration: 31104000 Remaining: 31049907
+Client has executed command "players"
+Players:
+PlayerID: 76561198301131571 Name: PogChamp Character: Тише Будь! Ping: 143
+PlayerID: 76561198360077099 Name: BJIOXA Character: BJIOXA Ping: 203
+PlayerID: 76561198242496136 Name: _Official_Group_GameGuardian_ Character: mer_1560 Ping: 34
+PlayerID: 76561198190664649 Name: Енот Ракета Character: Foxy Ping: 78
+PlayerID: 76561198245870076 Name: 0|TheGangstar|0 Character: Nyan Bread Ping: 91
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 167
+
+Не обработано: Reason: cheater Duration: 31104000 Remaining: 31049907
+Client has executed command "bans"
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 28169602
+PlayerID: 76561198336969313
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 284835
+PlayerID: 76561198212486347
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 285166
+PlayerID: 76561198391097237
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 447653
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 31049880
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 31049896
+
+END
+Broadcast: [ZOMBIE] Foxy был съеден зомби! 
+Foxy [Енот Ракета] was mauled by a zombie!
+
+Не обработано: Broadcast: [ZOMBIE] Foxy был съеден зомби! 
+Не обработано: Foxy [Енот Ракета] was mauled by a zombie!
+END
+MessageAnnouncer >> Broadcast: Наберите /kit claim, чтобы получить Claim Flag
+
+MessageAnnouncer >> Наберите /kit claim, чтобы получить Claim Flag
+
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198301131571 Name: PogChamp Character: Тише Будь! Ping: 146
+PlayerID: 76561198360077099 Name: BJIOXA Character: BJIOXA Ping: 191
+PlayerID: 76561198242496136 Name: _Official_Group_GameGuardian_ Character: mer_1560 Ping: 41
+PlayerID: 76561198190664649 Name: Енот Ракета Character: Foxy Ping: 187
+PlayerID: 76561198245870076 Name: 0|TheGangstar|0 Character: Nyan Bread Ping: 92
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 172
+
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 28169593
+PlayerID: 76561198336969313
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 284826
+PlayerID: 76561198212486347
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 285157
+PlayerID: 76561198391097237
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 447644
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 31049871
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 31049887
+
+END
+END
+[World] Nyan Bread [0|TheGangstar|0]: "блоха тепнись пж помощь нужна твоя"
+
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198301131571 Name: PogChamp Character: Тише Будь! Ping: 139
+PlayerID: 76561198360077099 Name: BJIOXA Character: BJIOXA Ping: 80
+PlayerID: 76561198242496136 Name: _Official_Group_GameGuardian_ Character: mer_1560 Ping: 36
+PlayerID: 76561198190664649 Name: Енот Ракета Character: Foxy Ping: 117
+PlayerID: 76561198245870076 Name: 0|TheGangstar|0 Character: Nyan Bread Ping: 82
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 171
+
+[World] Тише Будь! [PogChamp]: "/i 1373 250"
+
+Дал Тише Будь! вещь 1373:250
+
+Не обработано: Дал Тише Будь! вещь 1373:250
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 28169571
+PlayerID: 76561198336969313
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 284804
+PlayerID: 76561198212486347
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 285135
+PlayerID: 76561198391097237
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 447622
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 31049849
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 31049865
+
+END
+END
+[World] BJIOXA [BJIOXA]: "/tpa nyan"
+
+[World] Nyan Bread [0|TheGangstar|0]: "/tpa a"
+
+Client has executed command "cchat "/33/09/17/04/17/15/16 /24/05/17/05/08 4 /24. 40 /13. " 255 255 0"
+
+ServerControl >> Broadcast: Аирдроп через 4 ч. 40 м.
+
+Не обработано: ServerControl >> Broadcast: Аирдроп через 4 ч. 40 м.
+Saving server
+
+Сохранение сервера
+[World] Nyan Bread [0|TheGangstar|0]: "крч прими тп когда я отправлю, ок?"
+
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198301131571 Name: PogChamp Character: Тише Будь! Ping: 144
+PlayerID: 76561198360077099 Name: BJIOXA Character: BJIOXA Ping: 68
+PlayerID: 76561198242496136 Name: _Official_Group_GameGuardian_ Character: mer_1560 Ping: 36
+PlayerID: 76561198190664649 Name: Енот Ракета Character: Foxy Ping: 125
+PlayerID: 76561198245870076 Name: 0|TheGangstar|0 Character: Nyan Bread Ping: 78
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 172
+
+[World] Nyan Bread [0|TheGangstar|0]: "пж"
+
+[World] BJIOXA [BJIOXA]: "Jr"
+
+Client has executed command "bans"
+
+[World] BJIOXA [BJIOXA]: "Ок"
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 28169552
+PlayerID: 76561198336969313
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 284785
+PlayerID: 76561198212486347
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 285116
+PlayerID: 76561198391097237
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 447603
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 31049830
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 31049846
+
+END
+END
+[World] Expert1337 [Expert13372284200]: "/vanish"
+
+Expert1337 нивидимость отключена
+
+Не обработано: Expert1337 нивидимость отключена
+PlayerInfoLib >> No expired player info records found for this batch.
+
+MessageAnnouncer >> Broadcast: Если модератор ведёт себя неподобающе, пишите в группу или ЛС (vk.com/unturned_hgm, vk.com/hemulgm)
+
+MessageAnnouncer >> Если модератор ведёт себя неподобающе, пишите в группу или ЛС (vk.com/unturned_hgm, vk.com/hemulgm)
+
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198301131571 Name: PogChamp Character: Тише Будь! Ping: 142
+PlayerID: 76561198360077099 Name: BJIOXA Character: BJIOXA Ping: 70
+PlayerID: 76561198242496136 Name: _Official_Group_GameGuardian_ Character: mer_1560 Ping: 35
+PlayerID: 76561198190664649 Name: Енот Ракета Character: Foxy Ping: 74
+PlayerID: 76561198245870076 Name: 0|TheGangstar|0 Character: Nyan Bread Ping: 90
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 170
+
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 28169533
+PlayerID: 76561198336969313
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 284766
+PlayerID: 76561198212486347
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 285097
+PlayerID: 76561198391097237
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 447584
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 31049811
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 31049827
+
+END
+END
+[World] Expert1337 [Expert13372284200]: "/god"
+
+Expert1337 включен Godmode
+[World] Nyan Bread [0|TheGangstar|0]: "/tpa bj"
+
+Не обработано: Expert1337 включен Godmode
+[World] BJIOXA [BJIOXA]: "/tpa a"
+
+[World] Expert1337 [Expert13372284200]: "/i 15"
+
+Дал Expert1337 вещь 15:1
+
+Не обработано: Дал Expert1337 вещь 15:1
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198301131571 Name: PogChamp Character: Тише Будь! Ping: 147
+PlayerID: 76561198360077099 Name: BJIOXA Character: BJIOXA Ping: 79
+PlayerID: 76561198242496136 Name: _Official_Group_GameGuardian_ Character: mer_1560 Ping: 38
+PlayerID: 76561198190664649 Name: Енот Ракета Character: Foxy Ping: 72
+PlayerID: 76561198245870076 Name: 0|TheGangstar|0 Character: Nyan Bread Ping: 92
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 161
+
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 28169513
+PlayerID: 76561198336969313
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 284746
+PlayerID: 76561198212486347
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 285077
+PlayerID: 76561198391097237
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 447564
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 31049791
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 31049807
+
+END
+END
+[World] Nyan Bread [0|TheGangstar|0]: "аа тут же флаг"
+
+[World] Nyan Bread [0|TheGangstar|0]: "хотел прикол сделать"
+
+[World] Nyan Bread [0|TheGangstar|0]: "потавить тут взрывчатку"
+

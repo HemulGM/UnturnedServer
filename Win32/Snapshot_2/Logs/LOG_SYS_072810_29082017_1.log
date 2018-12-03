@@ -1,0 +1,76 @@
+29.08.2017 7:28:11: ClientSocketLookup
+29.08.2017 7:28:11: ClientSocketConnecting
+29.08.2017 7:28:12: ClientSocketConnect
+29.08.2017 7:28:12: ClientSocketWrite
+30.08.2017 12:46:34: Access denied for user 'r61524_hgm_umgr1'@'comul.ru' (using password: YES)
+31.08.2017 12:21:53: ClientSocketDisconnect
+31.08.2017 12:21:53: ClientSocketLookup
+31.08.2017 12:21:53: ClientSocketConnecting
+31.08.2017 12:21:53: ClientSocketConnect
+31.08.2017 12:21:53: ClientSocketWrite
+31.08.2017 12:23:26: ClientSocketError Соединение прервано
+31.08.2017 12:23:45: ClientSocketError eeSend
+31.08.2017 12:23:45: ClientSocketDisconnect
+31.08.2017 12:26:07: ClientSocketLookup
+31.08.2017 12:26:07: ClientSocketConnecting
+31.08.2017 12:26:07: ClientSocketConnect
+31.08.2017 12:26:07: ClientSocketWrite
+31.08.2017 13:52:08: ClientSocketError Соединение прервано
+31.08.2017 13:52:25: ClientSocketError eeSend
+31.08.2017 13:52:25: ClientSocketDisconnect
+31.08.2017 14:09:29: ClientSocketLookup
+31.08.2017 14:09:29: ClientSocketConnecting
+31.08.2017 14:09:29: ClientSocketConnect
+31.08.2017 14:09:29: ClientSocketWrite
+31.08.2017 14:29:15: ClientSocketDisconnect
+31.08.2017 14:29:15: ClientSocketLookup
+31.08.2017 14:29:15: ClientSocketConnecting
+31.08.2017 14:29:15: ClientSocketConnect
+31.08.2017 14:29:15: ClientSocketWrite
+31.08.2017 14:31:26: ClientSocketError Соединение прервано
+31.08.2017 14:31:40: ClientSocketError eeSend
+31.08.2017 14:31:40: ClientSocketDisconnect
+31.08.2017 15:16:59: ClientSocketLookup
+31.08.2017 15:16:59: ClientSocketConnecting
+31.08.2017 15:16:59: ClientSocketConnect
+31.08.2017 15:16:59: ClientSocketWrite
+01.09.2017 9:06:09: ClientSocketError Соединение прервано
+01.09.2017 9:06:24: ClientSocketError eeSend
+01.09.2017 9:06:24: ClientSocketDisconnect
+01.09.2017 13:39:45: ClientSocketLookup
+01.09.2017 13:39:45: ClientSocketConnecting
+01.09.2017 13:39:45: ClientSocketConnect
+01.09.2017 13:39:45: ClientSocketWrite
+02.09.2017 10:54:59: ClientSocketError Соединение прервано
+02.09.2017 10:55:13: ClientSocketError eeSend
+02.09.2017 10:55:13: ClientSocketDisconnect
+02.09.2017 10:56:31: ClientSocketLookup
+02.09.2017 10:56:31: ClientSocketConnecting
+02.09.2017 10:56:31: ClientSocketConnect
+02.09.2017 10:56:31: ClientSocketWrite
+02.09.2017 22:19:48: ClientSocketError Соединение прервано
+02.09.2017 22:19:49: ClientSocketError eeSend
+02.09.2017 22:19:49: ClientSocketDisconnect
+03.09.2017 12:49:01: ClientSocketLookup
+03.09.2017 12:49:01: ClientSocketConnecting
+03.09.2017 12:49:01: ClientSocketConnect
+03.09.2017 12:49:01: ClientSocketWrite
+04.09.2017 16:36:19: ClientSocketError Соединение прервано
+04.09.2017 16:36:30: ClientSocketError eeSend
+04.09.2017 16:36:30: ClientSocketDisconnect
+04.09.2017 16:37:02: ClientSocketLookup
+04.09.2017 16:37:02: ClientSocketConnecting
+04.09.2017 16:37:02: ClientSocketConnect
+04.09.2017 16:37:02: ClientSocketWrite
+05.09.2017 12:08:27: ClientSocketDisconnect
+05.09.2017 12:08:27: ClientSocketLookup
+05.09.2017 12:08:27: ClientSocketConnecting
+05.09.2017 12:08:27: ClientSocketConnect
+05.09.2017 12:08:27: ClientSocketWrite
+06.09.2017 10:15:48: ClientSocketError Соединение прервано
+06.09.2017 10:15:49: ClientSocketError eeSend
+06.09.2017 10:15:49: ClientSocketDisconnect
+06.09.2017 10:17:04: ClientSocketLookup
+06.09.2017 10:17:04: ClientSocketConnecting
+06.09.2017 10:17:04: ClientSocketConnect
+06.09.2017 10:17:04: ClientSocketWrite

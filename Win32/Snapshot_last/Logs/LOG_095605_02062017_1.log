@@ -1,0 +1,187 @@
+Не обработано: RocketRcon v2.4.8.0
+RocketRcon v2.4.8.0
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 117
+PlayerID: 76561198376380342 Name: Sergeant Gamezer Character: Dr.Lee Gamezer  Ping: 132
+PlayerID: 76561198319470051 Name: _TATAP_ Character: TATAP123 Ping: 62
+PlayerID: 76561198381173735 Name: ingener_spring Character: ingener_spring Ping: 78
+PlayerID: 76561198345092267 Name: demid3450 Character: [гл террористов] демид журавлёв Ping: 101
+PlayerID: 76561198242024664 Name: роршах Character: psk_quadro Ping: 414
+
+TimerTerminateCommand.Enabled with Players:
+Client has executed command "bans"
+
+END with Players:
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 123123
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 31305471
+PlayerID: 123
+JudgeID: 0
+Reason: durila Duration: 4000 Remaining: 4294741265
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294769638
+
+TimerTerminateCommand.Enabled with Bans:
+[World] psk_quadro [роршах]: "/tpa demid"
+
+END with Bans:
+[World] TATAP123 [_TATAP_]: "как тебя зовут"
+[World] psk_quadro [роршах]: "прим"
+[World] [гл террористов] демид журавлёв [demid3450]: "/kit claim"
+[World] [гл террористов] демид журавлёв [demid3450]: "/tpa a"
+[World] ingener_spring [ingener_spring]: "меня"
+
+Client has executed command "say "???M: ????????""
+[World] TATAP123 [_TATAP_]: "да"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 125
+PlayerID: 76561198376380342 Name: Sergeant Gamezer Character: Dr.Lee Gamezer  Ping: 125
+PlayerID: 76561198319470051 Name: _TATAP_ Character: TATAP123 Ping: 46
+PlayerID: 76561198381173735 Name: ingener_spring Character: ingener_spring Ping: 62
+PlayerID: 76561198345092267 Name: demid3450 Character: [гл террористов] демид журавлёв Ping: 101
+PlayerID: 76561198242024664 Name: роршах Character: psk_quadro Ping: 375
+
+END with Players:
+[World] [гл террористов] демид журавлёв [demid3450]: "help hgm1 claim"
+
+[World] ingener_spring [ingener_spring]: "виталя"
+
+[World] [гл террористов] демид журавлёв [demid3450]: "/kits"
+
+[World] TATAP123 [_TATAP_]: "меня даниил"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 109
+PlayerID: 76561198376380342 Name: Sergeant Gamezer Character: Dr.Lee Gamezer  Ping: 125
+PlayerID: 76561198319470051 Name: _TATAP_ Character: TATAP123 Ping: 62
+PlayerID: 76561198381173735 Name: ingener_spring Character: ingener_spring Ping: 78
+PlayerID: 76561198345092267 Name: demid3450 Character: [гл террористов] демид журавлёв Ping: 101
+PlayerID: 76561198242024664 Name: роршах Character: psk_quadro Ping: 320
+
+END with Players:
+[World] psk_quadro [роршах]: "я тебя не шлушу"
+
+[World] ingener_spring [ingener_spring]: "есть аружее"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 132
+PlayerID: 76561198376380342 Name: Sergeant Gamezer Character: Dr.Lee Gamezer  Ping: 132
+PlayerID: 76561198319470051 Name: _TATAP_ Character: TATAP123 Ping: 54
+PlayerID: 76561198381173735 Name: ingener_spring Character: ingener_spring Ping: 54
+PlayerID: 76561198345092267 Name: demid3450 Character: [гл террористов] демид журавлёв Ping: 125
+PlayerID: 76561198242024664 Name: роршах Character: psk_quadro Ping: 382
+
+END with Players:
+[World] TATAP123 [_TATAP_]: "неа"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 132
+PlayerID: 76561198376380342 Name: Sergeant Gamezer Character: Dr.Lee Gamezer  Ping: 132
+PlayerID: 76561198319470051 Name: _TATAP_ Character: TATAP123 Ping: 62
+PlayerID: 76561198381173735 Name: ingener_spring Character: ingener_spring Ping: 62
+PlayerID: 76561198345092267 Name: demid3450 Character: [гл террористов] демид журавлёв Ping: 125
+PlayerID: 76561198242024664 Name: роршах Character: psk_quadro Ping: 554
+
+Не обработано: PlayerInfoLib >> No expired player info records found for this batch.
+TimerTerminateCommand.Enabled with Players:
+PlayerInfoLib >> No expired player info records found for this batch.
+
+END with Players:
+[World] psk_quadro [роршах]: "адежду дай"
+
+Не обработано: MessageAnnouncer >> Broadcast: vk.com/unturned_hgm - цены на премиум, VIP и другие услуги смотрите в группе!
+MessageAnnouncer >> Broadcast: vk.com/unturned_hgm - цены на премиум, VIP и другие услуги смотрите в группе!
+
+Не обработано: MessageAnnouncer >> vk.com/unturned_hgm - цены на премиум, VIP и другие услуги смотрите в группе!
+MessageAnnouncer >> vk.com/unturned_hgm - цены на премиум, VIP и другие услуги смотрите в группе!
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 125
+PlayerID: 76561198376380342 Name: Sergeant Gamezer Character: Dr.Lee Gamezer  Ping: 140
+PlayerID: 76561198319470051 Name: _TATAP_ Character: TATAP123 Ping: 62
+PlayerID: 76561198381173735 Name: ingener_spring Character: ingener_spring Ping: 62
+PlayerID: 76561198345092267 Name: demid3450 Character: [гл террористов] демид журавлёв Ping: 156
+PlayerID: 76561198242024664 Name: роршах Character: psk_quadro Ping: 289
+
+END with Players:
+[World] [гл террористов] демид журавлёв [demid3450]: "нету"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 140
+PlayerID: 76561198376380342 Name: Sergeant Gamezer Character: Dr.Lee Gamezer  Ping: 148
+PlayerID: 76561198319470051 Name: _TATAP_ Character: TATAP123 Ping: 62
+PlayerID: 76561198381173735 Name: ingener_spring Character: ingener_spring Ping: 70
+PlayerID: 76561198345092267 Name: demid3450 Character: [гл террористов] демид журавлёв Ping: 164
+PlayerID: 76561198242024664 Name: роршах Character: psk_quadro Ping: 562
+
+END with Players:
+[World] psk_quadro [роршах]: "как нету"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 148
+PlayerID: 76561198376380342 Name: Sergeant Gamezer Character: Dr.Lee Gamezer  Ping: 125
+PlayerID: 76561198319470051 Name: _TATAP_ Character: TATAP123 Ping: 62
+PlayerID: 76561198381173735 Name: ingener_spring Character: ingener_spring Ping: 62
+PlayerID: 76561198345092267 Name: demid3450 Character: [гл террористов] демид журавлёв Ping: 109
+PlayerID: 76561198242024664 Name: роршах Character: psk_quadro Ping: 250
+
+END with Players:
+[World] [гл террористов] демид журавлёв [demid3450]: "пушек у меня дохуя"
+
+[World] [гл террористов] демид журавлёв [demid3450]: "причём неразрешонная"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 125
+PlayerID: 76561198376380342 Name: Sergeant Gamezer Character: Dr.Lee Gamezer  Ping: 132
+PlayerID: 76561198319470051 Name: _TATAP_ Character: TATAP123 Ping: 62
+PlayerID: 76561198381173735 Name: ingener_spring Character: ingener_spring Ping: 54
+PlayerID: 76561198345092267 Name: demid3450 Character: [гл террористов] демид журавлёв Ping: 101
+PlayerID: 76561198242024664 Name: роршах Character: psk_quadro Ping: 367
+
+END with Players:
+[World] psk_quadro [роршах]: "дверь открой"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 132
+PlayerID: 76561198376380342 Name: Sergeant Gamezer Character: Dr.Lee Gamezer  Ping: 109
+PlayerID: 76561198319470051 Name: _TATAP_ Character: TATAP123 Ping: 54
+PlayerID: 76561198381173735 Name: ingener_spring Character: ingener_spring Ping: 54
+PlayerID: 76561198345092267 Name: demid3450 Character: [гл террористов] демид журавлёв Ping: 101
+PlayerID: 76561198242024664 Name: роршах Character: psk_quadro Ping: 289
+
+END with Players:

@@ -1,0 +1,263 @@
+RocketRcon v2.4.8.0
+
+login aVIPs22031994
+players
+Client has executed command "players"
+Players:
+PlayerID: 76561198424120093 Name: Knockout1Demscouts Character: Knockout1Demscouts Ping: 195
+PlayerID: 76561198197448591 Name: Носок с ручкой Character: arleta Ping: 138
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 171
+PlayerID: 76561198265247601 Name: BisonbonasusPlay Character: Dmitriy Ping: 93
+PlayerID: 76561198327251386 Name: BOMSHBIRBIRVECHEN Character: krayn888 Ping: 164
+PlayerID: 76561198290935570 Name: Панда Character: Панда Ping: 169
+
+Client has executed command "bans"
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27997958
+PlayerID: 76561198336969313
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 113191
+PlayerID: 76561198212486347
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 113522
+PlayerID: 76561198391097237
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 276009
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30878236
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30878252
+
+END
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [1114]
+
+END
+[World] Expert1337 [Expert13372284200]: "/vehicle 67"
+
+Successfully gave Expert13372284200 67!
+
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198424120093 Name: Knockout1Demscouts Character: Knockout1Demscouts Ping: 205
+PlayerID: 76561198197448591 Name: Носок с ручкой Character: arleta Ping: 132
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 156
+PlayerID: 76561198265247601 Name: BisonbonasusPlay Character: Dmitriy Ping: 89
+PlayerID: 76561198327251386 Name: BOMSHBIRBIRVECHEN Character: krayn888 Ping: 164
+PlayerID: 76561198290935570 Name: Панда Character: Панда Ping: 169
+
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27997947
+PlayerID: 76561198336969313
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 113180
+PlayerID: 76561198212486347
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 113511
+PlayerID: 76561198391097237
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 275998
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30878225
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30878241
+
+END
+END
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [1124]
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [1125]
+
+[World] krayn888 [BOMSHBIRBIRVECHEN]: "/KIT START"
+
+[World] Панда [Панда]: "/kits"
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [1134]
+
+GET NOW
+Client has executed command "GET NOW"
+ServerControl >> VALUE NOW [1] [0] [1135]
+
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198424120093 Name: Knockout1Demscouts Character: Knockout1Demscouts Ping: 199
+PlayerID: 76561198197448591 Name: Носок с ручкой Character: arleta Ping: 142
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 167
+PlayerID: 76561198265247601 Name: BisonbonasusPlay Character: Dmitriy Ping: 93
+PlayerID: 76561198327251386 Name: BOMSHBIRBIRVECHEN Character: krayn888 Ping: 171
+PlayerID: 76561198290935570 Name: Панда Character: Панда Ping: 171
+
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27997927
+PlayerID: 76561198336969313
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 113160
+PlayerID: 76561198212486347
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 113491
+PlayerID: 76561198391097237
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 275978
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30878205
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30878221
+
+END
+END
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [1144]
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [1145]
+
+[World] krayn888 [BOMSHBIRBIRVECHEN]: "/KIT BONUS"
+
+[World] Панда [Панда]: "/kit claim"
+
+[World] krayn888 [BOMSHBIRBIRVECHEN]: "/KITS"
+
+[World] Expert1337 [Expert13372284200]: "/home"
+
+MessageAnnouncer >> Broadcast: Наберите /kit help, чтобы получить первую мед. помощь (бинты, таблетки, еда)
+
+MessageAnnouncer >> Наберите /kit help, чтобы получить первую мед. помощь (бинты, таблетки, еда)
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [1154]
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [1155]
+
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198424120093 Name: Knockout1Demscouts Character: Knockout1Demscouts Ping: 185
+PlayerID: 76561198197448591 Name: Носок с ручкой Character: arleta Ping: 134
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 146
+PlayerID: 76561198265247601 Name: BisonbonasusPlay Character: Dmitriy Ping: 93
+PlayerID: 76561198327251386 Name: BOMSHBIRBIRVECHEN Character: krayn888 Ping: 166
+PlayerID: 76561198290935570 Name: Панда Character: Панда Ping: 169
+
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27997907
+PlayerID: 76561198336969313
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 113140
+PlayerID: 76561198212486347
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 113471
+PlayerID: 76561198391097237
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 275958
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30878185
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30878201
+
+END
+END
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [1164]
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [1165]
+
+[World] Панда [Панда]: "/kits"
+
+[World] Панда [Панда]: "/kit start"
+
+[World] Панда [Панда]: "/kit help"
+
+Client has executed command "GET NOW"
+ServerControl >> VALUE NOW [1] [0] [1174]
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [1175]
+
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198424120093 Name: Knockout1Demscouts Character: Knockout1Demscouts Ping: 193
+PlayerID: 76561198197448591 Name: Носок с ручкой Character: arleta Ping: 125
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 152
+PlayerID: 76561198265247601 Name: BisonbonasusPlay Character: Dmitriy Ping: 95
+PlayerID: 76561198327251386 Name: BOMSHBIRBIRVECHEN Character: krayn888 Ping: 171
+PlayerID: 76561198290935570 Name: Панда Character: Панда Ping: 169
+
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27997887
+PlayerID: 76561198336969313
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 113120
+PlayerID: 76561198212486347
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 113451
+PlayerID: 76561198391097237
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 275938
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30878165
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30878181
+
+END
+END
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [1184]
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [1185]
+

@@ -1,0 +1,29 @@
+Не обработано: RocketRcon v2.4.8.0
+RocketRcon v2.4.8.0
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198152563082 Name: Drakon Character: [MODER]Stanat Ping: 31
+PlayerID: 76561198367661777 Name: Andrei888 Character: zmushko2002 Ping: 93
+PlayerID: 76561198393829004 Name: rubisbogdan Character: BodyaBich Ping: 89
+PlayerID: 76561198322934559 Name: @& утка про  &@ Character: yesjop Ping: 70
+PlayerID: 76561198328119181 Name: Fex Character: Fex Ping: 46
+PlayerID: 76561198347057860 Name: PhantoM Character: ResonZ Ping: 46
+PlayerID: 76561198147477828 Name: galbatsovmikail Character: galbatsovmikail Ping: 46
+PlayerID: 76561198381173735 Name: ingener_spring Character: ingener_spring Ping: 148
+PlayerID: 76561198350739197 Name: bykov4677 Character: MR.CAT Ping: 93
+PlayerID: 76561198368128006 Name: Aibek Character: 3o/loToN_Akym Ping: 97
+PlayerID: 76561198350260924 Name: Спартанец Character: дима Ping: 160
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294412459
+
+END with Bans:

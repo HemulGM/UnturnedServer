@@ -1,0 +1,628 @@
+RocketRcon v2.4.8.0
+
+login aVIPs22031994
+players
+Client has executed command "players"
+Players:
+PlayerID: 76561198245870076 Name: 0|TheGangstar|0 Character: Nyan Bread Ping: 78
+PlayerID: 76561198398244891 Name: глобал в кэс Character: килер 2000 Ping: 15
+PlayerID: 76561198366717561 Name: MAXIMUSSSSSSS Character: MAXIMUSSSSSSS Ping: 15
+
+Client has executed command "bans"
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 28178454
+PlayerID: 76561198336969313
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 293687
+PlayerID: 76561198212486347
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 294018
+PlayerID: 76561198391097237
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 456505
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 31058732
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 31058748
+
+END
+END
+expirience 76561198245870076 100
+Client has executed command "expirience 76561198245870076 100"
+
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198245870076 Name: 0|TheGangstar|0 Character: Nyan Bread Ping: 82
+PlayerID: 76561198398244891 Name: глобал в кэс Character: килер 2000 Ping: 15
+PlayerID: 76561198366717561 Name: MAXIMUSSSSSSS Character: MAXIMUSSSSSSS Ping: 19
+
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 28178442
+PlayerID: 76561198336969313
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 293675
+PlayerID: 76561198212486347
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 294006
+PlayerID: 76561198391097237
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 456493
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 31058720
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 31058736
+
+END
+END
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198245870076 Name: 0|TheGangstar|0 Character: Nyan Bread Ping: 82
+PlayerID: 76561198398244891 Name: глобал в кэс Character: килер 2000 Ping: 7
+PlayerID: 76561198366717561 Name: MAXIMUSSSSSSS Character: MAXIMUSSSSSSS Ping: 23
+
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 28178422
+PlayerID: 76561198336969313
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 293655
+PlayerID: 76561198212486347
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 293986
+PlayerID: 76561198391097237
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 456473
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 31058700
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 31058716
+
+END
+END
+cchat "76561198245870076" "Nyan, /32 /14/00 /19/05/01/05 /19/20/19 /16/17/15/02/05/17/32/31" 255 0 0
+Client has executed command "cchat "76561198245870076" "Nyan, /32 /14/00 /19/05/01/05 /19/20/19 /16/17/15/02/05/17/32/31" 255 0 0"
+
+ServerControl >> Nyan, /32 /14/00 /19/05/01/05 /19/20/19 /16/17/15/02/05/17/32/31 255 0 0
+
+Не обработано: ServerControl >> Nyan, /32 /14/00 /19/05/01/05 /19/20/19 /16/17/15/02/05/17/32/31 255 0 0
+cchat "76561198245870076" "/52/28 /16/15/12/20/24/09/12 /15/16/28/19" 255 0 0
+Client has executed command "cchat "76561198245870076" "/52/28 /16/15/12/20/24/09/12 /15/16/28/19" 255 0 0"
+
+ServerControl >> /52/28 /16/15/12/20/24/09/12 /15/16/28/19 255 0 0
+
+Не обработано: ServerControl >> /52/28 /16/15/12/20/24/09/12 /15/16/28/19 255 0 0
+cchat "76561198245870076" "?" 255 0 0
+Client has executed command "cchat "76561198245870076" "?" 255 0 0"
+
+ServerControl >> ? 255 0 0
+
+Не обработано: ServerControl >> ? 255 0 0
+[World] Nyan Bread [0|TheGangstar|0]: "ney"
+
+MessageAnnouncer >> Broadcast: Посетите наш сайт. Вы будете удивлены! unturned.hemulgm.ru
+
+MessageAnnouncer >> Посетите наш сайт. Вы будете удивлены! unturned.hemulgm.ru
+
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198245870076 Name: 0|TheGangstar|0 Character: Nyan Bread Ping: 74
+PlayerID: 76561198398244891 Name: глобал в кэс Character: килер 2000 Ping: 11
+PlayerID: 76561198366717561 Name: MAXIMUSSSSSSS Character: MAXIMUSSSSSSS Ping: 15
+
+[World] Nyan Bread [0|TheGangstar|0]: "у меня 53 его"
+
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 28178401
+PlayerID: 76561198336969313
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 293634
+PlayerID: 76561198212486347
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 293965
+PlayerID: 76561198391097237
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 456452
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 31058679
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 31058695
+
+END
+expirience 76561198245870076 100
+Client has executed command "expirience 76561198245870076 100"
+
+END
+cchat "76561198245870076" "/49/17/15/02/05/17/29" 255 0 0
+Client has executed command "cchat "76561198245870076" "/49/17/15/02/05/17/29" 255 0 0"
+
+ServerControl >> /49/17/15/02/05/17/29 255 0 0
+
+Не обработано: ServerControl >> /49/17/15/02/05/17/29 255 0 0
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198245870076 Name: 0|TheGangstar|0 Character: Nyan Bread Ping: 136
+PlayerID: 76561198398244891 Name: глобал в кэс Character: килер 2000 Ping: 15
+PlayerID: 76561198366717561 Name: MAXIMUSSSSSSS Character: MAXIMUSSSSSSS Ping: 19
+
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 28178382
+PlayerID: 76561198336969313
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 293615
+PlayerID: 76561198212486347
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 293946
+PlayerID: 76561198391097237
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 456433
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 31058660
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 31058676
+
+END
+[World] Nyan Bread [0|TheGangstar|0]: "53 все еще"
+
+END
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198245870076 Name: 0|TheGangstar|0 Character: Nyan Bread Ping: 82
+PlayerID: 76561198398244891 Name: глобал в кэс Character: килер 2000 Ping: 15
+PlayerID: 76561198366717561 Name: MAXIMUSSSSSSS Character: MAXIMUSSSSSSS Ping: 11
+
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 28178362
+PlayerID: 76561198336969313
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 293595
+PlayerID: 76561198212486347
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 293926
+PlayerID: 76561198391097237
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 456413
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 31058640
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 31058656
+
+END
+END
+MessageAnnouncer >> Broadcast: Наберите /kit help, чтобы получить первую мед. помощь (бинты, таблетки, еда)
+
+MessageAnnouncer >> Наберите /kit help, чтобы получить первую мед. помощь (бинты, таблетки, еда)
+
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198245870076 Name: 0|TheGangstar|0 Character: Nyan Bread Ping: 82
+PlayerID: 76561198398244891 Name: глобал в кэс Character: килер 2000 Ping: 11
+PlayerID: 76561198366717561 Name: MAXIMUSSSSSSS Character: MAXIMUSSSSSSS Ping: 11
+
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 28178342
+PlayerID: 76561198336969313
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 293575
+PlayerID: 76561198212486347
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 293906
+PlayerID: 76561198391097237
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 456393
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 31058620
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 31058636
+
+END
+END
+expirience 76561198245870076 100
+Client has executed command "expirience 76561198245870076 100"
+
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198245870076 Name: 0|TheGangstar|0 Character: Nyan Bread Ping: 74
+PlayerID: 76561198398244891 Name: глобал в кэс Character: килер 2000 Ping: 15
+PlayerID: 76561198366717561 Name: MAXIMUSSSSSSS Character: MAXIMUSSSSSSS Ping: 15
+
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 28178322
+PlayerID: 76561198336969313
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 293555
+PlayerID: 76561198212486347
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 293886
+PlayerID: 76561198391097237
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 456373
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 31058600
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 31058616
+
+END
+END
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198245870076 Name: 0|TheGangstar|0 Character: Nyan Bread Ping: 78
+PlayerID: 76561198398244891 Name: глобал в кэс Character: килер 2000 Ping: 11
+PlayerID: 76561198366717561 Name: MAXIMUSSSSSSS Character: MAXIMUSSSSSSS Ping: 15
+
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 28178302
+PlayerID: 76561198336969313
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 293535
+PlayerID: 76561198212486347
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 293866
+PlayerID: 76561198391097237
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 456353
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 31058580
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 31058596
+
+END
+END
+MessageAnnouncer >> Broadcast: vk.com/unturned_hgm - цены на премиум, VIP и другие услуги смотрите в группе!
+
+MessageAnnouncer >> vk.com/unturned_hgm - цены на премиум, VIP и другие услуги смотрите в группе!
+
+cchat "76561198245870076" "/33 /26/00?" 255 0 0
+Client has executed command "cchat "76561198245870076" "/33 /26/00?" 255 0 0"
+
+ServerControl >> /33 /26/00? 255 0 0
+
+Не обработано: ServerControl >> /33 /26/00? 255 0 0
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198245870076 Name: 0|TheGangstar|0 Character: Nyan Bread Ping: 78
+PlayerID: 76561198398244891 Name: глобал в кэс Character: килер 2000 Ping: 7
+PlayerID: 76561198366717561 Name: MAXIMUSSSSSSS Character: MAXIMUSSSSSSS Ping: 11
+
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 28178282
+PlayerID: 76561198336969313
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 293515
+PlayerID: 76561198212486347
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 293846
+PlayerID: 76561198391097237
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 456333
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 31058560
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 31058576
+
+END
+END
+[World] Nyan Bread [0|TheGangstar|0]: "59 потому что я зомби убил дало немного опыта"
+
+PlayerInfoLib >> No expired player info records found for this batch.
+
+Saving server
+
+Сохранение сервера
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198245870076 Name: 0|TheGangstar|0 Character: Nyan Bread Ping: 89
+PlayerID: 76561198398244891 Name: глобал в кэс Character: килер 2000 Ping: 15
+PlayerID: 76561198366717561 Name: MAXIMUSSSSSSS Character: MAXIMUSSSSSSS Ping: 35
+
+cchat "76561198245870076" "/15/11" 255 0 0
+Client has executed command "cchat "76561198245870076" "/15/11" 255 0 0"
+
+ServerControl >> /15/11 255 0 0
+
+Не обработано: ServerControl >> /15/11 255 0 0
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 28178261
+PlayerID: 76561198336969313
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 293494
+PlayerID: 76561198212486347
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 293825
+PlayerID: 76561198391097237
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 456312
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 31058539
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 31058555
+
+END
+END
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198245870076 Name: 0|TheGangstar|0 Character: Nyan Bread Ping: 82
+PlayerID: 76561198398244891 Name: глобал в кэс Character: килер 2000 Ping: 7
+PlayerID: 76561198366717561 Name: MAXIMUSSSSSSS Character: MAXIMUSSSSSSS Ping: 15
+
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 28178242
+PlayerID: 76561198336969313
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 293475
+PlayerID: 76561198212486347
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 293806
+PlayerID: 76561198391097237
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 456293
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 31058520
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 31058536
+
+END
+END
+MessageAnnouncer >> Broadcast: Наберите /kit claim, чтобы получить Claim Flag
+
+MessageAnnouncer >> Наберите /kit claim, чтобы получить Claim Flag
+
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198245870076 Name: 0|TheGangstar|0 Character: Nyan Bread Ping: 78
+PlayerID: 76561198398244891 Name: глобал в кэс Character: килер 2000 Ping: 7
+PlayerID: 76561198366717561 Name: MAXIMUSSSSSSS Character: MAXIMUSSSSSSS Ping: 11
+
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 28178222
+PlayerID: 76561198336969313
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 293455
+PlayerID: 76561198212486347
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 293786
+PlayerID: 76561198391097237
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 456273
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 31058500
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 31058516
+
+END
+END
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198245870076 Name: 0|TheGangstar|0 Character: Nyan Bread Ping: 85
+PlayerID: 76561198398244891 Name: глобал в кэс Character: килер 2000 Ping: 11
+PlayerID: 76561198366717561 Name: MAXIMUSSSSSSS Character: MAXIMUSSSSSSS Ping: 19
+
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 28178202
+PlayerID: 76561198336969313
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 293435
+PlayerID: 76561198212486347
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 293766
+PlayerID: 76561198391097237
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 456253
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 31058480
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 31058496
+
+END
+END
+Failed to find anyone called 2.
+
+Не обработано: Failed to find anyone called 2.
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198245870076 Name: 0|TheGangstar|0 Character: Nyan Bread Ping: 82
+PlayerID: 76561198398244891 Name: глобал в кэс Character: килер 2000 Ping: 7
+PlayerID: 76561198366717561 Name: MAXIMUSSSSSSS Character: MAXIMUSSSSSSS Ping: 27
+
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 28178182
+PlayerID: 76561198336969313
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 293415
+PlayerID: 76561198212486347
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 293746
+PlayerID: 76561198391097237
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 456233
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 31058460
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 31058476
+
+END
+END
+pay 76561198245870076 100
+Client has executed command "pay 76561198245870076 100"
+
+MessageAnnouncer >> Broadcast: Если модератор ведёт себя неподобающе, пишите в группу или ЛС (vk.com/unturned_hgm, vk.com/hemulgm)
+
+MessageAnnouncer >> Если модератор ведёт себя неподобающе, пишите в группу или ЛС (vk.com/unturned_hgm, vk.com/hemulgm)
+
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198245870076 Name: 0|TheGangstar|0 Character: Nyan Bread Ping: 78
+PlayerID: 76561198398244891 Name: глобал в кэс Character: килер 2000 Ping: 11
+PlayerID: 76561198366717561 Name: MAXIMUSSSSSSS Character: MAXIMUSSSSSSS Ping: 11
+
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 28178162
+PlayerID: 76561198336969313
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 293395
+PlayerID: 76561198212486347
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 293726
+PlayerID: 76561198391097237
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 456213
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 31058440
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 31058456
+
+END
+[World] Nyan Bread [0|TheGangstar|0]: "мне дало 100 EP"
+
+cchat "76561198245870076" "/33 ep?" 255 0 0
+Client has executed command "cchat "76561198245870076" "/33 ep?" 255 0 0"
+
+ServerControl >> /33 ep? 255 0 0
+
+Не обработано: ServerControl >> /33 ep? 255 0 0
+END
+cchat "76561198245870076" "/15/11" 255 0 0
+Client has executed command "cchat "76561198245870076" "/15/11" 255 0 0"
+
+ServerControl >> /15/11 255 0 0
+
+Не обработано: ServerControl >> /15/11 255 0 0
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198245870076 Name: 0|TheGangstar|0 Character: Nyan Bread Ping: 78
+PlayerID: 76561198398244891 Name: глобал в кэс Character: килер 2000 Ping: 11
+PlayerID: 76561198366717561 Name: MAXIMUSSSSSSS Character: MAXIMUSSSSSSS Ping: 11
+
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 28178142
+PlayerID: 76561198336969313
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 293375
+PlayerID: 76561198212486347
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 293706
+PlayerID: 76561198391097237
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 456193
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 31058420
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 31058436
+
+END
+[Area] килер 2000 [глобал в кэс]: "/kit start"
+

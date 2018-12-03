@@ -1,0 +1,1047 @@
+RocketRcon v2.4.8.0
+
+login aVIPs22031994
+players
+Client has executed command "players"
+Players:
+PlayerID: 76561198203101308 Name: Dirooll Character: Алексей Вдувакин Ping: 82
+PlayerID: 76561198408019916 Name: slava.fan555 Character: Славик Cухоруков Ping: 70
+PlayerID: 76561198190664649 Name: Enot Raketa Character: Foxy Ping: 78
+PlayerID: 76561198423084997 Name: lovemariina Character: мафия Ping: 136
+PlayerID: 76561198289611902 Name: Rayn Character: [WW]RayN Ping: 70
+[World] [WW]RayN [Rayn]: "/sell 44 17"
+
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198203101308 Name: Dirooll Character: Алексей Вдувакин Ping: 113
+PlayerID: 76561198408019916 Name: slava.fan555 Character: Славик Cухоруков Ping: 66
+PlayerID: 76561198190664649 Name: Enot Raketa Character: Foxy Ping: 78
+PlayerID: 76561198423084997 Name: lovemariina Character: мафия Ping: 140
+PlayerID: 76561198289611902 Name: Rayn Character: [WW]RayN Ping: 74
+
+END
+Client has executed command "bans"
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27561767
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30442045
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30442061
+Client has executed command "bans"
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27561767
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30442045
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30442061
+
+END
+END
+[World] [WW]RayN [Rayn]: "/sell 44 4"
+
+END
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [1950]
+
+MessageAnnouncer >> Broadcast: Наберите /kit help, чтобы получить первую мед. помощь (бинты, таблетки, еда)
+MessageAnnouncer >> Наберите /kit help, чтобы получить первую мед. помощь (бинты, таблетки, еда)
+Client has executed command "GET NOW"
+ServerControl >> VALUE NOW [1] [0] [1960]
+[World] Славик Cухоруков [slava.fan555]: "/buy 68 60"
+[World] [WW]RayN [Rayn]: "/sell spec"
+Client has executed command "players"
+Players:
+PlayerID: 76561198203101308 Name: Dirooll Character: Алексей Вдувакин Ping: 101
+PlayerID: 76561198408019916 Name: slava.fan555 Character: Славик Cухоруков Ping: 82
+PlayerID: 76561198190664649 Name: Enot Raketa Character: Foxy Ping: 85
+PlayerID: 76561198423084997 Name: lovemariina Character: мафия Ping: 140
+PlayerID: 76561198289611902 Name: Rayn Character: [WW]RayN Ping: 66
+Client has executed command "bans"
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27561746
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30442024
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30442040
+
+END
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [1968]
+
+END
+Client has executed command "GET NOW"
+ServerControl >> VALUE NOW [1] [0] [1970]
+
+GET NOW
+Client has executed command "GET NOW"
+ServerControl >> VALUE NOW [1] [0] [1980]
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [1981]
+
+Client has executed command "players"
+Players:
+PlayerID: 76561198203101308 Name: Dirooll Character: Алексей Вдувакин Ping: 58
+PlayerID: 76561198408019916 Name: slava.fan555 Character: Славик Cухоруков Ping: 101
+PlayerID: 76561198190664649 Name: Enot Raketa Character: Foxy Ping: 183
+PlayerID: 76561198423084997 Name: lovemariina Character: мафия Ping: 140
+PlayerID: 76561198289611902 Name: Rayn Character: [WW]RayN Ping: 70
+Client has executed command "bans"
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27561726
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30442004
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30442020
+
+END
+Client has executed command "GET NOW"
+ServerControl >> VALUE NOW [1] [0] [1990]
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [1992]
+
+END
+Client has executed command "GET NOW"
+ServerControl >> VALUE NOW [1] [0] [2000]
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [2006]
+Client has executed command "players"
+Players:
+PlayerID: 76561198203101308 Name: Dirooll Character: Алексей Вдувакин Ping: 82
+PlayerID: 76561198408019916 Name: slava.fan555 Character: Славик Cухоруков Ping: 97
+PlayerID: 76561198190664649 Name: Enot Raketa Character: Foxy Ping: 82
+PlayerID: 76561198423084997 Name: lovemariina Character: мафия Ping: 140
+PlayerID: 76561198289611902 Name: Rayn Character: [WW]RayN Ping: 70
+
+Client has executed command "bans"
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27561706
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30441984
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30442000
+Client has executed command "GET NOW"
+ServerControl >> VALUE NOW [1] [0] [2010]
+MessageAnnouncer >> Broadcast: vk.com/unturned_hgm - цены на премиум, VIP и другие услуги смотрите в группе!
+MessageAnnouncer >> vk.com/unturned_hgm - цены на премиум, VIP и другие услуги смотрите в группе!
+Client has executed command "GET NOW"
+ServerControl >> VALUE NOW [1] [0] [2020]
+
+END
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [2024]
+
+Disconnecting: PlayerID: 76561198423084997 Name: lovemariina Character: мафия
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198203101308 Name: Dirooll Character: Алексей Вдувакин Ping: 113
+PlayerID: 76561198408019916 Name: slava.fan555 Character: Славик Cухоруков Ping: 82
+PlayerID: 76561198190664649 Name: Enot Raketa Character: Foxy Ping: 85
+PlayerID: 76561198289611902 Name: Rayn Character: [WW]RayN Ping: 70
+Client has executed command "bans"
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27561686
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30441964
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30441980
+Client has executed command "GET NOW"
+ServerControl >> VALUE NOW [1] [0] [2030]
+
+END
+END
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [2036]
+
+END
+Client has executed command "GET NOW"
+ServerControl >> VALUE NOW [1] [0] [2040]
+
+Client has executed command "players"
+Players:
+PlayerID: 76561198203101308 Name: Dirooll Character: Алексей Вдувакин Ping: 97
+PlayerID: 76561198408019916 Name: slava.fan555 Character: Славик Cухоруков Ping: 82
+PlayerID: 76561198190664649 Name: Enot Raketa Character: Foxy Ping: 82
+PlayerID: 76561198289611902 Name: Rayn Character: [WW]RayN Ping: 70
+Client has executed command "bans"
+
+GET NOW
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27561666
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30441944
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30441960
+
+END
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [2048]
+
+END
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [2050]
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [2058]
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [2060]
+
+DeathMessagesRemastered >> Broadcast: Алексей Вдувакин совершил суицид!
+
+Алексей Вдувакин [Dirooll] killed themself.
+
+Не обработано: Алексей Вдувакин [Dirooll] killed themself.
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198203101308 Name: Dirooll Character: Алексей Вдувакин Ping: 85
+PlayerID: 76561198408019916 Name: slava.fan555 Character: Славик Cухоруков Ping: 85
+PlayerID: 76561198190664649 Name: Enot Raketa Character: Foxy Ping: 82
+PlayerID: 76561198289611902 Name: Rayn Character: [WW]RayN Ping: 82
+
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27561646
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30441924
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30441940
+
+END
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [2068]
+
+END
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [2070]
+
+MessageAnnouncer >> Broadcast: Наберите /kit claim, чтобы получить Claim Flag
+
+MessageAnnouncer >> Наберите /kit claim, чтобы получить Claim Flag
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [2078]
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [2080]
+
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198203101308 Name: Dirooll Character: Алексей Вдувакин Ping: 58
+PlayerID: 76561198408019916 Name: slava.fan555 Character: Славик Cухоруков Ping: 74
+PlayerID: 76561198190664649 Name: Enot Raketa Character: Foxy Ping: 85
+PlayerID: 76561198289611902 Name: Rayn Character: [WW]RayN Ping: 70
+
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27561626
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30441904
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30441920
+
+END
+GET NOW
+Client has executed command "GET NOW"
+ServerControl >> VALUE NOW [1] [0] [2088]
+
+END
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [2090]
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [2098]
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [2100]
+
+Client has executed command "cchat "/33/09/17/04/17/15/16 /24/05/17/05/08 4 /24. 50 /13. " 255 255 0"
+
+ServerControl >> Broadcast: Аирдроп через 4 ч. 50 м.
+
+Не обработано: ServerControl >> Broadcast: Аирдроп через 4 ч. 50 м.
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198203101308 Name: Dirooll Character: Алексей Вдувакин Ping: 105
+PlayerID: 76561198408019916 Name: slava.fan555 Character: Славик Cухоруков Ping: 62
+PlayerID: 76561198190664649 Name: Enot Raketa Character: Foxy Ping: 89
+PlayerID: 76561198289611902 Name: Rayn Character: [WW]RayN Ping: 70
+
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27561606
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30441884
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30441900
+
+END
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [2108]
+
+END
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [2110]
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [2118]
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [2120]
+
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198203101308 Name: Dirooll Character: Алексей Вдувакин Ping: 85
+PlayerID: 76561198408019916 Name: slava.fan555 Character: Славик Cухоруков Ping: 70
+PlayerID: 76561198190664649 Name: Enot Raketa Character: Foxy Ping: 164
+PlayerID: 76561198289611902 Name: Rayn Character: [WW]RayN Ping: 70
+
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27561586
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30441864
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30441880
+
+END
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [2128]
+
+END
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [2130]
+
+[World] Foxy [Enot Raketa]: "/home"
+
+MessageAnnouncer >> Broadcast: Если модератор ведёт себя неподобающе, пишите в группу или ЛС (vk.com/unturned_hgm, vk.com/hemulgm)
+
+MessageAnnouncer >> Если модератор ведёт себя неподобающе, пишите в группу или ЛС (vk.com/unturned_hgm, vk.com/hemulgm)
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [2138]
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [2140]
+
+[World] [WW]RayN [Rayn]: "/sell aveng"
+
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198203101308 Name: Dirooll Character: Алексей Вдувакин Ping: 58
+PlayerID: 76561198408019916 Name: slava.fan555 Character: Славик Cухоруков Ping: 70
+PlayerID: 76561198190664649 Name: Enot Raketa Character: Foxy Ping: 85
+PlayerID: 76561198289611902 Name: Rayn Character: [WW]RayN Ping: 70
+
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27561566
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30441844
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30441860
+
+END
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [2148]
+
+END
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [2150]
+
+[World] [WW]RayN [Rayn]: "/cost 149"
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [2158]
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [2160]
+
+[World] [WW]RayN [Rayn]: "/sell peace"
+
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198203101308 Name: Dirooll Character: Алексей Вдувакин Ping: 85
+PlayerID: 76561198408019916 Name: slava.fan555 Character: Славик Cухоруков Ping: 74
+PlayerID: 76561198190664649 Name: Enot Raketa Character: Foxy Ping: 89
+PlayerID: 76561198289611902 Name: Rayn Character: [WW]RayN Ping: 74
+
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27561546
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30441824
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30441840
+
+END
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [2168]
+
+END
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [2170]
+
+[World] [WW]RayN [Rayn]: "/sell smoke"
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [2178]
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [2180]
+
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198203101308 Name: Dirooll Character: Алексей Вдувакин Ping: 89
+PlayerID: 76561198408019916 Name: slava.fan555 Character: Славик Cухоруков Ping: 89
+PlayerID: 76561198190664649 Name: Enot Raketa Character: Foxy Ping: 85
+PlayerID: 76561198289611902 Name: Rayn Character: [WW]RayN Ping: 70
+
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27561526
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30441804
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30441820
+
+END
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [2188]
+
+[World] [WW]RayN [Rayn]: "/buy v.4"
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [2190]
+
+END
+MessageAnnouncer >> Broadcast: Посетите наш сайт. Вы будете удивлены! unturned.hemulgm.ru
+
+MessageAnnouncer >> Посетите наш сайт. Вы будете удивлены! unturned.hemulgm.ru
+
+GET NOW
+Client has executed command "GET NOW"
+ServerControl >> VALUE NOW [1] [0] [2199]
+
+Client has executed command "GET NOW"
+ServerControl >> VALUE NOW [1] [0] [2200]
+
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198203101308 Name: Dirooll Character: Алексей Вдувакин Ping: 136
+PlayerID: 76561198408019916 Name: slava.fan555 Character: Славик Cухоруков Ping: 82
+PlayerID: 76561198190664649 Name: Enot Raketa Character: Foxy Ping: 93
+PlayerID: 76561198289611902 Name: Rayn Character: [WW]RayN Ping: 62
+
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27561506
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30441784
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30441800
+
+END
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [2209]
+
+Client has executed command "GET NOW"
+ServerControl >> VALUE NOW [1] [0] [2210]
+
+END
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [2219]
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [2220]
+
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198203101308 Name: Dirooll Character: Алексей Вдувакин Ping: 54
+PlayerID: 76561198408019916 Name: slava.fan555 Character: Славик Cухоруков Ping: 78
+PlayerID: 76561198190664649 Name: Enot Raketa Character: Foxy Ping: 82
+PlayerID: 76561198289611902 Name: Rayn Character: [WW]RayN Ping: 74
+
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27561486
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30441764
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30441780
+
+END
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [2229]
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [2230]
+
+END
+[World] [WW]RayN [Rayn]: "/sell aveng"
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [2239]
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [2240]
+
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198203101308 Name: Dirooll Character: Алексей Вдувакин Ping: 78
+PlayerID: 76561198408019916 Name: slava.fan555 Character: Славик Cухоруков Ping: 93
+PlayerID: 76561198190664649 Name: Enot Raketa Character: Foxy Ping: 78
+PlayerID: 76561198289611902 Name: Rayn Character: [WW]RayN Ping: 70
+
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27561466
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30441744
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30441760
+
+END
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [2249]
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [2250]
+
+END
+MessageAnnouncer >> Broadcast: vk.com/hemulgm - ЕДИНСТВЕННЫЙ администратор сервера
+
+MessageAnnouncer >> vk.com/hemulgm - ЕДИНСТВЕННЫЙ администратор сервера
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [2259]
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [2260]
+
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198203101308 Name: Dirooll Character: Алексей Вдувакин Ping: 74
+PlayerID: 76561198408019916 Name: slava.fan555 Character: Славик Cухоруков Ping: 82
+PlayerID: 76561198190664649 Name: Enot Raketa Character: Foxy Ping: 74
+PlayerID: 76561198289611902 Name: Rayn Character: [WW]RayN Ping: 70
+
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27561446
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30441724
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30441740
+
+END
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [2269]
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [2270]
+
+END
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [2279]
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [2280]
+
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198203101308 Name: Dirooll Character: Алексей Вдувакин Ping: 50
+PlayerID: 76561198408019916 Name: slava.fan555 Character: Славик Cухоруков Ping: 78
+PlayerID: 76561198190664649 Name: Enot Raketa Character: Foxy Ping: 78
+PlayerID: 76561198289611902 Name: Rayn Character: [WW]RayN Ping: 70
+
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27561426
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30441704
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30441720
+
+END
+END
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [2289]
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [2290]
+
+[World] Славик Cухоруков [slava.fan555]: "/buy 68 5"
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [2299]
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [2300]
+
+Disconnecting: PlayerID: 76561198289611902 Name: Rayn Character: [WW]RayN
+
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198203101308 Name: Dirooll Character: Алексей Вдувакин Ping: 50
+PlayerID: 76561198408019916 Name: slava.fan555 Character: Славик Cухоруков Ping: 82
+PlayerID: 76561198190664649 Name: Enot Raketa Character: Foxy Ping: 82
+
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27561406
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30441684
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30441700
+
+END
+END
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2309]
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2310]
+
+MessageAnnouncer >> Broadcast: Используйте /report [ник], чтобы отправить жалобу на игрока
+
+MessageAnnouncer >> Используйте /report [ник], чтобы отправить жалобу на игрока
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2319]
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2320]
+
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198203101308 Name: Dirooll Character: Алексей Вдувакин Ping: 62
+PlayerID: 76561198408019916 Name: slava.fan555 Character: Славик Cухоруков Ping: 82
+PlayerID: 76561198190664649 Name: Enot Raketa Character: Foxy Ping: 82
+
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27561386
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30441664
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30441680
+
+END
+END
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2329]
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2330]
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2339]
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2340]
+
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198203101308 Name: Dirooll Character: Алексей Вдувакин Ping: 62
+PlayerID: 76561198408019916 Name: slava.fan555 Character: Славик Cухоруков Ping: 93
+PlayerID: 76561198190664649 Name: Enot Raketa Character: Foxy Ping: 78
+
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27561366
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30441644
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30441660
+
+END
+END
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2349]
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2350]
+
+[World] Славик Cухоруков [slava.fan555]: "/buy 81"
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2360]
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2360]
+
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198203101308 Name: Dirooll Character: Алексей Вдувакин Ping: 62
+PlayerID: 76561198408019916 Name: slava.fan555 Character: Славик Cухоруков Ping: 78
+PlayerID: 76561198190664649 Name: Enot Raketa Character: Foxy Ping: 74
+
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27561346
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30441624
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30441640
+
+END
+END
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2370]
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2370]
+
+MessageAnnouncer >> Broadcast: Наберите /rules (/r) для просмотра правил
+
+MessageAnnouncer >> Наберите /rules (/r) для просмотра правил
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2380]
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2380]
+
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198203101308 Name: Dirooll Character: Алексей Вдувакин Ping: 62
+PlayerID: 76561198408019916 Name: slava.fan555 Character: Славик Cухоруков Ping: 113
+PlayerID: 76561198190664649 Name: Enot Raketa Character: Foxy Ping: 66
+
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27561326
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30441604
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30441620
+
+END
+END
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2390]
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2390]
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2400]
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2400]
+
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198203101308 Name: Dirooll Character: Алексей Вдувакин Ping: 74
+PlayerID: 76561198408019916 Name: slava.fan555 Character: Славик Cухоруков Ping: 85
+PlayerID: 76561198190664649 Name: Enot Raketa Character: Foxy Ping: 82
+
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27561306
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30441584
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30441600
+
+END
+END
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2410]
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2410]
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2420]
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2420]
+
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198203101308 Name: Dirooll Character: Алексей Вдувакин Ping: 58
+PlayerID: 76561198408019916 Name: slava.fan555 Character: Славик Cухоруков Ping: 82
+PlayerID: 76561198190664649 Name: Enot Raketa Character: Foxy Ping: 70
+
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27561286
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30441564
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30441580
+
+END
+END
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2430]
+

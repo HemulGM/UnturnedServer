@@ -1,0 +1,64 @@
+22.02.2017 15:55:52: MessageAnnouncer >> vk.com/hemulgm - ЕДИНСТВЕННЫЙ администратор сервера
+
+22.02.2017 15:55:52: MessageAnnouncer >> Broadcast: vk.com/hemulgm - ЕДИНСТВЕННЫЙ администратор сервера
+
+22.02.2017 15:55:51: [World] иван [жнец]: "/tpa ac"
+
+22.02.2017 15:55:42: [World] Anrysha [ANDREW??]: "/tpa иван"
+
+22.02.2017 15:55:35: Players:
+PlayerID: 76561198272327937 Name: Thug Life Character: Семёныч Ping: 82
+PlayerID: 76561198243530780 Name: LuckyMan ^-^csgo-happy.ru Character: LuckyMan ^-^ Ping: 136
+PlayerID: 76561198272167056 Name: ¦ Alexandr ¦ Character: Alexandr  Kotov Ping: 68
+PlayerID: 76561198198578146 Name: NightCatSan Character: NightCatSan Ping: 68
+PlayerID: 76561198302975346 Name: Максим Character: Skiletrons Ping: 74
+PlayerID: 76561198352754645 Name: Assassin Character: Assassin Ping: 156
+PlayerID: 76561198330212465 Name: O:FlyWith:D Character: [Свобода]SnoopDogg Ping: 128
+PlayerID: 76561198278618116 Name: Mizuki Character: Mizuki Ping: 83
+PlayerID: 76561198184777471 Name: -SkullMaker ?? ?? Character: sprokit1111 Ping: 33
+PlayerID: 76561198290368848 Name: жнец Character: иван Ping: 85
+PlayerID: 76561198219589236 Name: ANDREW?? Character: Anrysha Ping: 97
+
+22.02.2017 15:55:35: Client has executed command "players"
+
+22.02.2017 15:55:32: [World] Anrysha [ANDREW??]: "/tpa"
+
+22.02.2017 15:55:15: Players:
+PlayerID: 76561198272327937 Name: Thug Life Character: Семёныч Ping: 136
+PlayerID: 76561198243530780 Name: LuckyMan ^-^csgo-happy.ru Character: LuckyMan ^-^ Ping: 146
+PlayerID: 76561198272167056 Name: ¦ Alexandr ¦ Character: Alexandr  Kotov Ping: 72
+PlayerID: 76561198198578146 Name: NightCatSan Character: NightCatSan Ping: 70
+PlayerID: 76561198302975346 Name: Максим Character: Skiletrons Ping: 72
+PlayerID: 76561198352754645 Name: Assassin Character: Assassin Ping: 154
+PlayerID: 76561198330212465 Name: O:FlyWith:D Character: [Свобода]SnoopDogg Ping: 154
+PlayerID: 76561198278618116 Name: Mizuki Character: Mizuki Ping: 119
+PlayerID: 76561198184777471 Name: -SkullMaker ?? ?? Character: sprokit1111 Ping: 25
+PlayerID: 76561198290368848 Name: жнец Character: иван Ping: 68
+PlayerID: 76561198219589236 Name: ANDREW?? Character: Anrysha Ping: 126
+
+22.02.2017 15:55:15: Client has executed command "players"
+
+22.02.2017 15:55:03: иван [жнец] killed themself.
+
+22.02.2017 15:54:58: 1366:TruncatedWrongValueForField
+PlayerInfoLib >> Exception in PlayerInfoLib: MySql.Data.MySqlClient.MySqlException: Incorrect string value: '\xF0\x9F\x91\x8A' for column 'SteamName' at row 1
+  at MySql.Data.MySqlClient.MySqlStream.ReadPacket () [0x00000] in <filename unknown>:0 
+  at MySql.Data.MySqlClient.NativeDriver.GetResult (System.Int32& affectedRow, System.Int64& insertedId) [0x00000] in <filename unknown>:0 
+22.02.2017 15:54:58: Connecting: PlayerID: 76561198219589236 Name: ANDREW?? Character: Anrysha
+
+22.02.2017 15:54:55: Players:
+PlayerID: 76561198272327937 Name: Thug Life Character: Семёныч Ping: 91
+PlayerID: 76561198243530780 Name: LuckyMan ^-^csgo-happy.ru Character: LuckyMan ^-^ Ping: 144
+PlayerID: 76561198272167056 Name: ¦ Alexandr ¦ Character: Alexandr  Kotov Ping: 91
+PlayerID: 76561198198578146 Name: NightCatSan Character: NightCatSan Ping: 87
+PlayerID: 76561198302975346 Name: Максим Character: Skiletrons Ping: 89
+PlayerID: 76561198352754645 Name: Assassin Character: Assassin Ping: 150
+PlayerID: 76561198330212465 Name: O:FlyWith:D Character: [Свобода]SnoopDogg Ping: 144
+PlayerID: 76561198278618116 Name: Mizuki Character: Mizuki Ping: 101
+PlayerID: 76561198184777471 Name: -SkullMaker ?? ?? Character: sprokit1111 Ping: 60
+PlayerID: 76561198290368848 Name: жнец Character: иван Ping: 166
+
+22.02.2017 15:54:55: Client has executed command "players"
+
+22.02.2017 15:54:35: RocketRcon v2.4.8.0
+

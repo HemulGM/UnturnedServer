@@ -1,0 +1,104 @@
+18.07.2017 16:26:02: Не обработано: Error: You have not logged in yet!
+18.07.2017 16:26:02: Не обработано: Error: You have not logged in yet!
+18.07.2017 16:26:22: Не обработано: Enter password:
+18.07.2017 16:26:22: Не обработано: 
+18.07.2017 16:26:22: Не обработано: Logged in successfully
+18.07.2017 16:26:22: Не обработано: 
+18.07.2017 16:26:22: Не обработано: = 
+18.07.2017 16:26:22: Не обработано: = Empyrion dedicated server
+18.07.2017 16:26:22: Не обработано: = 
+18.07.2017 16:26:22: Не обработано: = Version:  Alpha 6.4.1 1147
+18.07.2017 16:26:22: Не обработано: = Port:     30000
+18.07.2017 16:26:22: Не обработано: = Mode:     Survival
+18.07.2017 16:26:22: Не обработано: = Name:     NewGame_0
+18.07.2017 16:26:22: Не обработано: = Seed:     8149037
+18.07.2017 16:26:22: Не обработано: = 
+18.07.2017 16:26:22: Не обработано: 
+18.07.2017 16:26:22: Не обработано: = Unknown command 'players'
+18.07.2017 16:26:22: Не обработано: = Unknown command 'players'
+18.07.2017 16:26:22: Не обработано: 
+18.07.2017 16:26:31: Не обработано: Console commands:
+18.07.2017 16:26:31: Не обработано: 
+18.07.2017 16:26:31: Не обработано:  - alliances: Lists alliances or alliance requests and allows to set alliances
+18.07.2017 16:26:31: Не обработано:  - ban: Ban a player for an amount of time [Moderator]
+18.07.2017 16:26:31: Не обработано:  - changemode: Changes a local suvival game into creative and vice versa. You need to restart the game after the switch!
+18.07.2017 16:26:31: Не обработано:  - defragsavegame: Defrags a save game
+18.07.2017 16:26:31: Не обработано:  - difficulties: Shows the current difficulty setting
+18.07.2017 16:26:31: Не обработано:  - exec: exec <path to executable> [arguments]
+18.07.2017 16:26:31: Не обработано:  - faction: Faction change helper functions [GameMaster]
+18.07.2017 16:26:31: Не обработано:  - gents: List all structures on all playfields (only dedi/server)
+18.07.2017 16:26:31: Не обработано:  - help: List all console commands and show specific help
+18.07.2017 16:26:31: Не обработано:  - initadmin: Sets myself as the initial administrator
+18.07.2017 16:26:31: Не обработано:  - kick: Kick player (or all players) out of game [GameMaster]
+18.07.2017 16:26:31: Не обработано:  - list: Lists special players (i.e. with special permissions or banned players) [GameMaster]
+18.07.2017 16:26:31: Не обработано:  - origins: 
+18.07.2017 16:26:31: Не обработано:  - plys: Shows all players in the game
+18.07.2017 16:26:31: Не обработано:  - remoteex: Sends a console command to either a player or a playfield
+18.07.2017 16:26:31: Не обработано:  - saveandexit: Saves the game and exits - optionally after a given timeout [Moderator]
+18.07.2017 16:26:31: Не обработано:  - say: Sends a chat message to players or factions. Type 'help say' for usage details.
+18.07.2017 16:26:31: Не обработано:  - servers [svs]: Lists all connected playfield severs
+18.07.2017 16:26:31: Не обработано:  - setposition: Sets the position of a structure [GameMaster]
+18.07.2017 16:26:31: Не обработано:  - setrole: Sets the role for a player (give special permissions) [Admin]
+18.07.2017 16:26:31: Не обработано:  - stats: Prints status information about the current playfield
+18.07.2017 16:26:31: Не обработано:  - stoppf: Stops a specific or all playfield servers
+18.07.2017 16:26:31: Не обработано:  - ticks: Outputs current ticks and allows to enable, disable and set them
+18.07.2017 16:26:31: Не обработано:  - time: Get / set the global server time [server only]
+18.07.2017 16:26:31: Не обработано:  - unban: Unban a player [GameMaster]
+18.07.2017 16:26:42: Не обработано: = Unknown command 'players'
+18.07.2017 16:26:42: Не обработано: 
+18.07.2017 16:26:44: Не обработано: [PA] Player 76561198302301964/'Comrade_Tesla' asking for login
+18.07.2017 16:26:44: Не обработано: 
+18.07.2017 16:26:44: Не обработано: Steam: BeginAuthSession for player CId=12, EId=-1, 76561198302301964//'Comrade_Tesla', result: k_EBeginAuthSessionResultOK
+18.07.2017 16:26:44: Не обработано: [PA] Player 76561198302301964/'Comrade_Tesla' login ok
+18.07.2017 16:26:44: Не обработано: EAC: Registered CId=12, EId=-1, 76561198302301964//'Comrade_Tesla'
+18.07.2017 16:26:44: Не обработано: AuthState: Client CId=12, EId=-1, 76561198302301964//'Comrade_Tesla' asks to enter game BEFORE EAC decided auth state
+18.07.2017 16:26:45: Не обработано: AuthState: UserStatus update came AFTER client asked to enter the game (ClientAuthenticatedLocal)
+18.07.2017 16:26:45: Не обработано: 
+18.07.2017 16:26:45: Не обработано: Player 'Comrade_Tesla' connecting now to playfield 'Trader Residence'
+18.07.2017 16:26:45: Не обработано: Connecting client 12/'Comrade_Tesla' to Trader Residence
+18.07.2017 16:26:50: Не обработано: AuthState: UserStatus update came AFTER client asked to enter the game (ClientAuthenticatedRemote)
+18.07.2017 16:26:50: Не обработано: 
+18.07.2017 16:27:02: Не обработано: = Unknown command 'players'
+18.07.2017 16:27:02: Не обработано: 
+18.07.2017 16:27:06: Не обработано: Uptime=03h25m heap=  96MB fps= 32 players= 5 pfs=r0/i3/a3
+18.07.2017 16:27:06: Не обработано: 
+18.07.2017 16:27:06: Не обработано: = Unknown command 'bans'
+18.07.2017 16:27:06: Не обработано: 
+18.07.2017 16:27:12: Не обработано: Players connected (5)
+18.07.2017 16:27:12: Не обработано:  C-Id:  E-Id, Player Name,    Playfield Name, IP address
+18.07.2017 16:27:12: Не обработано: -------------------------------------------------------------
+18.07.2017 16:27:12: Не обработано:     9:  9138, serg-za,        Trader Residence, 178.167.34.196
+18.07.2017 16:27:12: Не обработано:    11: 65054, Dandi,          Mercenary Camp, 87.117.16.217
+18.07.2017 16:27:12: Не обработано:     3: 25001, DrugLS,         Mato,           77.82.221.51
+18.07.2017 16:27:12: Не обработано:    12:  9189, Comrade_Tesla,  Trader Residence, 31.173.87.251
+18.07.2017 16:27:12: Не обработано:    10:  9250, samson,         Trader Residence, 213.57.193.78
+18.07.2017 16:27:12: Не обработано: 
+18.07.2017 16:27:12: Не обработано: 1. id=25001 name=DrugLS fac=[Private]   role=Member
+18.07.2017 16:27:12: Не обработано: 2. id=9138 name=serg-za fac=[Fac   100] role=Admin
+18.07.2017 16:27:12: Не обработано: 3. id=9250 name=samson fac=[Fac   100] role=Admin
+18.07.2017 16:27:12: Не обработано: 4. id=65054 name=Dandi fac=[Private]   role=Member
+18.07.2017 16:27:12: Не обработано: 5. id=9189 name=Comrade_Tesla fac=[Fac   100] role=Admin
+18.07.2017 16:27:22: Не обработано: = Unknown command 'players'
+18.07.2017 16:27:22: Не обработано: 
+18.07.2017 16:27:42: Не обработано: = Unknown command 'players'
+18.07.2017 16:27:42: Не обработано: 
+18.07.2017 16:28:02: Не обработано: = Unknown command 'players'
+18.07.2017 16:28:02: Не обработано: 
+18.07.2017 16:28:06: Не обработано: Uptime=03h26m heap= 103MB fps= 43 players= 5 pfs=r0/i3/a3
+18.07.2017 16:28:06: Не обработано: 
+18.07.2017 16:28:17: Не обработано: [PA] Player 76561198054221477/'nimrian' asking for login
+18.07.2017 16:28:17: Не обработано: 
+18.07.2017 16:28:17: Не обработано: Steam: BeginAuthSession for player CId=13, EId=-1, 76561198054221477//'nimrian', result: k_EBeginAuthSessionResultOK
+18.07.2017 16:28:17: Не обработано: [PA] Player 76561198054221477/'nimrian' login ok
+18.07.2017 16:28:17: Не обработано: EAC: Registered CId=13, EId=-1, 76561198054221477//'nimrian'
+18.07.2017 16:28:17: Не обработано: AuthState: Client CId=13, EId=-1, 76561198054221477/=/'nimrian' asks to enter game BEFORE EAC decided auth state
+18.07.2017 16:28:17: Не обработано: 
+18.07.2017 16:28:18: Не обработано: AuthState: UserStatus update came AFTER client asked to enter the game (ClientAuthenticatedLocal)
+18.07.2017 16:28:18: Не обработано: Player 'nimrian' connecting now to playfield 'Trader Residence'
+18.07.2017 16:28:18: Не обработано: Connecting client 13/'nimrian' to Trader Residence
+18.07.2017 16:28:22: Не обработано: AuthState: UserStatus update came AFTER client asked to enter the game (ClientAuthenticatedRemote)
+18.07.2017 16:28:22: Не обработано: 
+18.07.2017 16:28:22: Не обработано: = Unknown command 'players'
+18.07.2017 16:28:22: Не обработано: 
+18.07.2017 16:28:42: Не обработано: = Unknown command 'players'
+18.07.2017 16:28:42: Не обработано: 

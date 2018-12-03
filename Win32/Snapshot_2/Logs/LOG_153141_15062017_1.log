@@ -1,0 +1,60 @@
+Не обработано: RocketRcon v2.4.8.0
+RocketRcon v2.4.8.0
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198253416576 Name: НЕ_УБИВАЙ_ДЯДЯ Character: spaik Ping: 304
+PlayerID: 76561198336963071 Name: maut22 Character: vtor2005 Ping: 31
+PlayerID: 76561198394519442 Name: Dancer Character: Dancer Ping: 93
+PlayerID: 76561198165490172 Name: Gothic Character: \|Gothic|/ Ping: 39
+PlayerID: 76561198312200782 Name: Данил Макеев Character: Данил Макеев Ping: 195
+PlayerID: 76561198356653903 Name: PrietenulCucushatului Character: PrietenulCucushatului Ping: 93
+PlayerID: 76561198292307309 Name: wolk.1221 Character: Yoba Ping: 179
+PlayerID: 76561198385711346 Name: yelowruben Character: yelowruben Ping: 210
+PlayerID: 76561198348937212 Name: Rom@N Character: RomaPLAY22 Ping: 93
+PlayerID: 76561198172586102 Name: DunderBurger #SUMMER Character: DunderMario Ping: 125
+PlayerID: 76561198274890568 Name: Ica ;) hellcase.com Character: Ica ;) *** Ping: 78
+PlayerID: 76561198388803679 Name: nikanorova2 Character: nikanorova2 Ping: 101
+PlayerID: 76561198324996335 Name: Mуждей щи Мамалыга Character: []Max[] Ping: 101
+PlayerID: 76561198323264908 Name: I AM YOUR GOD Character: BIRG WILD Ping: 46
+PlayerID: 76561198023322497 Name: Westat Character: Westat Ping: 39
+PlayerID: 76561198279629496 Name: eclectikoma Character: eclectikoma Ping: 226
+PlayerID: 76561198257489493 Name: thegamer2370 Character: thegamer2370 Ping: 148
+PlayerID: 76561198317611584 Name: Мама Ама Криминал Character: Zlo Ping: 39
+
+TimerTerminateCommand.Enabled with Players:
+PlayerID: 76561198392646527 Name: HacKers Inse-WoRLD HACK Character: Драгунов Самошкин Ping: 250
+PlayerID: 76561198394560596 Name: koldin1925 Character: Fresh Ping: 31
+PlayerID: 76561198177412437 Name: korak Character: korak Ping: 148
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 296
+PlayerID: 76561198268232338 Name: ?????? ???? ????? Character: Frontick [D.A] Ping: 39
+PlayerID: 76561198369910805 Name: vasya_s_2005 Character: vasya_s_2005 Ping: 109
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4293626305
+PlayerID: 76561198384007551
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 31454692
+PlayerID: 76561198371016652
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 31535106
+
+END with Bans:
+Client has executed command "admins"
+
+TimerTerminateCommand.Enabled with Admins:
+Admins:
+PlayerID: 76561198119509031
+JudgeID: 0
+PlayerID: 76561198366549870
+JudgeID: 0
+
+END with Admins:

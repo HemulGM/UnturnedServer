@@ -1,0 +1,63 @@
+RocketRcon v2.4.8.0
+
+login aVIPs22031994
+players
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198242496136 Name: _Official_Group_GameGuardian_ Character: mer_1560 Ping: 31
+PlayerID: 76561198315561906 Name: MaXiMuS Character: MaXiMuS Ping: 54
+PlayerID: 76561198407087458 Name: -_-Paer-_- Character: Паша Полянцев Ping: 7
+PlayerID: 76561198352329817 Name: X_RaY Character: Учиха_Саске Ping: 187
+PlayerID: 76561198205863883 Name: Крокодил Гена Character: krokodil gena Ping: 39
+PlayerID: 76561198366284525 Name: NikiRoC Character: Никита Калашников Ping: 54
+PlayerID: 76561198077303819 Name: Arcadia Character: Arcadia Ping: 54
+PlayerID: 76561198177412437 Name: Korak Character: Korak Ping: 156
+PlayerID: 76561198101403061 Name: antifist Character: Помелов Андрей Ping: 31
+PlayerID: 76561198237123262 Name: I'M Phenomenal Character: Anthonyyy Ping: 54
+PlayerID: 76561198106869292 Name: roman146rus Character: roman146rus Ping: 62
+
+END
+bans
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27384239
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30264517
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30264533
+
+END
+[World] Anthonyyy [I'M Phenomenal]: "/tphere mer"
+
+mer_1560 был телепортирован к Anthonyyy
+
+Не обработано: mer_1560 был телепортирован к Anthonyyy
+MessageAnnouncer >> Broadcast: Наберите /rules (/r) для просмотра правил
+
+MessageAnnouncer >> Наберите /rules (/r) для просмотра правил
+
+[Area] MaXiMuS [MaXiMuS]: "прив"
+
+[Group] mer_1560 [_Official_Group_GameGuardian_]: "аааа"
+
+[Group] Учиха_Саске [X_RaY]: "/buy 1441"
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [590]
+
+[Group] MaXiMuS [MaXiMuS]: "приыел"
+
+[Group] mer_1560 [_Official_Group_GameGuardian_]: "где я"
+
+[Group] mer_1560 [_Official_Group_GameGuardian_]: "а вот я"
+
+[World] mer_1560 [_Official_Group_GameGuardian_]: "аа"
+

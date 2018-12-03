@@ -1,0 +1,117 @@
+RocketRcon v2.4.8.0
+
+login aVIPs22031994
+players
+Client has executed command "players"
+Players:
+PlayerID: 76561198408019916 Name: slava.fan555 Character: Славик Cухоруков Ping: 101
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 144
+PlayerID: 76561198423084997 Name: lovemariina Character: мафия Ping: 128
+PlayerID: 76561198203101308 Name: Dirooll Character: Алексей Вдувакин Ping: 78
+Expert1337 moved x:-684.0427 y:60.83313(+22.35581) z:-419.6002 in the last second (0.4116478)
+
+Не обработано: Expert1337 moved x:-684.0427 y:60.83313(+22.35581) z:-419.6002 in the last second (0.4116478)
+Client has executed command "bans"
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27565458
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30445736
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30445752
+
+END
+Client has executed command "GET NOW"
+ServerControl >> VALUE NOW [1] [0] [116]
+
+END
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198408019916 Name: slava.fan555 Character: Славик Cухоруков Ping: 148
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 164
+PlayerID: 76561198423084997 Name: lovemariina Character: мафия Ping: 125
+PlayerID: 76561198203101308 Name: Dirooll Character: Алексей Вдувакин Ping: 78
+
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27565447
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30445725
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30445741
+
+END
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [125]
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [126]
+
+END
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [135]
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [136]
+
+ZaupUconomyEssentials >> paid was not fired as player or amount not given.
+
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198408019916 Name: slava.fan555 Character: Славик Cухоруков Ping: 82
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 179
+PlayerID: 76561198423084997 Name: lovemariina Character: мафия Ping: 121
+PlayerID: 76561198203101308 Name: Dirooll Character: Алексей Вдувакин Ping: 70
+
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27565427
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30445705
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30445721
+
+END
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [145]
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [146]
+
+END
+MessageAnnouncer >> Broadcast: Посетите наш сайт. Вы будете удивлены! unturned.hemulgm.ru
+MessageAnnouncer >> Посетите наш сайт. Вы будете удивлены! unturned.hemulgm.ru
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [155]
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [156]
+

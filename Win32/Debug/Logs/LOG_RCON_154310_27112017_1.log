@@ -1,0 +1,85 @@
+RocketRcon v2.4.8.0
+
+login aVIPs22031994
+players
+Client has executed command "players"
+Players:
+PlayerID: 76561198423084997 Name: lovemariina Character: 228ff Ping: 128
+PlayerID: 76561198408019916 Name: slava.fan555 Character: Славик Cухоруков Ping: 105
+PlayerID: 76561198315561906 Name: MaXiMuS Character: MaXiMuS Ping: 54
+PlayerID: 76561198165490172 Name: Ashtoreth Character: |Gothic| Ping: 31
+
+Client has executed command "bans"
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27649809
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30530087
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30530103
+
+END
+bans
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27649809
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30530087
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30530103
+
+END
+END
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198423084997 Name: lovemariina Character: 228ff Ping: 132
+PlayerID: 76561198408019916 Name: slava.fan555 Character: Славик Cухоруков Ping: 74
+PlayerID: 76561198315561906 Name: MaXiMuS Character: MaXiMuS Ping: 42
+PlayerID: 76561198165490172 Name: Ashtoreth Character: |Gothic| Ping: 31
+
+MessageAnnouncer >> Broadcast: Наберите /kit claim, чтобы получить Claim Flag
+
+MessageAnnouncer >> Наберите /kit claim, чтобы получить Claim Flag
+
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27649802
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30530080
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30530096
+
+END
+bans
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27649802
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30530080
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30530096
+
+END
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [484]
+

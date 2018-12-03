@@ -1,0 +1,53 @@
+RocketRcon v2.4.8.0
+
+login aVIPs22031994
+players
+Client has executed command "players"
+Players:
+PlayerID: 76561198416514639 Name: Aulak Character: Aulak Ping: 78
+PlayerID: 76561198421469222 Name: cvan71 Character: (Гл.охотник)Андрей Ping: 46
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 39
+PlayerID: 76561198154142534 Name: Y_T_E_N_O_K Character: Y_T_E_N_O_K Ping: 101
+PlayerID: 76561198450315142 Name: artem.popkov2 Character: emsitro Ping: 31
+PlayerID: 76561198403731875 Name: Malav Character: Malav Ping: 31
+PlayerID: 76561198101403061 Name: antifist Character: Помелов Андрей Ping: 31
+PlayerID: 76561198317172157 Name: ?           ???  ??? Character: Roman Ping: 39
+PlayerID: 76561198237123262 Name: I'M Phenomenal Character: Anthonyyy Ping: 39
+
+Client has executed command "bans"
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27299614
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30179892
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30179908
+PlayerID: 76561198408019916
+JudgeID: 76561198237123262
+Reason: raid Duration: 604800 Remaining: 532239
+
+END
+bans
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27299613
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30179891
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30179907
+PlayerID: 76561198408019916
+JudgeID: 76561198237123262
+Reason: raid Duration: 604800 Remaining: 532238
+
+END
+MessageAnnouncer >> Broadcast: Наберите /kit help, чтобы получить первую мед. помощь (бинты, таблетки, еда)
+MessageAnnouncer >> Наберите /kit help, чтобы получить первую мед. помощь (бинты, таблетки, еда)
+

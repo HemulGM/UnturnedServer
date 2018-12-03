@@ -1,0 +1,189 @@
+RocketRcon v2.4.8.0
+
+login aVIPs22031994
+players
+Client has executed command "players"
+Players:
+PlayerID: 76561198218103779 Name: Магистр_Сала Character: мафия    Ping: 25
+
+Client has executed command "bans"
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27666267
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30546545
+PlayerID: 76561198374710965
+JudgeID: 0
+
+END
+Reason: cheater Duration: 31104000 Remaining: 30546561
+Client has executed command "GET NOW"
+ServerControl >> VALUE NOW [0] [0] [3028]
+
+END
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [3038]
+
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198218103779 Name: Магистр_Сала Character: мафия    Ping: 15
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [3039]
+
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27666253
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30546531
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30546547
+
+END
+END
+MessageAnnouncer >> Broadcast: vk.com/unturned_hgm - цены на премиум, VIP и другие услуги смотрите в группе!
+
+MessageAnnouncer >> vk.com/unturned_hgm - цены на премиум, VIP и другие услуги смотрите в группе!
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [3048]
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [3049]
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [3058]
+
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198218103779 Name: Магистр_Сала Character: мафия    Ping: 11
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [3059]
+
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27666233
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30546511
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30546527
+
+END
+END
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [3068]
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [3069]
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [3078]
+
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198218103779 Name: Магистр_Сала Character: мафия    Ping: 15
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [3079]
+
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27666213
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30546491
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30546507
+
+END
+END
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [3088]
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [3089]
+
+cchat "/33/04/13/09/14: /19/05/18/19" 255 0 0
+Client has executed command "cchat "/33/04/13/09/14: /19/05/18/19" 255 0 0"
+
+ServerControl >> Broadcast: Админ: тест
+
+Не обработано: ServerControl >> Broadcast: Админ: тест
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [3098]
+
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198218103779 Name: Магистр_Сала Character: мафия    Ping: 19
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [3099]
+
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27666193
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30546471
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30546487
+
+END
+END
+MessageAnnouncer >> Broadcast: Наберите /kit claim, чтобы получить Claim Flag
+
+MessageAnnouncer >> Наберите /kit claim, чтобы получить Claim Flag
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [3108]
+
+GET NOW
+Client has executed command "GET NOW"
+

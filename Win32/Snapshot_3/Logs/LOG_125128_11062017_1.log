@@ -1,0 +1,72 @@
+Не обработано: RocketRcon v2.4.8.0
+RocketRcon v2.4.8.0
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 39
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 206
+PlayerID: 76561198368930526 Name: LLlaxuD Character: LLlaxuD Ping: 147
+PlayerID: 76561198123840535 Name: ?????? Character: top Ping: 318
+PlayerID: 76561198030393730 Name: heavy198 Character: heavy198 Ping: 153
+PlayerID: 76561198152563082 Name: Drakon Character: Stanat Ping: 166
+PlayerID: 76561198051446787 Name: PUGNA Character: Opticor Ping: 33
+PlayerID: 76561198397238388 Name: nikita-zakharov-1999 Character: nikita-zakharov-1999 Ping: 53
+PlayerID: 76561198247269044 Name: SpaceMan Character: КрасноглазыйЧерножоп Ping: 50
+PlayerID: 76561198238255690 Name: SWAG Character: AimBooT #NiceShot Ping: 113
+PlayerID: 76561198278360341 Name: AcademeG Character: AcademeG Ping: 114
+PlayerID: 76561198272268592 Name: FiVs CandyForce #AWP Character: FiVs CandyForce #AWP Ping: 160
+PlayerID: 76561198082203863 Name: -К4питанПаника- Character: kot Ping: 53
+PlayerID: 76561198253508439 Name: alexthegame Character: люблю перестрелки Ping: 78
+PlayerID: 76561198081025572 Name: Пельмешка Character: Glomus Ping: 137
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4293981518
+
+END with Bans:
+Connecting: PlayerID: 76561198381272870 Name: ™??_Н_Я_Ш_А_??™ Character:  Foxy
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 31
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 179
+PlayerID: 76561198368930526 Name: LLlaxuD Character: LLlaxuD Ping: 139
+PlayerID: 76561198123840535 Name: ?????? Character: top Ping: 291
+PlayerID: 76561198030393730 Name: heavy198 Character: heavy198 Ping: 139
+PlayerID: 76561198152563082 Name: Drakon Character: Stanat Ping: 148
+PlayerID: 76561198051446787 Name: PUGNA Character: Opticor Ping: 28
+PlayerID: 76561198397238388 Name: nikita-zakharov-1999 Character: nikita-zakharov-1999 Ping: 52
+PlayerID: 76561198247269044 Name: SpaceMan Character: КрасноглазыйЧерножоп Ping: 53
+PlayerID: 76561198238255690 Name: SWAG Character: AimBooT #NiceShot Ping: 108
+PlayerID: 76561198278360341 Name: AcademeG Character: AcademeG Ping: 87
+PlayerID: 76561198272268592 Name: FiVs CandyForce #AWP Character: FiVs CandyForce #AWP Ping: 114
+PlayerID: 76561198082203863 Name: -К4питанПаника- Character: kot Ping: 44
+PlayerID: 76561198253508439 Name: alexthegame Character: люблю перестрелки Ping: 209
+PlayerID: 76561198081025572 Name: Пельмешка Character: Glomus Ping: 122
+PlayerID: 76561198381272870 Name: ™??_Н_Я_Ш_А_??™ Character:  Foxy Ping: 96
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4293981498
+
+END with Bans:
+[World] top [??????]: "ща"
+
+[World] 7_AleX_3 [7_AleX_3]: "ок"
+
+[World]  Foxy [™??_Н_Я_Ш_А_??™]: "/kits"
+

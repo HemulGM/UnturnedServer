@@ -1,0 +1,31 @@
+15.11.2017 15:00:19: Не обработано: oleg был исцелён
+15.11.2017 15:00:19: Не обработано: ptifon был исцелён
+15.11.2017 15:00:19: Не обработано: ваня был исцелён
+15.11.2017 15:00:19: Не обработано: степан мамунин был исцелён
+15.11.2017 15:00:19: Не обработано: He_TTpugyMaJl_Huk был исцелён
+15.11.2017 15:00:19: Не обработано: zohan был исцелён
+15.11.2017 15:00:19: Не обработано: ServerControl >> Broadcast: Аирдроп через 5 ч.
+15.11.2017 15:01:49: Не обработано: ServerControl >> Broadcast: За то не исчезают
+15.11.2017 15:02:31: Не обработано: ServerControl >> Broadcast: Это администрация
+15.11.2017 15:03:02: Не обработано: SqlNullValueException: Data is Null. This method or property cannot be called on Null values. - MySql.Data.MySqlClient.MySqlDataReader.GetFieldValue (Int32 index, Boolean checkNull)
+15.11.2017 15:03:02: Не обработано: MySql.Data.MySqlClient.MySqlDataReader.GetString (Int32 i)
+15.11.2017 15:03:02: Не обработано: MySql.Data.MySqlClient.MySqlDataReader.GetString (System.String column)
+15.11.2017 15:03:02: Не обработано: (wrapper remoting-invoke-with-check) MySql.Data.MySqlClient.MySqlDataReader:GetString (string)
+15.11.2017 15:03:02: Не обработано: PlayerInfoLibrary.DatabaseManager.PrecessExpiredPInfo ()
+15.11.2017 15:03:02: Не обработано: PlayerInfoLibrary.PlayerInfoLib.FixedUpdate ()
+15.11.2017 15:03:03: Сохранение сервера
+15.11.2017 15:03:29: Не обработано: zohan moved x:-133.7024 y:63.76215(+34.12108) z:922.2344 in the last second (0.2379189)
+15.11.2017 15:03:55: Не обработано: ServerControl >> Broadcast: Всм?
+15.11.2017 15:04:00: Не обработано: ServerControl >> Broadcast: Я не в игре
+15.11.2017 15:04:14: Не обработано: ServerControl >> Broadcast: Через телеграм пишу
+15.11.2017 15:04:23: Не обработано: степан мамунин [lovemariina] was mauled by a zombie!
+15.11.2017 15:04:37: Не обработано: ServerControl >> Broadcast: Он запрещён
+15.11.2017 15:04:54: Не обработано: ServerControl >> Broadcast: Пишу через телеграм
+15.11.2017 15:05:17: Не обработано: ServerControl >> Broadcast: Миниган запрещён
+15.11.2017 15:05:26: Не обработано: ServerControl >> Broadcast: Бывает меня
+15.11.2017 15:05:48: Не обработано: ServerControl >> Broadcast: Потому что у нас не бесконечныое здоровье у объектов
+15.11.2017 15:05:56: Не обработано: ServerControl >> Broadcast: А просто повышенное в несколько раз
+15.11.2017 15:06:23: Не обработано: ServerControl >> Broadcast: Как?
+15.11.2017 15:06:31: Не обработано: ServerControl >> Broadcast: Что сделать?
+15.11.2017 15:07:10: Не обработано: ServerControl >> Broadcast: Они и так почти неуязвимы.
+15.11.2017 15:07:51: Не обработано: zohan moved x:-133.7024 y:63.62423(+37.26256) z:922.2344 in the last second (0.1000023)

@@ -1,0 +1,51 @@
+RocketRcon v2.4.8.0
+
+login aVIPs22031994
+players
+Client has executed command "players"
+Failed to find any players.
+
+MessageAnnouncer >> Broadcast: Наберите /kit claim, чтобы получить Claim Flag
+
+MessageAnnouncer >> Наберите /kit claim, чтобы получить Claim Flag
+
+GET ISDAYTIME
+Client has executed command "GET ISDAYTIME"
+
+ServerControl >> VALUE ISDAYTIME [1]
+
+ISDAYTIME: "1"
+GET TIME
+Client has executed command "GET TIME"
+
+ServerControl >> VALUE TIME [702]
+
+TIME: "702"
+GET ISFULLMOON
+Client has executed command "GET ISFULLMOON"
+
+ServerControl >> VALUE ISFULLMOON [0]
+
+ISFULLMOON: "0"
+Client has executed command "players"
+
+Failed to find any players.
+
+GET ISDAYTIME
+Client has executed command "GET ISDAYTIME"
+
+ServerControl >> VALUE ISDAYTIME [1]
+
+ISDAYTIME: "1"
+GET TIME
+Client has executed command "GET TIME"
+
+ServerControl >> VALUE TIME [715]
+
+TIME: "715"
+GET ISFULLMOON
+Client has executed command "GET ISFULLMOON"
+
+ServerControl >> VALUE ISFULLMOON [0]
+
+ISFULLMOON: "0"

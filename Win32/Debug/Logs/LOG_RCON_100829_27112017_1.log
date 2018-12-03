@@ -1,0 +1,150 @@
+RocketRcon v2.4.8.0
+
+login aVIPs22031994
+players
+Client has executed command "players"
+Failed to find any players.
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [3006]
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [3016]
+
+Client has executed command "GET NOW"
+ServerControl >> VALUE NOW [0] [0] [3016]
+
+Client has executed command "players"
+
+Failed to find any players.
+
+Client has executed command "GET NOW"
+
+GET NOW
+ServerControl >> VALUE NOW [0] [0] [3026]
+
+Client has executed command "GET NOW"
+ServerControl >> VALUE NOW [0] [0] [3026]
+
+Client has executed command "GET NOW"
+
+GET NOW
+ServerControl >> VALUE NOW [0] [0] [3036]
+
+Client has executed command "GET NOW"
+ServerControl >> VALUE NOW [0] [0] [3036]
+
+Client has executed command "players"
+
+Failed to find any players.
+
+MessageAnnouncer >> Broadcast: Используйте /report [ник], чтобы отправить жалобу на игрока
+
+MessageAnnouncer >> Используйте /report [ник], чтобы отправить жалобу на игрока
+
+GET NOW
+Client has executed command "GET NOW"
+ServerControl >> VALUE NOW [0] [0] [3046]
+
+Client has executed command "GET NOW"
+ServerControl >> VALUE NOW [0] [0] [3046]
+
+Client has executed command "GET NOW"
+
+GET NOW
+ServerControl >> VALUE NOW [0] [0] [3056]
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [3056]
+
+Client has executed command "players"
+
+Failed to find any players.
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [3066]
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [3066]
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [3076]
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [3076]
+
+Client has executed command "players"
+
+Failed to find any players.
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [3086]
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [3086]
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [3096]
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [3096]
+
+Client has executed command "players"
+
+Failed to find any players.
+
+MessageAnnouncer >> Broadcast: Наберите /rules (/r) для просмотра правил
+
+MessageAnnouncer >> Наберите /rules (/r) для просмотра правил
+
+Client has executed command "GET NOW"
+ServerControl >> VALUE NOW [0] [0] [3106]
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [3106]
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [3116]
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [3116]
+
+Client has executed command "players"
+
+Failed to find any players.
+
+Client has executed command "cchat "/33/09/17/04/17/15/16 /24/05/17/05/08 4 /24. 50 /13. " 255 255 0"
+
+ServerControl >> Broadcast: Аирдроп через 4 ч. 50 м.
+
+Не обработано: ServerControl >> Broadcast: Аирдроп через 4 ч. 50 м.
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [3126]
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [3126]
+

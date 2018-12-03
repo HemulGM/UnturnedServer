@@ -1,0 +1,1293 @@
+RocketRcon v2.4.8.0
+
+login aVIPs22031994
+players
+Client has executed command "players"
+Players:
+PlayerID: 76561198424120093 Name: Knockout1Demscouts Character: Knockout1Demscouts Ping: 205
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 150
+PlayerID: 76561198418007295 Name: GERALD YOUTUBE Character: Дмитий Андриенко Ping: 101
+PlayerID: 76561198447224702 Name: dimasik_1903 Character: dimasik_1903 Ping: 42
+
+Client has executed command "bans"
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27993972
+PlayerID: 76561198336969313
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 109205
+PlayerID: 76561198212486347
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 109536
+PlayerID: 76561198391097237
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 272023
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30874250
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30874266
+
+END
+END
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198424120093 Name: Knockout1Demscouts Character: Knockout1Demscouts Ping: 187
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 148
+PlayerID: 76561198418007295 Name: GERALD YOUTUBE Character: Дмитий Андриенко Ping: 109
+PlayerID: 76561198447224702 Name: dimasik_1903 Character: dimasik_1903 Ping: 87
+
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27993966
+PlayerID: 76561198336969313
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 109199
+PlayerID: 76561198212486347
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 109530
+PlayerID: 76561198391097237
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 272017
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30874244
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30874260
+
+END
+END
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [1507]
+
+GET NOW
+[World] Expert1337 [Expert13372284200]: "/tp milit"
+
+Expert1337 телепортирован к Olympia Military Base
+Client has executed command "GET NOW"
+ServerControl >> VALUE NOW [1] [0] [1511]
+
+Не обработано: Expert1337 телепортирован к Olympia Military Base
+MessageAnnouncer >> Broadcast: vk.com/unturned_hgm - цены на премиум, VIP и другие услуги смотрите в группе!
+
+MessageAnnouncer >> vk.com/unturned_hgm - цены на премиум, VIP и другие услуги смотрите в группе!
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [1517]
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [1521]
+
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198424120093 Name: Knockout1Demscouts Character: Knockout1Demscouts Ping: 193
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 160
+PlayerID: 76561198418007295 Name: GERALD YOUTUBE Character: Дмитий Андриенко Ping: 113
+PlayerID: 76561198447224702 Name: dimasik_1903 Character: dimasik_1903 Ping: 240
+
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27993946
+PlayerID: 76561198336969313
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 109179
+PlayerID: 76561198212486347
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 109510
+PlayerID: 76561198391097237
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 271997
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30874224
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30874240
+
+END
+END
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [1527]
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [1531]
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [1537]
+
+[World] Expert1337 [Expert13372284200]: "/exchange 1000"
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [1541]
+
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198424120093 Name: Knockout1Demscouts Character: Knockout1Demscouts Ping: 197
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 138
+PlayerID: 76561198418007295 Name: GERALD YOUTUBE Character: Дмитий Андриенко Ping: 93
+PlayerID: 76561198447224702 Name: dimasik_1903 Character: dimasik_1903 Ping: 31
+
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27993926
+PlayerID: 76561198336969313
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 109159
+PlayerID: 76561198212486347
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 109490
+PlayerID: 76561198391097237
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 271977
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30874204
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30874220
+
+END
+END
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [1547]
+
+give 76561198366549870 22 2
+give 76561198366549870 23 1
+give 76561198366549870 24 2
+give 76561198366549870 25 1
+give 76561198366549870 26 3
+Client has executed command "give 76561198366549870 22 2"
+Successfully gave Expert13372284200 22 x2!
+Client has executed command "give 76561198366549870 23 1"
+Failed to find any item called 23.
+
+Не обработано: Failed to find any item called 23.
+Client has executed command "give 76561198366549870 24 2"
+
+Failed to find any item called 24.
+
+Не обработано: Failed to find any item called 24.
+Client has executed command "give 76561198366549870 25 1"
+
+Failed to find any item called 25.
+
+Не обработано: Failed to find any item called 25.
+Client has executed command "give 76561198366549870 26 3"
+
+Failed to find any item called 26.
+
+Не обработано: Failed to find any item called 26.
+[World] Expert1337 [Expert13372284200]: "/exchabge 50000"
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [1552]
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [1557]
+
+[World] Expert1337 [Expert13372284200]: "/exchange 50000"
+
+DeathMessagesRemastered >> Broadcast: dimasik_1903 истёк кровью!
+
+dimasik_1903 [dimasik_1903] bled to death!
+
+Не обработано: dimasik_1903 [dimasik_1903] bled to death!
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [1562]
+
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198424120093 Name: Knockout1Demscouts Character: Knockout1Demscouts Ping: 195
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 142
+PlayerID: 76561198418007295 Name: GERALD YOUTUBE Character: Дмитий Андриенко Ping: 95
+PlayerID: 76561198447224702 Name: dimasik_1903 Character: dimasik_1903 Ping: 44
+
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27993906
+PlayerID: 76561198336969313
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 109139
+PlayerID: 76561198212486347
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 109470
+PlayerID: 76561198391097237
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 271957
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30874184
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30874200
+
+END
+END
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [1567]
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [1572]
+
+Disconnecting: PlayerID: 76561198447224702 Name: dimasik_1903 Character: dimasik_1903
+
+MessageAnnouncer >> Broadcast: Наберите /kit claim, чтобы получить Claim Flag
+
+MessageAnnouncer >> Наберите /kit claim, чтобы получить Claim Flag
+
+Client has executed command "GET NOW"
+ServerControl >> VALUE NOW [1] [0] [1577]
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [1582]
+
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198424120093 Name: Knockout1Demscouts Character: Knockout1Demscouts Ping: 199
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 142
+PlayerID: 76561198418007295 Name: GERALD YOUTUBE Character: Дмитий Андриенко Ping: 99
+
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27993886
+PlayerID: 76561198336969313
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 109119
+PlayerID: 76561198212486347
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 109450
+PlayerID: 76561198391097237
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 271937
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30874164
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30874180
+
+END
+END
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [1587]
+
+[World] Expert1337 [Expert13372284200]: "/tp milit"
+
+Expert1337 телепортирован к Olympia Military Base
+
+Не обработано: Expert1337 телепортирован к Olympia Military Base
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [1592]
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [1597]
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [1602]
+
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198424120093 Name: Knockout1Demscouts Character: Knockout1Demscouts Ping: 197
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 146
+PlayerID: 76561198418007295 Name: GERALD YOUTUBE Character: Дмитий Андриенко Ping: 95
+
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27993866
+PlayerID: 76561198336969313
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 109099
+PlayerID: 76561198212486347
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 109430
+PlayerID: 76561198391097237
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 271917
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30874144
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30874160
+
+END
+END
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [1607]
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [1612]
+
+Connecting: PlayerID: 76561198444550636 Name: Qvantum Character: Qvant
+
+Qvant connected with IP 89.250.174.204
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [1617]
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [1622]
+
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198424120093 Name: Knockout1Demscouts Character: Knockout1Demscouts Ping: 207
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 148
+PlayerID: 76561198418007295 Name: GERALD YOUTUBE Character: Дмитий Андриенко Ping: 138
+PlayerID: 76561198444550636 Name: Qvantum Character: Qvant Ping: 23
+
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27993846
+PlayerID: 76561198336969313
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 109079
+PlayerID: 76561198212486347
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 109410
+PlayerID: 76561198391097237
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 271897
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30874124
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30874140
+
+END
+END
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [1627]
+
+Connecting: PlayerID: 76561198245870076 Name: 0|TheGangstar|0 Character: Nyan Bread
+Nyan Bread connected with IP 176.209.4.239
+
+Disconnecting: PlayerID: 76561198444550636 Name: Qvantum Character: Qvant
+
+[World] Expert1337 [Expert13372284200]: "кого куда тепнуть"
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [1632]
+
+MessageAnnouncer >> Broadcast: Если модератор ведёт себя неподобающе, пишите в группу или ЛС (vk.com/unturned_hgm, vk.com/hemulgm)
+
+MessageAnnouncer >> Если модератор ведёт себя неподобающе, пишите в группу или ЛС (vk.com/unturned_hgm, vk.com/hemulgm)
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [1637]
+
+[World] Дмитий Андриенко [GERALD YOUTUBE]: "куда"
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [1642]
+
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198424120093 Name: Knockout1Demscouts Character: Knockout1Demscouts Ping: 195
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 154
+PlayerID: 76561198418007295 Name: GERALD YOUTUBE Character: Дмитий Андриенко Ping: 101
+PlayerID: 76561198245870076 Name: 0|TheGangstar|0 Character: Nyan Bread Ping: 291
+
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27993826
+PlayerID: 76561198336969313
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 109059
+PlayerID: 76561198212486347
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 109390
+PlayerID: 76561198391097237
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 271877
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30874104
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30874120
+
+END
+END
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [1647]
+
+[World] Expert1337 [Expert13372284200]: "куда хочеш туда и тепну"
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [1652]
+
+[World] Дмитий Андриенко [GERALD YOUTUBE]: "го на военку"
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [1657]
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [1662]
+
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198424120093 Name: Knockout1Demscouts Character: Knockout1Demscouts Ping: 185
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 154
+PlayerID: 76561198418007295 Name: GERALD YOUTUBE Character: Дмитий Андриенко Ping: 101
+PlayerID: 76561198245870076 Name: 0|TheGangstar|0 Character: Nyan Bread Ping: 117
+
+[World] Nyan Bread [0|TheGangstar|0]: "че пацаны, онимэ?"
+
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27993805
+PlayerID: 76561198336969313
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 109038
+PlayerID: 76561198212486347
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 109369
+PlayerID: 76561198391097237
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 271856
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30874083
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30874099
+
+END
+END
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [1667]
+
+teleport 76561198418007295 "Olympia Military Base"
+Client has executed command "teleport 76561198418007295 "Olympia Military Base""
+
+Successfully teleported GERALD YOUTUBE to Olympia Military Base!
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [1672]
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [1677]
+
+[World] Дмитий Андриенко [GERALD YOUTUBE]: "спс"
+
+[World] Expert1337 [Expert13372284200]: "/tphere дмитрий"
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [1682]
+
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198424120093 Name: Knockout1Demscouts Character: Knockout1Demscouts Ping: 199
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 154
+PlayerID: 76561198418007295 Name: GERALD YOUTUBE Character: Дмитий Андриенко Ping: 93
+PlayerID: 76561198245870076 Name: 0|TheGangstar|0 Character: Nyan Bread Ping: 109
+
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27993786
+PlayerID: 76561198336969313
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 109019
+PlayerID: 76561198212486347
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 109350
+PlayerID: 76561198391097237
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 271837
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30874064
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30874080
+
+END
+[World] Дмитий Андриенко [GERALD YOUTUBE]: "а можеш лута дать?"
+
+END
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [1687]
+
+[World] Дмитий Андриенко [GERALD YOUTUBE]: "емли есть"
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [1692]
+
+Client has executed command "cchat "/33/09/17/04/17/15/16 /24/05/17/05/08 3 /24. 50 /13. " 255 255 0"
+
+ServerControl >> Broadcast: Аирдроп через 3 ч. 50 м.
+
+Не обработано: ServerControl >> Broadcast: Аирдроп через 3 ч. 50 м.
+MessageAnnouncer >> Broadcast: Посетите наш сайт. Вы будете удивлены! unturned.hemulgm.ru
+
+MessageAnnouncer >> Посетите наш сайт. Вы будете удивлены! unturned.hemulgm.ru
+
+[World] Nyan Bread [0|TheGangstar|0]: "/sell shadows 3"
+
+[World] Expert1337 [Expert13372284200]: "тепать"
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [1697]
+
+[World] Дмитий Андриенко [GERALD YOUTUBE]: "тепай"
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [1702]
+
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198424120093 Name: Knockout1Demscouts Character: Knockout1Demscouts Ping: 193
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 171
+PlayerID: 76561198418007295 Name: GERALD YOUTUBE Character: Дмитий Андриенко Ping: 97
+PlayerID: 76561198245870076 Name: 0|TheGangstar|0 Character: Nyan Bread Ping: 101
+
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27993766
+PlayerID: 76561198336969313
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 108999
+PlayerID: 76561198212486347
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 109330
+PlayerID: 76561198391097237
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 271817
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30874044
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30874060
+
+END
+END
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [1707]
+
+[World] Expert1337 [Expert13372284200]: "/tphere дмитр"
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [1712]
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [1717]
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [1722]
+
+Client has executed command "players"
+Players:
+PlayerID: 76561198424120093 Name: Knockout1Demscouts Character: Knockout1Demscouts Ping: 203
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 169
+PlayerID: 76561198418007295 Name: GERALD YOUTUBE Character: Дмитий Андриенко Ping: 95
+PlayerID: 76561198245870076 Name: 0|TheGangstar|0 Character: Nyan Bread Ping: 101
+
+[World] Expert1337 [Expert13372284200]: "/tphere дмитий"
+
+Дмитий Андриенко был телепортирован к Expert1337
+
+Не обработано: Дмитий Андриенко был телепортирован к Expert1337
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27993746
+PlayerID: 76561198336969313
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 108979
+PlayerID: 76561198212486347
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 109310
+PlayerID: 76561198391097237
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 271797
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30874024
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30874040
+
+END
+END
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [1727]
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [1732]
+Broadcast: [ZOMBIE] Дмитий Андриенко был съеден зомби! 
+
+Не обработано: Broadcast: [ZOMBIE] Дмитий Андриенко был съеден зомби! 
+Дмитий Андриенко [GERALD YOUTUBE] was mauled by a zombie!
+
+Не обработано: Дмитий Андриенко [GERALD YOUTUBE] was mauled by a zombie!
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [1737]
+
+GET NOW
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198424120093 Name: Knockout1Demscouts Character: Knockout1Demscouts Ping: 203
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 154
+PlayerID: 76561198418007295 Name: GERALD YOUTUBE Character: Дмитий Андриенко Ping: 95
+PlayerID: 76561198245870076 Name: 0|TheGangstar|0 Character: Nyan Bread Ping: 105
+
+Client has executed command "GET NOW"
+ServerControl >> VALUE NOW [1] [0] [1742]
+
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27993726
+PlayerID: 76561198336969313
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 108959
+PlayerID: 76561198212486347
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 109290
+PlayerID: 76561198391097237
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 271777
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30874004
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30874020
+
+END
+Disconnecting: PlayerID: 76561198418007295 Name: GERALD YOUTUBE Character: Дмитий Андриенко
+
+END
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [1747]
+
+[World] Expert1337 [Expert13372284200]: "/tphere дмитий"
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [1752]
+
+[World] Expert1337 [Expert13372284200]: "мда..."
+
+MessageAnnouncer >> Broadcast: vk.com/hemulgm - ЕДИНСТВЕННЫЙ администратор сервера
+
+MessageAnnouncer >> vk.com/hemulgm - ЕДИНСТВЕННЫЙ администратор сервера
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [1757]
+
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198424120093 Name: Knockout1Demscouts Character: Knockout1Demscouts Ping: 183
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 150
+PlayerID: 76561198245870076 Name: 0|TheGangstar|0 Character: Nyan Bread Ping: 103
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [1762]
+
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27993706
+PlayerID: 76561198336969313
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 108939
+PlayerID: 76561198212486347
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 109270
+PlayerID: 76561198391097237
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 271757
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30873984
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30874000
+
+END
+END
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [1767]
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [1772]
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [1777]
+
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198424120093 Name: Knockout1Demscouts Character: Knockout1Demscouts Ping: 193
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 138
+PlayerID: 76561198245870076 Name: 0|TheGangstar|0 Character: Nyan Bread Ping: 99
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [1782]
+
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27993686
+PlayerID: 76561198336969313
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 108919
+PlayerID: 76561198212486347
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 109250
+PlayerID: 76561198391097237
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 271737
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30873964
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30873980
+
+END
+END
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [1787]
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [1792]
+
+[World] Nyan Bread [0|TheGangstar|0]: "/sell nyko 2"
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [1797]
+
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198424120093 Name: Knockout1Demscouts Character: Knockout1Demscouts Ping: 197
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 156
+PlayerID: 76561198245870076 Name: 0|TheGangstar|0 Character: Nyan Bread Ping: 113
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [1803]
+
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27993666
+PlayerID: 76561198336969313
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 108899
+PlayerID: 76561198212486347
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 109230
+PlayerID: 76561198391097237
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 271717
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30873944
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30873960
+
+END
+END
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [1807]
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [1813]
+
+MessageAnnouncer >> Broadcast: Используйте /report [ник], чтобы отправить жалобу на игрока
+
+MessageAnnouncer >> Используйте /report [ник], чтобы отправить жалобу на игрока
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [1817]
+
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198424120093 Name: Knockout1Demscouts Character: Knockout1Demscouts Ping: 197
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 171
+PlayerID: 76561198245870076 Name: 0|TheGangstar|0 Character: Nyan Bread Ping: 103
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [1823]
+
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27993646
+PlayerID: 76561198336969313
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 108879
+PlayerID: 76561198212486347
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 109210
+PlayerID: 76561198391097237
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 271697
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30873924
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30873940
+
+END
+END
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [1827]
+
+Connecting: PlayerID: 76561198418007295 Name: GERALD YOUTUBE Character: Дмитий Андриенко
+
+Дмитий Андриенко connected with IP 95.153.131.218
+
+[World] Expert1337 [Expert13372284200]: "/tp nyan"
+
+Expert1337 телепортирован к Nyan Bread
+
+Не обработано: Expert1337 телепортирован к Nyan Bread
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [1833]
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [1837]
+
+[World] Дмитий Андриенко [GERALD YOUTUBE]: "тепай"
+
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198424120093 Name: Knockout1Demscouts Character: Knockout1Demscouts Ping: 193
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 146
+PlayerID: 76561198245870076 Name: 0|TheGangstar|0 Character: Nyan Bread Ping: 99
+PlayerID: 76561198418007295 Name: GERALD YOUTUBE Character: Дмитий Андриенко Ping: 99
+
+GET NOW
+Disconnecting: PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337
+
+Client has executed command "GET NOW"
+ServerControl >> VALUE NOW [1] [0] [1843]
+
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27993626
+PlayerID: 76561198336969313
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 108859
+PlayerID: 76561198212486347
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 109190
+PlayerID: 76561198391097237
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 271677
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30873904
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30873920
+
+END
+END
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [1847]
+
+[World] Дмитий Андриенко [GERALD YOUTUBE]: "найс"
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [1853]
+
+[World] Дмитий Андриенко [GERALD YOUTUBE]: "-лут"
+
+[World] Nyan Bread [0|TheGangstar|0]: "вещам пизда"
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [1857]
+
+[World] Nyan Bread [0|TheGangstar|0]: "ывхфхвфхывхфывх"
+
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198424120093 Name: Knockout1Demscouts Character: Knockout1Demscouts Ping: 191
+PlayerID: 76561198245870076 Name: 0|TheGangstar|0 Character: Nyan Bread Ping: 109
+PlayerID: 76561198418007295 Name: GERALD YOUTUBE Character: Дмитий Андриенко Ping: 93
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [1863]
+
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27993606
+PlayerID: 76561198336969313
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 108839
+PlayerID: 76561198212486347
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 109170
+PlayerID: 76561198391097237
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 271657
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30873884
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30873900
+
+END
+END
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [1867]
+
+[World] Дмитий Андриенко [GERALD YOUTUBE]: "гангстер ты на военки?"
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [1873]
+
+MessageAnnouncer >> Broadcast: Наберите /rules (/r) для просмотра правил
+
+MessageAnnouncer >> Наберите /rules (/r) для просмотра правил
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [1877]
+
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198424120093 Name: Knockout1Demscouts Character: Knockout1Demscouts Ping: 207
+PlayerID: 76561198245870076 Name: 0|TheGangstar|0 Character: Nyan Bread Ping: 242
+PlayerID: 76561198418007295 Name: GERALD YOUTUBE Character: Дмитий Андриенко Ping: 205
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [1883]
+
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27993586
+PlayerID: 76561198336969313
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 108819
+PlayerID: 76561198212486347
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 109150
+PlayerID: 76561198391097237
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 271637
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30873864
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30873880
+
+END
+Connecting: PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337
+
+Expert1337 connected with IP 5.141.204.161
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [1887]
+
+END
+[World] Дмитий Андриенко [GERALD YOUTUBE]: "/tpa nyan"
+
+[World] Expert1337 [Expert13372284200]: "/tp milit"
+
+Expert1337 телепортирован к Olympia Military Base
+
+Не обработано: Expert1337 телепортирован к Olympia Military Base
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [1893]
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [1897]
+
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198424120093 Name: Knockout1Demscouts Character: Knockout1Demscouts Ping: 210
+PlayerID: 76561198245870076 Name: 0|TheGangstar|0 Character: Nyan Bread Ping: 109
+PlayerID: 76561198418007295 Name: GERALD YOUTUBE Character: Дмитий Андриенко Ping: 89
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 152
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [1903]
+
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27993566
+PlayerID: 76561198336969313
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 108799
+PlayerID: 76561198212486347
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 109130
+PlayerID: 76561198391097237
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 271617
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30873844
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30873860
+
+END
+END
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [1907]
+
+[World] Expert1337 [Expert13372284200]: "/tphere дмитий"
+
+Дмитий Андриенко был телепортирован к Expert1337
+
+Не обработано: Дмитий Андриенко был телепортирован к Expert1337
+Дмитий Андриенко moved x:-692.3475 y:47.33506(+20.55485) z:-393.0356 in the last second (0.6255875)
+
+Не обработано: Дмитий Андриенко moved x:-692.3475 y:47.33506(+20.55485) z:-393.0356 in the last second (0.6255875)
+[World] Nyan Bread [0|TheGangstar|0]: "/tpa a"
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [1913]
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [1917]
+
+Disconnecting: PlayerID: 76561198418007295 Name: GERALD YOUTUBE Character: Дмитий Андриенко
+
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198424120093 Name: Knockout1Demscouts Character: Knockout1Demscouts Ping: 185
+PlayerID: 76561198245870076 Name: 0|TheGangstar|0 Character: Nyan Bread Ping: 111
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 154
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [1923]
+
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27993546
+PlayerID: 76561198336969313
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 108779
+PlayerID: 76561198212486347
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 109110
+PlayerID: 76561198391097237
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 271597
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30873824
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30873840
+
+END
+[World] Nyan Bread [0|TheGangstar|0]: "/sell avenger"
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [1927]
+
+END

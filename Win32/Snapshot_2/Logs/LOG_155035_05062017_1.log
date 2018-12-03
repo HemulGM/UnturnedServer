@@ -1,0 +1,85 @@
+Не обработано: RocketRcon v2.4.8.0
+RocketRcon v2.4.8.0
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198369248070 Name: Ali Character: Ali Ping: 156
+PlayerID: 76561198165822970 Name: Indigo Character: Indigo Ping: 62
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 144
+PlayerID: 76561198368128006 Name: Aibek Character: Aibek [A.S.D] Ping: 97
+PlayerID: 76561198361426439 Name: YouTube-kotik_killer Character: YouTube-kotik_killer Ping: 148
+PlayerID: 76561198328119181 Name: Fex Character: Fex Ping: 54
+PlayerID: 76561198114070067 Name: Super iGeroy Character: Samurai Ping: 46
+PlayerID: 76561198381575360 Name: sehdzscuygs Character: sehdzscuygs Ping: 214
+PlayerID: 76561198392717455 Name: yusufcalik2006 Character: pro Ping: 175
+PlayerID: 76561198351213164 Name: _АхМеД_ Character: Виндяй Вечеслав Ping: 93
+PlayerID: 76561198207655728 Name: starsh3118 Character: starsh3118 Ping: 367
+PlayerID: 76561198363828451 Name: Ничоси Character: Кеша Ping: 46
+PlayerID: 76561198334346242 Name: мареонетка Character: [Кровавые]хмурый Ping: 308
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 123123
+JudgeID: 0
+
+TimerTerminateCommand.Enabled with Bans:
+Reason: unspecified Duration: 31536000 Remaining: 31025002
+PlayerID: 123
+JudgeID: 0
+Reason: durila Duration: 4000 Remaining: 4294460796
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294489168
+
+END with Bans:
+[World] Expert1337 [Expert13372284200]: "он пуст"
+
+Не обработано: DeathMessagesRemastered >> Broadcast: sehdzscuygs was killed by fire!
+DeathMessagesRemastered >> Broadcast: sehdzscuygs was killed by fire!
+
+Не обработано: sehdzscuygs [sehdzscuygs] burned to death!
+sehdzscuygs [sehdzscuygs] burned to death!
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198369248070 Name: Ali Character: Ali Ping: 164
+PlayerID: 76561198165822970 Name: Indigo Character: Indigo Ping: 39
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 160
+PlayerID: 76561198368128006 Name: Aibek Character: Aibek [A.S.D] Ping: 93
+PlayerID: 76561198361426439 Name: YouTube-kotik_killer Character: YouTube-kotik_killer Ping: 175
+PlayerID: 76561198328119181 Name: Fex Character: Fex Ping: 58
+PlayerID: 76561198114070067 Name: Super iGeroy Character: Samurai Ping: 50
+PlayerID: 76561198381575360 Name: sehdzscuygs Character: sehdzscuygs Ping: 195
+PlayerID: 76561198392717455 Name: yusufcalik2006 Character: pro Ping: 304
+PlayerID: 76561198351213164 Name: _АхМеД_ Character: Виндяй Вечеслав Ping: 101
+PlayerID: 76561198207655728 Name: starsh3118 Character: starsh3118 Ping: 371
+PlayerID: 76561198363828451 Name: Ничоси Character: Кеша Ping: 46
+PlayerID: 76561198334346242 Name: мареонетка Character: [Кровавые]хмурый Ping: 109
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 123123
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 31024982
+PlayerID: 123
+JudgeID: 0
+Reason: durila Duration: 4000 Remaining: 4294460776
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294489149
+
+Не обработано: sehdzscuygs moved x:-744.4502 y:58.56762(+26.81592) z:127.2084 in the last second (0.9748459)
+TimerTerminateCommand.Enabled with Bans:
+sehdzscuygs moved x:-744.4502 y:58.56762(+26.81592) z:127.2084 in the last second (0.9748459)
+
+END with Bans:

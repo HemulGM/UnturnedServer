@@ -1,0 +1,131 @@
+RocketRcon v2.4.8.0
+
+login aVIPs22031994
+players
+Client has executed command "players"
+Players:
+PlayerID: 76561198170498361 Name: _Nick_Hunter_ Character: Nick_Hunter[RUS] Ping: 56
+PlayerID: 76561198424120093 Name: Knockout1Demscouts Character: Knockout1Demscouts Ping: 195
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 222
+PlayerID: 76561198384139999 Name: agat84 Character: Mr.Shadou Ping: 89
+Client has executed command "GET NOW"
+ServerControl >> VALUE NOW [1] [0] [903]
+
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 28079770
+PlayerID: 76561198336969313
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 195003
+PlayerID: 76561198212486347
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 195334
+PlayerID: 76561198391097237
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 357821
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30960048
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30960064
+
+END
+[World] Expert1337 [Expert13372284200]: "/tp shad"
+
+Expert1337 телепортирован к Mr.Shadou
+
+Не обработано: Expert1337 телепортирован к Mr.Shadou
+[World] Mr.Shadou [agat84]: "можно"
+
+END
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198170498361 Name: _Nick_Hunter_ Character: Nick_Hunter[RUS] Ping: 64
+PlayerID: 76561198424120093 Name: Knockout1Demscouts Character: Knockout1Demscouts Ping: 207
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 201
+PlayerID: 76561198384139999 Name: agat84 Character: Mr.Shadou Ping: 96
+
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 28079763
+PlayerID: 76561198336969313
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 194996
+PlayerID: 76561198212486347
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 195327
+PlayerID: 76561198391097237
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 357814
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30960041
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30960057
+
+END
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [913]
+
+END
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [920]
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [923]
+
+Disconnecting: PlayerID: 76561198384139999 Name: agat84 Character: Mr.Shadou
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [930]
+
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198170498361 Name: _Nick_Hunter_ Character: Nick_Hunter[RUS] Ping: 70
+PlayerID: 76561198424120093 Name: Knockout1Demscouts Character: Knockout1Demscouts Ping: 191
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 205
+
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 28079743
+PlayerID: 76561198336969313
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 194976
+PlayerID: 76561198212486347
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 195307
+PlayerID: 76561198391097237
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 357794
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30960021
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30960037
+
+END
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [933]
+
+END

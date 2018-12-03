@@ -1,0 +1,31 @@
+RocketRcon v2.4.8.0
+
+login aVIPs22031994
+players
+Client has executed command "players"
+Players:
+PlayerID: 76561198205863883 Name: Крокодил Гена Character: krokodil gena Ping: 31
+PlayerID: 76561198264383990 Name: СПОРТАКУС Character: Иван Снег Ping: 39
+PlayerID: 76561198416514639 Name: Aulak Character: Aulak Ping: 46
+PlayerID: 76561198204253699 Name: RaYuRa Character: zazoune1706 Ping: 140
+Client has executed command "bans"
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 26873914
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 29754192
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 29754208
+PlayerID: 76561198408019916
+JudgeID: 76561198237123262
+Reason: raid Duration: 604800 Remaining: 106539
+PlayerID: 76561198366284525
+JudgeID: 76561198237123262
+Reason: REKLAMA Duration: 604800 Remaining: 284708
+
+END
+END
+GET NOW

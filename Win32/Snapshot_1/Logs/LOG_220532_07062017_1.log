@@ -1,0 +1,23 @@
+Не обработано: RocketRcon v2.4.8.0
+RocketRcon v2.4.8.0
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198177412437 Name: korak Character: korak Ping: 140
+PlayerID: 76561198322934559 Name: @& утка про  &@ Character: yesjop Ping: 93
+PlayerID: 76561198130825409 Name: ya.maksim51 Character: ya.maksim51 Ping: 70
+PlayerID: 76561198340683253 Name: mitin7373 Character: mitin7373 Ping: 78
+PlayerID: 76561198287257345 Name: TheHard27 Character: TheHard27 Ping: 164
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294293872
+
+END with Bans:

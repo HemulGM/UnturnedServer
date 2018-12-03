@@ -1,0 +1,223 @@
+RocketRcon v2.4.8.0
+
+login aVIPs22031994
+players
+Client has executed command "players"
+Players:
+PlayerID: 76561198273639213 Name: KuRwa Character: Морф Стоун Ping: 48
+Client has executed command "bans"
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 26371949
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 29252227
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 29252243
+
+END
+END
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [1366]
+
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198273639213 Name: KuRwa Character: Морф Стоун Ping: 44
+
+END
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 26371944
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 29252222
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 29252238
+
+[World] Морф Стоун [KuRwa]: "админ чат читаешь?"
+
+END
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [1374]
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [1376]
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [1385]
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [1386]
+
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198273639213 Name: KuRwa Character: Морф Стоун Ping: 48
+
+END
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 26371924
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 29252202
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 29252218
+
+END
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [1395]
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [1396]
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [1405]
+Client has executed command "GET NOW"
+ServerControl >> VALUE NOW [1] [0] [1406]
+
+[World] Морф Стоун [KuRwa]: "/buy locker"
+
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198273639213 Name: KuRwa Character: Морф Стоун Ping: 54
+
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 26371904
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 29252182
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 29252198
+
+END
+END
+Client has executed command "cchat "/33/04/13/09/14: /33 /24/19/15 /14/00/04/15?" 255 0 0"
+
+ServerControl >> Broadcast: Админ: А что надо?
+
+Не обработано: ServerControl >> Broadcast: Админ: А что надо?
+[World] Морф Стоун [KuRwa]: "/kit ep"
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [1415]
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [1416]
+
+MessageAnnouncer >> Broadcast: Внимание! PvP-режим по субботам! PvP-режим!!!
+
+MessageAnnouncer >> Внимание! PvP-режим по субботам! PvP-режим!!!
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [1425]
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [1426]
+
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198273639213 Name: KuRwa Character: Морф Стоун Ping: 50
+
+END
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 26371883
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 29252161
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 29252177
+
+END
+[World] Морф Стоун [KuRwa]: "айди стекла с одной стороны тёмное"
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [1435]
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [1436]
+
+Client has executed command "cchat "/33/04/13/09/14: /65 /14/05 /08/14/00/31" 255 0 0"
+
+ServerControl >> Broadcast: Админ: Я не знаю
+
+Не обработано: ServerControl >> Broadcast: Админ: Я не знаю
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [1445]
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [1446]
+
+[World] Морф Стоун [KuRwa]: "ок"
+
+Client has executed command "players"
+Players:
+PlayerID: 76561198273639213 Name: KuRwa Character: Морф Стоун Ping: 42
+
+END
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 26371862
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 29252140
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 29252156
+
+END
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [1455]
+

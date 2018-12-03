@@ -1,0 +1,233 @@
+Не обработано: RocketRcon v2.4.8.0
+RocketRcon v2.4.8.0
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198300812301 Name: KiLeR00707 Character: KiLeR00707 Ping: 15
+PlayerID: 76561198295801599 Name: Lo[x] Character: Lo[x] Ping: 62
+PlayerID: 76561198176817369 Name: ?. Character: GlodiS Ping: 54
+PlayerID: 76561198349642857 Name: хлеб228 Character: хлеб228 Ping: 156
+PlayerID: 76561198282625830 Name: Mafia Character: serj-goryn Ping: 140
+PlayerID: 76561198371161101 Name: TheOneWinner4 Character: rauno.pikk Ping: 78
+PlayerID: 76561198238373696 Name: SecretGuyRasmus Character: SecretGuyRasmus Ping: 101
+PlayerID: 76561198341997660 Name: Dimacvit1996 Character: Dimacvit1996 Ping: 70
+PlayerID: 76561198305732269 Name: Owl Character: Owl Ping: 70
+PlayerID: 76561198303283372 Name: PeR4IK Character: данил Ping: 78
+PlayerID: 76561198327682533 Name: CROCUSCSGOSHOP.SU Character: pikachu Ping: 31
+PlayerID: 76561198167413206 Name: Doktor Whoo Character: Doktor Whoo Ping: 31
+PlayerID: 76561198392416847 Name: smileprost0 Character: Хач-Ловкач Ping: 85
+PlayerID: 76561198386338752 Name: pastuhov.vladik17 Character: Пастухов Владиcлав Ping: 93
+PlayerID: 76561198166704344 Name: sH0k Character: Den4ik Ping: 320
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 123123
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 31280281
+PlayerID: 123
+JudgeID: 0
+Reason: durila Duration: 4000 Remaining: 4294716075
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294744448
+
+END with Bans:
+Connecting: PlayerID: 76561198184300573 Name: CePn_3ap)I(aBeJI Character: FomKa
+
+[World] Den4ik [sH0k]: "/kits"
+
+Не обработано: MessageAnnouncer >> Broadcast: vk.com/unturned_hgm - цены на премиум, VIP и другие услуги смотрите в группе!
+MessageAnnouncer >> Broadcast: vk.com/unturned_hgm - цены на премиум, VIP и другие услуги смотрите в группе!
+
+Не обработано: MessageAnnouncer >> vk.com/unturned_hgm - цены на премиум, VIP и другие услуги смотрите в группе!
+MessageAnnouncer >> vk.com/unturned_hgm - цены на премиум, VIP и другие услуги смотрите в группе!
+
+Connecting: PlayerID: 76561198177243258 Name: garfield2016 Character: rubi
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198300812301 Name: KiLeR00707 Character: KiLeR00707 Ping: 23
+PlayerID: 76561198295801599 Name: Lo[x] Character: Lo[x] Ping: 46
+PlayerID: 76561198176817369 Name: ?. Character: GlodiS Ping: 54
+PlayerID: 76561198349642857 Name: хлеб228 Character: хлеб228 Ping: 156
+PlayerID: 76561198282625830 Name: Mafia Character: serj-goryn Ping: 171
+PlayerID: 76561198371161101 Name: TheOneWinner4 Character: rauno.pikk Ping: 54
+PlayerID: 76561198238373696 Name: SecretGuyRasmus Character: SecretGuyRasmus Ping: 85
+PlayerID: 76561198341997660 Name: Dimacvit1996 Character: Dimacvit1996 Ping: 78
+PlayerID: 76561198305732269 Name: Owl Character: Owl Ping: 62
+PlayerID: 76561198303283372 Name: PeR4IK Character: данил Ping: 257
+PlayerID: 76561198327682533 Name: CROCUSCSGOSHOP.SU Character: pikachu Ping: 54
+PlayerID: 76561198167413206 Name: Doktor Whoo Character: Doktor Whoo Ping: 39
+PlayerID: 76561198392416847 Name: smileprost0 Character: Хач-Ловкач Ping: 85
+PlayerID: 76561198386338752 Name: pastuhov.vladik17 Character: Пастухов Владиcлав Ping: 78
+PlayerID: 76561198166704344 Name: sH0k Character: Den4ik Ping: 46
+PlayerID: 76561198184300573 Name: CePn_3ap)I(aBeJI Character: FomKa Ping: 78
+PlayerID: 76561198177243258 Name: garfield2016 Character: rubi Ping: 242
+
+TimerTerminateCommand.Enabled with Players:
+Connecting: PlayerID: 76561198191406722 Name: НЕ НИГЕР Character: M0E_Uvozhenie
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 123123
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 31280261
+PlayerID: 123
+JudgeID: 0
+Reason: durila Duration: 4000 Remaining: 4294716055
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294744428
+
+TimerTerminateCommand.Enabled with Bans:
+[World] Den4ik [sH0k]: "/kit start"
+
+END with Bans:
+[World] Den4ik [sH0k]: "Кто тим?"
+
+[World] FomKa [CePn_3ap)I(aBeJI]: "/KITS"
+
+[World] Пастухов Владиcлав [pastuhov.vladik17]: "я денчик"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198300812301 Name: KiLeR00707 Character: KiLeR00707 Ping: 0
+PlayerID: 76561198295801599 Name: Lo[x] Character: Lo[x] Ping: 62
+PlayerID: 76561198176817369 Name: ?. Character: GlodiS Ping: 62
+PlayerID: 76561198349642857 Name: хлеб228 Character: хлеб228 Ping: 140
+PlayerID: 76561198282625830 Name: Mafia Character: serj-goryn Ping: 140
+PlayerID: 76561198371161101 Name: TheOneWinner4 Character: rauno.pikk Ping: 62
+PlayerID: 76561198238373696 Name: SecretGuyRasmus Character: SecretGuyRasmus Ping: 78
+PlayerID: 76561198341997660 Name: Dimacvit1996 Character: Dimacvit1996 Ping: 70
+PlayerID: 76561198305732269 Name: Owl Character: Owl Ping: 62
+PlayerID: 76561198303283372 Name: PeR4IK Character: данил Ping: 62
+PlayerID: 76561198327682533 Name: CROCUSCSGOSHOP.SU Character: pikachu Ping: 46
+PlayerID: 76561198167413206 Name: Doktor Whoo Character: Doktor Whoo Ping: 46
+PlayerID: 76561198392416847 Name: smileprost0 Character: Хач-Ловкач Ping: 85
+PlayerID: 76561198386338752 Name: pastuhov.vladik17 Character: Пастухов Владиcлав Ping: 70
+PlayerID: 76561198166704344 Name: sH0k Character: Den4ik Ping: 46
+PlayerID: 76561198184300573 Name: CePn_3ap)I(aBeJI Character: FomKa Ping: 93
+PlayerID: 76561198177243258 Name: garfield2016 Character: rubi Ping: 85
+PlayerID: 76561198191406722 Name: НЕ НИГЕР Character: M0E_Uvozhenie Ping: 62
+
+TimerTerminateCommand.Enabled with Players:
+[World] M0E_Uvozhenie [НЕ НИГЕР]: "Я могу"
+
+TimerTerminateCommand.Enabled with Players:
+[World] pikachu [CROCUSCSGOSHOP.SU]: "/kit start"
+
+TimerTerminateCommand.Enabled with Players:
+[World] Хач-Ловкач [smileprost0]: "/kit start"
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 123123
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 31280241
+PlayerID: 123
+JudgeID: 0
+Reason: durila Duration: 4000 Remaining: 4294716035
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294744408
+
+END with Bans:
+[World] FomKa [CePn_3ap)I(aBeJI]: "/KIT HELP"
+
+[World] Пастухов Владиcлав [pastuhov.vladik17]: "/tpa Den4ik"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198300812301 Name: KiLeR00707 Character: KiLeR00707 Ping: 23
+PlayerID: 76561198295801599 Name: Lo[x] Character: Lo[x] Ping: 54
+PlayerID: 76561198176817369 Name: ?. Character: GlodiS Ping: 54
+PlayerID: 76561198349642857 Name: хлеб228 Character: хлеб228 Ping: 148
+PlayerID: 76561198282625830 Name: Mafia Character: serj-goryn Ping: 156
+PlayerID: 76561198371161101 Name: TheOneWinner4 Character: rauno.pikk Ping: 62
+PlayerID: 76561198238373696 Name: SecretGuyRasmus Character: SecretGuyRasmus Ping: 132
+PlayerID: 76561198341997660 Name: Dimacvit1996 Character: Dimacvit1996 Ping: 273
+PlayerID: 76561198305732269 Name: Owl Character: Owl Ping: 62
+PlayerID: 76561198303283372 Name: PeR4IK Character: данил Ping: 78
+PlayerID: 76561198327682533 Name: CROCUSCSGOSHOP.SU Character: pikachu Ping: 109
+PlayerID: 76561198167413206 Name: Doktor Whoo Character: Doktor Whoo Ping: 54
+PlayerID: 76561198392416847 Name: smileprost0 Character: Хач-Ловкач Ping: 78
+PlayerID: 76561198386338752 Name: pastuhov.vladik17 Character: Пастухов Владиcлав Ping: 70
+PlayerID: 76561198166704344 Name: sH0k Character: Den4ik Ping: 46
+PlayerID: 76561198184300573 Name: CePn_3ap)I(aBeJI Character: FomKa Ping: 62
+PlayerID: 76561198177243258 Name: garfield2016 Character: rubi Ping: 78
+PlayerID: 76561198191406722 Name: НЕ НИГЕР Character: M0E_Uvozhenie Ping: 62
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 123123
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 31280222
+PlayerID: 123
+JudgeID: 0
+Reason: durila Duration: 4000 Remaining: 4294716016
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294744389
+
+TimerTerminateCommand.Enabled with Bans:
+[World] Den4ik [sH0k]: "/TPA A"
+
+TimerTerminateCommand.Enabled with Bans:
+[World] данил [PeR4IK]: "/kit hgm1"
+
+END with Bans:
+[World] Пастухов Владиcлав [pastuhov.vladik17]: "я можно тим"
+
+[World] данил [PeR4IK]: "/kit start"
+
+[World] Пастухов Владиcлав [pastuhov.vladik17]: "привет"
+
+Не обработано: DeathMessagesRemastered >> Broadcast: хлеб228 has killed himself!
+DeathMessagesRemastered >> Broadcast: хлеб228 has killed himself!
+
+Не обработано: хлеб228 [хлеб228] killed themself.
+хлеб228 [хлеб228] killed themself.
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198300812301 Name: KiLeR00707 Character: KiLeR00707 Ping: 39
+PlayerID: 76561198295801599 Name: Lo[x] Character: Lo[x] Ping: 54
+PlayerID: 76561198176817369 Name: ?. Character: GlodiS Ping: 46
+PlayerID: 76561198349642857 Name: хлеб228 Character: хлеб228 Ping: 210
+PlayerID: 76561198282625830 Name: Mafia Character: serj-goryn Ping: 148
+PlayerID: 76561198371161101 Name: TheOneWinner4 Character: rauno.pikk Ping: 54
+PlayerID: 76561198238373696 Name: SecretGuyRasmus Character: SecretGuyRasmus Ping: 125
+PlayerID: 76561198341997660 Name: Dimacvit1996 Character: Dimacvit1996 Ping: 62
+PlayerID: 76561198305732269 Name: Owl Character: Owl Ping: 70
+PlayerID: 76561198303283372 Name: PeR4IK Character: данил Ping: 109
+PlayerID: 76561198327682533 Name: CROCUSCSGOSHOP.SU Character: pikachu Ping: 78
+PlayerID: 76561198167413206 Name: Doktor Whoo Character: Doktor Whoo Ping: 62
+PlayerID: 76561198392416847 Name: smileprost0 Character: Хач-Ловкач Ping: 93
+PlayerID: 76561198386338752 Name: pastuhov.vladik17 Character: Пастухов Владиcлав Ping: 101
+PlayerID: 76561198166704344 Name: sH0k Character: Den4ik Ping: 54
+PlayerID: 76561198184300573 Name: CePn_3ap)I(aBeJI Character: FomKa Ping: 101
+PlayerID: 76561198177243258 Name: garfield2016 Character: rubi Ping: 85
+PlayerID: 76561198191406722 Name: НЕ НИГЕР Character: M0E_Uvozhenie Ping: 62
+

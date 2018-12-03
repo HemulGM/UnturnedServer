@@ -1,0 +1,10 @@
+03.07.2017 8:50:04: ClientSocketLookup
+03.07.2017 8:50:04: ClientSocketConnecting
+03.07.2017 8:50:05: ClientSocketConnect
+03.07.2017 8:50:05: ClientSocketWrite
+03.07.2017 8:50:08: ClientSocketManagerLookup
+03.07.2017 8:50:08: ClientSocketManagerConnecting
+03.07.2017 8:50:09: ClientSocketManagerError Не смог подключиться
+03.07.2017 9:35:13: ClientSocketError Соединение прервано
+03.07.2017 9:35:13: ClientSocketError eeSend
+03.07.2017 9:35:13: ClientSocketDisconnect

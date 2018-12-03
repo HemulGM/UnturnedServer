@@ -1,0 +1,48 @@
+RocketRcon v2.4.8.0
+
+login aVIPs22031994
+players
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198242496136 Name: _Official_Group_GameGuardian_ Character: mer_1560 Ping: 31
+PlayerID: 76561198315561906 Name: MaXiMuS Character: MaXiMuS Ping: 117
+PlayerID: 76561198407087458 Name: -_-Paer-_- Character: Паша Полянцев Ping: 23
+PlayerID: 76561198352329817 Name: X_RaY Character: Учиха_Саске Ping: 296
+PlayerID: 76561198131227088 Name: нет друзей Character: нет друзей Ping: 93
+PlayerID: 76561198421469222 Name: cvan71 Character: Андрей Ping: 62
+PlayerID: 76561198114302725 Name: пуля Character: пуля Ping: 101
+Андрей moved x:-126.7607 y:75.67115(+37.19383) z:353.9553 in the last second (0.279007)
+
+Не обработано: Андрей moved x:-126.7607 y:75.67115(+37.19383) z:353.9553 in the last second (0.279007)
+END
+bans
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27386581
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30266859
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30266875
+PlayerID: 76561198257502095
+JudgeID: 76561198237123262
+Reason: 3600 Duration: 31536000 Remaining: 31472115
+
+END
+[World] mer_1560 [_Official_Group_GameGuardian_]: "/tpa "Mr rold""
+
+MessageAnnouncer >> Broadcast: Наберите /rules (/r) для просмотра правил
+
+MessageAnnouncer >> Наберите /rules (/r) для просмотра правил
+
+GET NOW
+Client has executed command "GET NOW"
+ServerControl >> VALUE NOW [1] [0] [1846]
+
+[World] mer_1560 [_Official_Group_GameGuardian_]: "ну могу"
+

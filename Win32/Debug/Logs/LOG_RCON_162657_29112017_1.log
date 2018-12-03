@@ -1,0 +1,106 @@
+RocketRcon v2.4.8.0
+
+login aVIPs22031994
+players
+Client has executed command "players"
+Players:
+PlayerID: 76561198056500580 Name: BART Character: KOFFI Ping: 23
+Client has executed command "GET NOW"
+ServerControl >> VALUE NOW [1] [0] [261]
+
+Client has executed command "bans"
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27474382
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30354660
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30354676
+
+END
+Client has executed command "players"
+Players:
+PlayerID: 76561198056500580 Name: BART Character: KOFFI Ping: 23
+
+END
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27474379
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30354657
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30354673
+
+END
+END
+MessageAnnouncer >> Broadcast: Наберите /kit help, чтобы получить первую мед. помощь (бинты, таблетки, еда)
+
+MessageAnnouncer >> Наберите /kit help, чтобы получить первую мед. помощь (бинты, таблетки, еда)
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [271]
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [276]
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [281]
+
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198056500580 Name: BART Character: KOFFI Ping: 39
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [286]
+
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27474357
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30354635
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30354651
+
+END
+END
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [291]
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [296]
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [301]
+
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198056500580 Name: BART Character: KOFFI Ping: 23
+
+GET NOW
+Client has executed command "GET NOW"
+

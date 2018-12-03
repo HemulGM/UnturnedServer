@@ -1,0 +1,408 @@
+RocketRcon v2.4.8.0
+
+login aVIPs22031994
+players
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198205863883 Name: Крокодил Гена Character: krokodil gena Ping: 31
+PlayerID: 76561198264383990 Name: СПОРТАКУС Character: Иван Снег Ping: 31
+PlayerID: 76561198204253699 Name: RaYuRa Character: zazoune1706 Ping: 359
+PlayerID: 76561198416514639 Name: Aulak Character: Aulak Ping: 31
+
+Client has executed command "GET NOW"
+ServerControl >> VALUE NOW [1] [0] [1126]
+Client has executed command "bans"
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 26875057
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 29755335
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 29755351
+PlayerID: 76561198408019916
+JudgeID: 76561198237123262
+Reason: raid Duration: 604800 Remaining: 107682
+PlayerID: 76561198366284525
+JudgeID: 76561198237123262
+Reason: REKLAMA Duration: 604800 Remaining: 285851
+
+END
+END
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198205863883 Name: Крокодил Гена Character: krokodil gena Ping: 39
+PlayerID: 76561198264383990 Name: СПОРТАКУС Character: Иван Снег Ping: 31
+PlayerID: 76561198204253699 Name: RaYuRa Character: zazoune1706 Ping: 226
+PlayerID: 76561198416514639 Name: Aulak Character: Aulak Ping: 39
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [1136]
+
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 26875047
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 29755325
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 29755341
+PlayerID: 76561198408019916
+JudgeID: 76561198237123262
+Reason: raid Duration: 604800 Remaining: 107672
+PlayerID: 76561198366284525
+JudgeID: 76561198237123262
+Reason: REKLAMA Duration: 604800 Remaining: 285841
+
+END
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [1138]
+
+END
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [1146]
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [1149]
+
+MessageAnnouncer >> Broadcast: vk.com/unturned_hgm - цены на премиум, VIP и другие услуги смотрите в группе!
+
+MessageAnnouncer >> vk.com/unturned_hgm - цены на премиум, VIP и другие услуги смотрите в группе!
+
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198205863883 Name: Крокодил Гена Character: krokodil gena Ping: 31
+PlayerID: 76561198264383990 Name: СПОРТАКУС Character: Иван Снег Ping: 46
+PlayerID: 76561198204253699 Name: RaYuRa Character: zazoune1706 Ping: 226
+PlayerID: 76561198416514639 Name: Aulak Character: Aulak Ping: 31
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [1156]
+
+END
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 26875026
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 29755304
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 29755320
+PlayerID: 76561198408019916
+JudgeID: 76561198237123262
+Reason: raid Duration: 604800 Remaining: 107651
+PlayerID: 76561198366284525
+JudgeID: 76561198237123262
+Reason: REKLAMA Duration: 604800 Remaining: 285820
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [1159]
+
+END
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [1166]
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [1169]
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [1176]
+
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198205863883 Name: Крокодил Гена Character: krokodil gena Ping: 31
+PlayerID: 76561198264383990 Name: СПОРТАКУС Character: Иван Снег Ping: 31
+PlayerID: 76561198204253699 Name: RaYuRa Character: zazoune1706 Ping: 164
+PlayerID: 76561198416514639 Name: Aulak Character: Aulak Ping: 31
+
+END
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 26875006
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 29755284
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 29755300
+PlayerID: 76561198408019916
+JudgeID: 76561198237123262
+Reason: raid Duration: 604800 Remaining: 107631
+PlayerID: 76561198366284525
+JudgeID: 76561198237123262
+Reason: REKLAMA Duration: 604800 Remaining: 285800
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [1179]
+
+END
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [1186]
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [1189]
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [1196]
+
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198205863883 Name: Крокодил Гена Character: krokodil gena Ping: 31
+PlayerID: 76561198264383990 Name: СПОРТАКУС Character: Иван Снег Ping: 31
+PlayerID: 76561198204253699 Name: RaYuRa Character: zazoune1706 Ping: 234
+PlayerID: 76561198416514639 Name: Aulak Character: Aulak Ping: 39
+
+END
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 26874985
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 29755263
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 29755279
+PlayerID: 76561198408019916
+JudgeID: 76561198237123262
+Reason: raid Duration: 604800 Remaining: 107610
+PlayerID: 76561198366284525
+JudgeID: 76561198237123262
+Reason: REKLAMA Duration: 604800 Remaining: 285779
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [1199]
+
+END
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [1206]
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [1209]
+
+MessageAnnouncer >> Broadcast: Наберите /kit claim, чтобы получить Claim Flag
+
+MessageAnnouncer >> Наберите /kit claim, чтобы получить Claim Flag
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [1216]
+
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198205863883 Name: Крокодил Гена Character: krokodil gena Ping: 46
+PlayerID: 76561198264383990 Name: СПОРТАКУС Character: Иван Снег Ping: 46
+PlayerID: 76561198204253699 Name: RaYuRa Character: zazoune1706 Ping: 203
+PlayerID: 76561198416514639 Name: Aulak Character: Aulak Ping: 39
+
+END
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [1219]
+
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 26874963
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 29755241
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 29755257
+PlayerID: 76561198408019916
+JudgeID: 76561198237123262
+Reason: raid Duration: 604800 Remaining: 107588
+PlayerID: 76561198366284525
+JudgeID: 76561198237123262
+Reason: REKLAMA Duration: 604800 Remaining: 285757
+
+END
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [1226]
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [1229]
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [1236]
+
+Client has executed command "players"
+Players:
+PlayerID: 76561198205863883 Name: Крокодил Гена Character: krokodil gena Ping: 31
+PlayerID: 76561198264383990 Name: СПОРТАКУС Character: Иван Снег Ping: 39
+PlayerID: 76561198204253699 Name: RaYuRa Character: zazoune1706 Ping: 210
+PlayerID: 76561198416514639 Name: Aulak Character: Aulak Ping: 31
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [1239]
+
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 26874943
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 29755221
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 29755237
+PlayerID: 76561198408019916
+JudgeID: 76561198237123262
+Reason: raid Duration: 604800 Remaining: 107568
+PlayerID: 76561198366284525
+JudgeID: 76561198237123262
+Reason: REKLAMA Duration: 604800 Remaining: 285737
+
+END
+END
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [1246]
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [1249]
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [1256]
+
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198205863883 Name: Крокодил Гена Character: krokodil gena Ping: 39
+PlayerID: 76561198264383990 Name: СПОРТАКУС Character: Иван Снег Ping: 54
+PlayerID: 76561198204253699 Name: RaYuRa Character: zazoune1706 Ping: 218
+PlayerID: 76561198416514639 Name: Aulak Character: Aulak Ping: 54
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [1259]
+
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 26874923
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 29755201
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 29755217
+PlayerID: 76561198408019916
+JudgeID: 76561198237123262
+Reason: raid Duration: 604800 Remaining: 107548
+PlayerID: 76561198366284525
+JudgeID: 76561198237123262
+Reason: REKLAMA Duration: 604800 Remaining: 285717
+
+END
+END
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [1266]
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [1269]
+
+MessageAnnouncer >> Broadcast: Если модератор ведёт себя неподобающе, пишите в группу или ЛС (vk.com/unturned_hgm, vk.com/hemulgm)
+MessageAnnouncer >> Если модератор ведёт себя неподобающе, пишите в группу или ЛС (vk.com/unturned_hgm, vk.com/hemulgm)
+Client has executed command "GET NOW"
+ServerControl >> VALUE NOW [1] [0] [1276]
+
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198205863883 Name: Крокодил Гена Character: krokodil gena Ping: 31
+PlayerID: 76561198264383990 Name: СПОРТАКУС Character: Иван Снег Ping: 31
+PlayerID: 76561198204253699 Name: RaYuRa Character: zazoune1706 Ping: 203
+PlayerID: 76561198416514639 Name: Aulak Character: Aulak Ping: 31
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [1279]
+
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 26874903
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 29755181
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 29755197
+PlayerID: 76561198408019916
+JudgeID: 76561198237123262
+Reason: raid Duration: 604800 Remaining: 107528
+PlayerID: 76561198366284525
+JudgeID: 76561198237123262
+Reason: REKLAMA Duration: 604800 Remaining: 285697
+
+END

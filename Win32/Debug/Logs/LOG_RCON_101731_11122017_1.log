@@ -1,0 +1,50 @@
+RocketRcon v2.4.8.0
+
+login aVIPs22031994
+players
+Client has executed command "players"
+Failed to find any players.
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [1087]
+
+Client has executed command "players"
+
+Failed to find any players.
+
+MessageAnnouncer >> Broadcast: Добро пожаловать на HGM. Тут рады вам больше, чем на любом другом сервере!
+
+MessageAnnouncer >> Добро пожаловать на HGM. Тут рады вам больше, чем на любом другом сервере!
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [1095]
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [1097]
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [1106]
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [1107]
+
+Client has executed command "players"
+
+Failed to find any players.
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [1116]
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [1117]
+

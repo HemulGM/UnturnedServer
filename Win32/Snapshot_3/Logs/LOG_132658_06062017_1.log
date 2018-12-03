@@ -1,0 +1,82 @@
+Не обработано: RocketRcon v2.4.8.0
+RocketRcon v2.4.8.0
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198152563082 Name: Drakon Character: [MODER]Stanat Ping: 50
+PlayerID: 76561198367661777 Name: Andrei888 Character: zmushko2002 Ping: 97
+PlayerID: 76561198393829004 Name: rubisbogdan Character: BodyaBich Ping: 128
+PlayerID: 76561198322934559 Name: @& утка про  &@ Character: yesjop Ping: 89
+PlayerID: 76561198328119181 Name: Fex Character: Fex Ping: 66
+PlayerID: 76561198347057860 Name: PhantoM Character: ResonZ Ping: 62
+PlayerID: 76561198147477828 Name: galbatsovmikail Character: galbatsovmikail Ping: 50
+PlayerID: 76561198350260924 Name: Спартанец Character: дима Ping: 164
+PlayerID: 76561198345092267 Name: demid3450 Character: [гл террористов] демид журавлёв Ping: 125
+PlayerID: 76561198262878051 Name: Kolder Character: Kolder Ping: 58
+PlayerID: 76561198323972058 Name: GALAXY`S PINGUIN Character: зомби Ping: 74
+PlayerID: 76561198137518896 Name: fitman Character: fitman Ping: 35
+PlayerID: 76561198369248070 Name: Ali Character: Ali Ping: 125
+PlayerID: 76561198395164086 Name: vikafilha Character: vikafilha Ping: 140
+PlayerID: 76561198368128006 Name: Aibek Character: 3o/loToN_Akym Ping: 105
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294411385
+
+END with Bans:
+Не обработано: [MODER]Stanat телепортирован к zmushko2002
+[World] [MODER]Stanat [Drakon]: "/tp 2002"
+[MODER]Stanat телепортирован к zmushko2002
+[World] zmushko2002 [Andrei888]: "он вас рейдит хочет"
+
+TimerTerminateCommand.Enabled with Players:
+Client has executed command "players"
+Players:
+PlayerID: 76561198152563082 Name: Drakon Character: [MODER]Stanat Ping: 42
+PlayerID: 76561198367661777 Name: Andrei888 Character: zmushko2002 Ping: 105
+PlayerID: 76561198393829004 Name: rubisbogdan Character: BodyaBich Ping: 113
+PlayerID: 76561198322934559 Name: @& утка про  &@ Character: yesjop Ping: 74
+PlayerID: 76561198328119181 Name: Fex Character: Fex Ping: 62
+PlayerID: 76561198347057860 Name: PhantoM Character: ResonZ Ping: 50
+PlayerID: 76561198147477828 Name: galbatsovmikail Character: galbatsovmikail Ping: 42
+PlayerID: 76561198350260924 Name: Спартанец Character: дима Ping: 164
+PlayerID: 76561198345092267 Name: demid3450 Character: [гл террористов] демид журавлёв Ping: 140
+PlayerID: 76561198262878051 Name: Kolder Character: Kolder Ping: 46
+PlayerID: 76561198323972058 Name: GALAXY`S PINGUIN Character: зомби Ping: 62
+PlayerID: 76561198137518896 Name: fitman Character: fitman Ping: 35
+PlayerID: 76561198369248070 Name: Ali Character: Ali Ping: 136
+PlayerID: 76561198395164086 Name: vikafilha Character: vikafilha Ping: 132
+PlayerID: 76561198368128006 Name: Aibek Character: 3o/loToN_Akym Ping: 97
+
+TimerTerminateCommand.Enabled with Players:
+[World] zmushko2002 [Andrei888]: "он рейдит вас!"
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294411360
+
+Не обработано: PlayerInfoLib >> No expired player info records found for this batch.
+TimerTerminateCommand.Enabled with Bans:
+PlayerInfoLib >> No expired player info records found for this batch.
+
+END with Bans:
+Не обработано: MessageAnnouncer >> Broadcast: vk.com/hemulgm - ЕДИНСТВЕННЫЙ администратор сервера
+MessageAnnouncer >> Broadcast: vk.com/hemulgm - ЕДИНСТВЕННЫЙ администратор сервера
+
+Не обработано: MessageAnnouncer >> vk.com/hemulgm - ЕДИНСТВЕННЫЙ администратор сервера
+MessageAnnouncer >> vk.com/hemulgm - ЕДИНСТВЕННЫЙ администратор сервера
+
+[World] zmushko2002 [Andrei888]: "у него гризли"
+

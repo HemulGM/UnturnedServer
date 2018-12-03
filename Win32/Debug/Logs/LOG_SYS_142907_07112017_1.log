@@ -1,0 +1,6 @@
+07.11.2017 14:29:08: ClientSocketLookup
+07.11.2017 14:29:08: ClientSocketConnecting
+07.11.2017 14:29:09: ClientSocketConnect
+07.11.2017 14:29:09: ClientSocketWrite
+07.11.2017 14:29:11: Can't connect to MySQL server on '127.0.0.1' (10061)
+07.11.2017 14:29:11: enter ThreadUpdateProc

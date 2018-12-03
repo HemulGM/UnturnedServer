@@ -1,0 +1,5 @@
+09.11.2017 14:26:06: ClientSocketLookup
+09.11.2017 14:26:06: ClientSocketConnecting
+09.11.2017 14:26:06: ClientSocketConnect
+09.11.2017 14:26:06: ClientSocketWrite
+09.11.2017 14:26:08: Can't connect to MySQL server on '127.0.0.1' (10061)

@@ -1,0 +1,69 @@
+RocketRcon v2.4.8.0
+
+login aVIPs22031994
+players
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198403731875 Name: Malav Character: Malav Ping: 58
+PlayerID: 76561198416514639 Name: Aulak Character: Aulak Ping: 246
+
+[World] Aulak [Aulak]: "/home"
+Client has executed command "GET NOW"
+ServerControl >> VALUE NOW [1] [0] [2047]
+Client has executed command "players"
+Players:
+PlayerID: 76561198403731875 Name: Malav Character: Malav Ping: 54
+PlayerID: 76561198416514639 Name: Aulak Character: Aulak Ping: 296
+
+END
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27039736
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 29920014
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 29920030
+PlayerID: 76561198408019916
+JudgeID: 76561198237123262
+Reason: raid Duration: 604800 Remaining: 272361
+PlayerID: 76561198366284525
+JudgeID: 76561198237123262
+Reason: REKLAMA Duration: 604800 Remaining: 450530
+
+END
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27039736
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 29920014
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 29920030
+PlayerID: 76561198408019916
+JudgeID: 76561198237123262
+Reason: raid Duration: 604800 Remaining: 272361
+PlayerID: 76561198366284525
+JudgeID: 76561198237123262
+Reason: REKLAMA Duration: 604800 Remaining: 450530
+
+END
+END
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [2057]
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [2059]
+

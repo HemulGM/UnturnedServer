@@ -1,0 +1,53 @@
+11.03.2017 19:11:31: RocketRcon v2.4.8.0
+
+11.03.2017 19:11:32: Client has executed command "players"
+
+11.03.2017 19:11:32: Failed to find any players.
+
+11.03.2017 19:11:32: TimerTerminateCommand.Enabled with Failed to find any players.
+11.03.2017 19:11:35: END
+11.03.2017 19:11:43: MessageAnnouncer >> Broadcast: vk.com/hemulgm - ЕДИНСТВЕННЫЙ администратор сервера
+
+11.03.2017 19:11:43: MessageAnnouncer >> vk.com/hemulgm - ЕДИНСТВЕННЫЙ администратор сервера
+
+11.03.2017 19:11:46: Client has executed command "players"
+
+11.03.2017 19:11:46: Failed to find any players.
+
+11.03.2017 19:11:46: TimerTerminateCommand.Enabled with Failed to find any players.
+11.03.2017 19:11:49: END
+11.03.2017 19:11:50: Client has executed command "players"
+
+11.03.2017 19:11:50: Failed to find any players.
+
+11.03.2017 19:11:50: TimerTerminateCommand.Enabled with Failed to find any players.
+11.03.2017 19:11:53: END
+11.03.2017 19:12:00: Successfully saved the game.
+
+11.03.2017 19:12:02: Failed to find any players.
+
+11.03.2017 19:12:02: TimerTerminateCommand.Enabled with Failed to find any players.
+11.03.2017 19:12:05: END
+11.03.2017 19:12:10: Client has executed command "players"
+
+11.03.2017 19:12:12: 
+[unloading] RocketMod_TPA
+11.03.2017 19:12:12: 
+[unloading] VehicleEvents
+11.03.2017 19:12:12: NullReferenceException - SDG.Unturned.VehicleManager.getVehiclesInRadius (Vector3 center, Single sqrRadius, System.Collections.Generic.List`1 result)
+VehicleEvents.VehicleEvents.Unload ()
+Rocket.Core.Plugins.RocketPlugin.UnloadPlugin (PluginState state)
+Rocket.Core.Plugins.RocketPlugin.OnDisable ()
+
+11.03.2017 19:14:13: RocketRcon v2.4.8.0
+
+11.03.2017 19:14:13: Client has executed command "players"
+
+11.03.2017 19:14:13: Failed to find any players.
+
+11.03.2017 19:14:13: TimerTerminateCommand.Enabled with Failed to find any players.
+11.03.2017 19:14:16: Client has executed command "players"
+
+11.03.2017 19:14:16: TimerTerminateCommand.Enabled with Failed to find any players.
+11.03.2017 19:14:16: Failed to find any players.
+

@@ -1,0 +1,128 @@
+19.07.2017 14:44:17: Не обработано: fx [Vita_Life] was mauled by a zombie!
+19.07.2017 14:56:00: Не обработано: ArgumentException: You have already claimed the path with that object (Zombie (AIPath)). Are you claiming the path with the same object twice? - Pathfinding.Path.Claim (System.Object o)
+19.07.2017 14:56:00: Не обработано: AIPath.OnPathComplete (Pathfinding.Path _p)
+19.07.2017 14:56:00: Не обработано: Seeker.OnPathComplete (Pathfinding.Path p, Boolean runModifiers, Boolean sendCallbacks)
+19.07.2017 14:56:00: Не обработано: Seeker.OnPathComplete (Pathfinding.Path p)
+19.07.2017 14:56:00: Не обработано: Pathfinding.Path.ReturnPath ()
+19.07.2017 14:56:00: Не обработано: AstarPath.ReturnPaths (Boolean timeSlice)
+19.07.2017 14:56:00: Не обработано: AstarPath.Update ()
+19.07.2017 14:57:13: Не обработано: Expert1337 включен Godmode
+19.07.2017 14:57:22: Не обработано: Expert1337 телепортирован к VSS^7'^4'^1'
+19.07.2017 14:58:36: Не обработано: Мурзин Котов был телепортирован к Expert1337
+19.07.2017 15:03:56: Не обработано: Мурзин Котов был телепортирован к Expert1337
+19.07.2017 15:09:03: Сохранение сервера
+19.07.2017 15:09:25: Не обработано: VSS^7'^4'^1' moved x:-310.7754 y:70.35478(+15.99472) z:200.9582 in the last second (0.09999084)
+19.07.2017 15:09:52: Не обработано: Expert1337 телепортирован к Мурзин Котов
+19.07.2017 15:09:55: Не обработано: misha2005 moved x:-4.15318 y:55.07165(+24.52858) z:91.39416 in the last second (0.8116493)
+19.07.2017 15:10:53: Не обработано: evil killer [evil killer] was mauled by a zombie!
+19.07.2017 15:12:01: Не обработано: misha2005 [Потато] bled to death!
+19.07.2017 15:12:36: Не обработано: Expert1337 moved x:-295.7426 y:100.6135(+30.25874) z:223.5452 in the last second (5.275154)
+19.07.2017 15:13:41: Не обработано: Expert1337 телепортирован к Мурзин Котов
+19.07.2017 15:18:13: Не обработано: kannez_ [egor228] was mauled by a zombie!
+19.07.2017 15:21:40: Не обработано: kannez_ [egor228] bled to death!
+19.07.2017 15:26:41: Не обработано: kannez_ [egor228] bled to death!
+19.07.2017 15:27:14: Не обработано: kannez_ [egor228] was mauled by a zombie!
+19.07.2017 15:27:53: Не обработано: kannez_ moved x:-320.1636 y:70.85478(+28.55221) z:195.0208 in the last second (0.5999908)
+19.07.2017 15:28:35: Не обработано: Expert1337 moved x:-317.2393 y:220.8414(+150.4866) z:344.9823 in the last second (186.5221)
+19.07.2017 15:28:38: Не обработано: Expert1337 телепортирован к дед с тапором
+19.07.2017 15:29:57: Не обработано: lapopopopopo1 [lapopopopo] was mauled by a zombie!
+19.07.2017 15:31:23: Не обработано: kannez_ moved x:-1674.787 y:151.0092(+80.65437) z:-78.64178 in the last second (1)
+19.07.2017 15:31:25: Не обработано: Мурзин Котов moved x:-1673.266 y:150.1091(+79.75436) z:-73.04657 in the last second (0.09999084)
+19.07.2017 15:31:31: Не обработано: VSS^7'^4'^1' moved x:-1290.841 y:101.2061(+30.85183) z:-141.7397 in the last second (1)
+19.07.2017 15:31:48: Не обработано: kannez_ [egor228] was mauled by a zombie!
+19.07.2017 15:32:54: Не обработано: 7_AleX_3 moved x:504.8138 y:55.18224(+22.31646) z:-371.5373 in the last second (0.4268646)
+19.07.2017 15:32:56: Не обработано: VSS^7'^4'^1' moved x:-1730.758 y:151.6604(+51.35434) z:-136.8061 in the last second (0.1007538)
+19.07.2017 15:33:02: Не обработано: kannez_ moved x:-1720.45 y:150.8083(+108.5056) z:-126.06 in the last second (0.1008606)
+19.07.2017 15:34:21: Не обработано: Expert1337 телепортирован к дед с тапором
+19.07.2017 15:34:46: Не обработано: 7_AleX_3 был телепортирован к Expert1337
+19.07.2017 15:37:58: Не обработано: Мурзин Котов [IgroKot] bled to death!
+19.07.2017 15:38:04: Не обработано: kannez_ [egor228] was mauled by a zombie!
+19.07.2017 15:38:50: Не обработано: VSS^7'^4'^1' [VSS^7'^4'^1'] was mauled by a zombie!
+19.07.2017 15:39:03: Сохранение сервера
+19.07.2017 15:40:45: Не обработано: Kizaru [Kizaru] was mauled by a zombie!
+19.07.2017 15:42:19: Не обработано: KirilllE [Габен] bled to death!
+19.07.2017 15:42:32: Не обработано: Kizaru [Kizaru] was mauled by a zombie!
+19.07.2017 15:42:53: Не обработано: LEXA moved x:-982.1123 y:167.8737(+96.03182) z:1898.988 in the last second (0.1000061)
+19.07.2017 15:44:57: Не обработано: Expert1337 включен Godmode
+19.07.2017 15:45:25: Не обработано: Expert1337 moved x:-980.6469 y:171.8599(+120.1753) z:1884.958 in the last second (3.310303)
+19.07.2017 15:45:48: Не обработано: дед с тапором moved x:522.3638 y:106.321(+51.96096) z:698.4727 in the last second (0.05000305)
+19.07.2017 15:45:51: Не обработано: Expert1337 телепортирован к Limestone Quarry
+19.07.2017 15:45:51: Не обработано: Expert1337 moved x:-536.2391 y:220.7316(+52.26558) z:1404.996 in the last second (1)
+19.07.2017 15:46:52: Не обработано: дед с тапором moved x:-705.5078 y:205.5286(+109.6138) z:1419.435 in the last second (0.2655792)
+19.07.2017 16:02:50: Не обработано: дед с тапором moved x:-1011.635 y:172.1616(+55.99516) z:1922.335 in the last second (0.5999908)
+19.07.2017 16:03:19: Не обработано: Expert1337 телепортирован к  [S.A.S.][Капрал]Jack RED BOX
+19.07.2017 16:04:03: Не обработано: Expert1337 телепортирован к LEXA
+19.07.2017 16:04:04: Не обработано: Expert1337 moved x:-1002.152 y:172.1616(+134.071) z:1913.46 in the last second (0.6000061)
+19.07.2017 16:05:29: Не обработано:  [S.A.S.][Капрал]Jack RED BOX moved x:-1172.915 y:100.1061(+62.7644) z:-996.1018 in the last second (0.1000061)
+19.07.2017 16:06:24: Не обработано: k.kirillselin [Сын Габена] suffocated to death!
+19.07.2017 16:08:50: Не обработано:  [S.A.S.][Капрал]Jack RED BOX moved x:-1645.028 y:157.0433(+25.48058) z:-1346.106 in the last second (3.768509)
+19.07.2017 16:09:03: Сохранение сервера
+19.07.2017 16:11:27: Не обработано: Expert1337 телепортирован к  [S.A.S.][Капрал]Jack RED BOX
+19.07.2017 16:11:27: Не обработано: Expert1337 moved x:807.6745 y:808.3977(+632.4861) z:-329.6267 in the last second (747.6582)
+19.07.2017 16:11:54: Не обработано: Expert1337 телепортирован к LEXA
+19.07.2017 16:11:57: Не обработано: ityjfg [samepaq] bled to death!
+19.07.2017 16:12:26: Не обработано: дед с тапором [boker] is calling a vote to kick  [S.A.S.][Капрал]Jack RED BOX [Jack200646 csgo-happy.ru]
+19.07.2017 16:12:32: Не обработано: Vote failed!
+19.07.2017 16:16:13: Не обработано: ityjfg [samepaq] bled to death!
+19.07.2017 16:17:13: Не обработано: ityjfg [samepaq] was mauled by a zombie!
+19.07.2017 16:24:28: Не обработано: дед с тапором moved x:-1008.839 y:176.7493(+70.42831) z:1889.542 in the last second (0.1726532)
+19.07.2017 16:27:07: Не обработано: дед с тапором moved x:-1016.426 y:176.4116(+60.68795) z:1907.9 in the last second (0.5999908)
+19.07.2017 16:29:52: Не обработано: дед с тапором был телепортирован к Expert1337
+19.07.2017 16:29:53: Не обработано: дед с тапором moved x:-1010.593 y:176.4116(+70.48964) z:1905.407 in the last second (0.5999908)
+19.07.2017 16:32:43: Не обработано: Expert1337 телепортирован к дед с тапором
+19.07.2017 16:35:09: Не обработано: Expert1337 телепортирован к дед с тапором
+19.07.2017 16:36:55: Не обработано: Антон Столбов moved x:-1691.934 y:180.7976(+30.36011) z:-425.7653 in the last second (0.1000061)
+19.07.2017 16:36:58: Не обработано: Expert1337 moved x:-723.5468 y:285.2555(+117.8439) z:1835.326 in the last second (1.902374)
+19.07.2017 16:37:07: Не обработано: дед с тапором moved x:-723.9475 y:284.1836(+116.772) z:1835.991 in the last second (0.1010132)
+19.07.2017 16:38:40: Не обработано: LEXA был телепортирован к Expert1337
+19.07.2017 16:39:03: Сохранение сервера
+19.07.2017 16:46:40: Не обработано: LEXA [ЛЁХА] is calling a vote to kick дед с тапором [boker]
+19.07.2017 16:46:47: Не обработано: Vote failed!
+19.07.2017 16:46:49: Не обработано: NullReferenceException: Object reference not set to an instance of an object - SDG.Unturned.Bumper.OnTriggerEnter (UnityEngine.Collider other)
+19.07.2017 16:46:52: Не обработано: NullReferenceException: Object reference not set to an instance of an object - SDG.Unturned.Bumper.OnTriggerEnter (UnityEngine.Collider other)
+19.07.2017 16:46:55: Не обработано: Owl [Owl] was mauled by a zombie!
+19.07.2017 16:46:56: Не обработано: NullReferenceException: Object reference not set to an instance of an object - SDG.Unturned.Bumper.OnTriggerEnter (UnityEngine.Collider other)
+19.07.2017 16:46:59: Не обработано: Expert1337 moved x:-252.0359 y:281.4876(+181.1815) z:2030.898 in the last second (12.68881)
+19.07.2017 16:47:06: Не обработано: Zybra [Zybra] was mauled by a zombie!
+19.07.2017 16:47:16: Не обработано: Owl moved x:-1512.381 y:150.6091(+116.5853) z:-116.3018 in the last second (0.5999908)
+19.07.2017 16:47:29: Не обработано: mulhamgalaxys [mulhamgalaxys] bled to death!
+19.07.2017 16:47:56: Не обработано: NullReferenceException: Object reference not set to an instance of an object - SDG.Unturned.Bumper.OnTriggerEnter (UnityEngine.Collider other)
+19.07.2017 16:48:08: Не обработано: NullReferenceException: Object reference not set to an instance of an object - SDG.Unturned.Bumper.OnTriggerEnter (UnityEngine.Collider other)
+19.07.2017 16:48:57: Не обработано: mulhamgalaxys [mulhamgalaxys] bled to death!
+19.07.2017 16:49:11: Не обработано: PrivateMessages >> Sorry, you haven't received a message!
+19.07.2017 16:56:24: Не обработано: дед с тапором [boker] was mauled by a zombie!
+19.07.2017 16:57:10: Не обработано: Expert1337 телепортирован к Berlin
+19.07.2017 16:57:18: Не обработано: дед с тапором был телепортирован к Expert1337
+19.07.2017 16:57:19: Не обработано: дед с тапором moved x:-224.4081 y:112.2467(+68.40274) z:-49.96387 in the last second (0.7107697)
+19.07.2017 16:57:32: Не обработано: Expert1337 телепортирован к LEXA
+19.07.2017 16:57:32: Не обработано: Expert1337 moved x:-608.3983 y:207.5853(+94.36951) z:1428.171 in the last second (0.690155)
+19.07.2017 16:59:10: Не обработано: дед с тапором [boker] was mauled by a zombie!
+19.07.2017 16:59:13: Не обработано: дед с тапором moved x:522.3638 y:106.821(+52.71773) z:698.4727 in the last second (0.5500031)
+19.07.2017 16:59:25: Не обработано: Expert1337 телепортирован к Berlin
+19.07.2017 16:59:32: Не обработано: дед с тапором был телепортирован к Expert1337
+19.07.2017 17:00:39: Не обработано: дед с тапором [boker] was mauled by a zombie!
+19.07.2017 17:01:03: Не обработано: дед с тапором был телепортирован к Expert1337
+19.07.2017 17:02:07: Не обработано: Expert1337 телепортирован к LEXA
+19.07.2017 17:02:07: Не обработано: Expert1337 moved x:-599.8862 y:209.3003(+154.9517) z:1406.037 in the last second (0.6000061)
+19.07.2017 17:04:52: Не обработано: Expert1337 включен Godmode
+19.07.2017 17:05:15: Не обработано: Expert1337 отключен Godmode
+19.07.2017 17:09:03: Сохранение сервера
+19.07.2017 17:10:52: Не обработано: дед с тапором moved x:-610.1063 y:211.7999(+169.5723) z:1380.717 in the last second (11.17673)
+19.07.2017 17:18:52: Не обработано: дед с тапором moved x:-598.5333 y:205.7393(+127.638) z:1404.914 in the last second (1.289032)
+19.07.2017 17:20:18: Не обработано: Expert1337 телепортирован к Owl
+19.07.2017 17:21:27: Не обработано: kac.kow86 [kac.kow86] killed themself.
+19.07.2017 17:21:33: Не обработано: дед с тапором moved x:-611.957 y:246.7465(+42.19621) z:1426.495 in the last second (43.05125)
+19.07.2017 17:26:47: Не обработано: kac.kow86 [kac.kow86] was mauled by a zombie!
+19.07.2017 17:30:57: Не обработано: Owl [Owl] was mauled by a zombie!
+19.07.2017 17:31:20: Не обработано: Owl moved x:-1353.515 y:201.067(+159.2623) z:1338.032 in the last second (0.4116364)
+19.07.2017 17:31:42: Не обработано: Expert1337 телепортирован к Owl
+19.07.2017 17:32:00: Не обработано: дед с тапором moved x:-592.3075 y:205.4503(+163.2227) z:1407.974 in the last second (1)
+19.07.2017 17:32:01: Не обработано: Expert1337 включен Godmode
+19.07.2017 17:32:20: Не обработано: Expert1337 телепортирован к LEXA
+19.07.2017 17:39:03: Сохранение сервера
+19.07.2017 17:39:10: Не обработано: Expert1337 телепортирован к LEXA
+19.07.2017 17:43:14: Не обработано: Nolic [Я ЕНОТ / I'm a raccoon] was mauled by a zombie!
+19.07.2017 17:43:39: Не обработано: Nolic moved x:-14.67215 y:61.36444(+27.34061) z:824.1362 in the last second (0.5999985)
+19.07.2017 17:44:27: Не обработано: Nolic [Я ЕНОТ / I'm a raccoon] bled to death!
+19.07.2017 17:44:29: Не обработано: дед с тапором moved x:-573.724 y:205.0503(+99.23378) z:1419.095 in the last second (0.5999908)
+19.07.2017 17:45:59: Не обработано: ?Nervous? [?Nervous?] was mauled by a zombie!

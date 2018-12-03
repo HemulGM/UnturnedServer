@@ -1,0 +1,38 @@
+Не обработано: RocketRcon v2.4.8.0
+RocketRcon v2.4.8.0
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 125
+PlayerID: 76561198157563744 Name: Jason Voorhees Character: Jason Voorhees Ping: 70
+PlayerID: 76561198200101595 Name: Deus vult Character: Nevalyasha4 Ping: 109
+PlayerID: 76561198119414469 Name: Postman Pat Character: Postman Pat Ping: 54
+PlayerID: 76561198391626023 Name: roman.sagitov.2017 Character: Roma Sagitow Ping: 31
+PlayerID: 76561198295801599 Name: Lo[x] Character: Lo[x] Ping: 46
+PlayerID: 76561198371041527 Name: ¦_s1mple_¦ Character: miguelhormat Ping: 31
+PlayerID: 76561198176817369 Name: ?. Character: GlodiS Ping: 54
+PlayerID: 76561198263636845 Name: matic Character: matic Ping: 78
+PlayerID: 76561198339493373 Name: Good_4el Character: LORD Ping: 78
+PlayerID: 76561198292543416 Name: Mr_GiladKing Character: GamerYT Ping: 31
+PlayerID: 76561198371125723 Name: MrSan4oS Character: shakhnazarov2011 Ping: 109
+PlayerID: 76561198280617288 Name: Незнаю какой придумать Character: Пипр Ping: 39
+
+TimerTerminateCommand.Enabled with Players:
+Client has executed command "bans"
+
+END with Players:
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 123123
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 31370239
+PlayerID: 123
+JudgeID: 0
+Reason: durila Duration: 4000 Remaining: 4294806033
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294834406
+
+END with Bans:

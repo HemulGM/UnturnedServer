@@ -1,0 +1,53 @@
+14.11.2017 15:36:42: Не обработано: ServerControl >> Broadcast: Чет не вижу
+14.11.2017 15:36:59: Не обработано: |Gothic| телепортирован к Seattle
+14.11.2017 15:37:01: Не обработано: ServerControl >> Broadcast: =)
+14.11.2017 15:37:07: Не обработано: Алексей Арапов был телепортирован к |Gothic|
+14.11.2017 15:37:10: Не обработано: ServerControl >> Broadcast: Tyre
+14.11.2017 15:37:21: Не обработано: ServerControl >> Broadcast: Гот
+14.11.2017 15:37:29: Не обработано: ServerControl >> Broadcast: Может названия русские дать в магазине
+14.11.2017 15:37:34: Не обработано: ServerControl >> Broadcast: Может сканает)
+14.11.2017 15:37:49: Не обработано: ServerControl >> Broadcast: Ща я переименную колесо
+14.11.2017 15:37:54: Не обработано: ServerControl >> Broadcast: Не погодь
+14.11.2017 15:38:04: Не обработано: ServerControl >> Broadcast: Просто купишь
+14.11.2017 15:38:14: Не обработано: ServerControl >> Broadcast: Я ща назову его просто Колесо
+14.11.2017 15:39:49: Не обработано: ServerControl >> Broadcast: Гот, проверь
+14.11.2017 15:39:54: Не обработано: ServerControl >> Broadcast: ./buy Колесо
+14.11.2017 15:40:15: Не обработано: ServerControl >> Broadcast: Аирдроп через 4 ч. 20 м.
+14.11.2017 15:40:20: Не обработано: ServerControl >> Broadcast: Пфф
+14.11.2017 15:40:22: Не обработано: ServerControl >> Broadcast: Хер кароч)
+14.11.2017 15:40:50: Не обработано: ServerControl >> Broadcast: Русский, ща в бан за оскорбление
+14.11.2017 15:40:51: Не обработано: ServerControl >> Broadcast: И мут
+14.11.2017 15:41:22: Не обработано: ServerControl >> Broadcast: Который Олег
+14.11.2017 15:41:57: Не обработано: ServerControl >> Broadcast: Гот
+14.11.2017 15:42:04: Не обработано: ServerControl >> Broadcast: Выдай пж русскому тачку
+14.11.2017 15:42:06: Не обработано: ServerControl >> Broadcast: Он заебал
+14.11.2017 15:42:19: Не обработано: ServerControl >> Broadcast: Бляя
+14.11.2017 15:42:30: Не обработано: ServerControl >> Broadcast: Тогда пж
+14.11.2017 15:42:31: Не обработано: NullReferenceException: Object reference not set to an instance of an object - SDG.Unturned.UseableBarricade.equip ()
+14.11.2017 15:42:31: Не обработано: SDG.Unturned.PlayerEquipment.tellEquip (CSteamID steamID, Byte page, Byte x, Byte y, UInt16 id, Byte newQuality, System.Byte[] newState)
+14.11.2017 15:42:31: Не обработано: System.Reflection.MonoMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture)
+14.11.2017 15:42:31: Не обработано: Rethrow as TargetInvocationException: Exception has been thrown by the target of an invocation.
+14.11.2017 15:42:31: Не обработано: System.Reflection.MonoMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture)
+14.11.2017 15:42:31: Не обработано: System.Reflection.MethodBase.Invoke (System.Object obj, System.Object[] parameters)
+14.11.2017 15:42:31: Не обработано: SDG.Unturned.SteamChannel.receive (CSteamID steamID, System.Byte[] packet, Int32 offset, Int32 size)
+14.11.2017 15:42:31: Не обработано: SDG.Unturned.SteamChannel.send (ESteamCall mode, ESteamPacket type, Int32 size, System.Byte[] packet)
+14.11.2017 15:42:31: Не обработано: SDG.Unturned.SteamChannel.send (System.String name, ESteamCall mode, ESteamPacket type, System.Object[] arguments)
+14.11.2017 15:42:31: Не обработано: SDG.Unturned.PlayerEquipment.tryEquip (Byte page, Byte x, Byte y, System.Byte[] hash)
+14.11.2017 15:42:31: Не обработано: SDG.Unturned.PlayerEquipment.askEquip (CSteamID steamID, Byte page, Byte x, Byte y, System.Byte[] hash)
+14.11.2017 15:42:31: Не обработано: System.Reflection.MonoMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters,
+14.11.2017 15:42:31: Не обработано:  System.Globalization.CultureInfo culture)
+14.11.2017 15:42:31: Не обработано: Rethrow as TargetInvocationException: Exception has been thrown by the target of an invocation.
+14.11.2017 15:42:31: Не обработано: System.Reflection.MonoMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture)
+14.11.2017 15:42:31: Не обработано: System.Reflection.MethodBase.Invoke (System.Object obj, System.Object[] parameters)
+14.11.2017 15:42:31: Не обработано: SDG.Unturned.SteamChannel.receive (CSteamID steamID, System.Byte[] packet, Int32 offset, Int32 size)
+14.11.2017 15:42:31: Не обработано: SDG.Unturned.Provider.receiveServer (CSteamID steamID, System.Byte[] packet, Int32 offset, Int32 size, Int32 channel)
+14.11.2017 15:42:31: Не обработано: SDG.Unturned.Provider.listenServer (Int32 channel)
+14.11.2017 15:42:31: Не обработано: SDG.Unturned.Provider.listen ()
+14.11.2017 15:42:31: Не обработано: SDG.Unturned.Provider.Update ()
+14.11.2017 15:42:37: Не обработано: ServerControl >> Broadcast: Закрой рот
+14.11.2017 15:42:52: Не обработано: ServerControl >> Broadcast: Ну вот её тебе и выдадут
+14.11.2017 15:42:53: Не обработано: : 31536000 Remaining: 30691700
+14.11.2017 15:42:53: Не обработано: ServerControl >> Broadcast: Дурила
+14.11.2017 15:42:58: Не обработано: ServerControl >> Broadcast: Бл
+14.11.2017 15:43:05: Не обработано: ServerControl >> Broadcast: Олег отдай ему
+14.11.2017 15:43:27: Не обработано: ServerControl >> Broadcast: Сука

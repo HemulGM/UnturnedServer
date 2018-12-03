@@ -1,0 +1,63 @@
+Не обработано: RocketRcon v2.4.8.0
+RocketRcon v2.4.8.0
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198178769943 Name: Agusha228 Character: Agusha228 Ping: 117
+PlayerID: 76561198144832045 Name: (БРО228)Агуша228 Character: (БРО228)Агуша228 Ping: 117
+PlayerID: 76561198389415200 Name: Andrew Lavrinets Character: Andrew Ping: 242
+PlayerID: 76561198322193999 Name: ™_Game®_™ Character: Карл Иванович Ping: 54
+PlayerID: 76561198280617288 Name: Незнаю какой придумать Character: Пипр Ping: 54
+PlayerID: 76561198345092267 Name: demid3450 Character: [гл террористов] демид журавлёв Ping: 125
+PlayerID: 76561198219246692 Name: 71M0qp3u* Character: 71M0qp3u* Ping: 54
+PlayerID: 76561198287257345 Name: TheHard27 Character: TheHard27 Ping: 351
+PlayerID: 76561198335126629 Name: Sakuraso Character: Sakuraso Ping: 62
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 132
+PlayerID: 76561198329269141 Name: grib.2018 Character: Iliyas Ping: 101
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294321753
+PlayerID: 76561198341672556
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294886944
+
+END with Bans:
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198178769943 Name: Agusha228 Character: Agusha228 Ping: 117
+PlayerID: 76561198144832045 Name: (БРО228)Агуша228 Character: (БРО228)Агуша228 Ping: 109
+PlayerID: 76561198389415200 Name: Andrew Lavrinets Character: Andrew Ping: 250
+PlayerID: 76561198322193999 Name: ™_Game®_™ Character: Карл Иванович Ping: 70
+PlayerID: 76561198280617288 Name: Незнаю какой придумать Character: Пипр Ping: 62
+PlayerID: 76561198345092267 Name: demid3450 Character: [гл террористов] демид журавлёв Ping: 109
+PlayerID: 76561198219246692 Name: 71M0qp3u* Character: 71M0qp3u* Ping: 62
+PlayerID: 76561198287257345 Name: TheHard27 Character: TheHard27 Ping: 226
+PlayerID: 76561198335126629 Name: Sakuraso Character: Sakuraso Ping: 62
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 132
+PlayerID: 76561198329269141 Name: grib.2018 Character: Iliyas Ping: 226
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294321733
+PlayerID: 76561198341672556
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294886924
+
+END with Bans:
+[World] Expert1337 [Expert13372284200]: "кто рядом с военкой сейчас"
+

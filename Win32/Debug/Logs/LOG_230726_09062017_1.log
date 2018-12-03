@@ -1,0 +1,100 @@
+Не обработано: RocketRcon v2.4.8.0
+RocketRcon v2.4.8.0
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198329269141 Name: Iliyas Character: Iliyas Ping: 95
+PlayerID: 76561198130825409 Name: ya.maksim51 Character: ya.maksim51 Ping: 89
+PlayerID: 76561198340683253 Name: mitin7373 Character: mitin7373 Ping: 79
+PlayerID: 76561198278360341 Name: AcademeG Character: AcademeG Ping: 79
+PlayerID: 76561198232631228 Name: alex115 Character: Charles o"brien Ping: 157
+PlayerID: 76561198268161521 Name: DOMIK Character: Listiger_wolf2 Ping: 48
+PlayerID: 76561198391815543 Name: dinorendulic03 Character: dinorendulic03 Ping: 195
+PlayerID: 76561198326929390 Name: kuki Character: soliclukas Ping: 107
+PlayerID: 76561198171988113 Name: Ivan Saez R. Character: IVAN Ping: 117
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294117360
+
+END with Bans:
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198329269141 Name: Iliyas Character: Iliyas Ping: 91
+PlayerID: 76561198130825409 Name: ya.maksim51 Character: ya.maksim51 Ping: 99
+PlayerID: 76561198340683253 Name: mitin7373 Character: mitin7373 Ping: 74
+PlayerID: 76561198278360341 Name: AcademeG Character: AcademeG Ping: 72
+PlayerID: 76561198232631228 Name: alex115 Character: Charles o"brien Ping: 156
+PlayerID: 76561198268161521 Name: DOMIK Character: Listiger_wolf2 Ping: 59
+PlayerID: 76561198391815543 Name: dinorendulic03 Character: dinorendulic03 Ping: 119
+PlayerID: 76561198326929390 Name: kuki Character: soliclukas Ping: 118
+PlayerID: 76561198171988113 Name: Ivan Saez R. Character: IVAN Ping: 114
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294117340
+
+END with Bans:
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198329269141 Name: Iliyas Character: Iliyas Ping: 98
+PlayerID: 76561198130825409 Name: ya.maksim51 Character: ya.maksim51 Ping: 50
+PlayerID: 76561198340683253 Name: mitin7373 Character: mitin7373 Ping: 111
+PlayerID: 76561198278360341 Name: AcademeG Character: AcademeG Ping: 79
+PlayerID: 76561198232631228 Name: alex115 Character: Charles o"brien Ping: 160
+PlayerID: 76561198268161521 Name: DOMIK Character: Listiger_wolf2 Ping: 56
+PlayerID: 76561198391815543 Name: dinorendulic03 Character: dinorendulic03 Ping: 163
+PlayerID: 76561198326929390 Name: kuki Character: soliclukas Ping: 274
+PlayerID: 76561198171988113 Name: Ivan Saez R. Character: IVAN Ping: 113
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294117320
+
+END with Bans:
+[World] dinorendulic03 [dinorendulic03]: "/kits"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198329269141 Name: Iliyas Character: Iliyas Ping: 85
+PlayerID: 76561198130825409 Name: ya.maksim51 Character: ya.maksim51 Ping: 60
+PlayerID: 76561198340683253 Name: mitin7373 Character: mitin7373 Ping: 104
+PlayerID: 76561198278360341 Name: AcademeG Character: AcademeG Ping: 89
+PlayerID: 76561198232631228 Name: alex115 Character: Charles o"brien Ping: 162
+PlayerID: 76561198268161521 Name: DOMIK Character: Listiger_wolf2 Ping: 46
+PlayerID: 76561198391815543 Name: dinorendulic03 Character: dinorendulic03 Ping: 155
+PlayerID: 76561198326929390 Name: kuki Character: soliclukas Ping: 100
+PlayerID: 76561198171988113 Name: Ivan Saez R. Character: IVAN Ping: 117
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294117300
+

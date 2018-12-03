@@ -1,0 +1,9 @@
+20.07.2017 16:24:25: Не обработано: Rocket.CoreException in Rocket.Core: System.IO.IOException: Write failure ---> System.Net.Sockets.SocketException: Удаленный хост принудительно разорвал существующее подключение.
+20.07.2017 16:24:25: Не обработано: 
+20.07.2017 16:24:25: Не обработано:   at System.Net.Sockets.Socket.Send (System.Byte[] buf, Int32 offset, Int32 size, SocketFlags flags) [0x00000] in <filename unknown>:0 
+20.07.2017 16:24:25: Не обработано:   at System.Net.Sockets.NetworkStream.Write (System.Byte[] buffer, Int32 offset, Int32 size) [0x00000] in <filename unknown>:0 
+20.07.2017 16:24:25: Не обработано:   --- End of inner exception stack trace ---
+20.07.2017 16:24:25: Не обработано:   at System.Net.Sockets.NetworkStream.Write (System.Byte[] buffer, Int32 offset, Int32 size) [0x00000] in <filename unknown>:0 
+20.07.2017 16:24:25: Не обработано:   at Rocket.Core.RCON.RCONServer.Send (System.Net.Sockets.TcpClient client, System.String text) [0x00000] in <filename unknown>:0 
+20.07.2017 16:24:25: Не обработано:   at Rocket.Core.RCON.RCONConnection.Send (System.String command, Boolean nonewline) [0x00000] in <filename unknown>:0 
+20.07.2017 16:24:25: Не обработано:   at Rocket.Core.RCON.RCONServer.handleConnection (System.Object obj) [0x00000] in <filename unknown>:0 

@@ -1,0 +1,192 @@
+RocketRcon v2.4.8.0
+
+login aVIPs22031994
+players
+cchat "123" "/53 /19/05/01/32 /11/15/14/24/09/12/18/32 /04/15/14/00/19" 255 255 255
+Client has executed command "players"
+Players:
+PlayerID: 76561198170498361 Name: _Nick_Hunter_ Character: Nick_Hunter[RUS] Ping: 69
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 205
+PlayerID: 76561198384139999 Name: agat84 Character: Mr.Shadou Ping: 86
+PlayerID: 76561198265247601 Name: BisonbonasusPlay Character: Dmitriy Ping: 89
+
+Client has executed command "cchat "123" "/53 /19/05/01/32 /11/15/14/24/09/12/18/32 /04/15/14/00/19" 255 255 255"
+
+ServerControl >> /53 /19/05/01/32 /11/15/14/24/09/12/18/32 /04/15/14/00/19 255 255 255
+
+Не обработано: ServerControl >> /53 /19/05/01/32 /11/15/14/24/09/12/18/32 /04/15/14/00/19 255 255 255
+Client has executed command "bans"
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 28078344
+PlayerID: 76561198336969313
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 193577
+PlayerID: 76561198212486347
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 193908
+PlayerID: 76561198391097237
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 356395
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30958622
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30958638
+Client has executed command "players"
+Players:
+PlayerID: 76561198170498361 Name: _Nick_Hunter_ Character: Nick_Hunter[RUS] Ping: 61
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 204
+PlayerID: 76561198384139999 Name: agat84 Character: Mr.Shadou Ping: 82
+PlayerID: 76561198265247601 Name: BisonbonasusPlay Character: Dmitriy Ping: 91
+Client has executed command "bans"
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 28078343
+PlayerID: 76561198336969313
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 193576
+PlayerID: 76561198212486347
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 193907
+PlayerID: 76561198391097237
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 356394
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30958621
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30958637
+
+END
+END
+END
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [615]
+
+END
+[World] Expert1337 [Expert13372284200]: "он главный"
+
+MessageAnnouncer >> Broadcast: Посетите наш сайт. Вы будете удивлены! unturned.hemulgm.ru
+
+MessageAnnouncer >> Посетите наш сайт. Вы будете удивлены! unturned.hemulgm.ru
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [625]
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [625]
+
+p "76561198170498361"
+Client has executed command "p "76561198170498361""
+
+Nick_Hunter[RUS]s p_groups: Normal, Guest
+Nick_Hunter[RUS]s p_perm: sell, servercontrol.a, a, server, p, rules, r, donat, site, vk, home(60), tpa.*, kit, kit.start, kit.map, kit.help, kit.claim, kit.hgm1, kits, report, balance, buy, cost, exchange, pm, reply, pay, checkowner
+
+Не обработано: Nick_Hunter[RUS]s p_perm: sell, servercontrol.a, a, server, p, rules, r, donat, site, vk, home(60), tpa.*, kit, kit.start, kit.map, kit.help, kit.claim, kit.hgm1, kits, report, balance, buy, cost, exchange, pm, reply, pay, checkowner
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198170498361 Name: _Nick_Hunter_ Character: Nick_Hunter[RUS] Ping: 79
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 216
+PlayerID: 76561198384139999 Name: agat84 Character: Mr.Shadou Ping: 83
+PlayerID: 76561198265247601 Name: BisonbonasusPlay Character: Dmitriy Ping: 84
+
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+
+END
+Reason: 900000 Duration: 31536000 Remaining: 28078323
+PlayerID: 76561198336969313
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 193556
+PlayerID: 76561198212486347
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 193887
+PlayerID: 76561198391097237
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 356374
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30958601
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30958617
+
+[World] Expert1337 [Expert13372284200]: "ща пока 2 дома строить будем"
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [635]
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [635]
+
+END
+[World] Expert1337 [Expert13372284200]: "ты на том холме постройся"
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [645]
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [645]
+
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198170498361 Name: _Nick_Hunter_ Character: Nick_Hunter[RUS] Ping: 60
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 211
+PlayerID: 76561198384139999 Name: agat84 Character: Mr.Shadou Ping: 95
+PlayerID: 76561198265247601 Name: BisonbonasusPlay Character: Dmitriy Ping: 92
+
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 28078303
+PlayerID: 76561198336969313
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 193536
+PlayerID: 76561198212486347
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 193867
+PlayerID: 76561198391097237
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 356354
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30958581
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30958597
+
+END
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [655]
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [655]
+
+END
+[World] Expert1337 [Expert13372284200]: "ага"
+

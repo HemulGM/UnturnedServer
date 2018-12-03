@@ -1,0 +1,168 @@
+RocketRcon v2.4.8.0
+
+login aVIPs22031994
+players
+Client has executed command "players"
+Players:
+PlayerID: 76561198317172157 Name: ?           ???  ??? Character: Roman Ping: 46
+PlayerID: 76561198205863883 Name: Крокодил Гена Character: krokodil gena Ping: 39
+PlayerID: 76561198264383990 Name: СПОРТАКУС Character: Иван Снег Ping: 46
+PlayerID: 76561198408019916 Name: slava.fan555 Character: Славик Cухоруков (Глава "FOX") Ping: 62
+PlayerID: 76561198351213164 Name: _АхМеД_ :D Character: Виндяй Вечеслав Ping: 70
+
+Client has executed command "bans"
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27408868
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30289146
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30289162
+PlayerID: 76561198257502095
+JudgeID: 76561198237123262
+Reason: 3600 Duration: 31536000 Remaining: 31494402
+
+END
+END
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [1155]
+
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198317172157 Name: ?           ???  ??? Character: Roman Ping: 46
+PlayerID: 76561198205863883 Name: Крокодил Гена Character: krokodil gena Ping: 39
+PlayerID: 76561198264383990 Name: СПОРТАКУС Character: Иван Снег Ping: 54
+PlayerID: 76561198408019916 Name: slava.fan555 Character: Славик Cухоруков (Глава "FOX") Ping: 93
+PlayerID: 76561198351213164 Name: _АхМеД_ :D Character: Виндяй Вечеслав Ping: 85
+
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27408858
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30289136
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30289152
+PlayerID: 76561198257502095
+JudgeID: 76561198237123262
+Reason: 3600 Duration: 31536000 Remaining: 31494392
+
+END
+END
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [1164]
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [1165]
+
+GET NOW
+Client has executed command "GET NOW"
+ServerControl >> VALUE NOW [1] [0] [1175]
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [1175]
+
+MessageAnnouncer >> Broadcast: Наберите /kit help, чтобы получить первую мед. помощь (бинты, таблетки, еда)
+
+MessageAnnouncer >> Наберите /kit help, чтобы получить первую мед. помощь (бинты, таблетки, еда)
+
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198317172157 Name: ?           ???  ??? Character: Roman Ping: 39
+PlayerID: 76561198205863883 Name: Крокодил Гена Character: krokodil gena Ping: 31
+PlayerID: 76561198264383990 Name: СПОРТАКУС Character: Иван Снег Ping: 46
+PlayerID: 76561198408019916 Name: slava.fan555 Character: Славик Cухоруков (Глава "FOX") Ping: 93
+PlayerID: 76561198351213164 Name: _АхМеД_ :D Character: Виндяй Вечеслав Ping: 78
+
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27408838
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30289116
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30289132
+PlayerID: 76561198257502095
+JudgeID: 76561198237123262
+Reason: 3600 Duration: 31536000 Remaining: 31494372
+
+END
+END
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [1185]
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [1185]
+
+[World] Иван Снег [СПОРТАКУС]: "/kit help"
+
+[World] Roman [?           ???  ???]: "/buy 1260"
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [1195]
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [1197]
+
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198317172157 Name: ?           ???  ??? Character: Roman Ping: 39
+PlayerID: 76561198205863883 Name: Крокодил Гена Character: krokodil gena Ping: 31
+PlayerID: 76561198264383990 Name: СПОРТАКУС Character: Иван Снег Ping: 54
+PlayerID: 76561198408019916 Name: slava.fan555 Character: Славик Cухоруков (Глава "FOX") Ping: 70
+PlayerID: 76561198351213164 Name: _АхМеД_ :D Character: Виндяй Вечеслав Ping: 78
+
+[World] Roman [?           ???  ???]: "/home"
+
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27408818
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30289096
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30289112
+PlayerID: 76561198257502095
+JudgeID: 76561198237123262
+Reason: 3600 Duration: 31536000 Remaining: 31494352
+
+END
+END
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [1205]
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [1207]
+

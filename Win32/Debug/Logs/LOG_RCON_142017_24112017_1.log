@@ -1,0 +1,101 @@
+RocketRcon v2.4.8.0
+
+login aVIPs22031994
+players
+Client has executed command "GET NOW"
+ServerControl >> VALUE NOW [1] [0] [2126]
+Client has executed command "players"
+Players:
+PlayerID: 76561198444494613 Name: vladkrigin Character: дима васильев Ping: 125
+PlayerID: 76561198423084997 Name: lovemariina Character: Rendy Ping: 125
+PlayerID: 76561198148180162 Name: Mera.meN Character: Mera.meN Ping: 70
+Client has executed command "bans"
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27913983
+PlayerID: 76561198336969313
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 29216
+PlayerID: 76561198212486347
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 29547
+PlayerID: 76561198391097237
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 192034
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30794261
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30794277
+Client has executed command "players"
+Players:
+PlayerID: 76561198444494613 Name: vladkrigin Character: дима васильев Ping: 128
+PlayerID: 76561198423084997 Name: lovemariina Character: Rendy Ping: 125
+PlayerID: 76561198148180162 Name: Mera.meN Character: Mera.meN Ping: 62
+Client has executed command "bans"
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27913980
+PlayerID: 76561198336969313
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 29213
+PlayerID: 76561198212486347
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 29544
+PlayerID: 76561198391097237
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 192031
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30794258
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30794274
+Client has executed command "GET NOW"
+ServerControl >> VALUE NOW [1] [0] [2136]
+
+END
+END
+END
+Client has executed command "cchat "/33/09/17/04/17/15/16 /24/05/17/05/08 1 /24. 40 /13. " 255 255 0"
+ServerControl >> Broadcast: Аирдроп через 1 ч. 40 м.
+
+Не обработано: ServerControl >> Broadcast: Аирдроп через 1 ч. 40 м.
+END
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [2146]
+
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198444494613 Name: vladkrigin Character: дима васильев Ping: 136
+PlayerID: 76561198423084997 Name: lovemariina Character: Rendy Ping: 125
+PlayerID: 76561198148180162 Name: Mera.meN Character: Mera.meN Ping: 85
+
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27913960
+PlayerID: 76561198336969313
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 29193
+PlayerID: 76561198212486347
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 29524
+PlayerID: 76561198391097237
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 192011
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30794238
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30794254
+
+END

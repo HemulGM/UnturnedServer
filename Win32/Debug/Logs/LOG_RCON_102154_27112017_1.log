@@ -1,0 +1,79 @@
+RocketRcon v2.4.8.0
+
+login aVIPs22031994
+players
+Client has executed command "players"
+Failed to find any players.
+Client has executed command "GET NOW"
+ServerControl >> VALUE NOW [1] [0] [206]
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [216]
+
+Client has executed command "players"
+
+Failed to find any players.
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [220]
+
+MessageAnnouncer >> Broadcast: Используйте /report [ник], чтобы отправить жалобу на игрока
+
+MessageAnnouncer >> Используйте /report [ник], чтобы отправить жалобу на игрока
+
+Client has executed command "GET NOW"
+ServerControl >> VALUE NOW [1] [0] [226]
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [230]
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [236]
+
+Client has executed command "players"
+
+Failed to find any players.
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [240]
+
+bans
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27669051
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30549329
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30549345
+
+END
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [246]
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [250]
+
+admins
+Client has executed command "admins"
+
+Admins:
+PlayerID: 76561198119509031
+JudgeID: 0
+
+END

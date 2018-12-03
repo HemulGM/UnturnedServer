@@ -1,0 +1,3022 @@
+Не обработано: RocketRcon v2.4.8.0
+RocketRcon v2.4.8.0
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 55
+PlayerID: 76561198152563082 Name: Drakon Character: Stanat Ping: 124
+PlayerID: 76561198262878051 Name: Kolder Character: Kolder Ping: 57
+PlayerID: 76561198292543416 Name: Mr_GiladKing Character: GiladKing Ping: 69
+PlayerID: 76561198235802198 Name: Bodya Character: Bodya Ping: 128
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 167
+PlayerID: 76561198368930526 Name: LLlaxuD Character: LLlaxuD Ping: 140
+PlayerID: 76561198123840535 Name: ?????? Character: top Ping: 92
+PlayerID: 76561198323972058 Name: PulDar Character: зомби Ping: 63
+PlayerID: 76561198289556960 Name: доширак Character: artiom$KI Ping: 261
+PlayerID: 76561198030393730 Name: heavy198 Character: heavy198 Ping: 144
+PlayerID: 76561198312345651 Name: soosand Character: w891299681861 Ping: 118
+
+END with Players:
+TimerTerminateCommand.Enabled with Bans:
+Client has executed command "bans"
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4293984113
+
+END with Bans:
+[World] 7_AleX_3 [7_AleX_3]: "заправь"
+
+Connecting: PlayerID: 76561198354788609 Name: ДЯДЯ CSGO-SKINS.COM Character: rodion.hak
+
+[World] 7_AleX_3 [7_AleX_3]: "/kit help"
+
+[World] artiom$KI [доширак]: "как"
+
+[World] heavy198 [heavy198]: "кто тиму тп"
+
+[World] rodion.hak [ДЯДЯ CSGO-SKINS.COM]: "/kits"
+
+[World] heavy198 [heavy198]: "ко мне"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 43
+PlayerID: 76561198152563082 Name: Drakon Character: Stanat Ping: 128
+PlayerID: 76561198262878051 Name: Kolder Character: Kolder Ping: 59
+PlayerID: 76561198292543416 Name: Mr_GiladKing Character: GiladKing Ping: 50
+PlayerID: 76561198235802198 Name: Bodya Character: Bodya Ping: 118
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 156
+PlayerID: 76561198368930526 Name: LLlaxuD Character: LLlaxuD Ping: 135
+PlayerID: 76561198123840535 Name: ?????? Character: top Ping: 107
+PlayerID: 76561198323972058 Name: PulDar Character: зомби Ping: 65
+PlayerID: 76561198289556960 Name: доширак Character: artiom$KI Ping: 251
+PlayerID: 76561198030393730 Name: heavy198 Character: heavy198 Ping: 146
+PlayerID: 76561198312345651 Name: soosand Character: w891299681861 Ping: 112
+PlayerID: 76561198354788609 Name: ДЯДЯ CSGO-SKINS.COM Character: rodion.hak Ping: 133
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4293984093
+
+TimerTerminateCommand.Enabled with Bans:
+[World] w891299681861 [soosand]: "/kit start"
+
+END with Bans:
+[World] rodion.hak [ДЯДЯ CSGO-SKINS.COM]: "/kit  start"
+
+[World] artiom$KI [доширак]: "го по летаем"
+
+Не обработано: DeathMessagesRemastered >> Broadcast: LLlaxuD истёк кровью!
+DeathMessagesRemastered >> Broadcast: LLlaxuD истёк кровью!
+
+Не обработано: DropManager >> 3
+Не обработано: LLlaxuD [LLlaxuD] bled to death!
+DropManager >> 3
+LLlaxuD [LLlaxuD] bled to death!
+
+[Area] зомби [PulDar]: "/tpa heavy198"
+
+[World] rodion.hak [ДЯДЯ CSGO-SKINS.COM]: "/kits"
+
+Не обработано: LLlaxuD moved x:-720.9009 y:59.51276(+21.34293) z:150.1289 in the last second (1.003479)
+LLlaxuD moved x:-720.9009 y:59.51276(+21.34293) z:150.1289 in the last second (1.003479)
+
+[World] 7_AleX_3 [7_AleX_3]: "вместе"
+
+[World] 7_AleX_3 [7_AleX_3]: "жди"
+
+[World] artiom$KI [доширак]: "но"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 40
+PlayerID: 76561198152563082 Name: Drakon Character: Stanat Ping: 130
+PlayerID: 76561198262878051 Name: Kolder Character: Kolder Ping: 57
+PlayerID: 76561198292543416 Name: Mr_GiladKing Character: GiladKing Ping: 79
+PlayerID: 76561198235802198 Name: Bodya Character: Bodya Ping: 141
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 150
+PlayerID: 76561198368930526 Name: LLlaxuD Character: LLlaxuD Ping: 141
+PlayerID: 76561198123840535 Name: ?????? Character: top Ping: 97
+PlayerID: 76561198323972058 Name: PulDar Character: зомби Ping: 79
+PlayerID: 76561198289556960 Name: доширак Character: artiom$KI Ping: 269
+PlayerID: 76561198030393730 Name: heavy198 Character: heavy198 Ping: 142
+PlayerID: 76561198312345651 Name: soosand Character: w891299681861 Ping: 118
+PlayerID: 76561198354788609 Name: ДЯДЯ CSGO-SKINS.COM Character: rodion.hak Ping: 160
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4293984073
+
+END with Bans:
+Disconnecting: PlayerID: 76561198323972058 Name: PulDar Character: зомби
+
+[World] rodion.hak [ДЯДЯ CSGO-SKINS.COM]: "/tpa soosand"
+
+[World] w891299681861 [soosand]: "/tpa a"
+
+[Group] Expert1337 [Expert13372284200]: "ончились"
+
+[World] rodion.hak [ДЯДЯ CSGO-SKINS.COM]: "/kits"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 42
+PlayerID: 76561198152563082 Name: Drakon Character: Stanat Ping: 130
+PlayerID: 76561198262878051 Name: Kolder Character: Kolder Ping: 56
+PlayerID: 76561198292543416 Name: Mr_GiladKing Character: GiladKing Ping: 61
+PlayerID: 76561198235802198 Name: Bodya Character: Bodya Ping: 131
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 164
+PlayerID: 76561198368930526 Name: LLlaxuD Character: LLlaxuD Ping: 140
+PlayerID: 76561198123840535 Name: ?????? Character: top Ping: 118
+PlayerID: 76561198289556960 Name: доширак Character: artiom$KI Ping: 301
+PlayerID: 76561198030393730 Name: heavy198 Character: heavy198 Ping: 140
+PlayerID: 76561198312345651 Name: soosand Character: w891299681861 Ping: 119
+PlayerID: 76561198354788609 Name: ДЯДЯ CSGO-SKINS.COM Character: rodion.hak Ping: 109
+
+TimerTerminateCommand.Enabled with Players:
+[Group] Stanat [Drakon]: "/i 372 10"
+
+Не обработано: Дал Stanat вещь 372:10
+TimerTerminateCommand.Enabled with Players:
+Дал Stanat вещь 372:10
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4293984052
+
+Не обработано: MessageAnnouncer >> Broadcast: vk.com/unturned_hgm - цены на премиум, VIP и другие услуги смотрите в группе!
+TimerTerminateCommand.Enabled with Bans:
+MessageAnnouncer >> Broadcast: vk.com/unturned_hgm - цены на премиум, VIP и другие услуги смотрите в группе!
+
+Не обработано: MessageAnnouncer >> vk.com/unturned_hgm - цены на премиум, VIP и другие услуги смотрите в группе!
+TimerTerminateCommand.Enabled with Bans:
+MessageAnnouncer >> vk.com/unturned_hgm - цены на премиум, VIP и другие услуги смотрите в группе!
+
+TimerTerminateCommand.Enabled with Bans:
+[Group] Expert1337 [Expert13372284200]: "4 шт"
+
+END with Bans:
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 52
+PlayerID: 76561198152563082 Name: Drakon Character: Stanat Ping: 126
+PlayerID: 76561198262878051 Name: Kolder Character: Kolder Ping: 58
+PlayerID: 76561198292543416 Name: Mr_GiladKing Character: GiladKing Ping: 60
+PlayerID: 76561198235802198 Name: Bodya Character: Bodya Ping: 132
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 167
+PlayerID: 76561198368930526 Name: LLlaxuD Character: LLlaxuD Ping: 134
+PlayerID: 76561198123840535 Name: ?????? Character: top Ping: 104
+PlayerID: 76561198289556960 Name: доширак Character: artiom$KI Ping: 270
+PlayerID: 76561198030393730 Name: heavy198 Character: heavy198 Ping: 146
+PlayerID: 76561198312345651 Name: soosand Character: w891299681861 Ping: 123
+PlayerID: 76561198354788609 Name: ДЯДЯ CSGO-SKINS.COM Character: rodion.hak Ping: 52
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4293984033
+
+END with Bans:
+[World] artiom$KI [доширак]: "/buy 1353"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 44
+PlayerID: 76561198152563082 Name: Drakon Character: Stanat Ping: 132
+PlayerID: 76561198262878051 Name: Kolder Character: Kolder Ping: 57
+PlayerID: 76561198292543416 Name: Mr_GiladKing Character: GiladKing Ping: 53
+PlayerID: 76561198235802198 Name: Bodya Character: Bodya Ping: 142
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 145
+PlayerID: 76561198368930526 Name: LLlaxuD Character: LLlaxuD Ping: 138
+PlayerID: 76561198123840535 Name: ?????? Character: top Ping: 96
+PlayerID: 76561198289556960 Name: доширак Character: artiom$KI Ping: 257
+PlayerID: 76561198030393730 Name: heavy198 Character: heavy198 Ping: 140
+PlayerID: 76561198312345651 Name: soosand Character: w891299681861 Ping: 113
+PlayerID: 76561198354788609 Name: ДЯДЯ CSGO-SKINS.COM Character: rodion.hak Ping: 35
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4293984013
+
+END with Bans:
+[Area] GiladKing [Mr_GiladKing]: "садись"
+
+[Area] GiladKing [Mr_GiladKing]: "куда"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 31
+PlayerID: 76561198152563082 Name: Drakon Character: Stanat Ping: 131
+PlayerID: 76561198262878051 Name: Kolder Character: Kolder Ping: 53
+PlayerID: 76561198292543416 Name: Mr_GiladKing Character: GiladKing Ping: 60
+PlayerID: 76561198235802198 Name: Bodya Character: Bodya Ping: 140
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 164
+PlayerID: 76561198368930526 Name: LLlaxuD Character: LLlaxuD Ping: 138
+PlayerID: 76561198123840535 Name: ?????? Character: top Ping: 112
+PlayerID: 76561198289556960 Name: доширак Character: artiom$KI Ping: 262
+PlayerID: 76561198030393730 Name: heavy198 Character: heavy198 Ping: 144
+PlayerID: 76561198312345651 Name: soosand Character: w891299681861 Ping: 114
+PlayerID: 76561198354788609 Name: ДЯДЯ CSGO-SKINS.COM Character: rodion.hak Ping: 41
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4293983993
+
+END with Bans:
+[World] Bodya [Bodya]: "fisus"
+
+[World] Bodya [Bodya]: "fuiayd"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 45
+PlayerID: 76561198152563082 Name: Drakon Character: Stanat Ping: 123
+PlayerID: 76561198262878051 Name: Kolder Character: Kolder Ping: 53
+PlayerID: 76561198292543416 Name: Mr_GiladKing Character: GiladKing Ping: 54
+PlayerID: 76561198235802198 Name: Bodya Character: Bodya Ping: 153
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 151
+PlayerID: 76561198368930526 Name: LLlaxuD Character: LLlaxuD Ping: 139
+PlayerID: 76561198123840535 Name: ?????? Character: top Ping: 146
+PlayerID: 76561198289556960 Name: доширак Character: artiom$KI Ping: 360
+PlayerID: 76561198030393730 Name: heavy198 Character: heavy198 Ping: 142
+PlayerID: 76561198312345651 Name: soosand Character: w891299681861 Ping: 114
+PlayerID: 76561198354788609 Name: ДЯДЯ CSGO-SKINS.COM Character: rodion.hak Ping: 33
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4293983973
+
+END with Bans:
+[Group] Stanat [Drakon]: "/i 373 10"
+
+Не обработано: Дал Stanat вещь 373:10
+Дал Stanat вещь 373:10
+
+Disconnecting: PlayerID: 76561198354788609 Name: ДЯДЯ CSGO-SKINS.COM Character: rodion.hak
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 33
+PlayerID: 76561198152563082 Name: Drakon Character: Stanat Ping: 137
+PlayerID: 76561198262878051 Name: Kolder Character: Kolder Ping: 54
+PlayerID: 76561198292543416 Name: Mr_GiladKing Character: GiladKing Ping: 171
+PlayerID: 76561198235802198 Name: Bodya Character: Bodya Ping: 129
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 185
+PlayerID: 76561198368930526 Name: LLlaxuD Character: LLlaxuD Ping: 142
+PlayerID: 76561198123840535 Name: ?????? Character: top Ping: 101
+PlayerID: 76561198289556960 Name: доширак Character: artiom$KI Ping: 303
+PlayerID: 76561198030393730 Name: heavy198 Character: heavy198 Ping: 142
+PlayerID: 76561198312345651 Name: soosand Character: w891299681861 Ping: 122
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4293983953
+
+END with Bans:
+Не обработано: GiladKing moved x:-243.0294 y:55.5104(+17.03308) z:109.229 in the last second (1)
+GiladKing moved x:-243.0294 y:55.5104(+17.03308) z:109.229 in the last second (1)
+
+Не обработано: Bodya moved x:-238.8146 y:55.5104(+17.01804) z:109.0587 in the last second (1)
+Bodya moved x:-238.8146 y:55.5104(+17.01804) z:109.0587 in the last second (1)
+
+Не обработано: heavy198 moved x:-242.8091 y:55.5104(+17.03308) z:108.8494 in the last second (1)
+heavy198 moved x:-242.8091 y:55.5104(+17.03308) z:108.8494 in the last second (1)
+
+Disconnecting: PlayerID: 76561198312345651 Name: soosand Character: w891299681861
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 73
+PlayerID: 76561198152563082 Name: Drakon Character: Stanat Ping: 127
+PlayerID: 76561198262878051 Name: Kolder Character: Kolder Ping: 58
+PlayerID: 76561198292543416 Name: Mr_GiladKing Character: GiladKing Ping: 60
+PlayerID: 76561198235802198 Name: Bodya Character: Bodya Ping: 143
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 162
+PlayerID: 76561198368930526 Name: LLlaxuD Character: LLlaxuD Ping: 141
+PlayerID: 76561198123840535 Name: ?????? Character: top Ping: 144
+PlayerID: 76561198289556960 Name: доширак Character: artiom$KI Ping: 256
+PlayerID: 76561198030393730 Name: heavy198 Character: heavy198 Ping: 142
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4293983933
+
+Не обработано: MessageAnnouncer >> Broadcast: Наберите /kit claim, чтобы получить Claim Flag
+TimerTerminateCommand.Enabled with Bans:
+MessageAnnouncer >> Broadcast: Наберите /kit claim, чтобы получить Claim Flag
+
+Не обработано: MessageAnnouncer >> Наберите /kit claim, чтобы получить Claim Flag
+TimerTerminateCommand.Enabled with Bans:
+MessageAnnouncer >> Наберите /kit claim, чтобы получить Claim Flag
+
+END with Bans:
+[Area] GiladKing [Mr_GiladKing]: "я ща"
+
+[World] top [??????]: "я на хом"
+
+[Area] GiladKing [Mr_GiladKing]: "/home"
+
+Не обработано: GiladKing moved x:-644.1776 y:76.35297(+21.74257) z:254.6572 in the last second (0.2379227)
+GiladKing moved x:-644.1776 y:76.35297(+21.74257) z:254.6572 in the last second (0.2379227)
+
+[World] top [??????]: "/home"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 42
+PlayerID: 76561198152563082 Name: Drakon Character: Stanat Ping: 132
+PlayerID: 76561198262878051 Name: Kolder Character: Kolder Ping: 56
+PlayerID: 76561198292543416 Name: Mr_GiladKing Character: GiladKing Ping: 224
+PlayerID: 76561198235802198 Name: Bodya Character: Bodya Ping: 140
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 145
+PlayerID: 76561198368930526 Name: LLlaxuD Character: LLlaxuD Ping: 138
+PlayerID: 76561198123840535 Name: ?????? Character: top Ping: 123
+PlayerID: 76561198289556960 Name: доширак Character: artiom$KI Ping: 277
+PlayerID: 76561198030393730 Name: heavy198 Character: heavy198 Ping: 136
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4293983913
+
+END with Bans:
+[Group] Stanat [Drakon]: "/i 1299 20"
+
+Не обработано: Дал Stanat вещь 1299:20
+Дал Stanat вещь 1299:20
+
+[World] Kolder [Kolder]: "/tpa top"
+
+[Group] Expert1337 [Expert13372284200]: "/give 1380"
+
+Successfully gave Expert13372284200 1380 x1!
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 40
+PlayerID: 76561198152563082 Name: Drakon Character: Stanat Ping: 131
+PlayerID: 76561198262878051 Name: Kolder Character: Kolder Ping: 55
+PlayerID: 76561198292543416 Name: Mr_GiladKing Character: GiladKing Ping: 59
+PlayerID: 76561198235802198 Name: Bodya Character: Bodya Ping: 132
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 186
+PlayerID: 76561198368930526 Name: LLlaxuD Character: LLlaxuD Ping: 136
+PlayerID: 76561198123840535 Name: ?????? Character: top Ping: 107
+PlayerID: 76561198289556960 Name: доширак Character: artiom$KI Ping: 292
+PlayerID: 76561198030393730 Name: heavy198 Character: heavy198 Ping: 140
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4293983893
+
+TimerTerminateCommand.Enabled with Bans:
+[Area] GiladKing [Mr_GiladKing]: "/tpa bod"
+
+END with Bans:
+[World] top [??????]: "/tpa a a,y"
+
+Не обработано: DeathMessagesRemastered >> Broadcast: 7_AleX_3 утонул!
+Не обработано: DropManager >> 3
+Не обработано: 7_AleX_3 [7_AleX_3] dehydrated to death!
+DeathMessagesRemastered >> Broadcast: 7_AleX_3 утонул!
+DropManager >> 3
+7_AleX_3 [7_AleX_3] dehydrated to death!
+
+[World] Stanat [Drakon]: "lol"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 54
+PlayerID: 76561198152563082 Name: Drakon Character: Stanat Ping: 131
+PlayerID: 76561198262878051 Name: Kolder Character: Kolder Ping: 135
+PlayerID: 76561198292543416 Name: Mr_GiladKing Character: GiladKing Ping: 62
+PlayerID: 76561198235802198 Name: Bodya Character: Bodya Ping: 127
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 183
+PlayerID: 76561198368930526 Name: LLlaxuD Character: LLlaxuD Ping: 139
+PlayerID: 76561198123840535 Name: ?????? Character: top Ping: 126
+PlayerID: 76561198289556960 Name: доширак Character: artiom$KI Ping: 488
+PlayerID: 76561198030393730 Name: heavy198 Character: heavy198 Ping: 143
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4293983873
+
+END with Bans:
+[Group] Expert1337 [Expert13372284200]: "кек"
+
+[Area] GiladKing [Mr_GiladKing]: "прими бодя"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 56
+PlayerID: 76561198152563082 Name: Drakon Character: Stanat Ping: 138
+PlayerID: 76561198262878051 Name: Kolder Character: Kolder Ping: 58
+PlayerID: 76561198292543416 Name: Mr_GiladKing Character: GiladKing Ping: 77
+PlayerID: 76561198235802198 Name: Bodya Character: Bodya Ping: 146
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 150
+PlayerID: 76561198368930526 Name: LLlaxuD Character: LLlaxuD Ping: 139
+PlayerID: 76561198123840535 Name: ?????? Character: top Ping: 113
+PlayerID: 76561198289556960 Name: доширак Character: artiom$KI Ping: 274
+PlayerID: 76561198030393730 Name: heavy198 Character: heavy198 Ping: 145
+
+TimerTerminateCommand.Enabled with Players:
+[World] Kolder [Kolder]: "/home"
+
+Не обработано: Kolder moved x:485.2741 y:71.33943(+32.52782) z:-832.8241 in the last second (0.09999847)
+TimerTerminateCommand.Enabled with Players:
+Kolder moved x:485.2741 y:71.33943(+32.52782) z:-832.8241 in the last second (0.09999847)
+
+TimerTerminateCommand.Enabled with Players:
+Connecting: PlayerID: 76561198381272870 Name: ™??_Н_Я_Ш_А_??™ Character: ™??_Н_Я_Ш_А_??™
+
+END with Players:
+TimerTerminateCommand.Enabled with Bans:
+Client has executed command "bans"
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4293983849
+
+END with Bans:
+Disconnecting: PlayerID: 76561198152563082 Name: Drakon Character: Stanat
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 58
+PlayerID: 76561198262878051 Name: Kolder Character: Kolder Ping: 58
+PlayerID: 76561198292543416 Name: Mr_GiladKing Character: GiladKing Ping: 66
+PlayerID: 76561198235802198 Name: Bodya Character: Bodya Ping: 130
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 156
+PlayerID: 76561198368930526 Name: LLlaxuD Character: LLlaxuD Ping: 139
+PlayerID: 76561198123840535 Name: ?????? Character: top Ping: 90
+PlayerID: 76561198289556960 Name: доширак Character: artiom$KI Ping: 188
+PlayerID: 76561198030393730 Name: heavy198 Character: heavy198 Ping: 142
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4293983833
+
+END with Bans:
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 56
+PlayerID: 76561198262878051 Name: Kolder Character: Kolder Ping: 54
+PlayerID: 76561198292543416 Name: Mr_GiladKing Character: GiladKing Ping: 54
+PlayerID: 76561198235802198 Name: Bodya Character: Bodya Ping: 133
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 145
+PlayerID: 76561198368930526 Name: LLlaxuD Character: LLlaxuD Ping: 138
+PlayerID: 76561198123840535 Name: ?????? Character: top Ping: 107
+PlayerID: 76561198289556960 Name: доширак Character: artiom$KI Ping: 167
+PlayerID: 76561198030393730 Name: heavy198 Character: heavy198 Ping: 139
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4293983813
+
+Не обработано: MessageAnnouncer >> Broadcast: Если модератор ведёт себя неподобающе, пишите в группу или ЛС (vk.com/unturned_hgm, vk.com/hemulgm)
+TimerTerminateCommand.Enabled with Bans:
+MessageAnnouncer >> Broadcast: Если модератор ведёт себя неподобающе, пишите в группу или ЛС (vk.com/unturned_hgm, vk.com/hemulgm)
+
+Не обработано: MessageAnnouncer >> Если модератор ведёт себя неподобающе, пишите в группу или ЛС (vk.com/unturned_hgm, vk.com/hemulgm)
+TimerTerminateCommand.Enabled with Bans:
+MessageAnnouncer >> Если модератор ведёт себя неподобающе, пишите в группу или ЛС (vk.com/unturned_hgm, vk.com/hemulgm)
+
+END with Bans:
+[Group] Expert1337 [Expert13372284200]: "/tp cleawer"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 62
+PlayerID: 76561198262878051 Name: Kolder Character: Kolder Ping: 50
+PlayerID: 76561198292543416 Name: Mr_GiladKing Character: GiladKing Ping: 74
+PlayerID: 76561198235802198 Name: Bodya Character: Bodya Ping: 142
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 139
+PlayerID: 76561198368930526 Name: LLlaxuD Character: LLlaxuD Ping: 138
+PlayerID: 76561198123840535 Name: ?????? Character: top Ping: 160
+PlayerID: 76561198289556960 Name: доширак Character: artiom$KI Ping: 258
+PlayerID: 76561198030393730 Name: heavy198 Character: heavy198 Ping: 141
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4293983793
+
+END with Bans:
+[Group] Expert1337 [Expert13372284200]: "/tp clear"
+
+[World] 7_AleX_3 [7_AleX_3]: "/home"
+
+Не обработано: 7_AleX_3 moved x:-664.8975 y:82.011(+43.53368) z:357.0413 in the last second (0.05000305)
+7_AleX_3 moved x:-664.8975 y:82.011(+43.53368) z:357.0413 in the last second (0.05000305)
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 134
+PlayerID: 76561198262878051 Name: Kolder Character: Kolder Ping: 52
+PlayerID: 76561198292543416 Name: Mr_GiladKing Character: GiladKing Ping: 54
+PlayerID: 76561198235802198 Name: Bodya Character: Bodya Ping: 140
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 168
+PlayerID: 76561198368930526 Name: LLlaxuD Character: LLlaxuD Ping: 140
+PlayerID: 76561198123840535 Name: ?????? Character: top Ping: 102
+PlayerID: 76561198289556960 Name: доширак Character: artiom$KI Ping: 205
+PlayerID: 76561198030393730 Name: heavy198 Character: heavy198 Ping: 138
+
+TimerTerminateCommand.Enabled with Players:
+[Group] Expert1337 [Expert13372284200]: "/tp clear"
+
+Не обработано: Expert1337 телепортирован к Clearwater Campground
+TimerTerminateCommand.Enabled with Players:
+Expert1337 телепортирован к Clearwater Campground
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4293983773
+
+END with Bans:
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 42
+PlayerID: 76561198262878051 Name: Kolder Character: Kolder Ping: 56
+PlayerID: 76561198292543416 Name: Mr_GiladKing Character: GiladKing Ping: 246
+PlayerID: 76561198235802198 Name: Bodya Character: Bodya Ping: 122
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 155
+PlayerID: 76561198368930526 Name: LLlaxuD Character: LLlaxuD Ping: 146
+PlayerID: 76561198123840535 Name: ?????? Character: top Ping: 261
+PlayerID: 76561198289556960 Name: доширак Character: artiom$KI Ping: 174
+PlayerID: 76561198030393730 Name: heavy198 Character: heavy198 Ping: 144
+
+TimerTerminateCommand.Enabled with Players:
+[World] Kolder [Kolder]: "/home"
+
+Не обработано: Kolder moved x:485.2741 y:71.47736(+33.00004) z:-832.8241 in the last second (0.2379227)
+TimerTerminateCommand.Enabled with Players:
+Kolder moved x:485.2741 y:71.47736(+33.00004) z:-832.8241 in the last second (0.2379227)
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4293983753
+
+END with Bans:
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 56
+PlayerID: 76561198262878051 Name: Kolder Character: Kolder Ping: 53
+PlayerID: 76561198292543416 Name: Mr_GiladKing Character: GiladKing Ping: 82
+PlayerID: 76561198235802198 Name: Bodya Character: Bodya Ping: 125
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 156
+PlayerID: 76561198368930526 Name: LLlaxuD Character: LLlaxuD Ping: 139
+PlayerID: 76561198123840535 Name: ?????? Character: top Ping: 236
+PlayerID: 76561198289556960 Name: доширак Character: artiom$KI Ping: 167
+PlayerID: 76561198030393730 Name: heavy198 Character: heavy198 Ping: 141
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4293983733
+
+END with Bans:
+[Group] Expert1337 [Expert13372284200]: "в аире из ценного ток эхо"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 51
+PlayerID: 76561198262878051 Name: Kolder Character: Kolder Ping: 53
+PlayerID: 76561198292543416 Name: Mr_GiladKing Character: GiladKing Ping: 59
+PlayerID: 76561198235802198 Name: Bodya Character: Bodya Ping: 117
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 157
+PlayerID: 76561198368930526 Name: LLlaxuD Character: LLlaxuD Ping: 136
+PlayerID: 76561198123840535 Name: ?????? Character: top Ping: 157
+PlayerID: 76561198289556960 Name: доширак Character: artiom$KI Ping: 183
+PlayerID: 76561198030393730 Name: heavy198 Character: heavy198 Ping: 140
+
+TimerTerminateCommand.Enabled with Players:
+[World] 7_AleX_3 [7_AleX_3]: "эксперт теперь та го"
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4293983712
+
+END with Bans:
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 63
+PlayerID: 76561198262878051 Name: Kolder Character: Kolder Ping: 52
+PlayerID: 76561198292543416 Name: Mr_GiladKing Character: GiladKing Ping: 54
+PlayerID: 76561198235802198 Name: Bodya Character: Bodya Ping: 119
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 169
+PlayerID: 76561198368930526 Name: LLlaxuD Character: LLlaxuD Ping: 139
+PlayerID: 76561198123840535 Name: ?????? Character: top Ping: 71
+PlayerID: 76561198289556960 Name: доширак Character: artiom$KI Ping: 182
+PlayerID: 76561198030393730 Name: heavy198 Character: heavy198 Ping: 139
+
+TimerTerminateCommand.Enabled with Players:
+[Group] Expert1337 [Expert13372284200]: "я не трогал"
+
+Не обработано: MessageAnnouncer >> Broadcast: vk.com/hemulgm - ЕДИНСТВЕННЫЙ администратор сервера
+TimerTerminateCommand.Enabled with Players:
+MessageAnnouncer >> Broadcast: vk.com/hemulgm - ЕДИНСТВЕННЫЙ администратор сервера
+
+Не обработано: MessageAnnouncer >> vk.com/hemulgm - ЕДИНСТВЕННЫЙ администратор сервера
+TimerTerminateCommand.Enabled with Players:
+MessageAnnouncer >> vk.com/hemulgm - ЕДИНСТВЕННЫЙ администратор сервера
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4293983690
+
+END with Bans:
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 38
+PlayerID: 76561198262878051 Name: Kolder Character: Kolder Ping: 52
+PlayerID: 76561198292543416 Name: Mr_GiladKing Character: GiladKing Ping: 56
+PlayerID: 76561198235802198 Name: Bodya Character: Bodya Ping: 129
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 157
+PlayerID: 76561198368930526 Name: LLlaxuD Character: LLlaxuD Ping: 132
+PlayerID: 76561198123840535 Name: ?????? Character: top Ping: 187
+PlayerID: 76561198289556960 Name: доширак Character: artiom$KI Ping: 171
+PlayerID: 76561198030393730 Name: heavy198 Character: heavy198 Ping: 141
+
+TimerTerminateCommand.Enabled with Players:
+Disconnecting: PlayerID: 76561198292543416 Name: Mr_GiladKing Character: GiladKing
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4293983671
+
+END with Bans:
+[Group] Expert1337 [Expert13372284200]: "не сцыте"
+
+[World] Kolder [Kolder]: "/tpa expert"
+
+[World] 7_AleX_3 [7_AleX_3]: "эксперт"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 46
+PlayerID: 76561198262878051 Name: Kolder Character: Kolder Ping: 58
+PlayerID: 76561198235802198 Name: Bodya Character: Bodya Ping: 120
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 155
+PlayerID: 76561198368930526 Name: LLlaxuD Character: LLlaxuD Ping: 138
+PlayerID: 76561198123840535 Name: ?????? Character: top Ping: 106
+PlayerID: 76561198289556960 Name: доширак Character: artiom$KI Ping: 165
+PlayerID: 76561198030393730 Name: heavy198 Character: heavy198 Ping: 139
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4293983653
+
+END with Bans:
+Connecting: PlayerID: 76561198152563082 Name: Drakon Character: Stanat
+
+[World] Expert1337 [Expert13372284200]: "не сцыте"
+
+[Group] Stanat [Drakon]: "эксп я тут"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 34
+PlayerID: 76561198262878051 Name: Kolder Character: Kolder Ping: 55
+PlayerID: 76561198235802198 Name: Bodya Character: Bodya Ping: 124
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 156
+PlayerID: 76561198368930526 Name: LLlaxuD Character: LLlaxuD Ping: 138
+PlayerID: 76561198123840535 Name: ?????? Character: top Ping: 103
+PlayerID: 76561198289556960 Name: доширак Character: artiom$KI Ping: 171
+PlayerID: 76561198030393730 Name: heavy198 Character: heavy198 Ping: 144
+PlayerID: 76561198152563082 Name: Drakon Character: Stanat Ping: 136
+
+TimerTerminateCommand.Enabled with Players:
+[World] 7_AleX_3 [7_AleX_3]: "ты де"
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4293983631
+
+TimerTerminateCommand.Enabled with Bans:
+[World] 7_AleX_3 [7_AleX_3]: "/tpa expe"
+
+TimerTerminateCommand.Enabled with Bans:
+[World] 7_AleX_3 [7_AleX_3]: "прими"
+
+END with Bans:
+[World] Expert1337 [Expert13372284200]: "/give 253/2"
+
+Successfully gave Expert13372284200 253 x2!
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 52
+PlayerID: 76561198262878051 Name: Kolder Character: Kolder Ping: 53
+PlayerID: 76561198235802198 Name: Bodya Character: Bodya Ping: 119
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 167
+PlayerID: 76561198368930526 Name: LLlaxuD Character: LLlaxuD Ping: 137
+PlayerID: 76561198123840535 Name: ?????? Character: top Ping: 124
+PlayerID: 76561198289556960 Name: доширак Character: artiom$KI Ping: 186
+PlayerID: 76561198030393730 Name: heavy198 Character: heavy198 Ping: 139
+PlayerID: 76561198152563082 Name: Drakon Character: Stanat Ping: 136
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4293983613
+
+END with Bans:
+[World] artiom$KI [доширак]: "/tpa a"
+
+[World] top [??????]: "/home"
+
+[World] 7_AleX_3 [7_AleX_3]: "я сёдня модерку куплю"
+
+Не обработано: top moved x:360.8134 y:43.87732(+16.30202) z:-758.5782 in the last second (0.05000305)
+top moved x:360.8134 y:43.87732(+16.30202) z:-758.5782 in the last second (0.05000305)
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 44
+PlayerID: 76561198262878051 Name: Kolder Character: Kolder Ping: 62
+PlayerID: 76561198235802198 Name: Bodya Character: Bodya Ping: 117
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 167
+PlayerID: 76561198368930526 Name: LLlaxuD Character: LLlaxuD Ping: 137
+PlayerID: 76561198123840535 Name: ?????? Character: top Ping: 129
+PlayerID: 76561198289556960 Name: доширак Character: artiom$KI Ping: 180
+PlayerID: 76561198030393730 Name: heavy198 Character: heavy198 Ping: 146
+PlayerID: 76561198152563082 Name: Drakon Character: Stanat Ping: 126
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4293983593
+
+END with Bans:
+[Group] Stanat [Drakon]: "го доделаем 4 окна"
+
+[World] Expert1337 [Expert13372284200]: "ток 3 модера"
+
+[Group] Stanat [Drakon]: "и все"
+
+[World] 7_AleX_3 [7_AleX_3]: "прими всёравно"
+
+[World] Expert1337 [Expert13372284200]: "/give 15/3"
+
+Successfully gave Expert13372284200 15 x3!
+
+[World] 7_AleX_3 [7_AleX_3]: "4 будет"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 37
+PlayerID: 76561198262878051 Name: Kolder Character: Kolder Ping: 53
+PlayerID: 76561198235802198 Name: Bodya Character: Bodya Ping: 128
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 161
+PlayerID: 76561198368930526 Name: LLlaxuD Character: LLlaxuD Ping: 139
+PlayerID: 76561198123840535 Name: ?????? Character: top Ping: 123
+PlayerID: 76561198289556960 Name: доширак Character: artiom$KI Ping: 173
+PlayerID: 76561198030393730 Name: heavy198 Character: heavy198 Ping: 136
+PlayerID: 76561198152563082 Name: Drakon Character: Stanat Ping: 144
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4293983573
+
+Не обработано: MessageAnnouncer >> Broadcast: Используйте /report [ник], чтобы отправить жалобу на игрока
+TimerTerminateCommand.Enabled with Bans:
+MessageAnnouncer >> Broadcast: Используйте /report [ник], чтобы отправить жалобу на игрока
+
+Не обработано: MessageAnnouncer >> Используйте /report [ник], чтобы отправить жалобу на игрока
+TimerTerminateCommand.Enabled with Bans:
+MessageAnnouncer >> Используйте /report [ник], чтобы отправить жалобу на игрока
+
+END with Bans:
+[World] Kolder [Kolder]: "/home"
+
+Не обработано: Kolder moved x:485.2741 y:71.33943(+32.56182) z:-832.8241 in the last second (0.09999847)
+Kolder moved x:485.2741 y:71.33943(+32.56182) z:-832.8241 in the last second (0.09999847)
+
+[World] 7_AleX_3 [7_AleX_3]: "прими тп"
+
+[World] Expert1337 [Expert13372284200]: "/give 81/10"
+
+[World] artiom$KI [доширак]: "lfq 'kbcgfr"
+
+[World] Expert1337 [Expert13372284200]: "3 ctr"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 41
+PlayerID: 76561198262878051 Name: Kolder Character: Kolder Ping: 53
+PlayerID: 76561198235802198 Name: Bodya Character: Bodya Ping: 139
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 148
+PlayerID: 76561198368930526 Name: LLlaxuD Character: LLlaxuD Ping: 143
+PlayerID: 76561198123840535 Name: ?????? Character: top Ping: 94
+PlayerID: 76561198289556960 Name: доширак Character: artiom$KI Ping: 165
+PlayerID: 76561198030393730 Name: heavy198 Character: heavy198 Ping: 141
+PlayerID: 76561198152563082 Name: Drakon Character: Stanat Ping: 130
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4293983553
+
+TimerTerminateCommand.Enabled with Bans:
+[World] Expert1337 [Expert13372284200]: "13 сек"
+
+END with Bans:
+[World] artiom$KI [доширак]: "да"
+
+[World] 7_AleX_3 [7_AleX_3]: "прими"
+
+[World] Expert1337 [Expert13372284200]: "/give 81/10"
+
+Successfully gave Expert13372284200 81 x10!
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 51
+PlayerID: 76561198262878051 Name: Kolder Character: Kolder Ping: 52
+PlayerID: 76561198235802198 Name: Bodya Character: Bodya Ping: 133
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 165
+PlayerID: 76561198368930526 Name: LLlaxuD Character: LLlaxuD Ping: 137
+PlayerID: 76561198123840535 Name: ?????? Character: top Ping: 193
+PlayerID: 76561198289556960 Name: доширак Character: artiom$KI Ping: 170
+PlayerID: 76561198030393730 Name: heavy198 Character: heavy198 Ping: 143
+PlayerID: 76561198152563082 Name: Drakon Character: Stanat Ping: 137
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4293983533
+
+TimerTerminateCommand.Enabled with Bans:
+[World] artiom$KI [доширак]: "дай чонибуть"
+
+END with Bans:
+[World] Expert1337 [Expert13372284200]: "/tp stan"
+
+Не обработано: Expert1337 телепортирован к Stanat
+Expert1337 телепортирован к Stanat
+
+Не обработано: Expert1337 moved x:-922.3539 y:124.3353(+96.88747) z:425.9032 in the last second (0.5999985)
+Expert1337 moved x:-922.3539 y:124.3353(+96.88747) z:425.9032 in the last second (0.5999985)
+
+[World] 7_AleX_3 [7_AleX_3]: "эксперт"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 46
+PlayerID: 76561198262878051 Name: Kolder Character: Kolder Ping: 50
+PlayerID: 76561198235802198 Name: Bodya Character: Bodya Ping: 132
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 155
+PlayerID: 76561198368930526 Name: LLlaxuD Character: LLlaxuD Ping: 157
+PlayerID: 76561198123840535 Name: ?????? Character: top Ping: 85
+PlayerID: 76561198289556960 Name: доширак Character: artiom$KI Ping: 161
+PlayerID: 76561198030393730 Name: heavy198 Character: heavy198 Ping: 141
+PlayerID: 76561198152563082 Name: Drakon Character: Stanat Ping: 141
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4293983513
+
+END with Bans:
+[World] 7_AleX_3 [7_AleX_3]: "эксперт"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 48
+PlayerID: 76561198262878051 Name: Kolder Character: Kolder Ping: 54
+PlayerID: 76561198235802198 Name: Bodya Character: Bodya Ping: 127
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 151
+PlayerID: 76561198368930526 Name: LLlaxuD Character: LLlaxuD Ping: 138
+PlayerID: 76561198123840535 Name: ?????? Character: top Ping: 203
+PlayerID: 76561198289556960 Name: доширак Character: artiom$KI Ping: 182
+PlayerID: 76561198030393730 Name: heavy198 Character: heavy198 Ping: 148
+PlayerID: 76561198152563082 Name: Drakon Character: Stanat Ping: 144
+
+TimerTerminateCommand.Enabled with Players:
+[Group] Stanat [Drakon]: "все"
+
+TimerTerminateCommand.Enabled with Players:
+[Group] Stanat [Drakon]: "спс"
+
+TimerTerminateCommand.Enabled with Players:
+[World] 7_AleX_3 [7_AleX_3]: "слышиш"
+
+END with Players:
+TimerTerminateCommand.Enabled with Bans:
+Client has executed command "bans"
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4293983490
+
+TimerTerminateCommand.Enabled with Bans:
+[World] Expert1337 [Expert13372284200]: "/day"
+
+TimerTerminateCommand.Enabled with Bans:
+Successfully set time to day!
+
+END with Bans:
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 57
+PlayerID: 76561198262878051 Name: Kolder Character: Kolder Ping: 52
+PlayerID: 76561198235802198 Name: Bodya Character: Bodya Ping: 134
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 161
+PlayerID: 76561198368930526 Name: LLlaxuD Character: LLlaxuD Ping: 137
+PlayerID: 76561198123840535 Name: ?????? Character: top Ping: 119
+PlayerID: 76561198289556960 Name: доширак Character: artiom$KI Ping: 168
+PlayerID: 76561198030393730 Name: heavy198 Character: heavy198 Ping: 140
+PlayerID: 76561198152563082 Name: Drakon Character: Stanat Ping: 141
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4293983473
+
+END with Bans:
+[World] artiom$KI [доширак]: "/tpa 7_"
+
+[World] 7_AleX_3 [7_AleX_3]: "эксперт"
+
+[Group] Stanat [Drakon]: "осветление"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 55
+PlayerID: 76561198262878051 Name: Kolder Character: Kolder Ping: 57
+PlayerID: 76561198235802198 Name: Bodya Character: Bodya Ping: 130
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 161
+PlayerID: 76561198368930526 Name: LLlaxuD Character: LLlaxuD Ping: 136
+PlayerID: 76561198123840535 Name: ?????? Character: top Ping: 106
+PlayerID: 76561198289556960 Name: доширак Character: artiom$KI Ping: 184
+PlayerID: 76561198030393730 Name: heavy198 Character: heavy198 Ping: 134
+PlayerID: 76561198152563082 Name: Drakon Character: Stanat Ping: 134
+
+TimerTerminateCommand.Enabled with Players:
+[World] 7_AleX_3 [7_AleX_3]: "/tpa accept"
+
+Не обработано: artiom$KI moved x:-631.706 y:78.58439(+52.85322) z:391.1079 in the last second (0.6559219)
+TimerTerminateCommand.Enabled with Players:
+artiom$KI moved x:-631.706 y:78.58439(+52.85322) z:391.1079 in the last second (0.6559219)
+
+TimerTerminateCommand.Enabled with Players:
+[Group] Stanat [Drakon]: "будем?"
+
+Не обработано: MessageAnnouncer >> Broadcast: Наберите /rules (/r) для просмотра правил
+TimerTerminateCommand.Enabled with Players:
+MessageAnnouncer >> Broadcast: Наберите /rules (/r) для просмотра правил
+
+Не обработано: MessageAnnouncer >> Наберите /rules (/r) для просмотра правил
+TimerTerminateCommand.Enabled with Players:
+MessageAnnouncer >> Наберите /rules (/r) для просмотра правил
+
+TimerTerminateCommand.Enabled with Players:
+[World] Expert1337 [Expert13372284200]: "jr"
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4293983450
+
+END with Bans:
+[Group] Expert1337 [Expert13372284200]: "1222"
+
+[Group] Stanat [Drakon]: "я тогда"
+
+[World] 7_AleX_3 [7_AleX_3]: "прими"
+
+[Group] Expert1337 [Expert13372284200]: "/give 1222/30"
+
+Successfully gave Expert13372284200 1222 x30!
+
+Не обработано: VehicleEvents >> Broadcast: Брошенный AN2 в Tacoma! Найди его и он твой!
+VehicleEvents >> Broadcast: Брошенный AN2 в Tacoma! Найди его и он твой!
+
+[Group] Stanat [Drakon]: "генераторы"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 39
+PlayerID: 76561198262878051 Name: Kolder Character: Kolder Ping: 53
+PlayerID: 76561198235802198 Name: Bodya Character: Bodya Ping: 127
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 180
+PlayerID: 76561198368930526 Name: LLlaxuD Character: LLlaxuD Ping: 133
+PlayerID: 76561198123840535 Name: ?????? Character: top Ping: 101
+PlayerID: 76561198289556960 Name: доширак Character: artiom$KI Ping: 189
+PlayerID: 76561198030393730 Name: heavy198 Character: heavy198 Ping: 140
+PlayerID: 76561198152563082 Name: Drakon Character: Stanat Ping: 148
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4293983433
+
+END with Bans:
+[Group] Stanat [Drakon]: "а ты свет"
+
+[World] 7_AleX_3 [7_AleX_3]: "прими"
+
+[World] 7_AleX_3 [7_AleX_3]: "прими"
+
+[World] 7_AleX_3 [7_AleX_3]: "же"
+
+[World] 7_AleX_3 [7_AleX_3]: "эксперт"
+
+[Group] Stanat [Drakon]: "кускамера"
+
+TimerTerminateCommand.Enabled with Players:
+Client has executed command "players"
+Players:
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 114
+PlayerID: 76561198262878051 Name: Kolder Character: Kolder Ping: 49
+PlayerID: 76561198235802198 Name: Bodya Character: Bodya Ping: 134
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 184
+PlayerID: 76561198368930526 Name: LLlaxuD Character: LLlaxuD Ping: 142
+PlayerID: 76561198123840535 Name: ?????? Character: top Ping: 117
+PlayerID: 76561198289556960 Name: доширак Character: artiom$KI Ping: 200
+PlayerID: 76561198030393730 Name: heavy198 Character: heavy198 Ping: 143
+PlayerID: 76561198152563082 Name: Drakon Character: Stanat Ping: 137
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4293983411
+
+END with Bans:
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 47
+PlayerID: 76561198262878051 Name: Kolder Character: Kolder Ping: 53
+PlayerID: 76561198235802198 Name: Bodya Character: Bodya Ping: 128
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 166
+PlayerID: 76561198368930526 Name: LLlaxuD Character: LLlaxuD Ping: 139
+PlayerID: 76561198123840535 Name: ?????? Character: top Ping: 112
+PlayerID: 76561198289556960 Name: доширак Character: artiom$KI Ping: 174
+PlayerID: 76561198030393730 Name: heavy198 Character: heavy198 Ping: 142
+PlayerID: 76561198152563082 Name: Drakon Character: Stanat Ping: 136
+
+TimerTerminateCommand.Enabled with Players:
+[Group] Stanat [Drakon]: "/i 1230 2"
+
+Не обработано: Дал Stanat вещь 1230:2
+TimerTerminateCommand.Enabled with Players:
+Дал Stanat вещь 1230:2
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4293983389
+
+END with Bans:
+[Group] Expert1337 [Expert13372284200]: "id индустриального генератора какой"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 45
+PlayerID: 76561198262878051 Name: Kolder Character: Kolder Ping: 56
+PlayerID: 76561198235802198 Name: Bodya Character: Bodya Ping: 131
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 172
+PlayerID: 76561198368930526 Name: LLlaxuD Character: LLlaxuD Ping: 140
+PlayerID: 76561198123840535 Name: ?????? Character: top Ping: 133
+PlayerID: 76561198289556960 Name: доширак Character: artiom$KI Ping: 159
+PlayerID: 76561198030393730 Name: heavy198 Character: heavy198 Ping: 137
+PlayerID: 76561198152563082 Name: Drakon Character: Stanat Ping: 150
+
+TimerTerminateCommand.Enabled with Players:
+[World] artiom$KI [доширак]: "lofq vfibye"
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4293983371
+
+END with Bans:
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 43
+PlayerID: 76561198262878051 Name: Kolder Character: Kolder Ping: 52
+PlayerID: 76561198235802198 Name: Bodya Character: Bodya Ping: 141
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 165
+PlayerID: 76561198368930526 Name: LLlaxuD Character: LLlaxuD Ping: 154
+PlayerID: 76561198123840535 Name: ?????? Character: top Ping: 103
+PlayerID: 76561198289556960 Name: доширак Character: artiom$KI Ping: 188
+PlayerID: 76561198030393730 Name: heavy198 Character: heavy198 Ping: 138
+PlayerID: 76561198152563082 Name: Drakon Character: Stanat Ping: 132
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4293983351
+
+END with Bans:
+[World] 7_AleX_3 [7_AleX_3]: "эксперт"
+
+[Group] Stanat [Drakon]: "/i 1440 20"
+
+Не обработано: Дал Stanat вещь 1440:20
+Дал Stanat вещь 1440:20
+
+[World] artiom$KI [доширак]: "дай машину"
+
+[Group] Expert1337 [Expert13372284200]: "/give 1440/10"
+
+Successfully gave Expert13372284200 1440 x10!
+
+[World] 7_AleX_3 [7_AleX_3]: "ок"
+
+[World] 7_AleX_3 [7_AleX_3]: "жди"
+
+[World] 7_AleX_3 [7_AleX_3]: "тут"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 42
+PlayerID: 76561198262878051 Name: Kolder Character: Kolder Ping: 56
+PlayerID: 76561198235802198 Name: Bodya Character: Bodya Ping: 129
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 154
+PlayerID: 76561198368930526 Name: LLlaxuD Character: LLlaxuD Ping: 138
+PlayerID: 76561198123840535 Name: ?????? Character: top Ping: 131
+PlayerID: 76561198289556960 Name: доширак Character: artiom$KI Ping: 166
+PlayerID: 76561198030393730 Name: heavy198 Character: heavy198 Ping: 138
+PlayerID: 76561198152563082 Name: Drakon Character: Stanat Ping: 136
+
+Не обработано: MessageAnnouncer >> Broadcast: Добро пожаловать на HEMULGM.RU. Тут рады вам больше, чем на любом другом сервере!
+TimerTerminateCommand.Enabled with Players:
+MessageAnnouncer >> Broadcast: Добро пожаловать на HEMULGM.RU. Тут рады вам больше, чем на любом другом сервере!
+
+Не обработано: MessageAnnouncer >> Добро пожаловать на HEMULGM.RU. Тут рады вам больше, чем на любом другом сервере!
+TimerTerminateCommand.Enabled with Players:
+MessageAnnouncer >> Добро пожаловать на HEMULGM.RU. Тут рады вам больше, чем на любом другом сервере!
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4293983330
+
+END with Bans:
+[World] 7_AleX_3 [7_AleX_3]: "там жди"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 48
+PlayerID: 76561198262878051 Name: Kolder Character: Kolder Ping: 58
+PlayerID: 76561198235802198 Name: Bodya Character: Bodya Ping: 132
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 158
+PlayerID: 76561198368930526 Name: LLlaxuD Character: LLlaxuD Ping: 138
+PlayerID: 76561198123840535 Name: ?????? Character: top Ping: 121
+PlayerID: 76561198289556960 Name: доширак Character: artiom$KI Ping: 209
+PlayerID: 76561198030393730 Name: heavy198 Character: heavy198 Ping: 136
+PlayerID: 76561198152563082 Name: Drakon Character: Stanat Ping: 139
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4293983311
+
+END with Bans:
+[Group] Stanat [Drakon]: "эксп"
+
+[World] LLlaxuD [LLlaxuD]: "хай"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 41
+PlayerID: 76561198262878051 Name: Kolder Character: Kolder Ping: 56
+PlayerID: 76561198235802198 Name: Bodya Character: Bodya Ping: 125
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 158
+PlayerID: 76561198368930526 Name: LLlaxuD Character: LLlaxuD Ping: 138
+PlayerID: 76561198123840535 Name: ?????? Character: top Ping: 151
+PlayerID: 76561198289556960 Name: доширак Character: artiom$KI Ping: 165
+PlayerID: 76561198030393730 Name: heavy198 Character: heavy198 Ping: 144
+PlayerID: 76561198152563082 Name: Drakon Character: Stanat Ping: 136
+
+TimerTerminateCommand.Enabled with Players:
+[Group] Stanat [Drakon]: "2 генератор"
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4293983289
+
+TimerTerminateCommand.Enabled with Bans:
+[World] LLlaxuD [LLlaxuD]: "привет"
+
+TimerTerminateCommand.Enabled with Bans:
+[Group] Stanat [Drakon]: "на эти этажи"
+
+TimerTerminateCommand.Enabled with Bans:
+[Group] Stanat [Drakon]: "хватит"
+
+END with Bans:
+[World] 7_AleX_3 [7_AleX_3]: "полетелиъ"
+
+[World] 7_AleX_3 [7_AleX_3]: "но я полечу"
+
+[World] 7_AleX_3 [7_AleX_3]: "дай"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 38
+PlayerID: 76561198262878051 Name: Kolder Character: Kolder Ping: 52
+PlayerID: 76561198235802198 Name: Bodya Character: Bodya Ping: 129
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 173
+PlayerID: 76561198368930526 Name: LLlaxuD Character: LLlaxuD Ping: 142
+PlayerID: 76561198123840535 Name: ?????? Character: top Ping: 143
+PlayerID: 76561198289556960 Name: доширак Character: artiom$KI Ping: 192
+PlayerID: 76561198030393730 Name: heavy198 Character: heavy198 Ping: 144
+PlayerID: 76561198152563082 Name: Drakon Character: Stanat Ping: 130
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4293983271
+
+END with Bans:
+[World] 7_AleX_3 [7_AleX_3]: "дай"
+
+[World] 7_AleX_3 [7_AleX_3]: "попробую"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 44
+PlayerID: 76561198262878051 Name: Kolder Character: Kolder Ping: 55
+PlayerID: 76561198235802198 Name: Bodya Character: Bodya Ping: 139
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 138
+PlayerID: 76561198368930526 Name: LLlaxuD Character: LLlaxuD Ping: 143
+PlayerID: 76561198123840535 Name: ?????? Character: top Ping: 168
+PlayerID: 76561198289556960 Name: доширак Character: artiom$KI Ping: 157
+PlayerID: 76561198030393730 Name: heavy198 Character: heavy198 Ping: 135
+PlayerID: 76561198152563082 Name: Drakon Character: Stanat Ping: 138
+
+TimerTerminateCommand.Enabled with Players:
+[World] 7_AleX_3 [7_AleX_3]: "дай"
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4293983250
+
+END with Bans:
+[Group] Expert1337 [Expert13372284200]: "z yf rhsit nehtkb gjqle ecnjyfdk."
+
+[World] 7_AleX_3 [7_AleX_3]: "дай"
+
+[World] artiom$KI [доширак]: "не получится"
+
+[Group] Expert1337 [Expert13372284200]: "я турели на крышу поставлю"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 35
+PlayerID: 76561198262878051 Name: Kolder Character: Kolder Ping: 52
+PlayerID: 76561198235802198 Name: Bodya Character: Bodya Ping: 125
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 148
+PlayerID: 76561198368930526 Name: LLlaxuD Character: LLlaxuD Ping: 138
+PlayerID: 76561198123840535 Name: ?????? Character: top Ping: 324
+PlayerID: 76561198289556960 Name: доширак Character: artiom$KI Ping: 148
+PlayerID: 76561198030393730 Name: heavy198 Character: heavy198 Ping: 137
+PlayerID: 76561198152563082 Name: Drakon Character: Stanat Ping: 131
+
+TimerTerminateCommand.Enabled with Players:
+[Group] Stanat [Drakon]: "ок"
+
+TimerTerminateCommand.Enabled with Players:
+[World] 7_AleX_3 [7_AleX_3]: "вниз"
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4293983229
+
+END with Bans:
+Не обработано: Saving server
+Saving server
+
+[World] 7_AleX_3 [7_AleX_3]: "назад"
+
+[Group] Expert1337 [Expert13372284200]: "ток как залезть"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 36
+PlayerID: 76561198262878051 Name: Kolder Character: Kolder Ping: 83
+PlayerID: 76561198235802198 Name: Bodya Character: Bodya Ping: 129
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 165
+PlayerID: 76561198368930526 Name: LLlaxuD Character: LLlaxuD Ping: 136
+PlayerID: 76561198123840535 Name: ?????? Character: top Ping: 96
+PlayerID: 76561198289556960 Name: доширак Character: artiom$KI Ping: 169
+PlayerID: 76561198030393730 Name: heavy198 Character: heavy198 Ping: 142
+PlayerID: 76561198152563082 Name: Drakon Character: Stanat Ping: 136
+
+Не обработано: MessageAnnouncer >> Broadcast: Наберите /kit start, чтобы получить стартовый набор (еда, вода, топор)
+TimerTerminateCommand.Enabled with Players:
+MessageAnnouncer >> Broadcast: Наберите /kit start, чтобы получить стартовый набор (еда, вода, топор)
+
+Не обработано: MessageAnnouncer >> Наберите /kit start, чтобы получить стартовый набор (еда, вода, топор)
+TimerTerminateCommand.Enabled with Players:
+MessageAnnouncer >> Наберите /kit start, чтобы получить стартовый набор (еда, вода, топор)
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4293983210
+
+END with Bans:
+[Group] Stanat [Drakon]: "на самую"
+
+[Group] Stanat [Drakon]: "крышу"
+
+[Group] Stanat [Drakon]: "ненадо"
+
+[Group] Stanat [Drakon]: "вот тут"
+
+[World] LLlaxuD [LLlaxuD]: "/kit start"
+
+[Group] Stanat [Drakon]: "в башне поставь"
+
+[World] 7_AleX_3 [7_AleX_3]: "выйди и я сам"
+
+[Group] Expert1337 [Expert13372284200]: "а ок"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 32
+PlayerID: 76561198262878051 Name: Kolder Character: Kolder Ping: 56
+PlayerID: 76561198235802198 Name: Bodya Character: Bodya Ping: 124
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 179
+PlayerID: 76561198368930526 Name: LLlaxuD Character: LLlaxuD Ping: 135
+PlayerID: 76561198123840535 Name: ?????? Character: top Ping: 381
+PlayerID: 76561198289556960 Name: доширак Character: artiom$KI Ping: 179
+PlayerID: 76561198030393730 Name: heavy198 Character: heavy198 Ping: 139
+PlayerID: 76561198152563082 Name: Drakon Character: Stanat Ping: 140
+
+TimerTerminateCommand.Enabled with Players:
+[World] 7_AleX_3 [7_AleX_3]: "выйди"
+
+TimerTerminateCommand.Enabled with Players:
+[Group] Expert1337 [Expert13372284200]: "тут 2 тогда"
+
+TimerTerminateCommand.Enabled with Players:
+[Group] Stanat [Drakon]: "а там тупо спиздят"
+
+TimerTerminateCommand.Enabled with Players:
+[World] LLlaxuD [LLlaxuD]: "/kit help"
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4293983187
+
+TimerTerminateCommand.Enabled with Bans:
+[Group] Stanat [Drakon]: "оружея"
+
+END with Bans:
+[World] top [??????]: "алекс я самолет нашол"
+
+[World] artiom$KI [доширак]: "ща"
+
+[World] 7_AleX_3 [7_AleX_3]: "пж"
+
+[Group] Stanat [Drakon]: "2 турели?"
+
+[World] 7_AleX_3 [7_AleX_3]: "пж"
+
+[Group] Expert1337 [Expert13372284200]: "ага"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 41
+PlayerID: 76561198262878051 Name: Kolder Character: Kolder Ping: 56
+PlayerID: 76561198235802198 Name: Bodya Character: Bodya Ping: 130
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 161
+PlayerID: 76561198368930526 Name: LLlaxuD Character: LLlaxuD Ping: 139
+PlayerID: 76561198123840535 Name: ?????? Character: top Ping: 240
+PlayerID: 76561198289556960 Name: доширак Character: artiom$KI Ping: 167
+PlayerID: 76561198030393730 Name: heavy198 Character: heavy198 Ping: 140
+PlayerID: 76561198152563082 Name: Drakon Character: Stanat Ping: 130
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4293983171
+
+TimerTerminateCommand.Enabled with Bans:
+[World] 7_AleX_3 [7_AleX_3]: "я оже лететь хоч"
+
+END with Bans:
+[Group] Expert1337 [Expert13372284200]: "/give 1438"
+
+Successfully gave Expert13372284200 1438 x1!
+
+[World] 7_AleX_3 [7_AleX_3]: "выйди"
+
+[World] 7_AleX_3 [7_AleX_3]: "э"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 37
+PlayerID: 76561198262878051 Name: Kolder Character: Kolder Ping: 91
+PlayerID: 76561198235802198 Name: Bodya Character: Bodya Ping: 124
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 151
+PlayerID: 76561198368930526 Name: LLlaxuD Character: LLlaxuD Ping: 138
+PlayerID: 76561198123840535 Name: ?????? Character: top Ping: 330
+PlayerID: 76561198289556960 Name: доширак Character: artiom$KI Ping: 190
+PlayerID: 76561198030393730 Name: heavy198 Character: heavy198 Ping: 137
+PlayerID: 76561198152563082 Name: Drakon Character: Stanat Ping: 124
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4293983151
+
+END with Bans:
+[World] 7_AleX_3 [7_AleX_3]: "не приземляйся"
+
+[World] 7_AleX_3 [7_AleX_3]: "ток"
+
+[World] 7_AleX_3 [7_AleX_3]: "дай"
+
+[World] 7_AleX_3 [7_AleX_3]: "пж"
+
+[World] artiom$KI [доширак]: "ты не сможешь прога нужна"
+
+[World] 7_AleX_3 [7_AleX_3]: "выйди"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 41
+PlayerID: 76561198262878051 Name: Kolder Character: Kolder Ping: 51
+PlayerID: 76561198235802198 Name: Bodya Character: Bodya Ping: 128
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 124
+PlayerID: 76561198368930526 Name: LLlaxuD Character: LLlaxuD Ping: 137
+PlayerID: 76561198123840535 Name: ?????? Character: top Ping: 256
+PlayerID: 76561198289556960 Name: доширак Character: artiom$KI Ping: 173
+PlayerID: 76561198030393730 Name: heavy198 Character: heavy198 Ping: 137
+PlayerID: 76561198152563082 Name: Drakon Character: Stanat Ping: 135
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4293983131
+
+TimerTerminateCommand.Enabled with Bans:
+[World] 7_AleX_3 [7_AleX_3]: "какая"
+
+END with Bans:
+[Group] Stanat [Drakon]: "/i 1373 4"
+
+Не обработано: Дал Stanat вещь 1373:4
+Дал Stanat вещь 1373:4
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 154
+PlayerID: 76561198262878051 Name: Kolder Character: Kolder Ping: 53
+PlayerID: 76561198235802198 Name: Bodya Character: Bodya Ping: 128
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 149
+PlayerID: 76561198368930526 Name: LLlaxuD Character: LLlaxuD Ping: 141
+PlayerID: 76561198123840535 Name: ?????? Character: top Ping: 271
+PlayerID: 76561198289556960 Name: доширак Character: artiom$KI Ping: 156
+PlayerID: 76561198030393730 Name: heavy198 Character: heavy198 Ping: 141
+PlayerID: 76561198152563082 Name: Drakon Character: Stanat Ping: 139
+[World] 7_AleX_3 [7_AleX_3]: "выйди"
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4293983111
+
+END with Bans:
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 39
+PlayerID: 76561198262878051 Name: Kolder Character: Kolder Ping: 52
+PlayerID: 76561198235802198 Name: Bodya Character: Bodya Ping: 137
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 160
+PlayerID: 76561198368930526 Name: LLlaxuD Character: LLlaxuD Ping: 140
+PlayerID: 76561198123840535 Name: ?????? Character: top Ping: 104
+PlayerID: 76561198289556960 Name: доширак Character: artiom$KI Ping: 164
+PlayerID: 76561198030393730 Name: heavy198 Character: heavy198 Ping: 140
+PlayerID: 76561198152563082 Name: Drakon Character: Stanat Ping: 142
+
+Не обработано: MessageAnnouncer >> Broadcast: Внимание! PvP-режим по субботам! PvP-режим!!!
+TimerTerminateCommand.Enabled with Players:
+MessageAnnouncer >> Broadcast: Внимание! PvP-режим по субботам! PvP-режим!!!
+
+Не обработано: MessageAnnouncer >> Внимание! PvP-режим по субботам! PvP-режим!!!
+TimerTerminateCommand.Enabled with Players:
+MessageAnnouncer >> Внимание! PvP-режим по субботам! PvP-режим!!!
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4293983090
+
+TimerTerminateCommand.Enabled with Bans:
+[World] 7_AleX_3 [7_AleX_3]: "на что нажать"
+
+TimerTerminateCommand.Enabled with Bans:
+Connecting: PlayerID: 76561198051446787 Name: PUGNA Character: Opticor
+
+END with Bans:
+[World] artiom$KI [доширак]: "стрелачки"
+
+[Group] Expert1337 [Expert13372284200]: "/give 1382/2"
+
+Successfully gave Expert13372284200 1382 x2!
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 37
+PlayerID: 76561198262878051 Name: Kolder Character: Kolder Ping: 62
+PlayerID: 76561198235802198 Name: Bodya Character: Bodya Ping: 155
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 160
+PlayerID: 76561198368930526 Name: LLlaxuD Character: LLlaxuD Ping: 139
+PlayerID: 76561198123840535 Name: ?????? Character: top Ping: 275
+PlayerID: 76561198289556960 Name: доширак Character: artiom$KI Ping: 206
+PlayerID: 76561198030393730 Name: heavy198 Character: heavy198 Ping: 137
+PlayerID: 76561198152563082 Name: Drakon Character: Stanat Ping: 140
+PlayerID: 76561198051446787 Name: PUGNA Character: Opticor Ping: 43
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4293983071
+
+END with Bans:
+[World] 7_AleX_3 [7_AleX_3]: "какие"
+
+[Group] Stanat [Drakon]: "/i 126 4"
+
+Не обработано: Дал Stanat вещь 126:4
+Дал Stanat вещь 126:4
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 42
+PlayerID: 76561198262878051 Name: Kolder Character: Kolder Ping: 59
+PlayerID: 76561198235802198 Name: Bodya Character: Bodya Ping: 134
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 159
+PlayerID: 76561198368930526 Name: LLlaxuD Character: LLlaxuD Ping: 138
+PlayerID: 76561198123840535 Name: ?????? Character: top Ping: 456
+PlayerID: 76561198289556960 Name: доширак Character: artiom$KI Ping: 177
+PlayerID: 76561198030393730 Name: heavy198 Character: heavy198 Ping: 135
+PlayerID: 76561198152563082 Name: Drakon Character: Stanat Ping: 138
+PlayerID: 76561198051446787 Name: PUGNA Character: Opticor Ping: 97
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4293983051
+
+TimerTerminateCommand.Enabled with Bans:
+[Group] Expert1337 [Expert13372284200]: "/tp stan"
+
+Не обработано: Expert1337 телепортирован к Stanat
+TimerTerminateCommand.Enabled with Bans:
+Expert1337 телепортирован к Stanat
+
+END with Bans:
+[World] artiom$KI [доширак]: "я гаварю не палучетя у тебя"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 46
+PlayerID: 76561198262878051 Name: Kolder Character: Kolder Ping: 56
+PlayerID: 76561198235802198 Name: Bodya Character: Bodya Ping: 134
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 160
+PlayerID: 76561198368930526 Name: LLlaxuD Character: LLlaxuD Ping: 141
+PlayerID: 76561198123840535 Name: ?????? Character: top Ping: 60
+PlayerID: 76561198289556960 Name: доширак Character: artiom$KI Ping: 214
+PlayerID: 76561198030393730 Name: heavy198 Character: heavy198 Ping: 141
+PlayerID: 76561198152563082 Name: Drakon Character: Stanat Ping: 150
+PlayerID: 76561198051446787 Name: PUGNA Character: Opticor Ping: 25
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4293983031
+
+END with Bans:
+[World] artiom$KI [доширак]: "запраф машину"
+
+[World] Opticor [PUGNA]: "/kit start"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 74
+PlayerID: 76561198262878051 Name: Kolder Character: Kolder Ping: 59
+PlayerID: 76561198235802198 Name: Bodya Character: Bodya Ping: 128
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 157
+PlayerID: 76561198368930526 Name: LLlaxuD Character: LLlaxuD Ping: 139
+PlayerID: 76561198123840535 Name: ?????? Character: top Ping: 245
+PlayerID: 76561198289556960 Name: доширак Character: artiom$KI Ping: 232
+PlayerID: 76561198030393730 Name: heavy198 Character: heavy198 Ping: 137
+PlayerID: 76561198152563082 Name: Drakon Character: Stanat Ping: 147
+PlayerID: 76561198051446787 Name: PUGNA Character: Opticor Ping: 31
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4293983011
+
+END with Bans:
+[Group] Expert1337 [Expert13372284200]: "я ща"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 65
+PlayerID: 76561198262878051 Name: Kolder Character: Kolder Ping: 56
+PlayerID: 76561198235802198 Name: Bodya Character: Bodya Ping: 128
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 147
+PlayerID: 76561198368930526 Name: LLlaxuD Character: LLlaxuD Ping: 139
+PlayerID: 76561198123840535 Name: ?????? Character: top Ping: 211
+PlayerID: 76561198289556960 Name: доширак Character: artiom$KI Ping: 179
+PlayerID: 76561198030393730 Name: heavy198 Character: heavy198 Ping: 138
+PlayerID: 76561198152563082 Name: Drakon Character: Stanat Ping: 144
+PlayerID: 76561198051446787 Name: PUGNA Character: Opticor Ping: 125
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4293982991
+
+END with Bans:
+[Group] Expert1337 [Expert13372284200]: "побегаю немного"
+
+[World] 7_AleX_3 [7_AleX_3]: "взлетай"
+
+[Group] Expert1337 [Expert13372284200]: "/tp bodya"
+
+Не обработано: Expert1337 телепортирован к Bodya
+Expert1337 телепортирован к Bodya
+
+[Group] Stanat [Drakon]: "jr"
+
+[Group] Stanat [Drakon]: "ок"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 119
+PlayerID: 76561198262878051 Name: Kolder Character: Kolder Ping: 53
+PlayerID: 76561198235802198 Name: Bodya Character: Bodya Ping: 123
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 160
+PlayerID: 76561198368930526 Name: LLlaxuD Character: LLlaxuD Ping: 138
+PlayerID: 76561198123840535 Name: ?????? Character: top Ping: 80
+PlayerID: 76561198289556960 Name: доширак Character: artiom$KI Ping: 201
+PlayerID: 76561198030393730 Name: heavy198 Character: heavy198 Ping: 140
+PlayerID: 76561198152563082 Name: Drakon Character: Stanat Ping: 147
+PlayerID: 76561198051446787 Name: PUGNA Character: Opticor Ping: 37
+
+Не обработано: MessageAnnouncer >> Broadcast: vk.com/unturned_hgm - группа сервера ВК, уникальный кит в записи!
+TimerTerminateCommand.Enabled with Players:
+MessageAnnouncer >> Broadcast: vk.com/unturned_hgm - группа сервера ВК, уникальный кит в записи!
+
+Не обработано: MessageAnnouncer >> vk.com/unturned_hgm - группа сервера ВК, уникальный кит в записи!
+TimerTerminateCommand.Enabled with Players:
+MessageAnnouncer >> vk.com/unturned_hgm - группа сервера ВК, уникальный кит в записи!
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4293982970
+
+END with Bans:
+[World] 7_AleX_3 [7_AleX_3]: "уже"
+
+[World] 7_AleX_3 [7_AleX_3]: "нуже"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 81
+PlayerID: 76561198262878051 Name: Kolder Character: Kolder Ping: 56
+PlayerID: 76561198235802198 Name: Bodya Character: Bodya Ping: 137
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 165
+PlayerID: 76561198368930526 Name: LLlaxuD Character: LLlaxuD Ping: 140
+PlayerID: 76561198123840535 Name: ?????? Character: top Ping: 135
+PlayerID: 76561198289556960 Name: доширак Character: artiom$KI Ping: 171
+PlayerID: 76561198030393730 Name: heavy198 Character: heavy198 Ping: 136
+PlayerID: 76561198152563082 Name: Drakon Character: Stanat Ping: 141
+PlayerID: 76561198051446787 Name: PUGNA Character: Opticor Ping: 28
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4293982951
+
+END with Bans:
+[World] Kolder [Kolder]: "/home"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 36
+PlayerID: 76561198262878051 Name: Kolder Character: Kolder Ping: 70
+PlayerID: 76561198235802198 Name: Bodya Character: Bodya Ping: 122
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 151
+PlayerID: 76561198368930526 Name: LLlaxuD Character: LLlaxuD Ping: 139
+PlayerID: 76561198123840535 Name: ?????? Character: top Ping: 261
+PlayerID: 76561198289556960 Name: доширак Character: artiom$KI Ping: 184
+PlayerID: 76561198030393730 Name: heavy198 Character: heavy198 Ping: 139
+PlayerID: 76561198152563082 Name: Drakon Character: Stanat Ping: 148
+PlayerID: 76561198051446787 Name: PUGNA Character: Opticor Ping: 31
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4293982931
+
+END with Bans:
+[World] Expert1337 [Expert13372284200]: "/give 1027/2"
+
+Successfully gave Expert13372284200 1027 x2!
+
+[World] 7_AleX_3 [7_AleX_3]: "ну"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 40
+PlayerID: 76561198262878051 Name: Kolder Character: Kolder Ping: 55
+PlayerID: 76561198235802198 Name: Bodya Character: Bodya Ping: 121
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 135
+PlayerID: 76561198368930526 Name: LLlaxuD Character: LLlaxuD Ping: 139
+PlayerID: 76561198123840535 Name: ?????? Character: top Ping: 186
+PlayerID: 76561198289556960 Name: доширак Character: artiom$KI Ping: 249
+PlayerID: 76561198030393730 Name: heavy198 Character: heavy198 Ping: 139
+PlayerID: 76561198152563082 Name: Drakon Character: Stanat Ping: 143
+PlayerID: 76561198051446787 Name: PUGNA Character: Opticor Ping: 33
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4293982911
+
+END with Bans:
+[World] 7_AleX_3 [7_AleX_3]: "правей"
+
+[World] Expert1337 [Expert13372284200]: "/give 15/10"
+
+[Group] Stanat [Drakon]: "/night"
+
+Successfully set time to night!
+
+[World] Expert1337 [Expert13372284200]: "7 сек"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 50
+PlayerID: 76561198262878051 Name: Kolder Character: Kolder Ping: 53
+PlayerID: 76561198235802198 Name: Bodya Character: Bodya Ping: 120
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 151
+PlayerID: 76561198368930526 Name: LLlaxuD Character: LLlaxuD Ping: 137
+PlayerID: 76561198123840535 Name: ?????? Character: top Ping: 266
+PlayerID: 76561198289556960 Name: доширак Character: artiom$KI Ping: 180
+PlayerID: 76561198030393730 Name: heavy198 Character: heavy198 Ping: 138
+PlayerID: 76561198152563082 Name: Drakon Character: Stanat Ping: 142
+PlayerID: 76561198051446787 Name: PUGNA Character: Opticor Ping: 32
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4293982891
+
+END with Bans:
+[World] Kolder [Kolder]: "/tpa expert"
+
+[World] Expert1337 [Expert13372284200]: "/give 1199"
+
+Successfully gave Expert13372284200 1199 x1!
+
+[World] 7_AleX_3 [7_AleX_3]: "ну"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 39
+PlayerID: 76561198262878051 Name: Kolder Character: Kolder Ping: 54
+PlayerID: 76561198235802198 Name: Bodya Character: Bodya Ping: 130
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 153
+PlayerID: 76561198368930526 Name: LLlaxuD Character: LLlaxuD Ping: 137
+PlayerID: 76561198123840535 Name: ?????? Character: top Ping: 242
+PlayerID: 76561198289556960 Name: доширак Character: artiom$KI Ping: 208
+PlayerID: 76561198030393730 Name: heavy198 Character: heavy198 Ping: 139
+PlayerID: 76561198152563082 Name: Drakon Character: Stanat Ping: 151
+PlayerID: 76561198051446787 Name: PUGNA Character: Opticor Ping: 73
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4293982871
+
+TimerTerminateCommand.Enabled with Bans:
+[World] artiom$KI [доширак]: "бляяяяяяя"
+
+END with Bans:
+Connecting: PlayerID: 76561198195806478 Name: TheGamingEnder Character: TheGamingEnder
+
+[World] 7_AleX_3 [7_AleX_3]: "взлети"
+
+[World] artiom$KI [доширак]: "я палёт не выключил"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 44
+PlayerID: 76561198262878051 Name: Kolder Character: Kolder Ping: 55
+PlayerID: 76561198235802198 Name: Bodya Character: Bodya Ping: 124
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 146
+PlayerID: 76561198368930526 Name: LLlaxuD Character: LLlaxuD Ping: 140
+PlayerID: 76561198123840535 Name: ?????? Character: top Ping: 171
+PlayerID: 76561198289556960 Name: доширак Character: artiom$KI Ping: 181
+PlayerID: 76561198030393730 Name: heavy198 Character: heavy198 Ping: 141
+PlayerID: 76561198152563082 Name: Drakon Character: Stanat Ping: 141
+PlayerID: 76561198051446787 Name: PUGNA Character: Opticor Ping: 43
+PlayerID: 76561198195806478 Name: TheGamingEnder Character: TheGamingEnder Ping: 281
+
+Не обработано: MessageAnnouncer >> Broadcast: Наберите /kit help, чтобы получить первую мед. помощь (бинты, таблетки, еда)
+TimerTerminateCommand.Enabled with Players:
+MessageAnnouncer >> Broadcast: Наберите /kit help, чтобы получить первую мед. помощь (бинты, таблетки, еда)
+
+Не обработано: MessageAnnouncer >> Наберите /kit help, чтобы получить первую мед. помощь (бинты, таблетки, еда)
+TimerTerminateCommand.Enabled with Players:
+MessageAnnouncer >> Наберите /kit help, чтобы получить первую мед. помощь (бинты, таблетки, еда)
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4293982850
+
+TimerTerminateCommand.Enabled with Bans:
+[World] Kolder [Kolder]: "/home"
+
+Не обработано: Kolder moved x:485.2741 y:71.47736(+33.00004) z:-832.8241 in the last second (0.2379227)
+TimerTerminateCommand.Enabled with Bans:
+Kolder moved x:485.2741 y:71.47736(+33.00004) z:-832.8241 in the last second (0.2379227)
+
+END with Bans:
+[World] artiom$KI [доширак]: "не смагу сесть"
+
+[World] top [??????]: "у меня самолет"
+
+[World] TheGamingEnder [TheGamingEnder]: "@give /1010"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 41
+PlayerID: 76561198262878051 Name: Kolder Character: Kolder Ping: 52
+PlayerID: 76561198235802198 Name: Bodya Character: Bodya Ping: 135
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 149
+PlayerID: 76561198368930526 Name: LLlaxuD Character: LLlaxuD Ping: 140
+PlayerID: 76561198123840535 Name: ?????? Character: top Ping: 173
+PlayerID: 76561198289556960 Name: доширак Character: artiom$KI Ping: 170
+PlayerID: 76561198030393730 Name: heavy198 Character: heavy198 Ping: 140
+PlayerID: 76561198152563082 Name: Drakon Character: Stanat Ping: 143
+PlayerID: 76561198051446787 Name: PUGNA Character: Opticor Ping: 27
+PlayerID: 76561198195806478 Name: TheGamingEnder Character: TheGamingEnder Ping: 124
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+[World] TheGamingEnder [TheGamingEnder]: "@buy /1010"
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4293982831
+
+END with Bans:
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 43
+PlayerID: 76561198262878051 Name: Kolder Character: Kolder Ping: 52
+PlayerID: 76561198235802198 Name: Bodya Character: Bodya Ping: 128
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 161
+PlayerID: 76561198368930526 Name: LLlaxuD Character: LLlaxuD Ping: 139
+PlayerID: 76561198123840535 Name: ?????? Character: top Ping: 84
+PlayerID: 76561198289556960 Name: доширак Character: artiom$KI Ping: 239
+PlayerID: 76561198030393730 Name: heavy198 Character: heavy198 Ping: 148
+PlayerID: 76561198152563082 Name: Drakon Character: Stanat Ping: 144
+PlayerID: 76561198051446787 Name: PUGNA Character: Opticor Ping: 23
+PlayerID: 76561198195806478 Name: TheGamingEnder Character: TheGamingEnder Ping: 229
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4293982811
+
+END with Bans:
+[World] Opticor [PUGNA]: "обмороки ! время дня и ночи не трогайте!"
+
+Disconnecting: PlayerID: 76561198262878051 Name: Kolder Character: Kolder
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 38
+PlayerID: 76561198235802198 Name: Bodya Character: Bodya Ping: 126
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 167
+PlayerID: 76561198368930526 Name: LLlaxuD Character: LLlaxuD Ping: 140
+PlayerID: 76561198123840535 Name: ?????? Character: top Ping: 74
+PlayerID: 76561198289556960 Name: доширак Character: artiom$KI Ping: 195
+PlayerID: 76561198030393730 Name: heavy198 Character: heavy198 Ping: 133
+PlayerID: 76561198152563082 Name: Drakon Character: Stanat Ping: 155
+PlayerID: 76561198051446787 Name: PUGNA Character: Opticor Ping: 31
+PlayerID: 76561198195806478 Name: TheGamingEnder Character: TheGamingEnder Ping: 239
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4293982791
+
+TimerTerminateCommand.Enabled with Bans:
+[World] Expert1337 [Expert13372284200]: "я ща приду"
+
+END with Bans:
+[World] Expert1337 [Expert13372284200]: "я в god"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 40
+PlayerID: 76561198235802198 Name: Bodya Character: Bodya Ping: 132
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 158
+PlayerID: 76561198368930526 Name: LLlaxuD Character: LLlaxuD Ping: 146
+PlayerID: 76561198123840535 Name: ?????? Character: top Ping: 101
+PlayerID: 76561198289556960 Name: доширак Character: artiom$KI Ping: 177
+PlayerID: 76561198030393730 Name: heavy198 Character: heavy198 Ping: 150
+PlayerID: 76561198152563082 Name: Drakon Character: Stanat Ping: 152
+PlayerID: 76561198051446787 Name: PUGNA Character: Opticor Ping: 21
+PlayerID: 76561198195806478 Name: TheGamingEnder Character: TheGamingEnder Ping: 335
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4293982771
+
+END with Bans:
+[World] 7_AleX_3 [7_AleX_3]: "/tpa expe"
+
+[World] 7_AleX_3 [7_AleX_3]: "эксперт"
+
+[World] 7_AleX_3 [7_AleX_3]: "пж прими"
+
+[World] 7_AleX_3 [7_AleX_3]: "или делай инвент"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 40
+PlayerID: 76561198235802198 Name: Bodya Character: Bodya Ping: 124
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 167
+PlayerID: 76561198368930526 Name: LLlaxuD Character: LLlaxuD Ping: 142
+PlayerID: 76561198123840535 Name: ?????? Character: top Ping: 105
+PlayerID: 76561198289556960 Name: доширак Character: artiom$KI Ping: 262
+PlayerID: 76561198030393730 Name: heavy198 Character: heavy198 Ping: 142
+PlayerID: 76561198152563082 Name: Drakon Character: Stanat Ping: 149
+PlayerID: 76561198051446787 Name: PUGNA Character: Opticor Ping: 31
+PlayerID: 76561198195806478 Name: TheGamingEnder Character: TheGamingEnder Ping: 190
+
+TimerTerminateCommand.Enabled with Players:
+[Group] Stanat [Drakon]: "какой айди светильника"
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4293982749
+
+END with Bans:
+Connecting: PlayerID: 76561198247269044 Name: SpaceMan Character: КрасноглазыйЧерножоп
+
+[Group] Stanat [Drakon]: "ну лампы"
+
+[Group] Stanat [Drakon]: "этой"
+
+[Group] Stanat [Drakon]: "настенной"
+
+Client has executed command "players"
+
+Не обработано: PlayerInfoLib >> No expired player info records found for this batch.
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 39
+PlayerID: 76561198235802198 Name: Bodya Character: Bodya Ping: 129
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 166
+PlayerID: 76561198368930526 Name: LLlaxuD Character: LLlaxuD Ping: 142
+PlayerID: 76561198123840535 Name: ?????? Character: top Ping: 99
+PlayerID: 76561198289556960 Name: доширак Character: artiom$KI Ping: 389
+PlayerID: 76561198030393730 Name: heavy198 Character: heavy198 Ping: 140
+PlayerID: 76561198152563082 Name: Drakon Character: Stanat Ping: 156
+PlayerID: 76561198051446787 Name: PUGNA Character: Opticor Ping: 20
+PlayerID: 76561198195806478 Name: TheGamingEnder Character: TheGamingEnder Ping: 292
+PlayerID: 76561198247269044 Name: SpaceMan Character: КрасноглазыйЧерножоп Ping: 37
+PlayerInfoLib >> No expired player info records found for this batch.
+
+Не обработано: MessageAnnouncer >> Broadcast: vk.com/unturned_hgm - цены на премиум, VIP и другие услуги смотрите в группе!
+TimerTerminateCommand.Enabled with Players:
+MessageAnnouncer >> Broadcast: vk.com/unturned_hgm - цены на премиум, VIP и другие услуги смотрите в группе!
+
+Не обработано: MessageAnnouncer >> vk.com/unturned_hgm - цены на премиум, VIP и другие услуги смотрите в группе!
+TimerTerminateCommand.Enabled with Players:
+MessageAnnouncer >> vk.com/unturned_hgm - цены на премиум, VIP и другие услуги смотрите в группе!
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4293982730
+
+TimerTerminateCommand.Enabled with Bans:
+[World] top [??????]: "пацаны зделайте день"
+
+END with Bans:
+[World] КрасноглазыйЧерножоп [SpaceMan]: "/give 12"
+
+[World] Stanat [Drakon]: "да ночь тож норм"
+
+[World] КрасноглазыйЧерножоп [SpaceMan]: "/kit start"
+
+[World] 7_AleX_3 [7_AleX_3]: "инвент  давайте"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 38
+PlayerID: 76561198235802198 Name: Bodya Character: Bodya Ping: 127
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 153
+PlayerID: 76561198368930526 Name: LLlaxuD Character: LLlaxuD Ping: 137
+PlayerID: 76561198123840535 Name: ?????? Character: top Ping: 98
+PlayerID: 76561198289556960 Name: доширак Character: artiom$KI Ping: 580
+PlayerID: 76561198030393730 Name: heavy198 Character: heavy198 Ping: 141
+PlayerID: 76561198152563082 Name: Drakon Character: Stanat Ping: 144
+PlayerID: 76561198051446787 Name: PUGNA Character: Opticor Ping: 36
+PlayerID: 76561198195806478 Name: TheGamingEnder Character: TheGamingEnder Ping: 502
+PlayerID: 76561198247269044 Name: SpaceMan Character: КрасноглазыйЧерножоп Ping: 43
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4293982711
+
+TimerTerminateCommand.Enabled with Bans:
+[World] Stanat [Drakon]: "+ я чекаю систему освещения"
+
+TimerTerminateCommand.Enabled with Bans:
+Connecting: PlayerID: 76561198397238388 Name: nikita-zakharov-1999 Character: nikita-zakharov-1999
+
+TimerTerminateCommand.Enabled with Bans:
+Client has executed command "say "Opticorm privet" 192 192 192"
+
+END with Bans:
+Client has executed command "say "Kakie lyudi" 192 192 192"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 42
+PlayerID: 76561198235802198 Name: Bodya Character: Bodya Ping: 138
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 151
+PlayerID: 76561198368930526 Name: LLlaxuD Character: LLlaxuD Ping: 135
+PlayerID: 76561198123840535 Name: ?????? Character: top Ping: 249
+PlayerID: 76561198289556960 Name: доширак Character: artiom$KI Ping: 317
+PlayerID: 76561198030393730 Name: heavy198 Character: heavy198 Ping: 135
+PlayerID: 76561198152563082 Name: Drakon Character: Stanat Ping: 145
+PlayerID: 76561198051446787 Name: PUGNA Character: Opticor Ping: 28
+PlayerID: 76561198195806478 Name: TheGamingEnder Character: TheGamingEnder Ping: 188
+PlayerID: 76561198247269044 Name: SpaceMan Character: КрасноглазыйЧерножоп Ping: 45
+PlayerID: 76561198397238388 Name: nikita-zakharov-1999 Character: nikita-zakharov-1999 Ping: 239
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4293982691
+
+TimerTerminateCommand.Enabled with Bans:
+[World] Opticor [PUGNA]: ":)"
+
+TimerTerminateCommand.Enabled with Bans:
+[World] top [??????]: "сделайте день"
+
+END with Bans:
+[World] nikita-zakharov-1999 [nikita-zakharov-1999]: "/kits"
+
+[World] Opticor [PUGNA]: "скучно стало решил проведать ..."
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 36
+PlayerID: 76561198235802198 Name: Bodya Character: Bodya Ping: 128
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 170
+PlayerID: 76561198368930526 Name: LLlaxuD Character: LLlaxuD Ping: 136
+PlayerID: 76561198123840535 Name: ?????? Character: top Ping: 125
+PlayerID: 76561198289556960 Name: доширак Character: artiom$KI Ping: 155
+PlayerID: 76561198030393730 Name: heavy198 Character: heavy198 Ping: 147
+PlayerID: 76561198152563082 Name: Drakon Character: Stanat Ping: 142
+PlayerID: 76561198051446787 Name: PUGNA Character: Opticor Ping: 21
+PlayerID: 76561198195806478 Name: TheGamingEnder Character: TheGamingEnder Ping: 240
+PlayerID: 76561198247269044 Name: SpaceMan Character: КрасноглазыйЧерножоп Ping: 36
+PlayerID: 76561198397238388 Name: nikita-zakharov-1999 Character: nikita-zakharov-1999 Ping: 51
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4293982671
+
+END with Bans:
+Client has executed command "say "Ekspert, khorosh balovat'sya vremenem sutok" 192 192 192"
+
+[World] nikita-zakharov-1999 [nikita-zakharov-1999]: "/kit start"
+
+[World] Opticor [PUGNA]: "как всегда не в восторге ..."
+
+[World] Stanat [Drakon]: "/day"
+
+Successfully set time to day!
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 40
+PlayerID: 76561198235802198 Name: Bodya Character: Bodya Ping: 152
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 154
+PlayerID: 76561198368930526 Name: LLlaxuD Character: LLlaxuD Ping: 136
+PlayerID: 76561198123840535 Name: ?????? Character: top Ping: 94
+PlayerID: 76561198289556960 Name: доширак Character: artiom$KI Ping: 170
+PlayerID: 76561198030393730 Name: heavy198 Character: heavy198 Ping: 144
+PlayerID: 76561198152563082 Name: Drakon Character: Stanat Ping: 150
+PlayerID: 76561198051446787 Name: PUGNA Character: Opticor Ping: 30
+PlayerID: 76561198195806478 Name: TheGamingEnder Character: TheGamingEnder Ping: 111
+PlayerID: 76561198247269044 Name: SpaceMan Character: КрасноглазыйЧерножоп Ping: 52
+PlayerID: 76561198397238388 Name: nikita-zakharov-1999 Character: nikita-zakharov-1999 Ping: 55
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4293982651
+
+TimerTerminateCommand.Enabled with Bans:
+[World] Opticor [PUGNA]: "админы хернёй маятся"
+
+TimerTerminateCommand.Enabled with Bans:
+[World] Stanat [Drakon]: "это я"
+
+TimerTerminateCommand.Enabled with Bans:
+[World] 7_AleX_3 [7_AleX_3]: "эксперт"
+
+END with Bans:
+Client has executed command "say "Opticor, khosh' ivent?" 192 192 192"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 38
+PlayerID: 76561198235802198 Name: Bodya Character: Bodya Ping: 125
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 168
+PlayerID: 76561198368930526 Name: LLlaxuD Character: LLlaxuD Ping: 140
+PlayerID: 76561198123840535 Name: ?????? Character: top Ping: 176
+PlayerID: 76561198289556960 Name: доширак Character: artiom$KI Ping: 233
+PlayerID: 76561198030393730 Name: heavy198 Character: heavy198 Ping: 136
+PlayerID: 76561198152563082 Name: Drakon Character: Stanat Ping: 137
+PlayerID: 76561198051446787 Name: PUGNA Character: Opticor Ping: 28
+PlayerID: 76561198195806478 Name: TheGamingEnder Character: TheGamingEnder Ping: 173
+PlayerID: 76561198247269044 Name: SpaceMan Character: КрасноглазыйЧерножоп Ping: 53
+PlayerID: 76561198397238388 Name: nikita-zakharov-1999 Character: nikita-zakharov-1999 Ping: 57
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4293982631
+
+END with Bans:
+[World] Opticor [PUGNA]: "мне безразлично , я достаю всё своими силами"
+
+[World] top [??????]: "кого прокатить на самолете"
+
+Вызван массовый Airdrop (x10)
+Client has executed command "airdrop"
+Successfully set airdrop!
+
+Client has executed command "airdrop"
+
+Successfully set airdrop!
+
+Client has executed command "airdrop"
+
+Successfully set airdrop!
+
+Client has executed command "airdrop"
+
+Successfully set airdrop!
+
+Client has executed command "airdrop"
+
+Successfully set airdrop!
+
+Client has executed command "airdrop"
+
+Successfully set airdrop!
+
+Client has executed command "airdrop"
+
+Successfully set airdrop!
+Client has executed command "airdrop"
+
+Successfully set airdrop!
+
+Client has executed command "airdrop"
+
+Successfully set airdrop!
+
+Client has executed command "airdrop"
+
+Successfully set airdrop!
+
+TimerTerminateCommand.Enabled with Players:
+Client has executed command "players"
+Players:
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 42
+PlayerID: 76561198235802198 Name: Bodya Character: Bodya Ping: 128
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 165
+PlayerID: 76561198368930526 Name: LLlaxuD Character: LLlaxuD Ping: 137
+PlayerID: 76561198123840535 Name: ?????? Character: top Ping: 163
+
+TimerTerminateCommand.Enabled with Players:
+PlayerID: 76561198289556960 Name: доширак Character: artiom$KI Ping: 229
+PlayerID: 76561198030393730 Name: heavy198 Character: heavy198 Ping: 142
+PlayerID: 76561198152563082 Name: Drakon Character: Stanat Ping: 145
+PlayerID: 76561198051446787 Name: PUGNA Character: Opticor Ping: 27
+PlayerID: 76561198195806478 Name: TheGamingEnder Character: TheGamingEnder Ping: 151
+PlayerID: 76561198247269044 Name: SpaceMan Character: КрасноглазыйЧерножоп Ping: 62
+PlayerID: 76561198397238388 Name: nikita-zakharov-1999 Character: nikita-zakharov-1999 Ping: 50
+
+Не обработано: MessageAnnouncer >> Broadcast: Наберите /kit claim, чтобы получить Claim Flag
+Не обработано: MessageAnnouncer >> Наберите /kit claim, чтобы получить Claim Flag
+TimerTerminateCommand.Enabled with Players:
+MessageAnnouncer >> Broadcast: Наберите /kit claim, чтобы получить Claim Flag
+MessageAnnouncer >> Наберите /kit claim, чтобы получить Claim Flag
+
+TimerTerminateCommand.Enabled with Players:
+[World] 7_AleX_3 [7_AleX_3]: "меня"
+
+TimerTerminateCommand.Enabled with Players:
+[World] TheGamingEnder [TheGamingEnder]: "cuka blyet"
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4293982609
+
+END with Bans:
+[World] 7_AleX_3 [7_AleX_3]: "ура"
+
+[World] 7_AleX_3 [7_AleX_3]: "е"
+
+[World] Stanat [Drakon]: "/tp 1337"
+
+Не обработано: Stanat телепортирован к Expert1337
+Stanat телепортирован к Expert1337
+
+[World] top [??????]: "/home"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 37
+PlayerID: 76561198235802198 Name: Bodya Character: Bodya Ping: 116
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 159
+PlayerID: 76561198368930526 Name: LLlaxuD Character: LLlaxuD Ping: 137
+PlayerID: 76561198123840535 Name: ?????? Character: top Ping: 146
+PlayerID: 76561198289556960 Name: доширак Character: artiom$KI Ping: 192
+PlayerID: 76561198030393730 Name: heavy198 Character: heavy198 Ping: 141
+PlayerID: 76561198152563082 Name: Drakon Character: Stanat Ping: 139
+PlayerID: 76561198051446787 Name: PUGNA Character: Opticor Ping: 25
+PlayerID: 76561198195806478 Name: TheGamingEnder Character: TheGamingEnder Ping: 133
+PlayerID: 76561198247269044 Name: SpaceMan Character: КрасноглазыйЧерножоп Ping: 46
+PlayerID: 76561198397238388 Name: nikita-zakharov-1999 Character: nikita-zakharov-1999 Ping: 48
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4293982591
+
+TimerTerminateCommand.Enabled with Bans:
+[World] Stanat [Drakon]: "/vehicle 140"
+
+TimerTerminateCommand.Enabled with Bans:
+Successfully gave Drakon 140!
+
+END with Bans:
+Не обработано: DeathMessagesRemastered >> Broadcast: artiom$KI совершил суецид!
+DeathMessagesRemastered >> Broadcast: artiom$KI совершил суецид!
+
+Не обработано: DropManager >> 3
+Не обработано: artiom$KI [доширак] killed themself.
+DropManager >> 3
+artiom$KI [доширак] killed themself.
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 37
+PlayerID: 76561198235802198 Name: Bodya Character: Bodya Ping: 120
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 158
+PlayerID: 76561198368930526 Name: LLlaxuD Character: LLlaxuD Ping: 137
+PlayerID: 76561198123840535 Name: ?????? Character: top Ping: 206
+PlayerID: 76561198289556960 Name: доширак Character: artiom$KI Ping: 177
+PlayerID: 76561198030393730 Name: heavy198 Character: heavy198 Ping: 145
+PlayerID: 76561198152563082 Name: Drakon Character: Stanat Ping: 141
+PlayerID: 76561198051446787 Name: PUGNA Character: Opticor Ping: 26
+PlayerID: 76561198195806478 Name: TheGamingEnder Character: TheGamingEnder Ping: 111
+PlayerID: 76561198247269044 Name: SpaceMan Character: КрасноглазыйЧерножоп Ping: 48
+PlayerID: 76561198397238388 Name: nikita-zakharov-1999 Character: nikita-zakharov-1999 Ping: 54
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4293982571
+
+END with Bans:
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 37
+PlayerID: 76561198235802198 Name: Bodya Character: Bodya Ping: 128
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 156
+PlayerID: 76561198368930526 Name: LLlaxuD Character: LLlaxuD Ping: 142
+PlayerID: 76561198123840535 Name: ?????? Character: top Ping: 259
+PlayerID: 76561198289556960 Name: доширак Character: artiom$KI Ping: 165
+PlayerID: 76561198030393730 Name: heavy198 Character: heavy198 Ping: 143
+PlayerID: 76561198152563082 Name: Drakon Character: Stanat Ping: 152
+PlayerID: 76561198051446787 Name: PUGNA Character: Opticor Ping: 23
+PlayerID: 76561198195806478 Name: TheGamingEnder Character: TheGamingEnder Ping: 115
+PlayerID: 76561198247269044 Name: SpaceMan Character: КрасноглазыйЧерножоп Ping: 173
+PlayerID: 76561198397238388 Name: nikita-zakharov-1999 Character: nikita-zakharov-1999 Ping: 53
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4293982551
+
+END with Bans:
+Disconnecting: PlayerID: 76561198247269044 Name: SpaceMan Character: КрасноглазыйЧерножоп
+
+[World] Stanat [Drakon]: "/god"
+
+Не обработано: Stanat включен Godmode
+Stanat включен Godmode
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 34
+PlayerID: 76561198235802198 Name: Bodya Character: Bodya Ping: 131
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 157
+PlayerID: 76561198368930526 Name: LLlaxuD Character: LLlaxuD Ping: 144
+PlayerID: 76561198123840535 Name: ?????? Character: top Ping: 115
+PlayerID: 76561198289556960 Name: доширак Character: artiom$KI Ping: 168
+PlayerID: 76561198030393730 Name: heavy198 Character: heavy198 Ping: 140
+PlayerID: 76561198152563082 Name: Drakon Character: Stanat Ping: 169
+PlayerID: 76561198051446787 Name: PUGNA Character: Opticor Ping: 28
+PlayerID: 76561198195806478 Name: TheGamingEnder Character: TheGamingEnder Ping: 123
+PlayerID: 76561198397238388 Name: nikita-zakharov-1999 Character: nikita-zakharov-1999 Ping: 57
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4293982531
+
+END with Bans:
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 35
+PlayerID: 76561198235802198 Name: Bodya Character: Bodya Ping: 137
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 165
+PlayerID: 76561198368930526 Name: LLlaxuD Character: LLlaxuD Ping: 135
+PlayerID: 76561198123840535 Name: ?????? Character: top Ping: 73
+PlayerID: 76561198289556960 Name: доширак Character: artiom$KI Ping: 186
+PlayerID: 76561198030393730 Name: heavy198 Character: heavy198 Ping: 149
+PlayerID: 76561198152563082 Name: Drakon Character: Stanat Ping: 144
+PlayerID: 76561198051446787 Name: PUGNA Character: Opticor Ping: 29
+PlayerID: 76561198195806478 Name: TheGamingEnder Character: TheGamingEnder Ping: 109
+PlayerID: 76561198397238388 Name: nikita-zakharov-1999 Character: nikita-zakharov-1999 Ping: 53
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4293982511
+
+END with Bans:
+[World] 7_AleX_3 [7_AleX_3]: "модер не летай"
+
+Не обработано: Stanat moved x:758.9308 y:83.97422(+45.86803) z:-462.4417 in the last second (6.535378)
+Stanat moved x:758.9308 y:83.97422(+45.86803) z:-462.4417 in the last second (6.535378)
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 42
+PlayerID: 76561198235802198 Name: Bodya Character: Bodya Ping: 130
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 153
+PlayerID: 76561198368930526 Name: LLlaxuD Character: LLlaxuD Ping: 140
+PlayerID: 76561198123840535 Name: ?????? Character: top Ping: 66
+PlayerID: 76561198289556960 Name: доширак Character: artiom$KI Ping: 166
+PlayerID: 76561198030393730 Name: heavy198 Character: heavy198 Ping: 138
+PlayerID: 76561198152563082 Name: Drakon Character: Stanat Ping: 140
+PlayerID: 76561198051446787 Name: PUGNA Character: Opticor Ping: 36
+PlayerID: 76561198195806478 Name: TheGamingEnder Character: TheGamingEnder Ping: 115
+PlayerID: 76561198397238388 Name: nikita-zakharov-1999 Character: nikita-zakharov-1999 Ping: 46
+
+Не обработано: MessageAnnouncer >> Broadcast: Если модератор ведёт себя неподобающе, пишите в группу или ЛС (vk.com/unturned_hgm, vk.com/hemulgm)
+TimerTerminateCommand.Enabled with Players:
+MessageAnnouncer >> Broadcast: Если модератор ведёт себя неподобающе, пишите в группу или ЛС (vk.com/unturned_hgm, vk.com/hemulgm)
+
+Не обработано: MessageAnnouncer >> Если модератор ведёт себя неподобающе, пишите в группу или ЛС (vk.com/unturned_hgm, vk.com/hemulgm)
+TimerTerminateCommand.Enabled with Players:
+MessageAnnouncer >> Если модератор ведёт себя неподобающе, пишите в группу или ЛС (vk.com/unturned_hgm, vk.com/hemulgm)
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4293982490
+
+TimerTerminateCommand.Enabled with Bans:
+Connecting: PlayerID: 76561198247269044 Name: SpaceMan Character: КрасноглазыйЧерножоп
+
+END with Bans:
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 39
+PlayerID: 76561198235802198 Name: Bodya Character: Bodya Ping: 132
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 159
+PlayerID: 76561198368930526 Name: LLlaxuD Character: LLlaxuD Ping: 134
+PlayerID: 76561198123840535 Name: ?????? Character: top Ping: 145
+PlayerID: 76561198289556960 Name: доширак Character: artiom$KI Ping: 166
+PlayerID: 76561198030393730 Name: heavy198 Character: heavy198 Ping: 145
+PlayerID: 76561198152563082 Name: Drakon Character: Stanat Ping: 144
+PlayerID: 76561198051446787 Name: PUGNA Character: Opticor Ping: 30
+PlayerID: 76561198195806478 Name: TheGamingEnder Character: TheGamingEnder Ping: 144
+PlayerID: 76561198397238388 Name: nikita-zakharov-1999 Character: nikita-zakharov-1999 Ping: 65
+PlayerID: 76561198247269044 Name: SpaceMan Character: КрасноглазыйЧерножоп Ping: 51
+
+TimerTerminateCommand.Enabled with Players:
+[World] Stanat [Drakon]: "/i 67 10"
+
+Не обработано: Дал Stanat вещь 67:10
+TimerTerminateCommand.Enabled with Players:
+Дал Stanat вещь 67:10
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4293982469
+
+END with Bans:
+Не обработано: DeathMessagesRemastered >> Broadcast: TheGamingEnder был съеден зомби! 
+DeathMessagesRemastered >> Broadcast: TheGamingEnder был съеден зомби! 
+
+Не обработано: DropManager >> 3
+Не обработано: TheGamingEnder [TheGamingEnder] was mauled by a zombie!
+DropManager >> 3
+TheGamingEnder [TheGamingEnder] was mauled by a zombie!
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 54
+PlayerID: 76561198235802198 Name: Bodya Character: Bodya Ping: 135
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 153
+PlayerID: 76561198368930526 Name: LLlaxuD Character: LLlaxuD Ping: 135
+PlayerID: 76561198123840535 Name: ?????? Character: top Ping: 172
+PlayerID: 76561198289556960 Name: доширак Character: artiom$KI Ping: 158
+PlayerID: 76561198030393730 Name: heavy198 Character: heavy198 Ping: 141
+PlayerID: 76561198152563082 Name: Drakon Character: Stanat Ping: 150
+PlayerID: 76561198051446787 Name: PUGNA Character: Opticor Ping: 23
+PlayerID: 76561198195806478 Name: TheGamingEnder Character: TheGamingEnder Ping: 187
+PlayerID: 76561198397238388 Name: nikita-zakharov-1999 Character: nikita-zakharov-1999 Ping: 56
+PlayerID: 76561198247269044 Name: SpaceMan Character: КрасноглазыйЧерножоп Ping: 61
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4293982451
+
+END with Bans:
+Connecting: PlayerID: 76561198318123900 Name: SIMFORDG Character: SIMFORDG
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 37
+PlayerID: 76561198235802198 Name: Bodya Character: Bodya Ping: 129
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 149
+PlayerID: 76561198368930526 Name: LLlaxuD Character: LLlaxuD Ping: 148
+PlayerID: 76561198123840535 Name: ?????? Character: top Ping: 151
+PlayerID: 76561198289556960 Name: доширак Character: artiom$KI Ping: 170
+PlayerID: 76561198030393730 Name: heavy198 Character: heavy198 Ping: 142
+PlayerID: 76561198152563082 Name: Drakon Character: Stanat Ping: 140
+PlayerID: 76561198051446787 Name: PUGNA Character: Opticor Ping: 23
+PlayerID: 76561198195806478 Name: TheGamingEnder Character: TheGamingEnder Ping: 111
+PlayerID: 76561198397238388 Name: nikita-zakharov-1999 Character: nikita-zakharov-1999 Ping: 53
+PlayerID: 76561198247269044 Name: SpaceMan Character: КрасноглазыйЧерножоп Ping: 52
+PlayerID: 76561198318123900 Name: SIMFORDG Character: SIMFORDG Ping: 16
+
+TimerTerminateCommand.Enabled with Players:
+[World] 7_AleX_3 [7_AleX_3]: "прекрати"
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4293982429
+
+END with Bans:
+[World] Stanat [Drakon]: "а че"
+

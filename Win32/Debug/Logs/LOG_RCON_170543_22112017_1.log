@@ -1,0 +1,46 @@
+RocketRcon v2.4.8.0
+
+login aVIPs22031994
+players
+Client has executed command "players"
+Players:
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 215
+PlayerID: 76561198385149949 Name: GoDNooB Character: GoDNooB Ping: 174
+PlayerID: 76561198315561906 Name: MaXiMuS Character: valuxa1984 Ping: 56
+PlayerID: 76561198430964141 Name: tolikoleshki Character: tolik Ping: 109
+
+[World] Expert1337 [Expert13372284200]: "аир"
+
+Client has executed command "GET NOW"
+ServerControl >> VALUE NOW [1] [0] [2125]
+Client has executed command "bans"
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 28076830
+PlayerID: 76561198336969313
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 192063
+PlayerID: 76561198212486347
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 192394
+PlayerID: 76561198391097237
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 354881
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30957108
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30957124
+
+END
+END
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 224
+PlayerID: 76561198385149949 Name: GoDNooB Character: GoDNooB Ping: 109
+PlayerID: 76561198315561906 Name: MaXiMuS Character: valuxa1984 Ping: 46
+PlayerID: 76561198430964141 Name: tolikoleshki Character: tolik Ping: 100
+

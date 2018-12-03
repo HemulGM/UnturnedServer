@@ -1,0 +1,382 @@
+RocketRcon v2.4.8.0
+
+login aVIPs22031994
+players
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198242496136 Name: _Official_Group_GameGuardian_ Character: mer_1560 Ping: 31
+PlayerID: 76561198131227088 Name: нет друзей Character: нет друзей Ping: 62
+PlayerID: 76561198421469222 Name: cvan71 Character: Андрей Ping: 54
+PlayerID: 76561198366284525 Name: NikiRoC Character: Никита Калашников Ping: 62
+PlayerID: 76561198114302725 Name: пуля Character: пуля Ping: 85
+
+Client has executed command "players"
+Players:
+PlayerID: 76561198242496136 Name: _Official_Group_GameGuardian_ Character: mer_1560 Ping: 31
+PlayerID: 76561198131227088 Name: нет друзей Character: нет друзей Ping: 62
+PlayerID: 76561198421469222 Name: cvan71 Character: Андрей Ping: 54
+PlayerID: 76561198366284525 Name: NikiRoC Character: Никита Калашников Ping: 62
+PlayerID: 76561198114302725 Name: пуля Character: пуля Ping: 85
+Client has executed command "bans"
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27388638
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30268916
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30268932
+PlayerID: 76561198257502095
+JudgeID: 76561198237123262
+Reason: 3600 Duration: 31536000 Remaining: 31474172
+Client has executed command "bans"
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27388638
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30268916
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30268932
+PlayerID: 76561198257502095
+JudgeID: 76561198237123262
+Reason: 3600 Duration: 31536000 Remaining: 31474172
+
+END
+END
+END
+[World] Андрей [cvan71]: "тут нло"
+
+END
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [3387]
+
+[World] Андрей [cvan71]: "ах тыж"
+
+[World] mer_1560 [_Official_Group_GameGuardian_]: "ааааа"
+
+[World] mer_1560 [_Official_Group_GameGuardian_]: "точно"
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [3394]
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [3397]
+
+[World] Андрей [cvan71]: "да мне пофиг на него"
+
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198242496136 Name: _Official_Group_GameGuardian_ Character: mer_1560 Ping: 39
+PlayerID: 76561198131227088 Name: нет друзей Character: нет друзей Ping: 70
+PlayerID: 76561198421469222 Name: cvan71 Character: Андрей Ping: 54
+PlayerID: 76561198366284525 Name: NikiRoC Character: Никита Калашников Ping: 54
+PlayerID: 76561198114302725 Name: пуля Character: пуля Ping: 78
+
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27388617
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30268895
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30268911
+PlayerID: 76561198257502095
+JudgeID: 76561198237123262
+Reason: 3600 Duration: 31536000 Remaining: 31474151
+
+END
+cchat "/33/04/13/09/14: /49/17/15/02/05/17/11/00" 255 0 0
+Client has executed command "cchat "/33/04/13/09/14: /49/17/15/02/05/17/11/00" 255 0 0"
+
+ServerControl >> Broadcast: Админ: Проверка
+
+Не обработано: ServerControl >> Broadcast: Админ: Проверка
+[World] mer_1560 [_Official_Group_GameGuardian_]: "/buy gasma"
+
+MessageAnnouncer >> Broadcast: Посетите наш сайт. Вы будете удивлены! unturned.hemulgm.ru
+
+MessageAnnouncer >> Посетите наш сайт. Вы будете удивлены! unturned.hemulgm.ru
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [3405]
+
+END
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [3407]
+
+[World] Андрей [cvan71]: "окей"
+
+[World] Андрей [cvan71]: "проверяй меня"
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [3415]
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [3417]
+
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198242496136 Name: _Official_Group_GameGuardian_ Character: mer_1560 Ping: 31
+PlayerID: 76561198131227088 Name: нет друзей Character: нет друзей Ping: 62
+PlayerID: 76561198421469222 Name: cvan71 Character: Андрей Ping: 54
+PlayerID: 76561198366284525 Name: NikiRoC Character: Никита Калашников Ping: 109
+PlayerID: 76561198114302725 Name: пуля Character: пуля Ping: 78
+
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27388597
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30268875
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30268891
+PlayerID: 76561198257502095
+JudgeID: 76561198237123262
+Reason: 3600 Duration: 31536000 Remaining: 31474131
+
+END
+END
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [3426]
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [3427]
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [3437]
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [3437]
+
+[World] Андрей [cvan71]: "боже меня достал никита"
+
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198242496136 Name: _Official_Group_GameGuardian_ Character: mer_1560 Ping: 39
+PlayerID: 76561198131227088 Name: нет друзей Character: нет друзей Ping: 70
+PlayerID: 76561198421469222 Name: cvan71 Character: Андрей Ping: 54
+PlayerID: 76561198366284525 Name: NikiRoC Character: Никита Калашников Ping: 62
+PlayerID: 76561198114302725 Name: пуля Character: пуля Ping: 78
+
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27388577
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30268855
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30268871
+PlayerID: 76561198257502095
+JudgeID: 76561198237123262
+Reason: 3600 Duration: 31536000 Remaining: 31474111
+
+END
+END
+GET NOW
+Client has executed command "GET NOW"
+ServerControl >> VALUE NOW [0] [0] [3447]
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [3448]
+
+[World] mer_1560 [_Official_Group_GameGuardian_]: "/cost filter"
+
+[World] mer_1560 [_Official_Group_GameGuardian_]: "/buy filter"
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [3457]
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [3458]
+
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198242496136 Name: _Official_Group_GameGuardian_ Character: mer_1560 Ping: 39
+PlayerID: 76561198131227088 Name: нет друзей Character: нет друзей Ping: 62
+PlayerID: 76561198421469222 Name: cvan71 Character: Андрей Ping: 62
+PlayerID: 76561198366284525 Name: NikiRoC Character: Никита Калашников Ping: 62
+PlayerID: 76561198114302725 Name: пуля Character: пуля Ping: 109
+
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27388557
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30268835
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30268851
+PlayerID: 76561198257502095
+JudgeID: 76561198237123262
+Reason: 3600 Duration: 31536000 Remaining: 31474091
+
+END
+END
+MessageAnnouncer >> Broadcast: Наберите /kit help, чтобы получить первую мед. помощь (бинты, таблетки, еда)
+
+MessageAnnouncer >> Наберите /kit help, чтобы получить первую мед. помощь (бинты, таблетки, еда)
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [3467]
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [3468]
+
+[World] Андрей [cvan71]: "о тут верт"
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [3477]
+
+[World] mer_1560 [_Official_Group_GameGuardian_]: "ult"
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [3479]
+
+[World] mer_1560 [_Official_Group_GameGuardian_]: "где"
+
+[World] Андрей [cvan71]: "я ща на миханик сгоняю может отмычка будет"
+
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198242496136 Name: _Official_Group_GameGuardian_ Character: mer_1560 Ping: 54
+PlayerID: 76561198131227088 Name: нет друзей Character: нет друзей Ping: 70
+PlayerID: 76561198421469222 Name: cvan71 Character: Андрей Ping: 46
+PlayerID: 76561198366284525 Name: NikiRoC Character: Никита Калашников Ping: 70
+PlayerID: 76561198114302725 Name: пуля Character: пуля Ping: 93
+
+Client has executed command "cchat "/36/05/14/14/00/04/09/10 /46/00/12/09/14/09/14: /44/17/20/19/15" 192 192 192"
+
+ServerControl >> Broadcast: Геннадий Малинин: Круто
+
+Не обработано: ServerControl >> Broadcast: Геннадий Малинин: Круто
+Client has executed command "bans"
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27388536
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30268814
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30268830
+PlayerID: 76561198257502095
+JudgeID: 76561198237123262
+Reason: 3600 Duration: 31536000 Remaining: 31474070
+
+END
+END
+[World] Андрей [cvan71]: "/home"
+
+Андрей moved x:-126.7607 y:75.67115(+38.26085) z:353.9553 in the last second (0.279007)
+
+Не обработано: Андрей moved x:-126.7607 y:75.67115(+38.26085) z:353.9553 in the last second (0.279007)
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [3487]
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [3489]
+
+[World] mer_1560 [_Official_Group_GameGuardian_]: "у меня отмычкае есть"
+
+[World] Андрей [cvan71]: "даш?"
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [3497]
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [3499]
+
+[World] mer_1560 [_Official_Group_GameGuardian_]: "ща тп к тебе"
+
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198242496136 Name: _Official_Group_GameGuardian_ Character: mer_1560 Ping: 46
+PlayerID: 76561198131227088 Name: нет друзей Character: нет друзей Ping: 70
+PlayerID: 76561198421469222 Name: cvan71 Character: Андрей Ping: 62
+PlayerID: 76561198366284525 Name: NikiRoC Character: Никита Калашников Ping: 62
+PlayerID: 76561198114302725 Name: пуля Character: пуля Ping: 85
+
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27388517
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30268795
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30268811
+PlayerID: 76561198257502095
+JudgeID: 76561198237123262
+Reason: 3600 Duration: 31536000 Remaining: 31474051
+
+END
+[World] Андрей [cvan71]: "ок"
+
+END
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [3507]
+

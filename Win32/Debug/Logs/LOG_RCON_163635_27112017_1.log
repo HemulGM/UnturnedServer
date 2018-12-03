@@ -1,0 +1,98 @@
+RocketRcon v2.4.8.0
+
+login aVIPs22031994
+players
+Client has executed command "players"
+Players:
+PlayerID: 76561198423084997 Name: lovemariina Character: 228ff Ping: 226
+PlayerID: 76561198408019916 Name: slava.fan555 Character: Славик Cухоруков Ping: 85
+PlayerID: 76561198444494613 Name: vladkrut22 Character: Aня Ping: 195
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 187
+PlayerID: 76561198177412437 Name: Korak Character: Korak Ping: 140
+
+Client has executed command "bans"
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27646604
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30526882
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30526898
+
+END
+END
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [1383]
+
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198423084997 Name: lovemariina Character: 228ff Ping: 144
+PlayerID: 76561198408019916 Name: slava.fan555 Character: Славик Cухоруков Ping: 97
+PlayerID: 76561198444494613 Name: vladkrut22 Character: Aня Ping: 191
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 167
+PlayerID: 76561198177412437 Name: Korak Character: Korak Ping: 144
+
+END
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27646598
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30526876
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30526892
+
+END
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [1392]
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [1393]
+
+[World] Expert1337 [Expert13372284200]: "на время"
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [1402]
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [1403]
+
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198423084997 Name: lovemariina Character: 228ff Ping: 187
+PlayerID: 76561198408019916 Name: slava.fan555 Character: Славик Cухоруков Ping: 74
+PlayerID: 76561198444494613 Name: vladkrut22 Character: Aня Ping: 179
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 148
+PlayerID: 76561198177412437 Name: Korak Character: Korak Ping: 144
+
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27646578
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30526856
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30526872
+
+END
+END

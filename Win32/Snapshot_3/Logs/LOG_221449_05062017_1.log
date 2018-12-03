@@ -1,0 +1,131 @@
+Не обработано: RocketRcon v2.4.8.0
+RocketRcon v2.4.8.0
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198336965559 Name: Bomjara Character: Bomjara Ping: 46
+PlayerID: 76561198363828451 Name: Ничоси Character: Кеша Ping: 46
+PlayerID: 76561198165822970 Name: Indigo Character: Indigo Ping: 42
+PlayerID: 76561198305732269 Name: Owl Character: Owl Ping: 66
+PlayerID: 76561198390891968 Name: artyr-zakirov-96 Character: alkash Ping: 70
+PlayerID: 76561198386134948 Name: ZAGNIAGNIA Character: zakary.tellier Ping: 113
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 123123
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 31001947
+PlayerID: 123
+JudgeID: 0
+Reason: durila Duration: 4000 Remaining: 4294437741
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294466114
+
+END with Bans:
+Connecting: PlayerID: 76561198334346242 Name: мареонетка Character: [Кровавые]хмурый
+
+Не обработано: Indigo moved x:597.9931 y:74.74628(+35.68283) z:732.5615 in the last second (0.1000061)
+Indigo moved x:597.9931 y:74.74628(+35.68283) z:732.5615 in the last second (0.1000061)
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198336965559 Name: Bomjara Character: Bomjara Ping: 46
+PlayerID: 76561198363828451 Name: Ничоси Character: Кеша Ping: 46
+PlayerID: 76561198165822970 Name: Indigo Character: Indigo Ping: 50
+PlayerID: 76561198305732269 Name: Owl Character: Owl Ping: 58
+PlayerID: 76561198390891968 Name: artyr-zakirov-96 Character: alkash Ping: 70
+PlayerID: 76561198386134948 Name: ZAGNIAGNIA Character: zakary.tellier Ping: 128
+PlayerID: 76561198334346242 Name: мареонетка Character: [Кровавые]хмурый Ping: 257
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 123123
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 31001927
+PlayerID: 123
+JudgeID: 0
+Reason: durila Duration: 4000 Remaining: 4294437721
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294466094
+
+END with Bans:
+Не обработано: DeathMessagesRemastered >> Broadcast: zakary.tellier has been mauled by a zombie! 
+DeathMessagesRemastered >> Broadcast: zakary.tellier has been mauled by a zombie! 
+
+Не обработано: zakary.tellier [ZAGNIAGNIA] was mauled by a zombie!
+zakary.tellier [ZAGNIAGNIA] was mauled by a zombie!
+
+Не обработано: MessageAnnouncer >> Broadcast: vk.com/unturned_hgm - группа сервера ВК, уникальный кит в записи!
+MessageAnnouncer >> Broadcast: vk.com/unturned_hgm - группа сервера ВК, уникальный кит в записи!
+
+Не обработано: MessageAnnouncer >> vk.com/unturned_hgm - группа сервера ВК, уникальный кит в записи!
+MessageAnnouncer >> vk.com/unturned_hgm - группа сервера ВК, уникальный кит в записи!
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198336965559 Name: Bomjara Character: Bomjara Ping: 54
+PlayerID: 76561198363828451 Name: Ничоси Character: Кеша Ping: 50
+PlayerID: 76561198165822970 Name: Indigo Character: Indigo Ping: 46
+PlayerID: 76561198305732269 Name: Owl Character: Owl Ping: 66
+PlayerID: 76561198390891968 Name: artyr-zakirov-96 Character: alkash Ping: 66
+PlayerID: 76561198386134948 Name: ZAGNIAGNIA Character: zakary.tellier Ping: 132
+PlayerID: 76561198334346242 Name: мареонетка Character: [Кровавые]хмурый Ping: 109
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 123123
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 31001907
+PlayerID: 123
+JudgeID: 0
+Reason: durila Duration: 4000 Remaining: 4294437701
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294466074
+
+END with Bans:
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198336965559 Name: Bomjara Character: Bomjara Ping: 46
+PlayerID: 76561198363828451 Name: Ничоси Character: Кеша Ping: 42
+PlayerID: 76561198165822970 Name: Indigo Character: Indigo Ping: 50
+PlayerID: 76561198305732269 Name: Owl Character: Owl Ping: 62
+PlayerID: 76561198390891968 Name: artyr-zakirov-96 Character: alkash Ping: 78
+PlayerID: 76561198386134948 Name: ZAGNIAGNIA Character: zakary.tellier Ping: 113
+PlayerID: 76561198334346242 Name: мареонетка Character: [Кровавые]хмурый Ping: 140
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 123123
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 31001887
+PlayerID: 123
+JudgeID: 0
+Reason: durila Duration: 4000 Remaining: 4294437681
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294466054
+
+END with Bans:

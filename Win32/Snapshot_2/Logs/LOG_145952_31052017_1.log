@@ -1,0 +1,239 @@
+Не обработано: RocketRcon v2.4.8.0
+RocketRcon v2.4.8.0
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 42
+PlayerID: 76561198314140913 Name: DireHick Character: JeffRee Ping: 54
+PlayerID: 76561198280617288 Name: Незнаю какой придумать Character: Пипр Ping: 46
+PlayerID: 76561198256523318 Name: baha Character: baha Ping: 50
+PlayerID: 76561198176817369 Name: ?. Character: GlodiS Ping: 70
+PlayerID: 76561198389415200 Name: Andrew Lavrinets Character: Andrew Ping: 105
+PlayerID: 76561198385944069 Name: thedrovocek csgo-happy.ru Character: ilya Ping: 97
+PlayerID: 76561198357648706 Name: lessik1210 Character: Griman18 Ping: 62
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 152
+PlayerID: 76561198295801599 Name: Lo[x] Character: Lo[x] Ping: 58
+PlayerID: 76561198276840558 Name: Котик ^-^ Character: kennys Ping: 105
+PlayerID: 76561198322193999 Name: ™_Game®_™ Character: Карл Иванович Ping: 54
+PlayerID: 76561198200101595 Name: NEVALYASHA Character: Nevalyasha4 Ping: 152
+PlayerID: 76561198388007422 Name: kokobrian0 Character: kokobrian0 Ping: 425
+PlayerID: 76561198177243258 Name: garfield2016 Character: rubi Ping: 82
+
+END with Players:
+TimerTerminateCommand.Enabled with Bans:
+Client has executed command "bans"
+Bans:
+PlayerID: 123123
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 31460015
+PlayerID: 123
+JudgeID: 0
+Reason: durila Duration: 4000 Remaining: 4294895809
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294924182
+
+Не обработано: PlayerInfoLib >> No expired player info records found for this batch.
+TimerTerminateCommand.Enabled with Bans:
+PlayerInfoLib >> No expired player info records found for this batch.
+
+Не обработано: Saving server
+TimerTerminateCommand.Enabled with Bans:
+Saving server
+
+END with Bans:
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 42
+PlayerID: 76561198314140913 Name: DireHick Character: JeffRee Ping: 31
+PlayerID: 76561198280617288 Name: Незнаю какой придумать Character: Пипр Ping: 42
+PlayerID: 76561198256523318 Name: baha Character: baha Ping: 46
+PlayerID: 76561198176817369 Name: ?. Character: GlodiS Ping: 89
+PlayerID: 76561198389415200 Name: Andrew Lavrinets Character: Andrew Ping: 121
+PlayerID: 76561198385944069 Name: thedrovocek csgo-happy.ru Character: ilya Ping: 93
+PlayerID: 76561198357648706 Name: lessik1210 Character: Griman18 Ping: 46
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 152
+PlayerID: 76561198295801599 Name: Lo[x] Character: Lo[x] Ping: 62
+PlayerID: 76561198276840558 Name: Котик ^-^ Character: kennys Ping: 97
+PlayerID: 76561198322193999 Name: ™_Game®_™ Character: Карл Иванович Ping: 50
+PlayerID: 76561198200101595 Name: NEVALYASHA Character: Nevalyasha4 Ping: 152
+PlayerID: 76561198388007422 Name: kokobrian0 Character: kokobrian0 Ping: 371
+PlayerID: 76561198177243258 Name: garfield2016 Character: rubi Ping: 70
+
+END with Players:
+Connecting: PlayerID: 76561198262878051 Name: Kolder Character: Kolder
+
+Не обработано: MessageAnnouncer >> Broadcast: Если модератор ведёт себя неподобающе, пишите в группу или ЛС (vk.com/unturned_hgm, vk.com/hemulgm)
+MessageAnnouncer >> Broadcast: Если модератор ведёт себя неподобающе, пишите в группу или ЛС (vk.com/unturned_hgm, vk.com/hemulgm)
+
+Не обработано: MessageAnnouncer >> Если модератор ведёт себя неподобающе, пишите в группу или ЛС (vk.com/unturned_hgm, vk.com/hemulgm)
+MessageAnnouncer >> Если модератор ведёт себя неподобающе, пишите в группу или ЛС (vk.com/unturned_hgm, vk.com/hemulgm)
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 58
+PlayerID: 76561198314140913 Name: DireHick Character: JeffRee Ping: 42
+PlayerID: 76561198280617288 Name: Незнаю какой придумать Character: Пипр Ping: 78
+PlayerID: 76561198256523318 Name: baha Character: baha Ping: 62
+PlayerID: 76561198176817369 Name: ?. Character: GlodiS Ping: 89
+PlayerID: 76561198389415200 Name: Andrew Lavrinets Character: Andrew Ping: 156
+PlayerID: 76561198385944069 Name: thedrovocek csgo-happy.ru Character: ilya Ping: 101
+PlayerID: 76561198357648706 Name: lessik1210 Character: Griman18 Ping: 70
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 167
+PlayerID: 76561198295801599 Name: Lo[x] Character: Lo[x] Ping: 66
+PlayerID: 76561198276840558 Name: Котик ^-^ Character: kennys Ping: 148
+PlayerID: 76561198322193999 Name: ™_Game®_™ Character: Карл Иванович Ping: 62
+PlayerID: 76561198200101595 Name: NEVALYASHA Character: Nevalyasha4 Ping: 160
+PlayerID: 76561198388007422 Name: kokobrian0 Character: kokobrian0 Ping: 429
+PlayerID: 76561198177243258 Name: garfield2016 Character: rubi Ping: 89
+PlayerID: 76561198262878051 Name: Kolder Character: Kolder Ping: 58
+
+TimerTerminateCommand.Enabled with Players:
+Connecting: PlayerID: 76561198117292760 Name: Kamikadze Character: Kamikadze
+
+END with Players:
+Connecting: PlayerID: 76561198287257345 Name: TheHard27 Character: TheHard27
+
+[World] Kolder [Kolder]: "/home"
+
+Не обработано: Kolder moved x:466.1421 y:70.87233(+32.39501) z:-776.0767 in the last second (0.2379227)
+Kolder moved x:466.1421 y:70.87233(+32.39501) z:-776.0767 in the last second (0.2379227)
+
+[World] 7_AleX_3 [7_AleX_3]: "зач"
+
+[World] Expert1337 [Expert13372284200]: "нету"
+
+[World] Expert1337 [Expert13372284200]: "нету"
+
+[World] TheHard27 [TheHard27]: "/tpa kenn"
+
+[World] Kolder [Kolder]: "/kit claim"
+
+[World] Expert1337 [Expert13372284200]: "ниукого"
+
+[World] kennys [Котик ^-^]: "/tpa a"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 58
+PlayerID: 76561198314140913 Name: DireHick Character: JeffRee Ping: 35
+PlayerID: 76561198280617288 Name: Незнаю какой придумать Character: Пипр Ping: 62
+PlayerID: 76561198256523318 Name: baha Character: baha Ping: 46
+PlayerID: 76561198176817369 Name: ?. Character: GlodiS Ping: 82
+PlayerID: 76561198389415200 Name: Andrew Lavrinets Character: Andrew Ping: 156
+PlayerID: 76561198385944069 Name: thedrovocek csgo-happy.ru Character: ilya Ping: 89
+PlayerID: 76561198357648706 Name: lessik1210 Character: Griman18 Ping: 58
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 152
+PlayerID: 76561198295801599 Name: Lo[x] Character: Lo[x] Ping: 66
+PlayerID: 76561198276840558 Name: Котик ^-^ Character: kennys Ping: 132
+PlayerID: 76561198322193999 Name: ™_Game®_™ Character: Карл Иванович Ping: 58
+PlayerID: 76561198200101595 Name: NEVALYASHA Character: Nevalyasha4 Ping: 152
+PlayerID: 76561198388007422 Name: kokobrian0 Character: kokobrian0 Ping: 433
+PlayerID: 76561198177243258 Name: garfield2016 Character: rubi Ping: 74
+PlayerID: 76561198262878051 Name: Kolder Character: Kolder Ping: 54
+PlayerID: 76561198117292760 Name: Kamikadze Character: Kamikadze Ping: 78
+PlayerID: 76561198287257345 Name: TheHard27 Character: TheHard27 Ping: 175
+
+TimerTerminateCommand.Enabled with Players:
+[World] Andrew [Andrew Lavrinets]: "меняю кобру на 20 палок"
+
+TimerTerminateCommand.Enabled with Players:
+[World] 7_AleX_3 [7_AleX_3]: "дай за руль"
+
+Не обработано: DeathMessagesRemastered >> Broadcast: Nevalyasha4 has been mauled by a zombie! 
+TimerTerminateCommand.Enabled with Players:
+DeathMessagesRemastered >> Broadcast: Nevalyasha4 has been mauled by a zombie! 
+
+Не обработано: Nevalyasha4 [NEVALYASHA] was mauled by a zombie!
+TimerTerminateCommand.Enabled with Players:
+Nevalyasha4 [NEVALYASHA] was mauled by a zombie!
+
+END with Players:
+Не обработано: DeathMessagesRemastered >> Broadcast: JeffRee was killed by fire!
+DeathMessagesRemastered >> Broadcast: JeffRee was killed by fire!
+
+Не обработано: JeffRee [DireHick] was burned by a zombie!
+JeffRee [DireHick] was burned by a zombie!
+
+[World] Nevalyasha4 [NEVALYASHA]: "/tpa jefree"
+
+[World] JeffRee [DireHick]: "/home"
+
+[World] Nevalyasha4 [NEVALYASHA]: "джефри бля"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 42
+PlayerID: 76561198314140913 Name: DireHick Character: JeffRee Ping: 58
+PlayerID: 76561198280617288 Name: Незнаю какой придумать Character: Пипр Ping: 62
+PlayerID: 76561198256523318 Name: baha Character: baha Ping: 46
+PlayerID: 76561198176817369 Name: ?. Character: GlodiS Ping: 82
+PlayerID: 76561198389415200 Name: Andrew Lavrinets Character: Andrew Ping: 171
+PlayerID: 76561198385944069 Name: thedrovocek csgo-happy.ru Character: ilya Ping: 125
+PlayerID: 76561198357648706 Name: lessik1210 Character: Griman18 Ping: 58
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 144
+PlayerID: 76561198295801599 Name: Lo[x] Character: Lo[x] Ping: 54
+PlayerID: 76561198276840558 Name: Котик ^-^ Character: kennys Ping: 121
+PlayerID: 76561198322193999 Name: ™_Game®_™ Character: Карл Иванович Ping: 62
+PlayerID: 76561198200101595 Name: NEVALYASHA Character: Nevalyasha4 Ping: 152
+PlayerID: 76561198388007422 Name: kokobrian0 Character: kokobrian0 Ping: 449
+PlayerID: 76561198177243258 Name: garfield2016 Character: rubi Ping: 70
+PlayerID: 76561198262878051 Name: Kolder Character: Kolder Ping: 54
+PlayerID: 76561198117292760 Name: Kamikadze Character: Kamikadze Ping: 82
+PlayerID: 76561198287257345 Name: TheHard27 Character: TheHard27 Ping: 187
+
+TimerTerminateCommand.Enabled with Players:
+[World] Nevalyasha4 [NEVALYASHA]: "/tpa jeff"
+
+Не обработано: DeathMessagesRemastered >> Broadcast: baha has been mauled by a zombie! 
+Не обработано: baha [baha] was mauled by a zombie!
+TimerTerminateCommand.Enabled with Players:
+DeathMessagesRemastered >> Broadcast: baha has been mauled by a zombie! 
+baha [baha] was mauled by a zombie!
+
+END with Players:
+[World] Kamikadze [Kamikadze]: "/kit"
+
+[World] baha [baha]: "/tpa jeffree"
+
+[World] Expert1337 [Expert13372284200]: "/kit help"
+
+[World] Nevalyasha4 [NEVALYASHA]: "че ты не принял"
+
+[World] Kolder [Kolder]: "/kit start"
+
+[World] Kamikadze [Kamikadze]: "/kit start"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 46
+PlayerID: 76561198314140913 Name: DireHick Character: JeffRee Ping: 27
+PlayerID: 76561198280617288 Name: Незнаю какой придумать Character: Пипр Ping: 50
+PlayerID: 76561198256523318 Name: baha Character: baha Ping: 62
+PlayerID: 76561198176817369 Name: ?. Character: GlodiS Ping: 89
+PlayerID: 76561198389415200 Name: Andrew Lavrinets Character: Andrew Ping: 128
+PlayerID: 76561198385944069 Name: thedrovocek csgo-happy.ru Character: ilya Ping: 105
+PlayerID: 76561198357648706 Name: lessik1210 Character: Griman18 Ping: 46
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 152
+PlayerID: 76561198295801599 Name: Lo[x] Character: Lo[x] Ping: 62
+PlayerID: 76561198276840558 Name: Котик ^-^ Character: kennys Ping: 218
+PlayerID: 76561198322193999 Name: ™_Game®_™ Character: Карл Иванович Ping: 50
+PlayerID: 76561198200101595 Name: NEVALYASHA Character: Nevalyasha4 Ping: 152
+PlayerID: 76561198388007422 Name: kokobrian0 Character: kokobrian0 Ping: 425
+PlayerID: 76561198177243258 Name: garfield2016 Character: rubi Ping: 70
+PlayerID: 76561198262878051 Name: Kolder Character: Kolder Ping: 46
+PlayerID: 76561198117292760 Name: Kamikadze Character: Kamikadze Ping: 74
+PlayerID: 76561198287257345 Name: TheHard27 Character: TheHard27 Ping: 175
+

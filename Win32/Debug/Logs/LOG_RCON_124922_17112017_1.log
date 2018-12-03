@@ -1,0 +1,277 @@
+17.11.2017 12:49:23: RocketRcon v2.4.8.0
+
+17.11.2017 12:49:24: Client has executed command "players"
+Players:
+PlayerID: 76561198408019916 Name: slava.fan555 Character: Славик Cухоруков Ping: 82
+PlayerID: 76561198218103779 Name: Магистр_Сала Character: мафия    Ping: 20
+
+17.11.2017 12:49:25: Client has executed command "bans"
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 28524212
+PlayerID: 76561198395511982
+JudgeID: 0
+Reason: 999999 Duration: 31536000 Remaining: 30078964
+PlayerID: 76561198331180787
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30427182
+PlayerID: 76561198172502147
+JudgeID: 76561198237123262
+Reason: 3600 Duration: 31536000 Remaining: 30430576
+PlayerID: 76561198331252339
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30442909
+PlayerID: 76561198434258763
+JudgeID: 0
+Reason: reid Duration: 608400 Remaining: 209456
+
+17.11.2017 12:49:25: END
+17.11.2017 12:49:25: Client has executed command "bans"
+
+17.11.2017 12:49:27: Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 28524212
+PlayerID: 76561198395511982
+JudgeID: 0
+Reason: 999999 Duration: 31536000 Remaining: 30078964
+PlayerID: 76561198331180787
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30427182
+PlayerID: 76561198172502147
+JudgeID: 76561198237123262
+Reason: 3600 Duration: 31536000 Remaining: 30430576
+PlayerID: 76561198331252339
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30442909
+PlayerID: 76561198434258763
+JudgeID: 0
+Reason: reid Duration: 608400 Remaining: 209456
+MessageAnnouncer >> Broadcast: Добро пожаловать на HGM. Тут рады вам больше, чем на любом другом сервере!
+
+17.11.2017 12:49:27: END
+17.11.2017 12:49:29: END
+17.11.2017 12:49:37: MessageAnnouncer >> Добро пожаловать на HGM. Тут рады вам больше, чем на любом другом сервере!
+
+17.11.2017 12:49:37: Client has executed command "players"
+Players:
+PlayerID: 76561198408019916 Name: slava.fan555 Character: Славик Cухоруков Ping: 90
+PlayerID: 76561198218103779 Name: Магистр_Сала Character: мафия    Ping: 62
+
+17.11.2017 12:49:39: Client has executed command "bans"
+
+17.11.2017 12:49:39: Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 28524198
+PlayerID: 76561198395511982
+JudgeID: 0
+Reason: 999999 Duration: 31536000 Remaining: 30078950
+PlayerID: 76561198331180787
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30427168
+PlayerID: 76561198172502147
+JudgeID: 76561198237123262
+Reason: 3600 Duration: 31536000 Remaining: 30430562
+PlayerID: 76561198331252339
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30442895
+PlayerID: 76561198434258763
+JudgeID: 0
+Reason: reid Duration: 608400 Remaining: 209442
+
+17.11.2017 12:49:39: END
+17.11.2017 12:49:39: Client has executed command "bans"
+
+17.11.2017 12:49:39: Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 28524198
+PlayerID: 76561198395511982
+JudgeID: 0
+Reason: 999999 Duration: 31536000 Remaining: 30078950
+PlayerID: 76561198331180787
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30427168
+PlayerID: 76561198172502147
+JudgeID: 76561198237123262
+Reason: 3600 Duration: 31536000 Remaining: 30430562
+PlayerID: 76561198331252339
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30442895
+PlayerID: 76561198434258763
+JudgeID: 0
+Reason: reid Duration: 608400 Remaining: 209442
+
+17.11.2017 12:49:39: END
+17.11.2017 12:49:41: END
+17.11.2017 12:49:57: Client has executed command "players"
+
+17.11.2017 12:49:57: Players:
+PlayerID: 76561198408019916 Name: slava.fan555 Character: Славик Cухоруков Ping: 86
+PlayerID: 76561198218103779 Name: Магистр_Сала Character: мафия    Ping: 18
+
+17.11.2017 12:49:59: Client has executed command "bans"
+
+17.11.2017 12:49:59: Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 28524178
+PlayerID: 76561198395511982
+JudgeID: 0
+Reason: 999999 Duration: 31536000 Remaining: 30078930
+PlayerID: 76561198331180787
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30427148
+PlayerID: 76561198172502147
+JudgeID: 76561198237123262
+Reason: 3600 Duration: 31536000 Remaining: 30430542
+PlayerID: 76561198331252339
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30442875
+PlayerID: 76561198434258763
+JudgeID: 0
+Reason: reid Duration: 608400 Remaining: 209422
+
+17.11.2017 12:49:59: END
+17.11.2017 12:49:59: Client has executed command "bans"
+
+17.11.2017 12:49:59: Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 28524178
+PlayerID: 76561198395511982
+JudgeID: 0
+Reason: 999999 Duration: 31536000 Remaining: 30078930
+PlayerID: 76561198331180787
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30427148
+PlayerID: 76561198172502147
+JudgeID: 76561198237123262
+Reason: 3600 Duration: 31536000 Remaining: 30430542
+PlayerID: 76561198331252339
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30442875
+PlayerID: 76561198434258763
+JudgeID: 0
+Reason: reid Duration: 608400 Remaining: 209422
+
+17.11.2017 12:49:59: END
+17.11.2017 12:50:01: END
+17.11.2017 12:50:11: [World] мафия    [Магистр_Сала]: "/buy 14"
+
+17.11.2017 12:50:17: Client has executed command "players"
+
+17.11.2017 12:50:17: Players:
+PlayerID: 76561198408019916 Name: slava.fan555 Character: Славик Cухоруков Ping: 101
+PlayerID: 76561198218103779 Name: Магистр_Сала Character: мафия    Ping: 36
+
+17.11.2017 12:50:19: Client has executed command "bans"
+
+17.11.2017 12:50:19: Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 28524158
+PlayerID: 76561198395511982
+JudgeID: 0
+Reason: 999999 Duration: 31536000 Remaining: 30078910
+PlayerID: 76561198331180787
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30427128
+PlayerID: 76561198172502147
+JudgeID: 76561198237123262
+Reason: 3600 Duration: 31536000 Remaining: 30430522
+PlayerID: 76561198331252339
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30442855
+PlayerID: 76561198434258763
+JudgeID: 0
+Reason: reid Duration: 608400 Remaining: 209402
+
+17.11.2017 12:50:19: END
+17.11.2017 12:50:19: Client has executed command "bans"
+
+17.11.2017 12:50:19: Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 28524158
+PlayerID: 76561198395511982
+JudgeID: 0
+Reason: 999999 Duration: 31536000 Remaining: 30078910
+PlayerID: 76561198331180787
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30427128
+PlayerID: 76561198172502147
+JudgeID: 76561198237123262
+Reason: 3600 Duration: 31536000 Remaining: 30430522
+PlayerID: 76561198331252339
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30442855
+PlayerID: 76561198434258763
+JudgeID: 0
+Reason: reid Duration: 608400 Remaining: 209402
+
+17.11.2017 12:50:19: END
+17.11.2017 12:50:20: Client has executed command "cchat "/33/09/17/04/17/15/16 /24/05/17/05/08 1 /24. 10 /13. " 255 255 0"
+
+17.11.2017 12:50:20: ServerControl >> Broadcast: Аирдроп через 1 ч. 10 м.
+
+17.11.2017 12:50:20: Не обработано: ServerControl >> Broadcast: Аирдроп через 1 ч. 10 м.
+17.11.2017 12:50:21: END
+17.11.2017 12:50:27: MessageAnnouncer >> Broadcast: Наберите /kit start, чтобы получить стартовый набор (еда, вода, топор)
+
+17.11.2017 12:50:37: MessageAnnouncer >> Наберите /kit start, чтобы получить стартовый набор (еда, вода, топор)
+
+17.11.2017 12:50:37: Client has executed command "players"
+Players:
+PlayerID: 76561198408019916 Name: slava.fan555 Character: Славик Cухоруков Ping: 92
+PlayerID: 76561198218103779 Name: Магистр_Сала Character: мафия    Ping: 18
+
+17.11.2017 12:50:39: Client has executed command "bans"
+
+17.11.2017 12:50:39: Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 28524138
+PlayerID: 76561198395511982
+JudgeID: 0
+Reason: 999999 Duration: 31536000 Remaining: 30078890
+PlayerID: 76561198331180787
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30427108
+PlayerID: 76561198172502147
+JudgeID: 76561198237123262
+Reason: 3600 Duration: 31536000 Remaining: 30430502
+PlayerID: 76561198331252339
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30442835
+PlayerID: 76561198434258763
+JudgeID: 0
+Reason: reid Duration: 608400 Remaining: 209382
+
+17.11.2017 12:50:39: END
+17.11.2017 12:50:39: Client has executed command "bans"
+
+17.11.2017 12:50:39: Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 28524138
+PlayerID: 76561198395511982
+JudgeID: 0
+Reason: 999999 Duration: 31536000 Remaining: 30078890
+PlayerID: 76561198331180787
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30427108
+PlayerID: 76561198172502147
+JudgeID: 76561198237123262
+Reason: 3600 Duration: 31536000 Remaining: 30430502
+PlayerID: 76561198331252339
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30442835
+PlayerID: 76561198434258763
+JudgeID: 0
+Reason: reid Duration: 608400 Remaining: 209382
+
+17.11.2017 12:50:39: END
+17.11.2017 12:50:41: END

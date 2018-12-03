@@ -1,0 +1,1753 @@
+Не обработано: RocketRcon v2.4.8.0
+RocketRcon v2.4.8.0
+
+TimerTerminateCommand.Enabled with Players:
+Client has executed command "players"
+Players:
+PlayerID: 76561198152563082 Name: Drakon Character: [MODER]Stanat Ping: 42
+PlayerID: 76561198367661777 Name: Andrei888 Character: zmushko2002 Ping: 105
+PlayerID: 76561198393829004 Name: rubisbogdan Character: BodyaBich Ping: 113
+PlayerID: 76561198322934559 Name: @& утка про  &@ Character: yesjop Ping: 97
+PlayerID: 76561198328119181 Name: Fex Character: Fex Ping: 46
+PlayerID: 76561198347057860 Name: PhantoM Character: ResonZ Ping: 54
+PlayerID: 76561198147477828 Name: galbatsovmikail Character: galbatsovmikail Ping: 66
+PlayerID: 76561198350260924 Name: Спартанец Character: дима Ping: 167
+PlayerID: 76561198345092267 Name: demid3450 Character: [гл террористов] демид журавлёв Ping: 136
+PlayerID: 76561198323972058 Name: GALAXY`S PINGUIN Character: зомби Ping: 54
+PlayerID: 76561198137518896 Name: fitman Character: fitman Ping: 31
+PlayerID: 76561198369248070 Name: Ali Character: Ali Ping: 128
+PlayerID: 76561198395164086 Name: vikafilha Character: vikafilha Ping: 125
+PlayerID: 76561198294590010 Name: Ragnar Character: R4GN4R Ping: 62
+PlayerID: 76561198381173735 Name: ingener_spring Character: ingener_spring Ping: 179
+PlayerID: 76561198368128006 Name: Aibek Character: Aibek Ping: 89
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 35
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 152
+PlayerID: 76561198314638573 Name: UDODMEN Character: udodmen Ping: 74
+[World] BodyaBich [rubisbogdan]: "/KIT HEAL"
+[World] 7_AleX_3 [7_AleX_3]: "де"
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294410459
+
+TimerTerminateCommand.Enabled with Bans:
+[World] 7_AleX_3 [7_AleX_3]: "по водой"
+
+TimerTerminateCommand.Enabled with Bans:
+[World] [MODER]Stanat [Drakon]: "/i 67 200"
+
+Не обработано: Дал [MODER]Stanat вещь 67:200
+TimerTerminateCommand.Enabled with Bans:
+Дал [MODER]Stanat вещь 67:200
+
+TimerTerminateCommand.Enabled with Bans:
+[World] BodyaBich [rubisbogdan]: "/kit"
+
+Не обработано: zmushko2002 moved x:-669.5465 y:67.32993(+37.33675) z:-900.6893 in the last second (0.2379227)
+TimerTerminateCommand.Enabled with Bans:
+[World] 7_AleX_3 [7_AleX_3]: "чтоли"
+[World] zmushko2002 [Andrei888]: "/home"
+zmushko2002 moved x:-669.5465 y:67.32993(+37.33675) z:-900.6893 in the last second (0.2379227)
+
+END with Bans:
+[World] zmushko2002 [Andrei888]: "короче ты не понял"
+
+[World] BodyaBich [rubisbogdan]: "/kit heal"
+
+[World] 7_AleX_3 [7_AleX_3]: "скажи"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198152563082 Name: Drakon Character: [MODER]Stanat Ping: 50
+PlayerID: 76561198367661777 Name: Andrei888 Character: zmushko2002 Ping: 97
+PlayerID: 76561198393829004 Name: rubisbogdan Character: BodyaBich Ping: 156
+PlayerID: 76561198322934559 Name: @& утка про  &@ Character: yesjop Ping: 89
+PlayerID: 76561198328119181 Name: Fex Character: Fex Ping: 39
+PlayerID: 76561198347057860 Name: PhantoM Character: ResonZ Ping: 50
+PlayerID: 76561198147477828 Name: galbatsovmikail Character: galbatsovmikail Ping: 74
+PlayerID: 76561198350260924 Name: Спартанец Character: дима Ping: 175
+PlayerID: 76561198345092267 Name: demid3450 Character: [гл террористов] демид журавлёв Ping: 140
+PlayerID: 76561198323972058 Name: GALAXY`S PINGUIN Character: зомби Ping: 62
+PlayerID: 76561198137518896 Name: fitman Character: fitman Ping: 35
+PlayerID: 76561198369248070 Name: Ali Character: Ali Ping: 128
+PlayerID: 76561198395164086 Name: vikafilha Character: vikafilha Ping: 144
+PlayerID: 76561198294590010 Name: Ragnar Character: R4GN4R Ping: 62
+PlayerID: 76561198381173735 Name: ingener_spring Character: ingener_spring Ping: 152
+PlayerID: 76561198368128006 Name: Aibek Character: Aibek Ping: 97
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 39
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 144
+PlayerID: 76561198314638573 Name: UDODMEN Character: udodmen Ping: 70
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294410435
+
+END with Bans:
+[World] vikafilha [vikafilha]: "/kit food"
+
+Client has executed command "say "Kto-nibud' napishite che nit'""
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198152563082 Name: Drakon Character: [MODER]Stanat Ping: 50
+PlayerID: 76561198367661777 Name: Andrei888 Character: zmushko2002 Ping: 109
+PlayerID: 76561198393829004 Name: rubisbogdan Character: BodyaBich Ping: 128
+PlayerID: 76561198322934559 Name: @& утка про  &@ Character: yesjop Ping: 85
+PlayerID: 76561198328119181 Name: Fex Character: Fex Ping: 54
+PlayerID: 76561198347057860 Name: PhantoM Character: ResonZ Ping: 50
+PlayerID: 76561198147477828 Name: galbatsovmikail Character: galbatsovmikail Ping: 66
+PlayerID: 76561198350260924 Name: Спартанец Character: дима Ping: 160
+PlayerID: 76561198345092267 Name: demid3450 Character: [гл террористов] демид журавлёв Ping: 136
+PlayerID: 76561198323972058 Name: GALAXY`S PINGUIN Character: зомби Ping: 74
+PlayerID: 76561198137518896 Name: fitman Character: fitman Ping: 35
+PlayerID: 76561198369248070 Name: Ali Character: Ali Ping: 132
+PlayerID: 76561198395164086 Name: vikafilha Character: vikafilha Ping: 117
+PlayerID: 76561198294590010 Name: Ragnar Character: R4GN4R Ping: 62
+PlayerID: 76561198381173735 Name: ingener_spring Character: ingener_spring Ping: 156
+PlayerID: 76561198368128006 Name: Aibek Character: Aibek Ping: 109
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 54
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 160
+PlayerID: 76561198314638573 Name: UDODMEN Character: udodmen Ping: 78
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294410416
+
+END with Bans:
+Client has executed command "say "v areyu i gruppu""
+
+[Area] [MODER]Stanat [Drakon]: "что"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198152563082 Name: Drakon Character: [MODER]Stanat Ping: 39
+PlayerID: 76561198367661777 Name: Andrei888 Character: zmushko2002 Ping: 97
+PlayerID: 76561198393829004 Name: rubisbogdan Character: BodyaBich Ping: 113
+PlayerID: 76561198322934559 Name: @& утка про  &@ Character: yesjop Ping: 85
+PlayerID: 76561198328119181 Name: Fex Character: Fex Ping: 39
+PlayerID: 76561198347057860 Name: PhantoM Character: ResonZ Ping: 42
+PlayerID: 76561198147477828 Name: galbatsovmikail Character: galbatsovmikail Ping: 78
+PlayerID: 76561198350260924 Name: Спартанец Character: дима Ping: 160
+PlayerID: 76561198345092267 Name: demid3450 Character: [гл террористов] демид журавлёв Ping: 148
+PlayerID: 76561198323972058 Name: GALAXY`S PINGUIN Character: зомби Ping: 54
+PlayerID: 76561198137518896 Name: fitman Character: fitman Ping: 31
+PlayerID: 76561198369248070 Name: Ali Character: Ali Ping: 121
+PlayerID: 76561198395164086 Name: vikafilha Character: vikafilha Ping: 132
+PlayerID: 76561198294590010 Name: Ragnar Character: R4GN4R Ping: 54
+PlayerID: 76561198381173735 Name: ingener_spring Character: ingener_spring Ping: 160
+PlayerID: 76561198368128006 Name: Aibek Character: Aibek Ping: 97
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 46
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 160
+PlayerID: 76561198314638573 Name: UDODMEN Character: udodmen Ping: 82
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294410396
+
+END with Bans:
+[Group] [MODER]Stanat [Drakon]: "что"
+
+Не обработано: MessageAnnouncer >> Broadcast: vk.com/unturned_hgm - цены на премиум, VIP и другие услуги смотрите в группе!
+MessageAnnouncer >> Broadcast: vk.com/unturned_hgm - цены на премиум, VIP и другие услуги смотрите в группе!
+
+Не обработано: MessageAnnouncer >> vk.com/unturned_hgm - цены на премиум, VIP и другие услуги смотрите в группе!
+MessageAnnouncer >> vk.com/unturned_hgm - цены на премиум, VIP и другие услуги смотрите в группе!
+
+Client has executed command "say "Stanat, sps""
+
+[World] ingener_spring [ingener_spring]: "а скочь зачем там его не надо"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198152563082 Name: Drakon Character: [MODER]Stanat Ping: 46
+PlayerID: 76561198367661777 Name: Andrei888 Character: zmushko2002 Ping: 85
+PlayerID: 76561198393829004 Name: rubisbogdan Character: BodyaBich Ping: 109
+PlayerID: 76561198322934559 Name: @& утка про  &@ Character: yesjop Ping: 74
+PlayerID: 76561198328119181 Name: Fex Character: Fex Ping: 50
+PlayerID: 76561198347057860 Name: PhantoM Character: ResonZ Ping: 46
+PlayerID: 76561198147477828 Name: galbatsovmikail Character: galbatsovmikail Ping: 46
+PlayerID: 76561198350260924 Name: Спартанец Character: дима Ping: 152
+PlayerID: 76561198345092267 Name: demid3450 Character: [гл террористов] демид журавлёв Ping: 132
+PlayerID: 76561198323972058 Name: GALAXY`S PINGUIN Character: зомби Ping: 58
+PlayerID: 76561198137518896 Name: fitman Character: fitman Ping: 35
+PlayerID: 76561198369248070 Name: Ali Character: Ali Ping: 125
+PlayerID: 76561198395164086 Name: vikafilha Character: vikafilha Ping: 175
+PlayerID: 76561198294590010 Name: Ragnar Character: R4GN4R Ping: 54
+PlayerID: 76561198381173735 Name: ingener_spring Character: ingener_spring Ping: 164
+PlayerID: 76561198368128006 Name: Aibek Character: Aibek Ping: 101
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 39
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 128
+PlayerID: 76561198314638573 Name: UDODMEN Character: udodmen Ping: 78
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294410376
+
+END with Bans:
+Не обработано: Saving server
+Saving server
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198152563082 Name: Drakon Character: [MODER]Stanat Ping: 46
+PlayerID: 76561198367661777 Name: Andrei888 Character: zmushko2002 Ping: 113
+PlayerID: 76561198393829004 Name: rubisbogdan Character: BodyaBich Ping: 132
+PlayerID: 76561198322934559 Name: @& утка про  &@ Character: yesjop Ping: 74
+PlayerID: 76561198328119181 Name: Fex Character: Fex Ping: 42
+PlayerID: 76561198347057860 Name: PhantoM Character: ResonZ Ping: 58
+PlayerID: 76561198147477828 Name: galbatsovmikail Character: galbatsovmikail Ping: 54
+PlayerID: 76561198350260924 Name: Спартанец Character: дима Ping: 160
+PlayerID: 76561198345092267 Name: demid3450 Character: [гл террористов] демид журавлёв Ping: 125
+PlayerID: 76561198323972058 Name: GALAXY`S PINGUIN Character: зомби Ping: 82
+PlayerID: 76561198137518896 Name: fitman Character: fitman Ping: 42
+PlayerID: 76561198369248070 Name: Ali Character: Ali Ping: 132
+PlayerID: 76561198395164086 Name: vikafilha Character: vikafilha Ping: 175
+PlayerID: 76561198294590010 Name: Ragnar Character: R4GN4R Ping: 58
+PlayerID: 76561198381173735 Name: ingener_spring Character: ingener_spring Ping: 156
+PlayerID: 76561198368128006 Name: Aibek Character: Aibek Ping: 109
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 50
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 144
+PlayerID: 76561198314638573 Name: UDODMEN Character: udodmen Ping: 82
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294410355
+
+TimerTerminateCommand.Enabled with Bans:
+Client has executed command "say "Ya b tebya pokhilil, no ty i tak moder""
+
+END with Bans:
+[World] udodmen [UDODMEN]: "а как светильник сделать"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198152563082 Name: Drakon Character: [MODER]Stanat Ping: 39
+PlayerID: 76561198367661777 Name: Andrei888 Character: zmushko2002 Ping: 121
+PlayerID: 76561198393829004 Name: rubisbogdan Character: BodyaBich Ping: 160
+PlayerID: 76561198322934559 Name: @& утка про  &@ Character: yesjop Ping: 82
+PlayerID: 76561198328119181 Name: Fex Character: Fex Ping: 46
+PlayerID: 76561198347057860 Name: PhantoM Character: ResonZ Ping: 46
+PlayerID: 76561198147477828 Name: galbatsovmikail Character: galbatsovmikail Ping: 54
+PlayerID: 76561198350260924 Name: Спартанец Character: дима Ping: 152
+PlayerID: 76561198345092267 Name: demid3450 Character: [гл террористов] демид журавлёв Ping: 140
+PlayerID: 76561198323972058 Name: GALAXY`S PINGUIN Character: зомби Ping: 54
+PlayerID: 76561198137518896 Name: fitman Character: fitman Ping: 35
+PlayerID: 76561198369248070 Name: Ali Character: Ali Ping: 128
+PlayerID: 76561198395164086 Name: vikafilha Character: vikafilha Ping: 113
+PlayerID: 76561198294590010 Name: Ragnar Character: R4GN4R Ping: 50
+PlayerID: 76561198381173735 Name: ingener_spring Character: ingener_spring Ping: 148
+PlayerID: 76561198368128006 Name: Aibek Character: Aibek Ping: 97
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 42
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 164
+PlayerID: 76561198314638573 Name: UDODMEN Character: udodmen Ping: 74
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294410335
+
+END with Bans:
+[World] [MODER]Stanat [Drakon]: "хех"
+
+[World] [MODER]Stanat [Drakon]: "/vehicle 92"
+
+Не обработано: Successfully gave Drakon 92!
+Successfully gave Drakon 92!
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198152563082 Name: Drakon Character: [MODER]Stanat Ping: 35
+PlayerID: 76561198367661777 Name: Andrei888 Character: zmushko2002 Ping: 125
+PlayerID: 76561198393829004 Name: rubisbogdan Character: BodyaBich Ping: 148
+PlayerID: 76561198322934559 Name: @& утка про  &@ Character: yesjop Ping: 74
+PlayerID: 76561198328119181 Name: Fex Character: Fex Ping: 35
+PlayerID: 76561198347057860 Name: PhantoM Character: ResonZ Ping: 50
+PlayerID: 76561198147477828 Name: galbatsovmikail Character: galbatsovmikail Ping: 82
+PlayerID: 76561198350260924 Name: Спартанец Character: дима Ping: 164
+PlayerID: 76561198345092267 Name: demid3450 Character: [гл террористов] демид журавлёв Ping: 136
+PlayerID: 76561198323972058 Name: GALAXY`S PINGUIN Character: зомби Ping: 70
+PlayerID: 76561198137518896 Name: fitman Character: fitman Ping: 31
+PlayerID: 76561198369248070 Name: Ali Character: Ali Ping: 136
+PlayerID: 76561198395164086 Name: vikafilha Character: vikafilha Ping: 167
+PlayerID: 76561198294590010 Name: Ragnar Character: R4GN4R Ping: 50
+PlayerID: 76561198381173735 Name: ingener_spring Character: ingener_spring Ping: 144
+PlayerID: 76561198368128006 Name: Aibek Character: Aibek Ping: 105
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 39
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 148
+PlayerID: 76561198314638573 Name: UDODMEN Character: udodmen Ping: 78
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294410312
+
+END with Bans:
+[World] Expert1337 [Expert13372284200]: "я тут"
+
+[World] zmushko2002 [Andrei888]: "ко мне нельзя птхаца"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198152563082 Name: Drakon Character: [MODER]Stanat Ping: 46
+PlayerID: 76561198367661777 Name: Andrei888 Character: zmushko2002 Ping: 105
+PlayerID: 76561198393829004 Name: rubisbogdan Character: BodyaBich Ping: 89
+PlayerID: 76561198322934559 Name: @& утка про  &@ Character: yesjop Ping: 74
+PlayerID: 76561198328119181 Name: Fex Character: Fex Ping: 46
+PlayerID: 76561198347057860 Name: PhantoM Character: ResonZ Ping: 58
+PlayerID: 76561198147477828 Name: galbatsovmikail Character: galbatsovmikail Ping: 70
+PlayerID: 76561198350260924 Name: Спартанец Character: дима Ping: 152
+PlayerID: 76561198345092267 Name: demid3450 Character: [гл террористов] демид журавлёв Ping: 125
+PlayerID: 76561198323972058 Name: GALAXY`S PINGUIN Character: зомби Ping: 62
+PlayerID: 76561198137518896 Name: fitman Character: fitman Ping: 31
+PlayerID: 76561198369248070 Name: Ali Character: Ali Ping: 132
+PlayerID: 76561198395164086 Name: vikafilha Character: vikafilha Ping: 148
+PlayerID: 76561198294590010 Name: Ragnar Character: R4GN4R Ping: 58
+PlayerID: 76561198381173735 Name: ingener_spring Character: ingener_spring Ping: 160
+PlayerID: 76561198368128006 Name: Aibek Character: Aibek Ping: 105
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 42
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 136
+PlayerID: 76561198314638573 Name: UDODMEN Character: udodmen Ping: 74
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294410295
+
+END with Bans:
+[World] [MODER]Stanat [Drakon]: "/tp 2002"
+
+Не обработано: [MODER]Stanat телепортирован к zmushko2002
+[MODER]Stanat телепортирован к zmushko2002
+
+Не обработано: [MODER]Stanat moved x:-663.4137 y:71.29158(+32.81426) z:-890.7534 in the last second (0.411644)
+[MODER]Stanat moved x:-663.4137 y:71.29158(+32.81426) z:-890.7534 in the last second (0.411644)
+
+Connecting: PlayerID: 76561198336207759 Name: YoolooKiller Character: Hiden
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198152563082 Name: Drakon Character: [MODER]Stanat Ping: 50
+PlayerID: 76561198367661777 Name: Andrei888 Character: zmushko2002 Ping: 89
+PlayerID: 76561198393829004 Name: rubisbogdan Character: BodyaBich Ping: 140
+PlayerID: 76561198322934559 Name: @& утка про  &@ Character: yesjop Ping: 74
+PlayerID: 76561198328119181 Name: Fex Character: Fex Ping: 46
+PlayerID: 76561198347057860 Name: PhantoM Character: ResonZ Ping: 50
+PlayerID: 76561198147477828 Name: galbatsovmikail Character: galbatsovmikail Ping: 66
+PlayerID: 76561198350260924 Name: Спартанец Character: дима Ping: 152
+PlayerID: 76561198345092267 Name: demid3450 Character: [гл террористов] демид журавлёв Ping: 140
+PlayerID: 76561198323972058 Name: GALAXY`S PINGUIN Character: зомби Ping: 62
+PlayerID: 76561198137518896 Name: fitman Character: fitman Ping: 35
+PlayerID: 76561198369248070 Name: Ali Character: Ali Ping: 128
+PlayerID: 76561198395164086 Name: vikafilha Character: vikafilha Ping: 136
+PlayerID: 76561198294590010 Name: Ragnar Character: R4GN4R Ping: 58
+PlayerID: 76561198381173735 Name: ingener_spring Character: ingener_spring Ping: 171
+PlayerID: 76561198368128006 Name: Aibek Character: Aibek Ping: 109
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 46
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 144
+PlayerID: 76561198314638573 Name: UDODMEN Character: udodmen Ping: 78
+
+TimerTerminateCommand.Enabled with Players:
+PlayerID: 76561198336207759 Name: YoolooKiller Character: Hiden Ping: 54
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294410275
+
+TimerTerminateCommand.Enabled with Bans:
+[World] Fex [Fex]: "/home"
+
+END with Bans:
+[World] zmushko2002 [Andrei888]: "иди гуляй"
+
+Не обработано: MessageAnnouncer >> Broadcast: Наберите /kit claim, чтобы получить Claim Flag
+MessageAnnouncer >> Broadcast: Наберите /kit claim, чтобы получить Claim Flag
+
+Не обработано: MessageAnnouncer >> Наберите /kit claim, чтобы получить Claim Flag
+MessageAnnouncer >> Наберите /kit claim, чтобы получить Claim Flag
+
+[World] Hiden [YoolooKiller]: "/p"
+
+[World] udodmen [UDODMEN]: "из чего светильник делается или светодиод"
+
+[World] Hiden [YoolooKiller]: "/kit"
+
+[World] vikafilha [vikafilha]: "/kif claim"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198152563082 Name: Drakon Character: [MODER]Stanat Ping: 42
+PlayerID: 76561198367661777 Name: Andrei888 Character: zmushko2002 Ping: 93
+PlayerID: 76561198393829004 Name: rubisbogdan Character: BodyaBich Ping: 117
+PlayerID: 76561198322934559 Name: @& утка про  &@ Character: yesjop Ping: 82
+PlayerID: 76561198328119181 Name: Fex Character: Fex Ping: 39
+PlayerID: 76561198347057860 Name: PhantoM Character: ResonZ Ping: 42
+PlayerID: 76561198147477828 Name: galbatsovmikail Character: galbatsovmikail Ping: 62
+PlayerID: 76561198350260924 Name: Спартанец Character: дима Ping: 156
+PlayerID: 76561198345092267 Name: demid3450 Character: [гл террористов] демид журавлёв Ping: 140
+PlayerID: 76561198323972058 Name: GALAXY`S PINGUIN Character: зомби Ping: 54
+PlayerID: 76561198137518896 Name: fitman Character: fitman Ping: 31
+PlayerID: 76561198369248070 Name: Ali Character: Ali Ping: 121
+PlayerID: 76561198395164086 Name: vikafilha Character: vikafilha Ping: 136
+PlayerID: 76561198294590010 Name: Ragnar Character: R4GN4R Ping: 62
+PlayerID: 76561198381173735 Name: ingener_spring Character: ingener_spring Ping: 144
+PlayerID: 76561198368128006 Name: Aibek Character: Aibek Ping: 109
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 46
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 152
+PlayerID: 76561198314638573 Name: UDODMEN Character: udodmen Ping: 74
+PlayerID: 76561198336207759 Name: YoolooKiller Character: Hiden Ping: 46
+
+TimerTerminateCommand.Enabled with Players:
+[World] Fex [Fex]: "/tpa ResonZ"
+
+Не обработано: Fex moved x:-104.0808 y:63.81909(+25.14175) z:239.2247 in the last second (0.5999947)
+TimerTerminateCommand.Enabled with Players:
+[World] ResonZ [PhantoM]: "/tpa accept"
+Fex moved x:-104.0808 y:63.81909(+25.14175) z:239.2247 in the last second (0.5999947)
+
+TimerTerminateCommand.Enabled with Players:
+[World] Hiden [YoolooKiller]: "/kits"
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294410250
+
+Не обработано: DeathMessagesRemastered >> Broadcast: зомби has been mauled by a zombie! 
+Не обработано: зомби [GALAXY`S PINGUIN] was mauled by a zombie!
+Не обработано: [MODER]Stanat телепортирован к [гл террористов] демид журавлёв
+TimerTerminateCommand.Enabled with Bans:
+DeathMessagesRemastered >> Broadcast: зомби has been mauled by a zombie! 
+зомби [GALAXY`S PINGUIN] was mauled by a zombie!
+[World] [MODER]Stanat [Drakon]: "/tp демид"
+[MODER]Stanat телепортирован к [гл террористов] демид журавлёв
+
+END with Bans:
+[World] Hiden [YoolooKiller]: "/kit start"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198152563082 Name: Drakon Character: [MODER]Stanat Ping: 42
+PlayerID: 76561198367661777 Name: Andrei888 Character: zmushko2002 Ping: 109
+PlayerID: 76561198393829004 Name: rubisbogdan Character: BodyaBich Ping: 93
+PlayerID: 76561198322934559 Name: @& утка про  &@ Character: yesjop Ping: 82
+PlayerID: 76561198328119181 Name: Fex Character: Fex Ping: 42
+PlayerID: 76561198347057860 Name: PhantoM Character: ResonZ Ping: 50
+PlayerID: 76561198147477828 Name: galbatsovmikail Character: galbatsovmikail Ping: 54
+PlayerID: 76561198350260924 Name: Спартанец Character: дима Ping: 152
+PlayerID: 76561198345092267 Name: demid3450 Character: [гл террористов] демид журавлёв Ping: 136
+PlayerID: 76561198323972058 Name: GALAXY`S PINGUIN Character: зомби Ping: 328
+PlayerID: 76561198137518896 Name: fitman Character: fitman Ping: 39
+PlayerID: 76561198369248070 Name: Ali Character: Ali Ping: 132
+PlayerID: 76561198395164086 Name: vikafilha Character: vikafilha Ping: 121
+PlayerID: 76561198294590010 Name: Ragnar Character: R4GN4R Ping: 62
+PlayerID: 76561198381173735 Name: ingener_spring Character: ingener_spring Ping: 156
+PlayerID: 76561198368128006 Name: Aibek Character: Aibek Ping: 101
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 54
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 148
+PlayerID: 76561198314638573 Name: UDODMEN Character: udodmen Ping: 70
+PlayerID: 76561198336207759 Name: YoolooKiller Character: Hiden Ping: 39
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294410233
+
+TimerTerminateCommand.Enabled with Bans:
+[World] Expert1337 [Expert13372284200]: "садитесь"
+
+END with Bans:
+[World] зомби [GALAXY`S PINGUIN]: "/tpa fitman"
+
+TimerTerminateCommand.Enabled with Players:
+Client has executed command "players"
+Players:
+PlayerID: 76561198152563082 Name: Drakon Character: [MODER]Stanat Ping: 50
+PlayerID: 76561198367661777 Name: Andrei888 Character: zmushko2002 Ping: 132
+PlayerID: 76561198393829004 Name: rubisbogdan Character: BodyaBich Ping: 156
+PlayerID: 76561198322934559 Name: @& утка про  &@ Character: yesjop Ping: 85
+PlayerID: 76561198328119181 Name: Fex Character: Fex Ping: 70
+PlayerID: 76561198347057860 Name: PhantoM Character: ResonZ Ping: 54
+PlayerID: 76561198147477828 Name: galbatsovmikail Character: galbatsovmikail Ping: 58
+PlayerID: 76561198350260924 Name: Спартанец Character: дима Ping: 152
+PlayerID: 76561198345092267 Name: demid3450 Character: [гл террористов] демид журавлёв Ping: 144
+PlayerID: 76561198323972058 Name: GALAXY`S PINGUIN Character: зомби Ping: 66
+PlayerID: 76561198137518896 Name: fitman Character: fitman Ping: 39
+PlayerID: 76561198369248070 Name: Ali Character: Ali Ping: 121
+PlayerID: 76561198395164086 Name: vikafilha Character: vikafilha Ping: 140
+PlayerID: 76561198294590010 Name: Ragnar Character: R4GN4R Ping: 54
+PlayerID: 76561198381173735 Name: ingener_spring Character: ingener_spring Ping: 148
+PlayerID: 76561198368128006 Name: Aibek Character: Aibek Ping: 97
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 46
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 132
+PlayerID: 76561198314638573 Name: UDODMEN Character: udodmen Ping: 78
+PlayerID: 76561198336207759 Name: YoolooKiller Character: Hiden Ping: 50
+
+TimerTerminateCommand.Enabled with Players:
+[World] BodyaBich [rubisbogdan]: "/kit help"
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294410211
+
+END with Bans:
+[World] Expert1337 [Expert13372284200]: "я ща"
+
+[World] fitman [fitman]: "/tpa accept"
+
+TimerTerminateCommand.Enabled with Players:
+Client has executed command "players"
+Players:
+PlayerID: 76561198152563082 Name: Drakon Character: [MODER]Stanat Ping: 54
+PlayerID: 76561198367661777 Name: Andrei888 Character: zmushko2002 Ping: 101
+PlayerID: 76561198393829004 Name: rubisbogdan Character: BodyaBich Ping: 128
+PlayerID: 76561198322934559 Name: @& утка про  &@ Character: yesjop Ping: 82
+PlayerID: 76561198328119181 Name: Fex Character: Fex Ping: 66
+PlayerID: 76561198347057860 Name: PhantoM Character: ResonZ Ping: 62
+PlayerID: 76561198147477828 Name: galbatsovmikail Character: galbatsovmikail Ping: 50
+PlayerID: 76561198350260924 Name: Спартанец Character: дима Ping: 152
+PlayerID: 76561198345092267 Name: demid3450 Character: [гл террористов] демид журавлёв Ping: 144
+PlayerID: 76561198323972058 Name: GALAXY`S PINGUIN Character: зомби Ping: 179
+PlayerID: 76561198137518896 Name: fitman Character: fitman Ping: 31
+PlayerID: 76561198369248070 Name: Ali Character: Ali Ping: 125
+PlayerID: 76561198395164086 Name: vikafilha Character: vikafilha Ping: 136
+PlayerID: 76561198294590010 Name: Ragnar Character: R4GN4R Ping: 58
+PlayerID: 76561198381173735 Name: ingener_spring Character: ingener_spring Ping: 152
+PlayerID: 76561198368128006 Name: Aibek Character: Aibek Ping: 109
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 39
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 140
+PlayerID: 76561198314638573 Name: UDODMEN Character: udodmen Ping: 78
+PlayerID: 76561198336207759 Name: YoolooKiller Character: Hiden Ping: 42
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294410191
+
+END with Bans:
+Не обработано: DeathMessagesRemastered >> Broadcast: galbatsovmikail has bled to death!
+DeathMessagesRemastered >> Broadcast: galbatsovmikail has bled to death!
+
+Не обработано: galbatsovmikail [galbatsovmikail] bled to death!
+galbatsovmikail [galbatsovmikail] bled to death!
+
+Не обработано: galbatsovmikail moved x:923.3967 y:81.52987(+42.85283) z:511.114 in the last second (0.5495682)
+galbatsovmikail moved x:923.3967 y:81.52987(+42.85283) z:511.114 in the last second (0.5495682)
+
+Disconnecting: PlayerID: 76561198381173735 Name: ingener_spring Character: ingener_spring
+
+[World] udodmen [UDODMEN]: "всевышний сервер скажи из чего светильник создаётся"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198152563082 Name: Drakon Character: [MODER]Stanat Ping: 58
+PlayerID: 76561198367661777 Name: Andrei888 Character: zmushko2002 Ping: 121
+PlayerID: 76561198393829004 Name: rubisbogdan Character: BodyaBich Ping: 89
+PlayerID: 76561198322934559 Name: @& утка про  &@ Character: yesjop Ping: 78
+PlayerID: 76561198328119181 Name: Fex Character: Fex Ping: 66
+PlayerID: 76561198347057860 Name: PhantoM Character: ResonZ Ping: 58
+PlayerID: 76561198147477828 Name: galbatsovmikail Character: galbatsovmikail Ping: 97
+PlayerID: 76561198350260924 Name: Спартанец Character: дима Ping: 160
+PlayerID: 76561198345092267 Name: demid3450 Character: [гл террористов] демид журавлёв Ping: 132
+PlayerID: 76561198323972058 Name: GALAXY`S PINGUIN Character: зомби Ping: 74
+PlayerID: 76561198137518896 Name: fitman Character: fitman Ping: 31
+PlayerID: 76561198369248070 Name: Ali Character: Ali Ping: 132
+PlayerID: 76561198395164086 Name: vikafilha Character: vikafilha Ping: 97
+PlayerID: 76561198294590010 Name: Ragnar Character: R4GN4R Ping: 70
+PlayerID: 76561198368128006 Name: Aibek Character: Aibek Ping: 101
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 50
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 144
+PlayerID: 76561198314638573 Name: UDODMEN Character: udodmen Ping: 78
+PlayerID: 76561198336207759 Name: YoolooKiller Character: Hiden Ping: 54
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294410169
+
+END with Bans:
+Client has executed command "say "Da ya khz voobshche""
+
+[World] [MODER]Stanat [Drakon]: "из флаеров"
+
+Не обработано: DeathMessagesRemastered >> Broadcast: Hiden has been mauled by a zombie! 
+DeathMessagesRemastered >> Broadcast: Hiden has been mauled by a zombie! 
+
+Не обработано: Hiden [YoolooKiller] was mauled by a zombie!
+Hiden [YoolooKiller] was mauled by a zombie!
+
+Disconnecting: PlayerID: 76561198322934559 Name: @& утка про  &@ Character: yesjop
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198152563082 Name: Drakon Character: [MODER]Stanat Ping: 42
+PlayerID: 76561198367661777 Name: Andrei888 Character: zmushko2002 Ping: 93
+PlayerID: 76561198393829004 Name: rubisbogdan Character: BodyaBich Ping: 113
+PlayerID: 76561198328119181 Name: Fex Character: Fex Ping: 50
+PlayerID: 76561198347057860 Name: PhantoM Character: ResonZ Ping: 66
+PlayerID: 76561198147477828 Name: galbatsovmikail Character: galbatsovmikail Ping: 50
+PlayerID: 76561198350260924 Name: Спартанец Character: дима Ping: 148
+PlayerID: 76561198345092267 Name: demid3450 Character: [гл террористов] демид журавлёв Ping: 144
+PlayerID: 76561198323972058 Name: GALAXY`S PINGUIN Character: зомби Ping: 66
+PlayerID: 76561198137518896 Name: fitman Character: fitman Ping: 35
+PlayerID: 76561198369248070 Name: Ali Character: Ali Ping: 117
+PlayerID: 76561198395164086 Name: vikafilha Character: vikafilha Ping: 140
+PlayerID: 76561198294590010 Name: Ragnar Character: R4GN4R Ping: 58
+PlayerID: 76561198368128006 Name: Aibek Character: Aibek Ping: 109
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 58
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 140
+PlayerID: 76561198314638573 Name: UDODMEN Character: udodmen Ping: 74
+PlayerID: 76561198336207759 Name: YoolooKiller Character: Hiden Ping: 46
+
+TimerTerminateCommand.Enabled with Players:
+Disconnecting: PlayerID: 76561198336207759 Name: YoolooKiller Character: Hiden
+
+Не обработано: MessageAnnouncer >> Broadcast: Если модератор ведёт себя неподобающе, пишите в группу или ЛС (vk.com/unturned_hgm, vk.com/hemulgm)
+TimerTerminateCommand.Enabled with Players:
+MessageAnnouncer >> Broadcast: Если модератор ведёт себя неподобающе, пишите в группу или ЛС (vk.com/unturned_hgm, vk.com/hemulgm)
+
+Не обработано: MessageAnnouncer >> Если модератор ведёт себя неподобающе, пишите в группу или ЛС (vk.com/unturned_hgm, vk.com/hemulgm)
+TimerTerminateCommand.Enabled with Players:
+MessageAnnouncer >> Если модератор ведёт себя неподобающе, пишите в группу или ЛС (vk.com/unturned_hgm, vk.com/hemulgm)
+[World] udodmen [UDODMEN]: "пиздц"
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294410150
+
+END with Bans:
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198152563082 Name: Drakon Character: [MODER]Stanat Ping: 39
+PlayerID: 76561198367661777 Name: Andrei888 Character: zmushko2002 Ping: 113
+PlayerID: 76561198393829004 Name: rubisbogdan Character: BodyaBich Ping: 195
+PlayerID: 76561198328119181 Name: Fex Character: Fex Ping: 46
+PlayerID: 76561198347057860 Name: PhantoM Character: ResonZ Ping: 42
+PlayerID: 76561198147477828 Name: galbatsovmikail Character: galbatsovmikail Ping: 74
+PlayerID: 76561198350260924 Name: Спартанец Character: дима Ping: 160
+PlayerID: 76561198345092267 Name: demid3450 Character: [гл террористов] демид журавлёв Ping: 117
+PlayerID: 76561198323972058 Name: GALAXY`S PINGUIN Character: зомби Ping: 58
+PlayerID: 76561198137518896 Name: fitman Character: fitman Ping: 31
+PlayerID: 76561198369248070 Name: Ali Character: Ali Ping: 121
+PlayerID: 76561198395164086 Name: vikafilha Character: vikafilha Ping: 132
+PlayerID: 76561198294590010 Name: Ragnar Character: R4GN4R Ping: 54
+PlayerID: 76561198368128006 Name: Aibek Character: Aibek Ping: 93
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 39
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 144
+PlayerID: 76561198314638573 Name: UDODMEN Character: udodmen Ping: 74
+
+TimerTerminateCommand.Enabled with Players:
+Client has executed command "say "Aa, esli takoy to da. Iz dvukh naprimer zelyonykhflerov""
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294410131
+
+END with Bans:
+Connecting: PlayerID: 76561198292543416 Name: Mr_GiladKing Character: GamerYT
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198152563082 Name: Drakon Character: [MODER]Stanat Ping: 39
+PlayerID: 76561198367661777 Name: Andrei888 Character: zmushko2002 Ping: 109
+PlayerID: 76561198393829004 Name: rubisbogdan Character: BodyaBich Ping: 105
+PlayerID: 76561198328119181 Name: Fex Character: Fex Ping: 46
+PlayerID: 76561198347057860 Name: PhantoM Character: ResonZ Ping: 42
+PlayerID: 76561198147477828 Name: galbatsovmikail Character: galbatsovmikail Ping: 50
+PlayerID: 76561198350260924 Name: Спартанец Character: дима Ping: 152
+PlayerID: 76561198345092267 Name: demid3450 Character: [гл террористов] демид журавлёв Ping: 128
+PlayerID: 76561198323972058 Name: GALAXY`S PINGUIN Character: зомби Ping: 66
+PlayerID: 76561198137518896 Name: fitman Character: fitman Ping: 31
+PlayerID: 76561198369248070 Name: Ali Character: Ali Ping: 136
+PlayerID: 76561198395164086 Name: vikafilha Character: vikafilha Ping: 144
+PlayerID: 76561198294590010 Name: Ragnar Character: R4GN4R Ping: 66
+PlayerID: 76561198368128006 Name: Aibek Character: Aibek Ping: 97
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 42
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 140
+PlayerID: 76561198314638573 Name: UDODMEN Character: udodmen Ping: 70
+PlayerID: 76561198292543416 Name: Mr_GiladKing Character: GamerYT Ping: 191
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294410110
+
+END with Bans:
+[World] 7_AleX_3 [7_AleX_3]: "/tpa zmu"
+
+Не обработано: Successfully set time to day!
+[World] [MODER]Stanat [Drakon]: "/day"
+Successfully set time to day!
+
+[World] udodmen [UDODMEN]: "не железный жёлтый нужен"
+
+Disconnecting: PlayerID: 76561198292543416 Name: Mr_GiladKing Character: GamerYT
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198152563082 Name: Drakon Character: [MODER]Stanat Ping: 31
+PlayerID: 76561198367661777 Name: Andrei888 Character: zmushko2002 Ping: 121
+PlayerID: 76561198393829004 Name: rubisbogdan Character: BodyaBich Ping: 128
+PlayerID: 76561198328119181 Name: Fex Character: Fex Ping: 70
+PlayerID: 76561198347057860 Name: PhantoM Character: ResonZ Ping: 46
+PlayerID: 76561198147477828 Name: galbatsovmikail Character: galbatsovmikail Ping: 54
+PlayerID: 76561198350260924 Name: Спартанец Character: дима Ping: 160
+PlayerID: 76561198345092267 Name: demid3450 Character: [гл террористов] демид журавлёв Ping: 144
+PlayerID: 76561198323972058 Name: GALAXY`S PINGUIN Character: зомби Ping: 62
+PlayerID: 76561198137518896 Name: fitman Character: fitman Ping: 35
+PlayerID: 76561198369248070 Name: Ali Character: Ali Ping: 132
+PlayerID: 76561198395164086 Name: vikafilha Character: vikafilha Ping: 140
+PlayerID: 76561198294590010 Name: Ragnar Character: R4GN4R Ping: 62
+PlayerID: 76561198368128006 Name: Aibek Character: Aibek Ping: 109
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 42
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 136
+PlayerID: 76561198314638573 Name: UDODMEN Character: udodmen Ping: 78
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294410090
+
+END with Bans:
+Client has executed command "say "Aa, bol'shoy. Tol'ko iskat'""
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198152563082 Name: Drakon Character: [MODER]Stanat Ping: 105
+PlayerID: 76561198367661777 Name: Andrei888 Character: zmushko2002 Ping: 128
+PlayerID: 76561198393829004 Name: rubisbogdan Character: BodyaBich Ping: 121
+PlayerID: 76561198328119181 Name: Fex Character: Fex Ping: 62
+PlayerID: 76561198347057860 Name: PhantoM Character: ResonZ Ping: 42
+PlayerID: 76561198147477828 Name: galbatsovmikail Character: galbatsovmikail Ping: 35
+PlayerID: 76561198350260924 Name: Спартанец Character: дима Ping: 156
+PlayerID: 76561198345092267 Name: demid3450 Character: [гл террористов] демид журавлёв Ping: 144
+PlayerID: 76561198323972058 Name: GALAXY`S PINGUIN Character: зомби Ping: 74
+PlayerID: 76561198137518896 Name: fitman Character: fitman Ping: 31
+PlayerID: 76561198369248070 Name: Ali Character: Ali Ping: 136
+PlayerID: 76561198395164086 Name: vikafilha Character: vikafilha Ping: 152
+PlayerID: 76561198294590010 Name: Ragnar Character: R4GN4R Ping: 62
+PlayerID: 76561198368128006 Name: Aibek Character: Aibek Ping: 101
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 46
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 140
+PlayerID: 76561198314638573 Name: UDODMEN Character: udodmen Ping: 78
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294410070
+
+END with Bans:
+[World] Expert1337 [Expert13372284200]: "о прив"
+
+[World] zmushko2002 [Andrei888]: "/tpa a"
+
+[World] udodmen [UDODMEN]: "пипец а те которые на стены лепятся"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198152563082 Name: Drakon Character: [MODER]Stanat Ping: 35
+PlayerID: 76561198367661777 Name: Andrei888 Character: zmushko2002 Ping: 89
+PlayerID: 76561198393829004 Name: rubisbogdan Character: BodyaBich Ping: 207
+PlayerID: 76561198328119181 Name: Fex Character: Fex Ping: 58
+PlayerID: 76561198347057860 Name: PhantoM Character: ResonZ Ping: 54
+PlayerID: 76561198147477828 Name: galbatsovmikail Character: galbatsovmikail Ping: 54
+PlayerID: 76561198350260924 Name: Спартанец Character: дима Ping: 156
+PlayerID: 76561198345092267 Name: demid3450 Character: [гл террористов] демид журавлёв Ping: 121
+PlayerID: 76561198323972058 Name: GALAXY`S PINGUIN Character: зомби Ping: 78
+PlayerID: 76561198137518896 Name: fitman Character: fitman Ping: 35
+PlayerID: 76561198369248070 Name: Ali Character: Ali Ping: 121
+PlayerID: 76561198395164086 Name: vikafilha Character: vikafilha Ping: 152
+PlayerID: 76561198294590010 Name: Ragnar Character: R4GN4R Ping: 58
+PlayerID: 76561198368128006 Name: Aibek Character: Aibek Ping: 93
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 230
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 132
+PlayerID: 76561198314638573 Name: UDODMEN Character: udodmen Ping: 74
+
+TimerTerminateCommand.Enabled with Players:
+[World] zmushko2002 [Andrei888]: "что надо?"
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294410048
+
+END with Bans:
+[World] 7_AleX_3 [7_AleX_3]: "а сделаш пж"
+
+Connecting: PlayerID: 76561198204441589 Name: R^One[D] (бомж) Character: R^One
+
+[World] zmushko2002 [Andrei888]: "что?"
+
+[World] 7_AleX_3 [7_AleX_3]: "как название англ"
+[World] Expert1337 [Expert13372284200]: "дай ему колть и патроны к нему"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198152563082 Name: Drakon Character: [MODER]Stanat Ping: 42
+PlayerID: 76561198367661777 Name: Andrei888 Character: zmushko2002 Ping: 109
+PlayerID: 76561198393829004 Name: rubisbogdan Character: BodyaBich Ping: 144
+PlayerID: 76561198328119181 Name: Fex Character: Fex Ping: 42
+PlayerID: 76561198347057860 Name: PhantoM Character: ResonZ Ping: 54
+PlayerID: 76561198147477828 Name: galbatsovmikail Character: galbatsovmikail Ping: 54
+PlayerID: 76561198350260924 Name: Спартанец Character: дима Ping: 152
+PlayerID: 76561198345092267 Name: demid3450 Character: [гл террористов] демид журавлёв Ping: 121
+PlayerID: 76561198323972058 Name: GALAXY`S PINGUIN Character: зомби Ping: 105
+PlayerID: 76561198137518896 Name: fitman Character: fitman Ping: 35
+PlayerID: 76561198369248070 Name: Ali Character: Ali Ping: 128
+PlayerID: 76561198395164086 Name: vikafilha Character: vikafilha Ping: 152
+PlayerID: 76561198294590010 Name: Ragnar Character: R4GN4R Ping: 58
+PlayerID: 76561198368128006 Name: Aibek Character: Aibek Ping: 97
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 39
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 152
+PlayerID: 76561198314638573 Name: UDODMEN Character: udodmen Ping: 82
+PlayerID: 76561198204441589 Name: R^One[D] (бомж) Character: R^One Ping: 39
+
+Не обработано: MessageAnnouncer >> Broadcast: vk.com/hemulgm - ЕДИНСТВЕННЫЙ администратор сервера
+TimerTerminateCommand.Enabled with Players:
+MessageAnnouncer >> Broadcast: vk.com/hemulgm - ЕДИНСТВЕННЫЙ администратор сервера
+
+Не обработано: MessageAnnouncer >> vk.com/hemulgm - ЕДИНСТВЕННЫЙ администратор сервера
+TimerTerminateCommand.Enabled with Players:
+MessageAnnouncer >> vk.com/hemulgm - ЕДИНСТВЕННЫЙ администратор сервера
+
+TimerTerminateCommand.Enabled with Players:
+[World] [гл террористов] демид журавлёв [demid3450]: "/kit claim"
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294410028
+
+TimerTerminateCommand.Enabled with Bans:
+[World] 7_AleX_3 [7_AleX_3]: "генератор воздух"
+
+END with Bans:
+[World] Expert1337 [Expert13372284200]: "за это"
+
+[World] [MODER]Stanat [Drakon]: "/i colt 10"
+
+Не обработано: Дал [MODER]Stanat вещь 97:10
+Дал [MODER]Stanat вещь 97:10
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198152563082 Name: Drakon Character: [MODER]Stanat Ping: 50
+PlayerID: 76561198367661777 Name: Andrei888 Character: zmushko2002 Ping: 113
+PlayerID: 76561198393829004 Name: rubisbogdan Character: BodyaBich Ping: 121
+PlayerID: 76561198328119181 Name: Fex Character: Fex Ping: 74
+PlayerID: 76561198347057860 Name: PhantoM Character: ResonZ Ping: 54
+PlayerID: 76561198147477828 Name: galbatsovmikail Character: galbatsovmikail Ping: 54
+PlayerID: 76561198350260924 Name: Спартанец Character: дима Ping: 148
+PlayerID: 76561198345092267 Name: demid3450 Character: [гл террористов] демид журавлёв Ping: 171
+PlayerID: 76561198323972058 Name: GALAXY`S PINGUIN Character: зомби Ping: 82
+PlayerID: 76561198137518896 Name: fitman Character: fitman Ping: 39
+PlayerID: 76561198369248070 Name: Ali Character: Ali Ping: 132
+PlayerID: 76561198395164086 Name: vikafilha Character: vikafilha Ping: 117
+PlayerID: 76561198294590010 Name: Ragnar Character: R4GN4R Ping: 62
+PlayerID: 76561198368128006 Name: Aibek Character: Aibek Ping: 101
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 46
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 148
+PlayerID: 76561198314638573 Name: UDODMEN Character: udodmen Ping: 82
+PlayerID: 76561198204441589 Name: R^One[D] (бомж) Character: R^One Ping: 39
+
+TimerTerminateCommand.Enabled with Players:
+[World] Expert1337 [Expert13372284200]: "патроны ещё"
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294410006
+
+END with Bans:
+Connecting: PlayerID: 76561198262878051 Name: Kolder Character: Kolder
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198152563082 Name: Drakon Character: [MODER]Stanat Ping: 42
+PlayerID: 76561198367661777 Name: Andrei888 Character: zmushko2002 Ping: 101
+PlayerID: 76561198393829004 Name: rubisbogdan Character: BodyaBich Ping: 128
+PlayerID: 76561198328119181 Name: Fex Character: Fex Ping: 70
+PlayerID: 76561198347057860 Name: PhantoM Character: ResonZ Ping: 62
+PlayerID: 76561198147477828 Name: galbatsovmikail Character: galbatsovmikail Ping: 54
+PlayerID: 76561198350260924 Name: Спартанец Character: дима Ping: 156
+PlayerID: 76561198345092267 Name: demid3450 Character: [гл террористов] демид журавлёв Ping: 152
+PlayerID: 76561198323972058 Name: GALAXY`S PINGUIN Character: зомби Ping: 54
+PlayerID: 76561198137518896 Name: fitman Character: fitman Ping: 35
+PlayerID: 76561198369248070 Name: Ali Character: Ali Ping: 125
+PlayerID: 76561198395164086 Name: vikafilha Character: vikafilha Ping: 113
+PlayerID: 76561198294590010 Name: Ragnar Character: R4GN4R Ping: 54
+PlayerID: 76561198368128006 Name: Aibek Character: Aibek Ping: 97
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 31
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 128
+PlayerID: 76561198314638573 Name: UDODMEN Character: udodmen Ping: 78
+PlayerID: 76561198204441589 Name: R^One[D] (бомж) Character: R^One Ping: 39
+PlayerID: 76561198262878051 Name: Kolder Character: Kolder Ping: 347
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294409990
+
+TimerTerminateCommand.Enabled with Bans:
+[World] R^One [R^One[D] (бомж)]: "/kits"
+
+END with Bans:
+[World] zmushko2002 [Andrei888]: "не даю слово что зделаю мне тоже 1 надо"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198152563082 Name: Drakon Character: [MODER]Stanat Ping: 42
+PlayerID: 76561198367661777 Name: Andrei888 Character: zmushko2002 Ping: 109
+PlayerID: 76561198393829004 Name: rubisbogdan Character: BodyaBich Ping: 125
+PlayerID: 76561198328119181 Name: Fex Character: Fex Ping: 74
+PlayerID: 76561198347057860 Name: PhantoM Character: ResonZ Ping: 62
+PlayerID: 76561198147477828 Name: galbatsovmikail Character: galbatsovmikail Ping: 42
+PlayerID: 76561198350260924 Name: Спартанец Character: дима Ping: 179
+PlayerID: 76561198345092267 Name: demid3450 Character: [гл террористов] демид журавлёв Ping: 148
+PlayerID: 76561198323972058 Name: GALAXY`S PINGUIN Character: зомби Ping: 70
+PlayerID: 76561198137518896 Name: fitman Character: fitman Ping: 27
+PlayerID: 76561198369248070 Name: Ali Character: Ali Ping: 125
+PlayerID: 76561198395164086 Name: vikafilha Character: vikafilha Ping: 140
+PlayerID: 76561198294590010 Name: Ragnar Character: R4GN4R Ping: 62
+PlayerID: 76561198368128006 Name: Aibek Character: Aibek Ping: 101
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 39
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 167
+PlayerID: 76561198314638573 Name: UDODMEN Character: udodmen Ping: 74
+PlayerID: 76561198204441589 Name: R^One[D] (бомж) Character: R^One Ping: 27
+PlayerID: 76561198262878051 Name: Kolder Character: Kolder Ping: 46
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294409970
+
+END with Bans:
+[World] zmushko2002 [Andrei888]: "найдешь болон тогда зделаю"
+
+[World] 7_AleX_3 [7_AleX_3]: "как сделать название англ"
+
+[World] [MODER]Stanat [Drakon]: "нестреляйт"
+
+[World] Kolder [Kolder]: "/tpa xpert"
+
+[World] 7_AleX_3 [7_AleX_3]: "какой балон"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198152563082 Name: Drakon Character: [MODER]Stanat Ping: 46
+PlayerID: 76561198367661777 Name: Andrei888 Character: zmushko2002 Ping: 121
+PlayerID: 76561198393829004 Name: rubisbogdan Character: BodyaBich Ping: 175
+PlayerID: 76561198328119181 Name: Fex Character: Fex Ping: 66
+PlayerID: 76561198347057860 Name: PhantoM Character: ResonZ Ping: 54
+PlayerID: 76561198147477828 Name: galbatsovmikail Character: galbatsovmikail Ping: 58
+PlayerID: 76561198350260924 Name: Спартанец Character: дима Ping: 152
+PlayerID: 76561198345092267 Name: demid3450 Character: [гл террористов] демид журавлёв Ping: 132
+PlayerID: 76561198323972058 Name: GALAXY`S PINGUIN Character: зомби Ping: 58
+PlayerID: 76561198137518896 Name: fitman Character: fitman Ping: 39
+PlayerID: 76561198369248070 Name: Ali Character: Ali Ping: 125
+PlayerID: 76561198395164086 Name: vikafilha Character: vikafilha Ping: 136
+PlayerID: 76561198294590010 Name: Ragnar Character: R4GN4R Ping: 62
+PlayerID: 76561198368128006 Name: Aibek Character: Aibek Ping: 101
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 35
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 128
+PlayerID: 76561198314638573 Name: UDODMEN Character: udodmen Ping: 74
+PlayerID: 76561198204441589 Name: R^One[D] (бомж) Character: R^One Ping: 39
+PlayerID: 76561198262878051 Name: Kolder Character: Kolder Ping: 50
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294409950
+
+TimerTerminateCommand.Enabled with Bans:
+Disconnecting: PlayerID: 76561198204441589 Name: R^One[D] (бомж) Character: R^One
+
+TimerTerminateCommand.Enabled with Bans:
+[World] zmushko2002 [Andrei888]: "обычный желтый болог"
+
+END with Bans:
+[World] 7_AleX_3 [7_AleX_3]: "/home"
+
+[World] udodmen [UDODMEN]: "нашёл метал и палки из метала нужны"
+
+[World] zmushko2002 [Andrei888]: "болон?"
+
+[World] zmushko2002 [Andrei888]: "болон*"
+
+TimerTerminateCommand.Enabled with Players:
+Client has executed command "players"
+Players:
+PlayerID: 76561198152563082 Name: Drakon Character: [MODER]Stanat Ping: 35
+PlayerID: 76561198367661777 Name: Andrei888 Character: zmushko2002 Ping: 97
+PlayerID: 76561198393829004 Name: rubisbogdan Character: BodyaBich Ping: 140
+PlayerID: 76561198328119181 Name: Fex Character: Fex Ping: 46
+PlayerID: 76561198347057860 Name: PhantoM Character: ResonZ Ping: 50
+PlayerID: 76561198147477828 Name: galbatsovmikail Character: galbatsovmikail Ping: 101
+PlayerID: 76561198350260924 Name: Спартанец Character: дима Ping: 160
+PlayerID: 76561198345092267 Name: demid3450 Character: [гл террористов] демид журавлёв Ping: 148
+PlayerID: 76561198323972058 Name: GALAXY`S PINGUIN Character: зомби Ping: 66
+PlayerID: 76561198137518896 Name: fitman Character: fitman Ping: 27
+PlayerID: 76561198369248070 Name: Ali Character: Ali Ping: 125
+PlayerID: 76561198395164086 Name: vikafilha Character: vikafilha Ping: 128
+PlayerID: 76561198294590010 Name: Ragnar Character: R4GN4R Ping: 58
+PlayerID: 76561198368128006 Name: Aibek Character: Aibek Ping: 101
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 54
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 183
+PlayerID: 76561198314638573 Name: UDODMEN Character: udodmen Ping: 70
+PlayerID: 76561198262878051 Name: Kolder Character: Kolder Ping: 46
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294409929
+
+END with Bans:
+[World] Expert1337 [Expert13372284200]: "военку одевай"
+
+Не обработано: MessageAnnouncer >> Broadcast: Используйте /report [ник], чтобы отправить жалобу на игрока
+Не обработано: MessageAnnouncer >> Используйте /report [ник], чтобы отправить жалобу на игрока
+MessageAnnouncer >> Broadcast: Используйте /report [ник], чтобы отправить жалобу на игрока
+MessageAnnouncer >> Используйте /report [ник], чтобы отправить жалобу на игрока
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198152563082 Name: Drakon Character: [MODER]Stanat Ping: 42
+PlayerID: 76561198367661777 Name: Andrei888 Character: zmushko2002 Ping: 93
+PlayerID: 76561198393829004 Name: rubisbogdan Character: BodyaBich Ping: 156
+PlayerID: 76561198328119181 Name: Fex Character: Fex Ping: 54
+PlayerID: 76561198347057860 Name: PhantoM Character: ResonZ Ping: 54
+PlayerID: 76561198147477828 Name: galbatsovmikail Character: galbatsovmikail Ping: 39
+PlayerID: 76561198350260924 Name: Спартанец Character: дима Ping: 160
+PlayerID: 76561198345092267 Name: demid3450 Character: [гл террористов] демид журавлёв Ping: 132
+PlayerID: 76561198323972058 Name: GALAXY`S PINGUIN Character: зомби Ping: 54
+PlayerID: 76561198137518896 Name: fitman Character: fitman Ping: 31
+PlayerID: 76561198369248070 Name: Ali Character: Ali Ping: 121
+PlayerID: 76561198395164086 Name: vikafilha Character: vikafilha Ping: 140
+PlayerID: 76561198294590010 Name: Ragnar Character: R4GN4R Ping: 54
+PlayerID: 76561198368128006 Name: Aibek Character: Aibek Ping: 93
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 54
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 132
+PlayerID: 76561198314638573 Name: UDODMEN Character: udodmen Ping: 74
+PlayerID: 76561198262878051 Name: Kolder Character: Kolder Ping: 42
+
+TimerTerminateCommand.Enabled with Players:
+Disconnecting: PlayerID: 76561198369248070 Name: Ali Character: Ali
+
+TimerTerminateCommand.Enabled with Players:
+Connecting: PlayerID: 76561198381173735 Name: ingener_spring Character: ingener_spring
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294409907
+
+END with Bans:
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198152563082 Name: Drakon Character: [MODER]Stanat Ping: 46
+PlayerID: 76561198367661777 Name: Andrei888 Character: zmushko2002 Ping: 101
+PlayerID: 76561198393829004 Name: rubisbogdan Character: BodyaBich Ping: 175
+PlayerID: 76561198328119181 Name: Fex Character: Fex Ping: 46
+PlayerID: 76561198347057860 Name: PhantoM Character: ResonZ Ping: 39
+PlayerID: 76561198147477828 Name: galbatsovmikail Character: galbatsovmikail Ping: 42
+PlayerID: 76561198350260924 Name: Спартанец Character: дима Ping: 152
+PlayerID: 76561198345092267 Name: demid3450 Character: [гл террористов] демид журавлёв Ping: 136
+PlayerID: 76561198323972058 Name: GALAXY`S PINGUIN Character: зомби Ping: 58
+PlayerID: 76561198137518896 Name: fitman Character: fitman Ping: 31
+PlayerID: 76561198395164086 Name: vikafilha Character: vikafilha Ping: 125
+PlayerID: 76561198294590010 Name: Ragnar Character: R4GN4R Ping: 58
+PlayerID: 76561198368128006 Name: Aibek Character: Aibek Ping: 93
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 74
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 132
+PlayerID: 76561198314638573 Name: UDODMEN Character: udodmen Ping: 78
+PlayerID: 76561198262878051 Name: Kolder Character: Kolder Ping: 42
+PlayerID: 76561198381173735 Name: ingener_spring Character: ingener_spring Ping: 179
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294409889
+
+END with Bans:
+[World] ingener_spring [ingener_spring]: "/tpa Expert1337"
+
+[World] Expert1337 [Expert13372284200]: "индженер тп"
+
+[World] Expert1337 [Expert13372284200]: "/tpa a"
+
+[World] [MODER]Stanat [Drakon]: "/vehicle 109"
+
+Не обработано: Successfully gave Drakon 109!
+Successfully gave Drakon 109!
+
+TimerTerminateCommand.Enabled with Players:
+Client has executed command "players"
+Players:
+PlayerID: 76561198152563082 Name: Drakon Character: [MODER]Stanat Ping: 46
+PlayerID: 76561198367661777 Name: Andrei888 Character: zmushko2002 Ping: 89
+PlayerID: 76561198393829004 Name: rubisbogdan Character: BodyaBich Ping: 132
+PlayerID: 76561198328119181 Name: Fex Character: Fex Ping: 42
+PlayerID: 76561198347057860 Name: PhantoM Character: ResonZ Ping: 54
+PlayerID: 76561198147477828 Name: galbatsovmikail Character: galbatsovmikail Ping: 46
+PlayerID: 76561198350260924 Name: Спартанец Character: дима Ping: 156
+PlayerID: 76561198345092267 Name: demid3450 Character: [гл террористов] демид журавлёв Ping: 136
+PlayerID: 76561198323972058 Name: GALAXY`S PINGUIN Character: зомби Ping: 62
+PlayerID: 76561198137518896 Name: fitman Character: fitman Ping: 31
+PlayerID: 76561198395164086 Name: vikafilha Character: vikafilha Ping: 136
+PlayerID: 76561198294590010 Name: Ragnar Character: R4GN4R Ping: 62
+PlayerID: 76561198368128006 Name: Aibek Character: Aibek Ping: 97
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 54
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 152
+PlayerID: 76561198314638573 Name: UDODMEN Character: udodmen Ping: 78
+PlayerID: 76561198262878051 Name: Kolder Character: Kolder Ping: 42
+PlayerID: 76561198381173735 Name: ingener_spring Character: ingener_spring Ping: 144
+
+Не обработано: DeathMessagesRemastered >> Broadcast: vikafilha has been mauled by a zombie! 
+Не обработано: vikafilha [vikafilha] was mauled by a zombie!
+Не обработано: vikafilha moved x:603.2104 y:65.92196(+39.47053) z:584.0616 in the last second (0.09999847)
+TimerTerminateCommand.Enabled with Players:
+Connecting: PlayerID: 76561198369248070 Name: Ali Character: Ali
+DeathMessagesRemastered >> Broadcast: vikafilha has been mauled by a zombie! 
+vikafilha [vikafilha] was mauled by a zombie!
+[World] zmushko2002 [Andrei888]: "модер вт зачем ты ко мне тпнулся?"
+[World] vikafilha [vikafilha]: "/home"
+vikafilha moved x:603.2104 y:65.92196(+39.47053) z:584.0616 in the last second (0.09999847)
+Disconnecting: PlayerID: 76561198393829004 Name: rubisbogdan Character: BodyaBich
+[World] [MODER]Stanat [Drakon]: "щас?"
+
+TimerTerminateCommand.Enabled with Players:
+Client has executed command "players"
+
+END with Players:
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198152563082 Name: Drakon Character: [MODER]Stanat Ping: 50
+PlayerID: 76561198367661777 Name: Andrei888 Character: zmushko2002 Ping: 109
+PlayerID: 76561198328119181 Name: Fex Character: Fex Ping: 70
+PlayerID: 76561198347057860 Name: PhantoM Character: ResonZ Ping: 58
+PlayerID: 76561198147477828 Name: galbatsovmikail Character: galbatsovmikail Ping: 82
+PlayerID: 76561198350260924 Name: Спартанец Character: дима Ping: 164
+PlayerID: 76561198345092267 Name: demid3450 Character: [гл террористов] демид журавлёв Ping: 136
+PlayerID: 76561198323972058 Name: GALAXY`S PINGUIN Character: зомби Ping: 74
+PlayerID: 76561198137518896 Name: fitman Character: fitman Ping: 39
+PlayerID: 76561198395164086 Name: vikafilha Character: vikafilha Ping: 140
+PlayerID: 76561198294590010 Name: Ragnar Character: R4GN4R Ping: 62
+PlayerID: 76561198368128006 Name: Aibek Character: Aibek Ping: 105
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 46
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 128
+PlayerID: 76561198314638573 Name: UDODMEN Character: udodmen Ping: 82
+PlayerID: 76561198262878051 Name: Kolder Character: Kolder Ping: 46
+PlayerID: 76561198381173735 Name: ingener_spring Character: ingener_spring Ping: 152
+PlayerID: 76561198369248070 Name: Ali Character: Ali Ping: 128
+
+TimerTerminateCommand.Enabled with Players:
+Client has executed command "bans"
+
+END with Players:
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294409827
+
+END with Bans:
+TimerTerminateCommand.Enabled with Bans:
+Client has executed command "bans"
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294409827
+
+END with Bans:
+[World] zmushko2002 [Andrei888]: "тогда когда я дома был?"
+
+[World] [MODER]Stanat [Drakon]: "хз"
+
+[World] Kolder [Kolder]: "/report"
+[World] [MODER]Stanat [Drakon]: "захотел и тп"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198152563082 Name: Drakon Character: [MODER]Stanat Ping: 46
+PlayerID: 76561198367661777 Name: Andrei888 Character: zmushko2002 Ping: 117
+PlayerID: 76561198328119181 Name: Fex Character: Fex Ping: 39
+PlayerID: 76561198347057860 Name: PhantoM Character: ResonZ Ping: 62
+PlayerID: 76561198147477828 Name: galbatsovmikail Character: galbatsovmikail Ping: 50
+PlayerID: 76561198350260924 Name: Спартанец Character: дима Ping: 160
+PlayerID: 76561198345092267 Name: demid3450 Character: [гл террористов] демид журавлёв Ping: 128
+PlayerID: 76561198323972058 Name: GALAXY`S PINGUIN Character: зомби Ping: 54
+PlayerID: 76561198137518896 Name: fitman Character: fitman Ping: 31
+PlayerID: 76561198395164086 Name: vikafilha Character: vikafilha Ping: 128
+PlayerID: 76561198294590010 Name: Ragnar Character: R4GN4R Ping: 58
+PlayerID: 76561198368128006 Name: Aibek Character: Aibek Ping: 97
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 50
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 140
+PlayerID: 76561198314638573 Name: UDODMEN Character: udodmen Ping: 70
+PlayerID: 76561198262878051 Name: Kolder Character: Kolder Ping: 50
+PlayerID: 76561198381173735 Name: ingener_spring Character: ingener_spring Ping: 156
+PlayerID: 76561198369248070 Name: Ali Character: Ali Ping: 121
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294409804
+
+END with Bans:
+Client has executed command "give 76561198314638573 459"
+
+Не обработано: Successfully gave UDODMEN 459 x1!
+Successfully gave UDODMEN 459 x1!
+
+Не обработано: galbatsovmikail moved x:-253.117 y:54.6104(+15.87056) z:100.6439 in the last second (0.09999847)
+galbatsovmikail moved x:-253.117 y:54.6104(+15.87056) z:100.6439 in the last second (0.09999847)
+
+[World] Kolder [Kolder]: "/report  zmushko2002"
+
+Не обработано: MessageAnnouncer >> Broadcast: Наберите /rules (/r) для просмотра правил
+Не обработано: MessageAnnouncer >> Наберите /rules (/r) для просмотра правил
+MessageAnnouncer >> Broadcast: Наберите /rules (/r) для просмотра правил
+MessageAnnouncer >> Наберите /rules (/r) для просмотра правил
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198152563082 Name: Drakon Character: [MODER]Stanat Ping: 42
+PlayerID: 76561198367661777 Name: Andrei888 Character: zmushko2002 Ping: 128
+PlayerID: 76561198328119181 Name: Fex Character: Fex Ping: 74
+PlayerID: 76561198347057860 Name: PhantoM Character: ResonZ Ping: 58
+PlayerID: 76561198147477828 Name: galbatsovmikail Character: galbatsovmikail Ping: 58
+PlayerID: 76561198350260924 Name: Спартанец Character: дима Ping: 164
+PlayerID: 76561198345092267 Name: demid3450 Character: [гл террористов] демид журавлёв Ping: 140
+PlayerID: 76561198323972058 Name: GALAXY`S PINGUIN Character: зомби Ping: 66
+PlayerID: 76561198137518896 Name: fitman Character: fitman Ping: 35
+PlayerID: 76561198395164086 Name: vikafilha Character: vikafilha Ping: 125
+PlayerID: 76561198294590010 Name: Ragnar Character: R4GN4R Ping: 58
+PlayerID: 76561198368128006 Name: Aibek Character: Aibek Ping: 109
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 46
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 160
+PlayerID: 76561198314638573 Name: UDODMEN Character: udodmen Ping: 78
+PlayerID: 76561198262878051 Name: Kolder Character: Kolder Ping: 50
+PlayerID: 76561198381173735 Name: ingener_spring Character: ingener_spring Ping: 156
+PlayerID: 76561198369248070 Name: Ali Character: Ali Ping: 144
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294409784
+
+TimerTerminateCommand.Enabled with Bans:
+Connecting: PlayerID: 76561198204441589 Name: R^One[D] (бомж) Character: R^One
+
+END with Bans:
+Не обработано: DeathMessagesRemastered >> Broadcast: vikafilha has been mauled by a zombie! 
+Не обработано: vikafilha [vikafilha] was mauled by a zombie!
+DeathMessagesRemastered >> Broadcast: vikafilha has been mauled by a zombie! 
+vikafilha [vikafilha] was mauled by a zombie!
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198152563082 Name: Drakon Character: [MODER]Stanat Ping: 31
+PlayerID: 76561198367661777 Name: Andrei888 Character: zmushko2002 Ping: 97
+PlayerID: 76561198328119181 Name: Fex Character: Fex Ping: 27
+PlayerID: 76561198347057860 Name: PhantoM Character: ResonZ Ping: 50
+PlayerID: 76561198147477828 Name: galbatsovmikail Character: galbatsovmikail Ping: 50
+PlayerID: 76561198350260924 Name: Спартанец Character: дима Ping: 156
+PlayerID: 76561198345092267 Name: demid3450 Character: [гл террористов] демид журавлёв Ping: 140
+PlayerID: 76561198323972058 Name: GALAXY`S PINGUIN Character: зомби Ping: 78
+PlayerID: 76561198137518896 Name: fitman Character: fitman Ping: 23
+PlayerID: 76561198395164086 Name: vikafilha Character: vikafilha Ping: 128
+PlayerID: 76561198294590010 Name: Ragnar Character: R4GN4R Ping: 54
+PlayerID: 76561198368128006 Name: Aibek Character: Aibek Ping: 101
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 39
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 187
+PlayerID: 76561198314638573 Name: UDODMEN Character: udodmen Ping: 82
+PlayerID: 76561198262878051 Name: Kolder Character: Kolder Ping: 42
+PlayerID: 76561198381173735 Name: ingener_spring Character: ingener_spring Ping: 152
+PlayerID: 76561198369248070 Name: Ali Character: Ali Ping: 128
+PlayerID: 76561198204441589 Name: R^One[D] (бомж) Character: R^One Ping: 35
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294409764
+
+TimerTerminateCommand.Enabled with Bans:
+[World] vikafilha [vikafilha]: "/home"
+
+Не обработано: vikafilha moved x:603.2104 y:65.92196(+39.41728) z:584.0616 in the last second (0.09999847)
+TimerTerminateCommand.Enabled with Bans:
+vikafilha moved x:603.2104 y:65.92196(+39.41728) z:584.0616 in the last second (0.09999847)
+
+END with Bans:
+[World] Kolder [Kolder]: "/tpa vikafilha"
+
+Client has executed command "say "udodmen""
+
+[World] zmushko2002 [Andrei888]: "слушай станат что мне надо дать чтоб ты мне дал 300 метала?"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198152563082 Name: Drakon Character: [MODER]Stanat Ping: 42
+PlayerID: 76561198367661777 Name: Andrei888 Character: zmushko2002 Ping: 105
+PlayerID: 76561198328119181 Name: Fex Character: Fex Ping: 50
+PlayerID: 76561198347057860 Name: PhantoM Character: ResonZ Ping: 70
+PlayerID: 76561198147477828 Name: galbatsovmikail Character: galbatsovmikail Ping: 39
+PlayerID: 76561198350260924 Name: Спартанец Character: дима Ping: 152
+PlayerID: 76561198345092267 Name: demid3450 Character: [гл террористов] демид журавлёв Ping: 191
+PlayerID: 76561198323972058 Name: GALAXY`S PINGUIN Character: зомби Ping: 58
+PlayerID: 76561198137518896 Name: fitman Character: fitman Ping: 27
+PlayerID: 76561198395164086 Name: vikafilha Character: vikafilha Ping: 140
+PlayerID: 76561198294590010 Name: Ragnar Character: R4GN4R Ping: 66
+PlayerID: 76561198368128006 Name: Aibek Character: Aibek Ping: 101
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 35
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 136
+PlayerID: 76561198314638573 Name: UDODMEN Character: udodmen Ping: 74
+PlayerID: 76561198262878051 Name: Kolder Character: Kolder Ping: 42
+PlayerID: 76561198381173735 Name: ingener_spring Character: ingener_spring Ping: 152
+PlayerID: 76561198369248070 Name: Ali Character: Ali Ping: 125
+PlayerID: 76561198204441589 Name: R^One[D] (бомж) Character: R^One Ping: 31
+
+END with Players:
+TimerTerminateCommand.Enabled with Bans:
+Client has executed command "bans"
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294409742
+
+END with Bans:
+[World] [гл террористов] демид журавлёв [demid3450]: "полно обвесов и 1 пушку"
+
+Disconnecting: PlayerID: 76561198204441589 Name: R^One[D] (бомж) Character: R^One
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198152563082 Name: Drakon Character: [MODER]Stanat Ping: 46
+PlayerID: 76561198367661777 Name: Andrei888 Character: zmushko2002 Ping: 101
+PlayerID: 76561198328119181 Name: Fex Character: Fex Ping: 66
+PlayerID: 76561198347057860 Name: PhantoM Character: ResonZ Ping: 54
+PlayerID: 76561198147477828 Name: galbatsovmikail Character: galbatsovmikail Ping: 214
+PlayerID: 76561198350260924 Name: Спартанец Character: дима Ping: 164
+PlayerID: 76561198345092267 Name: demid3450 Character: [гл террористов] демид журавлёв Ping: 132
+PlayerID: 76561198323972058 Name: GALAXY`S PINGUIN Character: зомби Ping: 50
+PlayerID: 76561198137518896 Name: fitman Character: fitman Ping: 39
+PlayerID: 76561198395164086 Name: vikafilha Character: vikafilha Ping: 113
+PlayerID: 76561198294590010 Name: Ragnar Character: R4GN4R Ping: 58
+PlayerID: 76561198368128006 Name: Aibek Character: Aibek Ping: 97
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 39
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 132
+PlayerID: 76561198314638573 Name: UDODMEN Character: udodmen Ping: 78
+PlayerID: 76561198262878051 Name: Kolder Character: Kolder Ping: 46
+PlayerID: 76561198381173735 Name: ingener_spring Character: ingener_spring Ping: 156
+PlayerID: 76561198369248070 Name: Ali Character: Ali Ping: 128
+
+TimerTerminateCommand.Enabled with Players:
+[World] [гл террористов] демид журавлёв [demid3450]: "у нас так было"
+
+TimerTerminateCommand.Enabled with Players:
+Client has executed command "say "pochku prodat'""
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294409722
+
+END with Bans:
+[World] ingener_spring [ingener_spring]: "я домой тпнусь и черуз полчеса приду"
+
+[World] [MODER]Stanat [Drakon]: "лол"
+
+[World] [гл террористов] демид журавлёв [demid3450]: "/tpa r"
+
+[World] ingener_spring [ingener_spring]: "/home"
+
+Client has executed command "say "udodmen""
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198152563082 Name: Drakon Character: [MODER]Stanat Ping: 46
+PlayerID: 76561198367661777 Name: Andrei888 Character: zmushko2002 Ping: 109
+PlayerID: 76561198328119181 Name: Fex Character: Fex Ping: 70
+PlayerID: 76561198347057860 Name: PhantoM Character: ResonZ Ping: 50
+PlayerID: 76561198147477828 Name: galbatsovmikail Character: galbatsovmikail Ping: 62
+PlayerID: 76561198350260924 Name: Спартанец Character: дима Ping: 156
+PlayerID: 76561198345092267 Name: demid3450 Character: [гл террористов] демид журавлёв Ping: 132
+PlayerID: 76561198323972058 Name: GALAXY`S PINGUIN Character: зомби Ping: 62
+PlayerID: 76561198137518896 Name: fitman Character: fitman Ping: 31
+PlayerID: 76561198395164086 Name: vikafilha Character: vikafilha Ping: 167
+PlayerID: 76561198294590010 Name: Ragnar Character: R4GN4R Ping: 66
+PlayerID: 76561198368128006 Name: Aibek Character: Aibek Ping: 97
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 35
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 136
+PlayerID: 76561198314638573 Name: UDODMEN Character: udodmen Ping: 74
+PlayerID: 76561198262878051 Name: Kolder Character: Kolder Ping: 54
+PlayerID: 76561198381173735 Name: ingener_spring Character: ingener_spring Ping: 156
+PlayerID: 76561198369248070 Name: Ali Character: Ali Ping: 128
+
+TimerTerminateCommand.Enabled with Players:
+[World] ingener_spring [ingener_spring]: "/hme"
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+
+TimerTerminateCommand.Enabled with Bans:
+Reason: you were vote kicked Duration: 180 Remaining: 4294409703
+
+TimerTerminateCommand.Enabled with Bans:
+Client has executed command "say "Inventar' prover'""
+
+END with Bans:
+[World] Kolder [Kolder]: "/kit start"
+
+Не обработано: DeathMessagesRemastered >> Broadcast: vikafilha has been mauled by a zombie! 
+DeathMessagesRemastered >> Broadcast: vikafilha has been mauled by a zombie! 
+
+Не обработано: vikafilha [vikafilha] was mauled by a zombie!
+vikafilha [vikafilha] was mauled by a zombie!
+
+[World] ingener_spring [ingener_spring]: "/home"
+
+Connecting: PlayerID: 76561198165822970 Name: Indigo Character: Indigo
+
+[World] vikafilha [vikafilha]: "/home"
+
+Не обработано: vikafilha moved x:603.2104 y:66.05988(+37.64904) z:584.0616 in the last second (0.2379227)
+vikafilha moved x:603.2104 y:66.05988(+37.64904) z:584.0616 in the last second (0.2379227)
+
+Не обработано: Aibek moved x:-233.3478 y:61.0648(+22.33747) z:944.6191 in the last second (0.1593056)
+Aibek moved x:-233.3478 y:61.0648(+22.33747) z:944.6191 in the last second (0.1593056)
+
+[World] ingener_spring [ingener_spring]: "/home"
+
+Не обработано: ingener_spring moved x:927.0328 y:81.21822(+42.54088) z:512.3831 in the last second (0.2379227)
+ingener_spring moved x:927.0328 y:81.21822(+42.54088) z:512.3831 in the last second (0.2379227)
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198152563082 Name: Drakon Character: [MODER]Stanat Ping: 39
+PlayerID: 76561198367661777 Name: Andrei888 Character: zmushko2002 Ping: 132
+PlayerID: 76561198328119181 Name: Fex Character: Fex Ping: 54
+PlayerID: 76561198347057860 Name: PhantoM Character: ResonZ Ping: 50
+PlayerID: 76561198147477828 Name: galbatsovmikail Character: galbatsovmikail Ping: 58
+PlayerID: 76561198350260924 Name: Спартанец Character: дима Ping: 144
+PlayerID: 76561198345092267 Name: demid3450 Character: [гл террористов] демид журавлёв Ping: 140
+PlayerID: 76561198323972058 Name: GALAXY`S PINGUIN Character: зомби Ping: 66
+PlayerID: 76561198137518896 Name: fitman Character: fitman Ping: 35
+PlayerID: 76561198395164086 Name: vikafilha Character: vikafilha Ping: 121
+PlayerID: 76561198294590010 Name: Ragnar Character: R4GN4R Ping: 54
+PlayerID: 76561198368128006 Name: Aibek Character: Aibek Ping: 97
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 42
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 148
+PlayerID: 76561198314638573 Name: UDODMEN Character: udodmen Ping: 78
+PlayerID: 76561198262878051 Name: Kolder Character: Kolder Ping: 50
+PlayerID: 76561198381173735 Name: ingener_spring Character: ingener_spring Ping: 156
+PlayerID: 76561198369248070 Name: Ali Character: Ali Ping: 113
+PlayerID: 76561198165822970 Name: Indigo Character: Indigo Ping: 183
+
+Не обработано: Ali moved x:-233.1509 y:60.89851(+22.12674) z:944.3228 in the last second (0.174633)
+TimerTerminateCommand.Enabled with Players:
+Ali moved x:-233.1509 y:60.89851(+22.12674) z:944.3228 in the last second (0.174633)
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294409684
+
+END with Bans:
+[World] Kolder [Kolder]: "/kit help"
+
+Не обработано: MessageAnnouncer >> Broadcast: Добро пожаловать на HEMULGM.RU. Тут рады вам больше, чем на любом другом сервере!
+Не обработано: MessageAnnouncer >> Добро пожаловать на HEMULGM.RU. Тут рады вам больше, чем на любом другом сервере!
+[World] udodmen [UDODMEN]: "я понел спасибо я нашёл как крафтится он там легко спсибо ешё 4 скрафтил"
+MessageAnnouncer >> Broadcast: Добро пожаловать на HEMULGM.RU. Тут рады вам больше, чем на любом другом сервере!
+MessageAnnouncer >> Добро пожаловать на HEMULGM.RU. Тут рады вам больше, чем на любом другом сервере!
+[World] [гл террористов] демид журавлёв [demid3450]: "/home"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198152563082 Name: Drakon Character: [MODER]Stanat Ping: 46
+PlayerID: 76561198367661777 Name: Andrei888 Character: zmushko2002 Ping: 82
+PlayerID: 76561198328119181 Name: Fex Character: Fex Ping: 58
+PlayerID: 76561198347057860 Name: PhantoM Character: ResonZ Ping: 46
+PlayerID: 76561198147477828 Name: galbatsovmikail Character: galbatsovmikail Ping: 62
+PlayerID: 76561198350260924 Name: Спартанец Character: дима Ping: 152
+PlayerID: 76561198345092267 Name: demid3450 Character: [гл террористов] демид журавлёв Ping: 132
+PlayerID: 76561198323972058 Name: GALAXY`S PINGUIN Character: зомби Ping: 62
+PlayerID: 76561198137518896 Name: fitman Character: fitman Ping: 31
+PlayerID: 76561198395164086 Name: vikafilha Character: vikafilha Ping: 132
+PlayerID: 76561198294590010 Name: Ragnar Character: R4GN4R Ping: 62
+PlayerID: 76561198368128006 Name: Aibek Character: Aibek Ping: 97
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 58
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 140
+PlayerID: 76561198314638573 Name: UDODMEN Character: udodmen Ping: 74
+PlayerID: 76561198262878051 Name: Kolder Character: Kolder Ping: 50
+PlayerID: 76561198381173735 Name: ingener_spring Character: ingener_spring Ping: 226
+PlayerID: 76561198369248070 Name: Ali Character: Ali Ping: 125
+PlayerID: 76561198165822970 Name: Indigo Character: Indigo Ping: 35
+
+TimerTerminateCommand.Enabled with Players:
+Disconnecting: PlayerID: 76561198381173735 Name: ingener_spring Character: ingener_spring
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294409661
+
+END with Bans:
+[World] [MODER]Stanat [Drakon]: "/i mre 40"
+
+Не обработано: Дал [MODER]Stanat вещь 81:40
+Дал [MODER]Stanat вещь 81:40
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198152563082 Name: Drakon Character: [MODER]Stanat Ping: 39
+PlayerID: 76561198367661777 Name: Andrei888 Character: zmushko2002 Ping: 97
+PlayerID: 76561198328119181 Name: Fex Character: Fex Ping: 82
+PlayerID: 76561198347057860 Name: PhantoM Character: ResonZ Ping: 46
+PlayerID: 76561198147477828 Name: galbatsovmikail Character: galbatsovmikail Ping: 31
+PlayerID: 76561198350260924 Name: Спартанец Character: дима Ping: 152
+PlayerID: 76561198345092267 Name: demid3450 Character: [гл террористов] демид журавлёв Ping: 113
+PlayerID: 76561198323972058 Name: GALAXY`S PINGUIN Character: зомби Ping: 70
+PlayerID: 76561198137518896 Name: fitman Character: fitman Ping: 27
+PlayerID: 76561198395164086 Name: vikafilha Character: vikafilha Ping: 121
+PlayerID: 76561198294590010 Name: Ragnar Character: R4GN4R Ping: 50
+PlayerID: 76561198368128006 Name: Aibek Character: Aibek Ping: 101
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 31
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 144
+PlayerID: 76561198314638573 Name: UDODMEN Character: udodmen Ping: 74
+PlayerID: 76561198262878051 Name: Kolder Character: Kolder Ping: 46
+PlayerID: 76561198369248070 Name: Ali Character: Ali Ping: 117
+PlayerID: 76561198165822970 Name: Indigo Character: Indigo Ping: 42
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294409644
+
+END with Bans:

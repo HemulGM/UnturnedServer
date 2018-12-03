@@ -1,0 +1,125 @@
+RocketRcon v2.4.8.0
+
+login aVIPs22031994
+players
+Client has executed command "players"
+Players:
+PlayerID: 76561198130308475 Name: алдуин csgofast.com Character: OXXXY Ping: 23
+PlayerID: 76561198366549870 Name: Expert1337 Character: Expert1337 Ping: 42
+PlayerID: 76561198423084997 Name: FACE Character: Элджей Ping: 117
+PlayerID: 76561198290478364 Name: Mr.Web56 Character: Webчик  Ping: 70
+PlayerID: 76561198314376473 Name: Злой Котик) Character: степан Ping: 121
+[Group] Expert1337 [Expert1337]: "/give 1281 3"
+Successfully gave Expert1337 1281 x3!
+[Group] Webчик  [Mr.Web56]: "помоги ему оккей"
+Client has executed command "players"
+Players:
+PlayerID: 76561198130308475 Name: алдуин csgofast.com Character: OXXXY Ping: 23
+PlayerID: 76561198366549870 Name: Expert1337 Character: Expert1337 Ping: 42
+PlayerID: 76561198423084997 Name: FACE Character: Элджей Ping: 121
+PlayerID: 76561198290478364 Name: Mr.Web56 Character: Webчик  Ping: 78
+PlayerID: 76561198314376473 Name: Злой Котик) Character: степан Ping: 121
+Client has executed command "GET NOW"
+ServerControl >> VALUE NOW [1] [0] [2196]
+Client has executed command "bans"
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 19455201
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 22335479
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 22335495
+PlayerID: 76561198441524917
+JudgeID: 76561198237123262
+Reason: 100000 Duration: 31536000 Remaining: 27426661
+PlayerID: 76561198446923945
+JudgeID: 76561198237123262
+Reason: 60000 Duration: 31536000 Remaining: 28001625
+Client has executed command "bans"
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 19455201
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 22335479
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 22335495
+PlayerID: 76561198441524917
+JudgeID: 76561198237123262
+Reason: 100000 Duration: 31536000 Remaining: 27426661
+PlayerID: 76561198446923945
+JudgeID: 76561198237123262
+Reason: 60000 Duration: 31536000 Remaining: 28001625
+
+END
+END
+END
+END
+[World] Элджей [FACE]: "обустороите мне комнатушку"
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [2206]
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [2207]
+
+Broadcast: Наберите /rules (/r) для просмотра правил
+
+Не обработано: Broadcast: Наберите /rules (/r) для просмотра правил
+MessageAnnouncer >> Наберите /rules (/r) для просмотра правил
+
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198130308475 Name: алдуин csgofast.com Character: OXXXY Ping: 19
+PlayerID: 76561198366549870 Name: Expert1337 Character: Expert1337 Ping: 50
+PlayerID: 76561198423084997 Name: FACE Character: Элджей Ping: 128
+PlayerID: 76561198290478364 Name: Mr.Web56 Character: Webчик  Ping: 85
+PlayerID: 76561198314376473 Name: Злой Котик) Character: степан Ping: 117
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [2216]
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [2217]
+
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 19455178
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 22335456
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 22335472
+PlayerID: 76561198441524917
+JudgeID: 76561198237123262
+Reason: 100000 Duration: 31536000 Remaining: 27426638
+PlayerID: 76561198446923945
+JudgeID: 76561198237123262
+Reason: 60000 Duration: 31536000 Remaining: 28001602
+
+END
+END
+Client has executed command "GET NOW"
+ServerControl >> VALUE NOW [1] [0] [2226]
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [2228]
+

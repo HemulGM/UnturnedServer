@@ -1,0 +1,28 @@
+RocketRcon v2.4.8.0
+
+login aVIPs22031994
+players
+Client has executed command "players"
+Players:
+PlayerID: 76561198421469222 Name: cvan71 Character: Андрей Ping: 46
+PlayerID: 76561198290478364 Name: Mr.Web56 Character: webчик Ping: 85
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 250
+
+Client has executed command "bans"
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27480350
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30360628
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30360644
+
+END
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [1498]
+
+END

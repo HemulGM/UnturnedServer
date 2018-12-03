@@ -1,0 +1,45 @@
+Не обработано: RocketRcon v2.4.8.0
+RocketRcon v2.4.8.0
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198152563082 Name: Drakon Character: [MODER]Stanat Ping: 39
+PlayerID: 76561198367661777 Name: Andrei888 Character: zmushko2002 Ping: 109
+PlayerID: 76561198393829004 Name: rubisbogdan Character: BodyaBich Ping: 125
+PlayerID: 76561198322934559 Name: @& утка про  &@ Character: yesjop Ping: 101
+PlayerID: 76561198328119181 Name: Fex Character: Fex Ping: 42
+PlayerID: 76561198347057860 Name: PhantoM Character: ResonZ Ping: 62
+PlayerID: 76561198147477828 Name: galbatsovmikail Character: galbatsovmikail Ping: 74
+PlayerID: 76561198350260924 Name: Спартанец Character: дима Ping: 164
+PlayerID: 76561198345092267 Name: demid3450 Character: [гл террористов] демид журавлёв Ping: 164
+PlayerID: 76561198323972058 Name: GALAXY`S PINGUIN Character: зомби Ping: 70
+PlayerID: 76561198137518896 Name: fitman Character: fitman Ping: 31
+PlayerID: 76561198369248070 Name: Ali Character: Ali Ping: 148
+PlayerID: 76561198395164086 Name: vikafilha Character: vikafilha Ping: 132
+PlayerID: 76561198294590010 Name: Ragnar Character: R4GN4R Ping: 62
+PlayerID: 76561198381173735 Name: ingener_spring Character: ingener_spring Ping: 148
+PlayerID: 76561198368128006 Name: Aibek Character: Aibek Ping: 105
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 50
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 148
+PlayerID: 76561198314638573 Name: UDODMEN Character: udodmen Ping: 74
+
+TimerTerminateCommand.Enabled with Players:
+[World] [гл террористов] демид журавлёв [demid3450]: "что ещё"
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294410485
+
+TimerTerminateCommand.Enabled with Bans:
+[World] [MODER]Stanat [Drakon]: "оружк"
+
+TimerTerminateCommand.Enabled with Bans:
+[World] vikafilha [vikafilha]: "/kit help"
+

@@ -1,0 +1,58 @@
+RocketRcon v2.4.8.0
+
+login aVIPs22031994
+players
+Client has executed command "players"
+Players:
+PlayerID: 76561198205863883 Name: Êðîêîäèë Ãåíà Character: krokodil gena Ping: 31
+PlayerID: 76561198264383990 Name: ÑÏÎÐÒÀÊÓÑ Character: Èâàí Ñíåã Ping: 46
+PlayerID: 76561198416514639 Name: Aulak Character: Aulak Ping: 39
+PlayerID: 76561198204253699 Name: RaYuRa Character: zazoune1706 Ping: 125
+Client has executed command "bans"
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 26873983
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 29754261
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 29754277
+PlayerID: 76561198408019916
+JudgeID: 76561198237123262
+Reason: raid Duration: 604800 Remaining: 106608
+PlayerID: 76561198366284525
+JudgeID: 76561198237123262
+Reason: REKLAMA Duration: 604800 Remaining: 284777
+Client has executed command "bans"
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 26873983
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 29754261
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 29754277
+PlayerID: 76561198408019916
+JudgeID: 76561198237123262
+Reason: raid Duration: 604800 Remaining: 106608
+PlayerID: 76561198366284525
+JudgeID: 76561198237123262
+Reason: REKLAMA Duration: 604800 Remaining: 284777
+
+END
+END
+END
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [2207]
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [2213]
+
+GET NOW

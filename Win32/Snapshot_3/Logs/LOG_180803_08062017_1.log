@@ -1,0 +1,794 @@
+Не обработано: RocketRcon v2.4.8.0
+RocketRcon v2.4.8.0
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198165822970 Name: Indigo Character: Indigo Ping: 54
+PlayerID: 76561198114070067 Name: Маг1стрЙ0да- Character: Samurai Ping: 39
+PlayerID: 76561198305732269 Name: Owl Character: Owl Ping: 62
+PlayerID: 76561198177412437 Name: korak Character: korak Ping: 125
+PlayerID: 76561198314638573 Name: UDODMEN Character: udodmen Ping: 70
+PlayerID: 76561198293594446 Name: R_B_KOCMOCE Character: Lol-чик Ping: 70
+PlayerID: 76561198392992149 Name: ivan.evdokimov.07 Character: ivan.evdokimov.07 Ping: 62
+PlayerID: 76561198239840530 Name: BeToC Character: BeToC Ping: 250
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: [MODER]Expert1337 Ping: 156
+PlayerID: 76561198354362951 Name: m.m.vilkauss Character: miks Ping: 78
+PlayerID: 76561198256794301 Name: MaxPlayRus Character: MaxPlayRus Ping: 218
+PlayerID: 76561198280617288 Name: Незнаю какой придумать Character: Пипр Ping: 62
+
+TimerTerminateCommand.Enabled with Players:
+[World] udodmen [UDODMEN]: "home"
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294221719
+
+TimerTerminateCommand.Enabled with Bans:
+[World] udodmen [UDODMEN]: "/home"
+
+TimerTerminateCommand.Enabled with Bans:
+[World] [MODER]Expert1337 [Expert13372284200]: "/give 420"
+
+Не обработано: Failed to find any item called 420.
+TimerTerminateCommand.Enabled with Bans:
+Failed to find any item called 420.
+
+TimerTerminateCommand.Enabled with Bans:
+[World] Owl [Owl]: "/kit claim"
+
+TimerTerminateCommand.Enabled with Bans:
+[World] miks [m.m.vilkauss]: "werw"
+
+END with Bans:
+[World] miks [m.m.vilkauss]: "were"
+
+[World] miks [m.m.vilkauss]: "i come in pece"
+
+[World] Lol-чик [R_B_KOCMOCE]: "Пипр с возвращением :D"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198165822970 Name: Indigo Character: Indigo Ping: 78
+PlayerID: 76561198114070067 Name: Маг1стрЙ0да- Character: Samurai Ping: 31
+PlayerID: 76561198305732269 Name: Owl Character: Owl Ping: 70
+PlayerID: 76561198177412437 Name: korak Character: korak Ping: 132
+PlayerID: 76561198314638573 Name: UDODMEN Character: udodmen Ping: 70
+PlayerID: 76561198293594446 Name: R_B_KOCMOCE Character: Lol-чик Ping: 62
+PlayerID: 76561198392992149 Name: ivan.evdokimov.07 Character: ivan.evdokimov.07 Ping: 78
+PlayerID: 76561198239840530 Name: BeToC Character: BeToC Ping: 93
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: [MODER]Expert1337 Ping: 140
+PlayerID: 76561198354362951 Name: m.m.vilkauss Character: miks Ping: 85
+PlayerID: 76561198256794301 Name: MaxPlayRus Character: MaxPlayRus Ping: 54
+PlayerID: 76561198280617288 Name: Незнаю какой придумать Character: Пипр Ping: 62
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294221700
+
+END with Bans:
+[World] Пипр [Незнаю какой придумать]: "Жв"
+
+[World] Пипр [Незнаю какой придумать]: ":D"
+
+[World] [MODER]Expert1337 [Expert13372284200]: "/give 207"
+
+[World] [MODER]Expert1337 [Expert13372284200]: "/give 207"
+
+Не обработано: Successfully gave Expert13372284200 207 x1!
+Successfully gave Expert13372284200 207 x1!
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198165822970 Name: Indigo Character: Indigo Ping: 54
+PlayerID: 76561198114070067 Name: Маг1стрЙ0да- Character: Samurai Ping: 54
+PlayerID: 76561198305732269 Name: Owl Character: Owl Ping: 78
+PlayerID: 76561198177412437 Name: korak Character: korak Ping: 140
+PlayerID: 76561198314638573 Name: UDODMEN Character: udodmen Ping: 70
+PlayerID: 76561198293594446 Name: R_B_KOCMOCE Character: Lol-чик Ping: 78
+PlayerID: 76561198392992149 Name: ivan.evdokimov.07 Character: ivan.evdokimov.07 Ping: 62
+PlayerID: 76561198239840530 Name: BeToC Character: BeToC Ping: 70
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: [MODER]Expert1337 Ping: 148
+PlayerID: 76561198354362951 Name: m.m.vilkauss Character: miks Ping: 85
+PlayerID: 76561198256794301 Name: MaxPlayRus Character: MaxPlayRus Ping: 54
+PlayerID: 76561198280617288 Name: Незнаю какой придумать Character: Пипр Ping: 54
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294221680
+
+END with Bans:
+Не обработано: MessageAnnouncer >> Broadcast: Наберите /kit claim, чтобы получить Claim Flag
+MessageAnnouncer >> Broadcast: Наберите /kit claim, чтобы получить Claim Flag
+
+Не обработано: MessageAnnouncer >> Наберите /kit claim, чтобы получить Claim Flag
+MessageAnnouncer >> Наберите /kit claim, чтобы получить Claim Flag
+
+Client has executed command "spy 76561198366549870"
+
+Не обработано: Successfully taking a screenshot of Expert13372284200.
+Successfully taking a screenshot of Expert13372284200.
+
+[World] MaxPlayRus [MaxPlayRus]: "/kit claim"
+
+[World] ivan.evdokimov.07 [ivan.evdokimov.07]: "на"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198165822970 Name: Indigo Character: Indigo Ping: 62
+PlayerID: 76561198114070067 Name: Маг1стрЙ0да- Character: Samurai Ping: 31
+PlayerID: 76561198305732269 Name: Owl Character: Owl Ping: 62
+PlayerID: 76561198177412437 Name: korak Character: korak Ping: 132
+PlayerID: 76561198314638573 Name: UDODMEN Character: udodmen Ping: 70
+PlayerID: 76561198293594446 Name: R_B_KOCMOCE Character: Lol-чик Ping: 85
+PlayerID: 76561198392992149 Name: ivan.evdokimov.07 Character: ivan.evdokimov.07 Ping: 78
+PlayerID: 76561198239840530 Name: BeToC Character: BeToC Ping: 93
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: [MODER]Expert1337 Ping: 140
+PlayerID: 76561198354362951 Name: m.m.vilkauss Character: miks Ping: 78
+PlayerID: 76561198256794301 Name: MaxPlayRus Character: MaxPlayRus Ping: 54
+PlayerID: 76561198280617288 Name: Незнаю какой придумать Character: Пипр Ping: 179
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294221660
+
+TimerTerminateCommand.Enabled with Bans:
+[World] MaxPlayRus [MaxPlayRus]: "/kit hgm1"
+
+END with Bans:
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198165822970 Name: Indigo Character: Indigo Ping: 46
+PlayerID: 76561198114070067 Name: Маг1стрЙ0да- Character: Samurai Ping: 46
+PlayerID: 76561198305732269 Name: Owl Character: Owl Ping: 78
+PlayerID: 76561198177412437 Name: korak Character: korak Ping: 140
+PlayerID: 76561198314638573 Name: UDODMEN Character: udodmen Ping: 70
+PlayerID: 76561198293594446 Name: R_B_KOCMOCE Character: Lol-чик Ping: 93
+PlayerID: 76561198392992149 Name: ivan.evdokimov.07 Character: ivan.evdokimov.07 Ping: 70
+PlayerID: 76561198239840530 Name: BeToC Character: BeToC Ping: 78
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: [MODER]Expert1337 Ping: 140
+PlayerID: 76561198354362951 Name: m.m.vilkauss Character: miks Ping: 85
+PlayerID: 76561198256794301 Name: MaxPlayRus Character: MaxPlayRus Ping: 62
+PlayerID: 76561198280617288 Name: Незнаю какой придумать Character: Пипр Ping: 54
+
+TimerTerminateCommand.Enabled with Players:
+[World] Пипр [Незнаю какой придумать]: "Expert ты покупал модерку?"
+
+TimerTerminateCommand.Enabled with Players:
+[World] [MODER]Expert1337 [Expert13372284200]: "/give 3"
+
+Не обработано: Successfully gave Expert13372284200 3 x1!
+TimerTerminateCommand.Enabled with Players:
+Successfully gave Expert13372284200 3 x1!
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294221637
+
+END with Bans:
+[World] [MODER]Expert1337 [Expert13372284200]: "в группе"
+
+Не обработано: DeathMessagesRemastered >> Broadcast: miks has been mauled by a zombie! 
+DeathMessagesRemastered >> Broadcast: miks has been mauled by a zombie! 
+
+Не обработано: miks [m.m.vilkauss] was mauled by a zombie!
+miks [m.m.vilkauss] was mauled by a zombie!
+
+[World] Пипр [Незнаю какой придумать]: "Ну покупал?"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198165822970 Name: Indigo Character: Indigo Ping: 39
+PlayerID: 76561198114070067 Name: Маг1стрЙ0да- Character: Samurai Ping: 39
+PlayerID: 76561198305732269 Name: Owl Character: Owl Ping: 54
+PlayerID: 76561198177412437 Name: korak Character: korak Ping: 125
+PlayerID: 76561198314638573 Name: UDODMEN Character: udodmen Ping: 70
+PlayerID: 76561198293594446 Name: R_B_KOCMOCE Character: Lol-чик Ping: 109
+PlayerID: 76561198392992149 Name: ivan.evdokimov.07 Character: ivan.evdokimov.07 Ping: 62
+PlayerID: 76561198239840530 Name: BeToC Character: BeToC Ping: 85
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: [MODER]Expert1337 Ping: 148
+PlayerID: 76561198354362951 Name: m.m.vilkauss Character: miks Ping: 78
+PlayerID: 76561198256794301 Name: MaxPlayRus Character: MaxPlayRus Ping: 46
+PlayerID: 76561198280617288 Name: Незнаю какой придумать Character: Пипр Ping: 54
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294221620
+
+END with Bans:
+[World] [MODER]Expert1337 [Expert13372284200]: "/give 1173"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198165822970 Name: Indigo Character: Indigo Ping: 70
+PlayerID: 76561198114070067 Name: Маг1стрЙ0да- Character: Samurai Ping: 39
+PlayerID: 76561198305732269 Name: Owl Character: Owl Ping: 54
+PlayerID: 76561198177412437 Name: korak Character: korak Ping: 140
+PlayerID: 76561198314638573 Name: UDODMEN Character: udodmen Ping: 62
+PlayerID: 76561198293594446 Name: R_B_KOCMOCE Character: Lol-чик Ping: 93
+PlayerID: 76561198392992149 Name: ivan.evdokimov.07 Character: ivan.evdokimov.07 Ping: 78
+PlayerID: 76561198239840530 Name: BeToC Character: BeToC Ping: 78
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: [MODER]Expert1337 Ping: 125
+PlayerID: 76561198354362951 Name: m.m.vilkauss Character: miks Ping: 85
+PlayerID: 76561198256794301 Name: MaxPlayRus Character: MaxPlayRus Ping: 39
+PlayerID: 76561198280617288 Name: Незнаю какой придумать Character: Пипр Ping: 62
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294221600
+
+TimerTerminateCommand.Enabled with Bans:
+[World] [MODER]Expert1337 [Expert13372284200]: "там в группе написано"
+
+END with Bans:
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198165822970 Name: Indigo Character: Indigo Ping: 54
+PlayerID: 76561198114070067 Name: Маг1стрЙ0да- Character: Samurai Ping: 39
+PlayerID: 76561198305732269 Name: Owl Character: Owl Ping: 54
+PlayerID: 76561198177412437 Name: korak Character: korak Ping: 132
+PlayerID: 76561198314638573 Name: UDODMEN Character: udodmen Ping: 70
+PlayerID: 76561198293594446 Name: R_B_KOCMOCE Character: Lol-чик Ping: 78
+PlayerID: 76561198392992149 Name: ivan.evdokimov.07 Character: ivan.evdokimov.07 Ping: 78
+PlayerID: 76561198239840530 Name: BeToC Character: BeToC Ping: 70
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: [MODER]Expert1337 Ping: 140
+PlayerID: 76561198354362951 Name: m.m.vilkauss Character: miks Ping: 70
+PlayerID: 76561198256794301 Name: MaxPlayRus Character: MaxPlayRus Ping: 39
+PlayerID: 76561198280617288 Name: Незнаю какой придумать Character: Пипр Ping: 54
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294221580
+
+END with Bans:
+[World] [MODER]Expert1337 [Expert13372284200]: "/give 54/20"
+
+Не обработано: Successfully gave Expert13372284200 54 x20!
+Successfully gave Expert13372284200 54 x20!
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198165822970 Name: Indigo Character: Indigo Ping: 39
+PlayerID: 76561198114070067 Name: Маг1стрЙ0да- Character: Samurai Ping: 39
+PlayerID: 76561198305732269 Name: Owl Character: Owl Ping: 62
+PlayerID: 76561198177412437 Name: korak Character: korak Ping: 125
+PlayerID: 76561198314638573 Name: UDODMEN Character: udodmen Ping: 62
+PlayerID: 76561198293594446 Name: R_B_KOCMOCE Character: Lol-чик Ping: 85
+PlayerID: 76561198392992149 Name: ivan.evdokimov.07 Character: ivan.evdokimov.07 Ping: 62
+PlayerID: 76561198239840530 Name: BeToC Character: BeToC Ping: 54
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: [MODER]Expert1337 Ping: 148
+PlayerID: 76561198354362951 Name: m.m.vilkauss Character: miks Ping: 78
+PlayerID: 76561198256794301 Name: MaxPlayRus Character: MaxPlayRus Ping: 46
+PlayerID: 76561198280617288 Name: Незнаю какой придумать Character: Пипр Ping: 54
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294221560
+
+END with Bans:
+Не обработано: MessageAnnouncer >> Broadcast: Если модератор ведёт себя неподобающе, пишите в группу или ЛС (vk.com/unturned_hgm, vk.com/hemulgm)
+MessageAnnouncer >> Broadcast: Если модератор ведёт себя неподобающе, пишите в группу или ЛС (vk.com/unturned_hgm, vk.com/hemulgm)
+
+Не обработано: MessageAnnouncer >> Если модератор ведёт себя неподобающе, пишите в группу или ЛС (vk.com/unturned_hgm, vk.com/hemulgm)
+MessageAnnouncer >> Если модератор ведёт себя неподобающе, пишите в группу или ЛС (vk.com/unturned_hgm, vk.com/hemulgm)
+
+[World] Пипр [Незнаю какой придумать]: "Как я посмотрю если я из Украины?"
+
+[World] [MODER]Expert1337 [Expert13372284200]: "/give 58/20"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198165822970 Name: Indigo Character: Indigo Ping: 62
+PlayerID: 76561198114070067 Name: Маг1стрЙ0да- Character: Samurai Ping: 46
+PlayerID: 76561198305732269 Name: Owl Character: Owl Ping: 70
+PlayerID: 76561198177412437 Name: korak Character: korak Ping: 140
+PlayerID: 76561198314638573 Name: UDODMEN Character: udodmen Ping: 62
+PlayerID: 76561198293594446 Name: R_B_KOCMOCE Character: Lol-чик Ping: 85
+PlayerID: 76561198392992149 Name: ivan.evdokimov.07 Character: ivan.evdokimov.07 Ping: 62
+PlayerID: 76561198239840530 Name: BeToC Character: BeToC Ping: 70
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: [MODER]Expert1337 Ping: 148
+PlayerID: 76561198354362951 Name: m.m.vilkauss Character: miks Ping: 85
+PlayerID: 76561198256794301 Name: MaxPlayRus Character: MaxPlayRus Ping: 46
+PlayerID: 76561198280617288 Name: Незнаю какой придумать Character: Пипр Ping: 62
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294221540
+
+TimerTerminateCommand.Enabled with Bans:
+[World] [MODER]Expert1337 [Expert13372284200]: "/give 58/20"
+
+Не обработано: Successfully gave Expert13372284200 58 x20!
+TimerTerminateCommand.Enabled with Bans:
+Successfully gave Expert13372284200 58 x20!
+
+END with Bans:
+[World] Lol-чик [R_B_KOCMOCE]: "Я тоже в украине"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198165822970 Name: Indigo Character: Indigo Ping: 54
+PlayerID: 76561198114070067 Name: Маг1стрЙ0да- Character: Samurai Ping: 46
+PlayerID: 76561198305732269 Name: Owl Character: Owl Ping: 62
+PlayerID: 76561198177412437 Name: korak Character: korak Ping: 125
+PlayerID: 76561198314638573 Name: UDODMEN Character: udodmen Ping: 70
+PlayerID: 76561198293594446 Name: R_B_KOCMOCE Character: Lol-чик Ping: 78
+PlayerID: 76561198392992149 Name: ivan.evdokimov.07 Character: ivan.evdokimov.07 Ping: 70
+PlayerID: 76561198239840530 Name: BeToC Character: BeToC Ping: 148
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: [MODER]Expert1337 Ping: 148
+PlayerID: 76561198354362951 Name: m.m.vilkauss Character: miks Ping: 78
+PlayerID: 76561198256794301 Name: MaxPlayRus Character: MaxPlayRus Ping: 62
+PlayerID: 76561198280617288 Name: Незнаю какой придумать Character: Пипр Ping: 62
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294221520
+
+END with Bans:
+[World] [MODER]Expert1337 [Expert13372284200]: "/give 50"
+
+[World] Пипр [Незнаю какой придумать]: "Обл"
+
+[World] Пипр [Незнаю какой придумать]: "Какая?"
+
+[World] [MODER]Expert1337 [Expert13372284200]: "/give 50"
+
+Не обработано: Successfully gave Expert13372284200 50 x1!
+Successfully gave Expert13372284200 50 x1!
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198165822970 Name: Indigo Character: Indigo Ping: 62
+PlayerID: 76561198114070067 Name: Маг1стрЙ0да- Character: Samurai Ping: 31
+PlayerID: 76561198305732269 Name: Owl Character: Owl Ping: 54
+PlayerID: 76561198177412437 Name: korak Character: korak Ping: 140
+PlayerID: 76561198314638573 Name: UDODMEN Character: udodmen Ping: 62
+PlayerID: 76561198293594446 Name: R_B_KOCMOCE Character: Lol-чик Ping: 101
+PlayerID: 76561198392992149 Name: ivan.evdokimov.07 Character: ivan.evdokimov.07 Ping: 62
+PlayerID: 76561198239840530 Name: BeToC Character: BeToC Ping: 62
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: [MODER]Expert1337 Ping: 140
+PlayerID: 76561198354362951 Name: m.m.vilkauss Character: miks Ping: 70
+PlayerID: 76561198256794301 Name: MaxPlayRus Character: MaxPlayRus Ping: 46
+PlayerID: 76561198280617288 Name: Незнаю какой придумать Character: Пипр Ping: 93
+
+TimerTerminateCommand.Enabled with Players:
+[Area] Indigo [Indigo]: "/kit help"
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294221499
+
+END with Bans:
+[World] [MODER]Expert1337 [Expert13372284200]: "/give 258"
+
+[World] Lol-чик [R_B_KOCMOCE]: "Днепропетровск"
+
+[World] [MODER]Expert1337 [Expert13372284200]: "/kit claim"
+
+TimerTerminateCommand.Enabled with Players:
+Client has executed command "players"
+Players:
+PlayerID: 76561198165822970 Name: Indigo Character: Indigo Ping: 46
+PlayerID: 76561198114070067 Name: Маг1стрЙ0да- Character: Samurai Ping: 31
+PlayerID: 76561198305732269 Name: Owl Character: Owl Ping: 62
+PlayerID: 76561198177412437 Name: korak Character: korak Ping: 140
+PlayerID: 76561198314638573 Name: UDODMEN Character: udodmen Ping: 70
+PlayerID: 76561198293594446 Name: R_B_KOCMOCE Character: Lol-чик Ping: 93
+PlayerID: 76561198392992149 Name: ivan.evdokimov.07 Character: ivan.evdokimov.07 Ping: 93
+PlayerID: 76561198239840530 Name: BeToC Character: BeToC Ping: 70
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: [MODER]Expert1337 Ping: 156
+PlayerID: 76561198354362951 Name: m.m.vilkauss Character: miks Ping: 85
+PlayerID: 76561198256794301 Name: MaxPlayRus Character: MaxPlayRus Ping: 54
+PlayerID: 76561198280617288 Name: Незнаю какой придумать Character: Пипр Ping: 54
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294221479
+
+END with Bans:
+[World] Пипр [Незнаю какой придумать]: "Я в Луганская"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198165822970 Name: Indigo Character: Indigo Ping: 62
+PlayerID: 76561198114070067 Name: Маг1стрЙ0да- Character: Samurai Ping: 46
+PlayerID: 76561198305732269 Name: Owl Character: Owl Ping: 78
+PlayerID: 76561198177412437 Name: korak Character: korak Ping: 140
+PlayerID: 76561198314638573 Name: UDODMEN Character: udodmen Ping: 70
+PlayerID: 76561198293594446 Name: R_B_KOCMOCE Character: Lol-чик Ping: 93
+PlayerID: 76561198392992149 Name: ivan.evdokimov.07 Character: ivan.evdokimov.07 Ping: 78
+PlayerID: 76561198239840530 Name: BeToC Character: BeToC Ping: 93
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: [MODER]Expert1337 Ping: 148
+PlayerID: 76561198354362951 Name: m.m.vilkauss Character: miks Ping: 85
+PlayerID: 76561198256794301 Name: MaxPlayRus Character: MaxPlayRus Ping: 54
+PlayerID: 76561198280617288 Name: Незнаю какой придумать Character: Пипр Ping: 62
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294221460
+
+TimerTerminateCommand.Enabled with Bans:
+Connecting: PlayerID: 76561198122117590 Name: masterbissen Character: masterbissen
+
+TimerTerminateCommand.Enabled with Bans:
+[World] Lol-чик [R_B_KOCMOCE]: "пон"
+
+END with Bans:
+[World] [MODER]Expert1337 [Expert13372284200]: "там сбербанк онлайн я покупал"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198165822970 Name: Indigo Character: Indigo Ping: 39
+PlayerID: 76561198114070067 Name: Маг1стрЙ0да- Character: Samurai Ping: 39
+PlayerID: 76561198305732269 Name: Owl Character: Owl Ping: 54
+PlayerID: 76561198177412437 Name: korak Character: korak Ping: 132
+PlayerID: 76561198314638573 Name: UDODMEN Character: udodmen Ping: 62
+PlayerID: 76561198293594446 Name: R_B_KOCMOCE Character: Lol-чик Ping: 156
+PlayerID: 76561198392992149 Name: ivan.evdokimov.07 Character: ivan.evdokimov.07 Ping: 54
+PlayerID: 76561198239840530 Name: BeToC Character: BeToC Ping: 62
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: [MODER]Expert1337 Ping: 156
+PlayerID: 76561198354362951 Name: m.m.vilkauss Character: miks Ping: 70
+PlayerID: 76561198256794301 Name: MaxPlayRus Character: MaxPlayRus Ping: 62
+PlayerID: 76561198280617288 Name: Незнаю какой придумать Character: Пипр Ping: 54
+PlayerID: 76561198122117590 Name: masterbissen Character: masterbissen Ping: 85
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294221440
+
+END with Bans:
+Не обработано: MessageAnnouncer >> Broadcast: vk.com/hemulgm - ЕДИНСТВЕННЫЙ администратор сервера
+MessageAnnouncer >> Broadcast: vk.com/hemulgm - ЕДИНСТВЕННЫЙ администратор сервера
+
+Не обработано: MessageAnnouncer >> vk.com/hemulgm - ЕДИНСТВЕННЫЙ администратор сервера
+MessageAnnouncer >> vk.com/hemulgm - ЕДИНСТВЕННЫЙ администратор сервера
+
+[World] [MODER]Expert1337 [Expert13372284200]: "100руб"
+
+[World] Lol-чик [R_B_KOCMOCE]: "/home"
+
+Не обработано: Lol-чик moved x:-601.9363 y:69.77674(+31.1044) z:369.3883 in the last second (0.2379227)
+Lol-чик moved x:-601.9363 y:69.77674(+31.1044) z:369.3883 in the last second (0.2379227)
+
+[World] Пипр [Незнаю какой придумать]: "Ты из Украины Експрет?"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198165822970 Name: Indigo Character: Indigo Ping: 39
+PlayerID: 76561198114070067 Name: Маг1стрЙ0да- Character: Samurai Ping: 39
+PlayerID: 76561198305732269 Name: Owl Character: Owl Ping: 62
+PlayerID: 76561198177412437 Name: korak Character: korak Ping: 132
+PlayerID: 76561198314638573 Name: UDODMEN Character: udodmen Ping: 70
+PlayerID: 76561198293594446 Name: R_B_KOCMOCE Character: Lol-чик Ping: 101
+PlayerID: 76561198392992149 Name: ivan.evdokimov.07 Character: ivan.evdokimov.07 Ping: 62
+PlayerID: 76561198239840530 Name: BeToC Character: BeToC Ping: 78
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: [MODER]Expert1337 Ping: 132
+PlayerID: 76561198354362951 Name: m.m.vilkauss Character: miks Ping: 70
+PlayerID: 76561198256794301 Name: MaxPlayRus Character: MaxPlayRus Ping: 46
+PlayerID: 76561198280617288 Name: Незнаю какой придумать Character: Пипр Ping: 39
+PlayerID: 76561198122117590 Name: masterbissen Character: masterbissen Ping: 70
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294221420
+
+END with Bans:
+[World] [MODER]Expert1337 [Expert13372284200]: "нет"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198165822970 Name: Indigo Character: Indigo Ping: 70
+PlayerID: 76561198114070067 Name: Маг1стрЙ0да- Character: Samurai Ping: 39
+PlayerID: 76561198305732269 Name: Owl Character: Owl Ping: 62
+PlayerID: 76561198177412437 Name: korak Character: korak Ping: 125
+PlayerID: 76561198314638573 Name: UDODMEN Character: udodmen Ping: 70
+PlayerID: 76561198293594446 Name: R_B_KOCMOCE Character: Lol-чик Ping: 109
+PlayerID: 76561198392992149 Name: ivan.evdokimov.07 Character: ivan.evdokimov.07 Ping: 62
+PlayerID: 76561198239840530 Name: BeToC Character: BeToC Ping: 78
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: [MODER]Expert1337 Ping: 140
+PlayerID: 76561198354362951 Name: m.m.vilkauss Character: miks Ping: 70
+PlayerID: 76561198256794301 Name: MaxPlayRus Character: MaxPlayRus Ping: 39
+PlayerID: 76561198280617288 Name: Незнаю какой придумать Character: Пипр Ping: 62
+PlayerID: 76561198122117590 Name: masterbissen Character: masterbissen Ping: 78
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294221400
+
+END with Bans:
+Client has executed command "say "Khaynty-mansiysk""
+
+Disconnecting: PlayerID: 76561198122117590 Name: masterbissen Character: masterbissen
+
+Client has executed command "say "))""
+
+[World] Lol-чик [R_B_KOCMOCE]: "Я мега зомби убил"
+
+[World] [MODER]Expert1337 [Expert13372284200]: "обенять чтото на железо"
+
+[World] Пипр [Незнаю какой придумать]: "Молодец"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198165822970 Name: Indigo Character: Indigo Ping: 54
+PlayerID: 76561198114070067 Name: Маг1стрЙ0да- Character: Samurai Ping: 54
+PlayerID: 76561198305732269 Name: Owl Character: Owl Ping: 62
+PlayerID: 76561198177412437 Name: korak Character: korak Ping: 125
+PlayerID: 76561198314638573 Name: UDODMEN Character: udodmen Ping: 62
+PlayerID: 76561198293594446 Name: R_B_KOCMOCE Character: Lol-чик Ping: 101
+PlayerID: 76561198392992149 Name: ivan.evdokimov.07 Character: ivan.evdokimov.07 Ping: 62
+PlayerID: 76561198239840530 Name: BeToC Character: BeToC Ping: 54
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: [MODER]Expert1337 Ping: 156
+PlayerID: 76561198354362951 Name: m.m.vilkauss Character: miks Ping: 78
+PlayerID: 76561198256794301 Name: MaxPlayRus Character: MaxPlayRus Ping: 39
+PlayerID: 76561198280617288 Name: Незнаю какой придумать Character: Пипр Ping: 54
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294221380
+
+END with Bans:
+[World] Пипр [Незнаю какой придумать]: "Я тебе что-то ты меня метал да? или наоборот?"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198165822970 Name: Indigo Character: Indigo Ping: 62
+PlayerID: 76561198114070067 Name: Маг1стрЙ0да- Character: Samurai Ping: 54
+PlayerID: 76561198305732269 Name: Owl Character: Owl Ping: 62
+PlayerID: 76561198177412437 Name: korak Character: korak Ping: 140
+PlayerID: 76561198314638573 Name: UDODMEN Character: udodmen Ping: 70
+PlayerID: 76561198293594446 Name: R_B_KOCMOCE Character: Lol-чик Ping: 85
+PlayerID: 76561198392992149 Name: ivan.evdokimov.07 Character: ivan.evdokimov.07 Ping: 70
+PlayerID: 76561198239840530 Name: BeToC Character: BeToC Ping: 70
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: [MODER]Expert1337 Ping: 148
+PlayerID: 76561198354362951 Name: m.m.vilkauss Character: miks Ping: 78
+PlayerID: 76561198256794301 Name: MaxPlayRus Character: MaxPlayRus Ping: 54
+PlayerID: 76561198280617288 Name: Незнаю какой придумать Character: Пипр Ping: 54
+
+Не обработано: Saving server
+TimerTerminateCommand.Enabled with Players:
+Saving server
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294221359
+
+END with Bans:
+[World] [MODER]Expert1337 [Expert13372284200]: "да"
+
+[World] ivan.evdokimov.07 [ivan.evdokimov.07]: "я постоавить не могу"
+
+[World] Пипр [Незнаю какой придумать]: "Чтода какой вариант?"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198165822970 Name: Indigo Character: Indigo Ping: 78
+PlayerID: 76561198114070067 Name: Маг1стрЙ0да- Character: Samurai Ping: 31
+PlayerID: 76561198305732269 Name: Owl Character: Owl Ping: 54
+PlayerID: 76561198177412437 Name: korak Character: korak Ping: 132
+PlayerID: 76561198314638573 Name: UDODMEN Character: udodmen Ping: 70
+PlayerID: 76561198293594446 Name: R_B_KOCMOCE Character: Lol-чик Ping: 101
+PlayerID: 76561198392992149 Name: ivan.evdokimov.07 Character: ivan.evdokimov.07 Ping: 85
+PlayerID: 76561198239840530 Name: BeToC Character: BeToC Ping: 93
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: [MODER]Expert1337 Ping: 140
+PlayerID: 76561198354362951 Name: m.m.vilkauss Character: miks Ping: 62
+PlayerID: 76561198256794301 Name: MaxPlayRus Character: MaxPlayRus Ping: 39
+PlayerID: 76561198280617288 Name: Незнаю какой придумать Character: Пипр Ping: 46
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294221340
+
+END with Bans:
+[World] [MODER]Expert1337 [Expert13372284200]: "тут ставь"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198165822970 Name: Indigo Character: Indigo Ping: 31
+PlayerID: 76561198114070067 Name: Маг1стрЙ0да- Character: Samurai Ping: 31
+PlayerID: 76561198305732269 Name: Owl Character: Owl Ping: 62
+PlayerID: 76561198177412437 Name: korak Character: korak Ping: 140
+PlayerID: 76561198314638573 Name: UDODMEN Character: udodmen Ping: 70
+PlayerID: 76561198293594446 Name: R_B_KOCMOCE Character: Lol-чик Ping: 93
+PlayerID: 76561198392992149 Name: ivan.evdokimov.07 Character: ivan.evdokimov.07 Ping: 70
+PlayerID: 76561198239840530 Name: BeToC Character: BeToC Ping: 62
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: [MODER]Expert1337 Ping: 132
+PlayerID: 76561198354362951 Name: m.m.vilkauss Character: miks Ping: 70
+PlayerID: 76561198256794301 Name: MaxPlayRus Character: MaxPlayRus Ping: 93
+PlayerID: 76561198280617288 Name: Незнаю какой придумать Character: Пипр Ping: 70
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294221320
+
+END with Bans:
+Не обработано: MessageAnnouncer >> Broadcast: Используйте /report [ник], чтобы отправить жалобу на игрока
+MessageAnnouncer >> Broadcast: Используйте /report [ник], чтобы отправить жалобу на игрока
+
+Не обработано: MessageAnnouncer >> Используйте /report [ник], чтобы отправить жалобу на игрока
+MessageAnnouncer >> Используйте /report [ник], чтобы отправить жалобу на игрока
+
+[World] Owl [Owl]: "/home"
+
+[World] [MODER]Expert1337 [Expert13372284200]: "ты мне чтото я тебе метал"
+
+Не обработано: Owl moved x:-925.2153 y:82.73842(+32.98764) z:-535.648 in the last second (0.09999847)
+Owl moved x:-925.2153 y:82.73842(+32.98764) z:-535.648 in the last second (0.09999847)
+
+Connecting: PlayerID: 76561198034261066 Name: cakeboss777 Character: cakeboss777
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198165822970 Name: Indigo Character: Indigo Ping: 62
+PlayerID: 76561198114070067 Name: Маг1стрЙ0да- Character: Samurai Ping: 31
+PlayerID: 76561198305732269 Name: Owl Character: Owl Ping: 62
+PlayerID: 76561198177412437 Name: korak Character: korak Ping: 132
+PlayerID: 76561198314638573 Name: UDODMEN Character: udodmen Ping: 70
+PlayerID: 76561198293594446 Name: R_B_KOCMOCE Character: Lol-чик Ping: 117
+PlayerID: 76561198392992149 Name: ivan.evdokimov.07 Character: ivan.evdokimov.07 Ping: 70
+PlayerID: 76561198239840530 Name: BeToC Character: BeToC Ping: 70
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: [MODER]Expert1337 Ping: 140
+PlayerID: 76561198354362951 Name: m.m.vilkauss Character: miks Ping: 78
+PlayerID: 76561198256794301 Name: MaxPlayRus Character: MaxPlayRus Ping: 54
+PlayerID: 76561198280617288 Name: Незнаю какой придумать Character: Пипр Ping: 46
+PlayerID: 76561198034261066 Name: cakeboss777 Character: cakeboss777 Ping: 265
+
+TimerTerminateCommand.Enabled with Players:
+[World] Пипр [Незнаю какой придумать]: "Скока"
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294221299
+
+END with Bans:

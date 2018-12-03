@@ -1,0 +1,1643 @@
+Не обработано: RocketRcon v2.4.8.0
+RocketRcon v2.4.8.0
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198253416576 Name: НЕ_УБИВАЙ_ДЯДЯ Character: spaik Ping: 140
+PlayerID: 76561198336963071 Name: maut22 Character: vtor2005 Ping: 117
+PlayerID: 76561198394519442 Name: Dancer Character: Dancer Ping: 101
+PlayerID: 76561198165490172 Name: Gothic Character: \|Gothic|/ Ping: 39
+PlayerID: 76561198312200782 Name: Данил Макеев Character: Данил Макеев Ping: 187
+PlayerID: 76561198356653903 Name: PrietenulCucushatului Character: PrietenulCucushatului Ping: 85
+PlayerID: 76561198292307309 Name: wolk.1221 Character: Yoba Ping: 171
+PlayerID: 76561198385711346 Name: yelowruben Character: yelowruben Ping: 31
+PlayerID: 76561198176585319 Name: The_Kilka Character: kilka_1988 Ping: 109
+PlayerID: 76561198348937212 Name: Rom@N Character: RomaPLAY22 Ping: 78
+PlayerID: 76561198172586102 Name: DunderBurger #SUMMER Character: DunderMario Ping: 328
+PlayerID: 76561198274890568 Name: Ica ;) hellcase.com Character: Ica ;) *** Ping: 78
+PlayerID: 76561198388803679 Name: nikanorova2 Character: nikanorova2 Ping: 117
+PlayerID: 76561198324996335 Name: Mуждей щи Мамалыга Character: []Max[] Ping: 85
+PlayerID: 76561198323264908 Name: I AM YOUR GOD Character: BIRG WILD Ping: 46
+PlayerID: 76561198177412437 Name: korak Character: korak Ping: 140
+PlayerID: 76561198023322497 Name: Westat Character: Westat Ping: 62
+PlayerID: 76561198279629496 Name: eclectikoma Character: eclectikoma Ping: 203
+
+TimerTerminateCommand.Enabled with Players:
+PlayerID: 76561198257489493 Name: thegamer2370 Character: thegamer2370 Ping: 234
+PlayerID: 76561198317611584 Name: Мама Ама Криминал Character: Zlo Ping: 78
+PlayerID: 76561198392646527 Name: HacKers Inse-WoRLD HACK Character: Драгунов Самошкин Ping: 218
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 460
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4293626887
+PlayerID: 76561198384007551
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 31455274
+PlayerID: 76561198371016652
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 31535688
+
+TimerTerminateCommand.Enabled with Bans:
+[World] \|Gothic|/ [Gothic]: "IGRU!"
+
+END with Bans:
+[World] RomaPLAY22 [Rom@N]: "у меня всегда такие ники"
+
+[World] nikanorova2 [nikanorova2]: "они"
+
+[World] DunderMario [DunderBurger #SUMMER]: "/tpa a"
+
+[World] Expert1337 [Expert13372284200]: "/god"
+
+Не обработано: Expert1337 включен Godmode
+Expert1337 включен Godmode
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198253416576 Name: НЕ_УБИВАЙ_ДЯДЯ Character: spaik Ping: 187
+PlayerID: 76561198336963071 Name: maut22 Character: vtor2005 Ping: 54
+PlayerID: 76561198394519442 Name: Dancer Character: Dancer Ping: 117
+PlayerID: 76561198165490172 Name: Gothic Character: \|Gothic|/ Ping: 23
+PlayerID: 76561198312200782 Name: Данил Макеев Character: Данил Макеев Ping: 187
+PlayerID: 76561198356653903 Name: PrietenulCucushatului Character: PrietenulCucushatului Ping: 101
+PlayerID: 76561198292307309 Name: wolk.1221 Character: Yoba Ping: 187
+PlayerID: 76561198385711346 Name: yelowruben Character: yelowruben Ping: 15
+PlayerID: 76561198176585319 Name: The_Kilka Character: kilka_1988 Ping: 85
+PlayerID: 76561198348937212 Name: Rom@N Character: RomaPLAY22 Ping: 101
+PlayerID: 76561198172586102 Name: DunderBurger #SUMMER Character: DunderMario Ping: 132
+PlayerID: 76561198274890568 Name: Ica ;) hellcase.com Character: Ica ;) *** Ping: 85
+PlayerID: 76561198388803679 Name: nikanorova2 Character: nikanorova2 Ping: 93
+PlayerID: 76561198324996335 Name: Mуждей щи Мамалыга Character: []Max[] Ping: 78
+PlayerID: 76561198323264908 Name: I AM YOUR GOD Character: BIRG WILD Ping: 39
+PlayerID: 76561198177412437 Name: korak Character: korak Ping: 140
+PlayerID: 76561198023322497 Name: Westat Character: Westat Ping: 62
+PlayerID: 76561198279629496 Name: eclectikoma Character: eclectikoma Ping: 156
+
+TimerTerminateCommand.Enabled with Players:
+PlayerID: 76561198257489493 Name: thegamer2370 Character: thegamer2370 Ping: 210
+PlayerID: 76561198317611584 Name: Мама Ама Криминал Character: Zlo Ping: 39
+PlayerID: 76561198392646527 Name: HacKers Inse-WoRLD HACK Character: Драгунов Самошкин Ping: 218
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 226
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4293626868
+PlayerID: 76561198384007551
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 31455255
+PlayerID: 76561198371016652
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 31535669
+
+TimerTerminateCommand.Enabled with Bans:
+[World] nikanorova2 [nikanorova2]: "они у меня побудут"
+
+END with Bans:
+[World] Zlo [Мама Ама Криминал]: "/give 1364"
+
+Successfully gave Мама Ама Криминал 1364 x1!
+
+[World] Zlo [Мама Ама Криминал]: "/give 151"
+
+Connecting: PlayerID: 76561198137518896 Name: fitman Character: fitman
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198253416576 Name: НЕ_УБИВАЙ_ДЯДЯ Character: spaik Ping: 93
+PlayerID: 76561198336963071 Name: maut22 Character: vtor2005 Ping: 46
+PlayerID: 76561198394519442 Name: Dancer Character: Dancer Ping: 117
+PlayerID: 76561198165490172 Name: Gothic Character: \|Gothic|/ Ping: 31
+PlayerID: 76561198312200782 Name: Данил Макеев Character: Данил Макеев Ping: 195
+PlayerID: 76561198356653903 Name: PrietenulCucushatului Character: PrietenulCucushatului Ping: 101
+PlayerID: 76561198292307309 Name: wolk.1221 Character: Yoba Ping: 195
+PlayerID: 76561198385711346 Name: yelowruben Character: yelowruben Ping: 39
+PlayerID: 76561198176585319 Name: The_Kilka Character: kilka_1988 Ping: 109
+PlayerID: 76561198348937212 Name: Rom@N Character: RomaPLAY22 Ping: 296
+PlayerID: 76561198172586102 Name: DunderBurger #SUMMER Character: DunderMario Ping: 156
+PlayerID: 76561198274890568 Name: Ica ;) hellcase.com Character: Ica ;) *** Ping: 85
+PlayerID: 76561198388803679 Name: nikanorova2 Character: nikanorova2 Ping: 109
+PlayerID: 76561198324996335 Name: Mуждей щи Мамалыга Character: []Max[] Ping: 140
+PlayerID: 76561198323264908 Name: I AM YOUR GOD Character: BIRG WILD Ping: 39
+PlayerID: 76561198177412437 Name: korak Character: korak Ping: 164
+PlayerID: 76561198023322497 Name: Westat Character: Westat Ping: 140
+PlayerID: 76561198279629496 Name: eclectikoma Character: eclectikoma Ping: 156
+PlayerID: 76561198257489493 Name: thegamer2370 Character: thegamer2370 Ping: 195
+PlayerID: 76561198317611584 Name: Мама Ама Криминал Character: Zlo Ping: 39
+PlayerID: 76561198392646527 Name: HacKers Inse-WoRLD HACK Character: Драгунов Самошкин Ping: 250
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 234
+PlayerID: 76561198137518896 Name: fitman Character: fitman Ping: 93
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4293626848
+PlayerID: 76561198384007551
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 31455235
+PlayerID: 76561198371016652
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 31535649
+
+END with Bans:
+[World] nikanorova2 [nikanorova2]: "патроны на vre дай"
+
+[World] nikanorova2 [nikanorova2]: "мку"
+
+[World] Zlo [Мама Ама Криминал]: "ytn"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198253416576 Name: НЕ_УБИВАЙ_ДЯДЯ Character: spaik Ping: 109
+PlayerID: 76561198336963071 Name: maut22 Character: vtor2005 Ping: 62
+PlayerID: 76561198394519442 Name: Dancer Character: Dancer Ping: 93
+PlayerID: 76561198165490172 Name: Gothic Character: \|Gothic|/ Ping: 15
+PlayerID: 76561198312200782 Name: Данил Макеев Character: Данил Макеев Ping: 187
+PlayerID: 76561198356653903 Name: PrietenulCucushatului Character: PrietenulCucushatului Ping: 93
+PlayerID: 76561198292307309 Name: wolk.1221 Character: Yoba Ping: 187
+PlayerID: 76561198385711346 Name: yelowruben Character: yelowruben Ping: 31
+PlayerID: 76561198176585319 Name: The_Kilka Character: kilka_1988 Ping: 93
+PlayerID: 76561198348937212 Name: Rom@N Character: RomaPLAY22 Ping: 109
+PlayerID: 76561198172586102 Name: DunderBurger #SUMMER Character: DunderMario Ping: 140
+PlayerID: 76561198274890568 Name: Ica ;) hellcase.com Character: Ica ;) *** Ping: 85
+PlayerID: 76561198388803679 Name: nikanorova2 Character: nikanorova2 Ping: 101
+PlayerID: 76561198324996335 Name: Mуждей щи Мамалыга Character: []Max[] Ping: 109
+PlayerID: 76561198323264908 Name: I AM YOUR GOD Character: BIRG WILD Ping: 31
+PlayerID: 76561198177412437 Name: korak Character: korak Ping: 148
+PlayerID: 76561198023322497 Name: Westat Character: Westat Ping: 54
+PlayerID: 76561198279629496 Name: eclectikoma Character: eclectikoma Ping: 171
+PlayerID: 76561198257489493 Name: thegamer2370 Character: thegamer2370 Ping: 171
+PlayerID: 76561198317611584 Name: Мама Ама Криминал Character: Zlo Ping: 31
+PlayerID: 76561198392646527 Name: HacKers Inse-WoRLD HACK Character: Драгунов Самошкин Ping: 234
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 250
+PlayerID: 76561198137518896 Name: fitman Character: fitman Ping: 31
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4293626828
+PlayerID: 76561198384007551
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 31455215
+PlayerID: 76561198371016652
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 31535629
+[World] RomaPLAY22 [Rom@N]: "во ты даун"
+
+TimerTerminateCommand.Enabled with Bans:
+[World] Zlo [Мама Ама Криминал]: "это милиттари птароны"
+
+TimerTerminateCommand.Enabled with Bans:
+[Area] kilka_1988 [The_Kilka]: "tpa RomaPLAY22 kilka_1988"
+
+END with Bans:
+[World] Zlo [Мама Ама Криминал]: "Сам даун"
+
+Не обработано: Saving server
+Saving server
+
+[World] Zlo [Мама Ама Криминал]: "Я тебя щас кикну"
+
+[World] nikanorova2 [nikanorova2]: "они у меня кончатся"
+
+Не обработано: Zlo [Мама Ама Криминал] is calling a vote to kick RomaPLAY22 [Rom@N]
+Zlo [Мама Ама Криминал] is calling a vote to kick RomaPLAY22 [Rom@N]
+
+[World] nikanorova2 [nikanorova2]: "ок"
+
+[World] RomaPLAY22 [Rom@N]: "я не тебе дебил"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198253416576 Name: НЕ_УБИВАЙ_ДЯДЯ Character: spaik Ping: 187
+PlayerID: 76561198336963071 Name: maut22 Character: vtor2005 Ping: 46
+PlayerID: 76561198394519442 Name: Dancer Character: Dancer Ping: 70
+PlayerID: 76561198165490172 Name: Gothic Character: \|Gothic|/ Ping: 39
+PlayerID: 76561198312200782 Name: Данил Макеев Character: Данил Макеев Ping: 187
+PlayerID: 76561198356653903 Name: PrietenulCucushatului Character: PrietenulCucushatului Ping: 93
+PlayerID: 76561198292307309 Name: wolk.1221 Character: Yoba Ping: 195
+PlayerID: 76561198385711346 Name: yelowruben Character: yelowruben Ping: 23
+PlayerID: 76561198176585319 Name: The_Kilka Character: kilka_1988 Ping: 117
+PlayerID: 76561198348937212 Name: Rom@N Character: RomaPLAY22 Ping: 85
+PlayerID: 76561198172586102 Name: DunderBurger #SUMMER Character: DunderMario Ping: 148
+PlayerID: 76561198274890568 Name: Ica ;) hellcase.com Character: Ica ;) *** Ping: 93
+PlayerID: 76561198388803679 Name: nikanorova2 Character: nikanorova2 Ping: 93
+PlayerID: 76561198324996335 Name: Mуждей щи Мамалыга Character: []Max[] Ping: 78
+PlayerID: 76561198323264908 Name: I AM YOUR GOD Character: BIRG WILD Ping: 39
+PlayerID: 76561198177412437 Name: korak Character: korak Ping: 164
+PlayerID: 76561198023322497 Name: Westat Character: Westat Ping: 62
+PlayerID: 76561198279629496 Name: eclectikoma Character: eclectikoma Ping: 179
+PlayerID: 76561198257489493 Name: thegamer2370 Character: thegamer2370 Ping: 148
+PlayerID: 76561198317611584 Name: Мама Ама Криминал Character: Zlo Ping: 31
+PlayerID: 76561198392646527 Name: HacKers Inse-WoRLD HACK Character: Драгунов Самошкин Ping: 234
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 187
+PlayerID: 76561198137518896 Name: fitman Character: fitman Ping: 23
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4293626808
+PlayerID: 76561198384007551
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 31455195
+PlayerID: 76561198371016652
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 31535609
+
+TimerTerminateCommand.Enabled with Bans:
+[World] Zlo [Мама Ама Криминал]: "Сам дебил"
+
+END with Bans:
+[World] RomaPLAY22 [Rom@N]: "меня тут убить пытаются"
+
+Не обработано: MessageAnnouncer >> Broadcast: Используйте /report [ник], чтобы отправить жалобу на игрока
+MessageAnnouncer >> Broadcast: Используйте /report [ник], чтобы отправить жалобу на игрока
+
+Не обработано: MessageAnnouncer >> Используйте /report [ник], чтобы отправить жалобу на игрока
+MessageAnnouncer >> Используйте /report [ник], чтобы отправить жалобу на игрока
+
+[World] Dancer [Dancer]: "нет"
+
+Не обработано: Vote failed!
+Vote failed!
+
+[World] Dancer [Dancer]: "голосуйте"
+
+Не обработано: \|Gothic|/ [Gothic] is calling a vote to kick RomaPLAY22 [Rom@N]
+\|Gothic|/ [Gothic] is calling a vote to kick RomaPLAY22 [Rom@N]
+
+[World] Zlo [Мама Ама Криминал]: "Не оскорбляй модеров"
+
+[World] Expert1337 [Expert13372284200]: "/tp zlo"
+
+Не обработано: Expert1337 телепортирован к Zlo
+Expert1337 телепортирован к Zlo
+
+[World] Westat [Westat]: "Так пиши в чат зоны, господи"
+
+[World] RomaPLAY22 [Rom@N]: "я иму и написал вот ты и даун"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198253416576 Name: НЕ_УБИВАЙ_ДЯДЯ Character: spaik Ping: 101
+PlayerID: 76561198336963071 Name: maut22 Character: vtor2005 Ping: 46
+PlayerID: 76561198394519442 Name: Dancer Character: Dancer Ping: 93
+PlayerID: 76561198165490172 Name: Gothic Character: \|Gothic|/ Ping: 39
+PlayerID: 76561198312200782 Name: Данил Макеев Character: Данил Макеев Ping: 187
+PlayerID: 76561198356653903 Name: PrietenulCucushatului Character: PrietenulCucushatului Ping: 85
+PlayerID: 76561198292307309 Name: wolk.1221 Character: Yoba Ping: 203
+PlayerID: 76561198385711346 Name: yelowruben Character: yelowruben Ping: 31
+PlayerID: 76561198176585319 Name: The_Kilka Character: kilka_1988 Ping: 78
+PlayerID: 76561198348937212 Name: Rom@N Character: RomaPLAY22 Ping: 78
+PlayerID: 76561198172586102 Name: DunderBurger #SUMMER Character: DunderMario Ping: 140
+PlayerID: 76561198274890568 Name: Ica ;) hellcase.com Character: Ica ;) *** Ping: 78
+PlayerID: 76561198388803679 Name: nikanorova2 Character: nikanorova2 Ping: 148
+PlayerID: 76561198324996335 Name: Mуждей щи Мамалыга Character: []Max[] Ping: 109
+PlayerID: 76561198323264908 Name: I AM YOUR GOD Character: BIRG WILD Ping: 54
+PlayerID: 76561198177412437 Name: korak Character: korak Ping: 148
+PlayerID: 76561198023322497 Name: Westat Character: Westat Ping: 70
+PlayerID: 76561198279629496 Name: eclectikoma Character: eclectikoma Ping: 132
+PlayerID: 76561198257489493 Name: thegamer2370 Character: thegamer2370 Ping: 156
+PlayerID: 76561198317611584 Name: Мама Ама Криминал Character: Zlo Ping: 39
+PlayerID: 76561198392646527 Name: HacKers Inse-WoRLD HACK Character: Драгунов Самошкин Ping: 218
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 195
+PlayerID: 76561198137518896 Name: fitman Character: fitman Ping: 31
+
+TimerTerminateCommand.Enabled with Players:
+Disconnecting: PlayerID: 76561198137518896 Name: fitman Character: fitman
+
+TimerTerminateCommand.Enabled with Players:
+[World] Ica ;) *** [Ica ;) hellcase.com]: "/kit Start"
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4293626787
+PlayerID: 76561198384007551
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 31455174
+PlayerID: 76561198371016652
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 31535588
+
+END with Bans:
+Disconnecting: PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337
+
+[World] BIRG WILD [I AM YOUR GOD]: "go kick"
+
+Не обработано: Vote failed!
+Vote failed!
+
+[World] RomaPLAY22 [Rom@N]: "я модеров не оскорблял даун"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198253416576 Name: НЕ_УБИВАЙ_ДЯДЯ Character: spaik Ping: 101
+PlayerID: 76561198336963071 Name: maut22 Character: vtor2005 Ping: 54
+PlayerID: 76561198394519442 Name: Dancer Character: Dancer Ping: 101
+PlayerID: 76561198165490172 Name: Gothic Character: \|Gothic|/ Ping: 46
+PlayerID: 76561198312200782 Name: Данил Макеев Character: Данил Макеев Ping: 195
+PlayerID: 76561198356653903 Name: PrietenulCucushatului Character: PrietenulCucushatului Ping: 85
+PlayerID: 76561198292307309 Name: wolk.1221 Character: Yoba Ping: 203
+PlayerID: 76561198385711346 Name: yelowruben Character: yelowruben Ping: 31
+PlayerID: 76561198176585319 Name: The_Kilka Character: kilka_1988 Ping: 140
+PlayerID: 76561198348937212 Name: Rom@N Character: RomaPLAY22 Ping: 109
+PlayerID: 76561198172586102 Name: DunderBurger #SUMMER Character: DunderMario Ping: 343
+PlayerID: 76561198274890568 Name: Ica ;) hellcase.com Character: Ica ;) *** Ping: 93
+PlayerID: 76561198388803679 Name: nikanorova2 Character: nikanorova2 Ping: 171
+PlayerID: 76561198324996335 Name: Mуждей щи Мамалыга Character: []Max[] Ping: 101
+PlayerID: 76561198323264908 Name: I AM YOUR GOD Character: BIRG WILD Ping: 62
+PlayerID: 76561198177412437 Name: korak Character: korak Ping: 148
+PlayerID: 76561198023322497 Name: Westat Character: Westat Ping: 62
+PlayerID: 76561198279629496 Name: eclectikoma Character: eclectikoma Ping: 171
+
+TimerTerminateCommand.Enabled with Players:
+PlayerID: 76561198257489493 Name: thegamer2370 Character: thegamer2370 Ping: 179
+PlayerID: 76561198317611584 Name: Мама Ама Криминал Character: Zlo Ping: 70
+PlayerID: 76561198392646527 Name: HacKers Inse-WoRLD HACK Character: Драгунов Самошкин Ping: 234
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4293626768
+PlayerID: 76561198384007551
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 31455155
+PlayerID: 76561198371016652
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 31535569
+
+TimerTerminateCommand.Enabled with Bans:
+[World] Zlo [Мама Ама Криминал]: "Ты щас написал что я даун"
+
+END with Bans:
+Disconnecting: PlayerID: 76561198177412437 Name: korak Character: korak
+
+[World] Ica ;) *** [Ica ;) hellcase.com]: "/tpa Dundermario"
+
+[World] DunderMario [DunderBurger #SUMMER]: "/tpa a"
+
+[World] Zlo [Мама Ама Криминал]: "Дебил, я модератор"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198253416576 Name: НЕ_УБИВАЙ_ДЯДЯ Character: spaik Ping: 85
+PlayerID: 76561198336963071 Name: maut22 Character: vtor2005 Ping: 70
+PlayerID: 76561198394519442 Name: Dancer Character: Dancer Ping: 132
+PlayerID: 76561198165490172 Name: Gothic Character: \|Gothic|/ Ping: 54
+PlayerID: 76561198312200782 Name: Данил Макеев Character: Данил Макеев Ping: 179
+PlayerID: 76561198356653903 Name: PrietenulCucushatului Character: PrietenulCucushatului Ping: 101
+PlayerID: 76561198292307309 Name: wolk.1221 Character: Yoba Ping: 203
+PlayerID: 76561198385711346 Name: yelowruben Character: yelowruben Ping: 31
+PlayerID: 76561198176585319 Name: The_Kilka Character: kilka_1988 Ping: 101
+PlayerID: 76561198348937212 Name: Rom@N Character: RomaPLAY22 Ping: 54
+PlayerID: 76561198172586102 Name: DunderBurger #SUMMER Character: DunderMario Ping: 257
+PlayerID: 76561198274890568 Name: Ica ;) hellcase.com Character: Ica ;) *** Ping: 109
+PlayerID: 76561198388803679 Name: nikanorova2 Character: nikanorova2 Ping: 250
+PlayerID: 76561198324996335 Name: Mуждей щи Мамалыга Character: []Max[] Ping: 85
+PlayerID: 76561198323264908 Name: I AM YOUR GOD Character: BIRG WILD Ping: 46
+PlayerID: 76561198023322497 Name: Westat Character: Westat Ping: 54
+PlayerID: 76561198279629496 Name: eclectikoma Character: eclectikoma Ping: 179
+PlayerID: 76561198257489493 Name: thegamer2370 Character: thegamer2370 Ping: 250
+
+TimerTerminateCommand.Enabled with Players:
+PlayerID: 76561198317611584 Name: Мама Ама Криминал Character: Zlo Ping: 31
+PlayerID: 76561198392646527 Name: HacKers Inse-WoRLD HACK Character: Драгунов Самошкин Ping: 242
+
+END with Players:
+TimerTerminateCommand.Enabled with Bans:
+Client has executed command "bans"
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4293626748
+PlayerID: 76561198384007551
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 31455135
+PlayerID: 76561198371016652
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 31535549
+
+END with Bans:
+Не обработано: DeathMessagesRemastered >> Broadcast: Zlo был съеден зомби! 
+DeathMessagesRemastered >> Broadcast: Zlo был съеден зомби! 
+
+Не обработано: DropManager >> 3
+DropManager >> 3
+
+Не обработано: Zlo [Мама Ама Криминал] was mauled by a zombie!
+Zlo [Мама Ама Криминал] was mauled by a zombie!
+
+Не обработано: Zlo moved x:-720.9009 y:59.51276(+20.92167) z:150.1289 in the last second (1.003479)
+Zlo moved x:-720.9009 y:59.51276(+20.92167) z:150.1289 in the last second (1.003479)
+
+[World] Данил Макеев [Данил Макеев]: "/home"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198253416576 Name: НЕ_УБИВАЙ_ДЯДЯ Character: spaik Ping: 156
+PlayerID: 76561198336963071 Name: maut22 Character: vtor2005 Ping: 78
+PlayerID: 76561198394519442 Name: Dancer Character: Dancer Ping: 93
+PlayerID: 76561198165490172 Name: Gothic Character: \|Gothic|/ Ping: 31
+PlayerID: 76561198312200782 Name: Данил Макеев Character: Данил Макеев Ping: 187
+PlayerID: 76561198356653903 Name: PrietenulCucushatului Character: PrietenulCucushatului Ping: 93
+PlayerID: 76561198292307309 Name: wolk.1221 Character: Yoba Ping: 257
+PlayerID: 76561198385711346 Name: yelowruben Character: yelowruben Ping: 31
+PlayerID: 76561198176585319 Name: The_Kilka Character: kilka_1988 Ping: 140
+PlayerID: 76561198348937212 Name: Rom@N Character: RomaPLAY22 Ping: 78
+PlayerID: 76561198172586102 Name: DunderBurger #SUMMER Character: DunderMario Ping: 132
+PlayerID: 76561198274890568 Name: Ica ;) hellcase.com Character: Ica ;) *** Ping: 93
+PlayerID: 76561198388803679 Name: nikanorova2 Character: nikanorova2 Ping: 156
+PlayerID: 76561198324996335 Name: Mуждей щи Мамалыга Character: []Max[] Ping: 125
+PlayerID: 76561198323264908 Name: I AM YOUR GOD Character: BIRG WILD Ping: 46
+PlayerID: 76561198023322497 Name: Westat Character: Westat Ping: 54
+PlayerID: 76561198279629496 Name: eclectikoma Character: eclectikoma Ping: 164
+PlayerID: 76561198257489493 Name: thegamer2370 Character: thegamer2370 Ping: 210
+
+TimerTerminateCommand.Enabled with Players:
+PlayerID: 76561198317611584 Name: Мама Ама Криминал Character: Zlo Ping: 265
+PlayerID: 76561198392646527 Name: HacKers Inse-WoRLD HACK Character: Драгунов Самошкин Ping: 289
+
+END with Players:
+TimerTerminateCommand.Enabled with Bans:
+Client has executed command "bans"
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4293626728
+PlayerID: 76561198384007551
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 31455115
+PlayerID: 76561198371016652
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 31535529
+
+TimerTerminateCommand.Enabled with Bans:
+[World] RomaPLAY22 [Rom@N]: "пошли"
+
+Не обработано: Zlo телепортирован к nikanorova2
+TimerTerminateCommand.Enabled with Bans:
+[World] Zlo [Мама Ама Криминал]: "/tp nika"
+Zlo телепортирован к nikanorova2
+
+Не обработано: DeathMessagesRemastered >> Broadcast: yelowruben был убит плювальщиком!
+TimerTerminateCommand.Enabled with Bans:
+DeathMessagesRemastered >> Broadcast: yelowruben был убит плювальщиком!
+
+Не обработано: DropManager >> 3
+TimerTerminateCommand.Enabled with Bans:
+DropManager >> 3
+
+Не обработано: yelowruben [yelowruben] was dissolved by a zombie!
+TimerTerminateCommand.Enabled with Bans:
+yelowruben [yelowruben] was dissolved by a zombie!
+
+END with Bans:
+Не обработано: Zlo включен Godmode
+Не обработано: DeathMessagesRemastered >> Broadcast: Драгунов Самошкин был съеден зомби! 
+Не обработано: DropManager >> 3
+Не обработано: Драгунов Самошкин [HacKers Inse-WoRLD HACK] was mauled by a zombie!
+[World] Zlo [Мама Ама Криминал]: "/god"
+Zlo включен Godmode
+DeathMessagesRemastered >> Broadcast: Драгунов Самошкин был съеден зомби! 
+DropManager >> 3
+Драгунов Самошкин [HacKers Inse-WoRLD HACK] was mauled by a zombie!
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198253416576 Name: НЕ_УБИВАЙ_ДЯДЯ Character: spaik Ping: 117
+PlayerID: 76561198336963071 Name: maut22 Character: vtor2005 Ping: 54
+PlayerID: 76561198394519442 Name: Dancer Character: Dancer Ping: 101
+PlayerID: 76561198165490172 Name: Gothic Character: \|Gothic|/ Ping: 62
+PlayerID: 76561198312200782 Name: Данил Макеев Character: Данил Макеев Ping: 195
+PlayerID: 76561198356653903 Name: PrietenulCucushatului Character: PrietenulCucushatului Ping: 93
+PlayerID: 76561198292307309 Name: wolk.1221 Character: Yoba Ping: 203
+PlayerID: 76561198385711346 Name: yelowruben Character: yelowruben Ping: 46
+PlayerID: 76561198176585319 Name: The_Kilka Character: kilka_1988 Ping: 109
+PlayerID: 76561198348937212 Name: Rom@N Character: RomaPLAY22 Ping: 101
+PlayerID: 76561198172586102 Name: DunderBurger #SUMMER Character: DunderMario Ping: 148
+PlayerID: 76561198274890568 Name: Ica ;) hellcase.com Character: Ica ;) *** Ping: 93
+PlayerID: 76561198388803679 Name: nikanorova2 Character: nikanorova2 Ping: 164
+PlayerID: 76561198324996335 Name: Mуждей щи Мамалыга Character: []Max[] Ping: 109
+PlayerID: 76561198323264908 Name: I AM YOUR GOD Character: BIRG WILD Ping: 93
+PlayerID: 76561198023322497 Name: Westat Character: Westat Ping: 70
+PlayerID: 76561198279629496 Name: eclectikoma Character: eclectikoma Ping: 164
+PlayerID: 76561198257489493 Name: thegamer2370 Character: thegamer2370 Ping: 218
+
+TimerTerminateCommand.Enabled with Players:
+PlayerID: 76561198317611584 Name: Мама Ама Криминал Character: Zlo Ping: 46
+PlayerID: 76561198392646527 Name: HacKers Inse-WoRLD HACK Character: Драгунов Самошкин Ping: 257
+
+END with Players:
+TimerTerminateCommand.Enabled with Bans:
+Client has executed command "bans"
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4293626708
+PlayerID: 76561198384007551
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 31455095
+PlayerID: 76561198371016652
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 31535509
+
+TimerTerminateCommand.Enabled with Bans:
+[World] yelowruben [yelowruben]: "/home"
+
+TimerTerminateCommand.Enabled with Bans:
+Connecting: PlayerID: 76561198394560596 Name: koldin1925 Character: Fresh
+
+END with Bans:
+[World] RomaPLAY22 [Rom@N]: "у меня нету микуро"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198253416576 Name: НЕ_УБИВАЙ_ДЯДЯ Character: spaik Ping: 109
+PlayerID: 76561198336963071 Name: maut22 Character: vtor2005 Ping: 31
+PlayerID: 76561198394519442 Name: Dancer Character: Dancer Ping: 85
+PlayerID: 76561198165490172 Name: Gothic Character: \|Gothic|/ Ping: 39
+PlayerID: 76561198312200782 Name: Данил Макеев Character: Данил Макеев Ping: 195
+PlayerID: 76561198356653903 Name: PrietenulCucushatului Character: PrietenulCucushatului Ping: 85
+PlayerID: 76561198292307309 Name: wolk.1221 Character: Yoba Ping: 242
+PlayerID: 76561198385711346 Name: yelowruben Character: yelowruben Ping: 31
+PlayerID: 76561198176585319 Name: The_Kilka Character: kilka_1988 Ping: 109
+PlayerID: 76561198348937212 Name: Rom@N Character: RomaPLAY22 Ping: 62
+PlayerID: 76561198172586102 Name: DunderBurger #SUMMER Character: DunderMario Ping: 125
+PlayerID: 76561198274890568 Name: Ica ;) hellcase.com Character: Ica ;) *** Ping: 85
+PlayerID: 76561198388803679 Name: nikanorova2 Character: nikanorova2 Ping: 203
+PlayerID: 76561198324996335 Name: Mуждей щи Мамалыга Character: []Max[] Ping: 125
+PlayerID: 76561198323264908 Name: I AM YOUR GOD Character: BIRG WILD Ping: 39
+PlayerID: 76561198023322497 Name: Westat Character: Westat Ping: 46
+PlayerID: 76561198279629496 Name: eclectikoma Character: eclectikoma Ping: 140
+PlayerID: 76561198257489493 Name: thegamer2370 Character: thegamer2370 Ping: 156
+
+TimerTerminateCommand.Enabled with Players:
+PlayerID: 76561198317611584 Name: Мама Ама Криминал Character: Zlo Ping: 31
+PlayerID: 76561198392646527 Name: HacKers Inse-WoRLD HACK Character: Драгунов Самошкин Ping: 250
+PlayerID: 76561198394560596 Name: koldin1925 Character: Fresh Ping: 39
+
+TimerTerminateCommand.Enabled with Players:
+Disconnecting: PlayerID: 76561198176585319 Name: The_Kilka Character: kilka_1988
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4293626688
+PlayerID: 76561198384007551
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 31455075
+PlayerID: 76561198371016652
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 31535489
+
+END with Bans:
+Не обработано: MessageAnnouncer >> Broadcast: Наберите /rules (/r) для просмотра правил
+MessageAnnouncer >> Broadcast: Наберите /rules (/r) для просмотра правил
+
+Не обработано: MessageAnnouncer >> Наберите /rules (/r) для просмотра правил
+MessageAnnouncer >> Наберите /rules (/r) для просмотра правил
+
+[World] Zlo [Мама Ама Криминал]: "/give 1364"
+
+Successfully gave Мама Ама Криминал 1364 x1!
+
+[Area] Драгунов Самошкин [HacKers Inse-WoRLD HACK]: "кто по скайпу"
+[World] Данил Макеев [Данил Макеев]: "/tpa yelo"
+
+[World] yelowruben [yelowruben]: "/tpa a"
+Connecting: PlayerID: 76561198177412437 Name: korak Character: korak
+Connecting: PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198253416576 Name: НЕ_УБИВАЙ_ДЯДЯ Character: spaik Ping: 140
+PlayerID: 76561198336963071 Name: maut22 Character: vtor2005 Ping: 39
+PlayerID: 76561198394519442 Name: Dancer Character: Dancer Ping: 85
+PlayerID: 76561198165490172 Name: Gothic Character: \|Gothic|/ Ping: 39
+PlayerID: 76561198312200782 Name: Данил Макеев Character: Данил Макеев Ping: 179
+PlayerID: 76561198356653903 Name: PrietenulCucushatului Character: PrietenulCucushatului Ping: 93
+PlayerID: 76561198292307309 Name: wolk.1221 Character: Yoba Ping: 218
+PlayerID: 76561198385711346 Name: yelowruben Character: yelowruben Ping: 31
+PlayerID: 76561198348937212 Name: Rom@N Character: RomaPLAY22 Ping: 117
+PlayerID: 76561198172586102 Name: DunderBurger #SUMMER Character: DunderMario Ping: 140
+PlayerID: 76561198274890568 Name: Ica ;) hellcase.com Character: Ica ;) *** Ping: 93
+PlayerID: 76561198388803679 Name: nikanorova2 Character: nikanorova2 Ping: 109
+PlayerID: 76561198324996335 Name: Mуждей щи Мамалыга Character: []Max[] Ping: 93
+PlayerID: 76561198323264908 Name: I AM YOUR GOD Character: BIRG WILD Ping: 39
+PlayerID: 76561198023322497 Name: Westat Character: Westat Ping: 54
+PlayerID: 76561198279629496 Name: eclectikoma Character: eclectikoma Ping: 125
+PlayerID: 76561198257489493 Name: thegamer2370 Character: thegamer2370 Ping: 218
+PlayerID: 76561198317611584 Name: Мама Ама Криминал Character: Zlo Ping: 31
+PlayerID: 76561198392646527 Name: HacKers Inse-WoRLD HACK Character: Драгунов Самошкин Ping: 234
+PlayerID: 76561198394560596 Name: koldin1925 Character: Fresh Ping: 39
+PlayerID: 76561198177412437 Name: korak Character: korak Ping: 140
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 648
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4293626657
+PlayerID: 76561198384007551
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 31455044
+PlayerID: 76561198371016652
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 31535458
+
+TimerTerminateCommand.Enabled with Bans:
+[World] Zlo [Мама Ама Криминал]: "Эксперт"
+
+END with Bans:
+[World] nikanorova2 [nikanorova2]: "всё я без патронов"
+
+[World] BIRG WILD [I AM YOUR GOD]: "Скупаю Rangner патроны"
+
+[World] Expert1337 [Expert13372284200]: "/god"
+
+Не обработано: Expert1337 включен Godmode
+Expert1337 включен Godmode
+
+[World] Zlo [Мама Ама Криминал]: "Экспеерт"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198253416576 Name: НЕ_УБИВАЙ_ДЯДЯ Character: spaik Ping: 140
+PlayerID: 76561198336963071 Name: maut22 Character: vtor2005 Ping: 39
+PlayerID: 76561198394519442 Name: Dancer Character: Dancer Ping: 85
+PlayerID: 76561198165490172 Name: Gothic Character: \|Gothic|/ Ping: 39
+PlayerID: 76561198312200782 Name: Данил Макеев Character: Данил Макеев Ping: 187
+PlayerID: 76561198356653903 Name: PrietenulCucushatului Character: PrietenulCucushatului Ping: 93
+PlayerID: 76561198292307309 Name: wolk.1221 Character: Yoba Ping: 171
+PlayerID: 76561198385711346 Name: yelowruben Character: yelowruben Ping: 31
+PlayerID: 76561198348937212 Name: Rom@N Character: RomaPLAY22 Ping: 93
+PlayerID: 76561198172586102 Name: DunderBurger #SUMMER Character: DunderMario Ping: 148
+PlayerID: 76561198274890568 Name: Ica ;) hellcase.com Character: Ica ;) *** Ping: 93
+PlayerID: 76561198388803679 Name: nikanorova2 Character: nikanorova2 Ping: 203
+PlayerID: 76561198324996335 Name: Mуждей щи Мамалыга Character: []Max[] Ping: 93
+PlayerID: 76561198323264908 Name: I AM YOUR GOD Character: BIRG WILD Ping: 62
+PlayerID: 76561198023322497 Name: Westat Character: Westat Ping: 70
+PlayerID: 76561198279629496 Name: eclectikoma Character: eclectikoma Ping: 140
+PlayerID: 76561198257489493 Name: thegamer2370 Character: thegamer2370 Ping: 171
+PlayerID: 76561198317611584 Name: Мама Ама Криминал Character: Zlo Ping: 39
+
+TimerTerminateCommand.Enabled with Players:
+PlayerID: 76561198392646527 Name: HacKers Inse-WoRLD HACK Character: Драгунов Самошкин Ping: 234
+PlayerID: 76561198394560596 Name: koldin1925 Character: Fresh Ping: 62
+PlayerID: 76561198177412437 Name: korak Character: korak Ping: 140
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 234
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4293626637
+PlayerID: 76561198384007551
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 31455024
+PlayerID: 76561198371016652
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 31535438
+
+TimerTerminateCommand.Enabled with Bans:
+[World] Zlo [Мама Ама Криминал]: "Пригл в группу"
+
+TimerTerminateCommand.Enabled with Bans:
+[World] \|Gothic|/ [Gothic]: "по чём берёшь?"
+
+END with Bans:
+[World] Zlo [Мама Ама Криминал]: "Я просто с другом в группе ьбыл"
+
+[World] BIRG WILD [I AM YOUR GOD]: "В обмен на что-то"
+
+[World] Zlo [Мама Ама Криминал]: "/give 1365/10"
+
+Successfully gave Мама Ама Криминал 1365 x10!
+[World] BIRG WILD [I AM YOUR GOD]: "/home"
+
+[World] \|Gothic|/ [Gothic]: "на что"
+
+[World] RomaPLAY22 [Rom@N]: "ты меня перепутал чел"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198253416576 Name: НЕ_УБИВАЙ_ДЯДЯ Character: spaik Ping: 125
+PlayerID: 76561198336963071 Name: maut22 Character: vtor2005 Ping: 46
+PlayerID: 76561198394519442 Name: Dancer Character: Dancer Ping: 101
+PlayerID: 76561198165490172 Name: Gothic Character: \|Gothic|/ Ping: 39
+PlayerID: 76561198312200782 Name: Данил Макеев Character: Данил Макеев Ping: 226
+PlayerID: 76561198356653903 Name: PrietenulCucushatului Character: PrietenulCucushatului Ping: 93
+PlayerID: 76561198292307309 Name: wolk.1221 Character: Yoba Ping: 234
+PlayerID: 76561198385711346 Name: yelowruben Character: yelowruben Ping: 23
+PlayerID: 76561198348937212 Name: Rom@N Character: RomaPLAY22 Ping: 93
+PlayerID: 76561198172586102 Name: DunderBurger #SUMMER Character: DunderMario Ping: 132
+PlayerID: 76561198274890568 Name: Ica ;) hellcase.com Character: Ica ;) *** Ping: 70
+PlayerID: 76561198388803679 Name: nikanorova2 Character: nikanorova2 Ping: 226
+PlayerID: 76561198324996335 Name: Mуждей щи Мамалыга Character: []Max[] Ping: 109
+PlayerID: 76561198323264908 Name: I AM YOUR GOD Character: BIRG WILD Ping: 54
+PlayerID: 76561198023322497 Name: Westat Character: Westat Ping: 54
+PlayerID: 76561198279629496 Name: eclectikoma Character: eclectikoma Ping: 328
+PlayerID: 76561198257489493 Name: thegamer2370 Character: thegamer2370 Ping: 351
+PlayerID: 76561198317611584 Name: Мама Ама Криминал Character: Zlo Ping: 39
+
+TimerTerminateCommand.Enabled with Players:
+PlayerID: 76561198392646527 Name: HacKers Inse-WoRLD HACK Character: Драгунов Самошкин Ping: 234
+PlayerID: 76561198394560596 Name: koldin1925 Character: Fresh Ping: 39
+PlayerID: 76561198177412437 Name: korak Character: korak Ping: 281
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 304
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4293626617
+PlayerID: 76561198384007551
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 31455004
+PlayerID: 76561198371016652
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 31535418
+
+END with Bans:
+[World] DunderMario [DunderBurger #SUMMER]: "/tpa ica"
+
+[World] BIRG WILD [I AM YOUR GOD]: "Ну вот тебе что нужно?"
+
+[World] Expert1337 [Expert13372284200]: "всё"
+
+[Group] Zlo [Мама Ама Криминал]: "gc"
+
+[World] RomaPLAY22 [Rom@N]: "дай карту"
+
+[World] \|Gothic|/ [Gothic]: "много металла"
+
+[Group] Zlo [Мама Ама Криминал]: "Помоги ген зарашить"
+
+[World] Ica ;) *** [Ica ;) hellcase.com]: "/tpa a"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198253416576 Name: НЕ_УБИВАЙ_ДЯДЯ Character: spaik Ping: 54
+PlayerID: 76561198336963071 Name: maut22 Character: vtor2005 Ping: 46
+PlayerID: 76561198394519442 Name: Dancer Character: Dancer Ping: 78
+PlayerID: 76561198165490172 Name: Gothic Character: \|Gothic|/ Ping: 39
+PlayerID: 76561198312200782 Name: Данил Макеев Character: Данил Макеев Ping: 171
+PlayerID: 76561198356653903 Name: PrietenulCucushatului Character: PrietenulCucushatului Ping: 101
+PlayerID: 76561198292307309 Name: wolk.1221 Character: Yoba Ping: 179
+PlayerID: 76561198385711346 Name: yelowruben Character: yelowruben Ping: 31
+PlayerID: 76561198348937212 Name: Rom@N Character: RomaPLAY22 Ping: 78
+PlayerID: 76561198172586102 Name: DunderBurger #SUMMER Character: DunderMario Ping: 132
+PlayerID: 76561198274890568 Name: Ica ;) hellcase.com Character: Ica ;) *** Ping: 78
+PlayerID: 76561198388803679 Name: nikanorova2 Character: nikanorova2 Ping: 140
+PlayerID: 76561198324996335 Name: Mуждей щи Мамалыга Character: []Max[] Ping: 101
+PlayerID: 76561198323264908 Name: I AM YOUR GOD Character: BIRG WILD Ping: 46
+PlayerID: 76561198023322497 Name: Westat Character: Westat Ping: 70
+PlayerID: 76561198279629496 Name: eclectikoma Character: eclectikoma Ping: 148
+PlayerID: 76561198257489493 Name: thegamer2370 Character: thegamer2370 Ping: 296
+PlayerID: 76561198317611584 Name: Мама Ама Криминал Character: Zlo Ping: 46
+
+TimerTerminateCommand.Enabled with Players:
+PlayerID: 76561198392646527 Name: HacKers Inse-WoRLD HACK Character: Драгунов Самошкин Ping: 234
+PlayerID: 76561198394560596 Name: koldin1925 Character: Fresh Ping: 39
+PlayerID: 76561198177412437 Name: korak Character: korak Ping: 140
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 218
+
+END with Players:
+TimerTerminateCommand.Enabled with Bans:
+Client has executed command "bans"
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4293626595
+PlayerID: 76561198384007551
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 31454982
+PlayerID: 76561198371016652
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 31535396
+
+END with Bans:
+[World] BIRG WILD [I AM YOUR GOD]: "8 металла за 1 обойму"
+
+Не обработано: VehicleEvents >> Broadcast: Брошенный чёрный хетчбек в Seattle! Найди его и он твой!
+VehicleEvents >> Broadcast: Брошенный чёрный хетчбек в Seattle! Найди его и он твой!
+
+[World] \|Gothic|/ [Gothic]: "за обоймy..."
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198253416576 Name: НЕ_УБИВАЙ_ДЯДЯ Character: spaik Ping: 78
+PlayerID: 76561198336963071 Name: maut22 Character: vtor2005 Ping: 46
+PlayerID: 76561198394519442 Name: Dancer Character: Dancer Ping: 125
+PlayerID: 76561198165490172 Name: Gothic Character: \|Gothic|/ Ping: 46
+PlayerID: 76561198312200782 Name: Данил Макеев Character: Данил Макеев Ping: 195
+PlayerID: 76561198356653903 Name: PrietenulCucushatului Character: PrietenulCucushatului Ping: 93
+PlayerID: 76561198292307309 Name: wolk.1221 Character: Yoba Ping: 187
+PlayerID: 76561198385711346 Name: yelowruben Character: yelowruben Ping: 31
+PlayerID: 76561198348937212 Name: Rom@N Character: RomaPLAY22 Ping: 85
+PlayerID: 76561198172586102 Name: DunderBurger #SUMMER Character: DunderMario Ping: 140
+PlayerID: 76561198274890568 Name: Ica ;) hellcase.com Character: Ica ;) *** Ping: 85
+PlayerID: 76561198388803679 Name: nikanorova2 Character: nikanorova2 Ping: 140
+PlayerID: 76561198324996335 Name: Mуждей щи Мамалыга Character: []Max[] Ping: 109
+PlayerID: 76561198323264908 Name: I AM YOUR GOD Character: BIRG WILD Ping: 62
+PlayerID: 76561198023322497 Name: Westat Character: Westat Ping: 62
+PlayerID: 76561198279629496 Name: eclectikoma Character: eclectikoma Ping: 179
+PlayerID: 76561198257489493 Name: thegamer2370 Character: thegamer2370 Ping: 242
+PlayerID: 76561198317611584 Name: Мама Ама Криминал Character: Zlo Ping: 54
+
+TimerTerminateCommand.Enabled with Players:
+PlayerID: 76561198392646527 Name: HacKers Inse-WoRLD HACK Character: Драгунов Самошкин Ping: 242
+PlayerID: 76561198394560596 Name: koldin1925 Character: Fresh Ping: 39
+PlayerID: 76561198177412437 Name: korak Character: korak Ping: 164
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 257
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4293626577
+PlayerID: 76561198384007551
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 31454964
+PlayerID: 76561198371016652
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 31535378
+
+TimerTerminateCommand.Enabled with Bans:
+[World] yelowruben [yelowruben]: "/home\"
+
+END with Bans:
+[World] yelowruben [yelowruben]: "/home"
+
+[World] \|Gothic|/ [Gothic]: "как-то не очень. 10"
+
+[World] BIRG WILD [I AM YOUR GOD]: "9"
+
+[World] \|Gothic|/ [Gothic]: ".10"
+
+Не обработано: MessageAnnouncer >> Broadcast: Добро пожаловать на HEMULGM.RU. Тут рады вам больше, чем на любом другом сервере!
+MessageAnnouncer >> Broadcast: Добро пожаловать на HEMULGM.RU. Тут рады вам больше, чем на любом другом сервере!
+
+Не обработано: MessageAnnouncer >> Добро пожаловать на HEMULGM.RU. Тут рады вам больше, чем на любом другом сервере!
+MessageAnnouncer >> Добро пожаловать на HEMULGM.RU. Тут рады вам больше, чем на любом другом сервере!
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198253416576 Name: НЕ_УБИВАЙ_ДЯДЯ Character: spaik Ping: 85
+PlayerID: 76561198336963071 Name: maut22 Character: vtor2005 Ping: 46
+PlayerID: 76561198394519442 Name: Dancer Character: Dancer Ping: 85
+PlayerID: 76561198165490172 Name: Gothic Character: \|Gothic|/ Ping: 39
+PlayerID: 76561198312200782 Name: Данил Макеев Character: Данил Макеев Ping: 187
+PlayerID: 76561198356653903 Name: PrietenulCucushatului Character: PrietenulCucushatului Ping: 109
+PlayerID: 76561198292307309 Name: wolk.1221 Character: Yoba Ping: 179
+PlayerID: 76561198385711346 Name: yelowruben Character: yelowruben Ping: 46
+PlayerID: 76561198348937212 Name: Rom@N Character: RomaPLAY22 Ping: 93
+PlayerID: 76561198172586102 Name: DunderBurger #SUMMER Character: DunderMario Ping: 117
+PlayerID: 76561198274890568 Name: Ica ;) hellcase.com Character: Ica ;) *** Ping: 93
+PlayerID: 76561198388803679 Name: nikanorova2 Character: nikanorova2 Ping: 140
+PlayerID: 76561198324996335 Name: Mуждей щи Мамалыга Character: []Max[] Ping: 85
+PlayerID: 76561198323264908 Name: I AM YOUR GOD Character: BIRG WILD Ping: 46
+PlayerID: 76561198023322497 Name: Westat Character: Westat Ping: 93
+PlayerID: 76561198279629496 Name: eclectikoma Character: eclectikoma Ping: 164
+PlayerID: 76561198257489493 Name: thegamer2370 Character: thegamer2370 Ping: 164
+PlayerID: 76561198317611584 Name: Мама Ама Кр?
+Не обработано: ?минал Character: Zlo Ping: 39
+TimerTerminateCommand.Enabled with Players:
+?минал Character: Zlo Ping: 39
+PlayerID: 76561198392646527 Name: HacKers Inse-WoRLD HACK Character: Драгунов Самошкин Ping: 234
+PlayerID: 76561198394560596 Name: koldin1925 Character: Fresh Ping: 31
+PlayerID: 76561198177412437 Name: korak Character: korak Ping: 156
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 210
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4293626557
+PlayerID: 76561198384007551
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 31454944
+PlayerID: 76561198371016652
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 31535358
+
+END with Bans:
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198253416576 Name: НЕ_УБИВАЙ_ДЯДЯ Character: spaik Ping: 132
+PlayerID: 76561198336963071 Name: maut22 Character: vtor2005 Ping: 62
+PlayerID: 76561198394519442 Name: Dancer Character: Dancer Ping: 85
+PlayerID: 76561198165490172 Name: Gothic Character: \|Gothic|/ Ping: 15
+PlayerID: 76561198312200782 Name: Данил Макеев Character: Данил Макеев Ping: 179
+PlayerID: 76561198356653903 Name: PrietenulCucushatului Character: PrietenulCucushatului Ping: 93
+PlayerID: 76561198292307309 Name: wolk.1221 Character: Yoba Ping: 187
+PlayerID: 76561198385711346 Name: yelowruben Character: yelowruben Ping: 31
+PlayerID: 76561198348937212 Name: Rom@N Character: RomaPLAY22 Ping: 85
+PlayerID: 76561198172586102 Name: DunderBurger #SUMMER Character: DunderMario Ping: 132
+PlayerID: 76561198274890568 Name: Ica ;) hellcase.com Character: Ica ;) *** Ping: 85
+PlayerID: 76561198388803679 Name: nikanorova2 Character: nikanorova2 Ping: 117
+PlayerID: 76561198324996335 Name: Mуждей щи Мамалыга Character: []Max[] Ping: 101
+PlayerID: 76561198323264908 Name: I AM YOUR GOD Character: BIRG WILD Ping: 39
+PlayerID: 76561198023322497 Name: Westat Character: Westat Ping: 39
+PlayerID: 76561198279629496 Name: eclectikoma Character: eclectikoma Ping: 164
+PlayerID: 76561198257489493 Name: thegamer2370 Character: thegamer2370 Ping: 164
+PlayerID: 76561198317611584 Name: Мама Ама Криминал Character: Zlo Ping: 31
+
+TimerTerminateCommand.Enabled with Players:
+PlayerID: 76561198392646527 Name: HacKers Inse-WoRLD HACK Character: Драгунов Самошкин Ping: 234
+PlayerID: 76561198394560596 Name: koldin1925 Character: Fresh Ping: 46
+PlayerID: 76561198177412437 Name: korak Character: korak Ping: 148
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 218
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4293626537
+PlayerID: 76561198384007551
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 31454924
+PlayerID: 76561198371016652
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 31535338
+
+END with Bans:
+[Group] Zlo [Мама Ама Криминал]: "/tp expert"
+
+Не обработано: Zlo телепортирован к Expert1337
+Zlo телепортирован к Expert1337
+
+TimerTerminateCommand.Enabled with Players:
+Client has executed command "players"
+Players:
+PlayerID: 76561198253416576 Name: НЕ_УБИВАЙ_ДЯДЯ Character: spaik Ping: 125
+PlayerID: 76561198336963071 Name: maut22 Character: vtor2005 Ping: 39
+PlayerID: 76561198394519442 Name: Dancer Character: Dancer Ping: 93
+PlayerID: 76561198165490172 Name: Gothic Character: \|Gothic|/ Ping: 31
+PlayerID: 76561198312200782 Name: Данил Макеев Character: Данил Макеев Ping: 195
+PlayerID: 76561198356653903 Name: PrietenulCucushatului Character: PrietenulCucushatului Ping: 85
+PlayerID: 76561198292307309 Name: wolk.1221 Character: Yoba Ping: 203
+PlayerID: 76561198385711346 Name: yelowruben Character: yelowruben Ping: 31
+PlayerID: 76561198348937212 Name: Rom@N Character: RomaPLAY22 Ping: 109
+PlayerID: 76561198172586102 Name: DunderBurger #SUMMER Character: DunderMario Ping: 125
+PlayerID: 76561198274890568 Name: Ica ;) hellcase.com Character: Ica ;) *** Ping: 234
+PlayerID: 76561198388803679 Name: nikanorova2 Character: nikanorova2 Ping: 117
+PlayerID: 76561198324996335 Name: Mуждей щи Мамалыга Character: []Max[] Ping: 125
+PlayerID: 76561198323264908 Name: I AM YOUR GOD Character: BIRG WILD Ping: 62
+PlayerID: 76561198023322497 Name: Westat Character: Westat Ping: 54
+PlayerID: 76561198279629496 Name: eclectikoma Character: eclectikoma Ping: 195
+PlayerID: 76561198257489493 Name: thegamer2370 Character: thegamer2370 Ping: 195
+PlayerID: 76561198317611584 Name: Мама Ама Криминал Character: Zlo Ping: 39
+PlayerID: 76561198392646527 Name: HacKers Inse-WoRLD HACK Character: Драгунов Самошкин Ping: 226
+PlayerID: 76561198394560596 Name: koldin1925 Character: Fresh Ping: 31
+PlayerID: 76561198177412437 Name: korak Character: korak Ping: 148
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 289
+
+END with Players:
+TimerTerminateCommand.Enabled with Bans:
+Client has executed command "bans"
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4293626511
+PlayerID: 76561198384007551
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 31454898
+PlayerID: 76561198371016652
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 31535312
+
+TimerTerminateCommand.Enabled with Bans:
+[World] Expert1337 [Expert13372284200]: "3 фпс"
+
+END with Bans:
+[World] nikanorova2 [nikanorova2]: "я пуст"
+
+[Group] Zlo [Мама Ама Криминал]: "27 фпс"
+
+[World] BIRG WILD [I AM YOUR GOD]: "3 обоймы за 10"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198253416576 Name: НЕ_УБИВАЙ_ДЯДЯ Character: spaik Ping: 132
+PlayerID: 76561198336963071 Name: maut22 Character: vtor2005 Ping: 31
+PlayerID: 76561198394519442 Name: Dancer Character: Dancer Ping: 93
+PlayerID: 76561198165490172 Name: Gothic Character: \|Gothic|/ Ping: 31
+PlayerID: 76561198312200782 Name: Данил Макеев Character: Данил Макеев Ping: 195
+PlayerID: 76561198356653903 Name: PrietenulCucushatului Character: PrietenulCucushatului Ping: 93
+PlayerID: 76561198292307309 Name: wolk.1221 Character: Yoba Ping: 257
+PlayerID: 76561198385711346 Name: yelowruben Character: yelowruben Ping: 39
+PlayerID: 76561198348937212 Name: Rom@N Character: RomaPLAY22 Ping: 46
+PlayerID: 76561198172586102 Name: DunderBurger #SUMMER Character: DunderMario Ping: 148
+PlayerID: 76561198274890568 Name: Ica ;) hellcase.com Character: Ica ;) *** Ping: 93
+PlayerID: 76561198388803679 Name: nikanorova2 Character: nikanorova2 Ping: 109
+PlayerID: 76561198324996335 Name: Mуждей щи Мамалыга Character: []Max[] Ping: 85
+PlayerID: 76561198323264908 Name: I AM YOUR GOD Character: BIRG WILD Ping: 39
+PlayerID: 76561198023322497 Name: Westat Character: Westat Ping: 39
+PlayerID: 76561198279629496 Name: eclectikoma Character: eclectikoma Ping: 195
+PlayerID: 76561198257489493 Name: thegamer2370 Character: thegamer2370 Ping: 195
+PlayerID: 76561198317611584 Name: Мама Ама Криминал Character: Zlo Ping: 39
+
+TimerTerminateCommand.Enabled with Players:
+PlayerID: 76561198392646527 Name: HacKers Inse-WoRLD HACK Character: Драгунов Самошкин Ping: 242
+PlayerID: 76561198394560596 Name: koldin1925 Character: Fresh Ping: 39
+PlayerID: 76561198177412437 Name: korak Character: korak Ping: 156
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 195
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4293626494
+PlayerID: 76561198384007551
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 31454881
+PlayerID: 76561198371016652
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 31535295
+
+TimerTerminateCommand.Enabled with Bans:
+[World] nikanorova2 [nikanorova2]: "про патроны"
+
+TimerTerminateCommand.Enabled with Bans:
+[World] BIRG WILD [I AM YOUR GOD]: "по 10"
+
+END with Bans:
+[World] BIRG WILD [I AM YOUR GOD]: "договор?"
+
+[World] \|Gothic|/ [Gothic]: "++"
+
+[World] \|Gothic|/ [Gothic]: "тп"
+
+[World] BIRG WILD [I AM YOUR GOD]: "Сек"
+
+[World] \|Gothic|/ [Gothic]: "/home"
+
+Не обработано: \|Gothic|/ moved x:-949.185 y:78.55865(+40.08133) z:445.3337 in the last second (0.2379227)
+\|Gothic|/ moved x:-949.185 y:78.55865(+40.08133) z:445.3337 in the last second (0.2379227)
+
+Client has executed command "say "Ekspert, u tebya ping ppts" 192 192 192"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198253416576 Name: НЕ_УБИВАЙ_ДЯДЯ Character: spaik Ping: 281
+PlayerID: 76561198336963071 Name: maut22 Character: vtor2005 Ping: 46
+PlayerID: 76561198394519442 Name: Dancer Character: Dancer Ping: 78
+PlayerID: 76561198165490172 Name: Gothic Character: \|Gothic|/ Ping: 171
+PlayerID: 76561198312200782 Name: Данил Макеев Character: Данил Макеев Ping: 179
+PlayerID: 76561198356653903 Name: PrietenulCucushatului Character: PrietenulCucushatului Ping: 70
+PlayerID: 76561198292307309 Name: wolk.1221 Character: Yoba Ping: 203
+PlayerID: 76561198385711346 Name: yelowruben Character: yelowruben Ping: 23
+PlayerID: 76561198348937212 Name: Rom@N Character: RomaPLAY22 Ping: 78
+PlayerID: 76561198172586102 Name: DunderBurger #SUMMER Character: DunderMario Ping: 164
+PlayerID: 76561198274890568 Name: Ica ;) hellcase.com Character: Ica ;) *** Ping: 85
+PlayerID: 76561198388803679 Name: nikanorova2 Character: nikanorova2 Ping: 125
+PlayerID: 76561198324996335 Name: Mуждей щи Мамалыга Character: []Max[] Ping: 93
+PlayerID: 76561198323264908 Name: I AM YOUR GOD Character: BIRG WILD Ping: 54
+PlayerID: 76561198023322497 Name: Westat Character: Westat Ping: 31
+PlayerID: 76561198279629496 Name: eclectikoma Character: eclectikoma Ping: 148
+PlayerID: 76561198257489493 Name: thegamer2370 Character: thegamer2370 Ping: 273
+PlayerID: 76561198317611584 Name: Мама Ама Криминал Character: Zlo Ping: 46
+
+TimerTerminateCommand.Enabled with Players:
+PlayerID: 76561198392646527 Name: HacKers Inse-WoRLD HACK Character: Драгунов Самошкин Ping: 257
+PlayerID: 76561198394560596 Name: koldin1925 Character: Fresh Ping: 46
+PlayerID: 76561198177412437 Name: korak Character: korak Ping: 171
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 312
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4293626474
+PlayerID: 76561198384007551
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 31454861
+PlayerID: 76561198371016652
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 31535275
+
+TimerTerminateCommand.Enabled with Bans:
+[World] Ica ;) *** [Ica ;) hellcase.com]: "/tpa DunderMario"
+
+END with Bans:
+[World] BIRG WILD [I AM YOUR GOD]: "Я на машине не смогу тпнуться"
+
+[World] RomaPLAY22 [Rom@N]: "дай карту"
+
+[World] DunderMario [DunderBurger #SUMMER]: "/tap a"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198253416576 Name: НЕ_УБИВАЙ_ДЯДЯ Character: spaik Ping: 101
+PlayerID: 76561198336963071 Name: maut22 Character: vtor2005 Ping: 31
+PlayerID: 76561198394519442 Name: Dancer Character: Dancer Ping: 148
+PlayerID: 76561198165490172 Name: Gothic Character: \|Gothic|/ Ping: 39
+PlayerID: 76561198312200782 Name: Данил Макеев Character: Данил Макеев Ping: 171
+PlayerID: 76561198356653903 Name: PrietenulCucushatului Character: PrietenulCucushatului Ping: 85
+PlayerID: 76561198292307309 Name: wolk.1221 Character: Yoba Ping: 187
+PlayerID: 76561198385711346 Name: yelowruben Character: yelowruben Ping: 31
+PlayerID: 76561198348937212 Name: Rom@N Character: RomaPLAY22 Ping: 46
+PlayerID: 76561198172586102 Name: DunderBurger #SUMMER Character: DunderMario Ping: 125
+PlayerID: 76561198274890568 Name: Ica ;) hellcase.com Character: Ica ;) *** Ping: 85
+PlayerID: 76561198388803679 Name: nikanorova2 Character: nikanorova2 Ping: 109
+PlayerID: 76561198324996335 Name: Mуждей щи Мамалыга Character: []Max[] Ping: 101
+PlayerID: 76561198323264908 Name: I AM YOUR GOD Character: BIRG WILD Ping: 31
+PlayerID: 76561198023322497 Name: Westat Character: Westat Ping: 31
+PlayerID: 76561198279629496 Name: eclectikoma Character: eclectikoma Ping: 164
+PlayerID: 76561198257489493 Name: thegamer2370 Character: thegamer2370 Ping: 359
+PlayerID: 76561198317611584 Name: Мама Ама Криминал Character: Zlo Ping: 39
+
+TimerTerminateCommand.Enabled with Players:
+PlayerID: 76561198392646527 Name: HacKers Inse-WoRLD HACK Character: Драгунов Самошкин Ping: 226
+PlayerID: 76561198394560596 Name: koldin1925 Character: Fresh Ping: 250
+PlayerID: 76561198177412437 Name: korak Character: korak Ping: 156
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 179
+
+TimerTerminateCommand.Enabled with Players:
+[World] DunderMario [DunderBurger #SUMMER]: "/tpa a"
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4293626453
+PlayerID: 76561198384007551
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 31454840
+PlayerID: 76561198371016652
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 31535254
+
+END with Bans:
+[World] Expert1337 [Expert13372284200]: "что за ppts"
+
+Не обработано: MessageAnnouncer >> Broadcast: Наберите /kit start, чтобы получить стартовый набор (еда, вода, топор)
+MessageAnnouncer >> Broadcast: Наберите /kit start, чтобы получить стартовый набор (еда, вода, топор)
+
+Не обработано: MessageAnnouncer >> Наберите /kit start, чтобы получить стартовый набор (еда, вода, топор)
+MessageAnnouncer >> Наберите /kit start, чтобы получить стартовый набор (еда, вода, топор)
+
+[Group] Zlo [Мама Ама Криминал]: "/give 1176"
+
+Successfully gave Мама Ама Криминал 1176 x1!
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198253416576 Name: НЕ_УБИВАЙ_ДЯДЯ Character: spaik Ping: 125
+PlayerID: 76561198336963071 Name: maut22 Character: vtor2005 Ping: 31
+PlayerID: 76561198394519442 Name: Dancer Character: Dancer Ping: 85
+PlayerID: 76561198165490172 Name: Gothic Character: \|Gothic|/ Ping: 15
+PlayerID: 76561198312200782 Name: Данил Макеев Character: Данил Макеев Ping: 195
+PlayerID: 76561198356653903 Name: PrietenulCucushatului Character: PrietenulCucushatului Ping: 85
+PlayerID: 76561198292307309 Name: wolk.1221 Character: Yoba Ping: 187
+PlayerID: 76561198385711346 Name: yelowruben Character: yelowruben Ping: 23
+PlayerID: 76561198348937212 Name: Rom@N Character: RomaPLAY22 Ping: 85
+PlayerID: 76561198172586102 Name: DunderBurger #SUMMER Character: DunderMario Ping: 140
+PlayerID: 76561198274890568 Name: Ica ;) hellcase.com Character: Ica ;) *** Ping: 93
+PlayerID: 76561198388803679 Name: nikanorova2 Character: nikanorova2 Ping: 125
+PlayerID: 76561198324996335 Name: Mуждей щи Мамалыга Character: []Max[] Ping: 93
+PlayerID: 76561198323264908 Name: I AM YOUR GOD Character: BIRG WILD Ping: 31
+PlayerID: 76561198023322497 Name: Westat Character: Westat Ping: 46
+PlayerID: 76561198279629496 Name: eclectikoma Character: eclectikoma Ping: 148
+PlayerID: 76561198257489493 Name: thegamer2370 Character: thegamer2370 Ping: 179
+PlayerID: 76561198317611584 Name: Мама Ама Криминал Character: Zlo Ping: 39
+
+TimerTerminateCommand.Enabled with Players:
+PlayerID: 76561198392646527 Name: HacKers Inse-WoRLD HACK Character: Драгунов Самошкин Ping: 242
+PlayerID: 76561198394560596 Name: koldin1925 Character: Fresh Ping: 31
+PlayerID: 76561198177412437 Name: korak Character: korak Ping: 148
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 187
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4293626434
+PlayerID: 76561198384007551
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 31454821
+PlayerID: 76561198371016652
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 31535235
+
+TimerTerminateCommand.Enabled with Bans:
+Client has executed command "say "pipets" 192 192 192"
+
+END with Bans:
+[World] DunderMario [DunderBurger #SUMMER]: "/kit help"
+
+[World] Zlo [Мама Ама Криминал]: "sss"
+
+[World] Ica ;) *** [Ica ;) hellcase.com]: "/kits"
+
+[World] Zlo [Мама Ама Криминал]: "ыыы"
+
+[World] Ica ;) *** [Ica ;) hellcase.com]: "/kit help"
+
+[World] Ica ;) *** [Ica ;) hellcase.com]: "/kit Starr"
+
+Connecting: PlayerID: 76561198268232338 Name: ?????? ???? ????? Character: Frontick [D.A]
+
+[World] Ica ;) *** [Ica ;) hellcase.com]: "/kit Start"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198253416576 Name: НЕ_УБИВАЙ_ДЯДЯ Character: spaik Ping: 109
+PlayerID: 76561198336963071 Name: maut22 Character: vtor2005 Ping: 46
+PlayerID: 76561198394519442 Name: Dancer Character: Dancer Ping: 85
+PlayerID: 76561198165490172 Name: Gothic Character: \|Gothic|/ Ping: 23
+PlayerID: 76561198312200782 Name: Данил Макеев Character: Данил Макеев Ping: 210
+PlayerID: 76561198356653903 Name: PrietenulCucushatului Character: PrietenulCucushatului Ping: 117
+PlayerID: 76561198292307309 Name: wolk.1221 Character: Yoba Ping: 226
+PlayerID: 76561198385711346 Name: yelowruben Character: yelowruben Ping: 39
+PlayerID: 76561198348937212 Name: Rom@N Character: RomaPLAY22 Ping: 101
+PlayerID: 76561198172586102 Name: DunderBurger #SUMMER Character: DunderMario Ping: 156
+PlayerID: 76561198274890568 Name: Ica ;) hellcase.com Character: Ica ;) *** Ping: 93
+PlayerID: 76561198388803679 Name: nikanorova2 Character: nikanorova2 Ping: 250
+PlayerID: 76561198324996335 Name: Mуждей щи Мамалыга Character: []Max[] Ping: 101
+PlayerID: 76561198323264908 Name: I AM YOUR GOD Character: BIRG WILD Ping: 46
+PlayerID: 76561198023322497 Name: Westat Character: Westat Ping: 46
+PlayerID: 76561198279629496 Name: eclectikoma Character: eclectikoma Ping: 156
+PlayerID: 76561198257489493 Name: thegamer2370 Character: thegamer2370 Ping: 164
+PlayerID: 76561198317611584 Name: Мама Ама Криминал Character: Zlo Ping: 54
+
+TimerTerminateCommand.Enabled with Players:
+PlayerID: 76561198392646527 Name: HacKers Inse-WoRLD HACK Character: Драгунов Самошкин Ping: 242
+PlayerID: 76561198394560596 Name: koldin1925 Character: Fresh Ping: 39
+PlayerID: 76561198177412437 Name: korak Character: korak Ping: 218
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 203
+PlayerID: 76561198268232338 Name: ?????? ???? ????? Character: Frontick [D.A] Ping: 0
+
+TimerTerminateCommand.Enabled with Players:
+[World] \|Gothic|/ [Gothic]: "загоняй тачкy домой и тп.."
+
+TimerTerminateCommand.Enabled with Players:
+[World] RomaPLAY22 [Rom@N]: "/kits"
+
+Не обработано: DeathMessagesRemastered >> Broadcast: Драгунов Самошкин истёк кровью!
+TimerTerminateCommand.Enabled with Players:
+DeathMessagesRemastered >> Broadcast: Драгунов Самошкин истёк кровью!
+
+Не обработано: DropManager >> 3
+TimerTerminateCommand.Enabled with Players:
+DropManager >> 3
+
+Не обработано: Драгунов Самошкин [HacKers Inse-WoRLD HACK] bled to death!
+TimerTerminateCommand.Enabled with Players:
+Драгунов Самошкин [HacKers Inse-WoRLD HACK] bled to death!
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4293626411
+PlayerID: 76561198384007551
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 31454798
+PlayerID: 76561198371016652
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 31535212
+
+END with Bans:
+[World] RomaPLAY22 [Rom@N]: "/kit hqm1"
+
+[World] BIRG WILD [I AM YOUR GOD]: "/tpa got"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198253416576 Name: НЕ_УБИВАЙ_ДЯДЯ Character: spaik Ping: 234
+PlayerID: 76561198336963071 Name: maut22 Character: vtor2005 Ping: 31
+PlayerID: 76561198394519442 Name: Dancer Character: Dancer Ping: 93
+PlayerID: 76561198165490172 Name: Gothic Character: \|Gothic|/ Ping: 31
+PlayerID: 76561198312200782 Name: Данил Макеев Character: Данил Макеев Ping: 179
+PlayerID: 76561198356653903 Name: PrietenulCucushatului Character: PrietenulCucushatului Ping: 101
+PlayerID: 76561198292307309 Name: wolk.1221 Character: Yoba Ping: 179
+PlayerID: 76561198385711346 Name: yelowruben Character: yelowruben Ping: 54
+PlayerID: 76561198348937212 Name: Rom@N Character: RomaPLAY22 Ping: 54
+PlayerID: 76561198172586102 Name: DunderBurger #SUMMER Character: DunderMario Ping: 132
+PlayerID: 76561198274890568 Name: Ica ;) hellcase.com Character: Ica ;) *** Ping: 70
+PlayerID: 76561198388803679 Name: nikanorova2 Character: nikanorova2 Ping: 93
+PlayerID: 76561198324996335 Name: Mуждей щи Мамалыга Character: []Max[] Ping: 78
+PlayerID: 76561198323264908 Name: I AM YOUR GOD Character: BIRG WILD Ping: 46
+PlayerID: 76561198023322497 Name: Westat Character: Westat Ping: 70
+PlayerID: 76561198279629496 Name: eclectikoma Character: eclectikoma Ping: 164
+PlayerID: 76561198257489493 Name: thegamer2370 Character: thegamer2370 Ping: 312
+PlayerID: 76561198317611584 Name: Мама Ама Криминал Character: Zlo Ping: 39
+
+TimerTerminateCommand.Enabled with Players:
+PlayerID: 76561198392646527 Name: HacKers Inse-WoRLD HACK Character: Драгунов Самошкин Ping: 234
+PlayerID: 76561198394560596 Name: koldin1925 Character: Fresh Ping: 46
+PlayerID: 76561198177412437 Name: korak Character: korak Ping: 140
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 203
+PlayerID: 76561198268232338 Name: ?????? ???? ????? Character: Frontick [D.A] Ping: 78
+
+TimerTerminateCommand.Enabled with Players:
+[World] RomaPLAY22 [Rom@N]: "/kit hqm"
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4293626393
+PlayerID: 76561198384007551
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 31454780
+PlayerID: 76561198371016652
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 31535194
+
+Не обработано: BIRG WILD moved x:-951.5783 y:78.45842(+39.35815) z:460.5065 in the last second (0.5997772)
+TimerTerminateCommand.Enabled with Bans:
+[World] \|Gothic|/ [Gothic]: "/tpa a"
+BIRG WILD moved x:-951.5783 y:78.45842(+39.35815) z:460.5065 in the last second (0.5997772)
+
+TimerTerminateCommand.Enabled with Bans:
+[World] Dancer [Dancer]: "че офигеЛ?"
+
+END with Bans:
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198253416576 Name: НЕ_УБИВАЙ_ДЯДЯ Character: spaik Ping: 101
+PlayerID: 76561198336963071 Name: maut22 Character: vtor2005 Ping: 31
+PlayerID: 76561198394519442 Name: Dancer Character: Dancer Ping: 78
+PlayerID: 76561198165490172 Name: Gothic Character: \|Gothic|/ Ping: 23
+PlayerID: 76561198312200782 Name: Данил Макеев Character: Данил Макеев Ping: 195
+PlayerID: 76561198356653903 Name: PrietenulCucushatului Character: PrietenulCucushatului Ping: 101
+PlayerID: 76561198292307309 Name: wolk.1221 Character: Yoba Ping: 203
+PlayerID: 76561198385711346 Name: yelowruben Character: yelowruben Ping: 31
+PlayerID: 76561198348937212 Name: Rom@N Character: RomaPLAY22 Ping: 70
+PlayerID: 76561198172586102 Name: DunderBurger #SUMMER Character: DunderMario Ping: 125
+PlayerID: 76561198274890568 Name: Ica ;) hellcase.com Character: Ica ;) *** Ping: 78
+PlayerID: 76561198388803679 Name: nikanorova2 Character: nikanorova2 Ping: 70
+PlayerID: 76561198324996335 Name: Mуждей щи Мамалыга Character: []Max[] Ping: 85
+PlayerID: 76561198323264908 Name: I AM YOUR GOD Character: BIRG WILD Ping: 85
+PlayerID: 76561198023322497 Name: Westat Character: Westat Ping: 39
+PlayerID: 76561198279629496 Name: eclectikoma Character: eclectikoma Ping: 140
+PlayerID: 76561198257489493 Name: thegamer2370 Character: thegamer2370 Ping: 289
+PlayerID: 76561198317611584 Name: Мама Ама Криминал Character: Zlo Ping: 62
+
+TimerTerminateCommand.Enabled with Players:
+PlayerID: 76561198392646527 Name: HacKers Inse-WoRLD HACK Character: Драгунов Самошкин Ping: 242
+PlayerID: 76561198394560596 Name: koldin1925 Character: Fresh Ping: 39
+PlayerID: 76561198177412437 Name: korak Character: korak Ping: 156
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 210
+PlayerID: 76561198268232338 Name: ?????? ???? ????? Character: Frontick [D.A] Ping: 62
+
+TimerTerminateCommand.Enabled with Players:
+[World] Dancer [Dancer]: "ушол"
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4293626374
+PlayerID: 76561198384007551
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 31454761
+PlayerID: 76561198371016652
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 31535175
+
+END with Bans:
+[World] RomaPLAY22 [Rom@N]: "/kit start"
+
+[World] Zlo [Мама Ама Криминал]: "эксперт"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198253416576 Name: НЕ_УБИВАЙ_ДЯДЯ Character: spaik Ping: 93
+PlayerID: 76561198336963071 Name: maut22 Character: vtor2005 Ping: 31
+PlayerID: 76561198394519442 Name: Dancer Character: Dancer Ping: 101
+PlayerID: 76561198165490172 Name: Gothic Character: \|Gothic|/ Ping: 46
+PlayerID: 76561198312200782 Name: Данил Макеев Character: Данил Макеев Ping: 218
+PlayerID: 76561198356653903 Name: PrietenulCucushatului Character: PrietenulCucushatului Ping: 85
+PlayerID: 76561198292307309 Name: wolk.1221 Character: Yoba Ping: 195
+PlayerID: 76561198385711346 Name: yelowruben Character: yelowruben Ping: 31
+PlayerID: 76561198348937212 Name: Rom@N Character: RomaPLAY22 Ping: 93
+PlayerID: 76561198172586102 Name: DunderBurger #SUMMER Character: DunderMario Ping: 117
+PlayerID: 76561198274890568 Name: Ica ;) hellcase.com Character: Ica ;) *** Ping: 78
+PlayerID: 76561198388803679 Name: nikanorova2 Character: nikanorova2 Ping: 148
+PlayerID: 76561198324996335 Name: Mуждей щи Мамалыга Character: []Max[] Ping: 109
+PlayerID: 76561198323264908 Name: I AM YOUR GOD Character: BIRG WILD Ping: 62
+PlayerID: 76561198023322497 Name: Westat Character: Westat Ping: 62
+PlayerID: 76561198279629496 Name: eclectikoma Character: eclectikoma Ping: 179
+PlayerID: 76561198257489493 Name: thegamer2370 Character: thegamer2370 Ping: 179
+PlayerID: 76561198317611584 Name: Мама Ама Криминал Character: Zlo Ping: 46
+
+TimerTerminateCommand.Enabled with Players:
+PlayerID: 76561198392646527 Name: HacKers Inse-WoRLD HACK Character: Драгунов Самошкин Ping: 257
+PlayerID: 76561198394560596 Name: koldin1925 Character: Fresh Ping: 46
+PlayerID: 76561198177412437 Name: korak Character: korak Ping: 140
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 234
+PlayerID: 76561198268232338 Name: ?????? ???? ????? Character: Frontick [D.A] Ping: 101
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4293626354
+PlayerID: 76561198384007551
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 31454741
+PlayerID: 76561198371016652
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 31535155
+
+END with Bans:
+[World] nikanorova2 [nikanorova2]: "у меня патроны"
+
+Connecting: PlayerID: 76561198369910805 Name: vasya_s_2005 Character: vasya_s_2005
+
+Client has executed command "admins"
+
+TimerTerminateCommand.Enabled with Admins:
+Admins:
+PlayerID: 76561198119509031
+JudgeID: 0
+PlayerID: 76561198366549870
+JudgeID: 0
+
+END with Admins:
+TimerTerminateCommand.Enabled with Players:
+Client has executed command "players"
+Players:
+PlayerID: 76561198253416576 Name: НЕ_УБИВАЙ_ДЯДЯ Character: spaik Ping: 85
+PlayerID: 76561198336963071 Name: maut22 Character: vtor2005 Ping: 31
+PlayerID: 76561198394519442 Name: Dancer Character: Dancer Ping: 85
+PlayerID: 76561198165490172 Name: Gothic Character: \|Gothic|/ Ping: 23
+PlayerID: 76561198312200782 Name: Данил Макеев Character: Данил Макеев Ping: 195
+PlayerID: 76561198356653903 Name: PrietenulCucushatului Character: PrietenulCucushatului Ping: 70
+PlayerID: 76561198292307309 Name: wolk.1221 Character: Yoba Ping: 195
+PlayerID: 76561198385711346 Name: yelowruben Character: yelowruben Ping: 31
+PlayerID: 76561198348937212 Name: Rom@N Character: RomaPLAY22 Ping: 54
+PlayerID: 76561198172586102 Name: DunderBurger #SUMMER Character: DunderMario Ping: 289
+PlayerID: 76561198274890568 Name: Ica ;) hellcase.com Character: Ica ;) *** Ping: 78
+PlayerID: 76561198388803679 Name: nikanorova2 Character: nikanorova2 Ping: 101
+PlayerID: 76561198324996335 Name: Mуждей щи Мамалыга Character: []Max[] Ping: 85
+PlayerID: 76561198323264908 Name: I AM YOUR GOD Character: BIRG WILD Ping: 31
+PlayerID: 76561198023322497 Name: Westat Character: Westat Ping: 39
+PlayerID: 76561198279629496 Name: eclectikoma Character: eclectikoma Ping: 195
+PlayerID: 76561198257489493 Name: thegamer2370 Character: thegamer2370 Ping: 257
+PlayerID: 76561198317611584 Name: Мама Ама Криминал Character: Zlo Ping: 31
+PlayerID: 76561198392646527 Name: HacKers Inse-WoRLD HACK Character: Драгунов Самошкин Ping: 242
+PlayerID: 76561198394560596 Name: koldin1925 Character: Fresh Ping: 70
+PlayerID: 76561198177412437 Name: korak Character: korak Ping: 148
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 187
+PlayerID: 76561198268232338 Name: ?????? ???? ????? Character: Frontick [D.A] Ping: 148
+PlayerID: 76561198369910805 Name: vasya_s_2005 Character: vasya_s_2005 Ping: 0
+
+TimerTerminateCommand.Enabled with Players:
+[World] BIRG WILD [I AM YOUR GOD]: "Красивый домик"
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4293626329
+PlayerID: 76561198384007551
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 31454716
+PlayerID: 76561198371016652
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 31535130
+
+END with Bans:
+Не обработано: MessageAnnouncer >> Broadcast: Внимание! PvP-режим по субботам! PvP-режим!!!
+MessageAnnouncer >> Broadcast: Внимание! PvP-режим по субботам! PvP-режим!!!
+
+Не обработано: MessageAnnouncer >> Внимание! PvP-режим по субботам! PvP-режим!!!
+MessageAnnouncer >> Внимание! PvP-режим по субботам! PvP-режим!!!
+

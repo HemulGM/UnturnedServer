@@ -1,0 +1,85 @@
+RocketRcon v2.4.8.0
+
+login aVIPs22031994
+players
+Client has executed command "players"
+Players:
+PlayerID: 76561198280154397 Name: Sasha2004SWAG [RUS] Character: Sasha2004SWAG Ping: 126
+Client has executed command "bans"
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 26373460
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 29253738
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 29253754
+Client has executed command "bans"
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 26373459
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 29253737
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 29253753
+Client has executed command "GET NOW"
+ServerControl >> VALUE NOW [0] [0] [3454]
+
+END
+END
+END
+MessageAnnouncer >> Broadcast: Внимание! PvP-режим по субботам! PvP-режим!!!
+
+MessageAnnouncer >> Внимание! PvP-режим по субботам! PvP-режим!!!
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [3464]
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [3465]
+
+Disconnecting: PlayerID: 76561198280154397 Name: Sasha2004SWAG [RUS] Character: Sasha2004SWAG
+
+Client has executed command "players"
+
+Failed to find any players.
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [3474]
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [3476]
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [3484]
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [3486]
+
+Client has executed command "players"
+
+Failed to find any players.
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [3494]
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [3496]
+

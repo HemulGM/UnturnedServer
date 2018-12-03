@@ -1,0 +1,80 @@
+RocketRcon v2.4.8.0
+
+login aVIPs22031994
+players
+Client has executed command "players"
+Players:
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 223
+PlayerID: 76561198385149949 Name: GoDNooB Character: GoDNooB Ping: 137
+PlayerID: 76561198315561906 Name: MaXiMuS Character: valuxa1984 Ping: 53
+PlayerID: 76561198430964141 Name: tolikoleshki Character: tolik Ping: 140
+PlayerID: 76561198265247601 Name: BisonbonasusPlay Character: Dmitriy Ping: 177
+[World] Expert1337 [Expert13372284200]: "ща"
+Client has executed command "GET NOW"
+ServerControl >> VALUE NOW [1] [0] [2085]
+
+Client has executed command "bans"
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 28076870
+PlayerID: 76561198336969313
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 192103
+PlayerID: 76561198212486347
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 192434
+PlayerID: 76561198391097237
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 354921
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30957148
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30957164
+
+END
+END
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 204
+PlayerID: 76561198385149949 Name: GoDNooB Character: GoDNooB Ping: 115
+PlayerID: 76561198315561906 Name: MaXiMuS Character: valuxa1984 Ping: 52
+PlayerID: 76561198430964141 Name: tolikoleshki Character: tolik Ping: 125
+PlayerID: 76561198265247601 Name: BisonbonasusPlay Character: Dmitriy Ping: 184
+
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 28076863
+PlayerID: 76561198336969313
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 192096
+PlayerID: 76561198212486347
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 192427
+PlayerID: 76561198391097237
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 354914
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30957141
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30957157
+
+END
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [2095]
+
+END
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [2099]
+

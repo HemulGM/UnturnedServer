@@ -1,0 +1,96 @@
+RocketRcon v2.4.8.0
+
+login aVIPs22031994
+players
+Client has executed command "players"
+Players:
+PlayerID: 76561198280154397 Name: Sasha2004SWAG [RUS] Character: Sasha2004SWAG Ping: 126
+Client has executed command "bans"
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 26373654
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 29253932
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 29253948
+
+END
+END
+Client has executed command "cchat "" 0 0 0"
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [3264]
+
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198280154397 Name: Sasha2004SWAG [RUS] Character: Sasha2004SWAG Ping: 132
+
+GET NOW
+Client has executed command "GET NOW"
+ServerControl >> VALUE NOW [0] [0] [3269]
+
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 26373642
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 29253920
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 29253936
+
+END
+END
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [3274]
+
+GET NOW
+MessageAnnouncer >> Broadcast: Наберите /rules (/r) для просмотра правил
+MessageAnnouncer >> Наберите /rules (/r) для просмотра правил
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [3280]
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [3284]
+
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198280154397 Name: Sasha2004SWAG [RUS] Character: Sasha2004SWAG Ping: 126
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [3290]
+
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 26373621
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 29253899
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 29253915
+
+END
+END
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [3294]
+

@@ -1,0 +1,12 @@
+16.11.2017 16:30:26: Не обработано: SqlNullValueException: Data is Null. This method or property cannot be called on Null values. - MySql.Data.MySqlClient.MySqlDataReader.GetFieldValue (Int32 index, Boolean checkNull)
+16.11.2017 16:30:26: Не обработано: MySql.Data.MySqlClient.MySqlDataReader.GetString (Int32 i)
+16.11.2017 16:30:26: Не обработано: MySql.Data.MySqlClient.MySqlDataReader.GetString (System.String column)
+16.11.2017 16:30:26: Не обработано: (wrapper remoting-invoke-with-check) MySql.Data.MySqlClient.MySqlDataReader:GetString (string)
+16.11.2017 16:30:26: Не обработано: PlayerInfoLibrary.DatabaseManager.PrecessExpiredPInfo ()
+16.11.2017 16:30:26: Не обработано: PlayerInfoLibrary.PlayerInfoLib.FixedUpdate ()
+16.11.2017 16:30:26: Сохранение сервера
+16.11.2017 16:36:13: Не обработано: ServerControl >> Broadcast: Аирдроп через 40 м.
+16.11.2017 16:38:36: Не обработано: zohan [__EHoT] was blown up by a vehicle!
+16.11.2017 16:38:45: Не обработано: zohan moved x:-138.2724 y:65.88714(+37.82642) z:925.9868 in the last second (0.2379227)
+16.11.2017 16:40:27: Не обработано: Алексей Владимирович moved x:-870.0283 y:65.94826(+16.19748) z:-196.8172 in the last second (0.09999847)
+16.11.2017 16:41:49: Не обработано: Максим Вольнов moved x:-218.4269 y:54.90608(+16.23374) z:-13.14137 in the last second (1)

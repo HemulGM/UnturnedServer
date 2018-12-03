@@ -1,0 +1,390 @@
+RocketRcon v2.4.8.0
+
+login aVIPs22031994
+players
+Client has executed command "players"
+Players:
+PlayerID: 76561198444494613 Name: vladkrigin Character: дима васильев Ping: 152
+PlayerID: 76561198262295937 Name: S.H.O.C.K Character: Shock Ping: 78
+PlayerID: 76561198423084997 Name: lovemariina Character: Rendy Ping: 121
+
+Client has executed command "bans"
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27908728
+PlayerID: 76561198336969313
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 23961
+PlayerID: 76561198212486347
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 24292
+PlayerID: 76561198391097237
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 186779
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30789006
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30789022
+
+END
+END
+[World] дима васильев [vladkrigin]: "/buy 1109"
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [1270]
+
+cchat "76561198366549870" "/49/17/09/02/05/12/05/03/09/09 /02/11/12/31/24/05/14/28" 255 255 255
+p add 76561198366549870 Moderators
+Client has executed command "cchat "76561198366549870" "/49/17/09/02/05/12/05/03/09/09 /02/11/12/31/24/05/14/28" 255 255 255"
+ServerControl >> /49/17/09/02/05/12/05/03/09/09 /02/11/12/31/24/05/14/28 255 255 255
+
+Не обработано: ServerControl >> /49/17/09/02/05/12/05/03/09/09 /02/11/12/31/24/05/14/28 255 255 255
+Client has executed command "p add 76561198366549870 Moderators"
+
+NULL уже в группе Moderators
+
+Не обработано: NULL уже в группе Moderators
+Client has executed command "players"
+Players:
+PlayerID: 76561198444494613 Name: vladkrigin Character: дима васильев Ping: 156
+PlayerID: 76561198262295937 Name: S.H.O.C.K Character: Shock Ping: 78
+PlayerID: 76561198423084997 Name: lovemariina Character: Rendy Ping: 140
+
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27908718
+PlayerID: 76561198336969313
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 23951
+PlayerID: 76561198212486347
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 24282
+PlayerID: 76561198391097237
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 186769
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30788996
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30789012
+
+END
+END
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [1275]
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [1280]
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [1285]
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [1290]
+
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198444494613 Name: vladkrigin Character: дима васильев Ping: 160
+PlayerID: 76561198262295937 Name: S.H.O.C.K Character: Shock Ping: 74
+PlayerID: 76561198423084997 Name: lovemariina Character: Rendy Ping: 128
+
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27908698
+PlayerID: 76561198336969313
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 23931
+PlayerID: 76561198212486347
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 24262
+PlayerID: 76561198391097237
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 186749
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30788976
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30788992
+
+END
+END
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [1296]
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [1300]
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [1306]
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [1310]
+
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198444494613 Name: vladkrigin Character: дима васильев Ping: 160
+PlayerID: 76561198262295937 Name: S.H.O.C.K Character: Shock Ping: 78
+PlayerID: 76561198423084997 Name: lovemariina Character: Rendy Ping: 132
+
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27908678
+PlayerID: 76561198336969313
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 23911
+PlayerID: 76561198212486347
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 24242
+PlayerID: 76561198391097237
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 186729
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30788956
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30788972
+
+END
+END
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [1316]
+
+MessageAnnouncer >> Broadcast: vk.com/hemulgm - ЕДИНСТВЕННЫЙ администратор сервера
+
+MessageAnnouncer >> vk.com/hemulgm - ЕДИНСТВЕННЫЙ администратор сервера
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [1320]
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [1326]
+
+[World] дима васильев [vladkrigin]: "/tpa ren"
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [1330]
+
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198444494613 Name: vladkrigin Character: дима васильев Ping: 152
+PlayerID: 76561198262295937 Name: S.H.O.C.K Character: Shock Ping: 230
+PlayerID: 76561198423084997 Name: lovemariina Character: Rendy Ping: 128
+
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27908658
+PlayerID: 76561198336969313
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 23891
+PlayerID: 76561198212486347
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 24222
+PlayerID: 76561198391097237
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 186709
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30788936
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30788952
+
+END
+END
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [1336]
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [1340]
+
+[World] Rendy [lovemariina]: "/tpa accept"
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [1346]
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [1350]
+
+Disconnecting: PlayerID: 76561198444494613 Name: vladkrigin Character: дима васильев
+
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198262295937 Name: S.H.O.C.K Character: Shock Ping: 78
+PlayerID: 76561198423084997 Name: lovemariina Character: Rendy Ping: 125
+
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27908638
+PlayerID: 76561198336969313
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 23871
+PlayerID: 76561198212486347
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 24202
+PlayerID: 76561198391097237
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 186689
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30788916
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30788932
+
+END
+END
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [1356]
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [1360]
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [1366]
+
+Client has executed command "GET NOW"
+ServerControl >> VALUE NOW [1] [0] [1370]
+
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198262295937 Name: S.H.O.C.K Character: Shock Ping: 74
+PlayerID: 76561198423084997 Name: lovemariina Character: Rendy Ping: 121
+
+Client has executed command "bans"
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27908618
+PlayerID: 76561198336969313
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 23851
+PlayerID: 76561198212486347
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 24182
+PlayerID: 76561198391097237
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 186669
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30788896
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30788912
+MessageAnnouncer >> Broadcast: Используйте /report [ник], чтобы отправить жалобу на игрока
+MessageAnnouncer >> Используйте /report [ник], чтобы отправить жалобу на игрока
+Client has executed command "GET NOW"
+ServerControl >> VALUE NOW [1] [0] [1380]
+Client has executed command "GET NOW"
+ServerControl >> VALUE NOW [1] [0] [1390]
+Client has executed command "players"
+Players:
+PlayerID: 76561198262295937 Name: S.H.O.C.K Character: Shock Ping: 82
+PlayerID: 76561198423084997 Name: lovemariina Character: Rendy Ping: 121
+Client has executed command "bans"
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27908598
+PlayerID: 76561198336969313
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 23831
+PlayerID: 76561198212486347
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 24162
+PlayerID: 76561198391097237
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 186649
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30788876
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30788892
+Connecting: PlayerID: 76561198444494613 Name: vladkrigin Character: дима васильев
+дима васильев connected with IP 95.70.120.217
+
+END
+END
+END
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [1399]
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [1400]
+
+END
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [1409]
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [1410]
+
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198262295937 Name: S.H.O.C.K Character: Shock Ping: 74
+PlayerID: 76561198423084997 Name: lovemariina Character: Rendy Ping: 117
+PlayerID: 76561198444494613 Name: vladkrigin Character: дима васильев Ping: 160
+

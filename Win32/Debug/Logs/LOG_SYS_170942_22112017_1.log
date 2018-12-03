@@ -1,0 +1,7 @@
+ClientSocketLookup
+ClientSocketConnecting
+ClientSocketConnect
+ClientSocketWrite
+except Query.Open CheckDonat
+Can't connect to MySQL server on '127.0.0.1' (10061)
+except CreateDonat Feature not implemented

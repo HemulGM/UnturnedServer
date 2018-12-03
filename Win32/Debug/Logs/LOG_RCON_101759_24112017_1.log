@@ -1,0 +1,486 @@
+RocketRcon v2.4.8.0
+
+login aVIPs22031994
+players
+Client has executed command "players"
+Players:
+PlayerID: 76561198245870076 Name: 0|TheGangstar|0 Character: Nyan Bread Ping: 78
+Client has executed command "GET NOW"
+ServerControl >> VALUE NOW [1] [0] [2246]
+
+Client has executed command "bans"
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27928520
+PlayerID: 76561198336969313
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 43753
+PlayerID: 76561198212486347
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 44084
+PlayerID: 76561198391097237
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 206571
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30808798
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30808814
+
+END
+END
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [2256]
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [2259]
+
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198245870076 Name: 0|TheGangstar|0 Character: Nyan Bread Ping: 85
+
+cchat "/33/04/13/09/14: /47/00/04/15 100?" 255 0 0
+Client has executed command "cchat "/33/04/13/09/14: /47/00/04/15 100?" 255 0 0"
+
+ServerControl >> Broadcast: Админ: Надо 100?
+
+Не обработано: ServerControl >> Broadcast: Админ: Надо 100?
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27928504
+PlayerID: 76561198336969313
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 43737
+PlayerID: 76561198212486347
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 44068
+PlayerID: 76561198391097237
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 206555
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30808782
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30808798
+
+END
+END
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [2266]
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [2269]
+
+[World] Nyan Bread [0|TheGangstar|0]: "ты с кем"
+
+[World] Nyan Bread [0|TheGangstar|0]: "сто всмысле?"
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [2276]
+
+cchat "/33/04/13/09/14: /52/28 /15/04/09/14 /14/00 /18/05/17/02/05/17/05" 255 0 0
+Client has executed command "cchat "/33/04/13/09/14: /52/28 /15/04/09/14 /14/00 /18/05/17/02/05/17/05" 255 0 0"
+
+ServerControl >> Broadcast: Админ: Ты один на сервере
+
+Не обработано: ServerControl >> Broadcast: Админ: Ты один на сервере
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [2279]
+
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198245870076 Name: 0|TheGangstar|0 Character: Nyan Bread Ping: 78
+
+[World] Nyan Bread [0|TheGangstar|0]: "какое 100?"
+
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27928485
+PlayerID: 76561198336969313
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 43718
+PlayerID: 76561198212486347
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 44049
+PlayerID: 76561198391097237
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 206536
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30808763
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30808779
+
+END
+END
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [2286]
+
+MessageAnnouncer >> Broadcast: Наберите /kit help, чтобы получить первую мед. помощь (бинты, таблетки, еда)
+
+MessageAnnouncer >> Наберите /kit help, чтобы получить первую мед. помощь (бинты, таблетки, еда)
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [2289]
+
+pay 76561198245870076 100
+Client has executed command "pay 76561198245870076 100"
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [2296]
+
+[World] Nyan Bread [0|TheGangstar|0]: "о спс"
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [2299]
+
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198245870076 Name: 0|TheGangstar|0 Character: Nyan Bread Ping: 74
+
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27928465
+PlayerID: 76561198336969313
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 43698
+PlayerID: 76561198212486347
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 44029
+PlayerID: 76561198391097237
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 206516
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30808743
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30808759
+
+END
+END
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2306]
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2309]
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2316]
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2319]
+
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198245870076 Name: 0|TheGangstar|0 Character: Nyan Bread Ping: 74
+
+cchat "/33/04/13/09/14: /56/02/05/19 /19/05/11/18/19/00 /11/17/00/18/14/28/10?" 255 0 0
+Client has executed command "cchat "/33/04/13/09/14: /56/02/05/19 /19/05/11/18/19/00 /11/17/00/18/14/28/10?" 255 0 0"
+
+ServerControl >> Broadcast: Админ: Цвет текста красный?
+
+Не обработано: ServerControl >> Broadcast: Админ: Цвет текста красный?
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27928444
+PlayerID: 76561198336969313
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 43677
+PlayerID: 76561198212486347
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 44008
+PlayerID: 76561198391097237
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 206494
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30808721
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30808737
+
+END
+END
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2326]
+
+[World] Nyan Bread [0|TheGangstar|0]: "да"
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2329]
+
+cchat "/33/04/13/09/14: /33 /18/05/10/24/00/18?" 0 255 255
+Client has executed command "cchat "/33/04/13/09/14: /33 /18/05/10/24/00/18?" 0 255 255"
+
+ServerControl >> Broadcast: Админ: А сейчас?
+
+Не обработано: ServerControl >> Broadcast: Админ: А сейчас?
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2336]
+
+[World] Nyan Bread [0|TheGangstar|0]: "голубой"
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2339]
+
+Client has executed command "players"
+Players:
+PlayerID: 76561198245870076 Name: 0|TheGangstar|0 Character: Nyan Bread Ping: 89
+
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27928425
+PlayerID: 76561198336969313
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 43658
+PlayerID: 76561198212486347
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 43989
+PlayerID: 76561198391097237
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 206476
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30808703
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30808719
+
+END
+cchat "/33/04/13/09/14: /41/01/18" 255 0 255
+Client has executed command "cchat "/33/04/13/09/14: /41/01/18" 255 0 255"
+
+ServerControl >> Broadcast: Админ: Збс
+
+Не обработано: ServerControl >> Broadcast: Админ: Збс
+END
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2346]
+
+[World] Nyan Bread [0|TheGangstar|0]: "розовый"
+
+MessageAnnouncer >> Broadcast: vk.com/unturned_hgm - цены на премиум, VIP и другие услуги смотрите в группе!
+
+MessageAnnouncer >> vk.com/unturned_hgm - цены на премиум, VIP и другие услуги смотрите в группе!
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2349]
+
+cchat "/33/04/13/09/14: /44/00/11/15/10 /12/20/24/25/05 /02/09/04/14/15?" 255 255 255
+Client has executed command "cchat "/33/04/13/09/14: /44/00/11/15/10 /12/20/24/25/05 /02/09/04/14/15?" 255 255 255"
+
+ServerControl >> Broadcast: Админ: Какой лучше видно?
+
+Не обработано: ServerControl >> Broadcast: Админ: Какой лучше видно?
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2356]
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2359]
+
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198245870076 Name: 0|TheGangstar|0 Character: Nyan Bread Ping: 70
+
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27928405
+PlayerID: 76561198336969313
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 43638
+PlayerID: 76561198212486347
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 43969
+PlayerID: 76561198391097237
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 206456
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30808683
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30808699
+
+END
+END
+[World] Nyan Bread [0|TheGangstar|0]: "я хз мне белый ярче кажется"
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2366]
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2369]
+
+cchat "/33/04/13/09/14: /48/11" 255 255 255
+Client has executed command "cchat "/33/04/13/09/14: /48/11" 255 255 255"
+
+ServerControl >> Broadcast: Админ: Ок
+
+Не обработано: ServerControl >> Broadcast: Админ: Ок
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2376]
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2379]
+
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198245870076 Name: 0|TheGangstar|0 Character: Nyan Bread Ping: 82
+
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27928385
+PlayerID: 76561198336969313
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 43618
+PlayerID: 76561198212486347
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 43949
+PlayerID: 76561198391097237
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 206436
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30808663
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30808679
+
+END
+END
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2386]
+
+Client has executed command "cchat "/33/09/17/04/17/15/16 /24/05/17/05/08 1 /24. 40 /13. " 255 255 0"
+
+ServerControl >> Broadcast: Аирдроп через 1 ч. 40 м.
+
+Не обработано: ServerControl >> Broadcast: Аирдроп через 1 ч. 40 м.
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2389]
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2396]
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2399]
+
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198245870076 Name: 0|TheGangstar|0 Character: Nyan Bread Ping: 62
+
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27928365
+PlayerID: 76561198336969313
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 43598
+PlayerID: 76561198212486347
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 43929
+PlayerID: 76561198391097237
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 206416
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30808643
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30808659
+
+END
+END
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2406]
+
+MessageAnnouncer >> Broadcast: Наберите /kit claim, чтобы получить Claim Flag
+
+MessageAnnouncer >> Наберите /kit claim, чтобы получить Claim Flag
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2409]
+

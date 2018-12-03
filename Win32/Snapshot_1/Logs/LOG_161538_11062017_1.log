@@ -1,0 +1,43 @@
+Не обработано: RocketRcon v2.4.8.0
+RocketRcon v2.4.8.0
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198363739022 Name: fsuprun Character: fsuprun Ping: 100
+PlayerID: 76561198262878051 Name: Kolder Character: Kolder Ping: 61
+PlayerID: 76561198147477828 Name: galbatsovmikail Character: galbatsovmikail Ping: 60
+PlayerID: 76561198389158573 Name: zolotov.ilya2018 Character: Zadura Ping: 603
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 40
+PlayerID: 76561198381173735 Name: ingener_spring Character: ingener_spring Ping: 77
+PlayerID: 76561198165822970 Name: Indigo Character: Indigo Ping: 46
+PlayerID: 76561198152466685 Name: Blaster006 Character: Blaster006 Ping: 56
+PlayerID: 76561198177243258 Name: garfield2016 Character: rubi Ping: 86
+PlayerID: 76561198388803679 Name: nikanorova2 Character: nikanorova2 Ping: 101
+PlayerID: 76561198174080767 Name: Jagdkommando Character: Jagdkommando Ping: 81
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4293969268
+
+TimerTerminateCommand.Enabled with Bans:
+Disconnecting: PlayerID: 76561198389158573 Name: zolotov.ilya2018 Character: Zadura
+
+TimerTerminateCommand.Enabled with Bans:
+[World] Indigo [Indigo]: "/tp in"
+
+Не обработано: Indigo телепортирован к ingener_spring
+TimerTerminateCommand.Enabled with Bans:
+Indigo телепортирован к ingener_spring
+
+Не обработано: Indigo moved x:907.3689 y:81.11828(+42.46586) z:565.725 in the last second (0.5999985)
+TimerTerminateCommand.Enabled with Bans:
+Indigo moved x:907.3689 y:81.11828(+42.46586) z:565.725 in the last second (0.5999985)
+
+END with Bans:

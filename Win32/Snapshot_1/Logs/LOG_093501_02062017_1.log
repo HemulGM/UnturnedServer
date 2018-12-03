@@ -1,0 +1,54 @@
+Не обработано: RocketRcon v2.4.8.0
+RocketRcon v2.4.8.0
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 148
+PlayerID: 76561198376380342 Name: Sergeant Gamezer Character: Dr.Lee Gamezer  Ping: 132
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 31
+PlayerID: 76561198319470051 Name: _TATAP_ Character: TATAP123 Ping: 54
+
+TimerTerminateCommand.Enabled with Players:
+Client has executed command "bans"
+
+END with Players:
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 123123
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 31306735
+PlayerID: 123
+JudgeID: 0
+Reason: durila Duration: 4000 Remaining: 4294742529
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294770902
+
+END with Bans:
+[World] TATAP123 [_TATAP_]: "/kit start"
+
+[World] 7_AleX_3 [7_AleX_3]: "/home"
+
+Не обработано: 7_AleX_3 moved x:894.0248 y:95.05786(+46.5928) z:-485.2181 in the last second (0.2379227)
+7_AleX_3 moved x:894.0248 y:95.05786(+46.5928) z:-485.2181 in the last second (0.2379227)
+
+[World] Dr.Lee Gamezer  [Sergeant Gamezer]: "Road trip!"
+
+Client has executed command "say "HemulGM: ????????""
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 140
+PlayerID: 76561198376380342 Name: Sergeant Gamezer Character: Dr.Lee Gamezer  Ping: 257
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 39
+PlayerID: 76561198319470051 Name: _TATAP_ Character: TATAP123 Ping: 62
+
+Не обработано: Dr.Lee Gamezer  moved x:-291.8336 y:55.32205(+16.64472) z:85.44565 in the last second (0.8116493)
+TimerTerminateCommand.Enabled with Players:
+Dr.Lee Gamezer  moved x:-291.8336 y:55.32205(+16.64472) z:85.44565 in the last second (0.8116493)
+
+END with Players:

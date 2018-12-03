@@ -1,0 +1,1205 @@
+16.06.2017 23:31:43: Не обработано: RocketRcon v2.4.8.0
+16.06.2017 23:31:46: Не обработано: MessageAnnouncer >> Broadcast: Наберите /kit start, чтобы получить стартовый набор (еда, вода, топор)
+16.06.2017 23:31:46: Не обработано: MessageAnnouncer >> Наберите /kit start, чтобы получить стартовый набор (еда, вода, топор)
+16.06.2017 23:31:49: Не обработано: Пипр moved x:-818.5793 y:80.34998(+38.19643) z:-952.7543 in the last second (0.05000305)
+16.06.2017 23:31:52: Successfully gave Indigo 1006 x5!
+16.06.2017 23:32:14: Не обработано: DropManager >> 3
+16.06.2017 23:32:14: Не обработано: Mr. Pozitiv [mufteev.gleb] was mauled by a zombie!
+16.06.2017 23:32:58: Successfully gave Indigo 1438 x2!
+16.06.2017 23:33:46: Не обработано: MessageAnnouncer >> Broadcast: Внимание! PvP-режим по субботам! PvP-режим!!!
+16.06.2017 23:33:46: Не обработано: MessageAnnouncer >> Внимание! PvP-режим по субботам! PvP-режим!!!
+16.06.2017 23:35:12: Successfully gave Indigo 151 x1!
+16.06.2017 23:35:46: Не обработано: MessageAnnouncer >> Broadcast: vk.com/unturned_hgm - группа сервера ВК, уникальный кит в записи!
+16.06.2017 23:35:46: Не обработано: MessageAnnouncer >> vk.com/unturned_hgm - группа сервера ВК, уникальный кит в записи!
+16.06.2017 23:36:19: Не обработано: DropManager >> 3
+16.06.2017 23:36:19: Не обработано: galbatsovmikail [galbatsovmikail] was mauled by a zombie!
+16.06.2017 23:37:44: Не обработано: PlayerInfoLib >> No expired player info records found for this batch.
+16.06.2017 23:37:45: Сохранение сервера
+16.06.2017 23:37:46: Не обработано: MessageAnnouncer >> Broadcast: Наберите /kit help, чтобы получить первую мед. помощь (бинты, таблетки, еда)
+16.06.2017 23:37:46: Не обработано: MessageAnnouncer >> Наберите /kit help, чтобы получить первую мед. помощь (бинты, таблетки, еда)
+16.06.2017 23:39:29: Не обработано: PlayerID: 76561198146679736 Name: Николай Петрович Character: Aye Ping: 123
+16.06.2017 23:39:46: Не обработано: MessageAnnouncer >> Broadcast: vk.com/unturned_hgm - цены на премиум, VIP и другие услуги смотрите в группе!
+16.06.2017 23:39:46: Не обработано: MessageAnnouncer >> vk.com/unturned_hgm - цены на премиум, VIP и другие услуги смотрите в группе!
+16.06.2017 23:40:02: Не обработано: Дал HemulGM вещь 520:40
+16.06.2017 23:40:12: Не обработано: Mr. Pozitiv moved x:-88.47658 y:48.54068(+19.73695) z:-534.292 in the last second (0.1377258)
+16.06.2017 23:40:15: Не обработано: DropManager >> 3
+16.06.2017 23:40:15: Не обработано: Mr. Pozitiv [mufteev.gleb] was blown up by a vehicle!
+16.06.2017 23:40:29: Не обработано: Mr. Pozitiv был телепортирован к HemulGM
+16.06.2017 23:41:16: Не обработано: HemulGM получил транспорт 60
+16.06.2017 23:41:28: Не обработано: HemulGM получил транспорт 49
+16.06.2017 23:41:46: Не обработано: MessageAnnouncer >> Broadcast: Наберите /kit claim, чтобы получить Claim Flag
+16.06.2017 23:41:46: Не обработано: MessageAnnouncer >> Наберите /kit claim, чтобы получить Claim Flag
+16.06.2017 23:41:49: Не обработано: Indigo телепортирован к HemulGM
+16.06.2017 23:42:20: Не обработано: HemulGM moved x:-266.7379 y:54.90842(+26.78259) z:-462.4146 in the last second (0.09999847)
+16.06.2017 23:42:21: Не обработано: Indigo получил транспорт 820
+16.06.2017 23:43:46: Не обработано: MessageAnnouncer >> Broadcast: Если модератор ведёт себя неподобающе, пишите в группу или ЛС (vk.com/unturned_hgm, vk.com/hemulgm)
+16.06.2017 23:43:46: Не обработано: MessageAnnouncer >> Если модератор ведёт себя неподобающе, пишите в группу или ЛС (vk.com/unturned_hgm, vk.com/hemulgm)
+16.06.2017 23:43:52: Не обработано: An error occured while executing v [277]: System.NullReferenceException: Object reference not set to an instance of an object
+16.06.2017 23:43:52: Не обработано:   at Rocket.Unturned.Commands.CommandV.Execute (IRocketPlayer caller, System.String[] command) [0x00000] in <filename unknown>:0 
+16.06.2017 23:43:52: Не обработано:   at Rocket.Core.Commands.RocketCommandManager+RegisteredRocketCommand.Execute (IRocketPlayer caller, System.String[] command) [0x00000] in <filename unknown>:0 
+16.06.2017 23:43:52: Не обработано:   at Rocket.Core.Commands.RocketCommandManager.Execute (IRocketPlayer player, System.String command) [0x00000] in <filename unknown>:0 
+16.06.2017 23:44:06: Не обработано: HemulGM получил транспорт 73
+16.06.2017 23:45:34: Не обработано: DropManager >> 3
+16.06.2017 23:45:34: Не обработано: Пипр [НеЗнаюКакой] suffocated to death!
+16.06.2017 23:45:35: Не обработано: Пипр moved x:-534.1212 y:368.5435(+317.078) z:-699.8001 in the last second (357.0504)
+16.06.2017 23:45:46: Не обработано: MessageAnnouncer >> Broadcast: vk.com/hemulgm - ЕДИНСТВЕННЫЙ администратор сервера
+16.06.2017 23:45:46: Не обработано: MessageAnnouncer >> vk.com/hemulgm - ЕДИНСТВЕННЫЙ администратор сервера
+16.06.2017 23:46:04: Не обработано: Пипр moved x:-818.5793 y:80.34998(+41.87266) z:-952.7543 in the last second (0.05000305)
+16.06.2017 23:47:25: Successfully gave Indigo 1441 x1!
+16.06.2017 23:47:46: Не обработано: MessageAnnouncer >> Broadcast: Используйте /report [ник], чтобы отправить жалобу на игрока
+16.06.2017 23:47:46: Не обработано: MessageAnnouncer >> Используйте /report [ник], чтобы отправить жалобу на игрока
+16.06.2017 23:47:52: Successfully set time to day!
+16.06.2017 23:48:37: Successfully gave Indigo 1384 x8!
+16.06.2017 23:49:09: Successfully gave Indigo 1384 x10!
+16.06.2017 23:49:24: Не обработано: HemulGM телепортирован к Bambi
+16.06.2017 23:49:44: Successfully gave Indigo 1006 x4!
+16.06.2017 23:49:46: Не обработано: MessageAnnouncer >> Broadcast: Наберите /rules (/r) для просмотра правил
+16.06.2017 23:49:46: Не обработано: MessageAnnouncer >> Наберите /rules (/r) для просмотра правил
+16.06.2017 23:49:56: Не обработано: HemulGM включен Godmode
+16.06.2017 23:50:04: Не обработано: Indigo отключен Godmode
+16.06.2017 23:50:40: Не обработано: Пипр moved x:-818.5793 y:80.34998(+56.01895) z:-952.7543 in the last second (0.05000305)
+16.06.2017 23:50:42: Не обработано: Indigo телепортирован к HemulGM
+16.06.2017 23:51:46: Не обработано: MessageAnnouncer >> Broadcast: Добро пожаловать на HEMULGM.RU. Тут рады вам больше, чем на любом другом сервере!
+16.06.2017 23:51:46: Не обработано: MessageAnnouncer >> Добро пожаловать на HEMULGM.RU. Тут рады вам больше, чем на любом другом сервере!
+16.06.2017 23:52:05: Не обработано: HemulGM телепортирован к Seattle
+16.06.2017 23:52:11: Не обработано: Indigo телепортирован к HemulGM
+16.06.2017 23:52:20: Не обработано: Bambi moved x:-547.4272 y:58.15392(+21.9464) z:-233.7034 in the last second (0.05000305)
+16.06.2017 23:52:47: Не обработано: VehicleEvents >> Broadcast: Брошенный джип в Puget Sound! Найди его и он твой!
+16.06.2017 23:53:29: Не обработано: PlayerID: 76561198177412437 Name: korak Character: korak Ping: 207
+16.06.2017 23:53:46: Не обработано: MessageAnnouncer >> Broadcast: Наберите /kit start, чтобы получить стартовый набор (еда, вода, топор)
+16.06.2017 23:53:46: Не обработано: MessageAnnouncer >> Наберите /kit start, чтобы получить стартовый набор (еда, вода, топор)
+16.06.2017 23:54:23: Не обработано: Indigo телепортирован к Пипр
+16.06.2017 23:54:24: Не обработано: Indigo moved x:-809.3008 y:80.0865(+46.52626) z:-945.5215 in the last second (0.6247101)
+16.06.2017 23:54:56: Не обработано: Reason: you were vote kicked Duration: 180 Remaining: 4294881540
+16.06.2017 23:55:21: Не обработано: survivalist moved x:-304.455 y:73.27853(+17.53153) z:73.02722 in the last second (0.9642258)
+16.06.2017 23:55:29: Не обработано: Дал HemulGM вещь 520:40
+16.06.2017 23:55:30: Successfully gave Indigo 1356 x1!
+16.06.2017 23:55:32: Не обработано: DropManager >> 3
+16.06.2017 23:55:32: Не обработано: survivalist [azamatik12] was mauled by a zombie!
+16.06.2017 23:55:46: Не обработано: MessageAnnouncer >> Broadcast: Внимание! PvP-режим по субботам! PvP-режим!!!
+16.06.2017 23:55:46: Не обработано: MessageAnnouncer >> Внимание! PvP-режим по субботам! PvP-режим!!!
+16.06.2017 23:56:12: Successfully gave Indigo 1354 x1!
+16.06.2017 23:56:51: Не обработано: survivalist moved x:-305.0306 y:72.91431(+34.37449) z:73.53961 in the last second (0.5999985)
+16.06.2017 23:57:01: Не обработано: DOK moved x:-308.1956 y:72.91431(+34.23697) z:79.88923 in the last second (0.5999985)
+16.06.2017 23:57:11: Не обработано: Reason: you were vote kicked Duration: 180 Remaining: 4294881402
+16.06.2017 23:57:21: Successfully gave Indigo 237 x1!
+16.06.2017 23:57:42: Не обработано: Дал HemulGM вещь 520:30
+16.06.2017 23:57:46: Не обработано: MessageAnnouncer >> Broadcast: vk.com/unturned_hgm - группа сервера ВК, уникальный кит в записи!
+16.06.2017 23:57:46: Не обработано: MessageAnnouncer >> vk.com/unturned_hgm - группа сервера ВК, уникальный кит в записи!
+16.06.2017 23:57:52: Successfully gave Indigo 235 x1!
+16.06.2017 23:58:51: Не обработано: Indigo moved x:-648.4133 y:209.9735(+130.5236) z:767.4398 in the last second (0.04998779)
+16.06.2017 23:59:09: Не обработано: Indigo телепортирован к blank 
+16.06.2017 23:59:19: Не обработано: Indigo включен Godmode
+16.06.2017 23:59:46: Не обработано: MessageAnnouncer >> Broadcast: Наберите /kit help, чтобы получить первую мед. помощь (бинты, таблетки, еда)
+16.06.2017 23:59:46: Не обработано: MessageAnnouncer >> Наберите /kit help, чтобы получить первую мед. помощь (бинты, таблетки, еда)
+17.06.2017 0:01:36: Successfully saved the game.
+17.06.2017 0:01:37: Не обработано: DropManager >> 3
+17.06.2017 0:01:37: Не обработано: survivalist [azamatik12] was dissolved by a zombie!
+17.06.2017 0:01:39: Successfully saved the game.
+17.06.2017 0:01:47: Не обработано: 
+17.06.2017 0:01:47: Не обработано: [unloading] Kits
+17.06.2017 0:02:16: Не обработано: RocketRcon v2.4.8.0
+17.06.2017 0:02:17: Не обработано: VehicleEvents >> Broadcast: Брошенный джип в Olympia Military Base! Найди его и он твой!
+17.06.2017 0:03:09: Не обработано: HemulGM включен Godmode
+17.06.2017 0:04:08: Не обработано: MessageAnnouncer >> Broadcast: Наберите /kit start, чтобы получить стартовый набор (еда, вода, топор)
+17.06.2017 0:04:08: Не обработано: MessageAnnouncer >> Наберите /kit start, чтобы получить стартовый набор (еда, вода, топор)
+17.06.2017 0:04:23: Не обработано: Indigo телепортирован к Scorpion-7
+17.06.2017 0:04:38: Не обработано: Дал HemulGM вещь 520:30
+17.06.2017 0:05:51: Не обработано: DropManager >> 3
+17.06.2017 0:05:51: Не обработано: какаша [valera_zazhuev] was shot in the head by Indigo [Indigo]!
+17.06.2017 0:06:03: Не обработано: HemulGM телепортирован к Bambi
+17.06.2017 0:06:08: Не обработано: MessageAnnouncer >> Broadcast: Внимание! PvP-режим по субботам! PvP-режим!!!
+17.06.2017 0:06:08: Не обработано: MessageAnnouncer >> Внимание! PvP-режим по субботам! PvP-режим!!!
+17.06.2017 0:06:09: Не обработано: Indigo включен Godmode
+17.06.2017 0:06:10: Не обработано: Indigo отключен Godmode
+17.06.2017 0:06:44: Не обработано: Bambi moved x:-539.5027 y:58.04211(+19.5648) z:-215.8206 in the last second (1)
+17.06.2017 0:07:44: Не обработано: Bambi moved x:-547.4272 y:58.15392(+19.6766) z:-233.7034 in the last second (0.05000305)
+17.06.2017 0:08:08: Не обработано: MessageAnnouncer >> Broadcast: vk.com/unturned_hgm - группа сервера ВК, уникальный кит в записи!
+17.06.2017 0:08:08: Не обработано: MessageAnnouncer >> vk.com/unturned_hgm - группа сервера ВК, уникальный кит в записи!
+17.06.2017 0:09:35: Successfully gave Indigo 1353 x5!
+17.06.2017 0:10:08: Не обработано: MessageAnnouncer >> Broadcast: Наберите /kit help, чтобы получить первую мед. помощь (бинты, таблетки, еда)
+17.06.2017 0:10:08: Не обработано: MessageAnnouncer >> Наберите /kit help, чтобы получить первую мед. помощь (бинты, таблетки, еда)
+17.06.2017 0:10:37: Не обработано: Indigo moved x:605.8956 y:91.43448(+53.01966) z:346.0169 in the last second (30.69193)
+17.06.2017 0:11:52: Не обработано: DropManager >> 3
+17.06.2017 0:11:52: Не обработано: Indigo [Indigo] was blown up by a vehicle!
+17.06.2017 0:12:08: Не обработано: MessageAnnouncer >> Broadcast: vk.com/unturned_hgm - цены на премиум, VIP и другие услуги смотрите в группе!
+17.06.2017 0:12:08: Не обработано: MessageAnnouncer >> vk.com/unturned_hgm - цены на премиум, VIP и другие услуги смотрите в группе!
+17.06.2017 0:12:43: Не обработано: DropManager >> 3
+17.06.2017 0:12:43: Не обработано: Indigo [Indigo] was shot in the torso by какаша [valera_zazhuev]!
+17.06.2017 0:13:13: Не обработано: Indigo включен Godmode
+17.06.2017 0:13:53: Successfully gave Indigo 1364 x1!
+17.06.2017 0:14:07: Не обработано: Indigo телепортирован к HemulGM
+17.06.2017 0:14:08: Не обработано: MessageAnnouncer >> Broadcast: Наберите /kit claim, чтобы получить Claim Flag
+17.06.2017 0:14:08: Не обработано: MessageAnnouncer >> Наберите /kit claim, чтобы получить Claim Flag
+17.06.2017 0:15:32: Successfully gave Indigo 1365 x8!
+17.06.2017 0:15:37: Successfully set airdrop!
+17.06.2017 0:15:37: Successfully set airdrop!
+17.06.2017 0:15:37: Successfully set airdrop!
+17.06.2017 0:15:37: Successfully set airdrop!
+17.06.2017 0:15:37: Successfully set airdrop!
+17.06.2017 0:15:37: Successfully set airdrop!
+17.06.2017 0:15:38: Successfully set airdrop!
+17.06.2017 0:15:38: Successfully set airdrop!
+17.06.2017 0:15:38: Successfully set airdrop!
+17.06.2017 0:15:38: Successfully set airdrop!
+17.06.2017 0:15:38: Successfully set airdrop!
+17.06.2017 0:15:38: Successfully set airdrop!
+17.06.2017 0:15:38: Successfully set airdrop!
+17.06.2017 0:15:38: Successfully set airdrop!
+17.06.2017 0:15:38: Successfully set airdrop!
+17.06.2017 0:15:38: Successfully set airdrop!
+17.06.2017 0:15:39: Successfully set airdrop!
+17.06.2017 0:15:39: Successfully set airdrop!
+17.06.2017 0:15:39: Successfully set airdrop!
+17.06.2017 0:15:39: Successfully set airdrop!
+17.06.2017 0:15:43: Не обработано: Bambi был исцелён
+17.06.2017 0:15:43: Не обработано: korak был исцелён
+17.06.2017 0:15:43: Не обработано: HemulGM был исцелён
+17.06.2017 0:15:43: Не обработано: Пипр был исцелён
+17.06.2017 0:15:43: Не обработано: какаша был исцелён
+17.06.2017 0:15:43: Не обработано: Indigo был исцелён
+17.06.2017 0:15:43: Не обработано: galbatsovmikail был исцелён
+17.06.2017 0:15:43: Не обработано: ДокторКир был исцелён
+17.06.2017 0:15:43: Не обработано: Xeum был исцелён
+17.06.2017 0:15:44: Не обработано: I'm believer был исцелён
+17.06.2017 0:15:44: Не обработано: I'm believer [Kohre] is calling a vote to kick какаша [valera_zazhuev]
+17.06.2017 0:15:59: Не обработано: Vote failed!
+17.06.2017 0:16:08: Не обработано: MessageAnnouncer >> Broadcast: Если модератор ведёт себя неподобающе, пишите в группу или ЛС (vk.com/unturned_hgm, vk.com/hemulgm)
+17.06.2017 0:16:08: Не обработано: MessageAnnouncer >> Если модератор ведёт себя неподобающе, пишите в группу или ЛС (vk.com/unturned_hgm, vk.com/hemulgm)
+17.06.2017 0:16:29: Successfully gave Indigo +500 experience!
+17.06.2017 0:16:38: Не обработано: DropManager >> 3
+17.06.2017 0:16:38: Не обработано: Пипр [НеЗнаюКакой] was blown up by HemulGM [HemulGM] with an explosive bullet!
+17.06.2017 0:17:14: Не обработано: Пипр был телепортирован к HemulGM
+17.06.2017 0:17:14: Не обработано: Пипр moved x:-807.6603 y:55.76558(+17.28827) z:-219.4149 in the last second (0.6012764)
+17.06.2017 0:17:34: Не обработано: DropManager >> 3
+17.06.2017 0:17:34: Не обработано: Пипр [НеЗнаюКакой] was chopped in the head by Bambi [Bambi]!
+17.06.2017 0:18:08: Не обработано: MessageAnnouncer >> Broadcast: vk.com/hemulgm - ЕДИНСТВЕННЫЙ администратор сервера
+17.06.2017 0:18:08: Не обработано: MessageAnnouncer >> vk.com/hemulgm - ЕДИНСТВЕННЫЙ администратор сервера
+17.06.2017 0:18:11: Successfully gave Indigo +200 experience!
+17.06.2017 0:18:38: Successfully gave Indigo +1000 experience!
+17.06.2017 0:19:41: Не обработано: Indigo отключен Godmode
+17.06.2017 0:19:43: Не обработано: Indigo включен Godmode
+17.06.2017 0:20:02: Не обработано: Reason: you were vote kicked Duration: 180 Remaining: 4294880043
+17.06.2017 0:20:08: Не обработано: MessageAnnouncer >> Broadcast: Используйте /report [ник], чтобы отправить жалобу на игрока
+17.06.2017 0:20:08: Не обработано: MessageAnnouncer >> Используйте /report [ник], чтобы отправить жалобу на игрока
+17.06.2017 0:20:14: Successfully gave Indigo 1194 x1!
+17.06.2017 0:20:33: Successfully set time to day!
+17.06.2017 0:20:51: Не обработано: Перезагрузка Rocket
+17.06.2017 0:20:52: Не обработано: 
+17.06.2017 0:20:52: Не обработано: [unloading] VehicleEvents
+17.06.2017 0:20:52: Не обработано: [unloading] Uconomy
+17.06.2017 0:20:52: Не обработано: [unloading] RocketMod_TPA
+17.06.2017 0:20:52: Не обработано: [unloading] PrivateMessages
+17.06.2017 0:20:52: Не обработано: [unloading] PlayerInfoLib
+17.06.2017 0:20:52: Не обработано: [unloading] MessageAnnouncerMessageAnnouncer >> Unload
+17.06.2017 0:20:52: Не обработано: 
+17.06.2017 0:20:52: Не обработано: [unloading] LeeIzaZombie.ItemRestrictions
+17.06.2017 0:20:52: Не обработано: [unloading] Kits
+17.06.2017 0:20:52: Не обработано: [unloading] JoinLeaveMessages
+17.06.2017 0:20:52: Не обработано: [unloading] DynmapDynmap >> Unloading ...
+17.06.2017 0:20:52: Не обработано: 
+17.06.2017 0:20:52: Не обработано: [unloading] DropManager
+17.06.2017 0:20:52: Не обработано: [unloading] DeathMessagesRemastered
+17.06.2017 0:20:52: Не обработано: [unloading] DeathManagerLoading DeathManager from C:\Program Files (x86)\Steam\steamapps\common\Unturned\Servers\Russia_HGM\Rocket\Plugins\DeathManager.dll
+17.06.2017 0:20:52: Не обработано: Loading DeathMessagesRemastered from C:\Program Files (x86)\Steam\steamapps\common\Unturned\Servers\Russia_HGM\Rocket\Plugins\DeathMessagesRemastered.dll
+17.06.2017 0:20:52: Не обработано: Loading DropManager from C:\Program Files (x86)\Steam\steamapps\common\Unturned\Servers\Russia_HGM\Rocket\Plugins\DropManager.dll
+17.06.2017 0:20:52: Не обработано: Loading Dynmap from C:\Program Files (x86)\Steam\steamapps\common\Unturned\Servers\Russia_HGM\Rocket\Plugins\Dynmap.dll
+17.06.2017 0:20:52: Не обработано: Loading JoinLeaveMessages from C:\Program Files (x86)\Steam\steamapps\common\Unturned\Servers\Russia_HGM\Rocket\Plugins\JoinLeaveMessages.dll
+17.06.2017 0:20:52: Не обработано: Loading Kits from C:\Program Files (x86)\Steam\steamapps\common\Unturned\Servers\Russia_HGM\Rocket\Plugins\Kits.dll
+17.06.2017 0:20:52: Не обработано: Loading LeeIzaZombie.ItemRestrictions from C:\Program Files (x86)\Steam\steamapps\common\Unturned\Servers\Russia_HGM\Rocket\Plugins\LeeIzaZombie.ItemRestrictions.dll
+17.06.2017 0:20:52: Не обработано: Loading MessageAnnouncer from C:\Program Files (x86)\Steam\steamapps\common\Unturned\Servers\Russia_HGM\Rocket\Plugins\MessageAnnouncer.dll
+17.06.2017 0:20:52: Не обработано: Loading PlayerInfoLib from C:\Program Files (x86)\Steam\steamapps\common\Unturned\Servers\Russia_HGM\Rocket\Plugins\PlayerInfoLib.dll
+17.06.2017 0:20:52: Не обработано: Loading PrivateMessages from C:\Program Files (x86)\Steam\steamapps\common\Unturned\Servers\Russia_HGM\Rocket\Plugins\PrivateMessages.dll
+17.06.2017 0:20:52: Не обработано: Loading RocketMod_TPA from C:\Program Files (x86)\Steam\steamapps\common\Unturned\Servers\Russia_HGM\Rocket\Plugins\RocketMod_TPA.dll
+17.06.2017 0:20:52: Не обработано: Loading Uconomy from C:\Program Files (x86)\Steam\steamapps\common\Unturned\Servers\Russia_HGM\Rocket\Plugins\Uconomy.dll
+17.06.2017 0:20:52: Не обработано: Loading VehicleEvents from C:\Program Files (x86)\Steam\steamapps\common\Unturned\Servers\Russia_HGM\Rocket\Plugins\VehicleEvents.dll
+17.06.2017 0:20:52: Не обработано: 
+17.06.2017 0:20:52: Не обработано: [loading] DeathManager
+17.06.2017 0:20:52: Не обработано: 
+17.06.2017 0:20:52: Не обработано: [loading] DeathMessagesRemasteredDeathMessagesRemastered >> Death Messages Remastered has been loaded!
+17.06.2017 0:20:52: Не обработано: --
+17.06.2017 0:20:52: Не обработано: Suicide messages are enabled!
+17.06.2017 0:20:52: Не обработано: Health warning messages are enabled!
+17.06.2017 0:20:52: Не обработано: Uconomy is enabled!
+17.06.2017 0:20:52: Не обработано: Experience is enabled!
+17.06.2017 0:20:52: Не обработано: --
+17.06.2017 0:20:52: Не обработано: 
+17.06.2017 0:20:52: Не обработано: [loading] DropManager
+17.06.2017 0:20:52: Не обработано: [loading] DynmapDynmap >> Loading ...
+17.06.2017 0:20:52: Не обработано: Dynmap >> Finding map : C:\Program Files (x86)\Steam\steamapps\common\Unturned\Maps\Alpha Valley
+17.06.2017 0:20:52: Не обработано: Dynmap >> Finding map : C:\Program Files (x86)\Steam\steamapps\common\Unturned\Maps\Devtest4
+17.06.2017 0:20:52: Не обработано: Dynmap >> Finding map : C:\Program Files (x86)\Steam\steamapps\common\Unturned\Maps\Festive PEI
+17.06.2017 0:20:52: Не обработано: Dynmap >> Finding map : C:\Program Files (x86)\Steam\steamapps\common\Unturned\Maps\Festive Russia
+17.06.2017 0:20:52: Не обработано: Dynmap >> Finding map : C:\Program Files (x86)\Steam\steamapps\common\Unturned\Maps\Halloween PEI
+17.06.2017 0:20:52: Не обработано: Dynmap >> Finding map : C:\Program Files (x86)\Steam\steamapps\common\Unturned\Maps\Hawaii
+17.06.2017 0:20:52: Не обработано: Dynmap >> Finding map : C:\Program Files (x86)\Steam\steamapps\common\Unturned\Maps\Monolith
+17.06.2017 0:20:52: Не обработано: Dynmap >> Finding map : C:\Program Files (x86)\Steam\steamapps\common\Unturned\Maps\Paintball_Arena_0
+17.06.2017 0:20:52: Не обработано: Dynmap >> Finding map : C:\Program Files (x86)\Steam\steamapps\common\Unturned\Maps\PEI
+17.06.2017 0:20:52: Не обработано: Dynmap >> Finding map : C:\Program Files (x86)\Steam\steamapps\common\Unturned\Maps\PEI Arena
+17.06.2017 0:20:52: Не обработано: Dynmap >> Finding map : C:\Program Files (x86)\Steam\steamapps\common\Unturned\Maps\PEI_Space
+17.06.2017 0:20:52: Не обработано: Dynmap >> Finding map : C:\Program Files (x86)\Steam\steamapps\common\Unturned\Maps\Russia
+17.06.2017 0:20:52: Не обработано: Dynmap >> Finding map : C:\Program Files (x86)\Steam\steamapps\common\Unturned\Maps\Tutorial
+17.06.2017 0:20:52: Не обработано: Dynmap >> Finding map : C:\Program Files (x86)\Steam\steamapps\common\Unturned\Maps\Washington
+17.06.2017 0:20:52: Не обработано: Dynmap >> Finding map : C:\Program Files (x86)\Steam\steamapps\common\Unturned\Maps\Washington Arena
+17.06.2017 0:20:52: Не обработано: Dynmap >> Finding map : C:\Program Files (x86)\Steam\steamapps\common\Unturned\Maps\Yukon
+17.06.2017 0:20:52: Не обработано: Uploading map files to the server! This may take some time!
+17.06.2017 0:20:52: Не обработано: Uploading done!
+17.06.2017 0:20:52: Не обработано: 
+17.06.2017 0:20:52: Не обработано: [loading] JoinLeaveMessages
+17.06.2017 0:20:52: Не обработано: [loading] Kits[registered] /kit (fr34kyn01535.Kits.CommandKit/kit)
+17.06.2017 0:20:52: Не обработано: Kits >> Optional dependency Uconomy is not present.
+17.06.2017 0:20:52: Не обработано: 
+17.06.2017 0:20:52: Не обработано: [loading] LeeIzaZombie.ItemRestrictionsSetting up Item Restrictions by LeeIzaZombie. v2.0
+17.06.2017 0:20:52: Не обработано: --
+17.06.2017 0:20:52: Не обработано: Black listed items found: 8
+17.06.2017 0:20:52: Не обработано: --
+17.06.2017 0:20:52: Не обработано: Item Restrictions is ready!
+17.06.2017 0:20:52: Не обработано: 
+17.06.2017 0:20:52: Не обработано: [loading] MessageAnnouncerMessageAnnouncer >> Load
+17.06.2017 0:20:52: Не обработано: [registered] /rules (fr34kyn01535.MessageAnnouncer.RocketTextCommand/rules)
+17.06.2017 0:20:52: Не обработано: [registered] /kits (fr34kyn01535.MessageAnnouncer.RocketTextCommand/kits)
+17.06.2017 0:20:52: Не обработано: 
+17.06.2017 0:20:52: Не обработано: [loading] PlayerInfoLib[registered] /delint (PlayerInfoLibrary.CommandDelInstance/delint)
+17.06.2017 0:20:52: Не обработано: [registered] /rnint (PlayerInfoLibrary.CommandRnInstance/rnint)
+17.06.2017 0:20:52: Не обработано: [registered] /investigate (PlayerInfoLibrary.CommandInvestigate/investigate)
+17.06.2017 0:20:52: Не обработано: PlayerInfoLib >> PlayerInfoLib plugin has been loaded, Server Instance ID is: 1
+17.06.2017 0:20:52: Не обработано: Adding UnturnedPlayerComponent: PlayerInfoLibPComponent
+17.06.2017 0:20:52: Не обработано: 
+17.06.2017 0:20:52: Не обработано: [loading] PrivateMessages[registered] /pm (Teyhota.PrivateMessages.Command_Msg/pm)
+17.06.2017 0:20:52: Не обработано: [registered] /msg (Teyhota.PrivateMessages.Command_Msg/msg)
+17.06.2017 0:20:52: Не обработано: [registered] /dm (Teyhota.PrivateMessages.Command_Msg/dm)
+17.06.2017 0:20:52: Не обработано: [registered] /w (Teyhota.PrivateMessages.Command_Msg/w)
+17.06.2017 0:20:52: Не обработано: [registered] /whipser (Teyhota.PrivateMessages.Command_Msg/whipser)
+17.06.2017 0:20:52: Не обработано: [registered] /reply (Teyhota.PrivateMessages.Command_Reply/reply)
+17.06.2017 0:20:52: Не обработано: [registered] /r (Teyhota.PrivateMessages.Command_Reply/r)
+17.06.2017 0:20:52: Не обработано:  
+17.06.2017 0:20:52: Не обработано: Plugin by: LjMjollnir & Teyhota
+17.06.2017 0:20:52: Не обработано: Plugin version: 1.2
+17.06.2017 0:20:52: Не обработано: Made for Unturned version: 3.18.4.1
+17.06.2017 0:20:52: Не обработано: Made for RocketMod version: 4.9.3.0
+17.06.2017 0:20:52: Не обработано: Support: Plugins.4Unturned.tk
+17.06.2017 0:20:52: Не обработано:  
+17.06.2017 0:20:52: Не обработано: ------
+17.06.2017 0:20:52: Не обработано: PrivateMessages is up to date!
+17.06.2017 0:20:52: Не обработано: ------
+17.06.2017 0:20:52: Не обработано: 
+17.06.2017 0:20:52: Не обработано: [loading] RocketMod_TPA[registered] /tpa (RocketMod_TPA.CommandTPA/tpa)
+17.06.2017 0:20:52: Не обработано: TPA by LeeIzaZombie, Version 1.7.0.2
+17.06.2017 0:20:52: Не обработано: ...
+17.06.2017 0:20:52: Не обработано: Current configuration:
+17.06.2017 0:20:52: Не обработано: ...
+17.06.2017 0:20:52: Не обработано: Cooldown TPA requests: enabled, Seconds: 90
+17.06.2017 0:20:52: Не обработано: Delay teleporting: disabled, Seconds: 10
+17.06.2017 0:20:52: Не обработано: Cancel teleport if bleeding: disabled
+17.06.2017 0:20:52: Не обработано: NinjaTP: disabled, EffectID: 45
+17.06.2017 0:20:52: Не обработано: [Delay] Cancel teleport if hurt: disabled
+17.06.2017 0:20:52: Не обработано: ...
+17.06.2017 0:20:52: Не обработано: Checking for problems:
+17.06.2017 0:20:52: Не обработано: No errors have been found!
+17.06.2017 0:20:52: Не обработано: ...
+17.06.2017 0:20:52: Не обработано: Always welcome to suggestions! If you find a bug, please report it!
+17.06.2017 0:20:52: Не обработано: 
+17.06.2017 0:20:52: Не обработано: [loading] Uconomy[registered] /balance (fr34kyn01535.Uconomy.CommandBalance/balance)
+17.06.2017 0:20:52: Не обработано: [registered] /pay (fr34kyn01535.Uconomy.CommandPay/pay)
+17.06.2017 0:20:52: Не обработано: 
+17.06.2017 0:20:52: Не обработано: [loading] VehicleEventsVehicle Events by CryTheSly has been loaded!
+17.06.2017 0:20:52: Не обработано: MessageAnnouncer >> Broadcast: Добро пожаловать на HEMULGM.RU. Тут рады вам больше, чем на любом другом сервере!
+17.06.2017 0:20:52: Не обработано: MessageAnnouncer >> Добро пожаловать на HEMULGM.RU. Тут рады вам больше, чем на любом другом сервере!
+17.06.2017 0:20:52: Не обработано: VehicleEvents >> Broadcast: Брошенный квадроцикл в Seattle! Найди его и он твой!
+17.06.2017 0:21:46: Successfully gave Indigo 1365 x2!
+17.06.2017 0:22:04: Не обработано: Bambi moved x:-547.4272 y:58.15392(+19.67661) z:-233.7034 in the last second (0.05000305)
+17.06.2017 0:22:52: Не обработано: MessageAnnouncer >> Broadcast: Наберите /kit start, чтобы получить стартовый набор (еда, вода, топор)
+17.06.2017 0:22:52: Не обработано: MessageAnnouncer >> Наберите /kit start, чтобы получить стартовый набор (еда, вода, топор)
+17.06.2017 0:22:59: Successfully gave Indigo 1365 x2!
+17.06.2017 0:23:35: Не обработано: DropManager >> 3
+17.06.2017 0:23:35: Не обработано: Bambi [Bambi] bled to death!
+17.06.2017 0:23:46: Не обработано: Bambi moved x:-547.4272 y:58.15392(+18.46668) z:-233.7034 in the last second (0.05000305)
+17.06.2017 0:24:26: Не обработано: Indigo moved x:-648.4133 y:209.9735(+171.4962) z:767.4398 in the last second (0.04998779)
+17.06.2017 0:24:52: Не обработано: MessageAnnouncer >> Broadcast: Внимание! PvP-режим по субботам! PvP-режим!!!
+17.06.2017 0:24:52: Не обработано: MessageAnnouncer >> Внимание! PvP-режим по субботам! PvP-режим!!!
+17.06.2017 0:24:53: Successfully gave Indigo 1170 x1!
+17.06.2017 0:25:50: Successfully gave Indigo 1157 x1!
+17.06.2017 0:26:18: Не обработано: Bambi moved x:-547.4272 y:58.15392(+19.39926) z:-233.7034 in the last second (0.05000305)
+17.06.2017 0:26:33: Successfully gave Indigo 1156 x1!
+17.06.2017 0:26:52: Не обработано: MessageAnnouncer >> Broadcast: vk.com/unturned_hgm - группа сервера ВК, уникальный кит в записи!
+17.06.2017 0:26:52: Не обработано: MessageAnnouncer >> vk.com/unturned_hgm - группа сервера ВК, уникальный кит в записи!
+17.06.2017 0:27:12: Successfully gave Indigo 1169 x1!
+17.06.2017 0:28:41: Successfully gave Indigo 434 x1!
+17.06.2017 0:28:52: Не обработано: MessageAnnouncer >> Broadcast: Наберите /kit help, чтобы получить первую мед. помощь (бинты, таблетки, еда)
+17.06.2017 0:28:52: Не обработано: MessageAnnouncer >> Наберите /kit help, чтобы получить первую мед. помощь (бинты, таблетки, еда)
+17.06.2017 0:29:12: Не обработано: VehicleEvents >> Vehicle has been despawned
+17.06.2017 0:29:12: Successfully gave Indigo 334 x1!
+17.06.2017 0:30:19: Не обработано: DropManager >> 3
+17.06.2017 0:30:19: Не обработано: dstarostacnc [dstarostacnc] was chopped in the head by Bambi [Bambi]!
+17.06.2017 0:30:52: Не обработано: MessageAnnouncer >> Broadcast: vk.com/unturned_hgm - цены на премиум, VIP и другие услуги смотрите в группе!
+17.06.2017 0:30:52: Не обработано: MessageAnnouncer >> vk.com/unturned_hgm - цены на премиум, VIP и другие услуги смотрите в группе!
+17.06.2017 0:32:07: Сохранение сервера
+17.06.2017 0:32:52: Не обработано: MessageAnnouncer >> Broadcast: Наберите /kit claim, чтобы получить Claim Flag
+17.06.2017 0:32:52: Не обработано: MessageAnnouncer >> Наберите /kit claim, чтобы получить Claim Flag
+17.06.2017 0:33:35: Successfully gave Indigo 425 x1!
+17.06.2017 0:34:12: Successfully gave Indigo 99 x1!
+17.06.2017 0:34:42: Successfully gave Indigo 350 x1!
+17.06.2017 0:34:52: Не обработано: MessageAnnouncer >> Broadcast: Если модератор ведёт себя неподобающе, пишите в группу или ЛС (vk.com/unturned_hgm, vk.com/hemulgm)
+17.06.2017 0:34:52: Не обработано: MessageAnnouncer >> Если модератор ведёт себя неподобающе, пишите в группу или ЛС (vk.com/unturned_hgm, vk.com/hemulgm)
+17.06.2017 0:35:14: Successfully gave Indigo 1438 x1!
+17.06.2017 0:35:47: Successfully gave Indigo 1006 x100!
+17.06.2017 0:36:52: Не обработано: MessageAnnouncer >> Broadcast: vk.com/hemulgm - ЕДИНСТВЕННЫЙ администратор сервера
+17.06.2017 0:36:52: Не обработано: MessageAnnouncer >> vk.com/hemulgm - ЕДИНСТВЕННЫЙ администратор сервера
+17.06.2017 0:37:12: Successfully gave Indigo 1382 x1!
+17.06.2017 0:38:15: Successfully gave Indigo 328 x10!
+17.06.2017 0:38:52: Не обработано: MessageAnnouncer >> Broadcast: Используйте /report [ник], чтобы отправить жалобу на игрока
+17.06.2017 0:38:52: Не обработано: MessageAnnouncer >> Используйте /report [ник], чтобы отправить жалобу на игрока
+17.06.2017 0:39:36: Successfully gave Indigo 1384 x100!
+17.06.2017 0:40:52: Не обработано: MessageAnnouncer >> Broadcast: Наберите /rules (/r) для просмотра правил
+17.06.2017 0:40:52: Не обработано: MessageAnnouncer >> Наберите /rules (/r) для просмотра правил
+17.06.2017 0:41:42: Successfully gave Indigo 1806 x1!
+17.06.2017 0:42:12: Successfully gave Indigo 1176 x1!
+17.06.2017 0:42:52: Не обработано: MessageAnnouncer >> Broadcast: Добро пожаловать на HEMULGM.RU. Тут рады вам больше, чем на любом другом сервере!
+17.06.2017 0:42:52: Не обработано: MessageAnnouncer >> Добро пожаловать на HEMULGM.RU. Тут рады вам больше, чем на любом другом сервере!
+17.06.2017 0:43:28: Successfully gave Indigo 146 x4!
+17.06.2017 0:43:50: Не обработано: VehicleEvents >> Broadcast: Брошенный квадроцикл в Kennewick Farm! Найди его и он твой!
+17.06.2017 0:44:12: Successfully gave Indigo 1008 x4!
+17.06.2017 0:44:44: Successfully gave Indigo 296 x4!
+17.06.2017 0:44:52: Не обработано: MessageAnnouncer >> Broadcast: Наберите /kit start, чтобы получить стартовый набор (еда, вода, топор)
+17.06.2017 0:44:52: Не обработано: MessageAnnouncer >> Наберите /kit start, чтобы получить стартовый набор (еда, вода, топор)
+17.06.2017 0:45:25: Successfully gave Indigo 143 x1!
+17.06.2017 0:46:52: Не обработано: MessageAnnouncer >> Broadcast: Внимание! PvP-режим по субботам! PvP-режим!!!
+17.06.2017 0:46:52: Не обработано: MessageAnnouncer >> Внимание! PvP-режим по субботам! PvP-режим!!!
+17.06.2017 0:48:18: Не обработано: Failed to find any item called 409.
+17.06.2017 0:48:51: Не обработано: Failed to find any item called 409.
+17.06.2017 0:48:52: Не обработано: MessageAnnouncer >> Broadcast: vk.com/unturned_hgm - группа сервера ВК, уникальный кит в записи!
+17.06.2017 0:48:52: Не обработано: MessageAnnouncer >> vk.com/unturned_hgm - группа сервера ВК, уникальный кит в записи!
+17.06.2017 0:49:38: Не обработано: Lazer228 moved x:802.1434 y:87.06921(+48.43326) z:158.6868 in the last second (0.2379227)
+17.06.2017 0:50:52: Не обработано: PlayerInfoLib >> No expired player info records found for this batch.
+17.06.2017 0:50:52: Не обработано: MessageAnnouncer >> Broadcast: Наберите /kit help, чтобы получить первую мед. помощь (бинты, таблетки, еда)
+17.06.2017 0:50:52: Не обработано: MessageAnnouncer >> Наберите /kit help, чтобы получить первую мед. помощь (бинты, таблетки, еда)
+17.06.2017 0:52:10: Не обработано: VehicleEvents >> Vehicle has been despawned
+17.06.2017 0:52:52: Не обработано: MessageAnnouncer >> Broadcast: vk.com/unturned_hgm - цены на премиум, VIP и другие услуги смотрите в группе!
+17.06.2017 0:52:52: Не обработано: MessageAnnouncer >> vk.com/unturned_hgm - цены на премиум, VIP и другие услуги смотрите в группе!
+17.06.2017 0:53:52: Не обработано: Opticor moved x:-937.7889 y:99.66677(+21.70813) z:-247.4395 in the last second (0.05000305)
+17.06.2017 0:54:52: Не обработано: MessageAnnouncer >> Broadcast: Наберите /kit claim, чтобы получить Claim Flag
+17.06.2017 0:54:52: Не обработано: MessageAnnouncer >> Наберите /kit claim, чтобы получить Claim Flag
+17.06.2017 0:56:52: Не обработано: MessageAnnouncer >> Broadcast: Если модератор ведёт себя неподобающе, пишите в группу или ЛС (vk.com/unturned_hgm, vk.com/hemulgm)
+17.06.2017 0:56:52: Не обработано: MessageAnnouncer >> Если модератор ведёт себя неподобающе, пишите в группу или ЛС (vk.com/unturned_hgm, vk.com/hemulgm)
+17.06.2017 0:58:52: Не обработано: MessageAnnouncer >> Broadcast: vk.com/hemulgm - ЕДИНСТВЕННЫЙ администратор сервера
+17.06.2017 0:58:52: Не обработано: MessageAnnouncer >> vk.com/hemulgm - ЕДИНСТВЕННЫЙ администратор сервера
+17.06.2017 1:00:52: Не обработано: MessageAnnouncer >> Broadcast: Используйте /report [ник], чтобы отправить жалобу на игрока
+17.06.2017 1:00:52: Не обработано: MessageAnnouncer >> Используйте /report [ник], чтобы отправить жалобу на игрока
+17.06.2017 1:02:07: Сохранение сервера
+17.06.2017 1:02:52: Не обработано: MessageAnnouncer >> Broadcast: Наберите /rules (/r) для просмотра правил
+17.06.2017 1:02:52: Не обработано: MessageAnnouncer >> Наберите /rules (/r) для просмотра правил
+17.06.2017 1:03:22: Не обработано: Lazer228 moved x:802.1434 y:87.06921(+76.94968) z:158.6868 in the last second (0.2379227)
+17.06.2017 1:04:52: Не обработано: MessageAnnouncer >> Broadcast: Добро пожаловать на HEMULGM.RU. Тут рады вам больше, чем на любом другом сервере!
+17.06.2017 1:04:52: Не обработано: MessageAnnouncer >> Добро пожаловать на HEMULGM.RU. Тут рады вам больше, чем на любом другом сервере!
+17.06.2017 1:06:52: Не обработано: MessageAnnouncer >> Broadcast: Наберите /kit start, чтобы получить стартовый набор (еда, вода, топор)
+17.06.2017 1:06:52: Не обработано: MessageAnnouncer >> Наберите /kit start, чтобы получить стартовый набор (еда, вода, топор)
+17.06.2017 1:08:52: Не обработано: MessageAnnouncer >> Broadcast: Внимание! PvP-режим по субботам! PvP-режим!!!
+17.06.2017 1:08:52: Не обработано: MessageAnnouncer >> Внимание! PvP-режим по субботам! PvP-режим!!!
+17.06.2017 1:10:26: Не обработано: VehicleEvents >> Broadcast: Брошенный чёрный SUV в Rainbridge Island! Найди его и он твой!
+17.06.2017 1:10:52: Не обработано: MessageAnnouncer >> Broadcast: vk.com/unturned_hgm - группа сервера ВК, уникальный кит в записи!
+17.06.2017 1:10:52: Не обработано: MessageAnnouncer >> vk.com/unturned_hgm - группа сервера ВК, уникальный кит в записи!
+17.06.2017 1:12:52: Не обработано: MessageAnnouncer >> Broadcast: Наберите /kit help, чтобы получить первую мед. помощь (бинты, таблетки, еда)
+17.06.2017 1:12:52: Не обработано: MessageAnnouncer >> Наберите /kit help, чтобы получить первую мед. помощь (бинты, таблетки, еда)
+17.06.2017 1:14:52: Не обработано: MessageAnnouncer >> Broadcast: vk.com/unturned_hgm - цены на премиум, VIP и другие услуги смотрите в группе!
+17.06.2017 1:14:52: Не обработано: MessageAnnouncer >> vk.com/unturned_hgm - цены на премиум, VIP и другие услуги смотрите в группе!
+17.06.2017 1:14:57: Не обработано: Lazer228 moved x:819.277 y:83.11922(+51.69094) z:182.6222 in the last second (0.9999924)
+17.06.2017 1:16:52: Не обработано: MessageAnnouncer >> Broadcast: Наберите /kit claim, чтобы получить Claim Flag
+17.06.2017 1:16:52: Не обработано: MessageAnnouncer >> Наберите /kit claim, чтобы получить Claim Flag
+17.06.2017 1:18:46: Не обработано: VehicleEvents >> Vehicle has been despawned
+17.06.2017 1:18:52: Не обработано: MessageAnnouncer >> Broadcast: Если модератор ведёт себя неподобающе, пишите в группу или ЛС (vk.com/unturned_hgm, vk.com/hemulgm)
+17.06.2017 1:18:52: Не обработано: MessageAnnouncer >> Если модератор ведёт себя неподобающе, пишите в группу или ЛС (vk.com/unturned_hgm, vk.com/hemulgm)
+17.06.2017 1:19:46: Не обработано: Lazer228 moved x:-273.589 y:55.58219(+24.31994) z:-367.1504 in the last second (0.5209618)
+17.06.2017 1:20:52: Не обработано: PlayerInfoLib >> No expired player info records found for this batch.
+17.06.2017 1:20:52: Не обработано: MessageAnnouncer >> Broadcast: vk.com/hemulgm - ЕДИНСТВЕННЫЙ администратор сервера
+17.06.2017 1:20:52: Не обработано: MessageAnnouncer >> vk.com/hemulgm - ЕДИНСТВЕННЫЙ администратор сервера
+17.06.2017 1:22:52: Не обработано: MessageAnnouncer >> Broadcast: Используйте /report [ник], чтобы отправить жалобу на игрока
+17.06.2017 1:22:52: Не обработано: MessageAnnouncer >> Используйте /report [ник], чтобы отправить жалобу на игрока
+17.06.2017 1:24:52: Не обработано: MessageAnnouncer >> Broadcast: Наберите /rules (/r) для просмотра правил
+17.06.2017 1:24:52: Не обработано: MessageAnnouncer >> Наберите /rules (/r) для просмотра правил
+17.06.2017 1:26:52: Не обработано: MessageAnnouncer >> Broadcast: Добро пожаловать на HEMULGM.RU. Тут рады вам больше, чем на любом другом сервере!
+17.06.2017 1:26:52: Не обработано: MessageAnnouncer >> Добро пожаловать на HEMULGM.RU. Тут рады вам больше, чем на любом другом сервере!
+17.06.2017 1:27:03: Не обработано: Lazer228 moved x:807.713 y:82.21922(+43.6794) z:182.5827 in the last second (0.09999847)
+17.06.2017 1:28:52: Не обработано: MessageAnnouncer >> Broadcast: Наберите /kit start, чтобы получить стартовый набор (еда, вода, топор)
+17.06.2017 1:29:01: Не обработано: MessageAnnouncer >> Наберите /kit start, чтобы получить стартовый набор (еда, вода, топор)
+17.06.2017 1:30:52: Не обработано: MessageAnnouncer >> Broadcast: Внимание! PvP-режим по субботам! PvP-режим!!!
+17.06.2017 1:30:52: Не обработано: MessageAnnouncer >> Внимание! PvP-режим по субботам! PvP-режим!!!
+17.06.2017 1:32:07: Сохранение сервера
+17.06.2017 1:32:52: Не обработано: MessageAnnouncer >> Broadcast: vk.com/unturned_hgm - группа сервера ВК, уникальный кит в записи!
+17.06.2017 1:32:52: Не обработано: MessageAnnouncer >> vk.com/unturned_hgm - группа сервера ВК, уникальный кит в записи!
+17.06.2017 1:34:52: Не обработано: MessageAnnouncer >> Broadcast: Наберите /kit help, чтобы получить первую мед. помощь (бинты, таблетки, еда)
+17.06.2017 1:34:52: Не обработано: MessageAnnouncer >> Наберите /kit help, чтобы получить первую мед. помощь (бинты, таблетки, еда)
+17.06.2017 1:36:16: Не обработано: Indigo включен Godmode
+17.06.2017 1:36:52: Не обработано: MessageAnnouncer >> Broadcast: vk.com/unturned_hgm - цены на премиум, VIP и другие услуги смотрите в группе!
+17.06.2017 1:36:52: Не обработано: MessageAnnouncer >> vk.com/unturned_hgm - цены на премиум, VIP и другие услуги смотрите в группе!
+17.06.2017 1:38:52: Не обработано: MessageAnnouncer >> Broadcast: Наберите /kit claim, чтобы получить Claim Flag
+17.06.2017 1:38:52: Не обработано: MessageAnnouncer >> Наберите /kit claim, чтобы получить Claim Flag
+17.06.2017 1:39:20: Не обработано: DropManager >> 3
+17.06.2017 1:39:20: Не обработано: Lenin [Lenin] was mauled by a zombie!
+17.06.2017 1:40:52: Не обработано: MessageAnnouncer >> Broadcast: Если модератор ведёт себя неподобающе, пишите в группу или ЛС (vk.com/unturned_hgm, vk.com/hemulgm)
+17.06.2017 1:40:52: Не обработано: MessageAnnouncer >> Если модератор ведёт себя неподобающе, пишите в группу или ЛС (vk.com/unturned_hgm, vk.com/hemulgm)
+17.06.2017 1:41:05: Не обработано: VehicleEvents >> Broadcast: Брошенный такси в Everett! Найди его и он твой!
+17.06.2017 1:42:52: Не обработано: MessageAnnouncer >> Broadcast: vk.com/hemulgm - ЕДИНСТВЕННЫЙ администратор сервера
+17.06.2017 1:42:52: Не обработано: MessageAnnouncer >> vk.com/hemulgm - ЕДИНСТВЕННЫЙ администратор сервера
+17.06.2017 1:44:52: Не обработано: MessageAnnouncer >> Broadcast: Используйте /report [ник], чтобы отправить жалобу на игрока
+17.06.2017 1:44:52: Не обработано: MessageAnnouncer >> Используйте /report [ник], чтобы отправить жалобу на игрока
+17.06.2017 1:46:52: Не обработано: MessageAnnouncer >> Broadcast: Наберите /rules (/r) для просмотра правил
+17.06.2017 1:46:52: Не обработано: MessageAnnouncer >> Наберите /rules (/r) для просмотра правил
+17.06.2017 1:48:52: Не обработано: MessageAnnouncer >> Broadcast: Добро пожаловать на HEMULGM.RU. Тут рады вам больше, чем на любом другом сервере!
+17.06.2017 1:48:52: Не обработано: MessageAnnouncer >> Добро пожаловать на HEMULGM.RU. Тут рады вам больше, чем на любом другом сервере!
+17.06.2017 1:49:20: Successfully set time to day!
+17.06.2017 1:49:25: Не обработано: VehicleEvents >> Vehicle has been despawned
+17.06.2017 1:49:27: Не обработано: Indigo телепортирован к Scorpion-7
+17.06.2017 1:50:52: Не обработано: PlayerInfoLib >> No expired player info records found for this batch.
+17.06.2017 1:50:52: Не обработано: MessageAnnouncer >> Broadcast: Наберите /kit start, чтобы получить стартовый набор (еда, вода, топор)
+17.06.2017 1:50:52: Не обработано: MessageAnnouncer >> Наберите /kit start, чтобы получить стартовый набор (еда, вода, топор)
+17.06.2017 1:51:26: Successfully gave Indigo 1244 x1!
+17.06.2017 1:52:52: Не обработано: MessageAnnouncer >> Broadcast: Внимание! PvP-режим по субботам! PvP-режим!!!
+17.06.2017 1:52:52: Не обработано: MessageAnnouncer >> Внимание! PvP-режим по субботам! PvP-режим!!!
+17.06.2017 1:52:59: Successfully gave Indigo 126 x1!
+17.06.2017 1:54:12: Successfully gave Indigo 1373 x1!
+17.06.2017 1:54:48: Successfully gave Indigo 126 x1!
+17.06.2017 1:54:52: Не обработано: MessageAnnouncer >> Broadcast: vk.com/unturned_hgm - группа сервера ВК, уникальный кит в записи!
+17.06.2017 1:54:52: Не обработано: MessageAnnouncer >> vk.com/unturned_hgm - группа сервера ВК, уникальный кит в записи!
+17.06.2017 1:56:52: Не обработано: MessageAnnouncer >> Broadcast: Наберите /kit help, чтобы получить первую мед. помощь (бинты, таблетки, еда)
+17.06.2017 1:56:52: Не обработано: MessageAnnouncer >> Наберите /kit help, чтобы получить первую мед. помощь (бинты, таблетки, еда)
+17.06.2017 1:58:52: Не обработано: MessageAnnouncer >> Broadcast: vk.com/unturned_hgm - цены на премиум, VIP и другие услуги смотрите в группе!
+17.06.2017 1:58:52: Не обработано: MessageAnnouncer >> vk.com/unturned_hgm - цены на премиум, VIP и другие услуги смотрите в группе!
+17.06.2017 2:00:18: Не обработано: Indigo телепортирован к Lazer228
+17.06.2017 2:00:19: Не обработано: Indigo moved x:807.6248 y:82.71919(+40.81382) z:142.1253 in the last second (0.1257401)
+17.06.2017 2:00:52: Не обработано: MessageAnnouncer >> Broadcast: Наберите /kit claim, чтобы получить Claim Flag
+17.06.2017 2:00:52: Не обработано: MessageAnnouncer >> Наберите /kit claim, чтобы получить Claim Flag
+17.06.2017 2:01:16: Successfully gave Indigo 1805 x1!
+17.06.2017 2:01:38: Не обработано: Indigo телепортирован к Scorpion-7
+17.06.2017 2:01:51: Не обработано: Lazer228 moved x:802.1434 y:87.06921(+31.74054) z:158.6868 in the last second (0.2379227)
+17.06.2017 2:02:07: Сохранение сервера
+17.06.2017 2:02:52: Не обработано: MessageAnnouncer >> Broadcast: Если модератор ведёт себя неподобающе, пишите в группу или ЛС (vk.com/unturned_hgm, vk.com/hemulgm)
+17.06.2017 2:02:52: Не обработано: MessageAnnouncer >> Если модератор ведёт себя неподобающе, пишите в группу или ЛС (vk.com/unturned_hgm, vk.com/hemulgm)
+17.06.2017 2:02:53: Не обработано: Indigo moved x:-648.4133 y:209.9735(+171.2962) z:767.4398 in the last second (0.04998779)
+17.06.2017 2:03:20: Не обработано: VehicleEvents >> Broadcast: Брошенный джип в Kent Raceway! Найди его и он твой!
+17.06.2017 2:04:52: Не обработано: MessageAnnouncer >> Broadcast: vk.com/hemulgm - ЕДИНСТВЕННЫЙ администратор сервера
+17.06.2017 2:05:01: Не обработано: MessageAnnouncer >> vk.com/hemulgm - ЕДИНСТВЕННЫЙ администратор сервера
+17.06.2017 2:06:52: Не обработано: MessageAnnouncer >> Broadcast: Используйте /report [ник], чтобы отправить жалобу на игрока
+17.06.2017 2:06:52: Не обработано: MessageAnnouncer >> Используйте /report [ник], чтобы отправить жалобу на игрока
+17.06.2017 2:08:52: Не обработано: MessageAnnouncer >> Broadcast: Наберите /rules (/r) для просмотра правил
+17.06.2017 2:09:01: Не обработано: MessageAnnouncer >> Наберите /rules (/r) для просмотра правил
+17.06.2017 2:10:52: Не обработано: MessageAnnouncer >> Broadcast: Добро пожаловать на HEMULGM.RU. Тут рады вам больше, чем на любом другом сервере!
+17.06.2017 2:10:52: Не обработано: MessageAnnouncer >> Добро пожаловать на HEMULGM.RU. Тут рады вам больше, чем на любом другом сервере!
+17.06.2017 2:12:52: Не обработано: MessageAnnouncer >> Broadcast: Наберите /kit start, чтобы получить стартовый набор (еда, вода, топор)
+17.06.2017 2:12:52: Не обработано: MessageAnnouncer >> Наберите /kit start, чтобы получить стартовый набор (еда, вода, топор)
+17.06.2017 2:14:52: Не обработано: MessageAnnouncer >> Broadcast: Внимание! PvP-режим по субботам! PvP-режим!!!
+17.06.2017 2:14:52: Не обработано: MessageAnnouncer >> Внимание! PvP-режим по субботам! PvP-режим!!!
+17.06.2017 2:16:52: Не обработано: MessageAnnouncer >> Broadcast: vk.com/unturned_hgm - группа сервера ВК, уникальный кит в записи!
+17.06.2017 2:16:53: Не обработано: MessageAnnouncer >> vk.com/unturned_hgm - группа сервера ВК, уникальный кит в записи!
+17.06.2017 2:18:52: Не обработано: MessageAnnouncer >> Broadcast: Наберите /kit help, чтобы получить первую мед. помощь (бинты, таблетки, еда)
+17.06.2017 2:18:53: Не обработано: MessageAnnouncer >> Наберите /kit help, чтобы получить первую мед. помощь (бинты, таблетки, еда)
+17.06.2017 2:20:52: Не обработано: PlayerInfoLib >> No expired player info records found for this batch.
+17.06.2017 2:20:52: Не обработано: MessageAnnouncer >> Broadcast: vk.com/unturned_hgm - цены на премиум, VIP и другие услуги смотрите в группе!
+17.06.2017 2:20:53: Не обработано: MessageAnnouncer >> vk.com/unturned_hgm - цены на премиум, VIP и другие услуги смотрите в группе!
+17.06.2017 2:22:52: Не обработано: MessageAnnouncer >> Broadcast: Наберите /kit claim, чтобы получить Claim Flag
+17.06.2017 2:22:53: Не обработано: MessageAnnouncer >> Наберите /kit claim, чтобы получить Claim Flag
+17.06.2017 2:24:53: Не обработано: MessageAnnouncer >> Broadcast: Если модератор ведёт себя неподобающе, пишите в группу или ЛС (vk.com/unturned_hgm, vk.com/hemulgm)
+17.06.2017 2:24:53: Не обработано: MessageAnnouncer >> Если модератор ведёт себя неподобающе, пишите в группу или ЛС (vk.com/unturned_hgm, vk.com/hemulgm)
+17.06.2017 2:24:53: Не обработано: PrivateMessages >> Sorry, you haven't received a message!
+17.06.2017 2:26:53: Не обработано: MessageAnnouncer >> Broadcast: vk.com/hemulgm - ЕДИНСТВЕННЫЙ администратор сервера
+17.06.2017 2:26:53: Не обработано: MessageAnnouncer >> vk.com/hemulgm - ЕДИНСТВЕННЫЙ администратор сервера
+17.06.2017 2:28:53: Не обработано: MessageAnnouncer >> Broadcast: Используйте /report [ник], чтобы отправить жалобу на игрока
+17.06.2017 2:28:53: Не обработано: MessageAnnouncer >> Используйте /report [ник], чтобы отправить жалобу на игрока
+17.06.2017 2:30:53: Не обработано: MessageAnnouncer >> Broadcast: Наберите /rules (/r) для просмотра правил
+17.06.2017 2:30:53: Не обработано: MessageAnnouncer >> Наберите /rules (/r) для просмотра правил
+17.06.2017 2:32:07: Сохранение сервера
+17.06.2017 2:32:53: Не обработано: MessageAnnouncer >> Broadcast: Добро пожаловать на HEMULGM.RU. Тут рады вам больше, чем на любом другом сервере!
+17.06.2017 2:32:53: Не обработано: MessageAnnouncer >> Добро пожаловать на HEMULGM.RU. Тут рады вам больше, чем на любом другом сервере!
+17.06.2017 2:34:53: Не обработано: MessageAnnouncer >> Broadcast: Наберите /kit start, чтобы получить стартовый набор (еда, вода, топор)
+17.06.2017 2:34:53: Не обработано: MessageAnnouncer >> Наберите /kit start, чтобы получить стартовый набор (еда, вода, топор)
+17.06.2017 2:36:53: Не обработано: MessageAnnouncer >> Broadcast: Внимание! PvP-режим по субботам! PvP-режим!!!
+17.06.2017 2:36:53: Не обработано: MessageAnnouncer >> Внимание! PvP-режим по субботам! PvP-режим!!!
+17.06.2017 2:38:53: Не обработано: MessageAnnouncer >> Broadcast: vk.com/unturned_hgm - группа сервера ВК, уникальный кит в записи!
+17.06.2017 2:38:53: Не обработано: MessageAnnouncer >> vk.com/unturned_hgm - группа сервера ВК, уникальный кит в записи!
+17.06.2017 2:40:53: Не обработано: MessageAnnouncer >> Broadcast: Наберите /kit help, чтобы получить первую мед. помощь (бинты, таблетки, еда)
+17.06.2017 2:40:53: Не обработано: MessageAnnouncer >> Наберите /kit help, чтобы получить первую мед. помощь (бинты, таблетки, еда)
+17.06.2017 2:42:53: Не обработано: MessageAnnouncer >> Broadcast: vk.com/unturned_hgm - цены на премиум, VIP и другие услуги смотрите в группе!
+17.06.2017 2:42:53: Не обработано: MessageAnnouncer >> vk.com/unturned_hgm - цены на премиум, VIP и другие услуги смотрите в группе!
+17.06.2017 2:44:43: Не обработано: VehicleEvents >> Broadcast: Брошенный зелёный квадроцикл в Olympia Military Base! Найди его и он твой!
+17.06.2017 2:44:53: Не обработано: MessageAnnouncer >> Broadcast: Наберите /kit claim, чтобы получить Claim Flag
+17.06.2017 2:44:53: Не обработано: MessageAnnouncer >> Наберите /kit claim, чтобы получить Claim Flag
+17.06.2017 2:46:53: Не обработано: MessageAnnouncer >> Broadcast: Если модератор ведёт себя неподобающе, пишите в группу или ЛС (vk.com/unturned_hgm, vk.com/hemulgm)
+17.06.2017 2:46:53: Не обработано: MessageAnnouncer >> Если модератор ведёт себя неподобающе, пишите в группу или ЛС (vk.com/unturned_hgm, vk.com/hemulgm)
+17.06.2017 2:48:53: Не обработано: MessageAnnouncer >> Broadcast: vk.com/hemulgm - ЕДИНСТВЕННЫЙ администратор сервера
+17.06.2017 2:48:53: Не обработано: MessageAnnouncer >> vk.com/hemulgm - ЕДИНСТВЕННЫЙ администратор сервера
+17.06.2017 2:50:52: Не обработано: PlayerInfoLib >> No expired player info records found for this batch.
+17.06.2017 2:50:53: Не обработано: MessageAnnouncer >> Broadcast: Используйте /report [ник], чтобы отправить жалобу на игрока
+17.06.2017 2:50:53: Не обработано: MessageAnnouncer >> Используйте /report [ник], чтобы отправить жалобу на игрока
+17.06.2017 2:52:53: Не обработано: MessageAnnouncer >> Broadcast: Наберите /rules (/r) для просмотра правил
+17.06.2017 2:52:53: Не обработано: MessageAnnouncer >> Наберите /rules (/r) для просмотра правил
+17.06.2017 2:54:53: Не обработано: MessageAnnouncer >> Broadcast: Добро пожаловать на HEMULGM.RU. Тут рады вам больше, чем на любом другом сервере!
+17.06.2017 2:54:53: Не обработано: MessageAnnouncer >> Добро пожаловать на HEMULGM.RU. Тут рады вам больше, чем на любом другом сервере!
+17.06.2017 2:56:53: Не обработано: MessageAnnouncer >> Broadcast: Наберите /kit start, чтобы получить стартовый набор (еда, вода, топор)
+17.06.2017 2:56:53: Не обработано: MessageAnnouncer >> Наберите /kit start, чтобы получить стартовый набор (еда, вода, топор)
+17.06.2017 2:58:53: Не обработано: MessageAnnouncer >> Broadcast: Внимание! PvP-режим по субботам! PvP-режим!!!
+17.06.2017 2:58:53: Не обработано: MessageAnnouncer >> Внимание! PvP-режим по субботам! PvP-режим!!!
+17.06.2017 3:00:53: Не обработано: MessageAnnouncer >> Broadcast: vk.com/unturned_hgm - группа сервера ВК, уникальный кит в записи!
+17.06.2017 3:00:53: Не обработано: MessageAnnouncer >> vk.com/unturned_hgm - группа сервера ВК, уникальный кит в записи!
+17.06.2017 3:02:07: Сохранение сервера
+17.06.2017 3:02:53: Не обработано: MessageAnnouncer >> Broadcast: Наберите /kit help, чтобы получить первую мед. помощь (бинты, таблетки, еда)
+17.06.2017 3:02:53: Не обработано: MessageAnnouncer >> Наберите /kit help, чтобы получить первую мед. помощь (бинты, таблетки, еда)
+17.06.2017 3:04:53: Не обработано: MessageAnnouncer >> Broadcast: vk.com/unturned_hgm - цены на премиум, VIP и другие услуги смотрите в группе!
+17.06.2017 3:04:53: Не обработано: MessageAnnouncer >> vk.com/unturned_hgm - цены на премиум, VIP и другие услуги смотрите в группе!
+17.06.2017 3:06:53: Не обработано: MessageAnnouncer >> Broadcast: Наберите /kit claim, чтобы получить Claim Flag
+17.06.2017 3:06:53: Не обработано: MessageAnnouncer >> Наберите /kit claim, чтобы получить Claim Flag
+17.06.2017 3:08:53: Не обработано: MessageAnnouncer >> Broadcast: Если модератор ведёт себя неподобающе, пишите в группу или ЛС (vk.com/unturned_hgm, vk.com/hemulgm)
+17.06.2017 3:08:53: Не обработано: MessageAnnouncer >> Если модератор ведёт себя неподобающе, пишите в группу или ЛС (vk.com/unturned_hgm, vk.com/hemulgm)
+17.06.2017 3:10:53: Не обработано: MessageAnnouncer >> Broadcast: vk.com/hemulgm - ЕДИНСТВЕННЫЙ администратор сервера
+17.06.2017 3:10:53: Не обработано: MessageAnnouncer >> vk.com/hemulgm - ЕДИНСТВЕННЫЙ администратор сервера
+17.06.2017 3:12:53: Не обработано: MessageAnnouncer >> Broadcast: Используйте /report [ник], чтобы отправить жалобу на игрока
+17.06.2017 3:12:53: Не обработано: MessageAnnouncer >> Используйте /report [ник], чтобы отправить жалобу на игрока
+17.06.2017 3:14:53: Не обработано: MessageAnnouncer >> Broadcast: Наберите /rules (/r) для просмотра правил
+17.06.2017 3:14:53: Не обработано: MessageAnnouncer >> Наберите /rules (/r) для просмотра правил
+17.06.2017 3:16:53: Не обработано: MessageAnnouncer >> Broadcast: Добро пожаловать на HEMULGM.RU. Тут рады вам больше, чем на любом другом сервере!
+17.06.2017 3:16:53: Не обработано: MessageAnnouncer >> Добро пожаловать на HEMULGM.RU. Тут рады вам больше, чем на любом другом сервере!
+17.06.2017 3:18:53: Не обработано: MessageAnnouncer >> Broadcast: Наберите /kit start, чтобы получить стартовый набор (еда, вода, топор)
+17.06.2017 3:18:53: Не обработано: MessageAnnouncer >> Наберите /kit start, чтобы получить стартовый набор (еда, вода, топор)
+17.06.2017 3:20:52: Не обработано: PlayerInfoLib >> No expired player info records found for this batch.
+17.06.2017 3:20:53: Не обработано: MessageAnnouncer >> Broadcast: Внимание! PvP-режим по субботам! PvP-режим!!!
+17.06.2017 3:20:53: Не обработано: MessageAnnouncer >> Внимание! PvP-режим по субботам! PvP-режим!!!
+17.06.2017 3:21:42: Не обработано: VehicleEvents >> Broadcast: Брошенный такси в Seattle! Найди его и он твой!
+17.06.2017 3:22:53: Не обработано: MessageAnnouncer >> Broadcast: vk.com/unturned_hgm - группа сервера ВК, уникальный кит в записи!
+17.06.2017 3:22:53: Не обработано: MessageAnnouncer >> vk.com/unturned_hgm - группа сервера ВК, уникальный кит в записи!
+17.06.2017 3:24:53: Не обработано: MessageAnnouncer >> Broadcast: Наберите /kit help, чтобы получить первую мед. помощь (бинты, таблетки, еда)
+17.06.2017 3:24:53: Не обработано: MessageAnnouncer >> Наберите /kit help, чтобы получить первую мед. помощь (бинты, таблетки, еда)
+17.06.2017 3:26:53: Не обработано: MessageAnnouncer >> Broadcast: vk.com/unturned_hgm - цены на премиум, VIP и другие услуги смотрите в группе!
+17.06.2017 3:26:53: Не обработано: MessageAnnouncer >> vk.com/unturned_hgm - цены на премиум, VIP и другие услуги смотрите в группе!
+17.06.2017 3:28:53: Не обработано: MessageAnnouncer >> Broadcast: Наберите /kit claim, чтобы получить Claim Flag
+17.06.2017 3:28:53: Не обработано: MessageAnnouncer >> Наберите /kit claim, чтобы получить Claim Flag
+17.06.2017 3:30:02: Не обработано: VehicleEvents >> Vehicle has been despawned
+17.06.2017 3:30:53: Не обработано: MessageAnnouncer >> Broadcast: Если модератор ведёт себя неподобающе, пишите в группу или ЛС (vk.com/unturned_hgm, vk.com/hemulgm)
+17.06.2017 3:30:53: Не обработано: MessageAnnouncer >> Если модератор ведёт себя неподобающе, пишите в группу или ЛС (vk.com/unturned_hgm, vk.com/hemulgm)
+17.06.2017 3:32:16: Сохранение сервера
+17.06.2017 3:32:53: Не обработано: MessageAnnouncer >> Broadcast: vk.com/hemulgm - ЕДИНСТВЕННЫЙ администратор сервера
+17.06.2017 3:32:53: Не обработано: MessageAnnouncer >> vk.com/hemulgm - ЕДИНСТВЕННЫЙ администратор сервера
+17.06.2017 3:34:53: Не обработано: MessageAnnouncer >> Broadcast: Используйте /report [ник], чтобы отправить жалобу на игрока
+17.06.2017 3:34:53: Не обработано: MessageAnnouncer >> Используйте /report [ник], чтобы отправить жалобу на игрока
+17.06.2017 3:36:53: Не обработано: MessageAnnouncer >> Broadcast: Наберите /rules (/r) для просмотра правил
+17.06.2017 3:36:53: Не обработано: MessageAnnouncer >> Наберите /rules (/r) для просмотра правил
+17.06.2017 3:38:58: Не обработано: MessageAnnouncer >> Broadcast: Добро пожаловать на HEMULGM.RU. Тут рады вам больше, чем на любом другом сервере!
+17.06.2017 3:38:58: Не обработано: MessageAnnouncer >> Добро пожаловать на HEMULGM.RU. Тут рады вам больше, чем на любом другом сервере!
+17.06.2017 3:40:57: Не обработано: MessageAnnouncer >> Broadcast: Наберите /kit start, чтобы получить стартовый набор (еда, вода, топор)
+17.06.2017 3:40:57: Не обработано: MessageAnnouncer >> Наберите /kit start, чтобы получить стартовый набор (еда, вода, топор)
+17.06.2017 3:42:53: Не обработано: MessageAnnouncer >> Broadcast: Внимание! PvP-режим по субботам! PvP-режим!!!
+17.06.2017 3:42:53: Не обработано: MessageAnnouncer >> Внимание! PvP-режим по субботам! PvP-режим!!!
+17.06.2017 3:44:53: Не обработано: MessageAnnouncer >> Broadcast: vk.com/unturned_hgm - группа сервера ВК, уникальный кит в записи!
+17.06.2017 3:44:53: Не обработано: MessageAnnouncer >> vk.com/unturned_hgm - группа сервера ВК, уникальный кит в записи!
+17.06.2017 3:46:53: Не обработано: MessageAnnouncer >> Broadcast: Наберите /kit help, чтобы получить первую мед. помощь (бинты, таблетки, еда)
+17.06.2017 3:46:53: Не обработано: MessageAnnouncer >> Наберите /kit help, чтобы получить первую мед. помощь (бинты, таблетки, еда)
+17.06.2017 3:48:53: Не обработано: MessageAnnouncer >> Broadcast: vk.com/unturned_hgm - цены на премиум, VIP и другие услуги смотрите в группе!
+17.06.2017 3:48:53: Не обработано: MessageAnnouncer >> vk.com/unturned_hgm - цены на премиум, VIP и другие услуги смотрите в группе!
+17.06.2017 3:50:57: Не обработано: PlayerInfoLib >> No expired player info records found for this batch.
+17.06.2017 3:50:57: Не обработано: MessageAnnouncer >> Broadcast: Наберите /kit claim, чтобы получить Claim Flag
+17.06.2017 3:50:57: Не обработано: MessageAnnouncer >> Наберите /kit claim, чтобы получить Claim Flag
+17.06.2017 3:51:33: Не обработано: VehicleEvents >> Broadcast: Брошенный оранжевый грузовик в Arlington Farm! Найди его и он твой!
+17.06.2017 3:53:03: Не обработано: MessageAnnouncer >> Broadcast: Если модератор ведёт себя неподобающе, пишите в группу или ЛС (vk.com/unturned_hgm, vk.com/hemulgm)
+17.06.2017 3:53:03: Не обработано: MessageAnnouncer >> Если модератор ведёт себя неподобающе, пишите в группу или ЛС (vk.com/unturned_hgm, vk.com/hemulgm)
+17.06.2017 3:54:53: Не обработано: MessageAnnouncer >> Broadcast: vk.com/hemulgm - ЕДИНСТВЕННЫЙ администратор сервера
+17.06.2017 3:54:53: Не обработано: MessageAnnouncer >> vk.com/hemulgm - ЕДИНСТВЕННЫЙ администратор сервера
+17.06.2017 3:56:57: Не обработано: MessageAnnouncer >> Broadcast: Используйте /report [ник], чтобы отправить жалобу на игрока
+17.06.2017 3:56:57: Не обработано: MessageAnnouncer >> Используйте /report [ник], чтобы отправить жалобу на игрока
+17.06.2017 3:58:53: Не обработано: MessageAnnouncer >> Broadcast: Наберите /rules (/r) для просмотра правил
+17.06.2017 3:59:08: Не обработано: MessageAnnouncer >> Наберите /rules (/r) для просмотра правил
+17.06.2017 4:00:01: Не обработано: VehicleEvents >> Vehicle has been despawned
+17.06.2017 4:00:53: Не обработано: MessageAnnouncer >> Broadcast: Добро пожаловать на HEMULGM.RU. Тут рады вам больше, чем на любом другом сервере!
+17.06.2017 4:00:53: Не обработано: MessageAnnouncer >> Добро пожаловать на HEMULGM.RU. Тут рады вам больше, чем на любом другом сервере!
+17.06.2017 4:02:07: Сохранение сервера
+17.06.2017 4:03:02: Не обработано: MessageAnnouncer >> Broadcast: Наберите /kit start, чтобы получить стартовый набор (еда, вода, топор)
+17.06.2017 4:03:02: Не обработано: MessageAnnouncer >> Наберите /kit start, чтобы получить стартовый набор (еда, вода, топор)
+17.06.2017 4:04:56: Не обработано: MessageAnnouncer >> Broadcast: Внимание! PvP-режим по субботам! PvP-режим!!!
+17.06.2017 4:04:56: Не обработано: MessageAnnouncer >> Внимание! PvP-режим по субботам! PvP-режим!!!
+17.06.2017 4:06:07: Не обработано: PlayerID: 76561198300547291 Name: DokYakinar Character: ДокторКир Ping: 133
+17.06.2017 4:06:53: Не обработано: MessageAnnouncer >> Broadcast: vk.com/unturned_hgm - группа сервера ВК, уникальный кит в записи!
+17.06.2017 4:06:53: Не обработано: MessageAnnouncer >> vk.com/unturned_hgm - группа сервера ВК, уникальный кит в записи!
+17.06.2017 4:08:53: Не обработано: MessageAnnouncer >> Broadcast: Наберите /kit help, чтобы получить первую мед. помощь (бинты, таблетки, еда)
+17.06.2017 4:08:53: Не обработано: MessageAnnouncer >> Наберите /kit help, чтобы получить первую мед. помощь (бинты, таблетки, еда)
+17.06.2017 4:10:54: Не обработано: MessageAnnouncer >> Broadcast: vk.com/unturned_hgm - цены на премиум, VIP и другие услуги смотрите в группе!
+17.06.2017 4:10:54: Не обработано: MessageAnnouncer >> vk.com/unturned_hgm - цены на премиум, VIP и другие услуги смотрите в группе!
+17.06.2017 4:12:53: Не обработано: MessageAnnouncer >> Broadcast: Наберите /kit claim, чтобы получить Claim Flag
+17.06.2017 4:12:53: Не обработано: MessageAnnouncer >> Наберите /kit claim, чтобы получить Claim Flag
+17.06.2017 4:14:53: Не обработано: MessageAnnouncer >> Broadcast: Если модератор ведёт себя неподобающе, пишите в группу или ЛС (vk.com/unturned_hgm, vk.com/hemulgm)
+17.06.2017 4:14:53: Не обработано: MessageAnnouncer >> Если модератор ведёт себя неподобающе, пишите в группу или ЛС (vk.com/unturned_hgm, vk.com/hemulgm)
+17.06.2017 4:16:57: Не обработано: MessageAnnouncer >> Broadcast: vk.com/hemulgm - ЕДИНСТВЕННЫЙ администратор сервера
+17.06.2017 4:16:57: Не обработано: MessageAnnouncer >> vk.com/hemulgm - ЕДИНСТВЕННЫЙ администратор сервера
+17.06.2017 4:18:53: Не обработано: MessageAnnouncer >> Broadcast: Используйте /report [ник], чтобы отправить жалобу на игрока
+17.06.2017 4:18:53: Не обработано: MessageAnnouncer >> Используйте /report [ник], чтобы отправить жалобу на игрока
+17.06.2017 4:20:52: Не обработано: PlayerInfoLib >> No expired player info records found for this batch.
+17.06.2017 4:20:53: Не обработано: MessageAnnouncer >> Broadcast: Наберите /rules (/r) для просмотра правил
+17.06.2017 4:20:53: Не обработано: MessageAnnouncer >> Наберите /rules (/r) для просмотра правил
+17.06.2017 4:22:53: Не обработано: MessageAnnouncer >> Broadcast: Добро пожаловать на HEMULGM.RU. Тут рады вам больше, чем на любом другом сервере!
+17.06.2017 4:22:53: Не обработано: MessageAnnouncer >> Добро пожаловать на HEMULGM.RU. Тут рады вам больше, чем на любом другом сервере!
+17.06.2017 4:24:53: Не обработано: MessageAnnouncer >> Broadcast: Наберите /kit start, чтобы получить стартовый набор (еда, вода, топор)
+17.06.2017 4:24:53: Не обработано: MessageAnnouncer >> Наберите /kit start, чтобы получить стартовый набор (еда, вода, топор)
+17.06.2017 4:26:53: Не обработано: MessageAnnouncer >> Broadcast: Внимание! PvP-режим по субботам! PvP-режим!!!
+17.06.2017 4:26:53: Не обработано: MessageAnnouncer >> Внимание! PvP-режим по субботам! PvP-режим!!!
+17.06.2017 4:27:41: Не обработано: VehicleEvents >> Broadcast: Брошенный белый минивен в Scorpion-7! Найди его и он твой!
+17.06.2017 4:28:53: Не обработано: MessageAnnouncer >> Broadcast: vk.com/unturned_hgm - группа сервера ВК, уникальный кит в записи!
+17.06.2017 4:28:53: Не обработано: MessageAnnouncer >> vk.com/unturned_hgm - группа сервера ВК, уникальный кит в записи!
+17.06.2017 4:30:53: Не обработано: MessageAnnouncer >> Broadcast: Наберите /kit help, чтобы получить первую мед. помощь (бинты, таблетки, еда)
+17.06.2017 4:30:53: Не обработано: MessageAnnouncer >> Наберите /kit help, чтобы получить первую мед. помощь (бинты, таблетки, еда)
+17.06.2017 4:32:07: Сохранение сервера
+17.06.2017 4:32:53: Не обработано: MessageAnnouncer >> Broadcast: vk.com/unturned_hgm - цены на премиум, VIP и другие услуги смотрите в группе!
+17.06.2017 4:32:53: Не обработано: MessageAnnouncer >> vk.com/unturned_hgm - цены на премиум, VIP и другие услуги смотрите в группе!
+17.06.2017 4:34:53: Не обработано: MessageAnnouncer >> Broadcast: Наберите /kit claim, чтобы получить Claim Flag
+17.06.2017 4:34:53: Не обработано: MessageAnnouncer >> Наберите /kit claim, чтобы получить Claim Flag
+17.06.2017 4:36:53: Не обработано: MessageAnnouncer >> Broadcast: Если модератор ведёт себя неподобающе, пишите в группу или ЛС (vk.com/unturned_hgm, vk.com/hemulgm)
+17.06.2017 4:36:53: Не обработано: MessageAnnouncer >> Если модератор ведёт себя неподобающе, пишите в группу или ЛС (vk.com/unturned_hgm, vk.com/hemulgm)
+17.06.2017 4:38:53: Не обработано: MessageAnnouncer >> Broadcast: vk.com/hemulgm - ЕДИНСТВЕННЫЙ администратор сервера
+17.06.2017 4:38:54: Не обработано: MessageAnnouncer >> vk.com/hemulgm - ЕДИНСТВЕННЫЙ администратор сервера
+17.06.2017 4:40:53: Не обработано: MessageAnnouncer >> Broadcast: Используйте /report [ник], чтобы отправить жалобу на игрока
+17.06.2017 4:40:54: Не обработано: MessageAnnouncer >> Используйте /report [ник], чтобы отправить жалобу на игрока
+17.06.2017 4:42:54: Не обработано: MessageAnnouncer >> Broadcast: Наберите /rules (/r) для просмотра правил
+17.06.2017 4:42:54: Не обработано: MessageAnnouncer >> Наберите /rules (/r) для просмотра правил
+17.06.2017 4:44:54: Не обработано: MessageAnnouncer >> Broadcast: Добро пожаловать на HEMULGM.RU. Тут рады вам больше, чем на любом другом сервере!
+17.06.2017 4:44:54: Не обработано: MessageAnnouncer >> Добро пожаловать на HEMULGM.RU. Тут рады вам больше, чем на любом другом сервере!
+17.06.2017 4:46:54: Не обработано: MessageAnnouncer >> Broadcast: Наберите /kit start, чтобы получить стартовый набор (еда, вода, топор)
+17.06.2017 4:47:00: Не обработано: MessageAnnouncer >> Наберите /kit start, чтобы получить стартовый набор (еда, вода, топор)
+17.06.2017 4:48:54: Не обработано: MessageAnnouncer >> Broadcast: Внимание! PvP-режим по субботам! PvP-режим!!!
+17.06.2017 4:48:54: Не обработано: MessageAnnouncer >> Внимание! PvP-режим по субботам! PvP-режим!!!
+17.06.2017 4:50:52: Не обработано: PlayerInfoLib >> No expired player info records found for this batch.
+17.06.2017 4:50:54: Не обработано: MessageAnnouncer >> Broadcast: vk.com/unturned_hgm - группа сервера ВК, уникальный кит в записи!
+17.06.2017 4:50:54: Не обработано: MessageAnnouncer >> vk.com/unturned_hgm - группа сервера ВК, уникальный кит в записи!
+17.06.2017 4:52:54: Не обработано: MessageAnnouncer >> Broadcast: Наберите /kit help, чтобы получить первую мед. помощь (бинты, таблетки, еда)
+17.06.2017 4:52:54: Не обработано: MessageAnnouncer >> Наберите /kit help, чтобы получить первую мед. помощь (бинты, таблетки, еда)
+17.06.2017 4:54:54: Не обработано: MessageAnnouncer >> Broadcast: vk.com/unturned_hgm - цены на премиум, VIP и другие услуги смотрите в группе!
+17.06.2017 4:54:54: Не обработано: MessageAnnouncer >> vk.com/unturned_hgm - цены на премиум, VIP и другие услуги смотрите в группе!
+17.06.2017 4:56:54: Не обработано: MessageAnnouncer >> Broadcast: Наберите /kit claim, чтобы получить Claim Flag
+17.06.2017 4:56:54: Не обработано: MessageAnnouncer >> Наберите /kit claim, чтобы получить Claim Flag
+17.06.2017 4:58:54: Не обработано: MessageAnnouncer >> Broadcast: Если модератор ведёт себя неподобающе, пишите в группу или ЛС (vk.com/unturned_hgm, vk.com/hemulgm)
+17.06.2017 4:58:54: Не обработано: MessageAnnouncer >> Если модератор ведёт себя неподобающе, пишите в группу или ЛС (vk.com/unturned_hgm, vk.com/hemulgm)
+17.06.2017 5:00:54: Не обработано: MessageAnnouncer >> Broadcast: vk.com/hemulgm - ЕДИНСТВЕННЫЙ администратор сервера
+17.06.2017 5:00:54: Не обработано: MessageAnnouncer >> vk.com/hemulgm - ЕДИНСТВЕННЫЙ администратор сервера
+17.06.2017 5:02:07: Сохранение сервера
+17.06.2017 5:02:54: Не обработано: MessageAnnouncer >> Broadcast: Используйте /report [ник], чтобы отправить жалобу на игрока
+17.06.2017 5:02:54: Не обработано: MessageAnnouncer >> Используйте /report [ник], чтобы отправить жалобу на игрока
+17.06.2017 5:04:54: Не обработано: MessageAnnouncer >> Broadcast: Наберите /rules (/r) для просмотра правил
+17.06.2017 5:04:54: Не обработано: MessageAnnouncer >> Наберите /rules (/r) для просмотра правил
+17.06.2017 5:06:54: Не обработано: MessageAnnouncer >> Broadcast: Добро пожаловать на HEMULGM.RU. Тут рады вам больше, чем на любом другом сервере!
+17.06.2017 5:06:54: Не обработано: MessageAnnouncer >> Добро пожаловать на HEMULGM.RU. Тут рады вам больше, чем на любом другом сервере!
+17.06.2017 5:08:39: Не обработано: VehicleEvents >> Broadcast: Брошенный квадроцикл в Tacoma! Найди его и он твой!
+17.06.2017 5:08:54: Не обработано: MessageAnnouncer >> Broadcast: Наберите /kit start, чтобы получить стартовый набор (еда, вода, топор)
+17.06.2017 5:08:54: Не обработано: MessageAnnouncer >> Наберите /kit start, чтобы получить стартовый набор (еда, вода, топор)
+17.06.2017 5:10:54: Не обработано: MessageAnnouncer >> Broadcast: Внимание! PvP-режим по субботам! PvP-режим!!!
+17.06.2017 5:10:54: Не обработано: MessageAnnouncer >> Внимание! PvP-режим по субботам! PvP-режим!!!
+17.06.2017 5:12:54: Не обработано: MessageAnnouncer >> Broadcast: vk.com/unturned_hgm - группа сервера ВК, уникальный кит в записи!
+17.06.2017 5:12:54: Не обработано: MessageAnnouncer >> vk.com/unturned_hgm - группа сервера ВК, уникальный кит в записи!
+17.06.2017 5:14:54: Не обработано: MessageAnnouncer >> Broadcast: Наберите /kit help, чтобы получить первую мед. помощь (бинты, таблетки, еда)
+17.06.2017 5:14:54: Не обработано: MessageAnnouncer >> Наберите /kit help, чтобы получить первую мед. помощь (бинты, таблетки, еда)
+17.06.2017 5:16:54: Не обработано: MessageAnnouncer >> Broadcast: vk.com/unturned_hgm - цены на премиум, VIP и другие услуги смотрите в группе!
+17.06.2017 5:16:54: Не обработано: MessageAnnouncer >> vk.com/unturned_hgm - цены на премиум, VIP и другие услуги смотрите в группе!
+17.06.2017 5:18:52: Не обработано: DropManager >> 3
+17.06.2017 5:18:52: Не обработано: ddesnoyers1 [ddesnoyers] was mauled by a zombie!
+17.06.2017 5:18:54: Не обработано: MessageAnnouncer >> Broadcast: Наберите /kit claim, чтобы получить Claim Flag
+17.06.2017 5:18:54: Не обработано: MessageAnnouncer >> Наберите /kit claim, чтобы получить Claim Flag
+17.06.2017 5:20:52: Не обработано: PlayerInfoLib >> No expired player info records found for this batch.
+17.06.2017 5:20:54: Не обработано: MessageAnnouncer >> Broadcast: Если модератор ведёт себя неподобающе, пишите в группу или ЛС (vk.com/unturned_hgm, vk.com/hemulgm)
+17.06.2017 5:20:54: Не обработано: MessageAnnouncer >> Если модератор ведёт себя неподобающе, пишите в группу или ЛС (vk.com/unturned_hgm, vk.com/hemulgm)
+17.06.2017 5:22:54: Не обработано: MessageAnnouncer >> Broadcast: vk.com/hemulgm - ЕДИНСТВЕННЫЙ администратор сервера
+17.06.2017 5:22:54: Не обработано: MessageAnnouncer >> vk.com/hemulgm - ЕДИНСТВЕННЫЙ администратор сервера
+17.06.2017 5:24:54: Не обработано: MessageAnnouncer >> Broadcast: Используйте /report [ник], чтобы отправить жалобу на игрока
+17.06.2017 5:24:54: Не обработано: MessageAnnouncer >> Используйте /report [ник], чтобы отправить жалобу на игрока
+17.06.2017 5:26:54: Не обработано: MessageAnnouncer >> Broadcast: Наберите /rules (/r) для просмотра правил
+17.06.2017 5:26:54: Не обработано: MessageAnnouncer >> Наберите /rules (/r) для просмотра правил
+17.06.2017 5:28:54: Не обработано: MessageAnnouncer >> Broadcast: Добро пожаловать на HEMULGM.RU. Тут рады вам больше, чем на любом другом сервере!
+17.06.2017 5:28:54: Не обработано: MessageAnnouncer >> Добро пожаловать на HEMULGM.RU. Тут рады вам больше, чем на любом другом сервере!
+17.06.2017 5:30:54: Не обработано: MessageAnnouncer >> Broadcast: Наберите /kit start, чтобы получить стартовый набор (еда, вода, топор)
+17.06.2017 5:30:54: Не обработано: MessageAnnouncer >> Наберите /kit start, чтобы получить стартовый набор (еда, вода, топор)
+17.06.2017 5:32:07: Сохранение сервера
+17.06.2017 5:32:54: Не обработано: MessageAnnouncer >> Broadcast: Внимание! PvP-режим по субботам! PvP-режим!!!
+17.06.2017 5:32:54: Не обработано: MessageAnnouncer >> Внимание! PvP-режим по субботам! PvP-режим!!!
+17.06.2017 5:34:54: Не обработано: MessageAnnouncer >> Broadcast: vk.com/unturned_hgm - группа сервера ВК, уникальный кит в записи!
+17.06.2017 5:34:54: Не обработано: MessageAnnouncer >> vk.com/unturned_hgm - группа сервера ВК, уникальный кит в записи!
+17.06.2017 5:36:54: Не обработано: MessageAnnouncer >> Broadcast: Наберите /kit help, чтобы получить первую мед. помощь (бинты, таблетки, еда)
+17.06.2017 5:36:54: Не обработано: MessageAnnouncer >> Наберите /kit help, чтобы получить первую мед. помощь (бинты, таблетки, еда)
+17.06.2017 5:38:54: Не обработано: MessageAnnouncer >> Broadcast: vk.com/unturned_hgm - цены на премиум, VIP и другие услуги смотрите в группе!
+17.06.2017 5:38:54: Не обработано: MessageAnnouncer >> vk.com/unturned_hgm - цены на премиум, VIP и другие услуги смотрите в группе!
+17.06.2017 5:40:54: Не обработано: MessageAnnouncer >> Broadcast: Наберите /kit claim, чтобы получить Claim Flag
+17.06.2017 5:40:54: Не обработано: MessageAnnouncer >> Наберите /kit claim, чтобы получить Claim Flag
+17.06.2017 5:42:54: Не обработано: MessageAnnouncer >> Broadcast: Если модератор ведёт себя неподобающе, пишите в группу или ЛС (vk.com/unturned_hgm, vk.com/hemulgm)
+17.06.2017 5:42:54: Не обработано: MessageAnnouncer >> Если модератор ведёт себя неподобающе, пишите в группу или ЛС (vk.com/unturned_hgm, vk.com/hemulgm)
+17.06.2017 5:44:54: Не обработано: MessageAnnouncer >> Broadcast: vk.com/hemulgm - ЕДИНСТВЕННЫЙ администратор сервера
+17.06.2017 5:44:54: Не обработано: MessageAnnouncer >> vk.com/hemulgm - ЕДИНСТВЕННЫЙ администратор сервера
+17.06.2017 5:46:54: Не обработано: MessageAnnouncer >> Broadcast: Используйте /report [ник], чтобы отправить жалобу на игрока
+17.06.2017 5:46:54: Не обработано: MessageAnnouncer >> Используйте /report [ник], чтобы отправить жалобу на игрока
+17.06.2017 5:48:54: Не обработано: MessageAnnouncer >> Broadcast: Наберите /rules (/r) для просмотра правил
+17.06.2017 5:48:54: Не обработано: MessageAnnouncer >> Наберите /rules (/r) для просмотра правил
+17.06.2017 5:49:24: Не обработано: VehicleEvents >> Broadcast: Брошенный чёрный SUV в Heritage Valley! Найди его и он твой!
+17.06.2017 5:50:52: Не обработано: PlayerInfoLib >> No expired player info records found for this batch.
+17.06.2017 5:50:54: Не обработано: MessageAnnouncer >> Broadcast: Добро пожаловать на HEMULGM.RU. Тут рады вам больше, чем на любом другом сервере!
+17.06.2017 5:50:54: Не обработано: MessageAnnouncer >> Добро пожаловать на HEMULGM.RU. Тут рады вам больше, чем на любом другом сервере!
+17.06.2017 5:52:54: Не обработано: MessageAnnouncer >> Broadcast: Наберите /kit start, чтобы получить стартовый набор (еда, вода, топор)
+17.06.2017 5:52:54: Не обработано: MessageAnnouncer >> Наберите /kit start, чтобы получить стартовый набор (еда, вода, топор)
+17.06.2017 5:54:54: Не обработано: MessageAnnouncer >> Broadcast: Внимание! PvP-режим по субботам! PvP-режим!!!
+17.06.2017 5:54:54: Не обработано: MessageAnnouncer >> Внимание! PvP-режим по субботам! PvP-режим!!!
+17.06.2017 5:56:54: Не обработано: MessageAnnouncer >> Broadcast: vk.com/unturned_hgm - группа сервера ВК, уникальный кит в записи!
+17.06.2017 5:56:54: Не обработано: MessageAnnouncer >> vk.com/unturned_hgm - группа сервера ВК, уникальный кит в записи!
+17.06.2017 5:57:44: Не обработано: VehicleEvents >> Vehicle has been despawned
+17.06.2017 5:58:54: Не обработано: MessageAnnouncer >> Broadcast: Наберите /kit help, чтобы получить первую мед. помощь (бинты, таблетки, еда)
+17.06.2017 5:58:54: Не обработано: MessageAnnouncer >> Наберите /kit help, чтобы получить первую мед. помощь (бинты, таблетки, еда)
+17.06.2017 6:00:54: Не обработано: MessageAnnouncer >> Broadcast: vk.com/unturned_hgm - цены на премиум, VIP и другие услуги смотрите в группе!
+17.06.2017 6:00:54: Не обработано: MessageAnnouncer >> vk.com/unturned_hgm - цены на премиум, VIP и другие услуги смотрите в группе!
+17.06.2017 6:02:07: Сохранение сервера
+17.06.2017 6:02:54: Не обработано: MessageAnnouncer >> Broadcast: Наберите /kit claim, чтобы получить Claim Flag
+17.06.2017 6:02:54: Не обработано: MessageAnnouncer >> Наберите /kit claim, чтобы получить Claim Flag
+17.06.2017 6:04:54: Не обработано: MessageAnnouncer >> Broadcast: Если модератор ведёт себя неподобающе, пишите в группу или ЛС (vk.com/unturned_hgm, vk.com/hemulgm)
+17.06.2017 6:04:54: Не обработано: MessageAnnouncer >> Если модератор ведёт себя неподобающе, пишите в группу или ЛС (vk.com/unturned_hgm, vk.com/hemulgm)
+17.06.2017 6:06:54: Не обработано: MessageAnnouncer >> Broadcast: vk.com/hemulgm - ЕДИНСТВЕННЫЙ администратор сервера
+17.06.2017 6:06:54: Не обработано: MessageAnnouncer >> vk.com/hemulgm - ЕДИНСТВЕННЫЙ администратор сервера
+17.06.2017 6:08:54: Не обработано: MessageAnnouncer >> Broadcast: Используйте /report [ник], чтобы отправить жалобу на игрока
+17.06.2017 6:08:54: Не обработано: MessageAnnouncer >> Используйте /report [ник], чтобы отправить жалобу на игрока
+17.06.2017 6:10:54: Не обработано: MessageAnnouncer >> Broadcast: Наберите /rules (/r) для просмотра правил
+17.06.2017 6:10:54: Не обработано: MessageAnnouncer >> Наберите /rules (/r) для просмотра правил
+17.06.2017 6:12:54: Не обработано: MessageAnnouncer >> Broadcast: Добро пожаловать на HEMULGM.RU. Тут рады вам больше, чем на любом другом сервере!
+17.06.2017 6:12:54: Не обработано: MessageAnnouncer >> Добро пожаловать на HEMULGM.RU. Тут рады вам больше, чем на любом другом сервере!
+17.06.2017 6:14:54: Не обработано: MessageAnnouncer >> Broadcast: Наберите /kit start, чтобы получить стартовый набор (еда, вода, топор)
+17.06.2017 6:14:54: Не обработано: MessageAnnouncer >> Наберите /kit start, чтобы получить стартовый набор (еда, вода, топор)
+17.06.2017 6:16:54: Не обработано: MessageAnnouncer >> Broadcast: Внимание! PvP-режим по субботам! PvP-режим!!!
+17.06.2017 6:16:54: Не обработано: MessageAnnouncer >> Внимание! PvP-режим по субботам! PvP-режим!!!
+17.06.2017 6:18:54: Не обработано: MessageAnnouncer >> Broadcast: vk.com/unturned_hgm - группа сервера ВК, уникальный кит в записи!
+17.06.2017 6:18:54: Не обработано: MessageAnnouncer >> vk.com/unturned_hgm - группа сервера ВК, уникальный кит в записи!
+17.06.2017 6:20:52: Не обработано: PlayerInfoLib >> No expired player info records found for this batch.
+17.06.2017 6:20:54: Не обработано: MessageAnnouncer >> Broadcast: Наберите /kit help, чтобы получить первую мед. помощь (бинты, таблетки, еда)
+17.06.2017 6:20:54: Не обработано: MessageAnnouncer >> Наберите /kit help, чтобы получить первую мед. помощь (бинты, таблетки, еда)
+17.06.2017 6:22:54: Не обработано: MessageAnnouncer >> Broadcast: vk.com/unturned_hgm - цены на премиум, VIP и другие услуги смотрите в группе!
+17.06.2017 6:22:54: Не обработано: MessageAnnouncer >> vk.com/unturned_hgm - цены на премиум, VIP и другие услуги смотрите в группе!
+17.06.2017 6:24:54: Не обработано: MessageAnnouncer >> Broadcast: Наберите /kit claim, чтобы получить Claim Flag
+17.06.2017 6:24:54: Не обработано: MessageAnnouncer >> Наберите /kit claim, чтобы получить Claim Flag
+17.06.2017 6:26:54: Не обработано: MessageAnnouncer >> Broadcast: Если модератор ведёт себя неподобающе, пишите в группу или ЛС (vk.com/unturned_hgm, vk.com/hemulgm)
+17.06.2017 6:26:54: Не обработано: MessageAnnouncer >> Если модератор ведёт себя неподобающе, пишите в группу или ЛС (vk.com/unturned_hgm, vk.com/hemulgm)
+17.06.2017 6:28:54: Не обработано: MessageAnnouncer >> Broadcast: vk.com/hemulgm - ЕДИНСТВЕННЫЙ администратор сервера
+17.06.2017 6:28:54: Не обработано: MessageAnnouncer >> vk.com/hemulgm - ЕДИНСТВЕННЫЙ администратор сервера
+17.06.2017 6:30:54: Не обработано: MessageAnnouncer >> Broadcast: Используйте /report [ник], чтобы отправить жалобу на игрока
+17.06.2017 6:30:54: Не обработано: MessageAnnouncer >> Используйте /report [ник], чтобы отправить жалобу на игрока
+17.06.2017 6:32:07: Сохранение сервера
+17.06.2017 6:32:54: Не обработано: MessageAnnouncer >> Broadcast: Наберите /rules (/r) для просмотра правил
+17.06.2017 6:32:54: Не обработано: MessageAnnouncer >> Наберите /rules (/r) для просмотра правил
+17.06.2017 6:33:47: Не обработано: VehicleEvents >> Broadcast: Брошенный зелёный квадроцикл в Kennewick Farm! Найди его и он твой!
+17.06.2017 6:34:54: Не обработано: MessageAnnouncer >> Broadcast: Добро пожаловать на HEMULGM.RU. Тут рады вам больше, чем на любом другом сервере!
+17.06.2017 6:34:54: Не обработано: MessageAnnouncer >> Добро пожаловать на HEMULGM.RU. Тут рады вам больше, чем на любом другом сервере!
+17.06.2017 6:36:54: Не обработано: MessageAnnouncer >> Broadcast: Наберите /kit start, чтобы получить стартовый набор (еда, вода, топор)
+17.06.2017 6:36:54: Не обработано: MessageAnnouncer >> Наберите /kit start, чтобы получить стартовый набор (еда, вода, топор)
+17.06.2017 6:38:54: Не обработано: MessageAnnouncer >> Broadcast: Внимание! PvP-режим по субботам! PvP-режим!!!
+17.06.2017 6:38:54: Не обработано: MessageAnnouncer >> Внимание! PvP-режим по субботам! PvP-режим!!!
+17.06.2017 6:40:54: Не обработано: MessageAnnouncer >> Broadcast: vk.com/unturned_hgm - группа сервера ВК, уникальный кит в записи!
+17.06.2017 6:40:54: Не обработано: MessageAnnouncer >> vk.com/unturned_hgm - группа сервера ВК, уникальный кит в записи!
+17.06.2017 6:42:07: Не обработано: VehicleEvents >> Vehicle has been despawned
+17.06.2017 6:42:54: Не обработано: MessageAnnouncer >> Broadcast: Наберите /kit help, чтобы получить первую мед. помощь (бинты, таблетки, еда)
+17.06.2017 6:42:54: Не обработано: MessageAnnouncer >> Наберите /kit help, чтобы получить первую мед. помощь (бинты, таблетки, еда)
+17.06.2017 6:44:54: Не обработано: MessageAnnouncer >> Broadcast: vk.com/unturned_hgm - цены на премиум, VIP и другие услуги смотрите в группе!
+17.06.2017 6:44:54: Не обработано: MessageAnnouncer >> vk.com/unturned_hgm - цены на премиум, VIP и другие услуги смотрите в группе!
+17.06.2017 6:46:54: Не обработано: MessageAnnouncer >> Broadcast: Наберите /kit claim, чтобы получить Claim Flag
+17.06.2017 6:46:54: Не обработано: MessageAnnouncer >> Наберите /kit claim, чтобы получить Claim Flag
+17.06.2017 6:48:54: Не обработано: MessageAnnouncer >> Broadcast: Если модератор ведёт себя неподобающе, пишите в группу или ЛС (vk.com/unturned_hgm, vk.com/hemulgm)
+17.06.2017 6:48:54: Не обработано: MessageAnnouncer >> Если модератор ведёт себя неподобающе, пишите в группу или ЛС (vk.com/unturned_hgm, vk.com/hemulgm)
+17.06.2017 6:50:52: Не обработано: PlayerInfoLib >> No expired player info records found for this batch.
+17.06.2017 6:50:54: Не обработано: MessageAnnouncer >> Broadcast: vk.com/hemulgm - ЕДИНСТВЕННЫЙ администратор сервера
+17.06.2017 6:50:55: Не обработано: MessageAnnouncer >> vk.com/hemulgm - ЕДИНСТВЕННЫЙ администратор сервера
+17.06.2017 6:52:54: Не обработано: MessageAnnouncer >> Broadcast: Используйте /report [ник], чтобы отправить жалобу на игрока
+17.06.2017 6:52:55: Не обработано: MessageAnnouncer >> Используйте /report [ник], чтобы отправить жалобу на игрока
+17.06.2017 6:54:54: Не обработано: MessageAnnouncer >> Broadcast: Наберите /rules (/r) для просмотра правил
+17.06.2017 6:54:55: Не обработано: MessageAnnouncer >> Наберите /rules (/r) для просмотра правил
+17.06.2017 6:56:55: Не обработано: MessageAnnouncer >> Broadcast: Добро пожаловать на HEMULGM.RU. Тут рады вам больше, чем на любом другом сервере!
+17.06.2017 6:56:55: Не обработано: MessageAnnouncer >> Добро пожаловать на HEMULGM.RU. Тут рады вам больше, чем на любом другом сервере!
+17.06.2017 6:58:55: Не обработано: MessageAnnouncer >> Broadcast: Наберите /kit start, чтобы получить стартовый набор (еда, вода, топор)
+17.06.2017 6:58:55: Не обработано: MessageAnnouncer >> Наберите /kit start, чтобы получить стартовый набор (еда, вода, топор)
+17.06.2017 7:00:55: Не обработано: MessageAnnouncer >> Broadcast: Внимание! PvP-режим по субботам! PvP-режим!!!
+17.06.2017 7:00:55: Не обработано: MessageAnnouncer >> Внимание! PvP-режим по субботам! PvP-режим!!!
+17.06.2017 7:02:07: Сохранение сервера
+17.06.2017 7:02:55: Не обработано: MessageAnnouncer >> Broadcast: vk.com/unturned_hgm - группа сервера ВК, уникальный кит в записи!
+17.06.2017 7:02:55: Не обработано: MessageAnnouncer >> vk.com/unturned_hgm - группа сервера ВК, уникальный кит в записи!
+17.06.2017 7:04:55: Не обработано: MessageAnnouncer >> Broadcast: Наберите /kit help, чтобы получить первую мед. помощь (бинты, таблетки, еда)
+17.06.2017 7:04:55: Не обработано: MessageAnnouncer >> Наберите /kit help, чтобы получить первую мед. помощь (бинты, таблетки, еда)
+17.06.2017 7:06:55: Не обработано: MessageAnnouncer >> Broadcast: vk.com/unturned_hgm - цены на премиум, VIP и другие услуги смотрите в группе!
+17.06.2017 7:06:55: Не обработано: MessageAnnouncer >> vk.com/unturned_hgm - цены на премиум, VIP и другие услуги смотрите в группе!
+17.06.2017 7:08:55: Не обработано: MessageAnnouncer >> Broadcast: Наберите /kit claim, чтобы получить Claim Flag
+17.06.2017 7:08:55: Не обработано: MessageAnnouncer >> Наберите /kit claim, чтобы получить Claim Flag
+17.06.2017 7:10:55: Не обработано: MessageAnnouncer >> Broadcast: Если модератор ведёт себя неподобающе, пишите в группу или ЛС (vk.com/unturned_hgm, vk.com/hemulgm)
+17.06.2017 7:10:55: Не обработано: MessageAnnouncer >> Если модератор ведёт себя неподобающе, пишите в группу или ЛС (vk.com/unturned_hgm, vk.com/hemulgm)
+17.06.2017 7:12:55: Не обработано: MessageAnnouncer >> Broadcast: vk.com/hemulgm - ЕДИНСТВЕННЫЙ администратор сервера
+17.06.2017 7:12:55: Не обработано: MessageAnnouncer >> vk.com/hemulgm - ЕДИНСТВЕННЫЙ администратор сервера
+17.06.2017 7:14:55: Не обработано: MessageAnnouncer >> Broadcast: Используйте /report [ник], чтобы отправить жалобу на игрока
+17.06.2017 7:14:55: Не обработано: MessageAnnouncer >> Используйте /report [ник], чтобы отправить жалобу на игрока
+17.06.2017 7:15:25: Не обработано: VehicleEvents >> Broadcast: Брошенный белый минивен в Kent Raceway! Найди его и он твой!
+17.06.2017 7:16:55: Не обработано: MessageAnnouncer >> Broadcast: Наберите /rules (/r) для просмотра правил
+17.06.2017 7:16:55: Не обработано: MessageAnnouncer >> Наберите /rules (/r) для просмотра правил
+17.06.2017 7:18:55: Не обработано: MessageAnnouncer >> Broadcast: Добро пожаловать на HEMULGM.RU. Тут рады вам больше, чем на любом другом сервере!
+17.06.2017 7:18:55: Не обработано: MessageAnnouncer >> Добро пожаловать на HEMULGM.RU. Тут рады вам больше, чем на любом другом сервере!
+17.06.2017 7:20:52: Не обработано: PlayerInfoLib >> No expired player info records found for this batch.
+17.06.2017 7:20:55: Не обработано: MessageAnnouncer >> Broadcast: Наберите /kit start, чтобы получить стартовый набор (еда, вода, топор)
+17.06.2017 7:20:55: Не обработано: MessageAnnouncer >> Наберите /kit start, чтобы получить стартовый набор (еда, вода, топор)
+17.06.2017 7:22:55: Не обработано: MessageAnnouncer >> Broadcast: Внимание! PvP-режим по субботам! PvP-режим!!!
+17.06.2017 7:22:55: Не обработано: MessageAnnouncer >> Внимание! PvP-режим по субботам! PvP-режим!!!
+17.06.2017 7:24:55: Не обработано: MessageAnnouncer >> Broadcast: vk.com/unturned_hgm - группа сервера ВК, уникальный кит в записи!
+17.06.2017 7:24:55: Не обработано: MessageAnnouncer >> vk.com/unturned_hgm - группа сервера ВК, уникальный кит в записи!
+17.06.2017 7:26:55: Не обработано: MessageAnnouncer >> Broadcast: Наберите /kit help, чтобы получить первую мед. помощь (бинты, таблетки, еда)
+17.06.2017 7:26:55: Не обработано: MessageAnnouncer >> Наберите /kit help, чтобы получить первую мед. помощь (бинты, таблетки, еда)
+17.06.2017 7:28:55: Не обработано: MessageAnnouncer >> Broadcast: vk.com/unturned_hgm - цены на премиум, VIP и другие услуги смотрите в группе!
+17.06.2017 7:28:55: Не обработано: MessageAnnouncer >> vk.com/unturned_hgm - цены на премиум, VIP и другие услуги смотрите в группе!
+17.06.2017 7:30:55: Не обработано: MessageAnnouncer >> Broadcast: Наберите /kit claim, чтобы получить Claim Flag
+17.06.2017 7:30:55: Не обработано: MessageAnnouncer >> Наберите /kit claim, чтобы получить Claim Flag
+17.06.2017 7:32:07: Сохранение сервера
+17.06.2017 7:32:55: Не обработано: MessageAnnouncer >> Broadcast: Если модератор ведёт себя неподобающе, пишите в группу или ЛС (vk.com/unturned_hgm, vk.com/hemulgm)
+17.06.2017 7:32:55: Не обработано: MessageAnnouncer >> Если модератор ведёт себя неподобающе, пишите в группу или ЛС (vk.com/unturned_hgm, vk.com/hemulgm)
+17.06.2017 7:34:55: Не обработано: MessageAnnouncer >> Broadcast: vk.com/hemulgm - ЕДИНСТВЕННЫЙ администратор сервера
+17.06.2017 7:34:55: Не обработано: MessageAnnouncer >> vk.com/hemulgm - ЕДИНСТВЕННЫЙ администратор сервера
+17.06.2017 7:36:55: Не обработано: MessageAnnouncer >> Broadcast: Используйте /report [ник], чтобы отправить жалобу на игрока
+17.06.2017 7:36:55: Не обработано: MessageAnnouncer >> Используйте /report [ник], чтобы отправить жалобу на игрока
+17.06.2017 7:38:55: Не обработано: MessageAnnouncer >> Broadcast: Наберите /rules (/r) для просмотра правил
+17.06.2017 7:38:55: Не обработано: MessageAnnouncer >> Наберите /rules (/r) для просмотра правил
+17.06.2017 7:40:55: Не обработано: MessageAnnouncer >> Broadcast: Добро пожаловать на HEMULGM.RU. Тут рады вам больше, чем на любом другом сервере!
+17.06.2017 7:40:55: Не обработано: MessageAnnouncer >> Добро пожаловать на HEMULGM.RU. Тут рады вам больше, чем на любом другом сервере!
+17.06.2017 7:42:55: Не обработано: MessageAnnouncer >> Broadcast: Наберите /kit start, чтобы получить стартовый набор (еда, вода, топор)
+17.06.2017 7:42:55: Не обработано: MessageAnnouncer >> Наберите /kit start, чтобы получить стартовый набор (еда, вода, топор)
+17.06.2017 7:44:55: Не обработано: MessageAnnouncer >> Broadcast: Внимание! PvP-режим по субботам! PvP-режим!!!
+17.06.2017 7:44:55: Не обработано: MessageAnnouncer >> Внимание! PvP-режим по субботам! PvP-режим!!!
+17.06.2017 7:46:55: Не обработано: MessageAnnouncer >> Broadcast: vk.com/unturned_hgm - группа сервера ВК, уникальный кит в записи!
+17.06.2017 7:46:55: Не обработано: MessageAnnouncer >> vk.com/unturned_hgm - группа сервера ВК, уникальный кит в записи!
+17.06.2017 7:48:55: Не обработано: MessageAnnouncer >> Broadcast: Наберите /kit help, чтобы получить первую мед. помощь (бинты, таблетки, еда)
+17.06.2017 7:48:55: Не обработано: MessageAnnouncer >> Наберите /kit help, чтобы получить первую мед. помощь (бинты, таблетки, еда)
+17.06.2017 7:50:52: Не обработано: PlayerInfoLib >> No expired player info records found for this batch.
+17.06.2017 7:50:55: Не обработано: MessageAnnouncer >> Broadcast: vk.com/unturned_hgm - цены на премиум, VIP и другие услуги смотрите в группе!
+17.06.2017 7:50:55: Не обработано: MessageAnnouncer >> vk.com/unturned_hgm - цены на премиум, VIP и другие услуги смотрите в группе!
+17.06.2017 7:52:55: Не обработано: MessageAnnouncer >> Broadcast: Наберите /kit claim, чтобы получить Claim Flag
+17.06.2017 7:52:55: Не обработано: MessageAnnouncer >> Наберите /kit claim, чтобы получить Claim Flag
+17.06.2017 7:54:55: Не обработано: MessageAnnouncer >> Broadcast: Если модератор ведёт себя неподобающе, пишите в группу или ЛС (vk.com/unturned_hgm, vk.com/hemulgm)
+17.06.2017 7:54:55: Не обработано: MessageAnnouncer >> Если модератор ведёт себя неподобающе, пишите в группу или ЛС (vk.com/unturned_hgm, vk.com/hemulgm)
+17.06.2017 7:56:55: Не обработано: VehicleEvents >> Broadcast: Брошенный такси в Scorpion-7! Найди его и он твой!
+17.06.2017 7:56:55: Не обработано: MessageAnnouncer >> Broadcast: vk.com/hemulgm - ЕДИНСТВЕННЫЙ администратор сервера
+17.06.2017 7:56:55: Не обработано: MessageAnnouncer >> vk.com/hemulgm - ЕДИНСТВЕННЫЙ администратор сервера
+17.06.2017 7:58:55: Не обработано: MessageAnnouncer >> Broadcast: Используйте /report [ник], чтобы отправить жалобу на игрока
+17.06.2017 7:58:55: Не обработано: MessageAnnouncer >> Используйте /report [ник], чтобы отправить жалобу на игрока
+17.06.2017 8:00:55: Не обработано: MessageAnnouncer >> Broadcast: Наберите /rules (/r) для просмотра правил
+17.06.2017 8:00:55: Не обработано: MessageAnnouncer >> Наберите /rules (/r) для просмотра правил
+17.06.2017 8:02:07: Сохранение сервера
+17.06.2017 8:02:55: Не обработано: MessageAnnouncer >> Broadcast: Добро пожаловать на HEMULGM.RU. Тут рады вам больше, чем на любом другом сервере!
+17.06.2017 8:02:55: Не обработано: MessageAnnouncer >> Добро пожаловать на HEMULGM.RU. Тут рады вам больше, чем на любом другом сервере!
+17.06.2017 8:04:55: Не обработано: MessageAnnouncer >> Broadcast: Наберите /kit start, чтобы получить стартовый набор (еда, вода, топор)
+17.06.2017 8:04:55: Не обработано: MessageAnnouncer >> Наберите /kit start, чтобы получить стартовый набор (еда, вода, топор)
+17.06.2017 8:06:55: Не обработано: MessageAnnouncer >> Broadcast: Внимание! PvP-режим по субботам! PvP-режим!!!
+17.06.2017 8:06:55: Не обработано: MessageAnnouncer >> Внимание! PvP-режим по субботам! PvP-режим!!!
+17.06.2017 8:08:55: Не обработано: MessageAnnouncer >> Broadcast: vk.com/unturned_hgm - группа сервера ВК, уникальный кит в записи!
+17.06.2017 8:08:55: Не обработано: MessageAnnouncer >> vk.com/unturned_hgm - группа сервера ВК, уникальный кит в записи!
+17.06.2017 8:10:55: Не обработано: MessageAnnouncer >> Broadcast: Наберите /kit help, чтобы получить первую мед. помощь (бинты, таблетки, еда)
+17.06.2017 8:10:55: Не обработано: MessageAnnouncer >> Наберите /kit help, чтобы получить первую мед. помощь (бинты, таблетки, еда)
+17.06.2017 8:12:55: Не обработано: MessageAnnouncer >> Broadcast: vk.com/unturned_hgm - цены на премиум, VIP и другие услуги смотрите в группе!
+17.06.2017 8:12:55: Не обработано: MessageAnnouncer >> vk.com/unturned_hgm - цены на премиум, VIP и другие услуги смотрите в группе!
+17.06.2017 8:14:55: Не обработано: MessageAnnouncer >> Broadcast: Наберите /kit claim, чтобы получить Claim Flag
+17.06.2017 8:14:55: Не обработано: MessageAnnouncer >> Наберите /kit claim, чтобы получить Claim Flag
+17.06.2017 8:16:55: Не обработано: MessageAnnouncer >> Broadcast: Если модератор ведёт себя неподобающе, пишите в группу или ЛС (vk.com/unturned_hgm, vk.com/hemulgm)
+17.06.2017 8:16:55: Не обработано: MessageAnnouncer >> Если модератор ведёт себя неподобающе, пишите в группу или ЛС (vk.com/unturned_hgm, vk.com/hemulgm)
+17.06.2017 8:18:55: Не обработано: MessageAnnouncer >> Broadcast: vk.com/hemulgm - ЕДИНСТВЕННЫЙ администратор сервера
+17.06.2017 8:18:55: Не обработано: MessageAnnouncer >> vk.com/hemulgm - ЕДИНСТВЕННЫЙ администратор сервера
+17.06.2017 8:20:52: Не обработано: PlayerInfoLib >> No expired player info records found for this batch.
+17.06.2017 8:20:55: Не обработано: MessageAnnouncer >> Broadcast: Используйте /report [ник], чтобы отправить жалобу на игрока
+17.06.2017 8:20:55: Не обработано: MessageAnnouncer >> Используйте /report [ник], чтобы отправить жалобу на игрока
+17.06.2017 8:22:55: Не обработано: MessageAnnouncer >> Broadcast: Наберите /rules (/r) для просмотра правил
+17.06.2017 8:22:55: Не обработано: MessageAnnouncer >> Наберите /rules (/r) для просмотра правил
+17.06.2017 8:24:55: Не обработано: MessageAnnouncer >> Broadcast: Добро пожаловать на HEMULGM.RU. Тут рады вам больше, чем на любом другом сервере!
+17.06.2017 8:24:55: Не обработано: MessageAnnouncer >> Добро пожаловать на HEMULGM.RU. Тут рады вам больше, чем на любом другом сервере!
+17.06.2017 8:26:55: Не обработано: MessageAnnouncer >> Broadcast: Наберите /kit start, чтобы получить стартовый набор (еда, вода, топор)
+17.06.2017 8:26:55: Не обработано: MessageAnnouncer >> Наберите /kit start, чтобы получить стартовый набор (еда, вода, топор)
+17.06.2017 8:28:55: Не обработано: MessageAnnouncer >> Broadcast: Внимание! PvP-режим по субботам! PvP-режим!!!
+17.06.2017 8:28:55: Не обработано: MessageAnnouncer >> Внимание! PvP-режим по субботам! PvP-режим!!!
+17.06.2017 8:30:55: Не обработано: MessageAnnouncer >> Broadcast: vk.com/unturned_hgm - группа сервера ВК, уникальный кит в записи!
+17.06.2017 8:30:55: Не обработано: MessageAnnouncer >> vk.com/unturned_hgm - группа сервера ВК, уникальный кит в записи!
+17.06.2017 8:32:07: Сохранение сервера
+17.06.2017 8:32:55: Не обработано: MessageAnnouncer >> Broadcast: Наберите /kit help, чтобы получить первую мед. помощь (бинты, таблетки, еда)
+17.06.2017 8:32:55: Не обработано: MessageAnnouncer >> Наберите /kit help, чтобы получить первую мед. помощь (бинты, таблетки, еда)
+17.06.2017 8:34:55: Не обработано: MessageAnnouncer >> Broadcast: vk.com/unturned_hgm - цены на премиум, VIP и другие услуги смотрите в группе!
+17.06.2017 8:34:55: Не обработано: MessageAnnouncer >> vk.com/unturned_hgm - цены на премиум, VIP и другие услуги смотрите в группе!
+17.06.2017 8:35:43: Не обработано: VehicleEvents >> Broadcast: Брошенный красный SUV в Bellevue Golf Course! Найди его и он твой!
+17.06.2017 8:36:55: Не обработано: MessageAnnouncer >> Broadcast: Наберите /kit claim, чтобы получить Claim Flag
+17.06.2017 8:36:55: Не обработано: MessageAnnouncer >> Наберите /kit claim, чтобы получить Claim Flag
+17.06.2017 8:38:55: Не обработано: MessageAnnouncer >> Broadcast: Если модератор ведёт себя неподобающе, пишите в группу или ЛС (vk.com/unturned_hgm, vk.com/hemulgm)
+17.06.2017 8:38:55: Не обработано: MessageAnnouncer >> Если модератор ведёт себя неподобающе, пишите в группу или ЛС (vk.com/unturned_hgm, vk.com/hemulgm)
+17.06.2017 8:40:55: Не обработано: MessageAnnouncer >> Broadcast: vk.com/hemulgm - ЕДИНСТВЕННЫЙ администратор сервера
+17.06.2017 8:40:55: Не обработано: MessageAnnouncer >> vk.com/hemulgm - ЕДИНСТВЕННЫЙ администратор сервера
+17.06.2017 8:42:55: Не обработано: MessageAnnouncer >> Broadcast: Используйте /report [ник], чтобы отправить жалобу на игрока
+17.06.2017 8:42:55: Не обработано: MessageAnnouncer >> Используйте /report [ник], чтобы отправить жалобу на игрока
+17.06.2017 8:43:29: Не обработано: gogo moved x:-916.7758 y:64.49054(+26.01322) z:901.0182 in the last second (0.1907349)
+17.06.2017 8:44:55: Не обработано: MessageAnnouncer >> Broadcast: Наберите /rules (/r) для просмотра правил
+17.06.2017 8:44:55: Не обработано: MessageAnnouncer >> Наберите /rules (/r) для просмотра правил
+17.06.2017 8:46:55: Не обработано: MessageAnnouncer >> Broadcast: Добро пожаловать на HEMULGM.RU. Тут рады вам больше, чем на любом другом сервере!
+17.06.2017 8:46:55: Не обработано: MessageAnnouncer >> Добро пожаловать на HEMULGM.RU. Тут рады вам больше, чем на любом другом сервере!
+17.06.2017 8:48:55: Не обработано: MessageAnnouncer >> Broadcast: Наберите /kit start, чтобы получить стартовый набор (еда, вода, топор)
+17.06.2017 8:48:55: Не обработано: MessageAnnouncer >> Наберите /kit start, чтобы получить стартовый набор (еда, вода, топор)
+17.06.2017 8:50:52: Не обработано: PlayerInfoLib >> No expired player info records found for this batch.
+17.06.2017 8:50:55: Не обработано: MessageAnnouncer >> Broadcast: Внимание! PvP-режим по субботам! PvP-режим!!!
+17.06.2017 8:50:55: Не обработано: MessageAnnouncer >> Внимание! PvP-режим по субботам! PvP-режим!!!
+17.06.2017 8:52:55: Не обработано: MessageAnnouncer >> Broadcast: vk.com/unturned_hgm - группа сервера ВК, уникальный кит в записи!
+17.06.2017 8:52:55: Не обработано: MessageAnnouncer >> vk.com/unturned_hgm - группа сервера ВК, уникальный кит в записи!
+17.06.2017 8:54:55: Не обработано: MessageAnnouncer >> Broadcast: Наберите /kit help, чтобы получить первую мед. помощь (бинты, таблетки, еда)
+17.06.2017 8:54:55: Не обработано: MessageAnnouncer >> Наберите /kit help, чтобы получить первую мед. помощь (бинты, таблетки, еда)
+17.06.2017 8:56:55: Не обработано: MessageAnnouncer >> Broadcast: vk.com/unturned_hgm - цены на премиум, VIP и другие услуги смотрите в группе!
+17.06.2017 8:56:55: Не обработано: MessageAnnouncer >> vk.com/unturned_hgm - цены на премиум, VIP и другие услуги смотрите в группе!
+17.06.2017 8:58:55: Не обработано: MessageAnnouncer >> Broadcast: Наберите /kit claim, чтобы получить Claim Flag
+17.06.2017 8:58:55: Не обработано: MessageAnnouncer >> Наберите /kit claim, чтобы получить Claim Flag
+17.06.2017 9:00:55: Не обработано: MessageAnnouncer >> Broadcast: Если модератор ведёт себя неподобающе, пишите в группу или ЛС (vk.com/unturned_hgm, vk.com/hemulgm)
+17.06.2017 9:00:55: Не обработано: MessageAnnouncer >> Если модератор ведёт себя неподобающе, пишите в группу или ЛС (vk.com/unturned_hgm, vk.com/hemulgm)
+17.06.2017 9:02:07: Сохранение сервера
+17.06.2017 9:02:55: Не обработано: MessageAnnouncer >> Broadcast: vk.com/hemulgm - ЕДИНСТВЕННЫЙ администратор сервера
+17.06.2017 9:02:55: Не обработано: MessageAnnouncer >> vk.com/hemulgm - ЕДИНСТВЕННЫЙ администратор сервера
+17.06.2017 9:04:55: Не обработано: MessageAnnouncer >> Broadcast: Используйте /report [ник], чтобы отправить жалобу на игрока
+17.06.2017 9:04:55: Не обработано: MessageAnnouncer >> Используйте /report [ник], чтобы отправить жалобу на игрока
+17.06.2017 9:06:55: Не обработано: MessageAnnouncer >> Broadcast: Наберите /rules (/r) для просмотра правил
+17.06.2017 9:06:55: Не обработано: MessageAnnouncer >> Наберите /rules (/r) для просмотра правил
+17.06.2017 9:08:55: Не обработано: MessageAnnouncer >> Broadcast: Добро пожаловать на HEMULGM.RU. Тут рады вам больше, чем на любом другом сервере!
+17.06.2017 9:08:55: Не обработано: MessageAnnouncer >> Добро пожаловать на HEMULGM.RU. Тут рады вам больше, чем на любом другом сервере!
+17.06.2017 9:10:55: Не обработано: MessageAnnouncer >> Broadcast: Наберите /kit start, чтобы получить стартовый набор (еда, вода, топор)
+17.06.2017 9:10:55: Не обработано: MessageAnnouncer >> Наберите /kit start, чтобы получить стартовый набор (еда, вода, топор)
+17.06.2017 9:12:55: Не обработано: MessageAnnouncer >> Broadcast: Внимание! PvP-режим по субботам! PvP-режим!!!
+17.06.2017 9:12:55: Не обработано: MessageAnnouncer >> Внимание! PvP-режим по субботам! PvP-режим!!!
+17.06.2017 9:14:55: Не обработано: MessageAnnouncer >> Broadcast: vk.com/unturned_hgm - группа сервера ВК, уникальный кит в записи!
+17.06.2017 9:14:55: Не обработано: MessageAnnouncer >> vk.com/unturned_hgm - группа сервера ВК, уникальный кит в записи!
+17.06.2017 9:16:55: Не обработано: MessageAnnouncer >> Broadcast: Наберите /kit help, чтобы получить первую мед. помощь (бинты, таблетки, еда)
+17.06.2017 9:16:56: Не обработано: MessageAnnouncer >> Наберите /kit help, чтобы получить первую мед. помощь (бинты, таблетки, еда)
+17.06.2017 9:18:55: Не обработано: MessageAnnouncer >> Broadcast: vk.com/unturned_hgm - цены на премиум, VIP и другие услуги смотрите в группе!
+17.06.2017 9:18:56: Не обработано: MessageAnnouncer >> vk.com/unturned_hgm - цены на премиум, VIP и другие услуги смотрите в группе!
+17.06.2017 9:19:14: Не обработано: VehicleEvents >> Broadcast: Брошенный джип в Seattle! Найди его и он твой!
+17.06.2017 9:20:52: Не обработано: PlayerInfoLib >> No expired player info records found for this batch.
+17.06.2017 9:20:56: Не обработано: MessageAnnouncer >> Broadcast: Наберите /kit claim, чтобы получить Claim Flag
+17.06.2017 9:20:56: Не обработано: MessageAnnouncer >> Наберите /kit claim, чтобы получить Claim Flag
+17.06.2017 9:22:56: Не обработано: MessageAnnouncer >> Broadcast: Если модератор ведёт себя неподобающе, пишите в группу или ЛС (vk.com/unturned_hgm, vk.com/hemulgm)
+17.06.2017 9:22:56: Не обработано: MessageAnnouncer >> Если модератор ведёт себя неподобающе, пишите в группу или ЛС (vk.com/unturned_hgm, vk.com/hemulgm)
+17.06.2017 9:24:56: Не обработано: MessageAnnouncer >> Broadcast: vk.com/hemulgm - ЕДИНСТВЕННЫЙ администратор сервера
+17.06.2017 9:24:56: Не обработано: MessageAnnouncer >> vk.com/hemulgm - ЕДИНСТВЕННЫЙ администратор сервера
+17.06.2017 9:26:56: Не обработано: MessageAnnouncer >> Broadcast: Используйте /report [ник], чтобы отправить жалобу на игрока
+17.06.2017 9:26:56: Не обработано: MessageAnnouncer >> Используйте /report [ник], чтобы отправить жалобу на игрока
+17.06.2017 9:27:34: Не обработано: VehicleEvents >> Vehicle has been despawned
+17.06.2017 9:28:56: Не обработано: MessageAnnouncer >> Broadcast: Наберите /rules (/r) для просмотра правил
+17.06.2017 9:28:56: Не обработано: MessageAnnouncer >> Наберите /rules (/r) для просмотра правил
+17.06.2017 9:30:56: Не обработано: MessageAnnouncer >> Broadcast: Добро пожаловать на HEMULGM.RU. Тут рады вам больше, чем на любом другом сервере!
+17.06.2017 9:30:56: Не обработано: MessageAnnouncer >> Добро пожаловать на HEMULGM.RU. Тут рады вам больше, чем на любом другом сервере!
+17.06.2017 9:32:07: Сохранение сервера
+17.06.2017 9:32:56: Не обработано: MessageAnnouncer >> Broadcast: Наберите /kit start, чтобы получить стартовый набор (еда, вода, топор)
+17.06.2017 9:32:56: Не обработано: MessageAnnouncer >> Наберите /kit start, чтобы получить стартовый набор (еда, вода, топор)
+17.06.2017 9:34:56: Не обработано: MessageAnnouncer >> Broadcast: Внимание! PvP-режим по субботам! PvP-режим!!!
+17.06.2017 9:34:56: Не обработано: MessageAnnouncer >> Внимание! PvP-режим по субботам! PvP-режим!!!
+17.06.2017 9:36:56: Не обработано: MessageAnnouncer >> Broadcast: vk.com/unturned_hgm - группа сервера ВК, уникальный кит в записи!
+17.06.2017 9:36:56: Не обработано: MessageAnnouncer >> vk.com/unturned_hgm - группа сервера ВК, уникальный кит в записи!
+17.06.2017 9:38:56: Не обработано: MessageAnnouncer >> Broadcast: Наберите /kit help, чтобы получить первую мед. помощь (бинты, таблетки, еда)
+17.06.2017 9:38:56: Не обработано: MessageAnnouncer >> Наберите /kit help, чтобы получить первую мед. помощь (бинты, таблетки, еда)
+17.06.2017 9:40:56: Не обработано: MessageAnnouncer >> Broadcast: vk.com/unturned_hgm - цены на премиум, VIP и другие услуги смотрите в группе!
+17.06.2017 9:40:56: Не обработано: MessageAnnouncer >> vk.com/unturned_hgm - цены на премиум, VIP и другие услуги смотрите в группе!
+17.06.2017 9:42:56: Не обработано: MessageAnnouncer >> Broadcast: Наберите /kit claim, чтобы получить Claim Flag
+17.06.2017 9:42:56: Не обработано: MessageAnnouncer >> Наберите /kit claim, чтобы получить Claim Flag
+17.06.2017 9:44:56: Не обработано: MessageAnnouncer >> Broadcast: Если модератор ведёт себя неподобающе, пишите в группу или ЛС (vk.com/unturned_hgm, vk.com/hemulgm)
+17.06.2017 9:44:56: Не обработано: MessageAnnouncer >> Если модератор ведёт себя неподобающе, пишите в группу или ЛС (vk.com/unturned_hgm, vk.com/hemulgm)
+17.06.2017 9:46:56: Не обработано: MessageAnnouncer >> Broadcast: vk.com/hemulgm - ЕДИНСТВЕННЫЙ администратор сервера
+17.06.2017 9:46:56: Не обработано: MessageAnnouncer >> vk.com/hemulgm - ЕДИНСТВЕННЫЙ администратор сервера
+17.06.2017 9:48:56: Не обработано: MessageAnnouncer >> Broadcast: Используйте /report [ник], чтобы отправить жалобу на игрока
+17.06.2017 9:48:56: Не обработано: MessageAnnouncer >> Используйте /report [ник], чтобы отправить жалобу на игрока
+17.06.2017 9:50:52: Не обработано: PlayerInfoLib >> No expired player info records found for this batch.
+17.06.2017 9:50:56: Не обработано: MessageAnnouncer >> Broadcast: Наберите /rules (/r) для просмотра правил
+17.06.2017 9:50:56: Не обработано: MessageAnnouncer >> Наберите /rules (/r) для просмотра правил
+17.06.2017 9:52:56: Не обработано: MessageAnnouncer >> Broadcast: Добро пожаловать на HEMULGM.RU. Тут рады вам больше, чем на любом другом сервере!
+17.06.2017 9:52:56: Не обработано: MessageAnnouncer >> Добро пожаловать на HEMULGM.RU. Тут рады вам больше, чем на любом другом сервере!
+17.06.2017 9:54:56: Не обработано: MessageAnnouncer >> Broadcast: Наберите /kit start, чтобы получить стартовый набор (еда, вода, топор)
+17.06.2017 9:54:56: Не обработано: MessageAnnouncer >> Наберите /kit start, чтобы получить стартовый набор (еда, вода, топор)
+17.06.2017 9:56:56: Не обработано: MessageAnnouncer >> Broadcast: Внимание! PvP-режим по субботам! PvP-режим!!!
+17.06.2017 9:56:56: Не обработано: MessageAnnouncer >> Внимание! PvP-режим по субботам! PvP-режим!!!
+17.06.2017 9:58:56: Не обработано: MessageAnnouncer >> Broadcast: vk.com/unturned_hgm - группа сервера ВК, уникальный кит в записи!
+17.06.2017 9:58:56: Не обработано: MessageAnnouncer >> vk.com/unturned_hgm - группа сервера ВК, уникальный кит в записи!
+17.06.2017 10:00:56: Не обработано: MessageAnnouncer >> Broadcast: Наберите /kit help, чтобы получить первую мед. помощь (бинты, таблетки, еда)
+17.06.2017 10:00:56: Не обработано: MessageAnnouncer >> Наберите /kit help, чтобы получить первую мед. помощь (бинты, таблетки, еда)
+17.06.2017 10:02:07: Сохранение сервера
+17.06.2017 10:02:56: Не обработано: MessageAnnouncer >> Broadcast: vk.com/unturned_hgm - цены на премиум, VIP и другие услуги смотрите в группе!
+17.06.2017 10:02:56: Не обработано: MessageAnnouncer >> vk.com/unturned_hgm - цены на премиум, VIP и другие услуги смотрите в группе!
+17.06.2017 10:04:58: Не обработано: MessageAnnouncer >> Broadcast: Наберите /kit claim, чтобы получить Claim Flag
+17.06.2017 10:04:58: Не обработано: MessageAnnouncer >> Наберите /kit claim, чтобы получить Claim Flag
+17.06.2017 11:39:51: Не обработано: MessageAnnouncer >> Broadcast: Если модератор ведёт себя неподобающе, пишите в группу или ЛС (vk.com/unturned_hgm, vk.com/hemulgm)
+17.06.2017 11:39:51: Не обработано: MessageAnnouncer >> Если модератор ведёт себя неподобающе, пишите в группу или ЛС (vk.com/unturned_hgm, vk.com/hemulgm)
+17.06.2017 11:39:51: Не обработано: VehicleEvents >> Broadcast: Брошенный квадроцикл в Camano Campground! Найди его и он твой!
+17.06.2017 11:39:51: Не обработано: MessageAnnouncer >> Broadcast: vk.com/hemulgm - ЕДИНСТВЕННЫЙ администратор сервера
+17.06.2017 11:39:51: Не обработано: MessageAnnouncer >> vk.com/hemulgm - ЕДИНСТВЕННЫЙ администратор сервера
+17.06.2017 11:39:51: Не обработано: MessageAnnouncer >> Broadcast: Используйте /report [ник], чтобы отправить жалобу на игрока
+17.06.2017 11:39:51: Не обработано: MessageAnnouncer >> Используйте /report [ник], чтобы отправить жалобу на игрока
+17.06.2017 11:39:51: Не обработано: MessageAnnouncer >> Broadcast: Наберите /rules (/r) для просмотра правил
+17.06.2017 11:39:51: Не обработано: MessageAnnouncer >> Наберите /rules (/r) для просмотра правил
+17.06.2017 11:39:51: Не обработано: KiLeR00707 moved x:843.8375 y:86.81194(+48.16507) z:-483.6911 in the last second (0.09999847)
+17.06.2017 11:39:51: Не обработано: MessageAnnouncer >> Broadcast: Добро пожаловать на HEMULGM.RU. Тут рады вам больше, чем на любом другом сервере!
+17.06.2017 11:39:51: Не обработано: MessageAnnouncer >> Добро пожаловать на HEMULGM.RU. Тут рады вам больше, чем на любом другом сервере!
+17.06.2017 11:39:51: Не обработано: MessageAnnouncer >> Broadcast: Наберите /kit start, чтобы получить стартовый набор (еда, вода, топор)
+17.06.2017 11:39:51: Не обработано: MessageAnnouncer >> Наберите /kit start, чтобы получить стартовый набор (еда, вода, топор)
+17.06.2017 11:39:51: Не обработано: VehicleEvents >> Vehicle has been despawned
+17.06.2017 11:39:51: Не обработано: MessageAnnouncer >> Broadcast: Внимание! PvP-режим по субботам! PvP-режим!!!
+17.06.2017 11:39:51: Не обработано: MessageAnnouncer >> Внимание! PvP-режим по субботам! PvP-режим!!!
+17.06.2017 11:39:51: Не обработано: KiLeR00707 moved x:843.8375 y:86.94987(+48.0491) z:-483.6911 in the last second (0.2379227)
+17.06.2017 11:39:51: Не обработано: PlayerInfoLib >> No expired player info records found for this batch.
+17.06.2017 11:39:51: Не обработано: MessageAnnouncer >> Broadcast: vk.com/unturned_hgm - группа сервера ВК, уникальный кит в записи!
+17.06.2017 11:39:51: Не обработано: MessageAnnouncer >> vk.com/unturned_hgm - группа сервера ВК, уникальный кит в записи!
+17.06.2017 11:39:52: Не обработано: MessageAnnouncer >> Broadcast: Наберите /kit help, чтобы получить первую мед. помощь (бинты, таблетки, еда)
+17.06.2017 11:39:52: Не обработано: MessageAnnouncer >> Наберите /kit help, чтобы получить первую мед. помощь (бинты, таблетки, еда)
+17.06.2017 11:39:52: Не обработано: DropManager >> 3
+17.06.2017 11:39:52: Не обработано: Sans_super [alex.prit4in2015] bled to death!
+17.06.2017 11:39:52: Не обработано: MessageAnnouncer >> Broadcast: vk.com/unturned_hgm - цены на премиум, VIP и другие услуги смотрите в группе!
+17.06.2017 11:39:52: Не обработано: MessageAnnouncer >> vk.com/unturned_hgm - цены на премиум, VIP и другие услуги смотрите в группе!
+17.06.2017 11:39:53: Не обработано: DropManager >> 3
+17.06.2017 11:39:53: Не обработано: kurbatoff.nikita2014 [Никита200] was shot in the head by KiLeR00707 [KiLeR00707]!
+17.06.2017 11:39:53: Не обработано: MessageAnnouncer >> Broadcast: Наберите /kit claim, чтобы получить Claim Flag
+17.06.2017 11:39:53: Не обработано: MessageAnnouncer >> Наберите /kit claim, чтобы получить Claim Flag
+17.06.2017 11:39:53: Не обработано: DropManager >> 3
+17.06.2017 11:39:53: Не обработано: Sans_super [alex.prit4in2015] was mauled by a zombie!
+17.06.2017 11:39:53: Не обработано: DropManager >> 3
+17.06.2017 11:39:53: Не обработано: Danil_Boss [Danil_Boss] was mauled by a zombie!
+17.06.2017 11:39:54: Не обработано: MessageAnnouncer >> Broadcast: Если модератор ведёт себя неподобающе, пишите в группу или ЛС (vk.com/unturned_hgm, vk.com/hemulgm)
+17.06.2017 11:39:54: Не обработано: MessageAnnouncer >> Если модератор ведёт себя неподобающе, пишите в группу или ЛС (vk.com/unturned_hgm, vk.com/hemulgm)
+17.06.2017 11:39:54: Не обработано: DropManager >> 3
+17.06.2017 11:39:54: Не обработано: Danil_Boss [Danil_Boss] was shot in the head by какаша [valera_zazhuev]!
+17.06.2017 11:39:54: Не обработано: Danil_Boss moved x:-744.4502 y:58.56762(+19.88013) z:127.2084 in the last second (0.9748459)
+17.06.2017 11:39:54: Не обработано: MessageAnnouncer >> Broadcast: vk.com/hemulgm - ЕДИНСТВЕННЫЙ администратор сервера
+17.06.2017 11:39:54: Не обработано: MessageAnnouncer >> vk.com/hemulgm - ЕДИНСТВЕННЫЙ администратор сервера
+17.06.2017 11:39:54: Не обработано: KiLeR00707 moved x:843.8375 y:86.94987(+48.27254) z:-483.6911 in the last second (0.2379227)
+17.06.2017 11:39:54: Не обработано: DropManager >> 3
+17.06.2017 11:39:54: Не обработано: Danil_Boss [Danil_Boss] killed themself.
+17.06.2017 11:39:54: Не обработано: DropManager >> 3
+17.06.2017 11:39:54: Не обработано: Danil_Boss [Danil_Boss] killed themself.
+17.06.2017 11:39:54: Не обработано: DropManager >> 3
+17.06.2017 11:39:54: Не обработано: Sans_super [alex.prit4in2015] bled to death!
+17.06.2017 11:39:54: Сохранение сервера
+17.06.2017 11:39:54: Не обработано: KiLeR00707 moved x:843.8375 y:86.94987(+16.01514) z:-483.6911 in the last second (0.2379227)
+17.06.2017 11:39:54: Не обработано: MessageAnnouncer >> Broadcast: Используйте /report [ник], чтобы отправить жалобу на игрока
+17.06.2017 11:39:54: Не обработано: MessageAnnouncer >> Используйте /report [ник], чтобы отправить жалобу на игрока
+17.06.2017 11:39:54: Не обработано: MessageAnnouncer >> Broadcast: Наберите /rules (/r) для просмотра правил
+17.06.2017 11:39:54: Не обработано: MessageAnnouncer >> Наберите /rules (/r) для просмотра правил
+17.06.2017 11:39:54: Не обработано: MessageAnnouncer >> Broadcast: Добро пожаловать на HEMULGM.RU. Тут рады вам больше, чем на любом другом сервере!
+17.06.2017 11:39:54: Не обработано: MessageAnnouncer >> Добро пожаловать на HEMULGM.RU. Тут рады вам больше, чем на любом другом сервере!
+17.06.2017 11:39:54: Не обработано: MessageAnnouncer >> Broadcast: Наберите /kit start, чтобы получить стартовый набор (еда, вода, топор)
+17.06.2017 11:39:54: Не обработано: MessageAnnouncer >> Наберите /kit start, чтобы получить стартовый набор (еда, вода, топор)
+17.06.2017 11:39:54: Не обработано: MessageAnnouncer >> Broadcast: Внимание! PvP-режим по субботам! PvP-режим!!!
+17.06.2017 11:39:54: Не обработано: MessageAnnouncer >> Внимание! PvP-режим по субботам! PvP-режим!!!
+17.06.2017 11:39:54: Не обработано: MessageAnnouncer >> Broadcast: vk.com/unturned_hgm - группа сервера ВК, уникальный кит в записи!
+17.06.2017 11:39:54: Не обработано: MessageAnnouncer >> vk.com/unturned_hgm - группа сервера ВК, уникальный кит в записи!
+17.06.2017 11:39:54: Не обработано: MessageAnnouncer >> Broadcast: Наберите /kit help, чтобы получить первую мед. помощь (бинты, таблетки, еда)
+17.06.2017 11:39:54: Не обработано: MessageAnnouncer >> Наберите /kit help, чтобы получить первую мед. помощь (бинты, таблетки, еда)
+17.06.2017 11:39:54: Не обработано: KiLeR00707 moved x:-669.9721 y:67.66518(+29.18786) z:-899.8682 in the last second (1.035248)
+17.06.2017 11:39:54: Не обработано: MessageAnnouncer >> Broadcast: vk.com/unturned_hgm - цены на премиум, VIP и другие услуги смотрите в группе!
+17.06.2017 11:39:54: Не обработано: MessageAnnouncer >> vk.com/unturned_hgm - цены на премиум, VIP и другие услуги смотрите в группе!
+17.06.2017 11:39:55: Не обработано: MessageAnnouncer >> Broadcast: Наберите /kit claim, чтобы получить Claim Flag
+17.06.2017 11:39:55: Не обработано: MessageAnnouncer >> Наберите /kit claim, чтобы получить Claim Flag
+17.06.2017 11:39:55: Не обработано: PlayerInfoLib >> No expired player info records found for this batch.
+17.06.2017 11:39:55: Не обработано: MessageAnnouncer >> Broadcast: Если модератор ведёт себя неподобающе, пишите в группу или ЛС (vk.com/unturned_hgm, vk.com/hemulgm)
+17.06.2017 11:39:55: Не обработано: MessageAnnouncer >> Если модератор ведёт себя неподобающе, пишите в группу или ЛС (vk.com/unturned_hgm, vk.com/hemulgm)
+17.06.2017 11:39:55: Не обработано: VehicleEvents >> Broadcast: Брошенный чёрный SUV в Kent Raceway! Найди его и он твой!
+17.06.2017 11:39:55: Не обработано: MessageAnnouncer >> Broadcast: vk.com/hemulgm - ЕДИНСТВЕННЫЙ администратор сервера
+17.06.2017 11:39:55: Не обработано: MessageAnnouncer >> vk.com/hemulgm - ЕДИНСТВЕННЫЙ администратор сервера
+17.06.2017 11:39:55: Не обработано: MessageAnnouncer >> Broadcast: Используйте /report [ник], чтобы отправить жалобу на игрока
+17.06.2017 11:39:55: Не обработано: MessageAnnouncer >> Используйте /report [ник], чтобы отправить жалобу на игрока
+17.06.2017 11:39:55: Не обработано: Danil_Boss moved x:98.52615 y:68.86923(+30.19189) z:-621.5306 in the last second (0.1447449)
+17.06.2017 11:39:55: Не обработано: MessageAnnouncer >> Broadcast: Наберите /rules (/r) для просмотра правил
+17.06.2017 11:39:55: Не обработано: MessageAnnouncer >> Наберите /rules (/r) для просмотра правил
+17.06.2017 11:39:55: Не обработано: MessageAnnouncer >> Broadcast: Добро пожаловать на HEMULGM.RU. Тут рады вам больше, чем на любом другом сервере!
+17.06.2017 11:39:55: Не обработано: MessageAnnouncer >> Добро пожаловать на HEMULGM.RU. Тут рады вам больше, чем на любом другом сервере!
+17.06.2017 11:39:55: Не обработано: MessageAnnouncer >> Broadcast: Наберите /kit start, чтобы получить стартовый набор (еда, вода, топор)
+17.06.2017 11:39:55: Не обработано: MessageAnnouncer >> Наберите /kit start, чтобы получить стартовый набор (еда, вода, топор)
+17.06.2017 11:39:55: Не обработано: DropManager >> 3
+17.06.2017 11:39:55: Не обработано: Sans_super [alex.prit4in2015] suffocated to death!
+17.06.2017 11:39:55: Сохранение сервера
+17.06.2017 11:39:55: Не обработано: MessageAnnouncer >> Broadcast: Внимание! PvP-режим по субботам! PvP-режим!!!
+17.06.2017 11:39:55: Не обработано: MessageAnnouncer >> Внимание! PvP-режим по субботам! PvP-режим!!!
+17.06.2017 11:39:55: Не обработано: MessageAnnouncer >> Broadcast: vk.com/unturned_hgm - группа сервера ВК, уникальный кит в записи!
+17.06.2017 11:39:55: Не обработано: MessageAnnouncer >> vk.com/unturned_hgm - группа сервера ВК, уникальный кит в записи!
+17.06.2017 11:39:55: Не обработано: MessageAnnouncer >> Broadcast: Наберите /kit help, чтобы получить первую мед. помощь (бинты, таблетки, еда)
+17.06.2017 11:39:55: Не обработано: MessageAnnouncer >> Наберите /kit help, чтобы получить первую мед. помощь (бинты, таблетки, еда)
+17.06.2017 11:39:55: Не обработано: MessageAnnouncer >> Broadcast: vk.com/unturned_hgm - цены на премиум, VIP и другие услуги смотрите в группе!
+17.06.2017 11:39:55: Не обработано: MessageAnnouncer >> vk.com/unturned_hgm - цены на премиум, VIP и другие услуги смотрите в группе!
+17.06.2017 11:39:55: Не обработано: DropManager >> 3
+17.06.2017 11:39:55: Не обработано: Danil_Boss [Danil_Boss] bled to death!
+17.06.2017 11:39:55: Не обработано: Danil_Boss moved x:-240.9533 y:68.87978(+29.48598) z:-959.582 in the last second (0.6098785)
+17.06.2017 11:39:55: Не обработано: MessageAnnouncer >> Broadcast: Наберите /kit claim, чтобы получить Claim Flag
+17.06.2017 11:39:55: Не обработано: MessageAnnouncer >> Наберите /kit claim, чтобы получить Claim Flag
+17.06.2017 11:39:55: Не обработано: MessageAnnouncer >> Broadcast: Если модератор ведёт себя неподобающе, пишите в группу или ЛС (vk.com/unturned_hgm, vk.com/hemulgm)
+17.06.2017 11:39:55: Не обработано: MessageAnnouncer >> Если модератор ведёт себя неподобающе, пишите в группу или ЛС (vk.com/unturned_hgm, vk.com/hemulgm)
+17.06.2017 11:39:55: Не обработано: MessageAnnouncer >> Broadcast: vk.com/hemulgm - ЕДИНСТВЕННЫЙ администратор сервера
+17.06.2017 11:39:55: Не обработано: MessageAnnouncer >> vk.com/hemulgm - ЕДИНСТВЕННЫЙ администратор сервера
+17.06.2017 11:39:55: Не обработано: MessageAnnouncer >> Broadcast: Используйте /report [ник], чтобы отправить жалобу на игрока
+17.06.2017 11:39:55: Не обработано: MessageAnnouncer >> Используйте /report [ник], чтобы отправить жалобу на игрока
+17.06.2017 11:39:55: Не обработано: VehicleEvents >> Broadcast: Брошенный Phantom в Paradise Point! Найди его и он твой!
+17.06.2017 11:39:55: Не обработано: MessageAnnouncer >> Broadcast: Наберите /rules (/r) для просмотра правил
+17.06.2017 11:39:55: Не обработано: MessageAnnouncer >> Наберите /rules (/r) для просмотра правил
+17.06.2017 11:39:55: Не обработано: PlayerInfoLib >> No expired player info records found for this batch.
+17.06.2017 11:39:55: Не обработано: MessageAnnouncer >> Broadcast: Добро пожаловать на HEMULGM.RU. Тут рады вам больше, чем на любом другом сервере!
+17.06.2017 11:39:55: Не обработано: MessageAnnouncer >> Добро пожаловать на HEMULGM.RU. Тут рады вам больше, чем на любом другом сервере!
+17.06.2017 11:39:55: Не обработано: MessageAnnouncer >> Broadcast: Наберите /kit start, чтобы получить стартовый набор (еда, вода, топор)
+17.06.2017 11:39:55: Не обработано: MessageAnnouncer >> Наберите /kit start, чтобы получить стартовый набор (еда, вода, топор)
+17.06.2017 11:39:55: Не обработано: MessageAnnouncer >> Broadcast: Внимание! PvP-режим по субботам! PvP-режим!!!
+17.06.2017 11:39:55: Не обработано: MessageAnnouncer >> Внимание! PvP-режим по субботам! PvP-режим!!!
+17.06.2017 11:39:55: Не обработано: MessageAnnouncer >> Broadcast: vk.com/unturned_hgm - группа сервера ВК, уникальный кит в записи!
+17.06.2017 11:39:55: Не обработано: MessageAnnouncer >> vk.com/unturned_hgm - группа сервера ВК, уникальный кит в записи!
+17.06.2017 11:39:55: Не обработано: MessageAnnouncer >> Broadcast: Наберите /kit help, чтобы получить первую мед. помощь (бинты, таблетки, еда)
+17.06.2017 11:39:55: Не обработано: MessageAnnouncer >> Наберите /kit help, чтобы получить первую мед. помощь (бинты, таблетки, еда)
+17.06.2017 11:39:55: Не обработано: MessageAnnouncer >> Broadcast: vk.com/unturned_hgm - цены на премиум, VIP и другие услуги смотрите в группе!
+17.06.2017 11:39:55: Не обработано: MessageAnnouncer >> vk.com/unturned_hgm - цены на премиум, VIP и другие услуги смотрите в группе!
+17.06.2017 11:39:55: Сохранение сервера
+17.06.2017 11:39:55: Не обработано: MessageAnnouncer >> Broadcast: Наберите /kit claim, чтобы получить Claim Flag
+17.06.2017 11:39:55: Не обработано: MessageAnnouncer >> Наберите /kit claim, чтобы получить Claim Flag
+17.06.2017 11:39:55: Не обработано: MessageAnnouncer >> Broadcast: Если модератор ведёт себя неподобающе, пишите в группу или ЛС (vk.com/unturned_hgm, vk.com/hemulgm)
+17.06.2017 11:39:55: Не обработано: MessageAnnouncer >> Если модератор ведёт себя неподобающе, пишите в группу или ЛС (vk.com/unturned_hgm, vk.com/hemulgm)
+17.06.2017 11:39:55: Не обработано: MessageAnnouncer >> Broadcast: vk.com/hemulgm - ЕДИНСТВЕННЫЙ администратор сервера
+17.06.2017 11:39:55: Не обработано: MessageAnnouncer >> vk.com/hemulgm - ЕДИНСТВЕННЫЙ администратор сервера
+17.06.2017 11:39:56: Не обработано: MessageAnnouncer >> Broadcast: Используйте /report [ник], чтобы отправить жалобу на игрока
+17.06.2017 11:39:56: Не обработано: MessageAnnouncer >> Используйте /report [ник], чтобы отправить жалобу на игрока
+17.06.2017 11:40:02: Не обработано: DropManager >> 3
+17.06.2017 11:40:02: Не обработано: Aye [Николай Петрович] was shot in the head by yelowruben [yelowruben]!
+17.06.2017 11:40:56: Не обработано: MessageAnnouncer >> Broadcast: Наберите /rules (/r) для просмотра правил
+17.06.2017 11:40:57: Не обработано: MessageAnnouncer >> Наберите /rules (/r) для просмотра правил
+17.06.2017 11:42:24: Не обработано: DropManager >> 3
+17.06.2017 11:42:24: Не обработано: Mr. Pozitiv [mufteev.gleb] killed themself.
+17.06.2017 11:42:56: Не обработано: MessageAnnouncer >> Broadcast: Добро пожаловать на HEMULGM.RU. Тут рады вам больше, чем на любом другом сервере!
+17.06.2017 11:42:57: Не обработано: MessageAnnouncer >> Добро пожаловать на HEMULGM.RU. Тут рады вам больше, чем на любом другом сервере!
+17.06.2017 11:43:24: Не обработано: DropManager >> 3
+17.06.2017 11:43:24: Не обработано: саша камолав [skomolov922] was shot in the torso by yelowruben [yelowruben]!
+17.06.2017 11:44:57: Не обработано: MessageAnnouncer >> Broadcast: Наберите /kit start, чтобы получить стартовый набор (еда, вода, топор)
+17.06.2017 11:44:57: Не обработано: MessageAnnouncer >> Наберите /kit start, чтобы получить стартовый набор (еда, вода, топор)
+17.06.2017 11:46:57: Не обработано: MessageAnnouncer >> Broadcast: Внимание! PvP-режим по субботам! PvP-режим!!!
+17.06.2017 11:46:57: Не обработано: MessageAnnouncer >> Внимание! PvP-режим по субботам! PvP-режим!!!
+17.06.2017 11:48:57: Не обработано: MessageAnnouncer >> Broadcast: vk.com/unturned_hgm - группа сервера ВК, уникальный кит в записи!
+17.06.2017 11:48:57: Не обработано: MessageAnnouncer >> vk.com/unturned_hgm - группа сервера ВК, уникальный кит в записи!
+17.06.2017 11:50:06: Не обработано: PrivateMessages >> Sorry, you haven't received a message!
+17.06.2017 11:50:52: Не обработано: PlayerInfoLib >> No expired player info records found for this batch.
+17.06.2017 11:50:57: Не обработано: MessageAnnouncer >> Broadcast: Наберите /kit help, чтобы получить первую мед. помощь (бинты, таблетки, еда)
+17.06.2017 11:50:57: Не обработано: MessageAnnouncer >> Наберите /kit help, чтобы получить первую мед. помощь (бинты, таблетки, еда)
+17.06.2017 11:51:39: Не обработано: KiLeR00707 moved x:843.8375 y:86.94987(+19.76086) z:-483.6911 in the last second (0.2379227)
+17.06.2017 11:52:24: Не обработано: DropManager >> 3
+17.06.2017 11:52:24: Не обработано: саша камолав [skomolov922] bled to death!
+17.06.2017 11:52:57: Не обработано: MessageAnnouncer >> Broadcast: vk.com/unturned_hgm - цены на премиум, VIP и другие услуги смотрите в группе!
+17.06.2017 11:52:57: Не обработано: MessageAnnouncer >> vk.com/unturned_hgm - цены на премиум, VIP и другие услуги смотрите в группе!
+17.06.2017 11:53:05: Не обработано: DropManager >> 3
+17.06.2017 11:53:05: Не обработано: EgEcEvHeR4 [gagagagaggag] bled to death!
+17.06.2017 11:54:57: Не обработано: MessageAnnouncer >> Broadcast: Наберите /kit claim, чтобы получить Claim Flag
+17.06.2017 11:54:57: Не обработано: MessageAnnouncer >> Наберите /kit claim, чтобы получить Claim Flag
+17.06.2017 11:55:27: Не обработано: DropManager >> 3
+17.06.2017 11:55:27: Не обработано: саша камолав [skomolov922] was shot in the head by yelowruben [yelowruben]!
+17.06.2017 11:55:29: Не обработано: DropManager >> 3
+17.06.2017 11:55:29: Не обработано: Aye [Николай Петрович] was shot in the arm by yelowruben [yelowruben]!
+17.06.2017 11:55:31: Не обработано: DropManager >> 3
+17.06.2017 11:55:32: Не обработано: Mr. Pozitiv [mufteev.gleb] was shot in the head by yelowruben [yelowruben]!
+17.06.2017 11:55:34: Не обработано: Mr. Pozitiv moved x:-720.9009 y:59.51276(+21.03543) z:150.1289 in the last second (1.003479)
+17.06.2017 11:55:48: Не обработано: Пипр moved x:-818.5793 y:80.34998(+45.63642) z:-952.7543 in the last second (0.05000305)
+17.06.2017 11:56:57: Не обработано: MessageAnnouncer >> Broadcast: Если модератор ведёт себя неподобающе, пишите в группу или ЛС (vk.com/unturned_hgm, vk.com/hemulgm)
+17.06.2017 11:56:57: Не обработано: MessageAnnouncer >> Если модератор ведёт себя неподобающе, пишите в группу или ЛС (vk.com/unturned_hgm, vk.com/hemulgm)
+17.06.2017 11:57:54: Не обработано: DropManager >> 3
+17.06.2017 11:57:54: Не обработано: Mr. Pozitiv [mufteev.gleb] was mauled by a zombie!
+17.06.2017 11:57:56: Не обработано: Mr. Pozitiv moved x:-720.9009 y:59.51276(+18.14627) z:150.1289 in the last second (1.003479)
+17.06.2017 11:58:07: Не обработано: DropManager >> 3
+17.06.2017 11:58:07: Не обработано: саша камолав [skomolov922] was mauled by a zombie!
+17.06.2017 11:58:10: Successfully set airdrop!
+17.06.2017 11:58:11: Successfully set airdrop!
+17.06.2017 11:58:11: Successfully set airdrop!
+17.06.2017 11:58:11: Successfully set airdrop!
+17.06.2017 11:58:11: Successfully set airdrop!
+17.06.2017 11:58:11: Successfully set airdrop!
+17.06.2017 11:58:11: Successfully set airdrop!
+17.06.2017 11:58:11: Successfully set airdrop!
+17.06.2017 11:58:11: Successfully set airdrop!
+17.06.2017 11:58:11: Successfully set airdrop!
+17.06.2017 11:58:57: Не обработано: MessageAnnouncer >> Broadcast: vk.com/hemulgm - ЕДИНСТВЕННЫЙ администратор сервера
+17.06.2017 11:58:57: Не обработано: MessageAnnouncer >> vk.com/hemulgm - ЕДИНСТВЕННЫЙ администратор сервера
+17.06.2017 11:59:48: Не обработано: DropManager >> 3
+17.06.2017 11:59:48: Не обработано: саша камолав [skomolov922] was shot in the head by Данил Макеев [Данил Макеев]!
+17.06.2017 12:00:57: Не обработано: MessageAnnouncer >> Broadcast: Используйте /report [ник], чтобы отправить жалобу на игрока
+17.06.2017 12:00:57: Не обработано: MessageAnnouncer >> Используйте /report [ник], чтобы отправить жалобу на игрока

@@ -1,0 +1,26 @@
+Не обработано: RocketRcon v2.4.8.0
+RocketRcon v2.4.8.0
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198278360341 Name: AcademeG Character: AcademeG Ping: 80
+PlayerID: 76561198391815543 Name: dinorendulic03 Character: dinorendulic03 Ping: 146
+PlayerID: 76561198326929390 Name: kuki Character: soliclukas Ping: 97
+PlayerID: 76561198254435217 Name: MKN Character: MKN Ping: 103
+PlayerID: 76561198360396058 Name: SoSi PeSoS Character: НеИзВеСтНыЙ Ping: 41
+PlayerID: 76561198152466685 Name: Blaster006 Character: Blaster006 Ping: 52
+PlayerID: 76561198349678079 Name: kuba_janiec Character: kuba_janiec Ping: 145
+PlayerID: 76561198354953801 Name: торвей Character: торвей Ping: 66
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294115458
+
+END with Bans:

@@ -1,0 +1,349 @@
+Не обработано: RocketRcon v2.4.8.0
+RocketRcon v2.4.8.0
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198123840535 Name: ?????? Character: top Ping: 97
+PlayerID: 76561198280617288 Name: Незнаю какой придумать Character: Пипр Ping: 70
+PlayerID: 76561198152563082 Name: Drakon Character: [MODER]Stanat Ping: 160
+PlayerID: 76561198346656228 Name: #Sanion# Character: Citrus Ping: 152
+PlayerID: 76561198278800086 Name: >>??<< Character: Антон Беляев Ping: 39
+PlayerID: 76561198324398740 Name: Анимешный Бурячок Character: АнимешныйБурячок Ping: 152
+PlayerID: 76561198368128006 Name: Aibek Character: Aibek [A.S.D] Ping: 101
+PlayerID: 76561198351213164 Name: _АхМеД_ Character: Виндяй Вечеслав Ping: 152
+PlayerID: 76561198336965559 Name: Bomjara Character: Bomjara Ping: 46
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 123123
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 31003895
+PlayerID: 123
+JudgeID: 0
+Reason: durila Duration: 4000 Remaining: 4294439689
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294468062
+
+TimerTerminateCommand.Enabled with Bans:
+[World] [MODER]Stanat [Drakon]: "ты сдох?"
+
+END with Bans:
+[World] АнимешныйБурячок [Анимешный Бурячок]: "/tpa Антон Беляев"
+
+[Area] Пипр [Незнаю какой придумать]: "он да"
+
+[World] [MODER]Stanat [Drakon]: "ты сдох??"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198123840535 Name: ?????? Character: top Ping: 164
+PlayerID: 76561198280617288 Name: Незнаю какой придумать Character: Пипр Ping: 54
+PlayerID: 76561198152563082 Name: Drakon Character: [MODER]Stanat Ping: 179
+PlayerID: 76561198346656228 Name: #Sanion# Character: Citrus Ping: 144
+PlayerID: 76561198278800086 Name: >>??<< Character: Антон Беляев Ping: 35
+PlayerID: 76561198324398740 Name: Анимешный Бурячок Character: АнимешныйБурячок Ping: 132
+PlayerID: 76561198368128006 Name: Aibek Character: Aibek [A.S.D] Ping: 117
+PlayerID: 76561198351213164 Name: _АхМеД_ Character: Виндяй Вечеслав Ping: 144
+PlayerID: 76561198336965559 Name: Bomjara Character: Bomjara Ping: 42
+
+TimerTerminateCommand.Enabled with Players:
+[World] top [??????]: "дддаааааа"
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 123123
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 31003874
+PlayerID: 123
+JudgeID: 0
+Reason: durila Duration: 4000 Remaining: 4294439668
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294468041
+
+TimerTerminateCommand.Enabled with Bans:
+Connecting: PlayerID: 76561198267738513 Name: anwarfaris04 Character: anwarfaris04
+
+TimerTerminateCommand.Enabled with Bans:
+[World] Bomjara [Bomjara]: "/kits"
+
+TimerTerminateCommand.Enabled with Bans:
+[World] [MODER]Stanat [Drakon]: "а где"
+
+Не обработано: [MODER]Stanat moved x:-669.5585 y:79.64304(+41.16573) z:340.9078 in the last second (0.1025162)
+TimerTerminateCommand.Enabled with Bans:
+[MODER]Stanat moved x:-669.5585 y:79.64304(+41.16573) z:340.9078 in the last second (0.1025162)
+
+TimerTerminateCommand.Enabled with Bans:
+[World] Bomjara [Bomjara]: "/lot x["
+
+END with Bans:
+[World] top [??????]: "я банкрот"
+
+[World] Bomjara [Bomjara]: "/kit xp"
+
+[Area] Пипр [Незнаю какой придумать]: "На военке"
+
+Не обработано: Пипр moved x:-667.3735 y:80.75(+42.07265) z:335.2889 in the last second (1)
+Пипр moved x:-667.3735 y:80.75(+42.07265) z:335.2889 in the last second (1)
+
+[World] Антон Беляев [>>??<<]: "/tpa accept"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198123840535 Name: ?????? Character: top Ping: 144
+PlayerID: 76561198280617288 Name: Незнаю какой придумать Character: Пипр Ping: 89
+PlayerID: 76561198152563082 Name: Drakon Character: [MODER]Stanat Ping: 140
+PlayerID: 76561198346656228 Name: #Sanion# Character: Citrus Ping: 117
+PlayerID: 76561198278800086 Name: >>??<< Character: Антон Беляев Ping: 35
+PlayerID: 76561198324398740 Name: Анимешный Бурячок Character: АнимешныйБурячок Ping: 132
+PlayerID: 76561198368128006 Name: Aibek Character: Aibek [A.S.D] Ping: 105
+PlayerID: 76561198351213164 Name: _АхМеД_ Character: Виндяй Вечеслав Ping: 82
+PlayerID: 76561198336965559 Name: Bomjara Character: Bomjara Ping: 39
+PlayerID: 76561198267738513 Name: anwarfaris04 Character: anwarfaris04 Ping: 710
+
+TimerTerminateCommand.Enabled with Players:
+[World] Bomjara [Bomjara]: "/shop"
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 123123
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 31003853
+PlayerID: 123
+JudgeID: 0
+Reason: durila Duration: 4000 Remaining: 4294439647
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294468020
+
+TimerTerminateCommand.Enabled with Bans:
+[World] Пипр [Незнаю какой придумать]: "Топ топ отдам что подобрал"
+
+END with Bans:
+[World] Пипр [Незнаю какой придумать]: "/tpa a"
+
+[World] [MODER]Stanat [Drakon]: "дак"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198123840535 Name: ?????? Character: top Ping: 105
+PlayerID: 76561198280617288 Name: Незнаю какой придумать Character: Пипр Ping: 39
+PlayerID: 76561198152563082 Name: Drakon Character: [MODER]Stanat Ping: 140
+PlayerID: 76561198346656228 Name: #Sanion# Character: Citrus Ping: 121
+PlayerID: 76561198278800086 Name: >>??<< Character: Антон Беляев Ping: 46
+PlayerID: 76561198324398740 Name: Анимешный Бурячок Character: АнимешныйБурячок Ping: 136
+PlayerID: 76561198368128006 Name: Aibek Character: Aibek [A.S.D] Ping: 97
+PlayerID: 76561198351213164 Name: _АхМеД_ Character: Виндяй Вечеслав Ping: 101
+PlayerID: 76561198336965559 Name: Bomjara Character: Bomjara Ping: 50
+PlayerID: 76561198267738513 Name: anwarfaris04 Character: anwarfaris04 Ping: 511
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 123123
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 31003835
+PlayerID: 123
+JudgeID: 0
+Reason: durila Duration: 4000 Remaining: 4294439629
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294468002
+
+END with Bans:
+Не обработано: MessageAnnouncer >> Broadcast: Используйте /report [ник], чтобы отправить жалобу на игрока
+MessageAnnouncer >> Broadcast: Используйте /report [ник], чтобы отправить жалобу на игрока
+
+Не обработано: MessageAnnouncer >> Используйте /report [ник], чтобы отправить жалобу на игрока
+MessageAnnouncer >> Используйте /report [ник], чтобы отправить жалобу на игрока
+
+[World] Виндяй Вечеслав [_АхМеД_]: "пипр я больше не буду играть на этом сервере скажи об этом никите"
+
+[World] [MODER]Stanat [Drakon]: "зачем"
+
+[World] [MODER]Stanat [Drakon]: "можно же было тп"
+
+[World] Виндяй Вечеслав [_АхМеД_]: "скажи спасибо пиздаболу"
+
+[World] Пипр [Незнаю какой придумать]: "Окей"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198123840535 Name: ?????? Character: top Ping: 125
+PlayerID: 76561198280617288 Name: Незнаю какой придумать Character: Пипр Ping: 54
+PlayerID: 76561198152563082 Name: Drakon Character: [MODER]Stanat Ping: 144
+PlayerID: 76561198346656228 Name: #Sanion# Character: Citrus Ping: 125
+PlayerID: 76561198278800086 Name: >>??<< Character: Антон Беляев Ping: 42
+PlayerID: 76561198324398740 Name: Анимешный Бурячок Character: АнимешныйБурячок Ping: 132
+PlayerID: 76561198368128006 Name: Aibek Character: Aibek [A.S.D] Ping: 97
+PlayerID: 76561198351213164 Name: _АхМеД_ Character: Виндяй Вечеслав Ping: 97
+PlayerID: 76561198336965559 Name: Bomjara Character: Bomjara Ping: 39
+PlayerID: 76561198267738513 Name: anwarfaris04 Character: anwarfaris04 Ping: 292
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 123123
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 31003815
+PlayerID: 123
+JudgeID: 0
+Reason: durila Duration: 4000 Remaining: 4294439609
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294467982
+
+END with Bans:
+Disconnecting: PlayerID: 76561198351213164 Name: _АхМеД_ Character: Виндяй Вечеслав
+
+[World] Пипр [Незнаю какой придумать]: "Но блин"
+
+[World] Пипр [Незнаю какой придумать]: "Топ тп"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198123840535 Name: ?????? Character: top Ping: 89
+PlayerID: 76561198280617288 Name: Незнаю какой придумать Character: Пипр Ping: 82
+PlayerID: 76561198152563082 Name: Drakon Character: [MODER]Stanat Ping: 140
+PlayerID: 76561198346656228 Name: #Sanion# Character: Citrus Ping: 125
+PlayerID: 76561198278800086 Name: >>??<< Character: Антон Беляев Ping: 31
+PlayerID: 76561198324398740 Name: Анимешный Бурячок Character: АнимешныйБурячок Ping: 140
+PlayerID: 76561198368128006 Name: Aibek Character: Aibek [A.S.D] Ping: 85
+PlayerID: 76561198336965559 Name: Bomjara Character: Bomjara Ping: 31
+PlayerID: 76561198267738513 Name: anwarfaris04 Character: anwarfaris04 Ping: 339
+
+Не обработано: Saving server
+TimerTerminateCommand.Enabled with Players:
+Saving server
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 123123
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 31003794
+PlayerID: 123
+JudgeID: 0
+Reason: durila Duration: 4000 Remaining: 4294439588
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294467961
+
+END with Bans:
+Connecting: PlayerID: 76561198358164867 Name: aisyahf06 Character: aisyahf06
+
+[World] Пипр [Незнаю какой придумать]: "У меня твоя отмычка"
+
+[World] top [??????]: "/tpa пипр"
+
+[World] Пипр [Незнаю какой придумать]: "/tpa a"
+
+Не обработано: top moved x:-668.4387 y:84.84225(+46.36493) z:338.1138 in the last second (0.6042557)
+top moved x:-668.4387 y:84.84225(+46.36493) z:338.1138 in the last second (0.6042557)
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198123840535 Name: ?????? Character: top Ping: 97
+PlayerID: 76561198280617288 Name: Незнаю какой придумать Character: Пипр Ping: 136
+PlayerID: 76561198152563082 Name: Drakon Character: [MODER]Stanat Ping: 136
+PlayerID: 76561198346656228 Name: #Sanion# Character: Citrus Ping: 128
+PlayerID: 76561198278800086 Name: >>??<< Character: Антон Беляев Ping: 39
+PlayerID: 76561198324398740 Name: Анимешный Бурячок Character: АнимешныйБурячок Ping: 132
+PlayerID: 76561198368128006 Name: Aibek Character: Aibek [A.S.D] Ping: 105
+PlayerID: 76561198336965559 Name: Bomjara Character: Bomjara Ping: 42
+PlayerID: 76561198267738513 Name: anwarfaris04 Character: anwarfaris04 Ping: 496
+PlayerID: 76561198358164867 Name: aisyahf06 Character: aisyahf06 Ping: 539
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 123123
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 31003775
+PlayerID: 123
+JudgeID: 0
+Reason: durila Duration: 4000 Remaining: 4294439569
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294467942
+
+END with Bans:
+[World] anwarfaris04 [anwarfaris04]: "/p"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198123840535 Name: ?????? Character: top Ping: 179
+PlayerID: 76561198280617288 Name: Незнаю какой придумать Character: Пипр Ping: 54
+PlayerID: 76561198152563082 Name: Drakon Character: [MODER]Stanat Ping: 148
+PlayerID: 76561198346656228 Name: #Sanion# Character: Citrus Ping: 144
+PlayerID: 76561198278800086 Name: >>??<< Character: Антон Беляев Ping: 35
+PlayerID: 76561198324398740 Name: Анимешный Бурячок Character: АнимешныйБурячок Ping: 152
+PlayerID: 76561198368128006 Name: Aibek Character: Aibek [A.S.D] Ping: 101
+PlayerID: 76561198336965559 Name: Bomjara Character: Bomjara Ping: 39
+PlayerID: 76561198267738513 Name: anwarfaris04 Character: anwarfaris04 Ping: 519
+PlayerID: 76561198358164867 Name: aisyahf06 Character: aisyahf06 Ping: 480
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 123123
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 31003755
+PlayerID: 123
+JudgeID: 0
+Reason: durila Duration: 4000 Remaining: 4294439549
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294467922
+
+TimerTerminateCommand.Enabled with Bans:
+[World] [MODER]Stanat [Drakon]: "блин"
+
+END with Bans:
+[World] anwarfaris04 [anwarfaris04]: "/kit hqm1"
+
+[World] Пипр [Незнаю какой придумать]: "Все у меня инвентарь был полный"
+
+Не обработано: DeathMessagesRemastered >> Broadcast: АнимешныйБурячок has killed himself!
+DeathMessagesRemastered >> Broadcast: АнимешныйБурячок has killed himself!
+
+Не обработано: АнимешныйБурячок [Анимешный Бурячок] killed themself.
+АнимешныйБурячок [Анимешный Бурячок] killed themself.
+

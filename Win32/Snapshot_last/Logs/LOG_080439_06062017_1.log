@@ -1,0 +1,25 @@
+Не обработано: RocketRcon v2.4.8.0
+RocketRcon v2.4.8.0
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198292678291 Name: WayRaX | OkriMZ YT Character: s1mple Ping: 82
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 123123
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 30966557
+PlayerID: 123
+JudgeID: 0
+Reason: durila Duration: 4000 Remaining: 4294402351
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294430724
+
+END with Bans:

@@ -1,0 +1,23 @@
+Не обработано: RocketRcon v2.4.8.0
+RocketRcon v2.4.8.0
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198151655003 Name: HemulGM Character: HemulGM Ping: 26
+PlayerID: 76561198277046351 Name: Stemax Character: Stemax Ping: 81
+PlayerID: 76561198354953801 Name: торвей Character: торвей Ping: 112
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 221
+PlayerID: 76561198318420959 Name: MAJOR Character: MAJOR Ping: 71
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294054099
+
+END with Bans:

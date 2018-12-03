@@ -1,0 +1,433 @@
+Не обработано: RocketRcon v2.4.8.0
+RocketRcon v2.4.8.0
+
+TimerTerminateCommand.Enabled with Players:
+Client has executed command "players"
+Players:
+PlayerID: 76561198280617288 Name: Незнаю какой придумать Character: Пипр Ping: 46
+PlayerID: 76561198152563082 Name: Drakon Character: [MODER]Stanat Ping: 144
+PlayerID: 76561198368128006 Name: Aibek Character: Aibek [A.S.D] Ping: 89
+PlayerID: 76561198336965559 Name: Bomjara Character: Bomjara Ping: 50
+PlayerID: 76561198363828451 Name: Ничоси Character: Кеша Ping: 35
+PlayerID: 76561198165822970 Name: Indigo Character: Indigo Ping: 46
+PlayerID: 76561198305732269 Name: Owl Character: Owl Ping: 62
+PlayerID: 76561198390891968 Name: artyr-zakirov-96 Character: alkash Ping: 74
+PlayerID: 76561198334346242 Name: мареонетка Character: [Кровавые]хмурый Ping: 128
+PlayerID: 76561198372676519 Name: Kreeperator play Character: Kreeperator play Ping: 46
+PlayerID: 76561198338916497 Name: evgeish Character: JENYA Ping: 78
+PlayerID: 76561198386134948 Name: ZAGNIAGNIA Character: zakary.tellier Ping: 109
+[World] Bomjara [Bomjara]: "что за анушка?"
+Connecting: PlayerID: 76561198278800086 Name: >>??<< Character: Антон Беляев
+
+Не обработано: DeathMessagesRemastered >> Broadcast: Kreeperator play has bled to death!
+Не обработано: Kreeperator play [Kreeperator play] bled to death!
+Не обработано: DeathMessagesRemastered >> Broadcast: zakary.tellier has been mauled by a zombie! 
+Не обработано: zakary.tellier [ZAGNIAGNIA] was mauled by a zombie!
+Не обработано: VehicleEvents >> Broadcast: Брошенный Phantom в Scorpion-7! Найди его и он твой!
+Не обработано: MessageAnnouncer >> Broadcast: Наберите /kit claim, чтобы получить Claim Flag
+Не обработано: MessageAnnouncer >> Наберите /kit claim, чтобы получить Claim Flag
+Не обработано: Owl moved x:-912.2802 y:78.48843(+23.37216) z:-539.1997 in the last second (0.09999847)
+TimerTerminateCommand.Enabled with Players:
+[World] JENYA [evgeish]: "/buy 15"
+DeathMessagesRemastered >> Broadcast: Kreeperator play has bled to death!
+Kreeperator play [Kreeperator play] bled to death!
+[World] Пипр [Незнаю какой придумать]: "Незнаю"
+[World] Пипр [Незнаю какой придумать]: "Самолет"
+[World] Bomjara [Bomjara]: "анюжка?"
+DeathMessagesRemastered >> Broadcast: zakary.tellier has been mauled by a zombie! 
+zakary.tellier [ZAGNIAGNIA] was mauled by a zombie!
+VehicleEvents >> Broadcast: Брошенный Phantom в Scorpion-7! Найди его и он твой!
+[World] [MODER]Stanat [Drakon]: "анушка"
+[World] Kreeperator play [Kreeperator play]: "/kit start"
+[World] [MODER]Stanat [Drakon]: "ан2"
+[World] Пипр [Незнаю какой придумать]: "AN2 это самолет ее называют АНушка"
+[World] JENYA [evgeish]: "стоп а тут можно выдавать пушки"
+[World] Bomjara [Bomjara]: "аааа"
+[World] JENYA [evgeish]: "/tpa a"
+[World] Indigo [Indigo]: "ребят, у кого канистра с бензином есть?"
+[Area] Кеша [Ничоси]: "/v 149"
+[World] Bomjara [Bomjara]: "по чём тут модерка?"
+MessageAnnouncer >> Broadcast: Наберите /kit claim, чтобы получить Claim Flag
+MessageAnnouncer >> Наберите /kit claim, чтобы получить Claim Flag
+[Area] Кеша [Ничоси]: "/i 146"
+[World] Owl [Owl]: "/home"
+[World] Пипр [Незнаю какой придумать]: "Вроде ее нельзя купить"
+Owl moved x:-912.2802 y:78.48843(+23.37216) z:-539.1997 in the last second (0.09999847)
+[World] Bomjara [Bomjara]: "это хорошо"
+[World] [MODER]Stanat [Drakon]: "ага)"
+
+END with Players:
+TimerTerminateCommand.Enabled with Players:
+Client has executed command "players"
+Players:
+PlayerID: 76561198280617288 Name: Незнаю какой придумать Character: Пипр Ping: 62
+PlayerID: 76561198152563082 Name: Drakon Character: [MODER]Stanat Ping: 140
+PlayerID: 76561198368128006 Name: Aibek Character: Aibek [A.S.D] Ping: 101
+PlayerID: 76561198336965559 Name: Bomjara Character: Bomjara Ping: 39
+PlayerID: 76561198363828451 Name: Ничоси Character: Кеша Ping: 39
+PlayerID: 76561198165822970 Name: Indigo Character: Indigo Ping: 66
+PlayerID: 76561198305732269 Name: Owl Character: Owl Ping: 66
+PlayerID: 76561198390891968 Name: artyr-zakirov-96 Character: alkash Ping: 66
+PlayerID: 76561198334346242 Name: мареонетка Character: [Кровавые]хмурый Ping: 140
+PlayerID: 76561198372676519 Name: Kreeperator play Character: Kreeperator play Ping: 39
+PlayerID: 76561198338916497 Name: evgeish Character: JENYA Ping: 66
+PlayerID: 76561198386134948 Name: ZAGNIAGNIA Character: zakary.tellier Ping: 125
+PlayerID: 76561198278800086 Name: >>??<< Character: Антон Беляев Ping: 35
+Disconnecting: PlayerID: 76561198278800086 Name: >>??<< Character: Антон Беляев
+
+TimerTerminateCommand.Enabled with Players:
+Client has executed command "bans"
+
+END with Players:
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 123123
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 31002815
+PlayerID: 123
+JudgeID: 0
+Reason: durila Duration: 4000 Remaining: 4294438609
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294466982
+
+TimerTerminateCommand.Enabled with Bans:
+Client has executed command "bans"
+
+END with Bans:
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 123123
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 31002815
+PlayerID: 123
+JudgeID: 0
+Reason: durila Duration: 4000 Remaining: 4294438609
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294466982
+
+END with Bans:
+[World] Bomjara [Bomjara]: "а то любой бомж, вроде меня смог бы купить её и творить всякое говно"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198280617288 Name: Незнаю какой придумать Character: Пипр Ping: 101
+PlayerID: 76561198152563082 Name: Drakon Character: [MODER]Stanat Ping: 160
+PlayerID: 76561198368128006 Name: Aibek Character: Aibek [A.S.D] Ping: 101
+PlayerID: 76561198336965559 Name: Bomjara Character: Bomjara Ping: 46
+PlayerID: 76561198363828451 Name: Ничоси Character: Кеша Ping: 42
+PlayerID: 76561198165822970 Name: Indigo Character: Indigo Ping: 82
+PlayerID: 76561198305732269 Name: Owl Character: Owl Ping: 66
+PlayerID: 76561198390891968 Name: artyr-zakirov-96 Character: alkash Ping: 66
+PlayerID: 76561198334346242 Name: мареонетка Character: [Кровавые]хмурый Ping: 109
+PlayerID: 76561198372676519 Name: Kreeperator play Character: Kreeperator play Ping: 46
+PlayerID: 76561198338916497 Name: evgeish Character: JENYA Ping: 66
+PlayerID: 76561198386134948 Name: ZAGNIAGNIA Character: zakary.tellier Ping: 97
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 123123
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 31002810
+PlayerID: 123
+JudgeID: 0
+Reason: durila Duration: 4000 Remaining: 4294438604
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294466977
+
+END with Bans:
+[World] Bomjara [Bomjara]: "под смыслом бомж, я имелл в виду человека без денег"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198280617288 Name: Незнаю какой придумать Character: Пипр Ping: 66
+PlayerID: 76561198152563082 Name: Drakon Character: [MODER]Stanat Ping: 156
+PlayerID: 76561198368128006 Name: Aibek Character: Aibek [A.S.D] Ping: 97
+PlayerID: 76561198336965559 Name: Bomjara Character: Bomjara Ping: 46
+PlayerID: 76561198363828451 Name: Ничоси Character: Кеша Ping: 46
+PlayerID: 76561198165822970 Name: Indigo Character: Indigo Ping: 78
+PlayerID: 76561198305732269 Name: Owl Character: Owl Ping: 70
+PlayerID: 76561198390891968 Name: artyr-zakirov-96 Character: alkash Ping: 70
+PlayerID: 76561198334346242 Name: мареонетка Character: [Кровавые]хмурый Ping: 113
+PlayerID: 76561198372676519 Name: Kreeperator play Character: Kreeperator play Ping: 39
+PlayerID: 76561198338916497 Name: evgeish Character: JENYA Ping: 74
+PlayerID: 76561198386134948 Name: ZAGNIAGNIA Character: zakary.tellier Ping: 113
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 123123
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 31002790
+PlayerID: 123
+JudgeID: 0
+Reason: durila Duration: 4000 Remaining: 4294438584
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294466957
+
+TimerTerminateCommand.Enabled with Bans:
+Client has executed command "say "100r za nedelyu""
+
+END with Bans:
+[World] Пипр [Незнаю какой придумать]: "Ого"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198280617288 Name: Незнаю какой придумать Character: Пипр Ping: 58
+PlayerID: 76561198152563082 Name: Drakon Character: [MODER]Stanat Ping: 171
+PlayerID: 76561198368128006 Name: Aibek Character: Aibek [A.S.D] Ping: 289
+PlayerID: 76561198336965559 Name: Bomjara Character: Bomjara Ping: 62
+PlayerID: 76561198363828451 Name: Ничоси Character: Кеша Ping: 54
+PlayerID: 76561198165822970 Name: Indigo Character: Indigo Ping: 70
+PlayerID: 76561198305732269 Name: Owl Character: Owl Ping: 70
+PlayerID: 76561198390891968 Name: artyr-zakirov-96 Character: alkash Ping: 62
+PlayerID: 76561198334346242 Name: мареонетка Character: [Кровавые]хмурый Ping: 97
+PlayerID: 76561198372676519 Name: Kreeperator play Character: Kreeperator play Ping: 46
+PlayerID: 76561198338916497 Name: evgeish Character: JENYA Ping: 70
+PlayerID: 76561198386134948 Name: ZAGNIAGNIA Character: zakary.tellier Ping: 109
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+
+TimerTerminateCommand.Enabled with Bans:
+PlayerID: 123123
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 31002770
+PlayerID: 123
+JudgeID: 0
+Reason: durila Duration: 4000 Remaining: 4294438564
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294466937
+
+TimerTerminateCommand.Enabled with Bans:
+Disconnecting: PlayerID: 76561198368128006 Name: Aibek Character: Aibek [A.S.D]
+
+END with Bans:
+[World] Bomjara [Bomjara]: "?"
+
+[World] Пипр [Незнаю какой придумать]: "Она тут продаеться?"
+
+[World] Indigo [Indigo]: "ребят, у кого бензин есть? тп киньте пж"
+
+Client has executed command "say "Da""
+
+[World] [MODER]Stanat [Drakon]: "/vehicle 133"
+
+Не обработано: Successfully gave Drakon 133!
+Successfully gave Drakon 133!
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198280617288 Name: Незнаю какой придумать Character: Пипр Ping: 70
+PlayerID: 76561198152563082 Name: Drakon Character: [MODER]Stanat Ping: 140
+PlayerID: 76561198336965559 Name: Bomjara Character: Bomjara Ping: 46
+PlayerID: 76561198363828451 Name: Ничоси Character: Кеша Ping: 35
+PlayerID: 76561198165822970 Name: Indigo Character: Indigo Ping: 66
+PlayerID: 76561198305732269 Name: Owl Character: Owl Ping: 58
+PlayerID: 76561198390891968 Name: artyr-zakirov-96 Character: alkash Ping: 66
+PlayerID: 76561198334346242 Name: мареонетка Character: [Кровавые]хмурый Ping: 117
+PlayerID: 76561198372676519 Name: Kreeperator play Character: Kreeperator play Ping: 46
+PlayerID: 76561198338916497 Name: evgeish Character: JENYA Ping: 70
+PlayerID: 76561198386134948 Name: ZAGNIAGNIA Character: zakary.tellier Ping: 105
+
+Не обработано: MessageAnnouncer >> Broadcast: Если модератор ведёт себя неподобающе, пишите в группу или ЛС (vk.com/unturned_hgm, vk.com/hemulgm)
+Не обработано: MessageAnnouncer >> Если модератор ведёт себя неподобающе, пишите в группу или ЛС (vk.com/unturned_hgm, vk.com/hemulgm)
+TimerTerminateCommand.Enabled with Players:
+MessageAnnouncer >> Broadcast: Если модератор ведёт себя неподобающе, пишите в группу или ЛС (vk.com/unturned_hgm, vk.com/hemulgm)
+MessageAnnouncer >> Если модератор ведёт себя неподобающе, пишите в группу или ЛС (vk.com/unturned_hgm, vk.com/hemulgm)
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 123123
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 31002750
+PlayerID: 123
+JudgeID: 0
+Reason: durila Duration: 4000 Remaining: 4294438544
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294466917
+
+TimerTerminateCommand.Enabled with Bans:
+[World] [MODER]Stanat [Drakon]: "ахаха"
+
+TimerTerminateCommand.Enabled with Bans:
+[World] [MODER]Stanat [Drakon]: "ахах"
+
+TimerTerminateCommand.Enabled with Bans:
+[World] [Кровавые]хмурый [мареонетка]: "443"
+
+TimerTerminateCommand.Enabled with Bans:
+[World] [MODER]Stanat [Drakon]: "ахах"
+
+END with Bans:
+[World] Пипр [Незнаю какой придумать]: "Это плохо"
+
+[World] [MODER]Stanat [Drakon]: "133"
+
+[World] Bomjara [Bomjara]: "лол"
+
+[World] Indigo [Indigo]: "админ , можешь мне канистру с бензином выдать?"
+
+[World] Bomjara [Bomjara]: "100р у неделю"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198280617288 Name: Незнаю какой придумать Character: Пипр Ping: 54
+PlayerID: 76561198152563082 Name: Drakon Character: [MODER]Stanat Ping: 140
+PlayerID: 76561198336965559 Name: Bomjara Character: Bomjara Ping: 39
+PlayerID: 76561198363828451 Name: Ничоси Character: Кеша Ping: 46
+PlayerID: 76561198165822970 Name: Indigo Character: Indigo Ping: 70
+PlayerID: 76561198305732269 Name: Owl Character: Owl Ping: 66
+PlayerID: 76561198390891968 Name: artyr-zakirov-96 Character: alkash Ping: 82
+PlayerID: 76561198334346242 Name: мареонетка Character: [Кровавые]хмурый Ping: 125
+PlayerID: 76561198372676519 Name: Kreeperator play Character: Kreeperator play Ping: 46
+PlayerID: 76561198338916497 Name: evgeish Character: JENYA Ping: 66
+PlayerID: 76561198386134948 Name: ZAGNIAGNIA Character: zakary.tellier Ping: 109
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 123123
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 31002730
+PlayerID: 123
+JudgeID: 0
+Reason: durila Duration: 4000 Remaining: 4294438524
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294466897
+
+END with Bans:
+Client has executed command "say "Net, ya zanyat""
+
+[World] Bomjara [Bomjara]: "зато на вопросы отвечаешь)"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198280617288 Name: Незнаю какой придумать Character: Пипр Ping: 54
+PlayerID: 76561198152563082 Name: Drakon Character: [MODER]Stanat Ping: 183
+PlayerID: 76561198336965559 Name: Bomjara Character: Bomjara Ping: 46
+PlayerID: 76561198363828451 Name: Ничоси Character: Кеша Ping: 42
+PlayerID: 76561198165822970 Name: Indigo Character: Indigo Ping: 85
+PlayerID: 76561198305732269 Name: Owl Character: Owl Ping: 62
+PlayerID: 76561198390891968 Name: artyr-zakirov-96 Character: alkash Ping: 66
+PlayerID: 76561198334346242 Name: мареонетка Character: [Кровавые]хмурый Ping: 121
+PlayerID: 76561198372676519 Name: Kreeperator play Character: Kreeperator play Ping: 42
+PlayerID: 76561198338916497 Name: evgeish Character: JENYA Ping: 70
+PlayerID: 76561198386134948 Name: ZAGNIAGNIA Character: zakary.tellier Ping: 105
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 123123
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 31002710
+PlayerID: 123
+JudgeID: 0
+Reason: durila Duration: 4000 Remaining: 4294438504
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294466877
+
+END with Bans:
+[World] Indigo [Indigo]: "пипр"
+
+Client has executed command "say "Prosto popalos'. Ya server-menedzher pishu""
+
+Connecting: PlayerID: 76561198302392309 Name: fatus.celine Character: Corentin Fatus
+
+[World] Пипр [Незнаю какой придумать]: "?"
+
+[World] Indigo [Indigo]: "есть бензин?"
+
+[World] Bomjara [Bomjara]: "аааа"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198280617288 Name: Незнаю какой придумать Character: Пипр Ping: 78
+PlayerID: 76561198152563082 Name: Drakon Character: [MODER]Stanat Ping: 144
+PlayerID: 76561198336965559 Name: Bomjara Character: Bomjara Ping: 46
+PlayerID: 76561198363828451 Name: Ничоси Character: Кеша Ping: 46
+PlayerID: 76561198165822970 Name: Indigo Character: Indigo Ping: 50
+PlayerID: 76561198305732269 Name: Owl Character: Owl Ping: 66
+PlayerID: 76561198390891968 Name: artyr-zakirov-96 Character: alkash Ping: 78
+PlayerID: 76561198334346242 Name: мареонетка Character: [Кровавые]хмурый Ping: 117
+PlayerID: 76561198372676519 Name: Kreeperator play Character: Kreeperator play Ping: 50
+PlayerID: 76561198338916497 Name: evgeish Character: JENYA Ping: 78
+PlayerID: 76561198386134948 Name: ZAGNIAGNIA Character: zakary.tellier Ping: 113
+PlayerID: 76561198302392309 Name: fatus.celine Character: Corentin Fatus Ping: 246
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 123123
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 31002690
+PlayerID: 123
+JudgeID: 0
+Reason: durila Duration: 4000 Remaining: 4294438484
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294466857
+
+TimerTerminateCommand.Enabled with Bans:
+[World] Corentin Fatus [fatus.celine]: "/kits"
+
+END with Bans:
+[World] Пипр [Незнаю какой придумать]: "/tpa indi"
+
+[World] Indigo [Indigo]: "ну или канистра хотя бы"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198280617288 Name: Незнаю какой придумать Character: Пипр Ping: 58
+PlayerID: 76561198152563082 Name: Drakon Character: [MODER]Stanat Ping: 144
+PlayerID: 76561198336965559 Name: Bomjara Character: Bomjara Ping: 46
+PlayerID: 76561198363828451 Name: Ничоси Character: Кеша Ping: 42
+PlayerID: 76561198165822970 Name: Indigo Character: Indigo Ping: 42
+PlayerID: 76561198305732269 Name: Owl Character: Owl Ping: 58
+PlayerID: 76561198390891968 Name: artyr-zakirov-96 Character: alkash Ping: 54
+PlayerID: 76561198334346242 Name: мареонетка Character: [Кровавые]хмурый Ping: 132
+PlayerID: 76561198372676519 Name: Kreeperator play Character: Kreeperator play Ping: 42
+PlayerID: 76561198338916497 Name: evgeish Character: JENYA Ping: 70
+PlayerID: 76561198386134948 Name: ZAGNIAGNIA Character: zakary.tellier Ping: 121
+PlayerID: 76561198302392309 Name: fatus.celine Character: Corentin Fatus Ping: 160
+

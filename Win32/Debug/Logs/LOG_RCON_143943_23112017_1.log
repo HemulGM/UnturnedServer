@@ -1,0 +1,302 @@
+RocketRcon v2.4.8.0
+
+login aVIPs22031994
+players
+Client has executed command "players"
+Players:
+PlayerID: 76561198424120093 Name: Knockout1Demscouts Character: Knockout1Demscouts Ping: 197
+PlayerID: 76561198265247601 Name: BisonbonasusPlay Character: Dmitriy Ping: 93
+
+Client has executed command "bans"
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27999191
+PlayerID: 76561198336969313
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 114424
+PlayerID: 76561198212486347
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 114755
+PlayerID: 76561198391097237
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 277242
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30879469
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30879485
+
+END
+Client has executed command "players"
+Players:
+PlayerID: 76561198424120093 Name: Knockout1Demscouts Character: Knockout1Demscouts Ping: 207
+PlayerID: 76561198265247601 Name: BisonbonasusPlay Character: Dmitriy Ping: 83
+
+END
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27999188
+PlayerID: 76561198336969313
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 114421
+PlayerID: 76561198212486347
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 114752
+PlayerID: 76561198391097237
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 277239
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30879466
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30879482
+
+END
+END
+Client has executed command "GET NOW"
+ServerControl >> VALUE NOW [0] [1] [2681]
+
+cchat "=)" 255 0 0
+Client has executed command "cchat "=)" 255 0 0"
+
+ServerControl >> Broadcast: =)
+
+Не обработано: ServerControl >> Broadcast: =)
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [1] [2689]
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [1] [2691]
+
+Client has executed command "cchat "/33/09/17/04/17/15/16 /24/05/17/05/08 20 /13. " 255 255 0"
+
+ServerControl >> Broadcast: Аирдроп через 20 м.
+
+Не обработано: ServerControl >> Broadcast: Аирдроп через 20 м.
+MessageAnnouncer >> Broadcast: vk.com/hemulgm - ЕДИНСТВЕННЫЙ администратор сервера
+MessageAnnouncer >> vk.com/hemulgm - ЕДИНСТВЕННЫЙ администратор сервера
+
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198424120093 Name: Knockout1Demscouts Character: Knockout1Demscouts Ping: 197
+PlayerID: 76561198265247601 Name: BisonbonasusPlay Character: Dmitriy Ping: 91
+
+[Group] Knockout1Demscouts [Knockout1Demscouts]: "is that you admin?"
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [1] [2699]
+
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27999167
+PlayerID: 76561198336969313
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 114400
+PlayerID: 76561198212486347
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 114731
+PlayerID: 76561198391097237
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 277218
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30879445
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30879461
+
+END
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [1] [2701]
+
+END
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [1] [2709]
+
+cchat "sure)" 255 0 0
+Client has executed command "cchat "sure)" 255 0 0"
+
+ServerControl >> Broadcast: sure)
+
+Не обработано: ServerControl >> Broadcast: sure)
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [1] [2711]
+
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198424120093 Name: Knockout1Demscouts Character: Knockout1Demscouts Ping: 191
+PlayerID: 76561198265247601 Name: BisonbonasusPlay Character: Dmitriy Ping: 87
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [1] [2719]
+
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27999147
+PlayerID: 76561198336969313
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 114380
+PlayerID: 76561198212486347
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 114711
+PlayerID: 76561198391097237
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 277198
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30879425
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30879441
+
+END
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [1] [2721]
+
+END
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [1] [2729]
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [1] [2731]
+
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198424120093 Name: Knockout1Demscouts Character: Knockout1Demscouts Ping: 197
+PlayerID: 76561198265247601 Name: BisonbonasusPlay Character: Dmitriy Ping: 91
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [1] [2739]
+
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27999127
+PlayerID: 76561198336969313
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 114360
+PlayerID: 76561198212486347
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 114691
+PlayerID: 76561198391097237
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 277178
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30879405
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30879421
+
+END
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [1] [2741]
+
+END
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [1] [2749]
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [1] [2751]
+
+MessageAnnouncer >> Broadcast: Используйте /report [ник], чтобы отправить жалобу на игрока
+
+MessageAnnouncer >> Используйте /report [ник], чтобы отправить жалобу на игрока
+
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198424120093 Name: Knockout1Demscouts Character: Knockout1Demscouts Ping: 189
+PlayerID: 76561198265247601 Name: BisonbonasusPlay Character: Dmitriy Ping: 91
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [1] [2759]
+
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27999107
+PlayerID: 76561198336969313
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 114340
+PlayerID: 76561198212486347
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 114671
+PlayerID: 76561198391097237
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 277158
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30879385
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30879401
+
+END
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [1] [2761]
+
+END
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [1] [2769]
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [1] [2771]
+
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198424120093 Name: Knockout1Demscouts Character: Knockout1Demscouts Ping: 189
+PlayerID: 76561198265247601 Name: BisonbonasusPlay Character: Dmitriy Ping: 83
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [1] [2779]
+

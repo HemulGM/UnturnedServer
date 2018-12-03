@@ -1,0 +1,1626 @@
+Не обработано: RocketRcon v2.4.8.0
+RocketRcon v2.4.8.0
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198177412437 Name: korak Character: korak Ping: 156
+PlayerID: 76561198322333587 Name: andryusha.markin.05 Character: Андрей_Маркин Ping: 39
+PlayerID: 76561198323972058 Name: PulDar Character: зомби Ping: 54
+PlayerID: 76561198137518896 Name: fitman Character: fitman Ping: 31
+PlayerID: 76561198381173735 Name: ingener_spring Character: ingener_spring Ping: 62
+PlayerID: 76561198299269413 Name: FedeN Character: FedeN Ping: 39
+PlayerID: 76561198273907057 Name: Человек Character: Vadya Ping: 46
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294291973
+
+END with Bans:
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198177412437 Name: korak Character: korak Ping: 140
+PlayerID: 76561198322333587 Name: andryusha.markin.05 Character: Андрей_Маркин Ping: 23
+PlayerID: 76561198323972058 Name: PulDar Character: зомби Ping: 85
+PlayerID: 76561198137518896 Name: fitman Character: fitman Ping: 31
+PlayerID: 76561198381173735 Name: ingener_spring Character: ingener_spring Ping: 62
+PlayerID: 76561198299269413 Name: FedeN Character: FedeN Ping: 31
+PlayerID: 76561198273907057 Name: Человек Character: Vadya Ping: 62
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294291953
+
+END with Bans:
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198177412437 Name: korak Character: korak Ping: 140
+PlayerID: 76561198322333587 Name: andryusha.markin.05 Character: Андрей_Маркин Ping: 31
+PlayerID: 76561198323972058 Name: PulDar Character: зомби Ping: 70
+PlayerID: 76561198137518896 Name: fitman Character: fitman Ping: 31
+PlayerID: 76561198381173735 Name: ingener_spring Character: ingener_spring Ping: 54
+PlayerID: 76561198299269413 Name: FedeN Character: FedeN Ping: 39
+PlayerID: 76561198273907057 Name: Человек Character: Vadya Ping: 54
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294291933
+
+END with Bans:
+Disconnecting: PlayerID: 76561198273907057 Name: Человек Character: Vadya
+
+Connecting: PlayerID: 76561198242154160 Name: killer85993 Character: killer85993
+
+Connecting: PlayerID: 76561198153817866 Name: †_Gat_Hak_† Character: GiWiSgud
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198177412437 Name: korak Character: korak Ping: 164
+PlayerID: 76561198322333587 Name: andryusha.markin.05 Character: Андрей_Маркин Ping: 23
+PlayerID: 76561198323972058 Name: PulDar Character: зомби Ping: 70
+PlayerID: 76561198137518896 Name: fitman Character: fitman Ping: 31
+PlayerID: 76561198381173735 Name: ingener_spring Character: ingener_spring Ping: 70
+PlayerID: 76561198299269413 Name: FedeN Character: FedeN Ping: 39
+PlayerID: 76561198242154160 Name: killer85993 Character: killer85993 Ping: 54
+PlayerID: 76561198153817866 Name: †_Gat_Hak_† Character: GiWiSgud Ping: 23
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294291913
+
+TimerTerminateCommand.Enabled with Bans:
+Disconnecting: PlayerID: 76561198177412437 Name: korak Character: korak
+
+END with Bans:
+Не обработано: MessageAnnouncer >> Broadcast: Добро пожаловать на HEMULGM.RU. Тут рады вам больше, чем на любом другом сервере!
+MessageAnnouncer >> Broadcast: Добро пожаловать на HEMULGM.RU. Тут рады вам больше, чем на любом другом сервере!
+
+Не обработано: MessageAnnouncer >> Добро пожаловать на HEMULGM.RU. Тут рады вам больше, чем на любом другом сервере!
+MessageAnnouncer >> Добро пожаловать на HEMULGM.RU. Тут рады вам больше, чем на любом другом сервере!
+
+Connecting: PlayerID: 76561198273907057 Name: Человек Character: Vadya
+
+Не обработано: DeathMessagesRemastered >> Broadcast: Vadya has killed himself!
+DeathMessagesRemastered >> Broadcast: Vadya has killed himself!
+
+Не обработано: Vadya [Человек] killed themself.
+Vadya [Человек] killed themself.
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198322333587 Name: andryusha.markin.05 Character: Андрей_Маркин Ping: 31
+PlayerID: 76561198323972058 Name: PulDar Character: зомби Ping: 85
+PlayerID: 76561198137518896 Name: fitman Character: fitman Ping: 39
+PlayerID: 76561198381173735 Name: ingener_spring Character: ingener_spring Ping: 54
+PlayerID: 76561198299269413 Name: FedeN Character: FedeN Ping: 70
+PlayerID: 76561198242154160 Name: killer85993 Character: killer85993 Ping: 70
+PlayerID: 76561198153817866 Name: †_Gat_Hak_† Character: GiWiSgud Ping: 46
+PlayerID: 76561198273907057 Name: Человек Character: Vadya Ping: 39
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294291893
+
+END with Bans:
+[World] Vadya [Человек]: "/tpa feden"
+
+[World] GiWiSgud [†_Gat_Hak_†]: "/kit start"
+
+[World] FedeN [FedeN]: "/tpa accept"
+
+Не обработано: Vadya moved x:530.3505 y:56.59138(+18.11406) z:302.2992 in the last second (0.6050529)
+Vadya moved x:530.3505 y:56.59138(+18.11406) z:302.2992 in the last second (0.6050529)
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198322333587 Name: andryusha.markin.05 Character: Андрей_Маркин Ping: 31
+PlayerID: 76561198323972058 Name: PulDar Character: зомби Ping: 70
+PlayerID: 76561198137518896 Name: fitman Character: fitman Ping: 31
+PlayerID: 76561198381173735 Name: ingener_spring Character: ingener_spring Ping: 62
+PlayerID: 76561198299269413 Name: FedeN Character: FedeN Ping: 46
+PlayerID: 76561198242154160 Name: killer85993 Character: killer85993 Ping: 62
+PlayerID: 76561198153817866 Name: †_Gat_Hak_† Character: GiWiSgud Ping: 46
+PlayerID: 76561198273907057 Name: Человек Character: Vadya Ping: 93
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294291873
+
+END with Bans:
+[World] Vadya [Человек]: "/kits"
+
+[World] Vadya [Человек]: "/kit start"
+
+[World] Vadya [Человек]: "/kit claim"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198322333587 Name: andryusha.markin.05 Character: Андрей_Маркин Ping: 15
+PlayerID: 76561198323972058 Name: PulDar Character: зомби Ping: 46
+PlayerID: 76561198137518896 Name: fitman Character: fitman Ping: 23
+PlayerID: 76561198381173735 Name: ingener_spring Character: ingener_spring Ping: 78
+PlayerID: 76561198299269413 Name: FedeN Character: FedeN Ping: 39
+PlayerID: 76561198242154160 Name: killer85993 Character: killer85993 Ping: 46
+PlayerID: 76561198153817866 Name: †_Gat_Hak_† Character: GiWiSgud Ping: 46
+PlayerID: 76561198273907057 Name: Человек Character: Vadya Ping: 46
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294291853
+
+END with Bans:
+[World] killer85993 [killer85993]: "/kit"
+
+[World] Vadya [Человек]: "/kit help"
+
+[World] FedeN [FedeN]: "/kit claim"
+
+[World] killer85993 [killer85993]: "/kit start"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198322333587 Name: andryusha.markin.05 Character: Андрей_Маркин Ping: 39
+PlayerID: 76561198323972058 Name: PulDar Character: зомби Ping: 78
+PlayerID: 76561198137518896 Name: fitman Character: fitman Ping: 31
+PlayerID: 76561198381173735 Name: ingener_spring Character: ingener_spring Ping: 54
+PlayerID: 76561198299269413 Name: FedeN Character: FedeN Ping: 39
+PlayerID: 76561198242154160 Name: killer85993 Character: killer85993 Ping: 39
+PlayerID: 76561198153817866 Name: †_Gat_Hak_† Character: GiWiSgud Ping: 46
+PlayerID: 76561198273907057 Name: Человек Character: Vadya Ping: 46
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294291833
+
+END with Bans:
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198322333587 Name: andryusha.markin.05 Character: Андрей_Маркин Ping: 46
+PlayerID: 76561198323972058 Name: PulDar Character: зомби Ping: 62
+PlayerID: 76561198137518896 Name: fitman Character: fitman Ping: 31
+PlayerID: 76561198381173735 Name: ingener_spring Character: ingener_spring Ping: 54
+PlayerID: 76561198299269413 Name: FedeN Character: FedeN Ping: 46
+PlayerID: 76561198242154160 Name: killer85993 Character: killer85993 Ping: 62
+PlayerID: 76561198153817866 Name: †_Gat_Hak_† Character: GiWiSgud Ping: 70
+PlayerID: 76561198273907057 Name: Человек Character: Vadya Ping: 70
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294291813
+
+END with Bans:
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198322333587 Name: andryusha.markin.05 Character: Андрей_Маркин Ping: 23
+PlayerID: 76561198323972058 Name: PulDar Character: зомби Ping: 70
+PlayerID: 76561198137518896 Name: fitman Character: fitman Ping: 31
+PlayerID: 76561198381173735 Name: ingener_spring Character: ingener_spring Ping: 62
+PlayerID: 76561198299269413 Name: FedeN Character: FedeN Ping: 31
+PlayerID: 76561198242154160 Name: killer85993 Character: killer85993 Ping: 39
+PlayerID: 76561198153817866 Name: †_Gat_Hak_† Character: GiWiSgud Ping: 78
+PlayerID: 76561198273907057 Name: Человек Character: Vadya Ping: 39
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294291793
+
+END with Bans:
+Не обработано: MessageAnnouncer >> Broadcast: Наберите /kit start, чтобы получить стартовый набор (еда, вода, топор)
+MessageAnnouncer >> Broadcast: Наберите /kit start, чтобы получить стартовый набор (еда, вода, топор)
+
+Не обработано: MessageAnnouncer >> Наберите /kit start, чтобы получить стартовый набор (еда, вода, топор)
+MessageAnnouncer >> Наберите /kit start, чтобы получить стартовый набор (еда, вода, топор)
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198322333587 Name: andryusha.markin.05 Character: Андрей_Маркин Ping: 46
+PlayerID: 76561198323972058 Name: PulDar Character: зомби Ping: 54
+PlayerID: 76561198137518896 Name: fitman Character: fitman Ping: 31
+PlayerID: 76561198381173735 Name: ingener_spring Character: ingener_spring Ping: 62
+PlayerID: 76561198299269413 Name: FedeN Character: FedeN Ping: 46
+PlayerID: 76561198242154160 Name: killer85993 Character: killer85993 Ping: 62
+PlayerID: 76561198153817866 Name: †_Gat_Hak_† Character: GiWiSgud Ping: 62
+PlayerID: 76561198273907057 Name: Человек Character: Vadya Ping: 70
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294291773
+
+END with Bans:
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198322333587 Name: andryusha.markin.05 Character: Андрей_Маркин Ping: 179
+PlayerID: 76561198323972058 Name: PulDar Character: зомби Ping: 85
+PlayerID: 76561198137518896 Name: fitman Character: fitman Ping: 31
+PlayerID: 76561198381173735 Name: ingener_spring Character: ingener_spring Ping: 54
+PlayerID: 76561198299269413 Name: FedeN Character: FedeN Ping: 31
+PlayerID: 76561198242154160 Name: killer85993 Character: killer85993 Ping: 62
+PlayerID: 76561198153817866 Name: †_Gat_Hak_† Character: GiWiSgud Ping: 39
+PlayerID: 76561198273907057 Name: Человек Character: Vadya Ping: 70
+
+TimerTerminateCommand.Enabled with Players:
+[World] FedeN [FedeN]: "/kit start"
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294291753
+
+END with Bans:
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198322333587 Name: andryusha.markin.05 Character: Андрей_Маркин Ping: 23
+PlayerID: 76561198323972058 Name: PulDar Character: зомби Ping: 54
+PlayerID: 76561198137518896 Name: fitman Character: fitman Ping: 31
+PlayerID: 76561198381173735 Name: ingener_spring Character: ingener_spring Ping: 54
+PlayerID: 76561198299269413 Name: FedeN Character: FedeN Ping: 39
+PlayerID: 76561198242154160 Name: killer85993 Character: killer85993 Ping: 70
+PlayerID: 76561198153817866 Name: †_Gat_Hak_† Character: GiWiSgud Ping: 70
+PlayerID: 76561198273907057 Name: Человек Character: Vadya Ping: 62
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294291733
+
+END with Bans:
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198322333587 Name: andryusha.markin.05 Character: Андрей_Маркин Ping: 39
+PlayerID: 76561198323972058 Name: PulDar Character: зомби Ping: 62
+PlayerID: 76561198137518896 Name: fitman Character: fitman Ping: 31
+PlayerID: 76561198381173735 Name: ingener_spring Character: ingener_spring Ping: 62
+PlayerID: 76561198299269413 Name: FedeN Character: FedeN Ping: 31
+PlayerID: 76561198242154160 Name: killer85993 Character: killer85993 Ping: 62
+PlayerID: 76561198153817866 Name: †_Gat_Hak_† Character: GiWiSgud Ping: 54
+PlayerID: 76561198273907057 Name: Человек Character: Vadya Ping: 54
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294291713
+
+END with Bans:
+Не обработано: DeathMessagesRemastered >> Broadcast: GiWiSgud has been mauled by a zombie! 
+DeathMessagesRemastered >> Broadcast: GiWiSgud has been mauled by a zombie! 
+
+Не обработано: GiWiSgud [†_Gat_Hak_†] was mauled by a zombie!
+GiWiSgud [†_Gat_Hak_†] was mauled by a zombie!
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198322333587 Name: andryusha.markin.05 Character: Андрей_Маркин Ping: 46
+PlayerID: 76561198323972058 Name: PulDar Character: зомби Ping: 70
+PlayerID: 76561198137518896 Name: fitman Character: fitman Ping: 31
+PlayerID: 76561198381173735 Name: ingener_spring Character: ingener_spring Ping: 54
+PlayerID: 76561198299269413 Name: FedeN Character: FedeN Ping: 54
+PlayerID: 76561198242154160 Name: killer85993 Character: killer85993 Ping: 46
+PlayerID: 76561198153817866 Name: †_Gat_Hak_† Character: GiWiSgud Ping: 46
+PlayerID: 76561198273907057 Name: Человек Character: Vadya Ping: 46
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294291693
+
+END with Bans:
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198322333587 Name: andryusha.markin.05 Character: Андрей_Маркин Ping: 62
+PlayerID: 76561198323972058 Name: PulDar Character: зомби Ping: 62
+PlayerID: 76561198137518896 Name: fitman Character: fitman Ping: 31
+PlayerID: 76561198381173735 Name: ingener_spring Character: ingener_spring Ping: 62
+PlayerID: 76561198299269413 Name: FedeN Character: FedeN Ping: 39
+PlayerID: 76561198242154160 Name: killer85993 Character: killer85993 Ping: 39
+PlayerID: 76561198153817866 Name: †_Gat_Hak_† Character: GiWiSgud Ping: 46
+PlayerID: 76561198273907057 Name: Человек Character: Vadya Ping: 46
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294291673
+
+END with Bans:
+Не обработано: MessageAnnouncer >> Broadcast: Внимание! PvP-режим по субботам! PvP-режим!!!
+MessageAnnouncer >> Broadcast: Внимание! PvP-режим по субботам! PvP-режим!!!
+
+Не обработано: MessageAnnouncer >> Внимание! PvP-режим по субботам! PvP-режим!!!
+MessageAnnouncer >> Внимание! PvP-режим по субботам! PvP-режим!!!
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198322333587 Name: andryusha.markin.05 Character: Андрей_Маркин Ping: 46
+PlayerID: 76561198323972058 Name: PulDar Character: зомби Ping: 46
+PlayerID: 76561198137518896 Name: fitman Character: fitman Ping: 31
+PlayerID: 76561198381173735 Name: ingener_spring Character: ingener_spring Ping: 46
+PlayerID: 76561198299269413 Name: FedeN Character: FedeN Ping: 31
+PlayerID: 76561198242154160 Name: killer85993 Character: killer85993 Ping: 46
+PlayerID: 76561198153817866 Name: †_Gat_Hak_† Character: GiWiSgud Ping: 31
+PlayerID: 76561198273907057 Name: Человек Character: Vadya Ping: 46
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294291653
+
+END with Bans:
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198322333587 Name: andryusha.markin.05 Character: Андрей_Маркин Ping: 15
+PlayerID: 76561198323972058 Name: PulDar Character: зомби Ping: 62
+PlayerID: 76561198137518896 Name: fitman Character: fitman Ping: 31
+PlayerID: 76561198381173735 Name: ingener_spring Character: ingener_spring Ping: 46
+PlayerID: 76561198299269413 Name: FedeN Character: FedeN Ping: 31
+PlayerID: 76561198242154160 Name: killer85993 Character: killer85993 Ping: 46
+PlayerID: 76561198153817866 Name: †_Gat_Hak_† Character: GiWiSgud Ping: 46
+PlayerID: 76561198273907057 Name: Человек Character: Vadya Ping: 54
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294291633
+
+END with Bans:
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198322333587 Name: andryusha.markin.05 Character: Андрей_Маркин Ping: 39
+PlayerID: 76561198323972058 Name: PulDar Character: зомби Ping: 62
+PlayerID: 76561198137518896 Name: fitman Character: fitman Ping: 31
+PlayerID: 76561198381173735 Name: ingener_spring Character: ingener_spring Ping: 62
+PlayerID: 76561198299269413 Name: FedeN Character: FedeN Ping: 39
+PlayerID: 76561198242154160 Name: killer85993 Character: killer85993 Ping: 39
+PlayerID: 76561198153817866 Name: †_Gat_Hak_† Character: GiWiSgud Ping: 54
+PlayerID: 76561198273907057 Name: Человек Character: Vadya Ping: 46
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294291613
+
+END with Bans:
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198322333587 Name: andryusha.markin.05 Character: Андрей_Маркин Ping: 31
+PlayerID: 76561198323972058 Name: PulDar Character: зомби Ping: 62
+PlayerID: 76561198137518896 Name: fitman Character: fitman Ping: 23
+PlayerID: 76561198381173735 Name: ingener_spring Character: ingener_spring Ping: 62
+PlayerID: 76561198299269413 Name: FedeN Character: FedeN Ping: 31
+PlayerID: 76561198242154160 Name: killer85993 Character: killer85993 Ping: 39
+PlayerID: 76561198153817866 Name: †_Gat_Hak_† Character: GiWiSgud Ping: 39
+PlayerID: 76561198273907057 Name: Человек Character: Vadya Ping: 46
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294291593
+
+TimerTerminateCommand.Enabled with Bans:
+[World] GiWiSgud [†_Gat_Hak_†]: "/kit start"
+
+END with Bans:
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198322333587 Name: andryusha.markin.05 Character: Андрей_Маркин Ping: 31
+PlayerID: 76561198323972058 Name: PulDar Character: зомби Ping: 109
+PlayerID: 76561198137518896 Name: fitman Character: fitman Ping: 31
+PlayerID: 76561198381173735 Name: ingener_spring Character: ingener_spring Ping: 54
+PlayerID: 76561198299269413 Name: FedeN Character: FedeN Ping: 39
+PlayerID: 76561198242154160 Name: killer85993 Character: killer85993 Ping: 39
+PlayerID: 76561198153817866 Name: †_Gat_Hak_† Character: GiWiSgud Ping: 46
+PlayerID: 76561198273907057 Name: Человек Character: Vadya Ping: 54
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294291573
+
+END with Bans:
+Не обработано: Saving server
+Saving server
+
+Не обработано: PlayerInfoLib >> No expired player info records found for this batch.
+PlayerInfoLib >> No expired player info records found for this batch.
+
+[World] GiWiSgud [†_Gat_Hak_†]: "/kit bonus"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198322333587 Name: andryusha.markin.05 Character: Андрей_Маркин Ping: 54
+PlayerID: 76561198323972058 Name: PulDar Character: зомби Ping: 78
+PlayerID: 76561198137518896 Name: fitman Character: fitman Ping: 31
+PlayerID: 76561198381173735 Name: ingener_spring Character: ingener_spring Ping: 46
+PlayerID: 76561198299269413 Name: FedeN Character: FedeN Ping: 31
+PlayerID: 76561198242154160 Name: killer85993 Character: killer85993 Ping: 46
+PlayerID: 76561198153817866 Name: †_Gat_Hak_† Character: GiWiSgud Ping: 39
+PlayerID: 76561198273907057 Name: Человек Character: Vadya Ping: 62
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294291553
+
+END with Bans:
+Не обработано: MessageAnnouncer >> Broadcast: vk.com/unturned_hgm - группа сервера ВК, уникальный кит в записи!
+MessageAnnouncer >> Broadcast: vk.com/unturned_hgm - группа сервера ВК, уникальный кит в записи!
+
+Не обработано: MessageAnnouncer >> vk.com/unturned_hgm - группа сервера ВК, уникальный кит в записи!
+MessageAnnouncer >> vk.com/unturned_hgm - группа сервера ВК, уникальный кит в записи!
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198322333587 Name: andryusha.markin.05 Character: Андрей_Маркин Ping: 70
+PlayerID: 76561198323972058 Name: PulDar Character: зомби Ping: 70
+PlayerID: 76561198137518896 Name: fitman Character: fitman Ping: 31
+PlayerID: 76561198381173735 Name: ingener_spring Character: ingener_spring Ping: 54
+PlayerID: 76561198299269413 Name: FedeN Character: FedeN Ping: 31
+PlayerID: 76561198242154160 Name: killer85993 Character: killer85993 Ping: 54
+PlayerID: 76561198153817866 Name: †_Gat_Hak_† Character: GiWiSgud Ping: 39
+PlayerID: 76561198273907057 Name: Человек Character: Vadya Ping: 70
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294291533
+
+END with Bans:
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198322333587 Name: andryusha.markin.05 Character: Андрей_Маркин Ping: 62
+PlayerID: 76561198323972058 Name: PulDar Character: зомби Ping: 54
+PlayerID: 76561198137518896 Name: fitman Character: fitman Ping: 31
+PlayerID: 76561198381173735 Name: ingener_spring Character: ingener_spring Ping: 54
+PlayerID: 76561198299269413 Name: FedeN Character: FedeN Ping: 70
+PlayerID: 76561198242154160 Name: killer85993 Character: killer85993 Ping: 46
+PlayerID: 76561198153817866 Name: †_Gat_Hak_† Character: GiWiSgud Ping: 46
+PlayerID: 76561198273907057 Name: Человек Character: Vadya Ping: 54
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294291513
+
+END with Bans:
+Disconnecting: PlayerID: 76561198153817866 Name: †_Gat_Hak_† Character: GiWiSgud
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198322333587 Name: andryusha.markin.05 Character: Андрей_Маркин Ping: 39
+PlayerID: 76561198323972058 Name: PulDar Character: зомби Ping: 70
+PlayerID: 76561198137518896 Name: fitman Character: fitman Ping: 31
+PlayerID: 76561198381173735 Name: ingener_spring Character: ingener_spring Ping: 62
+PlayerID: 76561198299269413 Name: FedeN Character: FedeN Ping: 39
+PlayerID: 76561198242154160 Name: killer85993 Character: killer85993 Ping: 39
+PlayerID: 76561198273907057 Name: Человек Character: Vadya Ping: 54
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294291493
+
+END with Bans:
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198322333587 Name: andryusha.markin.05 Character: Андрей_Маркин Ping: 54
+PlayerID: 76561198323972058 Name: PulDar Character: зомби Ping: 62
+PlayerID: 76561198137518896 Name: fitman Character: fitman Ping: 31
+PlayerID: 76561198381173735 Name: ingener_spring Character: ingener_spring Ping: 62
+PlayerID: 76561198299269413 Name: FedeN Character: FedeN Ping: 39
+PlayerID: 76561198242154160 Name: killer85993 Character: killer85993 Ping: 46
+PlayerID: 76561198273907057 Name: Человек Character: Vadya Ping: 46
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294291473
+
+END with Bans:
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198322333587 Name: andryusha.markin.05 Character: Андрей_Маркин Ping: 54
+PlayerID: 76561198323972058 Name: PulDar Character: зомби Ping: 117
+PlayerID: 76561198137518896 Name: fitman Character: fitman Ping: 31
+PlayerID: 76561198381173735 Name: ingener_spring Character: ingener_spring Ping: 54
+PlayerID: 76561198299269413 Name: FedeN Character: FedeN Ping: 54
+PlayerID: 76561198242154160 Name: killer85993 Character: killer85993 Ping: 70
+PlayerID: 76561198273907057 Name: Человек Character: Vadya Ping: 62
+
+TimerTerminateCommand.Enabled with Players:
+Connecting: PlayerID: 76561198153817866 Name: †_Gat_Hak_† Character: GiWiSgud
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294291451
+
+END with Bans:
+[World] ingener_spring [ingener_spring]: "обменяю квадрик на вакцыну"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198322333587 Name: andryusha.markin.05 Character: Андрей_Маркин Ping: 31
+PlayerID: 76561198323972058 Name: PulDar Character: зомби Ping: 62
+PlayerID: 76561198137518896 Name: fitman Character: fitman Ping: 31
+PlayerID: 76561198381173735 Name: ingener_spring Character: ingener_spring Ping: 54
+PlayerID: 76561198299269413 Name: FedeN Character: FedeN Ping: 46
+PlayerID: 76561198242154160 Name: killer85993 Character: killer85993 Ping: 54
+PlayerID: 76561198273907057 Name: Человек Character: Vadya Ping: 70
+PlayerID: 76561198153817866 Name: †_Gat_Hak_† Character: GiWiSgud Ping: 46
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294291433
+
+END with Bans:
+Не обработано: MessageAnnouncer >> Broadcast: Наберите /kit help, чтобы получить первую мед. помощь (бинты, таблетки, еда)
+MessageAnnouncer >> Broadcast: Наберите /kit help, чтобы получить первую мед. помощь (бинты, таблетки, еда)
+
+Не обработано: MessageAnnouncer >> Наберите /kit help, чтобы получить первую мед. помощь (бинты, таблетки, еда)
+MessageAnnouncer >> Наберите /kit help, чтобы получить первую мед. помощь (бинты, таблетки, еда)
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198322333587 Name: andryusha.markin.05 Character: Андрей_Маркин Ping: 70
+PlayerID: 76561198323972058 Name: PulDar Character: зомби Ping: 62
+PlayerID: 76561198137518896 Name: fitman Character: fitman Ping: 31
+PlayerID: 76561198381173735 Name: ingener_spring Character: ingener_spring Ping: 54
+PlayerID: 76561198299269413 Name: FedeN Character: FedeN Ping: 39
+PlayerID: 76561198242154160 Name: killer85993 Character: killer85993 Ping: 39
+PlayerID: 76561198273907057 Name: Человек Character: Vadya Ping: 54
+PlayerID: 76561198153817866 Name: †_Gat_Hak_† Character: GiWiSgud Ping: 93
+
+TimerTerminateCommand.Enabled with Players:
+[World] FedeN [FedeN]: "/kit"
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294291411
+
+END with Bans:
+[World] GiWiSgud [†_Gat_Hak_†]: "/kit help"
+
+[World] killer85993 [killer85993]: "/kit help"
+
+Disconnecting: PlayerID: 76561198381173735 Name: ingener_spring Character: ingener_spring
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198322333587 Name: andryusha.markin.05 Character: Андрей_Маркин Ping: 54
+PlayerID: 76561198323972058 Name: PulDar Character: зомби Ping: 70
+PlayerID: 76561198137518896 Name: fitman Character: fitman Ping: 23
+PlayerID: 76561198299269413 Name: FedeN Character: FedeN Ping: 39
+PlayerID: 76561198242154160 Name: killer85993 Character: killer85993 Ping: 39
+PlayerID: 76561198273907057 Name: Человек Character: Vadya Ping: 54
+PlayerID: 76561198153817866 Name: †_Gat_Hak_† Character: GiWiSgud Ping: 62
+
+TimerTerminateCommand.Enabled with Players:
+[World] FedeN [FedeN]: "/kit start"
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294291392
+
+END with Bans:
+[World] FedeN [FedeN]: "/kit claim"
+
+[World] FedeN [FedeN]: "/kit halp"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198322333587 Name: andryusha.markin.05 Character: Андрей_Маркин Ping: 15
+PlayerID: 76561198323972058 Name: PulDar Character: зомби Ping: 70
+PlayerID: 76561198137518896 Name: fitman Character: fitman Ping: 23
+PlayerID: 76561198299269413 Name: FedeN Character: FedeN Ping: 39
+PlayerID: 76561198242154160 Name: killer85993 Character: killer85993 Ping: 31
+PlayerID: 76561198273907057 Name: Человек Character: Vadya Ping: 234
+PlayerID: 76561198153817866 Name: †_Gat_Hak_† Character: GiWiSgud Ping: 46
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294291373
+
+END with Bans:
+[World] FedeN [FedeN]: "/kit help"
+
+Connecting: PlayerID: 76561198263186359 Name: Banana Character: Banana
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198322333587 Name: andryusha.markin.05 Character: Андрей_Маркин Ping: 54
+PlayerID: 76561198323972058 Name: PulDar Character: зомби Ping: 46
+PlayerID: 76561198137518896 Name: fitman Character: fitman Ping: 31
+PlayerID: 76561198299269413 Name: FedeN Character: FedeN Ping: 54
+PlayerID: 76561198242154160 Name: killer85993 Character: killer85993 Ping: 62
+PlayerID: 76561198273907057 Name: Человек Character: Vadya Ping: 62
+PlayerID: 76561198153817866 Name: †_Gat_Hak_† Character: GiWiSgud Ping: 70
+PlayerID: 76561198263186359 Name: Banana Character: Banana Ping: 62
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294291353
+
+END with Bans:
+[World] Banana [Banana]: "/kits"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198322333587 Name: andryusha.markin.05 Character: Андрей_Маркин Ping: 31
+PlayerID: 76561198323972058 Name: PulDar Character: зомби Ping: 54
+PlayerID: 76561198137518896 Name: fitman Character: fitman Ping: 31
+PlayerID: 76561198299269413 Name: FedeN Character: FedeN Ping: 39
+PlayerID: 76561198242154160 Name: killer85993 Character: killer85993 Ping: 54
+PlayerID: 76561198273907057 Name: Человек Character: Vadya Ping: 70
+PlayerID: 76561198153817866 Name: †_Gat_Hak_† Character: GiWiSgud Ping: 218
+PlayerID: 76561198263186359 Name: Banana Character: Banana Ping: 39
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294291333
+
+END with Bans:
+Disconnecting: PlayerID: 76561198263186359 Name: Banana Character: Banana
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198322333587 Name: andryusha.markin.05 Character: Андрей_Маркин Ping: 31
+PlayerID: 76561198323972058 Name: PulDar Character: зомби Ping: 54
+PlayerID: 76561198137518896 Name: fitman Character: fitman Ping: 31
+PlayerID: 76561198299269413 Name: FedeN Character: FedeN Ping: 39
+PlayerID: 76561198242154160 Name: killer85993 Character: killer85993 Ping: 54
+PlayerID: 76561198273907057 Name: Человек Character: Vadya Ping: 62
+PlayerID: 76561198153817866 Name: †_Gat_Hak_† Character: GiWiSgud Ping: 54
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294291313
+
+END with Bans:
+Не обработано: MessageAnnouncer >> Broadcast: vk.com/unturned_hgm - цены на премиум, VIP и другие услуги смотрите в группе!
+MessageAnnouncer >> Broadcast: vk.com/unturned_hgm - цены на премиум, VIP и другие услуги смотрите в группе!
+
+Не обработано: MessageAnnouncer >> vk.com/unturned_hgm - цены на премиум, VIP и другие услуги смотрите в группе!
+MessageAnnouncer >> vk.com/unturned_hgm - цены на премиум, VIP и другие услуги смотрите в группе!
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198322333587 Name: andryusha.markin.05 Character: Андрей_Маркин Ping: 46
+PlayerID: 76561198323972058 Name: PulDar Character: зомби Ping: 62
+PlayerID: 76561198137518896 Name: fitman Character: fitman Ping: 31
+PlayerID: 76561198299269413 Name: FedeN Character: FedeN Ping: 31
+PlayerID: 76561198242154160 Name: killer85993 Character: killer85993 Ping: 62
+PlayerID: 76561198273907057 Name: Человек Character: Vadya Ping: 54
+PlayerID: 76561198153817866 Name: †_Gat_Hak_† Character: GiWiSgud Ping: 39
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294291293
+
+END with Bans:
+Connecting: PlayerID: 76561198381173735 Name: ingener_spring Character: ingener_spring
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198322333587 Name: andryusha.markin.05 Character: Андрей_Маркин Ping: 23
+PlayerID: 76561198323972058 Name: PulDar Character: зомби Ping: 54
+PlayerID: 76561198137518896 Name: fitman Character: fitman Ping: 31
+PlayerID: 76561198299269413 Name: FedeN Character: FedeN Ping: 39
+PlayerID: 76561198242154160 Name: killer85993 Character: killer85993 Ping: 46
+PlayerID: 76561198273907057 Name: Человек Character: Vadya Ping: 54
+PlayerID: 76561198153817866 Name: †_Gat_Hak_† Character: GiWiSgud Ping: 39
+PlayerID: 76561198381173735 Name: ingener_spring Character: ingener_spring Ping: 351
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294291273
+
+END with Bans:
+Disconnecting: PlayerID: 76561198323972058 Name: PulDar Character: зомби
+
+Connecting: PlayerID: 76561198280617288 Name: Незнаю какой придумать Character: Пипр
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198322333587 Name: andryusha.markin.05 Character: Андрей_Маркин Ping: 31
+PlayerID: 76561198137518896 Name: fitman Character: fitman Ping: 23
+PlayerID: 76561198299269413 Name: FedeN Character: FedeN Ping: 31
+PlayerID: 76561198242154160 Name: killer85993 Character: killer85993 Ping: 39
+PlayerID: 76561198273907057 Name: Человек Character: Vadya Ping: 54
+PlayerID: 76561198153817866 Name: †_Gat_Hak_† Character: GiWiSgud Ping: 46
+PlayerID: 76561198381173735 Name: ingener_spring Character: ingener_spring Ping: 54
+PlayerID: 76561198280617288 Name: Незнаю какой придумать Character: Пипр Ping: 351
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294291253
+
+END with Bans:
+Disconnecting: PlayerID: 76561198137518896 Name: fitman Character: fitman
+
+[World] ingener_spring [ingener_spring]: "обменяю вакцыну на квадрик тп"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198322333587 Name: andryusha.markin.05 Character: Андрей_Маркин Ping: 70
+PlayerID: 76561198299269413 Name: FedeN Character: FedeN Ping: 39
+PlayerID: 76561198242154160 Name: killer85993 Character: killer85993 Ping: 46
+PlayerID: 76561198273907057 Name: Человек Character: Vadya Ping: 54
+PlayerID: 76561198153817866 Name: †_Gat_Hak_† Character: GiWiSgud Ping: 31
+PlayerID: 76561198381173735 Name: ingener_spring Character: ingener_spring Ping: 62
+PlayerID: 76561198280617288 Name: Незнаю какой придумать Character: Пипр Ping: 453
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294291233
+
+END with Bans:
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198322333587 Name: andryusha.markin.05 Character: Андрей_Маркин Ping: 39
+PlayerID: 76561198299269413 Name: FedeN Character: FedeN Ping: 39
+PlayerID: 76561198242154160 Name: killer85993 Character: killer85993 Ping: 54
+PlayerID: 76561198273907057 Name: Человек Character: Vadya Ping: 46
+PlayerID: 76561198153817866 Name: †_Gat_Hak_† Character: GiWiSgud Ping: 54
+PlayerID: 76561198381173735 Name: ingener_spring Character: ingener_spring Ping: 70
+PlayerID: 76561198280617288 Name: Незнаю какой придумать Character: Пипр Ping: 31
+
+TimerTerminateCommand.Enabled with Players:
+[World] Пипр [Незнаю какой придумать]: "Я тебе вакцыну а ты мне квадрик да?"
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294291211
+
+END with Bans:
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198322333587 Name: andryusha.markin.05 Character: Андрей_Маркин Ping: 23
+PlayerID: 76561198299269413 Name: FedeN Character: FedeN Ping: 31
+PlayerID: 76561198242154160 Name: killer85993 Character: killer85993 Ping: 54
+PlayerID: 76561198273907057 Name: Человек Character: Vadya Ping: 39
+PlayerID: 76561198153817866 Name: †_Gat_Hak_† Character: GiWiSgud Ping: 39
+PlayerID: 76561198381173735 Name: ingener_spring Character: ingener_spring Ping: 70
+PlayerID: 76561198280617288 Name: Незнаю какой придумать Character: Пипр Ping: 39
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294291193
+
+END with Bans:
+Не обработано: MessageAnnouncer >> Broadcast: Наберите /kit claim, чтобы получить Claim Flag
+MessageAnnouncer >> Broadcast: Наберите /kit claim, чтобы получить Claim Flag
+
+Не обработано: MessageAnnouncer >> Наберите /kit claim, чтобы получить Claim Flag
+MessageAnnouncer >> Наберите /kit claim, чтобы получить Claim Flag
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198322333587 Name: andryusha.markin.05 Character: Андрей_Маркин Ping: 39
+PlayerID: 76561198299269413 Name: FedeN Character: FedeN Ping: 39
+PlayerID: 76561198242154160 Name: killer85993 Character: killer85993 Ping: 54
+PlayerID: 76561198273907057 Name: Человек Character: Vadya Ping: 117
+PlayerID: 76561198153817866 Name: †_Gat_Hak_† Character: GiWiSgud Ping: 46
+PlayerID: 76561198381173735 Name: ingener_spring Character: ingener_spring Ping: 70
+PlayerID: 76561198280617288 Name: Незнаю какой придумать Character: Пипр Ping: 54
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294291173
+
+END with Bans:
+[World] ingener_spring [ingener_spring]: "нет я тебе вакцыту а ты мне квадрик"
+
+[World] GiWiSgud [†_Gat_Hak_†]: "/kit claim"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198322333587 Name: andryusha.markin.05 Character: Андрей_Маркин Ping: 23
+PlayerID: 76561198299269413 Name: FedeN Character: FedeN Ping: 31
+PlayerID: 76561198242154160 Name: killer85993 Character: killer85993 Ping: 54
+PlayerID: 76561198273907057 Name: Человек Character: Vadya Ping: 62
+PlayerID: 76561198153817866 Name: †_Gat_Hak_† Character: GiWiSgud Ping: 46
+PlayerID: 76561198381173735 Name: ingener_spring Character: ingener_spring Ping: 62
+PlayerID: 76561198280617288 Name: Незнаю какой придумать Character: Пипр Ping: 46
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294291153
+
+END with Bans:
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198322333587 Name: andryusha.markin.05 Character: Андрей_Маркин Ping: 15
+PlayerID: 76561198299269413 Name: FedeN Character: FedeN Ping: 46
+PlayerID: 76561198242154160 Name: killer85993 Character: killer85993 Ping: 62
+PlayerID: 76561198273907057 Name: Человек Character: Vadya Ping: 54
+PlayerID: 76561198153817866 Name: †_Gat_Hak_† Character: GiWiSgud Ping: 54
+PlayerID: 76561198381173735 Name: ingener_spring Character: ingener_spring Ping: 54
+PlayerID: 76561198280617288 Name: Незнаю какой придумать Character: Пипр Ping: 54
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294291133
+
+Не обработано: VehicleEvents >> Broadcast: Брошенный Luggage в Rainbridge Island! Найди его и он твой!
+TimerTerminateCommand.Enabled with Bans:
+VehicleEvents >> Broadcast: Брошенный Luggage в Rainbridge Island! Найди его и он твой!
+
+END with Bans:
+[World] ingener_spring [ingener_spring]: "и я тебе кобра бокс"
+
+[World] Пипр [Незнаю какой придумать]: "Никто тебе квадрик не даст"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198322333587 Name: andryusha.markin.05 Character: Андрей_Маркин Ping: 15
+PlayerID: 76561198299269413 Name: FedeN Character: FedeN Ping: 31
+PlayerID: 76561198242154160 Name: killer85993 Character: killer85993 Ping: 54
+PlayerID: 76561198273907057 Name: Человек Character: Vadya Ping: 54
+PlayerID: 76561198153817866 Name: †_Gat_Hak_† Character: GiWiSgud Ping: 39
+PlayerID: 76561198381173735 Name: ingener_spring Character: ingener_spring Ping: 54
+PlayerID: 76561198280617288 Name: Незнаю какой придумать Character: Пипр Ping: 46
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294291113
+
+END with Bans:
+[World] ingener_spring [ingener_spring]: "пичалька("
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198322333587 Name: andryusha.markin.05 Character: Андрей_Маркин Ping: 78
+PlayerID: 76561198299269413 Name: FedeN Character: FedeN Ping: 31
+PlayerID: 76561198242154160 Name: killer85993 Character: killer85993 Ping: 78
+PlayerID: 76561198273907057 Name: Человек Character: Vadya Ping: 46
+PlayerID: 76561198153817866 Name: †_Gat_Hak_† Character: GiWiSgud Ping: 39
+PlayerID: 76561198381173735 Name: ingener_spring Character: ingener_spring Ping: 117
+PlayerID: 76561198280617288 Name: Незнаю какой придумать Character: Пипр Ping: 54
+
+TimerTerminateCommand.Enabled with Players:
+[World] Пипр [Незнаю какой придумать]: "И + ты сказал тп, как он к тебе тп с квадриком?"
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294291091
+
+END with Bans:
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198322333587 Name: andryusha.markin.05 Character: Андрей_Маркин Ping: 31
+PlayerID: 76561198299269413 Name: FedeN Character: FedeN Ping: 46
+PlayerID: 76561198242154160 Name: killer85993 Character: killer85993 Ping: 46
+PlayerID: 76561198273907057 Name: Человек Character: Vadya Ping: 46
+PlayerID: 76561198153817866 Name: †_Gat_Hak_† Character: GiWiSgud Ping: 46
+PlayerID: 76561198381173735 Name: ingener_spring Character: ingener_spring Ping: 62
+PlayerID: 76561198280617288 Name: Незнаю какой придумать Character: Пипр Ping: 54
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294291071
+
+END with Bans:
+Не обработано: MessageAnnouncer >> Broadcast: Если модератор ведёт себя неподобающе, пишите в группу или ЛС (vk.com/unturned_hgm, vk.com/hemulgm)
+MessageAnnouncer >> Broadcast: Если модератор ведёт себя неподобающе, пишите в группу или ЛС (vk.com/unturned_hgm, vk.com/hemulgm)
+
+Не обработано: MessageAnnouncer >> Если модератор ведёт себя неподобающе, пишите в группу или ЛС (vk.com/unturned_hgm, vk.com/hemulgm)
+MessageAnnouncer >> Если модератор ведёт себя неподобающе, пишите в группу или ЛС (vk.com/unturned_hgm, vk.com/hemulgm)
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198322333587 Name: andryusha.markin.05 Character: Андрей_Маркин Ping: 164
+PlayerID: 76561198299269413 Name: FedeN Character: FedeN Ping: 39
+PlayerID: 76561198242154160 Name: killer85993 Character: killer85993 Ping: 39
+PlayerID: 76561198273907057 Name: Человек Character: Vadya Ping: 54
+PlayerID: 76561198153817866 Name: †_Gat_Hak_† Character: GiWiSgud Ping: 54
+PlayerID: 76561198381173735 Name: ingener_spring Character: ingener_spring Ping: 62
+PlayerID: 76561198280617288 Name: Незнаю какой придумать Character: Пипр Ping: 39
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294291051
+
+END with Bans:
+Не обработано: Rocket.CoreException in Rocket.Core: System.IO.IOException: Write failure ---> System.Net.Sockets.SocketException: Удаленный хост принудительно разорвал существующее подключение.
+Не обработано: 
+Не обработано:   at System.Net.Sockets.Socket.Send (System.Byte[] buf, Int32 offset, Int32 size, SocketFlags flags) [0x00000] in <filename unknown>:0 
+Не обработано:   at System.Net.Sockets.NetworkStream.Write (System.Byte[] buffer, Int32 offset, Int32 size) [0x00000] in <filename unknown>:0 
+Не обработано:   --- End of inner exception stack trace ---
+Не обработано:   at System.Net.Sockets.NetworkStream.Write (System.Byte[] buffer, Int32 offset, Int32 size) [0x00000] in <filename unknown>:0 
+Не обработано:   at Rocket.Core.RCON.RCONServer.Send (System.Net.Sockets.TcpClient client, System.String text) [0x00000] in <filename unknown>:0 
+Не обработано:   at Rocket.Core.RCON.RCONConnection.Send (System.String command, Boolean nonewline) [0x00000] in <filename unknown>:0 
+Не обработано:   at Rocket.Core.RCON.RCONServer.handleConnection (System.Object obj) [0x00000] in <filename unknown>:0 
+Rocket.CoreException in Rocket.Core: System.IO.IOException: Write failure ---> System.Net.Sockets.SocketException: Удаленный хост принудительно разорвал существующее подключение.
+
+  at System.Net.Sockets.Socket.Send (System.Byte[] buf, Int32 offset, Int32 size, SocketFlags flags) [0x00000] in <filename unknown>:0 
+  at System.Net.Sockets.NetworkStream.Write (System.Byte[] buffer, Int32 offset, Int32 size) [0x00000] in <filename unknown>:0 
+  --- End of inner exception stack trace ---
+  at System.Net.Sockets.NetworkStream.Write (System.Byte[] buffer, Int32 offset, Int32 size) [0x00000] in <filename unknown>:0 
+  at Rocket.Core.RCON.RCONServer.Send (System.Net.Sockets.TcpClient client, System.String text) [0x00000] in <filename unknown>:0 
+  at Rocket.Core.RCON.RCONConnection.Send (System.String command, Boolean nonewline) [0x00000] in <filename unknown>:0 
+  at Rocket.Core.RCON.RCONServer.handleConnection (System.Object obj) [0x00000] in <filename unknown>:0 
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198322333587 Name: andryusha.markin.05 Character: Андрей_Маркин Ping: 70
+PlayerID: 76561198299269413 Name: FedeN Character: FedeN Ping: 31
+PlayerID: 76561198242154160 Name: killer85993 Character: killer85993 Ping: 46
+PlayerID: 76561198273907057 Name: Человек Character: Vadya Ping: 46
+PlayerID: 76561198153817866 Name: †_Gat_Hak_† Character: GiWiSgud Ping: 31
+PlayerID: 76561198381173735 Name: ingener_spring Character: ingener_spring Ping: 54
+PlayerID: 76561198280617288 Name: Незнаю какой придумать Character: Пипр Ping: 39
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294291031
+
+END with Bans:
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198322333587 Name: andryusha.markin.05 Character: Андрей_Маркин Ping: 62
+PlayerID: 76561198299269413 Name: FedeN Character: FedeN Ping: 46
+PlayerID: 76561198242154160 Name: killer85993 Character: killer85993 Ping: 46
+PlayerID: 76561198273907057 Name: Человек Character: Vadya Ping: 109
+PlayerID: 76561198153817866 Name: †_Gat_Hak_† Character: GiWiSgud Ping: 31
+PlayerID: 76561198381173735 Name: ingener_spring Character: ingener_spring Ping: 62
+PlayerID: 76561198280617288 Name: Незнаю какой придумать Character: Пипр Ping: 281
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294291011
+
+END with Bans:
+[World] ingener_spring [ingener_spring]: "я к нему"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198322333587 Name: andryusha.markin.05 Character: Андрей_Маркин Ping: 93
+PlayerID: 76561198299269413 Name: FedeN Character: FedeN Ping: 39
+PlayerID: 76561198242154160 Name: killer85993 Character: killer85993 Ping: 54
+PlayerID: 76561198273907057 Name: Человек Character: Vadya Ping: 54
+PlayerID: 76561198153817866 Name: †_Gat_Hak_† Character: GiWiSgud Ping: 62
+PlayerID: 76561198381173735 Name: ingener_spring Character: ingener_spring Ping: 62
+PlayerID: 76561198280617288 Name: Незнаю какой придумать Character: Пипр Ping: 39
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294290991
+
+END with Bans:
+[World] killer85993 [killer85993]: "/kit weapon"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198322333587 Name: andryusha.markin.05 Character: Андрей_Маркин Ping: 39
+PlayerID: 76561198299269413 Name: FedeN Character: FedeN Ping: 39
+PlayerID: 76561198242154160 Name: killer85993 Character: killer85993 Ping: 46
+PlayerID: 76561198273907057 Name: Человек Character: Vadya Ping: 156
+PlayerID: 76561198153817866 Name: †_Gat_Hak_† Character: GiWiSgud Ping: 39
+PlayerID: 76561198381173735 Name: ingener_spring Character: ingener_spring Ping: 54
+PlayerID: 76561198280617288 Name: Незнаю какой придумать Character: Пипр Ping: 46
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294290971
+
+END with Bans:
+Client has executed command "airdrop"
+
+Не обработано: Successfully set airdrop!
+Successfully set airdrop!
+
+Client has executed command "airdrop"
+
+Не обработано: Successfully set airdrop!
+Successfully set airdrop!
+
+Client has executed command "airdrop"
+
+Не обработано: Successfully set airdrop!
+Successfully set airdrop!
+
+Client has executed command "airdrop"
+
+Не обработано: Successfully set airdrop!
+Successfully set airdrop!
+
+Client has executed command "airdrop"
+
+Не обработано: Successfully set airdrop!
+Successfully set airdrop!
+
+Client has executed command "airdrop"
+
+Не обработано: Successfully set airdrop!
+Successfully set airdrop!
+
+Client has executed command "airdrop"
+
+Не обработано: Successfully set airdrop!
+Successfully set airdrop!
+
+[World] killer85993 [killer85993]: "/kit gun"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198322333587 Name: andryusha.markin.05 Character: Андрей_Маркин Ping: 23
+PlayerID: 76561198299269413 Name: FedeN Character: FedeN Ping: 31
+PlayerID: 76561198242154160 Name: killer85993 Character: killer85993 Ping: 39
+PlayerID: 76561198273907057 Name: Человек Character: Vadya Ping: 54
+PlayerID: 76561198153817866 Name: †_Gat_Hak_† Character: GiWiSgud Ping: 31
+PlayerID: 76561198381173735 Name: ingener_spring Character: ingener_spring Ping: 62
+PlayerID: 76561198280617288 Name: Незнаю какой придумать Character: Пипр Ping: 132
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294290951
+
+END with Bans:
+Не обработано: MessageAnnouncer >> Broadcast: vk.com/hemulgm - ЕДИНСТВЕННЫЙ администратор сервера
+MessageAnnouncer >> Broadcast: vk.com/hemulgm - ЕДИНСТВЕННЫЙ администратор сервера
+
+Не обработано: MessageAnnouncer >> vk.com/hemulgm - ЕДИНСТВЕННЫЙ администратор сервера
+MessageAnnouncer >> vk.com/hemulgm - ЕДИНСТВЕННЫЙ администратор сервера
+
+[Area] Андрей_Маркин [andryusha.markin.05]: "AQHFLHJGS"
+
+[Area] Андрей_Маркин [andryusha.markin.05]: "FQHJLHJGF"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198322333587 Name: andryusha.markin.05 Character: Андрей_Маркин Ping: 250
+PlayerID: 76561198299269413 Name: FedeN Character: FedeN Ping: 39
+PlayerID: 76561198242154160 Name: killer85993 Character: killer85993 Ping: 46
+PlayerID: 76561198273907057 Name: Человек Character: Vadya Ping: 54
+PlayerID: 76561198153817866 Name: †_Gat_Hak_† Character: GiWiSgud Ping: 62
+PlayerID: 76561198381173735 Name: ingener_spring Character: ingener_spring Ping: 62
+PlayerID: 76561198280617288 Name: Незнаю какой придумать Character: Пипр Ping: 46
+
+TimerTerminateCommand.Enabled with Players:
+[World] Пипр [Незнаю какой придумать]: "Что за"
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294290930
+
+END with Bans:
+[World] Пипр [Незнаю какой придумать]: "7 самолетов"
+
+[Area] Андрей_Маркин [andryusha.markin.05]: "АЙРОДРОПА"
+
+[World] Пипр [Незнаю какой придумать]: "? аира"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198322333587 Name: andryusha.markin.05 Character: Андрей_Маркин Ping: 54
+PlayerID: 76561198299269413 Name: FedeN Character: FedeN Ping: 54
+PlayerID: 76561198242154160 Name: killer85993 Character: killer85993 Ping: 62
+PlayerID: 76561198273907057 Name: Человек Character: Vadya Ping: 54
+PlayerID: 76561198153817866 Name: †_Gat_Hak_† Character: GiWiSgud Ping: 46
+PlayerID: 76561198381173735 Name: ingener_spring Character: ingener_spring Ping: 62
+PlayerID: 76561198280617288 Name: Незнаю какой придумать Character: Пипр Ping: 46
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294290911
+
+TimerTerminateCommand.Enabled with Bans:
+[World] Пипр [Незнаю какой придумать]: "7 аирдропа"
+
+END with Bans:
+[World] ingener_spring [ingener_spring]: "я тоже офигел"
+
+[Area] Андрей_Маркин [andryusha.markin.05]: "ГДЕ ЗБРОС"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198322333587 Name: andryusha.markin.05 Character: Андрей_Маркин Ping: 46
+PlayerID: 76561198299269413 Name: FedeN Character: FedeN Ping: 46
+PlayerID: 76561198242154160 Name: killer85993 Character: killer85993 Ping: 46
+PlayerID: 76561198273907057 Name: Человек Character: Vadya Ping: 78
+PlayerID: 76561198153817866 Name: †_Gat_Hak_† Character: GiWiSgud Ping: 39
+PlayerID: 76561198381173735 Name: ingener_spring Character: ingener_spring Ping: 46
+PlayerID: 76561198280617288 Name: Незнаю какой придумать Character: Пипр Ping: 39
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294290891
+
+END with Bans:
+[Area] Андрей_Маркин [andryusha.markin.05]: "ВИЖУ"
+
+[Area] Андрей_Маркин [andryusha.markin.05]: "НАД ГЛАВНЫМ ГОРОДОМ"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198322333587 Name: andryusha.markin.05 Character: Андрей_Маркин Ping: 54
+PlayerID: 76561198299269413 Name: FedeN Character: FedeN Ping: 46
+PlayerID: 76561198242154160 Name: killer85993 Character: killer85993 Ping: 46
+PlayerID: 76561198273907057 Name: Человек Character: Vadya Ping: 54
+PlayerID: 76561198153817866 Name: †_Gat_Hak_† Character: GiWiSgud Ping: 39
+PlayerID: 76561198381173735 Name: ingener_spring Character: ingener_spring Ping: 62
+PlayerID: 76561198280617288 Name: Незнаю какой придумать Character: Пипр Ping: 171
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294290871
+
+END with Bans:
+[World] Пипр [Незнаю какой придумать]: "Админы построрались?"
+
+[World] ingener_spring [ingener_spring]: "они надомной всу чуть не столкнулися"
+
+Client has executed command "say "))))""
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198322333587 Name: andryusha.markin.05 Character: Андрей_Маркин Ping: 54
+PlayerID: 76561198299269413 Name: FedeN Character: FedeN Ping: 46
+PlayerID: 76561198242154160 Name: killer85993 Character: killer85993 Ping: 62
+PlayerID: 76561198273907057 Name: Человек Character: Vadya Ping: 62
+PlayerID: 76561198153817866 Name: †_Gat_Hak_† Character: GiWiSgud Ping: 70
+PlayerID: 76561198381173735 Name: ingener_spring Character: ingener_spring Ping: 70
+PlayerID: 76561198280617288 Name: Незнаю какой придумать Character: Пипр Ping: 46
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294290851
+
+END with Bans:
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198322333587 Name: andryusha.markin.05 Character: Андрей_Маркин Ping: 70
+PlayerID: 76561198299269413 Name: FedeN Character: FedeN Ping: 31
+PlayerID: 76561198242154160 Name: killer85993 Character: killer85993 Ping: 46
+PlayerID: 76561198273907057 Name: Человек Character: Vadya Ping: 62
+PlayerID: 76561198153817866 Name: †_Gat_Hak_† Character: GiWiSgud Ping: 46
+PlayerID: 76561198381173735 Name: ingener_spring Character: ingener_spring Ping: 54
+PlayerID: 76561198280617288 Name: Незнаю какой придумать Character: Пипр Ping: 31
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294290831
+
+END with Bans:
+Не обработано: MessageAnnouncer >> Broadcast: Используйте /report [ник], чтобы отправить жалобу на игрока
+MessageAnnouncer >> Broadcast: Используйте /report [ник], чтобы отправить жалобу на игрока
+
+Не обработано: MessageAnnouncer >> Используйте /report [ник], чтобы отправить жалобу на игрока
+MessageAnnouncer >> Используйте /report [ник], чтобы отправить жалобу на игрока
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198322333587 Name: andryusha.markin.05 Character: Андрей_Маркин Ping: 54
+PlayerID: 76561198299269413 Name: FedeN Character: FedeN Ping: 39
+PlayerID: 76561198242154160 Name: killer85993 Character: killer85993 Ping: 62
+PlayerID: 76561198273907057 Name: Человек Character: Vadya Ping: 54
+PlayerID: 76561198153817866 Name: †_Gat_Hak_† Character: GiWiSgud Ping: 39
+PlayerID: 76561198381173735 Name: ingener_spring Character: ingener_spring Ping: 54
+PlayerID: 76561198280617288 Name: Незнаю какой придумать Character: Пипр Ping: 39
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294290811
+
+END with Bans:
+Не обработано: DeathMessagesRemastered >> Broadcast: killer85993 has been mauled by a zombie! 
+DeathMessagesRemastered >> Broadcast: killer85993 has been mauled by a zombie! 
+
+Не обработано: killer85993 [killer85993] was mauled by a zombie!
+killer85993 [killer85993] was mauled by a zombie!
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198322333587 Name: andryusha.markin.05 Character: Андрей_Маркин Ping: 31
+PlayerID: 76561198299269413 Name: FedeN Character: FedeN Ping: 46
+PlayerID: 76561198242154160 Name: killer85993 Character: killer85993 Ping: 46
+PlayerID: 76561198273907057 Name: Человек Character: Vadya Ping: 54
+PlayerID: 76561198153817866 Name: †_Gat_Hak_† Character: GiWiSgud Ping: 54
+PlayerID: 76561198381173735 Name: ingener_spring Character: ingener_spring Ping: 62
+PlayerID: 76561198280617288 Name: Незнаю какой придумать Character: Пипр Ping: 156
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294290791
+
+END with Bans:

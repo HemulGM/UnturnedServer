@@ -1,0 +1,253 @@
+Не обработано: RocketRcon v2.4.8.0
+RocketRcon v2.4.8.0
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198123840535 Name: ?????? Character: top Ping: 89
+PlayerID: 76561198280617288 Name: Незнаю какой придумать Character: Пипр Ping: 50
+PlayerID: 76561198152563082 Name: Drakon Character: [MODER]Stanat Ping: 152
+PlayerID: 76561198333857605 Name: domtroll228 Character: кирилл хатунцев  Ping: 89
+PlayerID: 76561198278800086 Name: >>??<< Character: Антон Беляев Ping: 42
+PlayerID: 76561198324398740 Name: Анимешный Бурячок Character: АнимешныйБурячок Ping: 132
+PlayerID: 76561198165822970 Name: Indigo Character: Indigo Ping: 46
+PlayerID: 76561198325444258 Name: FuzzyWizard221 Character: ThatDankStalker Ping: 250
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 123123
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 31006349
+PlayerID: 123
+JudgeID: 0
+Reason: durila Duration: 4000 Remaining: 4294442143
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294470516
+
+TimerTerminateCommand.Enabled with Bans:
+[World] ThatDankStalker [FuzzyWizard221]: "/kits"
+
+TimerTerminateCommand.Enabled with Bans:
+[World] Пипр [Незнаю какой придумать]: "Товарищь модер, Давайте кататься"
+
+END with Bans:
+[World] ThatDankStalker [FuzzyWizard221]: "/kit start"
+
+Disconnecting: PlayerID: 76561198165822970 Name: Indigo Character: Indigo
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198123840535 Name: ?????? Character: top Ping: 109
+PlayerID: 76561198280617288 Name: Незнаю какой придумать Character: Пипр Ping: 50
+PlayerID: 76561198152563082 Name: Drakon Character: [MODER]Stanat Ping: 132
+PlayerID: 76561198333857605 Name: domtroll228 Character: кирилл хатунцев  Ping: 85
+PlayerID: 76561198278800086 Name: >>??<< Character: Антон Беляев Ping: 39
+PlayerID: 76561198324398740 Name: Анимешный Бурячок Character: АнимешныйБурячок Ping: 125
+PlayerID: 76561198325444258 Name: FuzzyWizard221 Character: ThatDankStalker Ping: 203
+
+TimerTerminateCommand.Enabled with Players:
+[World] [MODER]Stanat [Drakon]: "/tp пипр"
+
+Не обработано: [MODER]Stanat телепортирован к Пипр
+TimerTerminateCommand.Enabled with Players:
+[MODER]Stanat телепортирован к Пипр
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 123123
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 31006327
+PlayerID: 123
+JudgeID: 0
+Reason: durila Duration: 4000 Remaining: 4294442121
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294470494
+
+END with Bans:
+Connecting: PlayerID: 76561198364985994 Name: gubben Character: gubben
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198123840535 Name: ?????? Character: top Ping: 136
+PlayerID: 76561198280617288 Name: Незнаю какой придумать Character: Пипр Ping: 50
+PlayerID: 76561198152563082 Name: Drakon Character: [MODER]Stanat Ping: 128
+PlayerID: 76561198333857605 Name: domtroll228 Character: кирилл хатунцев  Ping: 85
+PlayerID: 76561198278800086 Name: >>??<< Character: Антон Беляев Ping: 35
+PlayerID: 76561198324398740 Name: Анимешный Бурячок Character: АнимешныйБурячок Ping: 140
+PlayerID: 76561198325444258 Name: FuzzyWizard221 Character: ThatDankStalker Ping: 222
+PlayerID: 76561198364985994 Name: gubben Character: gubben Ping: 97
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 123123
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 31006308
+PlayerID: 123
+JudgeID: 0
+Reason: durila Duration: 4000 Remaining: 4294442102
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294470475
+
+END with Bans:
+[World] [MODER]Stanat [Drakon]: "может на балидах покатаемся?"
+
+[World] Пипр [Незнаю какой придумать]: "люблю вризаться"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198123840535 Name: ?????? Character: top Ping: 125
+PlayerID: 76561198280617288 Name: Незнаю какой придумать Character: Пипр Ping: 62
+PlayerID: 76561198152563082 Name: Drakon Character: [MODER]Stanat Ping: 128
+PlayerID: 76561198333857605 Name: domtroll228 Character: кирилл хатунцев  Ping: 93
+PlayerID: 76561198278800086 Name: >>??<< Character: Антон Беляев Ping: 42
+PlayerID: 76561198324398740 Name: Анимешный Бурячок Character: АнимешныйБурячок Ping: 128
+PlayerID: 76561198325444258 Name: FuzzyWizard221 Character: ThatDankStalker Ping: 207
+PlayerID: 76561198364985994 Name: gubben Character: gubben Ping: 121
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 123123
+JudgeID: 0
+
+TimerTerminateCommand.Enabled with Bans:
+Reason: unspecified Duration: 31536000 Remaining: 31006288
+PlayerID: 123
+JudgeID: 0
+Reason: durila Duration: 4000 Remaining: 4294442082
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294470455
+
+TimerTerminateCommand.Enabled with Bans:
+[World] Пипр [Незнаю какой придумать]: "Не"
+
+END with Bans:
+[World] [MODER]Stanat [Drakon]: "го я сразу твою тачу разобью)"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198123840535 Name: ?????? Character: top Ping: 164
+PlayerID: 76561198280617288 Name: Незнаю какой придумать Character: Пипр Ping: 58
+PlayerID: 76561198152563082 Name: Drakon Character: [MODER]Stanat Ping: 148
+PlayerID: 76561198333857605 Name: domtroll228 Character: кирилл хатунцев  Ping: 85
+PlayerID: 76561198278800086 Name: >>??<< Character: Антон Беляев Ping: 31
+PlayerID: 76561198324398740 Name: Анимешный Бурячок Character: АнимешныйБурячок Ping: 140
+PlayerID: 76561198325444258 Name: FuzzyWizard221 Character: ThatDankStalker Ping: 199
+PlayerID: 76561198364985994 Name: gubben Character: gubben Ping: 140
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 123123
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 31006268
+PlayerID: 123
+JudgeID: 0
+Reason: durila Duration: 4000 Remaining: 4294442062
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294470435
+
+END with Bans:
+[World] Пипр [Незнаю какой придумать]: "Зачем?"
+
+Disconnecting: PlayerID: 76561198333857605 Name: domtroll228 Character: кирилл хатунцев 
+
+[World] Пипр [Незнаю какой придумать]: "Ненадо"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198123840535 Name: ?????? Character: top Ping: 128
+PlayerID: 76561198280617288 Name: Незнаю какой придумать Character: Пипр Ping: 42
+PlayerID: 76561198152563082 Name: Drakon Character: [MODER]Stanat Ping: 117
+PlayerID: 76561198278800086 Name: >>??<< Character: Антон Беляев Ping: 35
+PlayerID: 76561198324398740 Name: Анимешный Бурячок Character: АнимешныйБурячок Ping: 136
+PlayerID: 76561198325444258 Name: FuzzyWizard221 Character: ThatDankStalker Ping: 203
+PlayerID: 76561198364985994 Name: gubben Character: gubben Ping: 97
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 123123
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 31006248
+PlayerID: 123
+JudgeID: 0
+Reason: durila Duration: 4000 Remaining: 4294442042
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294470415
+
+END with Bans:
+[World] [MODER]Stanat [Drakon]: "рано или поздно ты это сдлелаешь"
+
+Не обработано: MessageAnnouncer >> Broadcast: Добро пожаловать на HEMULGM.RU. Тут рады вам больше, чем на любом другом сервере!
+MessageAnnouncer >> Broadcast: Добро пожаловать на HEMULGM.RU. Тут рады вам больше, чем на любом другом сервере!
+
+Не обработано: MessageAnnouncer >> Добро пожаловать на HEMULGM.RU. Тут рады вам больше, чем на любом другом сервере!
+MessageAnnouncer >> Добро пожаловать на HEMULGM.RU. Тут рады вам больше, чем на любом другом сервере!
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198123840535 Name: ?????? Character: top Ping: 89
+PlayerID: 76561198280617288 Name: Незнаю какой придумать Character: Пипр Ping: 50
+PlayerID: 76561198152563082 Name: Drakon Character: [MODER]Stanat Ping: 140
+PlayerID: 76561198278800086 Name: >>??<< Character: Антон Беляев Ping: 46
+PlayerID: 76561198324398740 Name: Анимешный Бурячок Character: АнимешныйБурячок Ping: 128
+PlayerID: 76561198325444258 Name: FuzzyWizard221 Character: ThatDankStalker Ping: 207
+PlayerID: 76561198364985994 Name: gubben Character: gubben Ping: 210
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 123123
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 31006228
+PlayerID: 123
+JudgeID: 0
+Reason: durila Duration: 4000 Remaining: 4294442022
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294470395
+[World] Пипр [Незнаю какой придумать]: "Не я"
+
+TimerTerminateCommand.Enabled with Bans:
+[World] ThatDankStalker [FuzzyWizard221]: "/kit claim"
+
+END with Bans:
+Connecting: PlayerID: 76561198351213164 Name: _АхМеД_ Character: Виндяй Вечеслав
+

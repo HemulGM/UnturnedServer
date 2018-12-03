@@ -1,0 +1,191 @@
+Не обработано: RocketRcon v2.4.8.0
+RocketRcon v2.4.8.0
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 35
+PlayerID: 76561198176817369 Name: ?. Character: GlodiS Ping: 85
+PlayerID: 76561198295801599 Name: Lo[x] Character: Lo[x] Ping: 62
+PlayerID: 76561198276840558 Name: Котик ^-^ Character: kennys Ping: 97
+PlayerID: 76561198262878051 Name: Kolder Character: Kolder Ping: 66
+PlayerID: 76561198287257345 Name: TheHard27 Character: TheHard27 Ping: 203
+PlayerID: 76561198130434614 Name: ZH3K4 Character: ZH3K4 Ping: 70
+PlayerID: 76561198272573142 Name: Bloody СУП Character: СУП Ping: 62
+PlayerID: 76561198280617288 Name: Незнаю какой придумать Character: Пипр Ping: 66
+PlayerID: 76561198351213164 Name: _АхМеД_ Character: Виндяй Вечеслав Ping: 89
+PlayerID: 76561198300812301 Name: KiLeR00707 Character: KiLeR00707 Ping: 15
+PlayerID: 76561198346009739 Name: СпЕкТоР Character: [Зам.Гл.Мафии]Николай Белый Ping: 54
+
+TimerTerminateCommand.Enabled with Players:
+Client has executed command "bans"
+
+END with Players:
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 123123
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 31456396
+PlayerID: 123
+JudgeID: 0
+Reason: durila Duration: 4000 Remaining: 4294892190
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294920563
+
+TimerTerminateCommand.Enabled with Bans:
+Connecting: PlayerID: 76561198391510049 Name: matushkin_99 Character: matushkin_99
+
+END with Bans:
+Не обработано: MessageAnnouncer >> Broadcast: Наберите /kit help, чтобы получить первую мед. помощь (бинты, таблетки, еда)
+MessageAnnouncer >> Broadcast: Наберите /kit help, чтобы получить первую мед. помощь (бинты, таблетки, еда)
+
+Не обработано: MessageAnnouncer >> Наберите /kit help, чтобы получить первую мед. помощь (бинты, таблетки, еда)
+MessageAnnouncer >> Наберите /kit help, чтобы получить первую мед. помощь (бинты, таблетки, еда)
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 42
+PlayerID: 76561198176817369 Name: ?. Character: GlodiS Ping: 78
+PlayerID: 76561198295801599 Name: Lo[x] Character: Lo[x] Ping: 54
+PlayerID: 76561198276840558 Name: Котик ^-^ Character: kennys Ping: 128
+PlayerID: 76561198262878051 Name: Kolder Character: Kolder Ping: 42
+PlayerID: 76561198287257345 Name: TheHard27 Character: TheHard27 Ping: 199
+PlayerID: 76561198130434614 Name: ZH3K4 Character: ZH3K4 Ping: 70
+PlayerID: 76561198272573142 Name: Bloody СУП Character: СУП Ping: 46
+PlayerID: 76561198280617288 Name: Незнаю какой придумать Character: Пипр Ping: 74
+PlayerID: 76561198351213164 Name: _АхМеД_ Character: Виндяй Вечеслав Ping: 101
+PlayerID: 76561198300812301 Name: KiLeR00707 Character: KiLeR00707 Ping: 89
+PlayerID: 76561198346009739 Name: СпЕкТоР Character: [Зам.Гл.Мафии]Николай Белый Ping: 50
+PlayerID: 76561198391510049 Name: matushkin_99 Character: matushkin_99 Ping: 74
+
+END with Players:
+[World] 7_AleX_3 [7_AleX_3]: "меня тоже обокрали"
+
+[World] 7_AleX_3 [7_AleX_3]: "лутом"
+
+[Area] TheHard27 [TheHard27]: "/home"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 42
+PlayerID: 76561198176817369 Name: ?. Character: GlodiS Ping: 78
+PlayerID: 76561198295801599 Name: Lo[x] Character: Lo[x] Ping: 66
+PlayerID: 76561198276840558 Name: Котик ^-^ Character: kennys Ping: 93
+PlayerID: 76561198262878051 Name: Kolder Character: Kolder Ping: 54
+PlayerID: 76561198287257345 Name: TheHard27 Character: TheHard27 Ping: 210
+PlayerID: 76561198130434614 Name: ZH3K4 Character: ZH3K4 Ping: 66
+PlayerID: 76561198272573142 Name: Bloody СУП Character: СУП Ping: 54
+PlayerID: 76561198280617288 Name: Незнаю какой придумать Character: Пипр Ping: 66
+PlayerID: 76561198351213164 Name: _АхМеД_ Character: Виндяй Вечеслав Ping: 109
+PlayerID: 76561198300812301 Name: KiLeR00707 Character: KiLeR00707 Ping: 35
+PlayerID: 76561198346009739 Name: СпЕкТоР Character: [Зам.Гл.Мафии]Николай Белый Ping: 46
+PlayerID: 76561198391510049 Name: matushkin_99 Character: matushkin_99 Ping: 74
+
+END with Players:
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 35
+PlayerID: 76561198176817369 Name: ?. Character: GlodiS Ping: 78
+PlayerID: 76561198295801599 Name: Lo[x] Character: Lo[x] Ping: 54
+PlayerID: 76561198276840558 Name: Котик ^-^ Character: kennys Ping: 101
+PlayerID: 76561198262878051 Name: Kolder Character: Kolder Ping: 46
+PlayerID: 76561198287257345 Name: TheHard27 Character: TheHard27 Ping: 175
+PlayerID: 76561198130434614 Name: ZH3K4 Character: ZH3K4 Ping: 70
+PlayerID: 76561198272573142 Name: Bloody СУП Character: СУП Ping: 46
+PlayerID: 76561198280617288 Name: Незнаю какой придумать Character: Пипр Ping: 54
+PlayerID: 76561198351213164 Name: _АхМеД_ Character: Виндяй Вечеслав Ping: 93
+PlayerID: 76561198300812301 Name: KiLeR00707 Character: KiLeR00707 Ping: 31
+PlayerID: 76561198346009739 Name: СпЕкТоР Character: [Зам.Гл.Мафии]Николай Белый Ping: 35
+PlayerID: 76561198391510049 Name: matushkin_99 Character: matushkin_99 Ping: 121
+
+END with Players:
+[World] 7_AleX_3 [7_AleX_3]: "/kit help"
+
+Не обработано: Lo[x] [Lo[x]] is calling a vote to kick GlodiS [?.]
+Lo[x] [Lo[x]] is calling a vote to kick GlodiS [?.]
+
+Не обработано: Vote failed!
+Vote failed!
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 31
+PlayerID: 76561198176817369 Name: ?. Character: GlodiS Ping: 70
+PlayerID: 76561198295801599 Name: Lo[x] Character: Lo[x] Ping: 50
+PlayerID: 76561198276840558 Name: Котик ^-^ Character: kennys Ping: 105
+PlayerID: 76561198262878051 Name: Kolder Character: Kolder Ping: 46
+PlayerID: 76561198287257345 Name: TheHard27 Character: TheHard27 Ping: 210
+PlayerID: 76561198130434614 Name: ZH3K4 Character: ZH3K4 Ping: 58
+PlayerID: 76561198272573142 Name: Bloody СУП Character: СУП Ping: 42
+PlayerID: 76561198280617288 Name: Незнаю какой придумать Character: Пипр Ping: 93
+PlayerID: 76561198351213164 Name: _АхМеД_ Character: Виндяй Вечеслав Ping: 89
+PlayerID: 76561198300812301 Name: KiLeR00707 Character: KiLeR00707 Ping: 27
+PlayerID: 76561198346009739 Name: СпЕкТоР Character: [Зам.Гл.Мафии]Николай Белый Ping: 31
+PlayerID: 76561198391510049 Name: matushkin_99 Character: matushkin_99 Ping: 97
+
+END with Players:
+Connecting: PlayerID: 76561198314638573 Name: UDODMEN Character: udodmen
+
+[World] 7_AleX_3 [7_AleX_3]: "/tpa kennes"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 31
+PlayerID: 76561198176817369 Name: ?. Character: GlodiS Ping: 66
+PlayerID: 76561198295801599 Name: Lo[x] Character: Lo[x] Ping: 54
+PlayerID: 76561198276840558 Name: Котик ^-^ Character: kennys Ping: 105
+PlayerID: 76561198262878051 Name: Kolder Character: Kolder Ping: 46
+PlayerID: 76561198287257345 Name: TheHard27 Character: TheHard27 Ping: 164
+PlayerID: 76561198130434614 Name: ZH3K4 Character: ZH3K4 Ping: 66
+PlayerID: 76561198272573142 Name: Bloody СУП Character: СУП Ping: 54
+PlayerID: 76561198280617288 Name: Незнаю какой придумать Character: Пипр Ping: 62
+PlayerID: 76561198351213164 Name: _АхМеД_ Character: Виндяй Вечеслав Ping: 101
+PlayerID: 76561198300812301 Name: KiLeR00707 Character: KiLeR00707 Ping: 39
+PlayerID: 76561198346009739 Name: СпЕкТоР Character: [Зам.Гл.Мафии]Николай Белый Ping: 31
+PlayerID: 76561198391510049 Name: matushkin_99 Character: matushkin_99 Ping: 101
+PlayerID: 76561198314638573 Name: UDODMEN Character: udodmen Ping: 312
+
+TimerTerminateCommand.Enabled with Players:
+[World] 7_AleX_3 [7_AleX_3]: "/tpa kennys"
+
+END with Players:
+[Area] kennys [Котик ^-^]: "/tpa a"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 50
+PlayerID: 76561198176817369 Name: ?. Character: GlodiS Ping: 85
+PlayerID: 76561198295801599 Name: Lo[x] Character: Lo[x] Ping: 58
+PlayerID: 76561198276840558 Name: Котик ^-^ Character: kennys Ping: 121
+PlayerID: 76561198262878051 Name: Kolder Character: Kolder Ping: 54
+PlayerID: 76561198287257345 Name: TheHard27 Character: TheHard27 Ping: 187
+PlayerID: 76561198130434614 Name: ZH3K4 Character: ZH3K4 Ping: 66
+PlayerID: 76561198272573142 Name: Bloody СУП Character: СУП Ping: 54
+PlayerID: 76561198280617288 Name: Незнаю какой придумать Character: Пипр Ping: 89
+PlayerID: 76561198351213164 Name: _АхМеД_ Character: Виндяй Вечеслав Ping: 97
+PlayerID: 76561198300812301 Name: KiLeR00707 Character: KiLeR00707 Ping: 23
+PlayerID: 76561198346009739 Name: СпЕкТоР Character: [Зам.Гл.Мафии]Николай Белый Ping: 35
+PlayerID: 76561198391510049 Name: matushkin_99 Character: matushkin_99 Ping: 97
+PlayerID: 76561198314638573 Name: UDODMEN Character: udodmen Ping: 97
+
+END with Players:
+Не обработано: MessageAnnouncer >> Broadcast: vk.com/unturned_hgm - цены на премиум, VIP и другие услуги смотрите в группе!
+MessageAnnouncer >> Broadcast: vk.com/unturned_hgm - цены на премиум, VIP и другие услуги смотрите в группе!
+
+Не обработано: MessageAnnouncer >> vk.com/unturned_hgm - цены на премиум, VIP и другие услуги смотрите в группе!
+MessageAnnouncer >> vk.com/unturned_hgm - цены на премиум, VIP и другие услуги смотрите в группе!
+

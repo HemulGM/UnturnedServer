@@ -1,0 +1,221 @@
+RocketRcon v2.4.8.0
+
+login aVIPs22031994
+players
+Client has executed command "players"
+Failed to find any players.
+
+Client has executed command "GET NOW"
+ServerControl >> VALUE NOW [1] [0] [366]
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [376]
+
+Client has executed command "players"
+Failed to find any players.
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [377]
+
+Client has executed command "GET NOW"
+ServerControl >> VALUE NOW [1] [0] [386]
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [387]
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [396]
+
+Client has executed command "players"
+Failed to find any players.
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [397]
+
+MessageAnnouncer >> Broadcast: Наберите /kit start, чтобы получить стартовый набор (еда, вода, топор)
+
+MessageAnnouncer >> Наберите /kit start, чтобы получить стартовый набор (еда, вода, топор)
+
+p "76561198366549870"
+Client has executed command "GET NOW"
+ServerControl >> VALUE NOW [1] [0] [406]
+
+Client has executed command "p "76561198366549870""
+s p_groups: Normal, Guest, Moderators
+s p_perm: tp(20), heal(60), tphere, god, i(30), v(100), day(3000), night(3000), give(30), vehicle(60), vanish, mute(120), unmute, sell, servercontrol.a, a, server, p, rules, r, donat, site, vk, home(60), tpa.*, kit, kit.start, kit.map, kit.help, kit.claim, kit.hgm1, kits, report, balance, buy, cost, exchange, pm, reply, pay, checkowner
+
+Не обработано: s p_perm: tp(20), heal(60), tphere, god, i(30), v(100), day(3000), night(3000), give(30), vehicle(60), vanish, mute(120), unmute, sell, servercontrol.a, a, server, p, rules, r, donat, site, vk, home(60), tpa.*, kit, kit.start, kit.map, kit.help, kit.claim, kit.hgm1, kits, report, balance, buy, cost, exchange, pm, reply, pay, checkowner
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [407]
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [416]
+
+Client has executed command "players"
+
+Failed to find any players.
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [417]
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [426]
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [427]
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [436]
+
+Client has executed command "players"
+
+Failed to find any players.
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [437]
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [446]
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [447]
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [456]
+
+Client has executed command "players"
+
+Failed to find any players.
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [457]
+
+MessageAnnouncer >> Broadcast: Внимание! PvP-режим по субботам! PvP-режим!!!
+
+MessageAnnouncer >> Внимание! PvP-режим по субботам! PvP-режим!!!
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [466]
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [467]
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [476]
+
+Client has executed command "players"
+
+Failed to find any players.
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [477]
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [486]
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [487]
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [496]
+
+Client has executed command "players"
+
+Failed to find any players.
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [497]
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [506]
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [507]
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [516]
+
+Client has executed command "players"
+
+Failed to find any players.
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [518]
+
+MessageAnnouncer >> Broadcast: vk.com/unturned_hgm - группа сервера ВК, уникальный кит в записи!
+
+MessageAnnouncer >> vk.com/unturned_hgm - группа сервера ВК, уникальный кит в записи!
+
+Client has executed command "GET NOW"
+ServerControl >> VALUE NOW [1] [0] [526]
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [528]
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [536]
+
+Client has executed command "players"
+
+Failed to find any players.
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [538]
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [546]
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [548]
+

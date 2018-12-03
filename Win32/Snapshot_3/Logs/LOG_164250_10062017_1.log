@@ -1,0 +1,201 @@
+Не обработано: RocketRcon v2.4.8.0
+RocketRcon v2.4.8.0
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198151655003 Name: HemulGM Character: HemulGM Ping: 21
+PlayerID: 76561198277046351 Name: Stemax Character: Stemax Ping: 96
+PlayerID: 76561198354953801 Name: торвей Character: торвей Ping: 106
+PlayerID: 76561198318420959 Name: MAJOR Character: MAJOR Ping: 73
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294054037
+
+END with Bans:
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198151655003 Name: HemulGM Character: HemulGM Ping: 18
+PlayerID: 76561198277046351 Name: Stemax Character: Stemax Ping: 69
+PlayerID: 76561198354953801 Name: торвей Character: торвей Ping: 98
+PlayerID: 76561198318420959 Name: MAJOR Character: MAJOR Ping: 69
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294054017
+
+END with Bans:
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198151655003 Name: HemulGM Character: HemulGM Ping: 16
+PlayerID: 76561198277046351 Name: Stemax Character: Stemax Ping: 64
+PlayerID: 76561198354953801 Name: торвей Character: торвей Ping: 66
+PlayerID: 76561198318420959 Name: MAJOR Character: MAJOR Ping: 68
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294053997
+
+END with Bans:
+Connecting: PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198151655003 Name: HemulGM Character: HemulGM Ping: 18
+PlayerID: 76561198277046351 Name: Stemax Character: Stemax Ping: 67
+PlayerID: 76561198354953801 Name: торвей Character: торвей Ping: 71
+PlayerID: 76561198318420959 Name: MAJOR Character: MAJOR Ping: 64
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 168
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294053977
+
+END with Bans:
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198151655003 Name: HemulGM Character: HemulGM Ping: 21
+PlayerID: 76561198277046351 Name: Stemax Character: Stemax Ping: 73
+PlayerID: 76561198354953801 Name: торвей Character: торвей Ping: 72
+PlayerID: 76561198318420959 Name: MAJOR Character: MAJOR Ping: 69
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 192
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294053957
+
+Не обработано: MessageAnnouncer >> Broadcast: Если модератор ведёт себя неподобающе, пишите в группу или ЛС (vk.com/unturned_hgm, vk.com/hemulgm)
+TimerTerminateCommand.Enabled with Bans:
+MessageAnnouncer >> Broadcast: Если модератор ведёт себя неподобающе, пишите в группу или ЛС (vk.com/unturned_hgm, vk.com/hemulgm)
+
+Не обработано: MessageAnnouncer >> Если модератор ведёт себя неподобающе, пишите в группу или ЛС (vk.com/unturned_hgm, vk.com/hemulgm)
+TimerTerminateCommand.Enabled with Bans:
+MessageAnnouncer >> Если модератор ведёт себя неподобающе, пишите в группу или ЛС (vk.com/unturned_hgm, vk.com/hemulgm)
+
+END with Bans:
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198151655003 Name: HemulGM Character: HemulGM Ping: 20
+PlayerID: 76561198277046351 Name: Stemax Character: Stemax Ping: 67
+PlayerID: 76561198354953801 Name: торвей Character: торвей Ping: 62
+PlayerID: 76561198318420959 Name: MAJOR Character: MAJOR Ping: 67
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 157
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294053937
+
+END with Bans:
+[World] Expert1337 [Expert13372284200]: "/god"
+
+Не обработано: Expert1337 включен Godmode
+Expert1337 включен Godmode
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198151655003 Name: HemulGM Character: HemulGM Ping: 18
+PlayerID: 76561198277046351 Name: Stemax Character: Stemax Ping: 74
+PlayerID: 76561198354953801 Name: торвей Character: торвей Ping: 83
+PlayerID: 76561198318420959 Name: MAJOR Character: MAJOR Ping: 64
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 169
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294053917
+
+END with Bans:
+[World] Expert1337 [Expert13372284200]: "/home"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198151655003 Name: HemulGM Character: HemulGM Ping: 18
+PlayerID: 76561198277046351 Name: Stemax Character: Stemax Ping: 78
+PlayerID: 76561198354953801 Name: торвей Character: торвей Ping: 115
+PlayerID: 76561198318420959 Name: MAJOR Character: MAJOR Ping: 62
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 176
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294053897
+
+END with Bans:
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198151655003 Name: HemulGM Character: HemulGM Ping: 12
+PlayerID: 76561198277046351 Name: Stemax Character: Stemax Ping: 69
+PlayerID: 76561198354953801 Name: торвей Character: торвей Ping: 113
+PlayerID: 76561198318420959 Name: MAJOR Character: MAJOR Ping: 60
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 175
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294053877
+
+END with Bans:
+Disconnecting: PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337
+
+Client has executed command "players"
+

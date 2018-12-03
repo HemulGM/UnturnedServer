@@ -1,0 +1,9 @@
+16.11.2017 12:30:26: Не обработано: SqlNullValueException: Data is Null. This method or property cannot be called on Null values. - MySql.Data.MySqlClient.MySqlDataReader.GetFieldValue (Int32 index, Boolean checkNull)
+16.11.2017 12:30:26: Не обработано: MySql.Data.MySqlClient.MySqlDataReader.GetString (Int32 i)
+16.11.2017 12:30:26: Не обработано: MySql.Data.MySqlClient.MySqlDataReader.GetString (System.String column)
+16.11.2017 12:30:26: Не обработано: (wrapper remoting-invoke-with-check) MySql.Data.MySqlClient.MySqlDataReader:GetString (string)
+16.11.2017 12:30:26: Не обработано: PlayerInfoLibrary.DatabaseManager.PrecessExpiredPInfo ()
+16.11.2017 12:30:26: Не обработано: PlayerInfoLibrary.PlayerInfoLib.FixedUpdate ()
+16.11.2017 12:30:26: Сохранение сервера
+16.11.2017 12:36:06: Не обработано: ServerControl >> Broadcast: Аирдроп через 4 ч. 40 м.
+16.11.2017 12:40:32: Не обработано: Ростислав_Лукин [Ростислав_Лукин] was mauled by a zombie!

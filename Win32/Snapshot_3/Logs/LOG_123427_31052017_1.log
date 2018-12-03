@@ -1,0 +1,142 @@
+Не обработано: RocketRcon v2.4.8.0
+RocketRcon v2.4.8.0
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 144
+PlayerID: 76561198200101595 Name: NEVALYASHA Character: NEVALYASHA Ping: 117
+PlayerID: 76561198262994976 Name: XxX_ARMAЗ_XxX Character: shilyaev710 Ping: 70
+PlayerID: 76561198303283372 Name: PeR4IK Character: данил Ping: 82
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 50
+PlayerID: 76561198292543416 Name: Mr_GiladKing Character: GamerYT Ping: 54
+PlayerID: 76561198295801599 Name: Lo[x] Character: Lo[x] Ping: 62
+PlayerID: 76561198314140913 Name: DireHick Character: JeffRee Ping: 46
+PlayerID: 76561198314638573 Name: UDODMEN Character: udodmen Ping: 82
+PlayerID: 76561198176817369 Name: ?. Character: GlodiS Ping: 85
+PlayerID: 76561198280617288 Name: Незнаю какой придумать Character: Пипр Ping: 62
+PlayerID: 76561198276840558 Name: Котик ^-^ Character: kennys Ping: 117
+PlayerID: 76561198256523318 Name: baha Character: baha Ping: 31
+PlayerID: 76561198241901342 Name: Podarochek Character: Игорь Петрович Ping: 113
+PlayerID: 76561198287257345 Name: TheHard27 Character: TheHard27 Ping: 191
+PlayerID: 76561198079487077 Name: DIY Character: DIY Ping: 246
+PlayerID: 76561198388879367 Name: hamzaxpro1 Character: killer_96 Ping: 160
+
+TimerTerminateCommand.Enabled with Players:
+Client has executed command "bans"
+
+END with Players:
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 123123
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 31468740
+PlayerID: 123
+JudgeID: 0
+Reason: durila Duration: 4000 Remaining: 4294904534
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294932907
+
+TimerTerminateCommand.Enabled with Bans:
+[World] данил [PeR4IK]: "и там групс"
+
+END with Bans:
+[World] данил [PeR4IK]: "и joki"
+
+[World] killer_96 [hamzaxpro1]: "/kit claim"
+
+Disconnecting: PlayerID: 76561198079487077 Name: DIY Character: DIY
+
+[World] данил [PeR4IK]: "ну"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 132
+PlayerID: 76561198200101595 Name: NEVALYASHA Character: NEVALYASHA Ping: 121
+PlayerID: 76561198262994976 Name: XxX_ARMAЗ_XxX Character: shilyaev710 Ping: 66
+PlayerID: 76561198303283372 Name: PeR4IK Character: данил Ping: 85
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 42
+PlayerID: 76561198292543416 Name: Mr_GiladKing Character: GamerYT Ping: 78
+PlayerID: 76561198295801599 Name: Lo[x] Character: Lo[x] Ping: 70
+PlayerID: 76561198314140913 Name: DireHick Character: JeffRee Ping: 39
+PlayerID: 76561198314638573 Name: UDODMEN Character: udodmen Ping: 82
+PlayerID: 76561198176817369 Name: ?. Character: GlodiS Ping: 105
+PlayerID: 76561198280617288 Name: Незнаю какой придумать Character: Пипр Ping: 54
+PlayerID: 76561198276840558 Name: Котик ^-^ Character: kennys Ping: 109
+PlayerID: 76561198256523318 Name: baha Character: baha Ping: 42
+PlayerID: 76561198241901342 Name: Podarochek Character: Игорь Петрович Ping: 128
+PlayerID: 76561198287257345 Name: TheHard27 Character: TheHard27 Ping: 207
+PlayerID: 76561198388879367 Name: hamzaxpro1 Character: killer_96 Ping: 160
+
+END with Players:
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 144
+PlayerID: 76561198200101595 Name: NEVALYASHA Character: NEVALYASHA Ping: 117
+PlayerID: 76561198262994976 Name: XxX_ARMAЗ_XxX Character: shilyaev710 Ping: 82
+PlayerID: 76561198303283372 Name: PeR4IK Character: данил Ping: 85
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 35
+PlayerID: 76561198292543416 Name: Mr_GiladKing Character: GamerYT Ping: 62
+PlayerID: 76561198295801599 Name: Lo[x] Character: Lo[x] Ping: 62
+PlayerID: 76561198314140913 Name: DireHick Character: JeffRee Ping: 31
+PlayerID: 76561198314638573 Name: UDODMEN Character: udodmen Ping: 82
+PlayerID: 76561198176817369 Name: ?. Character: GlodiS Ping: 85
+PlayerID: 76561198280617288 Name: Незнаю какой придумать Character: Пипр Ping: 54
+PlayerID: 76561198276840558 Name: Котик ^-^ Character: kennys Ping: 97
+PlayerID: 76561198256523318 Name: baha Character: baha Ping: 27
+PlayerID: 76561198241901342 Name: Podarochek Character: Игорь Петрович Ping: 121
+PlayerID: 76561198287257345 Name: TheHard27 Character: TheHard27 Ping: 230
+PlayerID: 76561198388879367 Name: hamzaxpro1 Character: killer_96 Ping: 156
+
+END with Players:
+[World] 7_AleX_3 [7_AleX_3]: "понял"
+
+Connecting: PlayerID: 76561198079487077 Name: DIY Character: DIY
+
+Не обработано: DeathMessagesRemastered >> Broadcast: killer_96 has bled to death!
+DeathMessagesRemastered >> Broadcast: killer_96 has bled to death!
+
+Не обработано: killer_96 [hamzaxpro1] bled to death!
+killer_96 [hamzaxpro1] bled to death!
+
+Connecting: PlayerID: 76561198250128512 Name: ™bloodshow™ Character: ™bloodshow™
+
+[World] Expert1337 [Expert13372284200]: "ktnbv"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 179
+PlayerID: 76561198200101595 Name: NEVALYASHA Character: NEVALYASHA Ping: 117
+PlayerID: 76561198262994976 Name: XxX_ARMAЗ_XxX Character: shilyaev710 Ping: 66
+PlayerID: 76561198303283372 Name: PeR4IK Character: данил Ping: 97
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 35
+PlayerID: 76561198292543416 Name: Mr_GiladKing Character: GamerYT Ping: 62
+PlayerID: 76561198295801599 Name: Lo[x] Character: Lo[x] Ping: 62
+PlayerID: 76561198314140913 Name: DireHick Character: JeffRee Ping: 23
+PlayerID: 76561198314638573 Name: UDODMEN Character: udodmen Ping: 78
+PlayerID: 76561198176817369 Name: ?. Character: GlodiS Ping: 66
+PlayerID: 76561198280617288 Name: Незнаю какой придумать Character: Пипр Ping: 50
+PlayerID: 76561198276840558 Name: Котик ^-^ Character: kennys Ping: 89
+PlayerID: 76561198256523318 Name: baha Character: baha Ping: 27
+PlayerID: 76561198241901342 Name: Podarochek Character: Игорь Петрович Ping: 117
+PlayerID: 76561198287257345 Name: TheHard27 Character: TheHard27 Ping: 187
+PlayerID: 76561198388879367 Name: hamzaxpro1 Character: killer_96 Ping: 332
+PlayerID: 76561198079487077 Name: DIY Character: DIY Ping: 250
+PlayerID: 76561198250128512 Name: ™bloodshow™ Character: ™bloodshow™ Ping: 58
+
+TimerTerminateCommand.Enabled with Players:
+[World] Expert1337 [Expert13372284200]: "летим"
+
+END with Players:
+Disconnecting: PlayerID: 76561198388879367 Name: hamzaxpro1 Character: killer_96
+
+[World] Expert1337 [Expert13372284200]: "на скорпион 7"
+

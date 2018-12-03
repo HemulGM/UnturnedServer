@@ -1,0 +1,82 @@
+RocketRcon v2.4.8.0
+
+login aVIPs22031994
+players
+ServerControl >> VALUE NOW [1] [0] [2047]
+Client has executed command "players"
+Players:
+PlayerID: 76561198205863883 Name: Крокодил Гена Character: krokodil gena Ping: 31
+PlayerID: 76561198264383990 Name: СПОРТАКУС Character: Иван Снег Ping: 39
+PlayerID: 76561198416514639 Name: Aulak Character: Aulak Ping: 39
+PlayerID: 76561198204253699 Name: RaYuRa Character: zazoune1706 Ping: 132
+Client has executed command "bans"
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 26874136
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 29754414
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 29754430
+PlayerID: 76561198408019916
+JudgeID: 76561198237123262
+Reason: raid Duration: 604800 Remaining: 106761
+PlayerID: 76561198366284525
+JudgeID: 76561198237123262
+Reason: REKLAMA Duration: 604800 Remaining: 284930
+
+END
+END
+MessageAnnouncer >> Broadcast: Если модератор ведёт себя неподобающе, пишите в группу или ЛС (vk.com/unturned_hgm, vk.com/hemulgm)
+
+MessageAnnouncer >> Если модератор ведёт себя неподобающе, пишите в группу или ЛС (vk.com/unturned_hgm, vk.com/hemulgm)
+
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198205863883 Name: Крокодил Гена Character: krokodil gena Ping: 46
+PlayerID: 76561198264383990 Name: СПОРТАКУС Character: Иван Снег Ping: 39
+PlayerID: 76561198416514639 Name: Aulak Character: Aulak Ping: 46
+PlayerID: 76561198204253699 Name: RaYuRa Character: zazoune1706 Ping: 117
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [2057]
+
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 26874126
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 29754404
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 29754420
+PlayerID: 76561198408019916
+JudgeID: 76561198237123262
+Reason: raid Duration: 604800 Remaining: 106751
+PlayerID: 76561198366284525
+JudgeID: 76561198237123262
+Reason: REKLAMA Duration: 604800 Remaining: 284920
+
+END
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [2059]
+
+Сохранение параметров
+Остановка таймеров
+Закрытие соединения с RCON
+Закрытие соединения с БД сервера
+Закрытие соединения с БД сайта
+Завершение работы потоков
+Ожидание завершения работы потоков
+END
+GET NOW
+Завершение работы

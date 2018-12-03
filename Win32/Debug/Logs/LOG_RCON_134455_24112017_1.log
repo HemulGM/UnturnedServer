@@ -1,0 +1,3523 @@
+RocketRcon v2.4.8.0
+
+login aVIPs22031994
+players
+Client has executed command "players"
+Players:
+PlayerID: 76561198301131571 Name: PogChamp Character: Тише Будь! Ping: 136
+PlayerID: 76561198444494613 Name: vladkrigin Character: дима васильев Ping: 140
+PlayerID: 76561198423084997 Name: lovemariina Character: Rendy Ping: 125
+PlayerID: 76561198358000300 Name: boost_machina Character: Анальный мишка Ping: 70
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 207
+
+Client has executed command "bans"
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27916105
+PlayerID: 76561198336969313
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 31338
+PlayerID: 76561198212486347
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 31669
+PlayerID: 76561198391097237
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 194156
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30796383
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30796399
+
+END
+Client has executed command "GET NOW"
+ServerControl >> VALUE NOW [1] [0] [6]
+Client has executed command "players"
+Players:
+PlayerID: 76561198301131571 Name: PogChamp Character: Тише Будь! Ping: 136
+PlayerID: 76561198444494613 Name: vladkrigin Character: дима васильев Ping: 140
+PlayerID: 76561198423084997 Name: lovemariina Character: Rendy Ping: 121
+PlayerID: 76561198358000300 Name: boost_machina Character: Анальный мишка Ping: 66
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 222
+
+END
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27916101
+PlayerID: 76561198336969313
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 31334
+PlayerID: 76561198212486347
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 31665
+PlayerID: 76561198391097237
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 194152
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30796379
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30796395
+
+END
+END
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [16]
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [18]
+
+[World] Expert1337 [Expert13372284200]: "тут можно"
+
+[World] Тише Будь! [PogChamp]: "/v 140"
+
+Тише Будь! получил транспорт 140
+
+Не обработано: Тише Будь! получил транспорт 140
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [26]
+
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198301131571 Name: PogChamp Character: Тише Будь! Ping: 136
+PlayerID: 76561198444494613 Name: vladkrigin Character: дима васильев Ping: 128
+PlayerID: 76561198423084997 Name: lovemariina Character: Rendy Ping: 125
+PlayerID: 76561198358000300 Name: boost_machina Character: Анальный мишка Ping: 70
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 203
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [28]
+
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27916080
+PlayerID: 76561198336969313
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 31313
+PlayerID: 76561198212486347
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 31644
+PlayerID: 76561198391097237
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 194131
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30796358
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30796374
+
+END
+END
+[World] Expert1337 [Expert13372284200]: "ну где лут спавнится ток нельзя"
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [36]
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [38]
+
+[World] дима васильев [vladkrigin]: "/home"
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [46]
+
+[World] Анальный мишка [boost_machina]: ".ыудд 363"
+
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198301131571 Name: PogChamp Character: Тише Будь! Ping: 140
+PlayerID: 76561198444494613 Name: vladkrigin Character: дима васильев Ping: 132
+PlayerID: 76561198423084997 Name: lovemariina Character: Rendy Ping: 140
+PlayerID: 76561198358000300 Name: boost_machina Character: Анальный мишка Ping: 85
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 210
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [48]
+
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27916060
+PlayerID: 76561198336969313
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 31293
+PlayerID: 76561198212486347
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 31624
+PlayerID: 76561198391097237
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 194111
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30796338
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30796354
+
+END
+END
+[World] Анальный мишка [boost_machina]: "/selll 363"
+
+MessageAnnouncer >> Broadcast: Посетите наш сайт. Вы будете удивлены! unturned.hemulgm.ru
+
+MessageAnnouncer >> Посетите наш сайт. Вы будете удивлены! unturned.hemulgm.ru
+
+[World] Анальный мишка [boost_machina]: "/sell 363"
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [56]
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [59]
+
+[World] Анальный мишка [boost_machina]: "/sell 126"
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [66]
+
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198301131571 Name: PogChamp Character: Тише Будь! Ping: 140
+PlayerID: 76561198444494613 Name: vladkrigin Character: дима васильев Ping: 125
+PlayerID: 76561198423084997 Name: lovemariina Character: Rendy Ping: 121
+PlayerID: 76561198358000300 Name: boost_machina Character: Анальный мишка Ping: 93
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 218
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [69]
+
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27916040
+PlayerID: 76561198336969313
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 31273
+PlayerID: 76561198212486347
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 31604
+PlayerID: 76561198391097237
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 194091
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30796318
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30796334
+
+END
+END
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [76]
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [79]
+
+[World] Expert1337 [Expert13372284200]: "363"
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [86]
+
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198301131571 Name: PogChamp Character: Тише Будь! Ping: 140
+PlayerID: 76561198444494613 Name: vladkrigin Character: дима васильев Ping: 132
+PlayerID: 76561198423084997 Name: lovemariina Character: Rendy Ping: 125
+PlayerID: 76561198358000300 Name: boost_machina Character: Анальный мишка Ping: 70
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 207
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [89]
+
+Connecting: PlayerID: 76561198366717561 Name: MAXIMUSSSSSSS Character: MAXIMUSSSSSSS
+
+MAXIMUSSSSSSS connected with IP 5.167.225.52
+
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27916020
+PlayerID: 76561198336969313
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 31253
+PlayerID: 76561198212486347
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 31584
+PlayerID: 76561198391097237
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 194071
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30796298
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30796314
+
+END
+END
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [96]
+
+[World] Expert1337 [Expert13372284200]: "хоник 116"
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [99]
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [106]
+
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198301131571 Name: PogChamp Character: Тише Будь! Ping: 140
+PlayerID: 76561198444494613 Name: vladkrigin Character: дима васильев Ping: 121
+PlayerID: 76561198423084997 Name: lovemariina Character: Rendy Ping: 125
+PlayerID: 76561198358000300 Name: boost_machina Character: Анальный мишка Ping: 85
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 218
+PlayerID: 76561198366717561 Name: MAXIMUSSSSSSS Character: MAXIMUSSSSSSS Ping: 15
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [109]
+
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27916000
+PlayerID: 76561198336969313
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 31233
+PlayerID: 76561198212486347
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 31564
+PlayerID: 76561198391097237
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 194051
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30796278
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30796294
+
+END
+[World] Expert1337 [Expert13372284200]: "ааа 1377"
+
+END
+MessageAnnouncer >> Broadcast: Наберите /kit help, чтобы получить первую мед. помощь (бинты, таблетки, еда)
+
+MessageAnnouncer >> Наберите /kit help, чтобы получить первую мед. помощь (бинты, таблетки, еда)
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [116]
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [119]
+
+[World] Тише Будь! [PogChamp]: "Ахереть"
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [126]
+
+[World] Expert1337 [Expert13372284200]: "эт барель"
+
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198301131571 Name: PogChamp Character: Тише Будь! Ping: 136
+PlayerID: 76561198444494613 Name: vladkrigin Character: дима васильев Ping: 125
+PlayerID: 76561198423084997 Name: lovemariina Character: Rendy Ping: 117
+PlayerID: 76561198358000300 Name: boost_machina Character: Анальный мишка Ping: 78
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 214
+PlayerID: 76561198366717561 Name: MAXIMUSSSSSSS Character: MAXIMUSSSSSSS Ping: 46
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [129]
+
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27915980
+PlayerID: 76561198336969313
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 31213
+PlayerID: 76561198212486347
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 31544
+PlayerID: 76561198391097237
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 194031
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30796258
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30796274
+
+END
+END
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [136]
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [139]
+
+[World] Expert1337 [Expert13372284200]: "/i barel"
+
+[World] Тише Будь! [PogChamp]: "Я нашел дом 15x8X2"
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [146]
+
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198301131571 Name: PogChamp Character: Тише Будь! Ping: 140
+PlayerID: 76561198444494613 Name: vladkrigin Character: дима васильев Ping: 125
+PlayerID: 76561198423084997 Name: lovemariina Character: Rendy Ping: 164
+PlayerID: 76561198358000300 Name: boost_machina Character: Анальный мишка Ping: 82
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 203
+PlayerID: 76561198366717561 Name: MAXIMUSSSSSSS Character: MAXIMUSSSSSSS Ping: 39
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [149]
+
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27915959
+PlayerID: 76561198336969313
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 31192
+PlayerID: 76561198212486347
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 31523
+PlayerID: 76561198391097237
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 194010
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30796237
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30796253
+
+END
+END
+[World] Expert1337 [Expert13372284200]: "/i barrel"
+
+Дал Expert1337 вещь 1436:1
+
+Не обработано: Дал Expert1337 вещь 1436:1
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [156]
+
+[World] Анальный мишка [boost_machina]: "/buy"
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [159]
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [166]
+
+[World] Тише Будь! [PogChamp]: "Даже 15x8x3"
+
+[World] Анальный мишка [boost_machina]: "/buy 1337"
+
+Client has executed command "players"
+Players:
+PlayerID: 76561198301131571 Name: PogChamp Character: Тише Будь! Ping: 136
+PlayerID: 76561198444494613 Name: vladkrigin Character: дима васильев Ping: 125
+PlayerID: 76561198423084997 Name: lovemariina Character: Rendy Ping: 128
+PlayerID: 76561198358000300 Name: boost_machina Character: Анальный мишка Ping: 78
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 226
+PlayerID: 76561198366717561 Name: MAXIMUSSSSSSS Character: MAXIMUSSSSSSS Ping: 23
+
+[World] Expert1337 [Expert13372284200]: "/cost barrel"
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [169]
+
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27915939
+PlayerID: 76561198336969313
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 31172
+PlayerID: 76561198212486347
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 31503
+PlayerID: 76561198391097237
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 193990
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30796217
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30796233
+
+END
+END
+MessageAnnouncer >> Broadcast: vk.com/unturned_hgm - цены на премиум, VIP и другие услуги смотрите в группе!
+
+MessageAnnouncer >> vk.com/unturned_hgm - цены на премиум, VIP и другие услуги смотрите в группе!
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [176]
+
+[World] Анальный мишка [boost_machina]: "/buy 1377"
+
+[World] Expert1337 [Expert13372284200]: "/buy barrel"
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [179]
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [186]
+
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198301131571 Name: PogChamp Character: Тише Будь! Ping: 136
+PlayerID: 76561198444494613 Name: vladkrigin Character: дима васильев Ping: 144
+PlayerID: 76561198423084997 Name: lovemariina Character: Rendy Ping: 136
+PlayerID: 76561198358000300 Name: boost_machina Character: Анальный мишка Ping: 85
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 234
+PlayerID: 76561198366717561 Name: MAXIMUSSSSSSS Character: MAXIMUSSSSSSS Ping: 58
+
+[World] Анальный мишка [boost_machina]: "/sell 363"
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [189]
+
+[World] Expert1337 [Expert13372284200]: "/tp тише"
+
+Expert1337 телепортирован к Тише Будь!
+
+Не обработано: Expert1337 телепортирован к Тише Будь!
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27915918
+PlayerID: 76561198336969313
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 31151
+PlayerID: 76561198212486347
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 31482
+PlayerID: 76561198391097237
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 193969
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30796196
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30796212
+
+END
+END
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [196]
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [199]
+[World] Анальный мишка [boost_machina]: "/sell 1337"
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [206]
+
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198301131571 Name: PogChamp Character: Тише Будь! Ping: 136
+PlayerID: 76561198444494613 Name: vladkrigin Character: дима васильев Ping: 117
+PlayerID: 76561198423084997 Name: lovemariina Character: Rendy Ping: 132
+PlayerID: 76561198358000300 Name: boost_machina Character: Анальный мишка Ping: 70
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 203
+PlayerID: 76561198366717561 Name: MAXIMUSSSSSSS Character: MAXIMUSSSSSSS Ping: 23
+
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27915901
+PlayerID: 76561198336969313
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 31134
+PlayerID: 76561198212486347
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 31465
+PlayerID: 76561198391097237
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 193952
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30796179
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30796195
+
+END
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [209]
+
+END
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [216]
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [219]
+
+[World] Тише Будь! [PogChamp]: "Махина"
+
+[World] Expert1337 [Expert13372284200]: "эт чтоле"
+
+[World] Тише Будь! [PogChamp]: "А не дом"
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [226]
+
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198301131571 Name: PogChamp Character: Тише Будь! Ping: 140
+PlayerID: 76561198444494613 Name: vladkrigin Character: дима васильев Ping: 136
+PlayerID: 76561198423084997 Name: lovemariina Character: Rendy Ping: 144
+PlayerID: 76561198358000300 Name: boost_machina Character: Анальный мишка Ping: 58
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 222
+PlayerID: 76561198366717561 Name: MAXIMUSSSSSSS Character: MAXIMUSSSSSSS Ping: 27
+
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27915881
+PlayerID: 76561198336969313
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 31114
+PlayerID: 76561198212486347
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 31445
+PlayerID: 76561198391097237
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 193932
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30796159
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30796175
+
+END
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [229]
+
+END
+MessageAnnouncer >> Broadcast: Наберите /kit claim, чтобы получить Claim Flag
+
+MessageAnnouncer >> Наберите /kit claim, чтобы получить Claim Flag
+
+[World] Expert1337 [Expert13372284200]: "так можно такое строить"
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [236]
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [240]
+
+[World] Тише Будь! [PogChamp]: "Не больше 5 на 5 на5"
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [246]
+
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198301131571 Name: PogChamp Character: Тише Будь! Ping: 140
+PlayerID: 76561198444494613 Name: vladkrigin Character: дима васильев Ping: 132
+PlayerID: 76561198423084997 Name: lovemariina Character: Rendy Ping: 136
+PlayerID: 76561198358000300 Name: boost_machina Character: Анальный мишка Ping: 222
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 218
+PlayerID: 76561198366717561 Name: MAXIMUSSSSSSS Character: MAXIMUSSSSSSS Ping: 109
+
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27915861
+PlayerID: 76561198336969313
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 31094
+PlayerID: 76561198212486347
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 31425
+PlayerID: 76561198391097237
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 193912
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30796139
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30796155
+
+END
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [250]
+
+END
+[World] Тише Будь! [PogChamp]: "А это"
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [256]
+
+[World] Тише Будь! [PogChamp]: "В 3 раза больше"
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [260]
+
+[World] Expert1337 [Expert13372284200]: "админ"
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [266]
+
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198301131571 Name: PogChamp Character: Тише Будь! Ping: 144
+PlayerID: 76561198444494613 Name: vladkrigin Character: дима васильев Ping: 132
+PlayerID: 76561198423084997 Name: lovemariina Character: Rendy Ping: 140
+PlayerID: 76561198358000300 Name: boost_machina Character: Анальный мишка Ping: 70
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 203
+PlayerID: 76561198366717561 Name: MAXIMUSSSSSSS Character: MAXIMUSSSSSSS Ping: 23
+
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27915841
+PlayerID: 76561198336969313
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 31074
+PlayerID: 76561198212486347
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 31405
+PlayerID: 76561198391097237
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 193892
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30796119
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30796135
+
+END
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [270]
+
+END
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [276]
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [280]
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [286]
+
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198301131571 Name: PogChamp Character: Тише Будь! Ping: 140
+PlayerID: 76561198444494613 Name: vladkrigin Character: дима васильев Ping: 312
+PlayerID: 76561198423084997 Name: lovemariina Character: Rendy Ping: 148
+PlayerID: 76561198358000300 Name: boost_machina Character: Анальный мишка Ping: 78
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 207
+PlayerID: 76561198366717561 Name: MAXIMUSSSSSSS Character: MAXIMUSSSSSSS Ping: 23
+
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27915821
+PlayerID: 76561198336969313
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 31054
+PlayerID: 76561198212486347
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 31385
+PlayerID: 76561198391097237
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 193872
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30796099
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30796115
+
+END
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [290]
+
+END
+MessageAnnouncer >> Broadcast: Если модератор ведёт себя неподобающе, пишите в группу или ЛС (vk.com/unturned_hgm, vk.com/hemulgm)
+
+MessageAnnouncer >> Если модератор ведёт себя неподобающе, пишите в группу или ЛС (vk.com/unturned_hgm, vk.com/hemulgm)
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [296]
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [300]
+
+[World] Анальный мишка [boost_machina]: "ng 'rcgthn"
+
+[World] Expert1337 [Expert13372284200]: "/i barrel"
+
+Дал Expert1337 вещь 1436:1
+
+Не обработано: Дал Expert1337 вещь 1436:1
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [306]
+
+[World] Анальный мишка [boost_machina]: "тп эксперт"
+
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198301131571 Name: PogChamp Character: Тише Будь! Ping: 144
+PlayerID: 76561198444494613 Name: vladkrigin Character: дима васильев Ping: 132
+PlayerID: 76561198423084997 Name: lovemariina Character: Rendy Ping: 218
+PlayerID: 76561198358000300 Name: boost_machina Character: Анальный мишка Ping: 97
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 222
+PlayerID: 76561198366717561 Name: MAXIMUSSSSSSS Character: MAXIMUSSSSSSS Ping: 31
+
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27915801
+PlayerID: 76561198336969313
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 31034
+PlayerID: 76561198212486347
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 31365
+PlayerID: 76561198391097237
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 193852
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30796079
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30796095
+
+END
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [310]
+
+END
+[World] Expert1337 [Expert13372284200]: "/tp мишк"
+
+Expert1337 телепортирован к Анальный мишка
+
+Не обработано: Expert1337 телепортирован к Анальный мишка
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [316]
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [320]
+
+[World] Expert1337 [Expert13372284200]: "ау админн"
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [326]
+
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198301131571 Name: PogChamp Character: Тише Будь! Ping: 148
+PlayerID: 76561198444494613 Name: vladkrigin Character: дима васильев Ping: 132
+PlayerID: 76561198423084997 Name: lovemariina Character: Rendy Ping: 132
+PlayerID: 76561198358000300 Name: boost_machina Character: Анальный мишка Ping: 85
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 207
+PlayerID: 76561198366717561 Name: MAXIMUSSSSSSS Character: MAXIMUSSSSSSS Ping: 19
+
+cchat "/33/04/13/09/14: /57/19/15 /19/00/13?" 255 0 0
+Client has executed command "cchat "/33/04/13/09/14: /57/19/15 /19/00/13?" 255 0 0"
+ServerControl >> Broadcast: Админ: Что там?
+
+Не обработано: ServerControl >> Broadcast: Админ: Что там?
+GET NOW
+Client has executed command "bans"
+
+Client has executed command "GET NOW"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27915780
+PlayerID: 76561198336969313
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 31013
+PlayerID: 76561198212486347
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 31344
+PlayerID: 76561198391097237
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 193831
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30796058
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30796074
+ServerControl >> VALUE NOW [1] [0] [330]
+
+END
+END
+Client has executed command "cchat "/33/09/17/04/17/15/16 /24/05/17/05/08 10 /13. " 255 255 0"
+
+ServerControl >> Broadcast: Аирдроп через 10 м.
+
+Не обработано: ServerControl >> Broadcast: Аирдроп через 10 м.
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [336]
+
+[World] Expert1337 [Expert13372284200]: "дай адинку тут застройка"
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [340]
+
+cchat "/33/04/13/09/14: /36/04/05?" 255 0 0
+Client has executed command "cchat "/33/04/13/09/14: /36/04/05?" 255 0 0"
+
+ServerControl >> Broadcast: Админ: Где?
+
+Не обработано: ServerControl >> Broadcast: Админ: Где?
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [346]
+
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198301131571 Name: PogChamp Character: Тише Будь! Ping: 140
+PlayerID: 76561198444494613 Name: vladkrigin Character: дима васильев Ping: 148
+PlayerID: 76561198423084997 Name: lovemariina Character: Rendy Ping: 144
+PlayerID: 76561198358000300 Name: boost_machina Character: Анальный мишка Ping: 89
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 191
+PlayerID: 76561198366717561 Name: MAXIMUSSSSSSS Character: MAXIMUSSSSSSS Ping: 19
+
+[World] Expert1337 [Expert13372284200]: "смотри"
+
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27915760
+PlayerID: 76561198336969313
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 30993
+PlayerID: 76561198212486347
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 31324
+PlayerID: 76561198391097237
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 193811
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30796038
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30796054
+
+END
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [350]
+
+END
+MessageAnnouncer >> Broadcast: Посетите наш сайт. Вы будете удивлены! unturned.hemulgm.ru
+
+MessageAnnouncer >> Посетите наш сайт. Вы будете удивлены! unturned.hemulgm.ru
+
+[World] Тише Будь! [PogChamp]: "Возле скорпиона 7"
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [357]
+
+cchat "/33/04/13/09/14: /47/05 /13/15/03/20" 255 0 0
+Client has executed command "cchat "/33/04/13/09/14: /47/05 /13/15/03/20" 255 0 0"
+
+ServerControl >> Broadcast: Админ: Не могу
+
+Не обработано: ServerControl >> Broadcast: Админ: Не могу
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [360]
+
+[World] Анальный мишка [boost_machina]: "нет"
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [367]
+
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198301131571 Name: PogChamp Character: Тише Будь! Ping: 132
+PlayerID: 76561198444494613 Name: vladkrigin Character: дима васильев Ping: 140
+PlayerID: 76561198423084997 Name: lovemariina Character: Rendy Ping: 128
+PlayerID: 76561198358000300 Name: boost_machina Character: Анальный мишка Ping: 66
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 199
+PlayerID: 76561198366717561 Name: MAXIMUSSSSSSS Character: MAXIMUSSSSSSS Ping: 27
+
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27915741
+PlayerID: 76561198336969313
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 30974
+PlayerID: 76561198212486347
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 31305
+PlayerID: 76561198391097237
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 193792
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30796019
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30796035
+
+END
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [370]
+
+[World] Expert1337 [Expert13372284200]: "аможно я рпг заспавню"
+
+END
+[World] Expert1337 [Expert13372284200]: "много"
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [377]
+
+GET NOW
+[World] Expert1337 [Expert13372284200]: "и сломаю"
+
+Client has executed command "GET NOW"
+ServerControl >> VALUE NOW [1] [0] [380]
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [387]
+
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198301131571 Name: PogChamp Character: Тише Будь! Ping: 144
+PlayerID: 76561198444494613 Name: vladkrigin Character: дима васильев Ping: 132
+PlayerID: 76561198423084997 Name: lovemariina Character: Rendy Ping: 125
+PlayerID: 76561198358000300 Name: boost_machina Character: Анальный мишка Ping: 97
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 203
+PlayerID: 76561198366717561 Name: MAXIMUSSSSSSS Character: MAXIMUSSSSSSS Ping: 11
+
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27915721
+PlayerID: 76561198336969313
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 30954
+PlayerID: 76561198212486347
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 31285
+PlayerID: 76561198391097237
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 193772
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30795999
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30796015
+
+END
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [390]
+
+END
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [397]
+
+[World] дима васильев [vladkrigin]: "/BUY 109"
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [400]
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [407]
+
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198301131571 Name: PogChamp Character: Тише Будь! Ping: 136
+PlayerID: 76561198444494613 Name: vladkrigin Character: дима васильев Ping: 132
+PlayerID: 76561198423084997 Name: lovemariina Character: Rendy Ping: 117
+PlayerID: 76561198358000300 Name: boost_machina Character: Анальный мишка Ping: 70
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 222
+PlayerID: 76561198366717561 Name: MAXIMUSSSSSSS Character: MAXIMUSSSSSSS Ping: 89
+
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27915701
+PlayerID: 76561198336969313
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 30934
+PlayerID: 76561198212486347
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 31265
+PlayerID: 76561198391097237
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 193752
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30795979
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30795995
+
+END
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [410]
+
+[World] Expert1337 [Expert13372284200]: "я знаю"
+
+cchat "/33/04/13/09/14: /57/29/05 /19/00/13?" 255 0 0
+Client has executed command "cchat "/33/04/13/09/14: /57/29/05 /19/00/13?" 255 0 0"
+
+ServerControl >> Broadcast: Админ: Чье там?
+
+Не обработано: ServerControl >> Broadcast: Админ: Чье там?
+END
+MessageAnnouncer >> Broadcast: vk.com/hemulgm - ЕДИНСТВЕННЫЙ администратор сервера
+
+MessageAnnouncer >> vk.com/hemulgm - ЕДИНСТВЕННЫЙ администратор сервера
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [417]
+
+[World] Expert1337 [Expert13372284200]: "ну смотри"
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [420]
+
+[World] Expert1337 [Expert13372284200]: "тут в городе застройка"
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [427]
+
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198301131571 Name: PogChamp Character: Тише Будь! Ping: 140
+PlayerID: 76561198444494613 Name: vladkrigin Character: дима васильев Ping: 144
+PlayerID: 76561198423084997 Name: lovemariina Character: Rendy Ping: 132
+PlayerID: 76561198358000300 Name: boost_machina Character: Анальный мишка Ping: 93
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 207
+PlayerID: 76561198366717561 Name: MAXIMUSSSSSSS Character: MAXIMUSSSSSSS Ping: 78
+
+[World] Expert1337 [Expert13372284200]: "где лут"
+
+cchat "/33/04/13/09/14: ./checkowner" 255 0 0
+Client has executed command "cchat "/33/04/13/09/14: ./checkowner" 255 0 0"
+
+ServerControl >> Broadcast: Админ: ./checkowner
+
+Не обработано: ServerControl >> Broadcast: Админ: ./checkowner
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [430]
+
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27915678
+PlayerID: 76561198336969313
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 30911
+PlayerID: 76561198212486347
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 31242
+PlayerID: 76561198391097237
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 193729
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30795956
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30795972
+
+END
+END
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [437]
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [440]
+
+cchat "/33/04/13/09/14: /49/15/04/15/10/04/09 /11 /18/19/17/15/05/14/09/31 /09 /02/28/16/15/12/14/09" 255 0 0
+Client has executed command "cchat "/33/04/13/09/14: /49/15/04/15/10/04/09 /11 /18/19/17/15/05/14/09/31 /09 /02/28/16/15/12/14/09" 255 0 0"
+
+ServerControl >> Broadcast: Админ: Подойди к строению и выполни
+
+Не обработано: ServerControl >> Broadcast: Админ: Подойди к строению и выполни
+[World] Тише Будь! [PogChamp]: "/kit узнать, кто установил объект"
+
+[World] Тише Будь! [PogChamp]: "/узнать, кто установил объект"
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [447]
+
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198301131571 Name: PogChamp Character: Тише Будь! Ping: 136
+PlayerID: 76561198444494613 Name: vladkrigin Character: дима васильев Ping: 152
+PlayerID: 76561198423084997 Name: lovemariina Character: Rendy Ping: 121
+PlayerID: 76561198358000300 Name: boost_machina Character: Анальный мишка Ping: 78
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 207
+PlayerID: 76561198366717561 Name: MAXIMUSSSSSSS Character: MAXIMUSSSSSSS Ping: 46
+
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27915661
+PlayerID: 76561198336969313
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 30894
+PlayerID: 76561198212486347
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 31225
+PlayerID: 76561198391097237
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 193712
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30795939
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30795955
+
+END
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [450]
+
+[World] Expert1337 [Expert13372284200]: "/checkowner"
+
+END
+[World] дима васильев [vladkrigin]: "/BUY 84"
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [457]
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [460]
+
+cchat "/33/04/13/09/14: /57/29/06?" 255 0 0
+Client has executed command "cchat "/33/04/13/09/14: /57/29/06?" 255 0 0"
+
+ServerControl >> Broadcast: Админ: Чьё?
+
+Не обработано: ServerControl >> Broadcast: Админ: Чьё?
+[World] Expert1337 [Expert13372284200]: "киллер 2000"
+
+[World] Тише Будь! [PogChamp]: "/checkowner"
+
+Disconnecting: PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [467]
+
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198301131571 Name: PogChamp Character: Тише Будь! Ping: 140
+PlayerID: 76561198444494613 Name: vladkrigin Character: дима васильев Ping: 128
+PlayerID: 76561198423084997 Name: lovemariina Character: Rendy Ping: 140
+PlayerID: 76561198358000300 Name: boost_machina Character: Анальный мишка Ping: 105
+PlayerID: 76561198366717561 Name: MAXIMUSSSSSSS Character: MAXIMUSSSSSSS Ping: 31
+
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27915641
+PlayerID: 76561198336969313
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 30874
+PlayerID: 76561198212486347
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 31205
+PlayerID: 76561198391097237
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 193692
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30795919
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30795935
+
+END
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [470]
+
+END
+MessageAnnouncer >> Broadcast: Используйте /report [ник], чтобы отправить жалобу на игрока
+
+MessageAnnouncer >> Используйте /report [ник], чтобы отправить жалобу на игрока
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [477]
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [480]
+
+[World] Тише Будь! [PogChamp]: "КнокКаут1ДемsКотс"
+
+cchat "/33/04/13/09/14: /38/18/12/09 /01/20/04/20/19 /02 /18/05/19/09 /03/15/19/09/11 /09/12/09 /21/15/05/14/15/13/05/14/00/12, /18/11/00/07/09 /09/13" 255 0 0
+Client has executed command "cchat "/33/04/13/09/14: /38/18/12/09 /01/20/04/20/19 /02 /18/05/19/09 /03/15/19/09/11 /09/12/09 /21/15/05/14/15/13/05/14/00/12, /18/11/00/07/09 /09/13" 255 0 0"
+
+ServerControl >> Broadcast: Админ: Если будут в сети готик или фоеноменал, скажи им
+
+Не обработано: ServerControl >> Broadcast: Админ: Если будут в сети готик или фоеноменал, скажи им
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [487]
+
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198301131571 Name: PogChamp Character: Тише Будь! Ping: 144
+PlayerID: 76561198444494613 Name: vladkrigin Character: дима васильев Ping: 121
+PlayerID: 76561198423084997 Name: lovemariina Character: Rendy Ping: 128
+PlayerID: 76561198358000300 Name: boost_machina Character: Анальный мишка Ping: 101
+PlayerID: 76561198366717561 Name: MAXIMUSSSSSSS Character: MAXIMUSSSSSSS Ping: 27
+
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27915621
+PlayerID: 76561198336969313
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 30854
+PlayerID: 76561198212486347
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 31185
+PlayerID: 76561198391097237
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 193672
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30795899
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30795915
+
+END
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [490]
+
+END
+[World] дима васильев [vladkrigin]: "/BUY V 84"
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [497]
+
+cchat "/33/04/13/09/14: /63/11/18/16/05/17/19" 255 0 0
+Client has executed command "cchat "/33/04/13/09/14: /63/11/18/16/05/17/19" 255 0 0"
+
+ServerControl >> Broadcast: Админ: Эксперт
+
+Не обработано: ServerControl >> Broadcast: Админ: Эксперт
+Connecting: PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337
+
+Expert1337 connected with IP 5.141.204.198
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [500]
+
+[World] Анальный мишка [boost_machina]: "/tpa pog"
+
+[World] Тише Будь! [PogChamp]: "А феноминал админом стал)?"
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [507]
+
+[World] Тише Будь! [PogChamp]: "/tpa accept"
+
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198301131571 Name: PogChamp Character: Тише Будь! Ping: 136
+PlayerID: 76561198444494613 Name: vladkrigin Character: дима васильев Ping: 148
+PlayerID: 76561198423084997 Name: lovemariina Character: Rendy Ping: 128
+PlayerID: 76561198358000300 Name: boost_machina Character: Анальный мишка Ping: 85
+PlayerID: 76561198366717561 Name: MAXIMUSSSSSSS Character: MAXIMUSSSSSSS Ping: 19
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 261
+
+Анальный мишка moved x:831.5434 y:68.52146(+30.04414) z:516.5288 in the last second (0.6211929)
+
+Не обработано: Анальный мишка moved x:831.5434 y:68.52146(+30.04414) z:516.5288 in the last second (0.6211929)
+cchat "/33/04/13/09/14: /47/05/19, /15/14 /13/15/04/05/17/00/19/15/17" 255 0 0
+Client has executed command "cchat "/33/04/13/09/14: /47/05/19, /15/14 /13/15/04/05/17/00/19/15/17" 255 0 0"
+
+ServerControl >> Broadcast: Админ: Нет, он модератор
+
+Не обработано: ServerControl >> Broadcast: Админ: Нет, он модератор
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [510]
+
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27915598
+PlayerID: 76561198336969313
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 30831
+PlayerID: 76561198212486347
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 31162
+PlayerID: 76561198391097237
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 193649
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30795876
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30795892
+
+END
+END
+[World] Expert1337 [Expert13372284200]: "я вылетел чёт"
+
+[World] Тише Будь! [PogChamp]: "А чет так?"
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [517]
+
+Disconnecting: PlayerID: 76561198358000300 Name: boost_machina Character: Анальный мишка
+
+cchat "/33/04/13/09/14: /38/18/12/09 /01/20/04/20/19 /02 /18/05/19/09 /03/15/19/09/11 /09/12/09 /21/15/05/14/15/13/05/14/00/12, /18/11/00/07/09 /09/13" 255 0 0
+Client has executed command "cchat "/33/04/13/09/14: /38/18/12/09 /01/20/04/20/19 /02 /18/05/19/09 /03/15/19/09/11 /09/12/09 /21/15/05/14/15/13/05/14/00/12, /18/11/00/07/09 /09/13" 255 0 0"
+
+ServerControl >> Broadcast: Админ: Если будут в сети готик или фоеноменал, скажи им
+
+Не обработано: ServerControl >> Broadcast: Админ: Если будут в сети готик или фоеноменал, скажи им
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [520]
+
+cchat "/33/04/13/09/14: /63/11/18/16/05/17/19" 255 0 0
+Client has executed command "cchat "/33/04/13/09/14: /63/11/18/16/05/17/19" 255 0 0"
+
+ServerControl >> Broadcast: Админ: Эксперт
+
+Не обработано: ServerControl >> Broadcast: Админ: Эксперт
+[World] Expert1337 [Expert13372284200]: "/god"
+
+Expert1337 включен Godmode
+
+Не обработано: Expert1337 включен Godmode
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [527]
+
+[World] Expert1337 [Expert13372284200]: "?"
+
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198301131571 Name: PogChamp Character: Тише Будь! Ping: 136
+PlayerID: 76561198444494613 Name: vladkrigin Character: дима васильев Ping: 140
+PlayerID: 76561198423084997 Name: lovemariina Character: Rendy Ping: 179
+PlayerID: 76561198366717561 Name: MAXIMUSSSSSSS Character: MAXIMUSSSSSSS Ping: 46
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 144
+
+[World] Тише Будь! [PogChamp]: "А че им то?"
+
+GET NOW
+END
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [530]
+
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27915578
+PlayerID: 76561198336969313
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 30811
+PlayerID: 76561198212486347
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 31142
+PlayerID: 76561198391097237
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 193629
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30795856
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30795872
+
+MessageAnnouncer >> Broadcast: Наберите /rules (/r) для просмотра правил
+
+MessageAnnouncer >> Наберите /rules (/r) для просмотра правил
+
+END
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [537]
+
+[World] Expert1337 [Expert13372284200]: "/checkowner"
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [541]
+
+cchat "/33/04/13/09/14: /48/14/09 /14/05 /16/15/11/20/16/14/28/05 /13/15/04/05/17/00/19/15/17/28" 255 0 0
+Client has executed command "cchat "/33/04/13/09/14: /48/14/09 /14/05 /16/15/11/20/16/14/28/05 /13/15/04/05/17/00/19/15/17/28" 255 0 0"
+
+ServerControl >> Broadcast: Админ: Они не покупные модераторы
+
+Не обработано: ServerControl >> Broadcast: Админ: Они не покупные модераторы
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [547]
+
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198301131571 Name: PogChamp Character: Тише Будь! Ping: 136
+PlayerID: 76561198444494613 Name: vladkrigin Character: дима васильев Ping: 121
+PlayerID: 76561198423084997 Name: lovemariina Character: Rendy Ping: 121
+PlayerID: 76561198366717561 Name: MAXIMUSSSSSSS Character: MAXIMUSSSSSSS Ping: 15
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 152
+
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27915561
+PlayerID: 76561198336969313
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 30794
+PlayerID: 76561198212486347
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 31125
+PlayerID: 76561198391097237
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 193612
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30795839
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30795855
+
+END
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [551]
+
+END
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [557]
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [561]
+
+[World] Тише Будь! [PogChamp]: "И когда Феноминал стал не покупным модером)))?"
+
+[World] Rendy [lovemariina]: "/tpa дим"
+
+[World] дима васильев [vladkrigin]: "/TPA ACCEPT"
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [567]
+
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198301131571 Name: PogChamp Character: Тише Будь! Ping: 136
+PlayerID: 76561198444494613 Name: vladkrigin Character: дима васильев Ping: 125
+PlayerID: 76561198423084997 Name: lovemariina Character: Rendy Ping: 121
+PlayerID: 76561198366717561 Name: MAXIMUSSSSSSS Character: MAXIMUSSSSSSS Ping: 19
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 156
+
+[World] Expert1337 [Expert13372284200]: "так чё с застройкой делать"
+
+END
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27915540
+PlayerID: 76561198336969313
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 30773
+PlayerID: 76561198212486347
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 31104
+PlayerID: 76561198391097237
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 193591
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30795818
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30795834
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [571]
+
+END
+Connecting: PlayerID: 76561198358000300 Name: boost_machina Character: Анальный мишка
+
+Анальный мишка connected with IP 95.106.51.247
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [577]
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [581]
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [587]
+
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198301131571 Name: PogChamp Character: Тише Будь! Ping: 144
+PlayerID: 76561198444494613 Name: vladkrigin Character: дима васильев Ping: 125
+PlayerID: 76561198423084997 Name: lovemariina Character: Rendy Ping: 132
+PlayerID: 76561198366717561 Name: MAXIMUSSSSSSS Character: MAXIMUSSSSSSS Ping: 35
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 152
+PlayerID: 76561198358000300 Name: boost_machina Character: Анальный мишка Ping: 66
+
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27915521
+PlayerID: 76561198336969313
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 30754
+PlayerID: 76561198212486347
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 31085
+PlayerID: 76561198391097237
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 193572
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30795799
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30795815
+
+END
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [591]
+
+[World] Тише Будь! [PogChamp]: "Говорят же те оставь"
+
+MessageAnnouncer >> Broadcast: Добро пожаловать на HGM. Тут рады вам больше, чем на любом другом сервере!
+
+MessageAnnouncer >> Добро пожаловать на HGM. Тут рады вам больше, чем на любом другом сервере!
+
+END
+[World] MAXIMUSSSSSSS [MAXIMUSSSSSSS]: "/report дима васильев"
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [597]
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [601]
+
+[World] Тише Будь! [PogChamp]: "Скажи Феноминалу или Готику"
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [607]
+
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198301131571 Name: PogChamp Character: Тише Будь! Ping: 140
+PlayerID: 76561198444494613 Name: vladkrigin Character: дима васильев Ping: 109
+PlayerID: 76561198423084997 Name: lovemariina Character: Rendy Ping: 125
+PlayerID: 76561198366717561 Name: MAXIMUSSSSSSS Character: MAXIMUSSSSSSS Ping: 19
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 156
+PlayerID: 76561198358000300 Name: boost_machina Character: Анальный мишка Ping: 74
+
+[World] Тише Будь! [PogChamp]: "Я могу в вк написать феноминалу"
+
+END
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27915500
+PlayerID: 76561198336969313
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 30733
+PlayerID: 76561198212486347
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 31064
+PlayerID: 76561198391097237
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 193551
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30795778
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30795794
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [611]
+
+END
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [617]
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [621]
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [627]
+
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198301131571 Name: PogChamp Character: Тише Будь! Ping: 144
+PlayerID: 76561198444494613 Name: vladkrigin Character: дима васильев Ping: 144
+PlayerID: 76561198423084997 Name: lovemariina Character: Rendy Ping: 187
+PlayerID: 76561198366717561 Name: MAXIMUSSSSSSS Character: MAXIMUSSSSSSS Ping: 11
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 164
+PlayerID: 76561198358000300 Name: boost_machina Character: Анальный мишка Ping: 74
+
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27915481
+PlayerID: 76561198336969313
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 30714
+PlayerID: 76561198212486347
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 31045
+PlayerID: 76561198391097237
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 193532
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30795759
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30795775
+
+END
+[World] Expert1337 [Expert13372284200]: "тлан я тогда пойду"
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [631]
+
+END
+[World] Тише Будь! [PogChamp]: "/v 133"
+Тише Будь! получил транспорт 133
+
+Не обработано: Тише Будь! получил транспорт 133
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [637]
+
+[World] Expert1337 [Expert13372284200]: "/home"
+
+Expert1337 moved x:914.0295 y:81.14215(+42.46981) z:579.4417 in the last second (0.279007)
+
+Не обработано: Expert1337 moved x:914.0295 y:81.14215(+42.46981) z:579.4417 in the last second (0.279007)
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [641]
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [647]
+
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198301131571 Name: PogChamp Character: Тише Будь! Ping: 132
+PlayerID: 76561198444494613 Name: vladkrigin Character: дима васильев Ping: 144
+PlayerID: 76561198423084997 Name: lovemariina Character: Rendy Ping: 121
+PlayerID: 76561198366717561 Name: MAXIMUSSSSSSS Character: MAXIMUSSSSSSS Ping: 35
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 152
+PlayerID: 76561198358000300 Name: boost_machina Character: Анальный мишка Ping: 62
+
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27915461
+PlayerID: 76561198336969313
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 30694
+PlayerID: 76561198212486347
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 31025
+PlayerID: 76561198391097237
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 193512
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30795739
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30795755
+
+END
+Disconnecting: PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [651]
+
+END
+MessageAnnouncer >> Broadcast: Наберите /kit start, чтобы получить стартовый набор (еда, вода, топор)
+
+MessageAnnouncer >> Наберите /kit start, чтобы получить стартовый набор (еда, вода, топор)
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [657]
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [661]
+
+[World] Rendy [lovemariina]: "/tpa дим"
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [667]
+
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198301131571 Name: PogChamp Character: Тише Будь! Ping: 136
+PlayerID: 76561198444494613 Name: vladkrigin Character: дима васильев Ping: 132
+PlayerID: 76561198423084997 Name: lovemariina Character: Rendy Ping: 132
+PlayerID: 76561198366717561 Name: MAXIMUSSSSSSS Character: MAXIMUSSSSSSS Ping: 23
+PlayerID: 76561198358000300 Name: boost_machina Character: Анальный мишка Ping: 109
+
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27915441
+PlayerID: 76561198336969313
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 30674
+PlayerID: 76561198212486347
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 31005
+PlayerID: 76561198391097237
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 193492
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30795719
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30795735
+
+END
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [671]
+
+END
+[World] дима васильев [vladkrigin]: "/TPA ACCEPT"
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [677]
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [681]
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [687]
+
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198301131571 Name: PogChamp Character: Тише Будь! Ping: 136
+PlayerID: 76561198444494613 Name: vladkrigin Character: дима васильев Ping: 128
+PlayerID: 76561198423084997 Name: lovemariina Character: Rendy Ping: 121
+PlayerID: 76561198366717561 Name: MAXIMUSSSSSSS Character: MAXIMUSSSSSSS Ping: 11
+PlayerID: 76561198358000300 Name: boost_machina Character: Анальный мишка Ping: 78
+
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27915421
+PlayerID: 76561198336969313
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 30654
+PlayerID: 76561198212486347
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 30985
+PlayerID: 76561198391097237
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 193472
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30795699
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30795715
+
+END
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [691]
+
+END
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [697]
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [701]
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [707]
+
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198301131571 Name: PogChamp Character: Тише Будь! Ping: 140
+PlayerID: 76561198444494613 Name: vladkrigin Character: дима васильев Ping: 136
+PlayerID: 76561198423084997 Name: lovemariina Character: Rendy Ping: 121
+PlayerID: 76561198366717561 Name: MAXIMUSSSSSSS Character: MAXIMUSSSSSSS Ping: 23
+PlayerID: 76561198358000300 Name: boost_machina Character: Анальный мишка Ping: 230
+
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27915401
+PlayerID: 76561198336969313
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 30634
+PlayerID: 76561198212486347
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 30965
+PlayerID: 76561198391097237
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 193452
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30795679
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30795695
+
+END
+GET NOW
+END
+Client has executed command "GET NOW"
+ServerControl >> VALUE NOW [1] [0] [711]
+
+[World] Тише Будь! [PogChamp]: "А админ?"
+
+MessageAnnouncer >> Broadcast: Внимание! PvP-режим по субботам! PvP-режим!!!
+
+MessageAnnouncer >> Внимание! PvP-режим по субботам! PvP-режим!!!
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [717]
+
+cchat "/33/04/13/09/14: Znj&" 255 0 0
+Client has executed command "cchat "/33/04/13/09/14: Znj&" 255 0 0"
+
+ServerControl >> Broadcast: Админ: Znj&
+
+Не обработано: ServerControl >> Broadcast: Админ: Znj&
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [721]
+
+cchat "/33/04/13/09/14: /57/19/15?" 255 0 0
+Client has executed command "cchat "/33/04/13/09/14: /57/19/15?" 255 0 0"
+
+ServerControl >> Broadcast: Админ: Что?
+
+Не обработано: ServerControl >> Broadcast: Админ: Что?
+Анальный мишка moved x:-210.9513 y:347.8178(+274.1847) z:-239.9026 in the last second (327.3634)
+
+Не обработано: Анальный мишка moved x:-210.9513 y:347.8178(+274.1847) z:-239.9026 in the last second (327.3634)
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [727]
+
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198301131571 Name: PogChamp Character: Тише Будь! Ping: 152
+PlayerID: 76561198444494613 Name: vladkrigin Character: дима васильев Ping: 140
+PlayerID: 76561198423084997 Name: lovemariina Character: Rendy Ping: 132
+PlayerID: 76561198366717561 Name: MAXIMUSSSSSSS Character: MAXIMUSSSSSSS Ping: 19
+PlayerID: 76561198358000300 Name: boost_machina Character: Анальный мишка Ping: 85
+
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27915381
+PlayerID: 76561198336969313
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 30614
+PlayerID: 76561198212486347
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 30945
+PlayerID: 76561198391097237
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 193432
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30795659
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30795675
+
+END
+END
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [731]
+
+[World] Тише Будь! [PogChamp]: "Когда феноминал стал не покупным модером?"
+
+cchat "/33/04/13/09/14: /37/00/02/14/15" 255 0 0
+Client has executed command "cchat "/33/04/13/09/14: /37/00/02/14/15" 255 0 0"
+
+ServerControl >> Broadcast: Админ: Давно
+
+Не обработано: ServerControl >> Broadcast: Админ: Давно
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [737]
+
+[World] Тише Будь! [PogChamp]: "После покупки модера?"
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [741]
+
+[World] Тише Будь! [PogChamp]: "))"
+
+cchat "/33/04/13/09/14: /44/15/14/05/24/14/15" 255 0 0
+Client has executed command "cchat "/33/04/13/09/14: /44/15/14/05/24/14/15" 255 0 0"
+
+ServerControl >> Broadcast: Админ: Конечно
+Client has executed command "GET NOW"
+ServerControl >> VALUE NOW [1] [0] [747]
+
+Не обработано: ServerControl >> Broadcast: Админ: Конечно
+[World] Анальный мишка [boost_machina]: "/tap pog"
+
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198301131571 Name: PogChamp Character: Тише Будь! Ping: 140
+PlayerID: 76561198444494613 Name: vladkrigin Character: дима васильев Ping: 125
+PlayerID: 76561198423084997 Name: lovemariina Character: Rendy Ping: 136
+PlayerID: 76561198366717561 Name: MAXIMUSSSSSSS Character: MAXIMUSSSSSSS Ping: 19
+PlayerID: 76561198358000300 Name: boost_machina Character: Анальный мишка Ping: 74
+
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27915361
+PlayerID: 76561198336969313
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 30594
+PlayerID: 76561198212486347
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 30925
+PlayerID: 76561198391097237
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 193412
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30795639
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30795655
+
+END
+END
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [751]
+
+[World] Тише Будь! [PogChamp]: "Вот бы так все"
+
+[World] Анальный мишка [boost_machina]: "/tpa pog"
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [757]
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [761]
+
+cchat "/33/04/13/09/14: /47/05" 255 0 0
+Client has executed command "cchat "/33/04/13/09/14: /47/05" 255 0 0"
+
+ServerControl >> Broadcast: Админ: Не
+
+Не обработано: ServerControl >> Broadcast: Админ: Не
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [767]
+
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198301131571 Name: PogChamp Character: Тише Будь! Ping: 132
+PlayerID: 76561198444494613 Name: vladkrigin Character: дима васильев Ping: 144
+PlayerID: 76561198423084997 Name: lovemariina Character: Rendy Ping: 132
+PlayerID: 76561198366717561 Name: MAXIMUSSSSSSS Character: MAXIMUSSSSSSS Ping: 15
+PlayerID: 76561198358000300 Name: boost_machina Character: Анальный мишка Ping: 70
+
+[World] Тише Будь! [PogChamp]: "Ахаха"
+
+cchat "/33/04/13/09/14: /55/00/15/18 /01/28/12 /01/28" 255 0 0
+Client has executed command "cchat "/33/04/13/09/14: /55/00/15/18 /01/28/12 /01/28" 255 0 0"
+
+ServerControl >> Broadcast: Админ: Хаос был бы
+
+Не обработано: ServerControl >> Broadcast: Админ: Хаос был бы
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [771]
+
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27915337
+PlayerID: 76561198336969313
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 30570
+PlayerID: 76561198212486347
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 30901
+PlayerID: 76561198391097237
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 193388
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30795615
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30795631
+
+END
+MessageAnnouncer >> Broadcast: vk.com/unturned_hgm - группа сервера ВК, уникальный кит в записи!
+
+MessageAnnouncer >> vk.com/unturned_hgm - группа сервера ВК, уникальный кит в записи!
+
+END
+Client has executed command "GET NOW"
+ServerControl >> VALUE NOW [1] [0] [777]
+
+[World] Тише Будь! [PogChamp]: "Нез,Насчет хаоса"
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [781]
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [787]
+
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198301131571 Name: PogChamp Character: Тише Будь! Ping: 136
+PlayerID: 76561198444494613 Name: vladkrigin Character: дима васильев Ping: 160
+PlayerID: 76561198423084997 Name: lovemariina Character: Rendy Ping: 140
+PlayerID: 76561198366717561 Name: MAXIMUSSSSSSS Character: MAXIMUSSSSSSS Ping: 15
+PlayerID: 76561198358000300 Name: boost_machina Character: Анальный мишка Ping: 85
+
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27915321
+PlayerID: 76561198336969313
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 30554
+PlayerID: 76561198212486347
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 30885
+PlayerID: 76561198391097237
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 193372
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30795599
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30795615
+
+END
+END
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [791]
+
+[World] Анальный мишка [boost_machina]: "прими тп тише"
+
+[World] Тише Будь! [PogChamp]: "Но Неделю назад феноминал был покупным модером"
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [797]
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [801]
+
+[World] Тише Будь! [PogChamp]: "/tpa a"
+
+Анальный мишка moved x:-869.3696 y:44.32308(+17.56851) z:954.2286 in the last second (2.969685)
+
+Не обработано: Анальный мишка moved x:-869.3696 y:44.32308(+17.56851) z:954.2286 in the last second (2.969685)
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [808]
+
+Client has executed command "players"
+Players:
+PlayerID: 76561198301131571 Name: PogChamp Character: Тише Будь! Ping: 140
+PlayerID: 76561198444494613 Name: vladkrigin Character: дима васильев Ping: 117
+PlayerID: 76561198423084997 Name: lovemariina Character: Rendy Ping: 121
+PlayerID: 76561198366717561 Name: MAXIMUSSSSSSS Character: MAXIMUSSSSSSS Ping: 58
+PlayerID: 76561198358000300 Name: boost_machina Character: Анальный мишка Ping: 78
+
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27915300
+PlayerID: 76561198336969313
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 30533
+PlayerID: 76561198212486347
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 30864
+PlayerID: 76561198391097237
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 193351
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30795578
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30795594
+
+END
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [811]
+
+END
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [818]
+
+cchat "/33/04/13/09/14: /48/14 /11/20/16/09/12, /00 /16/15/19/15/13 /32 /02/28/04/00/12 /05/13/20 /04/15/16 /16/17/00/02/00" 255 0 0
+Client has executed command "cchat "/33/04/13/09/14: /48/14 /11/20/16/09/12, /00 /16/15/19/15/13 /32 /02/28/04/00/12 /05/13/20 /04/15/16 /16/17/00/02/00" 255 0 0"
+
+ServerControl >> Broadcast: Админ: Он купил, а потом я выдал ему доп права
+
+Не обработано: ServerControl >> Broadcast: Админ: Он купил, а потом я выдал ему доп права
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [821]
+
+cchat "/33/04/13/09/14: /44/00/11 /09 /03/15/19/09/11/20" 255 0 0
+Client has executed command "cchat "/33/04/13/09/14: /44/00/11 /09 /03/15/19/09/11/20" 255 0 0"
+
+ServerControl >> Broadcast: Админ: Как и готику
+
+Не обработано: ServerControl >> Broadcast: Админ: Как и готику
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198301131571 Name: PogChamp Character: Тише Будь! Ping: 140
+PlayerID: 76561198444494613 Name: vladkrigin Character: дима васильев Ping: 136
+PlayerID: 76561198423084997 Name: lovemariina Character: Rendy Ping: 132
+PlayerID: 76561198366717561 Name: MAXIMUSSSSSSS Character: MAXIMUSSSSSSS Ping: 15
+PlayerID: 76561198358000300 Name: boost_machina Character: Анальный мишка Ping: 78
+
+Client has executed command "GET NOW"
+ServerControl >> VALUE NOW [1] [0] [828]
+
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27915280
+PlayerID: 76561198336969313
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 30513
+PlayerID: 76561198212486347
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 30844
+PlayerID: 76561198391097237
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 193331
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30795558
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30795574
+
+END
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [831]
+
+END
+MessageAnnouncer >> Broadcast: Посетите наш сайт. Вы будете удивлены! unturned.hemulgm.ru
+
+MessageAnnouncer >> Посетите наш сайт. Вы будете удивлены! unturned.hemulgm.ru
+
+[World] дима васильев [vladkrigin]: "/BUY V 88"
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [838]
+
+[World] Тише Будь! [PogChamp]: "Интересно,за какие заслуги?"
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [841]
+
+cchat "/33/04/13/09/14: /41/00 /17/00/08/14/28/05" 255 0 0
+Client has executed command "cchat "/33/04/13/09/14: /41/00 /17/00/08/14/28/05" 255 0 0"
+
+ServerControl >> Broadcast: Админ: За разные
+Client has executed command "players"
+
+Не обработано: ServerControl >> Broadcast: Админ: За разные
+Players:
+PlayerID: 76561198301131571 Name: PogChamp Character: Тише Будь! Ping: 144
+PlayerID: 76561198444494613 Name: vladkrigin Character: дима васильев Ping: 156
+PlayerID: 76561198423084997 Name: lovemariina Character: Rendy Ping: 132
+PlayerID: 76561198366717561 Name: MAXIMUSSSSSSS Character: MAXIMUSSSSSSS Ping: 11
+PlayerID: 76561198358000300 Name: boost_machina Character: Анальный мишка Ping: 82
+Client has executed command "GET NOW"
+ServerControl >> VALUE NOW [1] [0] [848]
+
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27915260
+PlayerID: 76561198336969313
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 30493
+PlayerID: 76561198212486347
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 30824
+PlayerID: 76561198391097237
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 193311
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30795538
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30795554
+
+END
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [851]
+
+END
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [858]
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [861]
+
+[World] Тише Будь! [PogChamp]: "Он мне ееще не похвастался,как любит"
+
+Broadcast: [ZOMBIE] MAXIMUSSSSSSS был съеден зомби! 
+
+Не обработано: Broadcast: [ZOMBIE] MAXIMUSSSSSSS был съеден зомби! 
+MAXIMUSSSSSSS [MAXIMUSSSSSSS] was mauled by a zombie!
+
+Не обработано: MAXIMUSSSSSSS [MAXIMUSSSSSSS] was mauled by a zombie!
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198301131571 Name: PogChamp Character: Тише Будь! Ping: 136
+PlayerID: 76561198444494613 Name: vladkrigin Character: дима васильев Ping: 125
+PlayerID: 76561198423084997 Name: lovemariina Character: Rendy Ping: 125
+PlayerID: 76561198366717561 Name: MAXIMUSSSSSSS Character: MAXIMUSSSSSSS Ping: 15
+PlayerID: 76561198358000300 Name: boost_machina Character: Анальный мишка Ping: 82
+
+Client has executed command "GET NOW"
+ServerControl >> VALUE NOW [1] [0] [868]
+
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27915240
+PlayerID: 76561198336969313
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 30473
+PlayerID: 76561198212486347
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 30804
+PlayerID: 76561198391097237
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 193291
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30795518
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30795534
+
+END
+END
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [871]
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [878]
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [881]
+
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198301131571 Name: PogChamp Character: Тише Будь! Ping: 132
+PlayerID: 76561198444494613 Name: vladkrigin Character: дима васильев Ping: 136
+PlayerID: 76561198423084997 Name: lovemariina Character: Rendy Ping: 121
+PlayerID: 76561198366717561 Name: MAXIMUSSSSSSS Character: MAXIMUSSSSSSS Ping: 11
+PlayerID: 76561198358000300 Name: boost_machina Character: Анальный мишка Ping: 78
+
+Client has executed command "GET NOW"
+ServerControl >> VALUE NOW [1] [0] [888]
+
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27915220
+PlayerID: 76561198336969313
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 30453
+PlayerID: 76561198212486347
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 30784
+PlayerID: 76561198391097237
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 193271
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30795498
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30795514
+
+END
+END
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [891]
+
+MessageAnnouncer >> Broadcast: Наберите /kit help, чтобы получить первую мед. помощь (бинты, таблетки, еда)
+MessageAnnouncer >> Наберите /kit help, чтобы получить первую мед. помощь (бинты, таблетки, еда)
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [898]
+
+[World] Тише Будь! [PogChamp]: "За разные за какие?"
+
+Disconnecting: PlayerID: 76561198366717561 Name: MAXIMUSSSSSSS Character: MAXIMUSSSSSSS
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [902]
+
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198301131571 Name: PogChamp Character: Тише Будь! Ping: 136
+PlayerID: 76561198444494613 Name: vladkrigin Character: дима васильев Ping: 164
+PlayerID: 76561198423084997 Name: lovemariina Character: Rendy Ping: 125
+PlayerID: 76561198358000300 Name: boost_machina Character: Анальный мишка Ping: 70
+Client has executed command "GET NOW"
+ServerControl >> VALUE NOW [1] [0] [908]
+
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27915200
+PlayerID: 76561198336969313
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 30433
+PlayerID: 76561198212486347
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 30764
+PlayerID: 76561198391097237
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 193251
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30795478
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30795494
+
+END
+END
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [912]
+
+[World] Тише Будь! [PogChamp]: "/heak Анал"
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [918]
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [922]
+
+[World] Тише Будь! [PogChamp]: "/heal Анал"
+
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198301131571 Name: PogChamp Character: Тише Будь! Ping: 144
+PlayerID: 76561198444494613 Name: vladkrigin Character: дима васильев Ping: 121
+PlayerID: 76561198423084997 Name: lovemariina Character: Rendy Ping: 125
+PlayerID: 76561198358000300 Name: boost_machina Character: Анальный мишка Ping: 78
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [928]
+
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27915180
+PlayerID: 76561198336969313
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 30413
+PlayerID: 76561198212486347
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 30744
+PlayerID: 76561198391097237
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 193231
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30795458
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30795474
+
+END
+END
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [932]
+
+Client has executed command "airdrop"
+
+Successfully set airdrop!
+
+Client has executed command "airdrop"
+
+Successfully set airdrop!
+
+Client has executed command "airdrop"
+
+Successfully set airdrop!
+
+Client has executed command "airdrop"
+
+Successfully set airdrop!
+
+Client has executed command "airdrop"
+Successfully set airdrop!
+
+Client has executed command "airdrop"
+
+Successfully set airdrop!
+
+Client has executed command "airdrop"
+
+Successfully set airdrop!
+
+Client has executed command "airdrop"
+
+Successfully set airdrop!
+
+Client has executed command "airdrop"
+
+Successfully set airdrop!
+
+Client has executed command "airdrop"
+
+Successfully set airdrop!
+
+Client has executed command "cchat "/33/09/17/04/17/15/16 /24/05/17/05/08 2 /24. " 255 255 0"
+ServerControl >> Broadcast: Аирдроп через 2 ч.
+
+Не обработано: ServerControl >> Broadcast: Аирдроп через 2 ч.
+[World] Анальный мишка [boost_machina]: "/buy 328 10"
+
+cchat "/33/04/13/09/14: /52/28 /02/28/12/05/24/09/12 /00/14/00/12" 255 0 0
+Client has executed command "GET NOW"
+ServerControl >> VALUE NOW [1] [0] [938]
+
+Client has executed command "cchat "/33/04/13/09/14: /52/28 /02/28/12/05/24/09/12 /00/14/00/12" 255 0 0"
+
+ServerControl >> Broadcast: Админ: Ты вылечил анал
+
+Не обработано: ServerControl >> Broadcast: Админ: Ты вылечил анал
+cchat "/33/04/13/09/14: ))" 255 0 0
+Client has executed command "cchat "/33/04/13/09/14: ))" 255 0 0"
+
+ServerControl >> Broadcast: Админ: ))
+
+Не обработано: ServerControl >> Broadcast: Админ: ))
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [942]
+
+[World] Тише Будь! [PogChamp]: "Бля"
+
+cchat "/33/04/13/09/14: /35/05/18/05/12/15" 255 0 0
+Client has executed command "cchat "/33/04/13/09/14: /35/05/18/05/12/15" 255 0 0"
+
+ServerControl >> Broadcast: Админ: Весело
+
+Не обработано: ServerControl >> Broadcast: Админ: Весело
+[World] Тише Будь! [PogChamp]: "Шутник"
+
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198301131571 Name: PogChamp Character: Тише Будь! Ping: 140
+PlayerID: 76561198444494613 Name: vladkrigin Character: дима васильев Ping: 140
+PlayerID: 76561198423084997 Name: lovemariina Character: Rendy Ping: 136
+PlayerID: 76561198358000300 Name: boost_machina Character: Анальный мишка Ping: 82
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [948]
+
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27915160
+PlayerID: 76561198336969313
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 30393
+PlayerID: 76561198212486347
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 30724
+PlayerID: 76561198391097237
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 193211
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30795438
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30795454
+
+END
+END
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [952]
+
+MessageAnnouncer >> Broadcast: vk.com/unturned_hgm - цены на премиум, VIP и другие услуги смотрите в группе!
+
+MessageAnnouncer >> vk.com/unturned_hgm - цены на премиум, VIP и другие услуги смотрите в группе!
+
+[World] Тише Будь! [PogChamp]: "Попросил"
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [958]
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [962]
+
+cchat "/33/04/13/09/14: /46/15/03 /01/28 /14/00/16/09/18/00/19/29 /13/09/25/11/00" 255 0 0
+Client has executed command "cchat "/33/04/13/09/14: /46/15/03 /01/28 /14/00/16/09/18/00/19/29 /13/09/25/11/00" 255 0 0"
+
+ServerControl >> Broadcast: Админ: Мог бы написать мишка
+
+Не обработано: ServerControl >> Broadcast: Админ: Мог бы написать мишка
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198301131571 Name: PogChamp Character: Тише Будь! Ping: 136
+PlayerID: 76561198444494613 Name: vladkrigin Character: дима васильев Ping: 121
+PlayerID: 76561198423084997 Name: lovemariina Character: Rendy Ping: 125
+PlayerID: 76561198358000300 Name: boost_machina Character: Анальный мишка Ping: 93
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [968]
+
+cchat "/33/04/13/09/14: /48/14 /01/28 /19/15/07/05 /16/15/14/32/12" 255 0 0
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27915140
+PlayerID: 76561198336969313
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 30373
+PlayerID: 76561198212486347
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 30704
+PlayerID: 76561198391097237
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 193191
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30795418
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30795434
+
+END
+Client has executed command "cchat "/33/04/13/09/14: /48/14 /01/28 /19/15/07/05 /16/15/14/32/12" 255 0 0"
+ServerControl >> Broadcast: Админ: Он бы тоже понял
+
+Не обработано: ServerControl >> Broadcast: Админ: Он бы тоже понял
+END
+GET NOW
+[World] Тише Будь! [PogChamp]: "За какие заслуги то?"
+
+Client has executed command "GET NOW"
+ServerControl >> VALUE NOW [1] [0] [972]
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [978]
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [982]
+
+[World] дима васильев [vladkrigin]: "/BUY V/118"
+
+cchat "/33/04/13/09/14: /41/00 /17/00/08/14/28/05. /65 /07/05 /18/11/00/08/00/12." 255 0 0
+Client has executed command "cchat "/33/04/13/09/14: /41/00 /17/00/08/14/28/05. /65 /07/05 /18/11/00/08/00/12." 255 0 0"
+
+ServerControl >> Broadcast: Админ: За разные. Я же сказал.
+
+Не обработано: ServerControl >> Broadcast: Админ: За разные. Я же сказал.
+cchat "/33/04/13/09/14: /04/09/13/00" 255 0 0
+Client has executed command "players"
+Players:
+PlayerID: 76561198301131571 Name: PogChamp Character: Тише Будь! Ping: 140
+PlayerID: 76561198444494613 Name: vladkrigin Character: дима васильев Ping: 140
+PlayerID: 76561198423084997 Name: lovemariina Character: Rendy Ping: 125
+PlayerID: 76561198358000300 Name: boost_machina Character: Анальный мишка Ping: 78
+
+Client has executed command "cchat "/33/04/13/09/14: /04/09/13/00" 255 0 0"
+
+ServerControl >> Broadcast: Админ: дима
+
+Не обработано: ServerControl >> Broadcast: Админ: дима
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [988]
+
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27915120
+PlayerID: 76561198336969313
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 30353
+PlayerID: 76561198212486347
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 30684
+PlayerID: 76561198391097237
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 193171
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30795398
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30795414
+
+END
+END
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [992]
+
+[World] Тише Будь! [PogChamp]: "Программе пох,как писать.Главное вылечить"
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [998]
+
+[World] дима васильев [vladkrigin]: "ЧТО"
+
+[World] Тише Будь! [PogChamp]: "За разные,За какие?"
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [1002]
+
+cchat "/33/04/13/09/14: /37/12/32 /16/15/11/20/16/11/09 /19/00/24/11/09 ./buy v.118" 255 0 0
+Client has executed command "cchat "/33/04/13/09/14: /37/12/32 /16/15/11/20/16/11/09 /19/00/24/11/09 ./buy v.118" 255 0 0"
+
+ServerControl >> Broadcast: Админ: Для покупки тачки ./buy v.118
+
+Не обработано: ServerControl >> Broadcast: Админ: Для покупки тачки ./buy v.118
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198301131571 Name: PogChamp Character: Тише Будь! Ping: 140
+PlayerID: 76561198444494613 Name: vladkrigin Character: дима васильев Ping: 148
+PlayerID: 76561198423084997 Name: lovemariina Character: Rendy Ping: 125
+PlayerID: 76561198358000300 Name: boost_machina Character: Анальный мишка Ping: 74
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [1008]
+
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27915100
+PlayerID: 76561198336969313
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 30333
+PlayerID: 76561198212486347
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 30664
+PlayerID: 76561198391097237
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 193151
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30795378
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30795394
+
+END
+END
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [1012]
+
+MessageAnnouncer >> Broadcast: Наберите /kit claim, чтобы получить Claim Flag
+
+MessageAnnouncer >> Наберите /kit claim, чтобы получить Claim Flag
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [1018]
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [1022]
+
+[World] дима васильев [vladkrigin]: "/BUY V.118"
+
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198301131571 Name: PogChamp Character: Тише Будь! Ping: 140
+PlayerID: 76561198444494613 Name: vladkrigin Character: дима васильев Ping: 144
+PlayerID: 76561198423084997 Name: lovemariina Character: Rendy Ping: 128
+PlayerID: 76561198358000300 Name: boost_machina Character: Анальный мишка Ping: 74
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [1028]
+
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27915080
+PlayerID: 76561198336969313
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 30313
+PlayerID: 76561198212486347
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 30644
+PlayerID: 76561198391097237
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 193131
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30795358
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30795374
+
+END
+END
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [1032]
+
+[World] дима васильев [vladkrigin]: "/BUY V 118"
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [1038]
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [1042]
+
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198301131571 Name: PogChamp Character: Тише Будь! Ping: 136
+PlayerID: 76561198444494613 Name: vladkrigin Character: дима васильев Ping: 128
+PlayerID: 76561198423084997 Name: lovemariina Character: Rendy Ping: 125
+PlayerID: 76561198358000300 Name: boost_machina Character: Анальный мишка Ping: 85
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [1048]
+
+cchat "/33/04/13/09/14: /48/14 /20/13/20/04/17/32/12/18/32 /16/15/13/15/03/00/19/29 /09 /18 /15/01/28/24/14/28/13/09 /16/17/00/02/00/13/09 /13/15/04/05/17/00" 255 0 0
+[World] дима васильев [vladkrigin]: "/TPA REN"
+
+Client has executed command "cchat "/33/04/13/09/14: /48/14 /20/13/20/04/17/32/12/18/32 /16/15/13/15/03/00/19/29 /09 /18 /15/01/28/24/14/28/13/09 /16/17/00/02/00/13/09 /13/15/04/05/17/00" 255 0 0"
+ServerControl >> Broadcast: Админ: Он умудрялся помогать и с обычными правами модера
+
+Не обработано: ServerControl >> Broadcast: Админ: Он умудрялся помогать и с обычными правами модера
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27915059
+PlayerID: 76561198336969313
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 30292
+PlayerID: 76561198212486347
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 30623
+PlayerID: 76561198391097237
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 193110
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30795337
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30795353
+
+END
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [1052]
+
+END
+[World] Rendy [lovemariina]: "/tpa accept"
+
+дима васильев moved x:-44.54414 y:53.41721(+17.12911) z:-49.48583 in the last second (0.6076355)
+
+Не обработано: дима васильев moved x:-44.54414 y:53.41721(+17.12911) z:-49.48583 in the last second (0.6076355)
+Client has executed command "GET NOW"
+ServerControl >> VALUE NOW [1] [0] [1059]
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [1062]
+
+[World] Тише Будь! [PogChamp]: "Рушить домики)"
+
+[World] Тише Будь! [PogChamp]: "мои"
+
+Client has executed command "players"
+Players:
+PlayerID: 76561198301131571 Name: PogChamp Character: Тише Будь! Ping: 132
+PlayerID: 76561198444494613 Name: vladkrigin Character: дима васильев Ping: 121
+PlayerID: 76561198423084997 Name: lovemariina Character: Rendy Ping: 128
+PlayerID: 76561198358000300 Name: boost_machina Character: Анальный мишка Ping: 62
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [1069]
+
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27915040
+PlayerID: 76561198336969313
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 30273
+PlayerID: 76561198212486347
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 30604
+PlayerID: 76561198391097237
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 193091
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30795318
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30795334
+
+END
+END
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [1072]
+
+MessageAnnouncer >> Broadcast: Если модератор ведёт себя неподобающе, пишите в группу или ЛС (vk.com/unturned_hgm, vk.com/hemulgm)
+
+MessageAnnouncer >> Если модератор ведёт себя неподобающе, пишите в группу или ЛС (vk.com/unturned_hgm, vk.com/hemulgm)
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [1079]
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [1082]
+
+Client has executed command "players"
+Players:
+PlayerID: 76561198301131571 Name: PogChamp Character: Тише Будь! Ping: 128
+PlayerID: 76561198444494613 Name: vladkrigin Character: дима васильев Ping: 128
+PlayerID: 76561198423084997 Name: lovemariina Character: Rendy Ping: 128
+PlayerID: 76561198358000300 Name: boost_machina Character: Анальный мишка Ping: 82
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [1089]
+
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27915020
+PlayerID: 76561198336969313
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 30253
+PlayerID: 76561198212486347
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 30584
+PlayerID: 76561198391097237
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 193071
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30795298
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30795314
+
+END
+END
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [1092]
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [1099]
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [1102]
+
+Client has executed command "players"
+Players:
+PlayerID: 76561198301131571 Name: PogChamp Character: Тише Будь! Ping: 136
+PlayerID: 76561198444494613 Name: vladkrigin Character: дима васильев Ping: 121
+PlayerID: 76561198423084997 Name: lovemariina Character: Rendy Ping: 132
+PlayerID: 76561198358000300 Name: boost_machina Character: Анальный мишка Ping: 70
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [1109]
+
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27915000
+PlayerID: 76561198336969313
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 30233
+PlayerID: 76561198212486347
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 30564
+PlayerID: 76561198391097237
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 193051
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30795278
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30795294
+
+END
+END
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [1113]
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [1119]
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [1122]
+
+Client has executed command "players"
+Players:
+PlayerID: 76561198301131571 Name: PogChamp Character: Тише Будь! Ping: 136
+PlayerID: 76561198444494613 Name: vladkrigin Character: дима васильев Ping: 128
+PlayerID: 76561198423084997 Name: lovemariina Character: Rendy Ping: 132
+PlayerID: 76561198358000300 Name: boost_machina Character: Анальный мишка Ping: 70
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [1129]
+
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27914980
+PlayerID: 76561198336969313
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 30213
+PlayerID: 76561198212486347
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 30544
+PlayerID: 76561198391097237
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 193031
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30795258
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30795274
+
+END
+END
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [1132]
+
+MessageAnnouncer >> Broadcast: Посетите наш сайт. Вы будете удивлены! unturned.hemulgm.ru
+
+MessageAnnouncer >> Посетите наш сайт. Вы будете удивлены! unturned.hemulgm.ru
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [1139]
+
+cchat "/33/04/13/09/14: /42/13/05/14/14/15)" 255 0 0
+Client has executed command "cchat "/33/04/13/09/14: /42/13/05/14/14/15)" 255 0 0"
+
+ServerControl >> Broadcast: Админ: Именно)
+
+Не обработано: ServerControl >> Broadcast: Админ: Именно)
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [1142]
+
+cchat "/33/04/13/09/14: /65 /20/25/06/12" 255 0 0
+Client has executed command "cchat "/33/04/13/09/14: /65 /20/25/06/12" 255 0 0"
+
+ServerControl >> Broadcast: Админ: Я ушёл
+
+Не обработано: ServerControl >> Broadcast: Админ: Я ушёл

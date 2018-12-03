@@ -1,0 +1,46 @@
+RocketRcon v2.4.8.0
+
+login aVIPs22031994
+players
+Client has executed command "players"
+
+Failed to find any players.
+
+Client has executed command "players"
+Failed to find any players.
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [2116]
+
+GET NOW
+Client has executed command "GET NOW"
+ServerControl >> VALUE NOW [1] [0] [2120]
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [2126]
+
+Client has executed command "players"
+
+Failed to find any players.
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [2131]
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [2136]
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [2141]
+
+Client has executed command "GET NOW"
+ServerControl >> VALUE NOW [1] [0] [2146]
+
+MessageAnnouncer >> Broadcast: Наберите /kit claim, чтобы получить Claim Flag
+

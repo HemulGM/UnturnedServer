@@ -1,0 +1,100 @@
+Не обработано: RocketRcon v2.4.8.0
+RocketRcon v2.4.8.0
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 140
+PlayerID: 76561198276760430 Name: dnjmack Character: puppminer Ping: 234
+PlayerID: 76561198300812301 Name: KiLeR00707 Character: KiLeR00707 Ping: 23
+PlayerID: 76561198322193999 Name: ™_Game®_™ Character: Карл Иванович Ping: 50
+PlayerID: 76561198262878051 Name: Kolder Character: Kolder Ping: 46
+PlayerID: 76561198345092267 Name: demid3450 Character: [гл террористов] демид журавлёв Ping: 121
+PlayerID: 76561198357648706 Name: lessik1210 Character: Griman18 Ping: 50
+PlayerID: 76561198380474021 Name: Samotar Character: Страник Ping: 66
+PlayerID: 76561198200101595 Name: NEVALYASHA Character: NEVALYASHA Ping: 132
+PlayerID: 76561198253320744 Name: AIM_PEPPA_AIM Character: мс.ваня Ping: 152
+PlayerID: 76561198242198304 Name: Mr.Chet(138rus) Character: Mr.Chet Ping: 93
+PlayerID: 76561198104281382 Name: Asspirin Character: Asspirin Ping: 35
+PlayerID: 76561198282476481 Name: Hulumulu Character: URPOLOG :) Ping: 39
+
+TimerTerminateCommand.Enabled with Players:
+Client has executed command "bans"
+
+Не обработано: Bans:
+Не обработано: PlayerID: 123123
+Не обработано: JudgeID: 0
+Не обработано: Reason: unspecified Duration: 31536000 Remaining: 31476328
+Не обработано: PlayerID: 123
+Не обработано: JudgeID: 0
+Не обработано: Reason: durila Duration: 4000 Remaining: 4294912122
+Не обработано: PlayerID: 76561198303283372
+Не обработано: JudgeID: 0
+Не обработано: Reason: za_reid Duration: 8000 Remaining: 4294932125
+Не обработано: PlayerID: 76561198274427357
+Не обработано: JudgeID: 0
+Не обработано: Reason: you were vote kicked Duration: 180 Remaining: 4294940495
+TimerTerminateCommand.Enabled with Players:
+Bans:
+PlayerID: 123123
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 31476328
+PlayerID: 123
+JudgeID: 0
+Reason: durila Duration: 4000 Remaining: 4294912122
+PlayerID: 76561198303283372
+JudgeID: 0
+Reason: za_reid Duration: 8000 Remaining: 4294932125
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294940495
+
+[World] Asspirin [Asspirin]: "/kit help"
+
+[World] URPOLOG :) [Hulumulu]: "/kits"
+
+[World] Mr.Chet [Mr.Chet(138rus)]: "/exp 11111"
+
+[World] [гл террористов] демид журавлёв [demid3450]: "спс"
+
+[World] Expert1337 [Expert13372284200]: "ток на 2 хватает"
+
+[World] Asspirin [Asspirin]: "/kit claim"
+
+Не обработано: MessageAnnouncer >> Broadcast: vk.com/unturned_hgm - группа сервера ВК, уникальный кит в записи!
+MessageAnnouncer >> Broadcast: vk.com/unturned_hgm - группа сервера ВК, уникальный кит в записи!
+
+Не обработано: MessageAnnouncer >> vk.com/unturned_hgm - группа сервера ВК, уникальный кит в записи!
+MessageAnnouncer >> vk.com/unturned_hgm - группа сервера ВК, уникальный кит в записи!
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 128
+PlayerID: 76561198276760430 Name: dnjmack Character: puppminer Ping: 285
+PlayerID: 76561198300812301 Name: KiLeR00707 Character: KiLeR00707 Ping: 54
+PlayerID: 76561198322193999 Name: ™_Game®_™ Character: Карл Иванович Ping: 62
+PlayerID: 76561198262878051 Name: Kolder Character: Kolder Ping: 46
+PlayerID: 76561198345092267 Name: demid3450 Character: [гл террористов] демид журавлёв Ping: 144
+PlayerID: 76561198357648706 Name: lessik1210 Character: Griman18 Ping: 46
+PlayerID: 76561198380474021 Name: Samotar Character: Страник Ping: 82
+PlayerID: 76561198200101595 Name: NEVALYASHA Character: NEVALYASHA Ping: 125
+PlayerID: 76561198253320744 Name: AIM_PEPPA_AIM Character: мс.ваня Ping: 179
+PlayerID: 76561198242198304 Name: Mr.Chet(138rus) Character: Mr.Chet Ping: 82
+PlayerID: 76561198104281382 Name: Asspirin Character: Asspirin Ping: 39
+PlayerID: 76561198282476481 Name: Hulumulu Character: URPOLOG :) Ping: 42
+
+TimerTerminateCommand.Enabled with Players:
+[World] URPOLOG :) [Hulumulu]: "/kit help"
+
+TimerTerminateCommand.Enabled with Players:
+[World] Страник [Samotar]: "/kit start"
+
+TimerTerminateCommand.Enabled with Players:
+[World] [гл террористов] демид журавлёв [demid3450]: "щя принесу железо"
+
+TimerTerminateCommand.Enabled with Players:
+[World] [гл террористов] демид журавлёв [demid3450]: "/home"
+

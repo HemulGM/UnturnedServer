@@ -1,0 +1,193 @@
+RocketRcon v2.4.8.0
+
+login aVIPs22031994
+players
+Client has executed command "players"
+Players:
+PlayerID: 76561198423084997 Name: lovemariina Character: 228ff Ping: 140
+PlayerID: 76561198408019916 Name: slava.fan555 Character: Славик Cухоруков Ping: 78
+PlayerID: 76561198315561906 Name: MaXiMuS Character: MaXiMuS Ping: 58
+PlayerID: 76561198165490172 Name: Ashtoreth Character: |Gothic| Ping: 54
+
+Client has executed command "bans"
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27649768
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30530046
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30530062
+
+END
+bans
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27649768
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30530046
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30530062
+
+END
+END
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198423084997 Name: lovemariina Character: 228ff Ping: 140
+PlayerID: 76561198408019916 Name: slava.fan555 Character: Славик Cухоруков Ping: 97
+PlayerID: 76561198315561906 Name: MaXiMuS Character: MaXiMuS Ping: 58
+PlayerID: 76561198165490172 Name: Ashtoreth Character: |Gothic| Ping: 54
+
+VehicleEvents >> Vehicle has been despawned
+
+END
+bans
+Client has executed command "bans"
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27649763
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30530041
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30530057
+Client has executed command "bans"
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27649763
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30530041
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30530057
+
+END
+END
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [525]
+
+[World] |Gothic| [Ashtoreth]: "Слава, де твоя хата?"
+
+GET NOW
+Client has executed command "GET NOW"
+ServerControl >> VALUE NOW [1] [0] [531]
+
+[World] Славик Cухоруков [slava.fan555]: "/sell 16x skope"
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [535]
+
+[World] |Gothic| [Ashtoreth]: "/i honey"
+
+Дал |Gothic| вещь 116:1
+
+Не обработано: Дал |Gothic| вещь 116:1
+players
+GET NOW
+Client has executed command "players"
+Players:
+PlayerID: 76561198423084997 Name: lovemariina Character: 228ff Ping: 132
+PlayerID: 76561198408019916 Name: slava.fan555 Character: Славик Cухоруков Ping: 74
+PlayerID: 76561198315561906 Name: MaXiMuS Character: MaXiMuS Ping: 54
+PlayerID: 76561198165490172 Name: Ashtoreth Character: |Gothic| Ping: 35
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [541]
+
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198423084997 Name: lovemariina Character: 228ff Ping: 132
+PlayerID: 76561198408019916 Name: slava.fan555 Character: Славик Cухоруков Ping: 74
+PlayerID: 76561198315561906 Name: MaXiMuS Character: MaXiMuS Ping: 54
+PlayerID: 76561198165490172 Name: Ashtoreth Character: |Gothic| Ping: 35
+
+END
+bans
+Client has executed command "bans"
+
+Client has executed command "bans"
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27649745
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30530023
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30530039
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27649745
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30530023
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30530039
+
+END
+bans
+END
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+Client has executed command "bans"
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27649745
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30530023
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30530039
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27649745
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30530023
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30530039
+
+END
+END
+MessageAnnouncer >> Broadcast: Если модератор ведёт себя неподобающе, пишите в группу или ЛС (vk.com/unturned_hgm, vk.com/hemulgm)
+
+MessageAnnouncer >> Если модератор ведёт себя неподобающе, пишите в группу или ЛС (vk.com/unturned_hgm, vk.com/hemulgm)
+
+END
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [545]
+
+[World] Славик Cухоруков [slava.fan555]: "/sell 16x scope"
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [551]
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [555]
+

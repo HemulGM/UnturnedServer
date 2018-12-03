@@ -1,0 +1,79 @@
+Не обработано: RocketRcon v2.4.8.0
+RocketRcon v2.4.8.0
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 50
+PlayerID: 76561198314140913 Name: DireHick Character: JeffRee Ping: 31
+PlayerID: 76561198256523318 Name: baha Character: baha Ping: 54
+PlayerID: 76561198176817369 Name: ?. Character: GlodiS Ping: 82
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 144
+PlayerID: 76561198295801599 Name: Lo[x] Character: Lo[x] Ping: 58
+PlayerID: 76561198276840558 Name: Котик ^-^ Character: kennys Ping: 109
+PlayerID: 76561198322193999 Name: ™_Game®_™ Character: Карл Иванович Ping: 54
+PlayerID: 76561198262878051 Name: Kolder Character: Kolder Ping: 46
+PlayerID: 76561198287257345 Name: TheHard27 Character: TheHard27 Ping: 183
+PlayerID: 76561198351213164 Name: _АхМеД_ Character: Виндяй Вечеслав Ping: 164
+
+TimerTerminateCommand.Enabled with Players:
+Client has executed command "bans"
+
+END with Players:
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 123123
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 31458492
+PlayerID: 123
+JudgeID: 0
+Reason: durila Duration: 4000 Remaining: 4294894286
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294922659
+
+END with Bans:
+[World] JeffRee [DireHick]: "/tpa baha"
+
+[World] baha [baha]: "/tpa accept"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 46
+PlayerID: 76561198314140913 Name: DireHick Character: JeffRee Ping: 93
+PlayerID: 76561198256523318 Name: baha Character: baha Ping: 50
+PlayerID: 76561198176817369 Name: ?. Character: GlodiS Ping: 70
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 132
+PlayerID: 76561198295801599 Name: Lo[x] Character: Lo[x] Ping: 58
+PlayerID: 76561198276840558 Name: Котик ^-^ Character: kennys Ping: 97
+PlayerID: 76561198322193999 Name: ™_Game®_™ Character: Карл Иванович Ping: 46
+PlayerID: 76561198262878051 Name: Kolder Character: Kolder Ping: 46
+PlayerID: 76561198287257345 Name: TheHard27 Character: TheHard27 Ping: 171
+PlayerID: 76561198351213164 Name: _АхМеД_ Character: Виндяй Вечеслав Ping: 101
+
+TimerTerminateCommand.Enabled with Players:
+[World] Expert1337 [Expert13372284200]: "на счёт паспорта узнать надо"
+
+END with Players:
+[Area] kennys [Котик ^-^]: "Продам горелку"
+
+Disconnecting: PlayerID: 76561198256523318 Name: baha Character: baha
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 46
+PlayerID: 76561198314140913 Name: DireHick Character: JeffRee Ping: 46
+PlayerID: 76561198176817369 Name: ?. Character: GlodiS Ping: 74
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 136
+PlayerID: 76561198295801599 Name: Lo[x] Character: Lo[x] Ping: 58
+PlayerID: 76561198276840558 Name: Котик ^-^ Character: kennys Ping: 113
+PlayerID: 76561198322193999 Name: ™_Game®_™ Character: Карл Иванович Ping: 54
+PlayerID: 76561198262878051 Name: Kolder Character: Kolder Ping: 58
+PlayerID: 76561198287257345 Name: TheHard27 Character: TheHard27 Ping: 222
+PlayerID: 76561198351213164 Name: _АхМеД_ Character: Виндяй Вечеслав Ping: 207
+

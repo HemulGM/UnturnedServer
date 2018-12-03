@@ -1,0 +1,10 @@
+03.11.2017 14:51:35: ClientSocketLookup
+03.11.2017 14:51:35: ClientSocketConnecting
+03.11.2017 14:51:35: ClientSocketConnect
+03.11.2017 14:51:35: ClientSocketWrite
+03.11.2017 14:51:35: Access denied for user 'root'@'comul.ru' (using password: YES)
+03.11.2017 14:51:36: Can't connect to MySQL server on '127.0.0.1' (10061)
+03.11.2017 14:51:36: enter ThreadUpdateProc
+03.11.2017 14:52:00: Access denied for user 'root'@'comul.ru' (using password: YES)
+03.11.2017 14:52:23: Can't connect to MySQL server on '188.234.213.65' (10060)
+03.11.2017 14:52:56: exit ThreadUpdateProc

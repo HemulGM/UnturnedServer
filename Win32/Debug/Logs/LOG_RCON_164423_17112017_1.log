@@ -1,0 +1,35 @@
+17.11.2017 16:44:28: RocketRcon v2.4.8.0
+
+17.11.2017 16:44:28: login aVIPs22031994
+17.11.2017 16:44:28: players
+17.11.2017 16:44:29: Client has executed command "players"
+Players:
+PlayerID: 76561198170498361 Name: _Nick_Hunter_ Character: Nick_Hunter[RUS] Ping: 129
+PlayerID: 76561198423084997 Name: lovemariina Character: Rendy Ping: 150
+PlayerID: 76561198364621785 Name: Alexander A-K Character: AlexanderAGaming Ping: 158
+PlayerID: 76561198408019916 Name: slava.fan555 Character: Славик Cухоруков Ping: 99
+PlayerID: 76561198444494613 Name: vladkrigin Character: 666а Ping: 137
+PlayerID: 76561198106869292 Name: roman146rus Character: roman146rus Ping: 53
+
+17.11.2017 16:44:30: Client has executed command "bans"
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 28510108
+PlayerID: 76561198395511982
+JudgeID: 0
+Reason: 999999 Duration: 31536000 Remaining: 30064860
+PlayerID: 76561198331180787
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30413078
+PlayerID: 76561198172502147
+JudgeID: 76561198237123262
+Reason: 3600 Duration: 31536000 Remaining: 30416472
+PlayerID: 76561198331252339
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30428805
+PlayerID: 76561198434258763
+JudgeID: 0
+Reason: reid Duration: 608400 Remaining: 195352
+
+17.11.2017 16:44:30: END

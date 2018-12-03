@@ -1,0 +1,37 @@
+Не обработано: RocketRcon v2.4.8.0
+RocketRcon v2.4.8.0
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198369248070 Name: Ali Character: Ali Ping: 148
+PlayerID: 76561198165822970 Name: Indigo Character: Indigo Ping: 42
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 136
+PlayerID: 76561198368128006 Name: Aibek Character: Aibek [A.S.D] Ping: 93
+PlayerID: 76561198361426439 Name: YouTube-kotik_killer Character: YouTube-kotik_killer Ping: 218
+PlayerID: 76561198328119181 Name: Fex Character: Fex Ping: 54
+PlayerID: 76561198114070067 Name: Super iGeroy Character: Samurai Ping: 54
+PlayerID: 76561198381575360 Name: sehdzscuygs Character: sehdzscuygs Ping: 195
+PlayerID: 76561198392717455 Name: yusufcalik2006 Character: pro Ping: 164
+PlayerID: 76561198351213164 Name: _АхМеД_ Character: Виндяй Вечеслав Ping: 109
+PlayerID: 76561198207655728 Name: starsh3118 Character: starsh3118 Ping: 378
+PlayerID: 76561198363828451 Name: Ничоси Character: Кеша Ping: 35
+PlayerID: 76561198334346242 Name: мареонетка Character: [Кровавые]хмурый Ping: 117
+PlayerID: 76561198241152556 Name: Pahan132 Character: Pahan132 Ping: 117
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 123123
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 31025029
+PlayerID: 123
+JudgeID: 0
+Reason: durila Duration: 4000 Remaining: 4294460823
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294489196
+

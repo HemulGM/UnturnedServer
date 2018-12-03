@@ -1,0 +1,284 @@
+RocketRcon v2.4.8.0
+
+login aVIPs22031994
+players
+Client has executed command "players"
+Players:
+PlayerID: 76561198245870076 Name: 0|TheGangstar|0 Character: Nyan Bread Ping: 82
+PlayerID: 76561198223334228 Name: kimi (R.I.P) Character: kimi Ping: 97
+PlayerID: 76561198218103779 Name: Магистр_Сала Character: мафия    Ping: 11
+PlayerID: 76561198448189023 Name: mr.themakil Character: КоПаТыЧь Ping: 66
+PlayerID: 76561198447225435 Name: deonisii_0_0 Character: deonisii_0_0 Ping: 58
+MessageAnnouncer >> Broadcast: vk.com/unturned_hgm - цены на премиум, VIP и другие услуги смотрите в группе!
+MessageAnnouncer >> vk.com/unturned_hgm - цены на премиум, VIP и другие услуги смотрите в группе!
+
+Client has executed command "bans"
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27926858
+PlayerID: 76561198336969313
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 42091
+PlayerID: 76561198212486347
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 42422
+PlayerID: 76561198391097237
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 204909
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30807136
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30807152
+
+END
+END
+cchat "/50/05/18/19/00/17/19 /24/05/17/05/08 120 /18/05/11/20/14/04" 198 255 38
+Client has executed command "cchat "/50/05/18/19/00/17/19 /24/05/17/05/08 120 /18/05/11/20/14/04" 198 255 38"
+
+ServerControl >> Broadcast: Рестарт через 120 секунд
+
+Не обработано: ServerControl >> Broadcast: Рестарт через 120 секунд
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [317]
+
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198245870076 Name: 0|TheGangstar|0 Character: Nyan Bread Ping: 70
+PlayerID: 76561198223334228 Name: kimi (R.I.P) Character: kimi Ping: 97
+PlayerID: 76561198218103779 Name: Магистр_Сала Character: мафия    Ping: 19
+PlayerID: 76561198448189023 Name: mr.themakil Character: КоПаТыЧь Ping: 97
+PlayerID: 76561198447225435 Name: deonisii_0_0 Character: deonisii_0_0 Ping: 70
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [321]
+
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27926844
+PlayerID: 76561198336969313
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 42077
+PlayerID: 76561198212486347
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 42408
+PlayerID: 76561198391097237
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 204895
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30807122
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30807138
+[World] Nyan Bread [0|TheGangstar|0]: "/kit claim"
+
+END
+END
+cchat "/33/04/13/09/14: /63/19/15 /16/17/15/02/05/17/11/00" 255 0 0
+Client has executed command "cchat "/33/04/13/09/14: /63/19/15 /16/17/15/02/05/17/11/00" 255 0 0"
+
+ServerControl >> Broadcast: Админ: Это проверка
+
+Не обработано: ServerControl >> Broadcast: Админ: Это проверка
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [327]
+
+cchat "/33/04/13/09/14: /17/05/18/19/00/17/19/00 /14/05 /01/20/04/05/19" 255 0 0
+Client has executed command "cchat "/33/04/13/09/14: /17/05/18/19/00/17/19/00 /14/05 /01/20/04/05/19" 255 0 0"
+
+ServerControl >> Broadcast: Админ: рестарта не будет
+
+Не обработано: ServerControl >> Broadcast: Админ: рестарта не будет
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [331]
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [337]
+
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198245870076 Name: 0|TheGangstar|0 Character: Nyan Bread Ping: 85
+PlayerID: 76561198223334228 Name: kimi (R.I.P) Character: kimi Ping: 93
+PlayerID: 76561198218103779 Name: Магистр_Сала Character: мафия    Ping: 23
+PlayerID: 76561198448189023 Name: mr.themakil Character: КоПаТыЧь Ping: 70
+PlayerID: 76561198447225435 Name: deonisii_0_0 Character: deonisii_0_0 Ping: 58
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [341]
+
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27926824
+PlayerID: 76561198336969313
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 42057
+PlayerID: 76561198212486347
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 42388
+PlayerID: 76561198391097237
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 204875
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30807102
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30807118
+
+END
+END
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [347]
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [352]
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [357]
+
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198245870076 Name: 0|TheGangstar|0 Character: Nyan Bread Ping: 78
+PlayerID: 76561198223334228 Name: kimi (R.I.P) Character: kimi Ping: 97
+PlayerID: 76561198218103779 Name: Магистр_Сала Character: мафия    Ping: 23
+PlayerID: 76561198448189023 Name: mr.themakil Character: КоПаТыЧь Ping: 97
+PlayerID: 76561198447225435 Name: deonisii_0_0 Character: deonisii_0_0 Ping: 207
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [362]
+
+[World] Nyan Bread [0|TheGangstar|0]: "жаль я уже подготовился киты прописывать"
+
+[World] Nyan Bread [0|TheGangstar|0]: "заново"
+
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27926802
+PlayerID: 76561198336969313
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 42035
+PlayerID: 76561198212486347
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 42366
+PlayerID: 76561198391097237
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 204853
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30807080
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30807096
+
+END
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [367]
+
+MessageAnnouncer >> Broadcast: Наберите /kit claim, чтобы получить Claim Flag
+
+MessageAnnouncer >> Наберите /kit claim, чтобы получить Claim Flag
+
+END
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [372]
+
+cchat "/50/05/18/19/00/17/19 /24/05/17/05/08 120 /18/05/11/20/14/04" 198 255 38
+Client has executed command "cchat "/50/05/18/19/00/17/19 /24/05/17/05/08 120 /18/05/11/20/14/04" 198 255 38"
+
+ServerControl >> Broadcast: Рестарт через 120 секунд
+
+Не обработано: ServerControl >> Broadcast: Рестарт через 120 секунд
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [377]
+
+cchat "/33/04/13/09/14: /01/12" 255 0 0
+Client has executed command "cchat "/33/04/13/09/14: /01/12" 255 0 0"
+
+ServerControl >> Broadcast: Админ: бл
+
+Не обработано: ServerControl >> Broadcast: Админ: бл
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198245870076 Name: 0|TheGangstar|0 Character: Nyan Bread Ping: 85
+PlayerID: 76561198223334228 Name: kimi (R.I.P) Character: kimi Ping: 93
+PlayerID: 76561198218103779 Name: Магистр_Сала Character: мафия    Ping: 23
+PlayerID: 76561198448189023 Name: mr.themakil Character: КоПаТыЧь Ping: 62
+PlayerID: 76561198447225435 Name: deonisii_0_0 Character: deonisii_0_0 Ping: 54
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [382]
+
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27926784
+PlayerID: 76561198336969313
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 42017
+PlayerID: 76561198212486347
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 42348
+PlayerID: 76561198391097237
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 204835
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30807062
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30807078
+
+END
+END
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [387]
+
+[World] Nyan Bread [0|TheGangstar|0]: "/sell indigo"
+
+[World] deonisii_0_0 [deonisii_0_0]: "/kit cleim"
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [392]
+

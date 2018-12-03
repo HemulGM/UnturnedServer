@@ -1,0 +1,2199 @@
+28.07.2017 10:46:37: Не обработано: Rocket.Core >> Exception in Read: System.IO.IOException: Read failure ---> System.Net.Sockets.SocketException: Попытка установить соединение была безуспешной, т.к. от другого компьютера за требуемое время не получен нужный отклик, или было разорвано уже установленное соединение из-за неверного отклика уже подключенного компьютера.
+28.07.2017 10:46:37: Не обработано: 
+28.07.2017 10:46:37: Не обработано:   at System.Net.Sockets.Socket.Receive (System.Byte[] buffer, Int32 offset, Int32 size, SocketFlags flags) [0x00000] in <filename unknown>:0 
+28.07.2017 10:46:37: Не обработано:   at System.Net.Sockets.NetworkStream.Read (System.Byte[] buffer, Int32 offset, Int32 size) [0x00000] in <filename unknown>:0 
+28.07.2017 10:46:37: Не обработано:   --- End of inner exception stack trace ---
+28.07.2017 10:46:37: Не обработано:   at System.Net.Sockets.NetworkStream.Read (System.Byte[] buffer, Int32 offset, Int32 size) [0x00000] in <filename unknown>:0 
+28.07.2017 10:46:37: Не обработано:   at Rocket.Core.RCON.RCONServer.Read (System.Net.Sockets.TcpClient client) [0x00000] in <filename unknown>:0 
+28.07.2017 10:46:37: Не обработано: Rocket.CoreException in Rocket.Core: System.IO.IOException: Write failure ---> System.Net.Sockets.SocketException: Удаленный хост принудительно разорвал существующее подключение.
+28.07.2017 10:46:37: Не обработано: 
+28.07.2017 10:46:37: Не обработано:   at System.Net.Sockets.Socket.Send (System.Byte[] buf, Int32 offset, Int32 size, SocketFlags flags) [0x00000] in <filename unknown>:0 
+28.07.2017 10:46:37: Не обработано:   at System.Net.Sockets.NetworkStream.Write (System.Byte[] buffer, Int32 offset, Int32 size) [0x00000] in <filename unknown>:0 
+28.07.2017 10:46:37: Не обработано:   --- End of inner exception stack trace ---
+28.07.2017 10:46:37: Не обработано:   at System.Net.Sockets.NetworkStream.Write (System.Byte[] buffer, Int32 offset, Int32 size) [0x00000] in <filename unknown>:0 
+28.07.2017 10:46:37: Не обработано:   at Rocket.Core.RCON.RCONServer.Send (System.Net.Sockets.TcpClient client, System.String text) [0x00000] in <filename unknown>:0 
+28.07.2017 10:46:37: Не обработано:   at Rocket.Core.RCON.RCONConnection.Send (System.String command, Boolean nonewline) [0x00000] in <filename unknown>:0 
+28.07.2017 10:46:37: Не обработано:   at Rocket.Core.RCON.RCONServer.handleConnection (System.Object obj) [0x00000] in <filename unknown>:0 
+28.07.2017 11:05:18: Сохранение сервера
+28.07.2017 11:11:21: Не обработано: lol [God'sEnvoy°] bled to death!
+28.07.2017 11:15:13: Не обработано: lol [God'sEnvoy°] was mauled by a zombie!
+28.07.2017 11:19:10: Не обработано: lol [God'sEnvoy°] was mauled by a zombie!
+28.07.2017 11:20:43: Не обработано: lol [God'sEnvoy°] bled to death!
+28.07.2017 11:23:32: Не обработано: lol [God'sEnvoy°] was mauled by a zombie!
+28.07.2017 11:35:18: Сохранение сервера
+28.07.2017 11:35:27: Не обработано: lol [God'sEnvoy°] was mauled by a zombie!
+28.07.2017 11:35:46: Не обработано: Майк Никольсон moved x:941.8983 y:110.8095(+26.03519) z:-910.6583 in the last second (0.09999847)
+28.07.2017 11:36:46: Не обработано: lol [God'sEnvoy°] was mauled by a zombie!
+28.07.2017 11:38:16: Не обработано: Fack You [12312414dfsf] bled to death!
+28.07.2017 11:38:49: Не обработано: Майк Никольсон [RedBull] killed themself.
+28.07.2017 11:39:39: Не обработано: lol [God'sEnvoy°] was mauled by a zombie!
+28.07.2017 11:39:45: Не обработано: Fack You [12312414dfsf] was mauled by a zombie!
+28.07.2017 11:40:34: Не обработано: lol [God'sEnvoy°] bled to death!
+28.07.2017 11:40:52: Не обработано: Fack You [12312414dfsf] was mauled by a zombie!
+28.07.2017 11:43:14: Не обработано: Майк Никольсон moved x:941.8983 y:110.9475(+72.27015) z:-910.6583 in the last second (0.2379227)
+28.07.2017 11:50:00: Не обработано: XxSnajperXx 2017  [XxSnajperXx 2017] was mauled by a zombie!
+28.07.2017 11:50:10: Не обработано: PrivateMessages >> Sorry, you haven't received a message!
+28.07.2017 11:53:42: Не обработано: Trevor Phillips [bloxusergame] was mauled by a zombie!
+28.07.2017 12:05:01: Не обработано: lol moved x:-752.5193 y:71.02599(+31.55923) z:-878.5909 in the last second (0.1194992)
+28.07.2017 12:05:18: Сохранение сервера
+28.07.2017 12:15:35: Не обработано: lol moved x:105.4827 y:68.48812(+29.56334) z:-625.2813 in the last second (0.1219101)
+28.07.2017 12:32:46: Не обработано: lol [God'sEnvoy°] dehydrated to death!
+28.07.2017 12:33:21: Не обработано: PlayerID: 76561198297456229 Name: God'sEnvoy° Character: lol Ping: 96
+28.07.2017 12:33:36: Не обработано: lol [God'sEnvoy°] was burned by a zombie!
+28.07.2017 12:33:36: Не обработано: NullReferenceException - SDG.Unturned.UseableMelee.fire ()
+28.07.2017 12:33:36: Не обработано: SDG.Unturned.UseableMelee.simulate (UInt32 simulation, Boolean inputSteady)
+28.07.2017 12:33:36: Не обработано: SDG.Unturned.PlayerEquipment.simulate (UInt32 simulation, Boolean inputPrimary, Boolean inputSecondary, Boolean inputSteady)
+28.07.2017 12:33:36: Не обработано: SDG.Unturned.PlayerInput.FixedUpdate ()
+28.07.2017 12:35:18: Сохранение сервера
+28.07.2017 12:54:14: Не обработано: PlayerID: 76561198297456229 Name: God'sEnvoy° Character: lol Ping: 118
+28.07.2017 13:05:18: Сохранение сервера
+28.07.2017 13:27:16: Не обработано: LOL [Grel_Stklif /s/] was mauled by a zombie!
+28.07.2017 13:32:01: Не обработано: lol [God'sEnvoy°] was mauled by a zombie!
+28.07.2017 13:35:18: Сохранение сервера
+28.07.2017 13:39:00: Не обработано: [сталкер]стрелок [Madarin41] killed themself.
+28.07.2017 13:46:47: Не обработано: Майк Никольсон [RedBull] killed themself.
+28.07.2017 13:48:10: Не обработано: lol был исцелён
+28.07.2017 13:48:10: Не обработано: Майк Никольсон был исцелён
+28.07.2017 13:57:10: Не обработано: lol [God'sEnvoy°] was mauled by a zombie!
+28.07.2017 14:02:47: Не обработано: Майк Никольсон [RedBull] bled to death!
+28.07.2017 14:05:18: Сохранение сервера
+28.07.2017 14:06:37: Не обработано: vintoc [interesnya666] was mauled by a zombie!
+28.07.2017 14:07:05: Не обработано: lol [God'sEnvoy°] was mauled by a zombie!
+28.07.2017 14:09:40: Не обработано: lol [God'sEnvoy°] was mauled by a zombie!
+28.07.2017 14:10:53: Не обработано: vintoc [interesnya666] was mauled by a zombie!
+28.07.2017 14:10:57: Не обработано: vintoc moved x:-744.4502 y:58.37927(+19.90195) z:127.2084 in the last second (0.7864952)
+28.07.2017 14:11:25: Не обработано: Майк Никольсон [RedBull] bled to death!
+28.07.2017 14:12:25: Не обработано: vintoc [interesnya666] was mauled by a zombie!
+28.07.2017 14:13:11: Не обработано: vintoc [interesnya666] was mauled by a zombie!
+28.07.2017 14:25:36: Не обработано: ryutama [ryutama] was mauled by a zombie!
+28.07.2017 14:27:58: Не обработано: God'sEnvoy [God'sEnvoy°] was dissolved by a zombie!
+28.07.2017 14:35:16: Не обработано: God'sEnvoy [God'sEnvoy°] was dissolved by a zombie!
+28.07.2017 14:35:18: Сохранение сервера
+28.07.2017 14:38:47: Не обработано: ryutama [ryutama] was dissolved by a zombie!
+28.07.2017 14:41:44: Не обработано: ryutama [ryutama] was mauled by a zombie!
+28.07.2017 14:44:09: Не обработано: God'sEnvoy [God'sEnvoy°] was dissolved by a zombie!
+28.07.2017 14:52:01: Не обработано: God'sEnvoy [God'sEnvoy°] was mauled by a zombie!
+28.07.2017 14:52:39: Не обработано: God'sEnvoy [God'sEnvoy°] was mauled by a zombie!
+28.07.2017 14:55:27: Не обработано: God'sEnvoy [God'sEnvoy°] bled to death!
+28.07.2017 15:05:18: Сохранение сервера
+28.07.2017 15:14:09: Не обработано: ncs.go moved x:-207.8055 y:48.76928(+21.75437) z:30.75373 in the last second (0.5999374)
+28.07.2017 15:18:23: Не обработано: ncs.go [GoTo] was mauled by a zombie!
+28.07.2017 15:24:06: Не обработано: Dingo  Dog [Dingo] dehydrated to death!
+28.07.2017 15:33:23: Не обработано: Mainer [katy-rinzin] was mauled by a zombie!
+28.07.2017 15:34:35: Не обработано: Mainer [katy-rinzin] was mauled by a zombie!
+28.07.2017 15:34:52: Не обработано: Mainer [katy-rinzin] is calling a vote to kick God'sEnvoy [God'sEnvoy°]
+28.07.2017 15:35:07: Не обработано: Vote failed!
+28.07.2017 15:35:18: Сохранение сервера
+28.07.2017 15:39:58: Не обработано: Mainer [katy-rinzin] was mauled by a zombie!
+28.07.2017 15:42:47: Не обработано: DENIIL [daniil2004.net] bled to death!
+28.07.2017 15:42:52: Не обработано: God'sEnvoy [God'sEnvoy°] dehydrated to death!
+28.07.2017 15:44:42: Не обработано: DENIIL [daniil2004.net] was mauled by a zombie!
+28.07.2017 15:46:23: Не обработано: Hyper Beast [Hyper Beast] was mauled by a zombie!
+28.07.2017 15:48:27: Не обработано: Hyper Beast [Hyper Beast] was mauled by a zombie!
+28.07.2017 15:50:03: Не обработано: Hyper Beast [Hyper Beast] burned to death!
+28.07.2017 15:57:13: Не обработано: DENIIL [daniil2004.net] was mauled by a zombie!
+28.07.2017 15:58:40: Не обработано: DENIIL [daniil2004.net] was mauled by a zombie!
+28.07.2017 15:58:43: Не обработано: DENIIL moved x:-744.4502 y:58.56762(+19.89027) z:127.2084 in the last second (0.9748459)
+28.07.2017 16:05:18: Сохранение сервера
+28.07.2017 16:10:21: Не обработано: Hyper Beast [Hyper Beast] was mauled by a zombie!
+28.07.2017 16:23:42: Не обработано: God'sEnvoy [God'sEnvoy°] starved to death!
+28.07.2017 16:24:30: Не обработано: danya [stalker337] was mauled by a zombie!
+28.07.2017 16:27:17: Не обработано: Hyper Beast [Hyper Beast] was mauled by a zombie!
+28.07.2017 16:27:57: Не обработано: Hyper Beast [Hyper Beast] was mauled by a zombie!
+28.07.2017 16:29:14: Не обработано: Hyper Beast [Hyper Beast] was mauled by a zombie!
+28.07.2017 16:35:18: Сохранение сервера
+28.07.2017 16:42:13: Не обработано: Roma News moved x:89.49319 y:70.85083(+32.1735) z:-631.6075 in the last second (0.1025391)
+28.07.2017 16:42:52: Не обработано: MrKeks [dinakozlova76] was mauled by a zombie!
+28.07.2017 16:48:51: Не обработано: Hyper Beast был исцелён
+28.07.2017 16:48:51: Не обработано: God'sEnvoy был исцелён
+28.07.2017 16:48:51: Не обработано: lalka228337 был исцелён
+28.07.2017 16:48:51: Не обработано: danya был исцелён
+28.07.2017 16:48:52: Не обработано: Roma News был исцелён
+28.07.2017 16:48:52: Не обработано: Nolic был исцелён
+28.07.2017 16:57:25: Не обработано: Legend [??Legend??] was mauled by a zombie!
+28.07.2017 17:01:22: Не обработано: Nolic [vг??? ? Я ЕНОТ] bled to death!
+28.07.2017 17:02:42: Не обработано: God'sEnvoy moved x:898.9684 y:88.66158(+49.65102) z:437.0706 in the last second (0.5999985)
+28.07.2017 17:04:28: Не обработано: Roma News [roman.sagitov.2017] was mauled by a zombie!
+28.07.2017 17:05:19: Сохранение сервера
+28.07.2017 17:06:46: Не обработано: Александер Волуев [}{отТ@Бь)ч] bled to death!
+28.07.2017 17:07:52: Не обработано: Александер Волуев [}{отТ@Бь)ч] was mauled by a zombie!
+28.07.2017 17:09:02: Не обработано: Александер Волуев [}{отТ@Бь)ч] was mauled by a zombie!
+28.07.2017 17:09:21: Не обработано: #Mirela [Shaveica] was mauled by a zombie!
+28.07.2017 17:09:26: Не обработано: Bae [gamel3be] was mauled by a zombie!
+28.07.2017 17:10:29: Не обработано: lalka228337 [TrueDimon1] was mauled by a zombie!
+28.07.2017 17:10:43: Не обработано: GoshaniusСливатель300 [GoshaniusСливатель300] killed themself.
+28.07.2017 17:12:25: Не обработано: lalka228337 [TrueDimon1] was dissolved by a zombie!
+28.07.2017 17:14:56: Не обработано: Bae [gamel3be] was mauled by a zombie!
+28.07.2017 17:15:18: Не обработано: PrivateMessages >> Sorry, you haven't received a message!
+28.07.2017 17:16:42: Не обработано: God'sEnvoy [God'sEnvoy°] was dissolved by a zombie!
+28.07.2017 17:17:36: Не обработано: GoshaniusСливатель300 [GoshaniusСливатель300] was mauled by a zombie!
+28.07.2017 17:18:30: Не обработано: God'sEnvoy [God'sEnvoy°] was mauled by a zombie!
+28.07.2017 17:19:06: Не обработано: Hyper Beast moved x:664.5442 y:68.77714(+29.70292) z:-541.8189 in the last second (0.1112442)
+28.07.2017 17:19:11: Не обработано: Nilson [†УV?R] bled to death!
+28.07.2017 17:20:20: Не обработано: GoshaniusСливатель300 [GoshaniusСливатель300] was mauled by a zombie!
+28.07.2017 17:21:07: Не обработано: Hyper Beast [Hyper Beast] bled to death!
+28.07.2017 17:24:05: Не обработано: Legend [??Legend??] was blown up by a vehicle!
+28.07.2017 17:24:06: Не обработано: Nolic [vг??? ? Я ЕНОТ] was blown up by a vehicle!
+28.07.2017 17:24:14: Не обработано: God'sEnvoy [God'sEnvoy°] bled to death!
+28.07.2017 17:25:52: Не обработано: 14L.B.N.88 [14L.B.N.88] was mauled by a zombie!
+28.07.2017 17:26:20: Не обработано: lalka228337 [TrueDimon1] was mauled by a zombie!
+28.07.2017 17:31:34: Не обработано: Roma News [roman.sagitov.2017] was dissolved by a zombie!
+28.07.2017 17:32:37: Не обработано: 14L.B.N.88 [14L.B.N.88] was mauled by a zombie!
+28.07.2017 17:34:29: Не обработано: liampuo [liampuo] was dissolved by a zombie!
+28.07.2017 17:35:18: Сохранение сервера
+28.07.2017 17:36:33: Не обработано: liampuo [liampuo] was mauled by a zombie!
+28.07.2017 17:37:53: Не обработано: Hyper Beast moved x:633.9478 y:56.79335(+16.97786) z:556.9736 in the last second (0.1007233)
+28.07.2017 17:40:46: Не обработано: VFRCBV [fdg] was mauled by a zombie!
+28.07.2017 17:41:06: Не обработано: Calibrovshik [Calibrovshik] was mauled by a zombie!
+28.07.2017 17:42:29: Не обработано: liampuo [liampuo] was mauled by a zombie!
+28.07.2017 17:43:24: Не обработано: liampuo [liampuo] bled to death!
+28.07.2017 17:45:57: Не обработано: Hyper Beast [Hyper Beast] bled to death!
+28.07.2017 17:46:45: Не обработано: Gregory Madovski [bikkulovd] was dissolved by a zombie!
+28.07.2017 17:47:10: Не обработано: Hyper Beast [Hyper Beast] was mauled by a zombie!
+28.07.2017 17:48:14: Не обработано: Hyper Beast [Hyper Beast] bled to death!
+28.07.2017 17:50:15: Не обработано: Hyper Beast moved x:-945.0313 y:62.00276(+23.33042) z:702.8331 in the last second (0.747757)
+28.07.2017 17:51:55: Не обработано: Legend [??Legend??] bled to death!
+28.07.2017 17:54:11: Не обработано: Tester [VeZuN4iK] bled to death!
+28.07.2017 17:55:10: Не обработано: Gregory Madovski [bikkulovd] was mauled by a zombie!
+28.07.2017 17:56:25: Не обработано: Hyper Beast moved x:457.5348 y:43.40292(+19.1155) z:660.8445 in the last second (0.2379189)
+28.07.2017 18:05:18: Сохранение сервера
+28.07.2017 18:05:48: Не обработано: God'sEnvoy [God'sEnvoy°] was infected to death!
+28.07.2017 18:16:49: Не обработано: ewfyfwfyg3w [ewfyfwfyg3w] is calling a vote to kick kirito LVL.14 [kirito LVL.14]
+28.07.2017 18:16:52: Не обработано: Vote failed!
+28.07.2017 18:17:04: Не обработано: S.mickityuck [S.mickityuck] bled to death!
+28.07.2017 18:18:37: Не обработано: VitoMan [mrNikEr™] was mauled by a zombie!
+28.07.2017 18:21:09: Не обработано: kirito LVL.14 [kirito LVL.14] was mauled by a zombie!
+28.07.2017 18:21:15: Не обработано: ewfyfwfyg3w [ewfyfwfyg3w] was mauled by a zombie!
+28.07.2017 18:25:37: Не обработано: S.mickityuck moved x:-585.7874 y:57.34815(+18.87083) z:-193.9996 in the last second (0.2379189)
+28.07.2017 18:25:41: Не обработано: Tester moved x:-586.2075 y:57.21024(+18.73292) z:-192.2845 in the last second (0.1000023)
+28.07.2017 18:34:59: Не обработано: S.mickityuck moved x:-585.7874 y:57.21024(+18.73292) z:-193.9996 in the last second (0.1000023)
+28.07.2017 18:35:18: Сохранение сервера
+28.07.2017 18:37:52: Не обработано: kirito LVL.14 [kirito LVL.14] was mauled by a zombie!
+28.07.2017 18:38:00: Не обработано: ewfyfwfyg3w [ewfyfwfyg3w] was mauled by a zombie!
+28.07.2017 18:40:17: Не обработано: ewfyfwfyg3w [ewfyfwfyg3w] was mauled by a zombie!
+28.07.2017 18:40:31: Не обработано: S.mickityuck moved x:-585.7874 y:57.21024(+18.73292) z:-193.9996 in the last second (0.1000023)
+28.07.2017 18:42:22: Не обработано: ewfyfwfyg3w [ewfyfwfyg3w] was mauled by a zombie!
+28.07.2017 18:45:41: Не обработано: S.mickityuck moved x:-585.7874 y:57.34815(+18.87083) z:-193.9996 in the last second (0.2379189)
+28.07.2017 18:53:13: Не обработано: S.mickityuck moved x:-585.7874 y:57.34815(+18.87083) z:-193.9996 in the last second (0.2379189)
+28.07.2017 18:54:29: Не обработано: kirito LVL.14 [kirito LVL.14] bled to death!
+28.07.2017 18:57:29: Не обработано: Клещ [leopard] bled to death!
+28.07.2017 18:57:39: Не обработано: S.mickityuck moved x:-585.7874 y:57.21023(+18.73291) z:-193.9996 in the last second (0.09999847)
+28.07.2017 19:04:44: Не обработано: S.mickityuck moved x:-585.7874 y:57.34815(+18.87083) z:-193.9996 in the last second (0.2379189)
+28.07.2017 19:04:54: Не обработано: kirito LVL.14 [kirito LVL.14] was mauled by a zombie!
+28.07.2017 19:05:18: Сохранение сервера
+28.07.2017 19:09:52: Не обработано: ewfyfwfyg3w [ewfyfwfyg3w] was dissolved by a zombie!
+28.07.2017 19:09:56: Не обработано: kirito LVL.14 [kirito LVL.14] was mauled by a zombie!
+28.07.2017 19:10:29: Не обработано: ewfyfwfyg3w [ewfyfwfyg3w] was mauled by a zombie!
+28.07.2017 19:12:09: Не обработано: ewfyfwfyg3w [ewfyfwfyg3w] bled to death!
+28.07.2017 19:20:25: Не обработано: ewfyfwfyg3w [ewfyfwfyg3w] was mauled by a zombie!
+28.07.2017 19:21:03: Не обработано: kirito LVL.14 [kirito LVL.14] was mauled by a zombie!
+28.07.2017 19:23:37: Не обработано: Killer with minigan [Killer with minigan] suffocated to death!
+28.07.2017 19:23:37: Не обработано: Killer with minigan moved x:-371.5296 y:463.2274(+413.4832) z:958.5862 in the last second (396.1913)
+28.07.2017 19:28:07: Не обработано: S.mickityuck moved x:-585.7874 y:57.34815(+18.87083) z:-193.9996 in the last second (0.2379189)
+28.07.2017 19:28:32: Не обработано: kirito LVL.14 [kirito LVL.14] was mauled by a zombie!
+28.07.2017 19:28:43: Не обработано: ewfyfwfyg3w [ewfyfwfyg3w] was mauled by a zombie!
+28.07.2017 19:29:31: Не обработано: Tester moved x:-586.2075 y:57.34815(+18.67582) z:-192.2845 in the last second (0.2379189)
+28.07.2017 19:30:14: Не обработано: S.mickityuck moved x:-585.7874 y:57.34815(+18.67582) z:-193.9996 in the last second (0.2379189)
+28.07.2017 19:31:55: Не обработано: S.mickityuck moved x:-783.92 y:56.42578(+17.94846) z:-618.77 in the last second (1)
+28.07.2017 19:35:18: Сохранение сервера
+28.07.2017 19:35:30: Не обработано: ewfyfwfyg3w [ewfyfwfyg3w] bled to death!
+28.07.2017 19:43:08: Не обработано: S.mickityuck [S.mickityuck] bled to death!
+28.07.2017 19:43:27: Не обработано: Tester moved x:-586.2075 y:57.21023(+17.98069) z:-192.2845 in the last second (0.09999847)
+28.07.2017 19:48:33: Не обработано: гаршок-порошок [weeeewqa228] bled to death!
+28.07.2017 19:49:07: Не обработано: DENIIL [daniil2004.net] was mauled by a zombie!
+28.07.2017 19:49:26: Не обработано: kirito LVL.14 был исцелён
+28.07.2017 19:49:26: Не обработано: ewfyfwfyg3w был исцелён
+28.07.2017 19:49:26: Не обработано: Tester был исцелён
+28.07.2017 19:49:26: Не обработано: mr.wolf был исцелён
+28.07.2017 19:49:26: Не обработано: гаршок-порошок был исцелён
+28.07.2017 19:49:27: Не обработано: Killer with minigan был исцелён
+28.07.2017 19:49:27: Не обработано: S.mickityuck был исцелён
+28.07.2017 19:49:27: Не обработано: timofei.romancov был исцелён
+28.07.2017 19:49:27: Не обработано: DENIIL был исцелён
+28.07.2017 19:49:27: Не обработано: fazlihasnielsugiharto был исцелён
+28.07.2017 19:50:52: Не обработано: PrivateMessages >> Sorry, you haven't received a message!
+28.07.2017 19:50:59: Не обработано: S.mickityuck moved x:-585.7874 y:57.34815(+18.67082) z:-193.9996 in the last second (0.2379189)
+28.07.2017 19:50:59: Не обработано: DENIIL [daniil2004.net] bled to death!
+28.07.2017 19:51:05: Не обработано: Tester moved x:-586.2075 y:57.34815(+18.67083) z:-192.2845 in the last second (0.2379189)
+28.07.2017 19:53:53: Не обработано: DENIIL [daniil2004.net] killed themself.
+28.07.2017 19:55:19: Не обработано: S.mickityuck moved x:-585.7874 y:57.34815(+18.67083) z:-193.9996 in the last second (0.2379189)
+28.07.2017 20:02:34: Не обработано: mr.wolf [mr.wolf] bled to death!
+28.07.2017 20:03:21: Не обработано: DENIIL [daniil2004.net] was mauled by a zombie!
+28.07.2017 20:05:18: Сохранение сервера
+28.07.2017 20:08:51: Не обработано: DENIIL [daniil2004.net] was mauled by a zombie!
+28.07.2017 20:09:53: Не обработано: DENIIL [daniil2004.net] was mauled by a zombie!
+28.07.2017 20:14:09: Не обработано: kirito LVL.14 [kirito LVL.14] bled to death!
+28.07.2017 20:14:36: Не обработано: kirito LVL.14 [kirito LVL.14] killed themself.
+28.07.2017 20:15:31: Не обработано: DENIIL [daniil2004.net] bled to death!
+28.07.2017 20:15:34: Не обработано: DENIIL moved x:-744.4502 y:58.56762(+19.36028) z:127.2084 in the last second (0.9748459)
+28.07.2017 20:16:45: Не обработано: DENIIL [daniil2004.net] bled to death!
+28.07.2017 20:17:51: Не обработано: PrivateMessages >> Sorry, you haven't received a message!
+28.07.2017 20:18:02: Не обработано: DENIIL [daniil2004.net] was mauled by a zombie!
+28.07.2017 20:18:40: Не обработано: DENIIL [daniil2004.net] was mauled by a zombie!
+28.07.2017 20:18:42: Не обработано: DENIIL moved x:-744.4502 y:58.56762(+19.79758) z:127.2084 in the last second (0.9748459)
+28.07.2017 20:18:47: Не обработано: DENIIL [daniil2004.net] killed themself.
+28.07.2017 20:20:01: Не обработано: DENIIL [daniil2004.net] was mauled by a zombie!
+28.07.2017 20:20:45: Не обработано: Tester moved x:-586.2075 y:57.21023(+18.73291) z:-192.2845 in the last second (0.09999847)
+28.07.2017 20:22:51: Не обработано: DENIIL [daniil2004.net] was mauled by a zombie!
+28.07.2017 20:24:21: Не обработано: S.mickityuck moved x:-739.3249 y:57.38586(+18.51484) z:126.3808 in the last second (1)
+28.07.2017 20:24:41: Не обработано: mr.wolf [mr.wolf] was mauled by a zombie!
+28.07.2017 20:24:48: Не обработано: S.mickityuck moved x:-800.0836 y:76.2848(+17.18583) z:205.7741 in the last second (0.1015701)
+28.07.2017 20:26:47: Не обработано: DENIIL [daniil2004.net] was mauled by a zombie!
+28.07.2017 20:27:57: Не обработано: ewfyfwfyg3w [ewfyfwfyg3w] dehydrated to death!
+28.07.2017 20:28:06: Не обработано: DENIIL [daniil2004.net] was mauled by a zombie!
+28.07.2017 20:29:48: Не обработано: DENIIL [daniil2004.net] killed themself.
+28.07.2017 20:32:36: Не обработано: DENIIL [daniil2004.net] killed themself.
+28.07.2017 20:32:46: Не обработано: DENIIL [daniil2004.net] killed themself.
+28.07.2017 20:34:21: Не обработано: mr.wolf [mr.wolf] bled to death!
+28.07.2017 20:34:38: Не обработано: DENIIL [daniil2004.net] killed themself.
+28.07.2017 20:35:18: Сохранение сервера
+28.07.2017 20:36:02: Не обработано: DENIIL [daniil2004.net] killed themself.
+28.07.2017 20:36:49: Не обработано: Tester moved x:-586.2075 y:57.34815(+21.41421) z:-192.2845 in the last second (0.2379189)
+28.07.2017 20:38:27: Не обработано: DENIIL [daniil2004.net] was mauled by a zombie!
+28.07.2017 20:39:46: Не обработано: DENIIL [daniil2004.net] was mauled by a zombie!
+28.07.2017 20:50:21: Не обработано: DENIIL [daniil2004.net] bled to death!
+28.07.2017 20:51:45: Не обработано: DENIIL [daniil2004.net] was mauled by a zombie!
+28.07.2017 20:53:03: Не обработано: kirito LVL.14 [kirito LVL.14] dehydrated to death!
+28.07.2017 20:53:15: Не обработано: kirito LVL.14 [kirito LVL.14] killed themself.
+28.07.2017 20:55:24: Не обработано: DENIIL [daniil2004.net] was mauled by a zombie!
+28.07.2017 21:05:18: Сохранение сервера
+28.07.2017 21:06:55: Не обработано: ewfyfwfyg3w [ewfyfwfyg3w] dehydrated to death!
+28.07.2017 21:09:18: Не обработано: serg-al-78 [serg-al-78] killed themself.
+28.07.2017 21:11:31: Не обработано: Kulka CSGO.SKINS.COM [?Alex Mercer?] was mauled by a zombie!
+28.07.2017 21:29:41: Не обработано: PlayerID: 76561198392236703 Name: MadOrangeMonkey Character: MadOrangeMonkey Ping: 169
+28.07.2017 21:31:32: Не обработано: MadOrangeMonkey [MadOrangeMonkey] was mauled by a zombie!
+28.07.2017 21:35:18: Сохранение сервера
+28.07.2017 21:54:34: Не обработано: Plague Doctor moved x:645.6143 y:39.81106(+15.56046) z:-630.996 in the last second (0.6007576)
+28.07.2017 22:05:18: Сохранение сервера
+28.07.2017 22:08:13: Не обработано: Plague Doctor [demon20335] was mauled by a zombie!
+28.07.2017 22:08:22: Не обработано: Blackflame :D (Серёга) [Blackflame :D (Серёга)] bled to death!
+28.07.2017 22:31:34: Не обработано: ewfyfwfyg3w [ewfyfwfyg3w] killed themself.
+28.07.2017 22:35:18: Сохранение сервера
+28.07.2017 22:35:55: Не обработано: ewfyfwfyg3w [ewfyfwfyg3w] killed themself.
+28.07.2017 22:36:12: Не обработано: ewfyfwfyg3w [ewfyfwfyg3w] killed themself.
+28.07.2017 22:37:43: Не обработано: ewfyfwfyg3w [ewfyfwfyg3w] killed themself.
+28.07.2017 22:37:48: Не обработано: ewfyfwfyg3w [ewfyfwfyg3w] killed themself.
+28.07.2017 22:38:42: Не обработано: ewfyfwfyg3w [ewfyfwfyg3w] killed themself.
+28.07.2017 22:38:46: Не обработано: ewfyfwfyg3w [ewfyfwfyg3w] killed themself.
+28.07.2017 22:39:15: Не обработано: ewfyfwfyg3w [ewfyfwfyg3w] killed themself.
+28.07.2017 22:39:19: Не обработано: ewfyfwfyg3w [ewfyfwfyg3w] killed themself.
+28.07.2017 22:39:59: Не обработано: ewfyfwfyg3w [ewfyfwfyg3w] killed themself.
+28.07.2017 22:40:03: Не обработано: ewfyfwfyg3w [ewfyfwfyg3w] killed themself.
+28.07.2017 22:40:08: Не обработано: ewfyfwfyg3w [ewfyfwfyg3w] killed themself.
+28.07.2017 22:40:14: Не обработано: ewfyfwfyg3w [ewfyfwfyg3w] killed themself.
+28.07.2017 22:40:20: Не обработано: ewfyfwfyg3w [ewfyfwfyg3w] killed themself.
+28.07.2017 22:40:25: Не обработано: ewfyfwfyg3w [ewfyfwfyg3w] killed themself.
+28.07.2017 22:40:31: Не обработано: ewfyfwfyg3w [ewfyfwfyg3w] killed themself.
+28.07.2017 22:40:37: Не обработано: ewfyfwfyg3w [ewfyfwfyg3w] killed themself.
+28.07.2017 22:48:35: Не обработано: ewfyfwfyg3w [ewfyfwfyg3w] killed themself.
+28.07.2017 22:48:44: Не обработано: ewfyfwfyg3w [ewfyfwfyg3w] killed themself.
+28.07.2017 22:48:49: Не обработано: ewfyfwfyg3w [ewfyfwfyg3w] killed themself.
+28.07.2017 22:48:55: Не обработано: ewfyfwfyg3w [ewfyfwfyg3w] killed themself.
+28.07.2017 22:49:26: Не обработано: kirito LVL.14 был исцелён
+28.07.2017 22:49:26: Не обработано: ewfyfwfyg3w был исцелён
+28.07.2017 23:05:18: Сохранение сервера
+28.07.2017 23:05:23: Не обработано: ewfyfwfyg3w [ewfyfwfyg3w] bled to death!
+28.07.2017 23:06:32: Не обработано: kirito LVL.14 [kirito LVL.14] was mauled by a zombie!
+28.07.2017 23:35:18: Сохранение сервера
+28.07.2017 23:43:44: Не обработано: kirito LVL.14 [kirito LVL.14] killed themself.
+28.07.2017 23:47:12: Не обработано: kirito LVL.14 [kirito LVL.14] killed themself.
+28.07.2017 23:47:20: Не обработано: kirito LVL.14 [kirito LVL.14] killed themself.
+28.07.2017 23:48:07: Не обработано: kirito LVL.14 [kirito LVL.14] killed themself.
+28.07.2017 23:49:19: Не обработано: kirito LVL.14 [kirito LVL.14] killed themself.
+28.07.2017 23:49:28: Не обработано: kirito LVL.14 [kirito LVL.14] killed themself.
+28.07.2017 23:49:38: Не обработано: kirito LVL.14 [kirito LVL.14] killed themself.
+28.07.2017 23:49:47: Не обработано: kirito LVL.14 [kirito LVL.14] killed themself.
+29.07.2017 0:05:18: Сохранение сервера
+29.07.2017 0:35:18: Сохранение сервера
+29.07.2017 1:05:18: Сохранение сервера
+29.07.2017 1:35:18: Сохранение сервера
+29.07.2017 2:05:18: Сохранение сервера
+29.07.2017 2:35:18: Сохранение сервера
+29.07.2017 3:05:18: Сохранение сервера
+29.07.2017 3:35:18: Сохранение сервера
+29.07.2017 4:05:18: Сохранение сервера
+29.07.2017 4:35:18: Сохранение сервера
+29.07.2017 5:05:18: Сохранение сервера
+29.07.2017 5:35:18: Сохранение сервера
+29.07.2017 6:05:18: Сохранение сервера
+29.07.2017 6:35:18: Сохранение сервера
+29.07.2017 7:05:18: Сохранение сервера
+29.07.2017 7:35:18: Сохранение сервера
+29.07.2017 8:05:18: Сохранение сервера
+29.07.2017 8:35:18: Сохранение сервера
+29.07.2017 9:05:18: Сохранение сервера
+29.07.2017 9:35:18: Сохранение сервера
+29.07.2017 10:05:18: Сохранение сервера
+29.07.2017 15:33:21: Не обработано: PlayerID: 76561198330212465 Name: hovermort Character: [одиночка]Морт Ping: 124
+29.07.2017 15:34:21: Не обработано: PlayerID: 76561198330212465 Name: hovermort Character: [одиночка]Морт Ping: 127
+29.07.2017 15:35:57: Не обработано: Reason: unspecified Duration: 31536000 Remaining: 27733190
+29.07.2017 15:35:57: Не обработано: Перезагрузка Rocket
+29.07.2017 15:35:57: Не обработано: 
+29.07.2017 15:35:57: Не обработано: [unloading] VehicleEvents
+29.07.2017 15:35:57: Не обработано: [unloading] Uconomy
+29.07.2017 15:35:57: Не обработано: [unloading] RocketToolsRocketTools has been unloaded!
+29.07.2017 15:35:57: Не обработано: 
+29.07.2017 15:35:57: Не обработано: [unloading] RocketMod_TPA
+29.07.2017 15:35:57: Не обработано: [unloading] PrivateMessages
+29.07.2017 15:35:57: Не обработано: [unloading] PlayerInfoLib
+29.07.2017 15:35:57: Не обработано: [unloading] MessageAnnouncerMessageAnnouncer >> Unload
+29.07.2017 15:35:57: Не обработано: 
+29.07.2017 15:35:57: Не обработано: [unloading] LeeIzaZombie.ItemRestrictions
+29.07.2017 15:35:57: Не обработано: [unloading] Kits
+29.07.2017 15:35:57: Не обработано: [unloading] JoinLeaveMessages
+29.07.2017 15:35:57: Не обработано: [unloading] DynmapDynmap >> Unloading ...
+29.07.2017 15:35:57: Не обработано: 
+29.07.2017 15:35:57: Не обработано: [unloading] DropManager
+29.07.2017 15:35:57: Не обработано: [unloading] DeathMessagesRemastered
+29.07.2017 15:35:57: Не обработано: [unloading] DeathManager
+29.07.2017 15:35:57: Не обработано: Loading DeathManager from C:\Program Files (x86)\Steam\steamapps\common\Unturned\Servers\Russia_HGM\Rocket\Plugins\DeathManager.dll
+29.07.2017 15:35:57: Не обработано: Loading DeathMessagesRemastered from C:\Program Files (x86)\Steam\steamapps\common\Unturned\Servers\Russia_HGM\Rocket\Plugins\DeathMessagesRemastered.dll
+29.07.2017 15:35:57: Не обработано: Loading DropManager from C:\Program Files (x86)\Steam\steamapps\common\Unturned\Servers\Russia_HGM\Rocket\Plugins\DropManager.dll
+29.07.2017 15:35:57: Не обработано: Loading Dynmap from C:\Program Files (x86)\Steam\steamapps\common\Unturned\Servers\Russia_HGM\Rocket\Plugins\Dynmap.dll
+29.07.2017 15:35:57: Не обработано: Loading JoinLeaveMessages from C:\Program Files (x86)\Steam\steamapps\common\Unturned\Servers\Russia_HGM\Rocket\Plugins\JoinLeaveMessages.dll
+29.07.2017 15:35:57: Не обработано: Loading Kits from C:\Program Files (x86)\Steam\steamapps\common\Unturned\Servers\Russia_HGM\Rocket\Plugins\Kits.dll
+29.07.2017 15:35:58: Не обработано: Loading LeeIzaZombie.ItemRestrictions from C:\Program Files (x86)\Steam\steamapps\common\Unturned\Servers\Russia_HGM\Rocket\Plugins\LeeIzaZombie.ItemRestrictions.dll
+29.07.2017 15:35:58: Не обработано: Loading MessageAnnouncer from C:\Program Files (x86)\Steam\steamapps\common\Unturned\Servers\Russia_HGM\Rocket\Plugins\MessageAnnouncer.dll
+29.07.2017 15:35:58: Не обработано: Loading PlayerInfoLib from C:\Program Files (x86)\Steam\steamapps\common\Unturned\Servers\Russia_HGM\Rocket\Plugins\PlayerInfoLib.dll
+29.07.2017 15:35:58: Не обработано: Loading PrivateMessages from C:\Program Files (x86)\Steam\steamapps\common\Unturned\Servers\Russia_HGM\Rocket\Plugins\PrivateMessages.dll
+29.07.2017 15:35:58: Не обработано: Loading RocketMod_TPA from C:\Program Files (x86)\Steam\steamapps\common\Unturned\Servers\Russia_HGM\Rocket\Plugins\RocketMod_TPA.dll
+29.07.2017 15:35:58: Не обработано: Loading RocketTools from C:\Program Files (x86)\Steam\steamapps\common\Unturned\Servers\Russia_HGM\Rocket\Plugins\RocketTools.dll
+29.07.2017 15:35:58: Не обработано: Loading Uconomy from C:\Program Files (x86)\Steam\steamapps\common\Unturned\Servers\Russia_HGM\Rocket\Plugins\Uconomy.dll
+29.07.2017 15:35:58: Не обработано: Loading VehicleEvents from C:\Program Files (x86)\Steam\steamapps\common\Unturned\Servers\Russia_HGM\Rocket\Plugins\VehicleEvents.dll
+29.07.2017 15:35:58: Не обработано: 
+29.07.2017 15:35:58: Не обработано: [loading] DeathManager
+29.07.2017 15:35:58: Не обработано: [loading] DeathMessagesRemasteredDeathMessagesRemastered >> Death Messages Remastered has been loaded!
+29.07.2017 15:35:58: Не обработано: --
+29.07.2017 15:35:58: Не обработано: Suicide messages are enabled!
+29.07.2017 15:35:58: Не обработано: Health warning messages are enabled!
+29.07.2017 15:35:58: Не обработано: Uconomy is enabled!
+29.07.2017 15:35:58: Не обработано: Experience is enabled!
+29.07.2017 15:35:58: Не обработано: --
+29.07.2017 15:35:58: Не обработано: 
+29.07.2017 15:35:58: Не обработано: [loading] DropManager
+29.07.2017 15:35:58: Не обработано: [loading] DynmapDynmap >> Loading ...
+29.07.2017 15:35:58: Не обработано: Dynmap >> Finding map : C:\Program Files (x86)\Steam\steamapps\common\Unturned\Maps\Alpha Valley
+29.07.2017 15:35:58: Не обработано: Dynmap >> Finding map : C:\Program Files (x86)\Steam\steamapps\common\Unturned\Maps\Destruction
+29.07.2017 15:35:58: Не обработано: Dynmap >> Finding map : C:\Program Files (x86)\Steam\steamapps\common\Unturned\Maps\Devtest4
+29.07.2017 15:35:58: Не обработано: Dynmap >> Finding map : C:\Program Files (x86)\Steam\steamapps\common\Unturned\Maps\Germany
+29.07.2017 15:35:58: Не обработано: Dynmap >> Finding map : C:\Program Files (x86)\Steam\steamapps\common\Unturned\Maps\Hawaii
+29.07.2017 15:35:58: Не обработано: Dynmap >> Finding map : C:\Program Files (x86)\Steam\steamapps\common\Unturned\Maps\Monolith
+29.07.2017 15:35:58: Не обработано: Dynmap >> Finding map : C:\Program Files (x86)\Steam\steamapps\common\Unturned\Maps\Paintball_Arena_0
+29.07.2017 15:35:58: Не обработано: Dynmap >> Finding map : C:\Program Files (x86)\Steam\steamapps\common\Unturned\Maps\PEI
+29.07.2017 15:35:58: Не обработано: Dynmap >> Finding map : C:\Program Files (x86)\Steam\steamapps\common\Unturned\Maps\PEI Arena
+29.07.2017 15:35:58: Не обработано: Dynmap >> Finding map : C:\Program Files (x86)\Steam\steamapps\common\Unturned\Maps\Russia
+29.07.2017 15:35:58: Не обработано: Dynmap >> Finding map : C:\Program Files (x86)\Steam\steamapps\common\Unturned\Maps\Tutorial
+29.07.2017 15:35:58: Не обработано: Dynmap >> Finding map : C:\Program Files (x86)\Steam\steamapps\common\Unturned\Maps\Washington
+29.07.2017 15:35:58: Не обработано: Dynmap >> Finding map : C:\Program Files (x86)\Steam\steamapps\common\Unturned\Maps\Washington Arena
+29.07.2017 15:35:58: Не обработано: Dynmap >> Finding map : C:\Program Files (x86)\Steam\steamapps\common\Unturned\Maps\Yukon
+29.07.2017 15:35:58: Не обработано: Uploading map files to the server! This may take some time!
+29.07.2017 15:35:58: Не обработано: Uploading done!
+29.07.2017 15:35:58: Не обработано: 
+29.07.2017 15:35:58: Не обработано: [loading] JoinLeaveMessages
+29.07.2017 15:35:58: Не обработано: [loading] Kits[registered] /kit (fr34kyn01535.Kits.CommandKit/kit)
+29.07.2017 15:35:58: Не обработано: Kits >> Optional dependency Uconomy is not present.
+29.07.2017 15:35:58: Не обработано: 
+29.07.2017 15:35:58: Не обработано: [loading] LeeIzaZombie.ItemRestrictionsSetting up Item Restrictions by LeeIzaZombie. v2.0
+29.07.2017 15:35:58: Не обработано: --
+29.07.2017 15:35:58: Не обработано: Black listed items found: 10
+29.07.2017 15:35:58: Не обработано: --
+29.07.2017 15:35:58: Не обработано: Item Restrictions is ready!
+29.07.2017 15:35:58: Не обработано: 
+29.07.2017 15:35:58: Не обработано: [loading] MessageAnnouncerMessageAnnouncer >> Load
+29.07.2017 15:35:58: Не обработано: [registered] /rules (fr34kyn01535.MessageAnnouncer.RocketTextCommand/rules)
+29.07.2017 15:35:58: Не обработано: [registered] /kits (fr34kyn01535.MessageAnnouncer.RocketTextCommand/kits)
+29.07.2017 15:35:58: Не обработано: [registered] /vk (fr34kyn01535.MessageAnnouncer.RocketTextCommand/vk)
+29.07.2017 15:35:58: Не обработано: [registered] /donat (fr34kyn01535.MessageAnnouncer.RocketTextCommand/donat)
+29.07.2017 15:35:58: Не обработано: 
+29.07.2017 15:35:58: Не обработано: [loading] PlayerInfoLib[registered] /delint (PlayerInfoLibrary.CommandDelInstance/delint)
+29.07.2017 15:35:58: Не обработано: [registered] /rnint (PlayerInfoLibrary.CommandRnInstance/rnint)
+29.07.2017 15:35:58: Не обработано: [registered] /investigate (PlayerInfoLibrary.CommandInvestigate/investigate)
+29.07.2017 15:35:58: Не обработано: Adding UnturnedPlayerComponent: PlayerInfoLibPComponent
+29.07.2017 15:35:58: Не обработано: 
+29.07.2017 15:35:58: Не обработано: [loading] PrivateMessages[registered] /pm (Teyhota.PrivateMessages.Command_Msg/pm)
+29.07.2017 15:35:58: Не обработано: [registered] /msg (Teyhota.PrivateMessages.Command_Msg/msg)
+29.07.2017 15:35:58: Не обработано: [registered] /dm (Teyhota.PrivateMessages.Command_Msg/dm)
+29.07.2017 15:35:58: Не обработано: [registered] /whipser (Teyhota.PrivateMessages.Command_Msg/whipser)
+29.07.2017 15:35:58: Не обработано: [registered] /reply (Teyhota.PrivateMessages.Command_Reply/reply)
+29.07.2017 15:35:58: Не обработано: [registered] /r (Teyhota.PrivateMessages.Command_Reply/r)
+29.07.2017 15:35:58: Не обработано:  
+29.07.2017 15:35:58: Не обработано: Plugin by: LjMjollnir & Teyhota
+29.07.2017 15:35:58: Не обработано: Plugin version: 1.2
+29.07.2017 15:35:58: Не обработано: Made for Unturned version: 3.18.4.1
+29.07.2017 15:35:58: Не обработано: Made for RocketMod version: 4.9.3.0
+29.07.2017 15:35:58: Не обработано: Support: Plugins.4Unturned.tk
+29.07.2017 15:35:58: Не обработано:  
+29.07.2017 15:35:58: Не обработано: ------
+29.07.2017 15:35:58: Не обработано: PrivateMessages is up to date!
+29.07.2017 15:35:58: Не обработано: ------
+29.07.2017 15:35:58: Не обработано: 
+29.07.2017 15:35:58: Не обработано: [loading] RocketMod_TPA[registered] /tpa (RocketMod_TPA.CommandTPA/tpa)
+29.07.2017 15:35:58: Не обработано: TPA by LeeIzaZombie, Version 1.7.0.2
+29.07.2017 15:35:58: Не обработано: ...
+29.07.2017 15:35:58: Не обработано: Current configuration:
+29.07.2017 15:35:58: Не обработано: ...
+29.07.2017 15:35:58: Не обработано: Cooldown TPA requests: enabled, Seconds: 90
+29.07.2017 15:35:58: Не обработано: Delay teleporting: disabled, Seconds: 10
+29.07.2017 15:35:58: Не обработано: Cancel teleport if bleeding: disabled
+29.07.2017 15:35:58: Не обработано: NinjaTP: disabled, EffectID: 45
+29.07.2017 15:35:58: Не обработано: [Delay] Cancel teleport if hurt: disabled
+29.07.2017 15:35:58: Не обработано: ...
+29.07.2017 15:35:58: Не обработано: Checking for problems:
+29.07.2017 15:35:58: Не обработано: No errors have been found!
+29.07.2017 15:35:58: Не обработано: ...
+29.07.2017 15:35:58: Не обработано: Always welcome to suggestions! If you find a bug, please report it!
+29.07.2017 15:35:58: Не обработано: 
+29.07.2017 15:35:58: Не обработано: [loading] RocketTools[registered] /rocketpermission (Bloodstone.Plugins.RocketTools.CommandRPerm/rocketpermission)
+29.07.2017 15:35:58: Не обработано: [registered] /rp (Bloodstone.Plugins.RocketTools.CommandRPerm/rp)
+29.07.2017 15:35:58: Не обработано: [registered] /rpermission (Bloodstone.Plugins.RocketTools.CommandRPerm/rpermission)
+29.07.2017 15:35:58: Не обработано: [registered] /rperm (Bloodstone.Plugins.RocketTools.CommandRPerm/rperm)
+29.07.2017 15:35:58: Не обработано: [registered] /rocketp (Bloodstone.Plugins.RocketTools.CommandRPerm/rocketp)
+29.07.2017 15:35:58: Не обработано: [registered] /rocketperm (Bloodstone.Plugins.RocketTools.CommandRPerm/rocketperm)
+29.07.2017 15:35:58: Не обработано: RocketTools by persiafighter, build #4 has been loaded!
+29.07.2017 15:35:58: Не обработано: 
+29.07.2017 15:35:58: Не обработано: [loading] Uconomy[registered] /balance (fr34kyn01535.Uconomy.CommandBalance/balance)
+29.07.2017 15:35:58: Не обработано: [registered] /pay (fr34kyn01535.Uconomy.CommandPay/pay)
+29.07.2017 15:35:58: Не обработано: 
+29.07.2017 15:35:58: Не обработано: [loading] VehicleEventsVehicle Events by CryTheSly has been loaded!
+29.07.2017 15:36:40: Не обработано: PlayerID: 76561198330212465 Name: hovermort Character: [одиночка]Морт Ping: 121
+29.07.2017 15:38:48: Не обработано: [одиночка]Морт [hovermort] was mauled by a zombie!
+29.07.2017 15:45:20: Сохранение сервера
+29.07.2017 15:48:59: Не обработано: jo.gus [jo.gus] bled to death!
+29.07.2017 15:53:19: Не обработано: vablus531 [vablus531] bled to death!
+29.07.2017 16:05:56: Не обработано: vablus531 [vablus531] was mauled by a zombie!
+29.07.2017 16:07:08: Не обработано: vablus531 [vablus531] was mauled by a zombie!
+29.07.2017 16:09:11: Не обработано: matvey_111 [matvey_111] was mauled by a zombie!
+29.07.2017 16:14:52: Не обработано: toder [бот] was mauled by a zombie!
+29.07.2017 16:15:20: Сохранение сервера
+29.07.2017 16:16:00: Не обработано: toder [бот] was dissolved by a zombie!
+29.07.2017 16:16:50: Не обработано: Саня [gamer0053] was mauled by a zombie!
+29.07.2017 16:17:06: Не обработано: toder [бот] bled to death!
+29.07.2017 16:17:36: Не обработано: Саня moved x:648.0968 y:57.63431(+18.95694) z:358.2406 in the last second (0.6538429)
+29.07.2017 16:17:50: Не обработано: toder [бот] was mauled by a zombie!
+29.07.2017 16:20:22: Не обработано: Саня [gamer0053] was mauled by a zombie!
+29.07.2017 16:28:47: Не обработано: Саня [gamer0053] was mauled by a zombie!
+29.07.2017 16:28:57: Не обработано: toder [бот] was mauled by a zombie!
+29.07.2017 16:30:12: Не обработано: COPT [sorokaura501] was mauled by a zombie!
+29.07.2017 16:31:07: Не обработано: toder [бот] was mauled by a zombie!
+29.07.2017 16:31:07: Не обработано: Саня [gamer0053] was burned by a zombie!
+29.07.2017 16:31:07: Не обработано: NullReferenceException - SDG.Unturned.UseableMelee.fire ()
+29.07.2017 16:31:07: Не обработано: SDG.Unturned.UseableMelee.simulate (UInt32 simulation, Boolean inputSteady)
+29.07.2017 16:31:07: Не обработано: SDG.Unturned.PlayerEquipment.simulate (UInt32 simulation, Boolean inputPrimary, Boolean inputSecondary, Boolean inputSteady)
+29.07.2017 16:31:07: Не обработано: SDG.Unturned.PlayerInput.FixedUpdate ()
+29.07.2017 16:33:10: Не обработано: DR.pepper [DR.pepper] was mauled by a zombie!
+29.07.2017 16:33:43: Не обработано: CRALman [CRALman] was mauled by a zombie!
+29.07.2017 16:34:31: Не обработано: Hyper Beast [Hyper Beast] bled to death!
+29.07.2017 16:34:32: Не обработано: toder [бот] was mauled by a zombie!
+29.07.2017 16:34:47: Не обработано: matvey_111 [matvey_111] was mauled by a zombie!
+29.07.2017 16:35:03: Не обработано: CRALman [CRALman] is calling a vote to kick DR.pepper [DR.pepper]
+29.07.2017 16:35:18: Не обработано: Vote failed!
+29.07.2017 16:36:18: Не обработано: Hyper Beast [Hyper Beast] was mauled by a zombie!
+29.07.2017 16:36:21: Не обработано: ilchik123 [ilchik123] was mauled by a zombie!
+29.07.2017 16:36:50: Не обработано: Hyper Beast [Hyper Beast] was mauled by a zombie!
+29.07.2017 16:37:49: Не обработано: таджык [мэчэный] was chopped in the head by Hyper Beast [Hyper Beast]!
+29.07.2017 16:37:57: Не обработано: Hyper Beast [Hyper Beast] bled to death!
+29.07.2017 16:38:25: Не обработано: Hyper Beast moved x:875.3107 y:43.88595(+19.64496) z:630.9843 in the last second (0.5999985)
+29.07.2017 16:39:31: Не обработано: COPT [sorokaura501] was mauled by a zombie!
+29.07.2017 16:39:38: Не обработано: toder [бот] was dissolved by a zombie!
+29.07.2017 16:40:31: Не обработано: Саня [gamer0053] was mauled by a zombie!
+29.07.2017 16:42:46: Не обработано: COPT [sorokaura501] was mauled by a zombie!
+29.07.2017 16:42:47: Не обработано: Саня [gamer0053] was mauled by a zombie!
+29.07.2017 16:44:59: Не обработано: CRALman [CRALman] was infected to death!
+29.07.2017 16:45:18: Не обработано: CRALman [CRALman] is calling a vote to kick ilchik123 [ilchik123]
+29.07.2017 16:45:20: Не обработано: DR.pepper [DR.pepper] was chopped in the head by таджык [мэчэный]!
+29.07.2017 16:45:20: Сохранение сервера
+29.07.2017 16:45:33: Не обработано: Vote failed!
+29.07.2017 16:46:37: Не обработано: ilchik123 [ilchik123] suffocated to death!
+29.07.2017 16:48:11: Не обработано: God'sEnvoy [God'sEnvoy°] was chopped in the head by Hyper Beast [Hyper Beast]!
+29.07.2017 16:48:21: Не обработано: God'sEnvoy moved x:463.5407 y:43.265(+16.40145) z:660.0394 in the last second (0.1000023)
+29.07.2017 16:49:14: Не обработано: таджык [мэчэный] was mauled by a zombie!
+29.07.2017 16:49:18: Не обработано: таджык moved x:-720.9009 y:59.51276(+21.03544) z:150.1289 in the last second (1.003479)
+29.07.2017 16:49:19: Не обработано: ilchik123 [ilchik123] was mauled by a zombie!
+29.07.2017 16:49:55: Не обработано: CRALman [CRALman] is calling a vote to kick God'sEnvoy [God'sEnvoy°]
+29.07.2017 16:50:10: Не обработано: Vote failed!
+29.07.2017 16:50:45: Не обработано: таджык [мэчэный] bled to death!
+29.07.2017 16:51:30: Не обработано: DR.pepper [DR.pepper] was mauled by a zombie!
+29.07.2017 16:51:39: Не обработано: русская рыба [sorokaura501] was mauled by a zombie!
+29.07.2017 16:51:46: Не обработано: таджык [мэчэный] was punched in the head by DR.pepper [DR.pepper]!
+29.07.2017 16:52:05: Не обработано: DR.pepper [DR.pepper] was mauled by a zombie!
+29.07.2017 16:53:19: Не обработано: ilchik123 [ilchik123] was dissolved by a zombie!
+29.07.2017 16:54:44: Не обработано: kirito LVL.14 [kirito LVL.14] was chopped in the head by ilchik123 [ilchik123]!
+29.07.2017 16:55:27: Не обработано: русская рыба [sorokaura501] was mauled by a zombie!
+29.07.2017 16:57:03: Не обработано: русская рыба [sorokaura501] was mauled by a zombie!
+29.07.2017 17:00:30: Не обработано: русская рыба [sorokaura501] bled to death!
+29.07.2017 17:01:47: Не обработано: русская рыба [sorokaura501] was mauled by a zombie!
+29.07.2017 17:05:56: Не обработано: таджык moved x:841.7152 y:85.41736(+43.73114) z:131.9798 in the last second (1)
+29.07.2017 17:06:01: Не обработано: ilchik123 moved x:843.7748 y:85.67615(+45.22745) z:126.0659 in the last second (1)
+29.07.2017 17:08:21: Не обработано: kirito LVL.14 [kirito LVL.14] was roadkilled by ilchik123 [ilchik123]!
+29.07.2017 17:09:36: Не обработано: kirito LVL.14 [kirito LVL.14] was shot in the head by таджык [мэчэный]!
+29.07.2017 17:10:04: Не обработано: ewfyfwfyg3w [ewfyfwfyg3w] was shot in the head by таджык [мэчэный]!
+29.07.2017 17:11:48: Не обработано: ilchik123 [ilchik123] was mauled by a zombie!
+29.07.2017 17:12:21: Не обработано: Олег шаповалов [nirazak] bled to death!
+29.07.2017 17:12:34: Не обработано: Олег шаповалов moved x:31.84913 y:59.96437(+21.48706) z:23.61045 in the last second (0.6002388)
+29.07.2017 17:15:20: Сохранение сервера
+29.07.2017 17:17:33: Не обработано: God'sEnvoy [God'sEnvoy°] bled to death!
+29.07.2017 17:17:39: Не обработано: таджык [мэчэный] bled to death!
+29.07.2017 17:17:44: Не обработано: dref [dref6935] bled to death!
+29.07.2017 17:19:43: Не обработано: God'sHakke [?God'sHakke?] was chopped in the head by God'sEnvoy [God'sEnvoy°]!
+29.07.2017 17:20:44: Не обработано: God'sHakke [?God'sHakke?] was chopped in the head by vahtomov79 [Silver]!
+29.07.2017 17:20:50: Не обработано: Олег шаповалов [nirazak] was burned by a zombie!
+29.07.2017 17:20:50: Не обработано: NullReferenceException - SDG.Unturned.UseableMelee.fire ()
+29.07.2017 17:20:50: Не обработано: SDG.Unturned.UseableMelee.simulate (UInt32 simulation, Boolean inputSteady)
+29.07.2017 17:20:50: Не обработано: SDG.Unturned.PlayerEquipment.simulate (UInt32 simulation, Boolean inputPrimary, Boolean inputSecondary, Boolean inputSteady)
+29.07.2017 17:20:50: Не обработано: SDG.Unturned.PlayerInput.FixedUpdate ()
+29.07.2017 17:20:56: Не обработано: таджык [мэчэный] was chopped in the torso by vahtomov79 [Silver]!
+29.07.2017 17:21:02: Не обработано: Олег шаповалов moved x:6.279001 y:55.84908(+29.36746) z:-2.972717 in the last second (0.6220322)
+29.07.2017 17:22:02: Не обработано: ilchik123 [ilchik123] was chopped in the arm by vahtomov79 [Silver]!
+29.07.2017 17:22:34: Не обработано: God'sHakke [?God'sHakke?] was mauled by a zombie!
+29.07.2017 17:22:36: Не обработано: God'sHakke moved x:-720.9009 y:59.51276(+21.03544) z:150.1289 in the last second (1.003479)
+29.07.2017 17:22:36: Не обработано: Олег шаповалов [nirazak] was mauled by a zombie!
+29.07.2017 17:23:28: Не обработано: ilchik123 [ilchik123] was chopped in the head by Олег шаповалов [nirazak]!
+29.07.2017 17:23:31: Не обработано: ilchik123 moved x:-720.9009 y:59.51276(+20.83539) z:150.1289 in the last second (1.003479)
+29.07.2017 17:24:08: Не обработано: Юра Рябцев [uyara_2003] was mauled by a zombie!
+29.07.2017 17:25:42: Не обработано: ilchik123 [ilchik123] was mauled by a zombie!
+29.07.2017 17:25:57: Не обработано: таджык [мэчэный] fractured to death!
+29.07.2017 17:36:30: Не обработано: B_Trash [ЭтОкЛиМеНтОл] was shot in the head by [одиночка]Морт [hovermort]!
+29.07.2017 17:36:31: Не обработано: [одиночка]Морт [hovermort] was shot in the head by ZOMY [ZOMY]!
+29.07.2017 17:45:20: Сохранение сервера
+29.07.2017 18:00:34: Не обработано: ZOMY [ZOMY] was dissolved by a zombie!
+29.07.2017 18:00:35: Не обработано: B_Trash [ЭтОкЛиМеНтОл] fractured to death!
+29.07.2017 18:06:08: Не обработано: B_Trash [ЭтОкЛиМеНтОл] was mauled by a zombie!
+29.07.2017 18:06:35: Не обработано: DENIIL [daniil2004.net] was mauled by a zombie!
+29.07.2017 18:07:30: Не обработано: 7_AleX_3 [7_AleX_3] killed themself.
+29.07.2017 18:07:40: Не обработано: DENIIL [daniil2004.net] was mauled by a zombie!
+29.07.2017 18:07:46: Не обработано: 7_AleX_3 [7_AleX_3] killed themself.
+29.07.2017 18:08:20: Не обработано: ZOMY moved x:102.2096 y:54.19847(+15.42115) z:-383.1676 in the last second (0.6328011)
+29.07.2017 18:10:55: Не обработано: 7_AleX_3 [7_AleX_3] killed themself.
+29.07.2017 18:11:52: Не обработано: ZOMY [ZOMY] bled to death!
+29.07.2017 18:12:02: Не обработано: ZOMY moved x:-744.4502 y:58.56762(+30.66887) z:127.2084 in the last second (0.9748459)
+29.07.2017 18:13:20: Не обработано: DENIIL moved x:-282.2987 y:55.8084(+17.51329) z:-254.0583 in the last second (1)
+29.07.2017 18:14:31: Не обработано: God'sEnvoy [God'sEnvoy°] was mauled by a zombie!
+29.07.2017 18:14:35: Не обработано: DENIIL [daniil2004.net] bled to death!
+29.07.2017 18:15:20: Сохранение сервера
+29.07.2017 18:19:17: Не обработано: Cat Reaction [Cat Reaction] was mauled by a zombie!
+29.07.2017 18:22:12: Не обработано: BigFunk [_--ДЯДЯ_МАДЯ--_] was mauled by a zombie!
+29.07.2017 18:23:08: Не обработано: serg-al-78 [serg-al-78] was mauled by a zombie!
+29.07.2017 18:23:30: Не обработано: BigFunk [_--ДЯДЯ_МАДЯ--_] was mauled by a zombie!
+29.07.2017 18:24:42: Не обработано: serg-al-78 [serg-al-78] was roadkilled by Cat Reaction [Cat Reaction]!
+29.07.2017 18:24:43: Не обработано: 7_AleX_3 [7_AleX_3] was roadkilled by Cat Reaction [Cat Reaction]!
+29.07.2017 18:25:54: Не обработано: B_Trash [ЭтОкЛиМеНтОл] bled to death!
+29.07.2017 18:26:18: Не обработано: B_Trash moved x:303.6815 y:56.43791(+28.54017) z:-479.7609 in the last second (0.6439667)
+29.07.2017 18:26:34: Не обработано: 7_AleX_3 [7_AleX_3] was shot in the torso by Cat Reaction [Cat Reaction]!
+29.07.2017 18:26:52: Не обработано: ZOMY [ZOMY] killed themself.
+29.07.2017 18:33:21: Не обработано: ZOMY [ZOMY] bled to death!
+29.07.2017 18:35:10: Не обработано: Гусев дима [*F1N*] was punched in the head by Kedr [JepTheKilroy]!
+29.07.2017 18:36:21: Не обработано: arakaland [arakaland] bled to death!
+29.07.2017 18:37:15: Не обработано: Kedr [JepTheKilroy] was chopped in the head by Andrej Oxotnik [B0JIK]!
+29.07.2017 18:37:21: Не обработано: arakaland [arakaland] was punched in the head by Гусев дима [*F1N*]!
+29.07.2017 18:37:27: Не обработано: Гусев дима [*F1N*] was mauled by a zombie!
+29.07.2017 18:37:29: Не обработано: Andrej Oxotnik [B0JIK] bled to death!
+29.07.2017 18:38:16: Не обработано: 7_AleX_3 [7_AleX_3] bled to death!
+29.07.2017 18:38:32: Не обработано: DENIIL [daniil2004.net] was mauled by a zombie!
+29.07.2017 18:38:54: Не обработано: Убиван Кеноби [Не Сергей и Не ДружкоGamekit.com] was dissolved by a zombie!
+29.07.2017 18:39:46: Не обработано: Kedr [JepTheKilroy] was chopped in the head by алдошкин максим [2 cat 2 feeble]!
+29.07.2017 18:40:39: Не обработано: DENIIL [daniil2004.net] was mauled by a zombie!
+29.07.2017 18:43:50: Не обработано: DENIIL [daniil2004.net] was burned by a zombie!
+29.07.2017 18:43:50: Не обработано: NullReferenceException - SDG.Unturned.UseableMelee.fire ()
+29.07.2017 18:43:50: Не обработано: SDG.Unturned.UseableMelee.simulate (UInt32 simulation, Boolean inputSteady)
+29.07.2017 18:43:50: Не обработано: SDG.Unturned.PlayerEquipment.simulate (UInt32 simulation, Boolean inputPrimary, Boolean inputSecondary, Boolean inputSteady)
+29.07.2017 18:43:50: Не обработано: SDG.Unturned.PlayerInput.FixedUpdate ()
+29.07.2017 18:44:18: Не обработано: gogicha15 [gogicha15] was mauled by a zombie!
+29.07.2017 18:45:20: Сохранение сервера
+29.07.2017 18:45:40: Не обработано: DENIIL [daniil2004.net] was mauled by a zombie!
+29.07.2017 18:45:42: Не обработано: DENIIL moved x:-744.4502 y:58.56762(+19.79) z:127.2084 in the last second (0.9748459)
+29.07.2017 18:46:25: Не обработано: B_Trash [ЭтОкЛиМеНтОл] was burned by a zombie!
+29.07.2017 18:46:25: Не обработано: NullReferenceException - SDG.Unturned.UseableMelee.fire ()
+29.07.2017 18:46:25: Не обработано: SDG.Unturned.UseableMelee.simulate (UInt32 simulation, Boolean inputSteady)
+29.07.2017 18:46:25: Не обработано: SDG.Unturned.PlayerEquipment.simulate (UInt32 simulation, Boolean inputPrimary, Boolean inputSecondary, Boolean inputSteady)
+29.07.2017 18:46:25: Не обработано: SDG.Unturned.PlayerInput.FixedUpdate ()
+29.07.2017 18:46:30: Не обработано: gogicha15 [gogicha15] was mauled by a zombie!
+29.07.2017 18:46:53: Не обработано: Andrej Oxotnik [B0JIK] was mauled by a zombie!
+29.07.2017 18:47:04: Не обработано: DENIIL [daniil2004.net] bled to death!
+29.07.2017 18:48:00: Не обработано: arakaland [arakaland] was mauled by a zombie!
+29.07.2017 18:49:47: Не обработано: DENIIL [daniil2004.net] was mauled by a zombie!
+29.07.2017 18:49:58: Не обработано: Andrej Oxotnik [B0JIK] was mauled by a zombie!
+29.07.2017 18:50:36: Не обработано: Kedr [JepTheKilroy] was shot in the head by Гусев дима [*F1N*]!
+29.07.2017 18:50:53: Не обработано: DENIIL [daniil2004.net] was mauled by a zombie!
+29.07.2017 18:52:33: Не обработано: VladPinzin [BOT Anton] bled to death!
+29.07.2017 18:52:39: Не обработано: Andrej Oxotnik [B0JIK] was dissolved by a zombie!
+29.07.2017 18:52:41: Не обработано: arakaland [arakaland] was dissolved by a zombie!
+29.07.2017 18:52:56: Не обработано: VladPinzin [BOT Anton] was chopped in the head by Andrej Oxotnik [B0JIK]!
+29.07.2017 18:55:06: Не обработано: arakaland [arakaland] was mauled by a zombie!
+29.07.2017 18:55:19: Не обработано: B_Trash [ЭтОкЛиМеНтОл] was mauled by a zombie!
+29.07.2017 18:56:15: Не обработано: алдошкин максим [2 cat 2 feeble] was burned by a zombie!
+29.07.2017 18:56:57: Не обработано: God'sEnvoy moved x:-330.3806 y:54.79266(+16.11531) z:-9.560024 in the last second (0.4349442)
+29.07.2017 18:57:00: Не обработано: God'sHakke moved x:-326.6522 y:54.6104(+16.05749) z:-13.59637 in the last second (0.09999847)
+29.07.2017 18:57:42: Не обработано: God'sEnvoy [God'sEnvoy°] was dissolved by a zombie!
+29.07.2017 18:58:56: Не обработано: God'sHakke [?God'sHakke?] bled to death!
+29.07.2017 18:59:05: Не обработано: алдошкин максим [2 cat 2 feeble] was mauled by a zombie!
+29.07.2017 19:02:02: Не обработано: 7_AleX_3 [7_AleX_3] bled to death!
+29.07.2017 19:02:18: Не обработано: arakaland [arakaland] was shot in the head by Гусев дима [*F1N*]!
+29.07.2017 19:03:17: Не обработано: arakaland [arakaland] was mauled by a zombie!
+29.07.2017 19:04:50: Не обработано: Гусев дима [*F1N*] was chopped in the arm by God'sHakke [?God'sHakke?]!
+29.07.2017 19:15:20: Сохранение сервера
+29.07.2017 19:23:50: Не обработано: PlayerID: 76561198394673463 Name: daniil2004.net Character: DENIIL Ping: 38
+29.07.2017 19:38:30: Не обработано: SuperMan [Multipass] killed themself.
+29.07.2017 19:45:20: Сохранение сервера
+29.07.2017 19:57:13: Не обработано: Altijdwesley [gewoonwesley] was mauled by a zombie!
+29.07.2017 19:58:34: Не обработано: Altijdwesley [gewoonwesley] was mauled by a zombie!
+29.07.2017 19:58:42: Не обработано: (A)Shot [ScreaM] killed themself.
+29.07.2017 20:00:38: Не обработано: burgas.viktor [DorisGame] bled to death!
+29.07.2017 20:01:01: Не обработано: DENIIL [daniil2004.net] burned to death!
+29.07.2017 20:07:57: Не обработано: DENIIL [daniil2004.net] killed themself.
+29.07.2017 20:08:16: Не обработано: elena-shepel [KIRULLER] was mauled by a zombie!
+29.07.2017 20:09:02: Не обработано: Zelenui_YT [Zelenui_YT] was mauled by a zombie!
+29.07.2017 20:13:35: Не обработано: elena-shepel [KIRULLER] was mauled by a zombie!
+29.07.2017 20:15:20: Сохранение сервера
+29.07.2017 20:15:25: Не обработано: elena-shepel [KIRULLER] was mauled by a zombie!
+29.07.2017 20:22:22: Не обработано: DENIIL [daniil2004.net] was shredded to bits!
+29.07.2017 20:22:43: Не обработано: elena-shepel [KIRULLER] was mauled by a zombie!
+29.07.2017 20:25:19: Не обработано: DENIIL [daniil2004.net] was burned by a zombie!
+29.07.2017 20:25:19: Не обработано: NullReferenceException - SDG.Unturned.UseableMelee.fire ()
+29.07.2017 20:25:19: Не обработано: SDG.Unturned.UseableMelee.simulate (UInt32 simulation, Boolean inputSteady)
+29.07.2017 20:25:19: Не обработано: SDG.Unturned.PlayerEquipment.simulate (UInt32 simulation, Boolean inputPrimary, Boolean inputSecondary, Boolean inputSteady)
+29.07.2017 20:25:19: Не обработано: SDG.Unturned.PlayerInput.FixedUpdate ()
+29.07.2017 20:29:53: Не обработано: DENIIL [daniil2004.net] was mauled by a zombie!
+29.07.2017 20:33:22: Не обработано: DENIIL [daniil2004.net] was mauled by a zombie!
+29.07.2017 20:34:18: Не обработано: DENIIL [daniil2004.net] burned to death!
+29.07.2017 20:35:19: Не обработано: DENIIL [daniil2004.net] was mauled by a zombie!
+29.07.2017 20:37:38: Не обработано: Altijdwesley [gewoonwesley] dehydrated to death!
+29.07.2017 20:38:14: Не обработано: DENIIL [daniil2004.net] was mauled by a zombie!
+29.07.2017 20:42:08: Не обработано: God'sHakke moved x:542.7632 y:62.70715(+22.40457) z:600.8615 in the last second (1)
+29.07.2017 20:45:20: Сохранение сервера
+29.07.2017 20:47:19: Не обработано: chris [chris] was mauled by a zombie!
+29.07.2017 20:56:38: Не обработано: God'sHakke [?God'sHakke?] was crushed by a zombie!
+29.07.2017 20:57:27: Не обработано: God'sHakke [?God'sHakke?] was mauled by a zombie!
+29.07.2017 20:59:44: Не обработано: God'sEnvoy [God'sEnvoy°] was crushed by a zombie!
+29.07.2017 21:02:18: Не обработано: God'sHakke [?God'sHakke?] was mauled by a zombie!
+29.07.2017 21:04:34: Не обработано: God'sHakke moved x:463.8837 y:43.40291(+18.17002) z:662.6297 in the last second (0.2379189)
+29.07.2017 21:15:20: Сохранение сервера
+29.07.2017 21:17:13: Не обработано: God'sEnvoy [God'sEnvoy°] was mauled by a zombie!
+29.07.2017 21:17:46: Не обработано: God'sHakke [?God'sHakke?] was mauled by a zombie!
+29.07.2017 21:20:22: Не обработано: God'sHakke moved x:463.8837 y:43.40291(+18.23425) z:662.6297 in the last second (0.2379189)
+29.07.2017 21:32:54: Не обработано: noob [just a guy] bled to death!
+29.07.2017 21:33:27: Не обработано: noob moved x:-720.9009 y:59.51276(+20.84042) z:150.1289 in the last second (1.003479)
+29.07.2017 21:45:20: Сохранение сервера
+29.07.2017 22:00:29: Не обработано: egorkaminskiy [egorkaminskiy] was mauled by a zombie!
+29.07.2017 22:00:33: Не обработано: surgut-86russ [surgut-86russ] was mauled by a zombie!
+29.07.2017 22:15:20: Сохранение сервера
+29.07.2017 22:39:23: Не обработано: PlayerID: 76561198388160316 Name: Mario Character: hazart Ping: 99
+29.07.2017 22:45:20: Сохранение сервера
+29.07.2017 23:15:20: Сохранение сервера
+29.07.2017 23:19:51: Не обработано: PlayerID: 76561198329825441 Name: АРТ!М Character: АРТ!М Ping: 146
+29.07.2017 23:28:32: Не обработано: 1366:TruncatedWrongValueForField
+29.07.2017 23:28:32: Не обработано:   at MySql.Data.MySqlClient.MySqlStream.ReadPacket () [0x00000] in <filename unknown>:0 
+29.07.2017 23:28:32: Не обработано:   at MySql.Data.MySqlClient.NativeDriver.GetResult (System.Int32& affectedRow, System.Int64& insertedId) [0x00000] in <filename unknown>:0 
+29.07.2017 23:36:40: Не обработано: АРТ!М [АРТ!М] was mauled by a zombie!
+29.07.2017 23:39:31: Не обработано: PlayerID: 76561198329825441 Name: АРТ!М Character: АРТ!М Ping: 119
+29.07.2017 23:41:25: Не обработано: АРТ!М [АРТ!М] was mauled by a zombie!
+29.07.2017 23:41:29: Не обработано: АРТ!М moved x:-744.4502 y:58.56762(+19.73162) z:127.2084 in the last second (0.9748459)
+29.07.2017 23:43:14: Не обработано: АРТ!М [АРТ!М] was mauled by a zombie!
+29.07.2017 23:45:20: Сохранение сервера
+30.07.2017 0:15:20: Сохранение сервера
+30.07.2017 0:45:20: Сохранение сервера
+30.07.2017 1:15:20: Сохранение сервера
+30.07.2017 1:45:20: Сохранение сервера
+30.07.2017 2:15:20: Сохранение сервера
+30.07.2017 2:45:20: Сохранение сервера
+30.07.2017 3:15:20: Сохранение сервера
+30.07.2017 3:16:11: Не обработано: Master_Chief [Master_Chief] was mauled by a zombie!
+30.07.2017 3:16:16: Не обработано: Master_Chief moved x:-720.9009 y:59.51276(+21.03544) z:150.1289 in the last second (1.003479)
+30.07.2017 3:16:48: Не обработано: Chugster [Chugster] killed themself.
+30.07.2017 3:18:48: Не обработано: Master_Chief [Master_Chief] killed themself.
+30.07.2017 3:22:26: Не обработано: Chugster [Chugster] bled to death!
+30.07.2017 3:23:15: Не обработано: Master_Chief [Master_Chief] killed themself.
+30.07.2017 3:27:21: Не обработано: Master_Chief [Master_Chief] bled to death!
+30.07.2017 3:45:20: Сохранение сервера
+30.07.2017 4:15:20: Сохранение сервера
+30.07.2017 4:45:20: Сохранение сервера
+30.07.2017 5:15:20: Сохранение сервера
+30.07.2017 5:37:31: Не обработано: PlayerID: 76561198294618708 Name: ?SCORPIO¦?  ? Character: (((Police))) Ping: 152
+30.07.2017 5:41:51: Не обработано: PlayerID: 76561198294618708 Name: ?SCORPIO¦?  ? Character: (((Police))) Ping: 150
+30.07.2017 5:45:20: Сохранение сервера
+30.07.2017 6:15:20: Сохранение сервера
+30.07.2017 6:29:50: Не обработано: [одиночка]Морт [hovermort] was mauled by a zombie!
+30.07.2017 6:30:31: Не обработано: PlayerID: 76561198330212465 Name: hovermort Character: [одиночка]Морт Ping: 125
+30.07.2017 6:45:20: Сохранение сервера
+30.07.2017 7:15:20: Сохранение сервера
+30.07.2017 7:22:46: Не обработано: PlayerID: 76561198330212465 Name: hovermort Character: [одиночка]Морт Ping: 119
+30.07.2017 7:45:20: Сохранение сервера
+30.07.2017 7:51:42: Не обработано: [одиночка]Морт moved x:-788.8129 y:82.04365(+53.7128) z:-46.52806 in the last second (27.23847)
+30.07.2017 7:56:49: Не обработано: [одиночка]Морт [hovermort] was blown up by a landmine!
+30.07.2017 7:59:43: Не обработано: [одиночка]Морт moved x:-877.7118 y:68.59228(+39.02253) z:-588.5999 in the last second (0.1252365)
+30.07.2017 7:59:44: Не обработано: ZOMY moved x:-881.7359 y:71.08215(+40.47221) z:-583.7457 in the last second (0.8116455)
+30.07.2017 7:59:47: Не обработано: B_Trash moved x:-879.4825 y:69.49712(+38.64258) z:-586.9431 in the last second (0.3712692)
+30.07.2017 8:04:39: Не обработано: B_Trash [ЭтОкЛиМеНтОл] bled to death!
+30.07.2017 8:04:50: Не обработано: ZOMY [ZOMY] was dissolved by a zombie!
+30.07.2017 8:05:05: Не обработано: [одиночка]Морт [hovermort] bled to death!
+30.07.2017 8:05:08: Не обработано: [одиночка]Морт moved x:-744.4502 y:58.56762(+19.79598) z:127.2084 in the last second (0.9748459)
+30.07.2017 8:05:43: Не обработано: B_Trash [ЭтОкЛиМеНтОл] was dissolved by a zombie!
+30.07.2017 8:05:50: Не обработано: [одиночка]Морт [hovermort] bled to death!
+30.07.2017 8:12:59: Не обработано: [одиночка]Морт moved x:-277.472 y:57.31245(+27.22884) z:-279.5783 in the last second (38.2253)
+30.07.2017 8:14:29: Не обработано: ZOMY [ZOMY] was blown up by a vehicle!
+30.07.2017 8:15:20: Сохранение сервера
+30.07.2017 8:15:25: Не обработано: B_Trash [ЭтОкЛиМеНтОл] bled to death!
+30.07.2017 8:24:48: Не обработано: Failed to find any item called 2038.
+30.07.2017 8:32:06: Не обработано: 
+30.07.2017 8:32:06: Не обработано: [unloading] Kits
+30.07.2017 11:30:37: Не обработано: 7_AleX_3 moved x:-704.8799 y:71.57442(+28.32203) z:-602.6411 in the last second (0.05000305)
+30.07.2017 11:31:13: Не обработано: 7_AleX_3 moved x:-715.0505 y:69.05795(+24.79272) z:-597.836 in the last second (0.1018982)
+30.07.2017 11:32:24: Сохранение сервера
+30.07.2017 11:33:12: Не обработано: (((Police))) moved x:-764.9819 y:74.66756(+44.39761) z:242.6831 in the last second (0.1035995)
+30.07.2017 11:33:45: Не обработано: God'sEnvoy [God'sEnvoy°] dehydrated to death!
+30.07.2017 11:33:46: Не обработано: God'sEnvoy moved x:560.4181 y:63.39209(+24.57013) z:511.0022 in the last second (1)
+30.07.2017 11:37:18: Не обработано: ninjarayman [ninjarayman] was mauled by a zombie!
+30.07.2017 11:37:21: Не обработано: ninjarayman moved x:-744.4502 y:58.56762(+19.80755) z:127.2084 in the last second (0.9748459)
+30.07.2017 11:42:23: Не обработано: God'sEnvoy [God'sEnvoy°] was mauled by a zombie!
+30.07.2017 11:47:19: Не обработано: ninjarayman [ninjarayman] burned to death!
+30.07.2017 11:52:09: Не обработано: (((Police))) [?SCORPIO¦?  ?] dehydrated to death!
+30.07.2017 11:52:12: Не обработано: (((Police))) moved x:-744.4502 y:58.56762(+15.76471) z:127.2084 in the last second (0.9748459)
+30.07.2017 11:52:45: Не обработано: ninjarayman [ninjarayman] was mauled by a zombie!
+30.07.2017 11:52:48: Не обработано: ninjarayman moved x:-720.9009 y:59.51276(+20.44041) z:150.1289 in the last second (1.003479)
+30.07.2017 11:54:50: Не обработано: 7_AleX_3 moved x:-704.8799 y:71.57442(+35.18996) z:-602.6411 in the last second (0.05000305)
+30.07.2017 11:59:51: Не обработано: 7_AleX_3 moved x:-704.8799 y:71.57442(+36.27612) z:-602.6411 in the last second (0.05000305)
+30.07.2017 12:00:16: Не обработано: 7_AleX_3 был исцелён
+30.07.2017 12:00:16: Не обработано: ninjarayman был исцелён
+30.07.2017 12:00:16: Не обработано: breinenddasha был исцелён
+30.07.2017 12:00:26: Не обработано: ninjarayman moved x:-708.098 y:68.93427(+33.31964) z:-596.8325 in the last second (0.4224243)
+30.07.2017 12:02:24: Сохранение сервера
+30.07.2017 12:03:08: Не обработано: breinenddasha [breinenddasha] was mauled by a zombie!
+30.07.2017 12:11:18: Не обработано: 7_AleX_3 moved x:-807.8756 y:85.50586(+50.57076) z:-427.441 in the last second (1)
+30.07.2017 12:19:06: Не обработано: DONIOR [DONIORSHOW™] was mauled by a zombie!
+30.07.2017 12:27:52: Не обработано: PlayerID: 76561198404885194 Name: breinenddasha Character: breinenddasha Ping: 144
+30.07.2017 12:29:12: Не обработано: PlayerID: 76561198404885194 Name: breinenddasha Character: breinenddasha Ping: 139
+30.07.2017 12:32:24: Сохранение сервера
+30.07.2017 12:32:52: Не обработано: PlayerID: 76561198404885194 Name: breinenddasha Character: breinenddasha Ping: 149
+30.07.2017 12:34:55: Не обработано: breinenddasha [breinenddasha] was mauled by a zombie!
+30.07.2017 12:40:27: Не обработано: [одиночка]Морт [hovermort] was mauled by a zombie!
+30.07.2017 12:41:24: Не обработано: ffffuuuas [ffffuuuas] was mauled by a zombie!
+30.07.2017 12:41:31: Не обработано: ffffuuuas moved x:-720.9009 y:59.51276(+21.03544) z:150.1289 in the last second (1.003479)
+30.07.2017 12:43:11: Не обработано: serg-al-78 [serg-al-78] killed themself.
+30.07.2017 12:43:29: Не обработано: Trash [Климентий] was mauled by a zombie!
+30.07.2017 12:43:57: Не обработано: [одиночка]Морт [hovermort] bled to death!
+30.07.2017 12:47:43: Не обработано: Marivelaves [marivelaves] was dissolved by a zombie!
+30.07.2017 12:48:24: Не обработано: ffffuuuas [ffffuuuas] was dissolved by a zombie!
+30.07.2017 12:49:09: Не обработано: Marivelaves [marivelaves] was dissolved by a zombie!
+30.07.2017 12:50:47: Не обработано: CRALman [CRALman] killed themself.
+30.07.2017 12:51:43: Не обработано: CRALman [CRALman] killed themself.
+30.07.2017 12:51:52: Не обработано: CRALman [CRALman] killed themself.
+30.07.2017 12:51:59: Не обработано: [одиночка]Морт [hovermort] was mauled by a zombie!
+30.07.2017 12:52:05: Не обработано: CRALman [CRALman] killed themself.
+30.07.2017 12:52:11: Не обработано: CRALman [CRALman] killed themself.
+30.07.2017 12:52:56: Не обработано: cod'man [cod'man] was mauled by a zombie!
+30.07.2017 12:53:20: Не обработано: Marivelaves [marivelaves] was mauled by a zombie!
+30.07.2017 12:53:39: Не обработано: cod'man [cod'man] was mauled by a zombie!
+30.07.2017 12:56:20: Не обработано: CRALman [CRALman] killed themself.
+30.07.2017 12:56:27: Не обработано: CRALman [CRALman] killed themself.
+30.07.2017 12:56:32: Не обработано: CRALman [CRALman] killed themself.
+30.07.2017 12:56:39: Не обработано: CRALman [CRALman] killed themself.
+30.07.2017 12:56:44: Не обработано: CRALman [CRALman] killed themself.
+30.07.2017 12:56:58: Не обработано: CRALman [CRALman] killed themself.
+30.07.2017 12:57:01: Не обработано: CRALman [CRALman] killed themself.
+30.07.2017 13:00:07: Не обработано: CRALman [CRALman] was mauled by a zombie!
+30.07.2017 13:00:08: Не обработано: CRALman moved x:-720.9009 y:59.51276(+27.14077) z:150.1289 in the last second (1.003479)
+30.07.2017 13:01:13: Не обработано: CRALman [CRALman] killed themself.
+30.07.2017 13:01:29: Не обработано: CRALman [CRALman] killed themself.
+30.07.2017 13:01:34: Не обработано: CRALman [CRALman] killed themself.
+30.07.2017 13:01:46: Не обработано: CRALman [CRALman] killed themself.
+30.07.2017 13:01:49: Не обработано: CRALman [CRALman] killed themself.
+30.07.2017 13:01:55: Не обработано: CRALman [CRALman] killed themself.
+30.07.2017 13:02:01: Не обработано: CRALman [CRALman] killed themself.
+30.07.2017 13:02:06: Не обработано: CRALman [CRALman] killed themself.
+30.07.2017 13:02:24: Сохранение сервера
+30.07.2017 13:04:57: Не обработано: Marivelaves [marivelaves] bled to death!
+30.07.2017 13:05:00: Не обработано: Marivelaves moved x:-720.9009 y:59.51276(+20.70542) z:150.1289 in the last second (1.003479)
+30.07.2017 13:32:24: Сохранение сервера
+30.07.2017 13:46:25: Не обработано: 7_AleX_3 moved x:-704.8799 y:71.57442(+37.68848) z:-602.6411 in the last second (0.05000305)
+30.07.2017 13:49:17: Не обработано: PlayerID: 76561198361146653 Name: zolotovlenya Character: zolotovlenya Ping: 101
+30.07.2017 14:02:24: Сохранение сервера
+30.07.2017 14:32:17: Не обработано: h333element [suicide mouse] was mauled by a zombie!
+30.07.2017 14:32:24: Сохранение сервера
+30.07.2017 14:35:28: Не обработано: dario [dario] was mauled by a zombie!
+30.07.2017 14:37:09: Не обработано: elena-shepel [KIRULLER] was blown up by a vehicle!
+30.07.2017 14:39:03: Не обработано: elena-shepel moved x:902.143 y:88.23911(+52.33871) z:86.42352 in the last second (0.6465836)
+30.07.2017 14:48:02: Не обработано: elena-shepel [KIRULLER] was mauled by a zombie!
+30.07.2017 14:50:10: Не обработано: elena-shepel [KIRULLER] was mauled by a zombie!
+30.07.2017 15:00:55: Не обработано: [VIP] SWAT был исцелён
+30.07.2017 15:00:55: Не обработано: INK BENDY был исцелён
+30.07.2017 15:02:24: Сохранение сервера
+30.07.2017 15:32:24: Сохранение сервера
+30.07.2017 15:42:56: Не обработано: d12e311 [d12e311] was mauled by a zombie!
+30.07.2017 15:45:38: Не обработано: trojan4u [trojanelul :3] bled to death!
+30.07.2017 15:49:28: Не обработано: FLeaPS [Гангста Мопс] was mauled by a zombie!
+30.07.2017 15:53:48: Не обработано: Mommy [WezelGab@wager.gg] was mauled by a zombie!
+30.07.2017 15:55:41: Не обработано: trojan4u [trojanelul :3] was mauled by a zombie!
+30.07.2017 15:55:44: Не обработано: trojan4u moved x:-744.4502 y:58.56762(+19.89527) z:127.2084 in the last second (0.9748459)
+30.07.2017 15:58:13: Не обработано: trojan4u [trojanelul :3] was mauled by a zombie!
+30.07.2017 15:59:42: Не обработано: FLeaPS [Гангста Мопс] was mauled by a zombie!
+30.07.2017 16:02:24: Сохранение сервера
+30.07.2017 16:05:10: Не обработано: kirich [kirich] was mauled by a zombie!
+30.07.2017 16:05:12: Не обработано: Макек [Макек] was mauled by a zombie!
+30.07.2017 16:06:46: Не обработано: Макек [Макек] was mauled by a zombie!
+30.07.2017 16:07:28: Не обработано: kirich [kirich] bled to death!
+30.07.2017 16:08:11: Не обработано: Макек [Макек] was mauled by a zombie!
+30.07.2017 16:08:50: Не обработано: kirich [kirich] was mauled by a zombie!
+30.07.2017 16:12:55: Не обработано: Serpova Anna [[RedBox] Пуля] was mauled by a zombie!
+30.07.2017 16:27:41: Не обработано: liampuo [liampuo] was mauled by a zombie!
+30.07.2017 16:32:24: Сохранение сервера
+30.07.2017 16:35:03: Не обработано: crombettheo [crombettheo] was mauled by a zombie!
+30.07.2017 16:36:21: Не обработано: SOS [АРИСТАРХ] was mauled by a zombie!
+30.07.2017 16:36:30: Не обработано: [VIP] SWAT [antheo tenses] was mauled by a zombie!
+30.07.2017 16:37:21: Не обработано: God'sEnvoy [God'sEnvoy°] dehydrated to death!
+30.07.2017 16:43:52: Не обработано: Майк Никольсон moved x:941.8983 y:110.9475(+60.85076) z:-910.6583 in the last second (0.2379227)
+30.07.2017 16:47:56: Не обработано: crombettheo [crombettheo] was mauled by a zombie!
+30.07.2017 16:49:40: Не обработано: crombettheo [crombettheo] was mauled by a zombie!
+30.07.2017 16:49:47: Не обработано: Майк Никольсон [RedBull] was mauled by a zombie!
+30.07.2017 16:49:50: Не обработано: Майк Никольсон moved x:941.8983 y:111.4475(+64.48148) z:-910.6583 in the last second (0.7379227)
+30.07.2017 16:52:15: Не обработано: liampuo [liampuo] was mauled by a zombie!
+30.07.2017 16:52:27: Не обработано: liampuo moved x:-720.9009 y:59.51276(+21.03544) z:150.1289 in the last second (1.003479)
+30.07.2017 16:55:37: Не обработано: liampuo [liampuo] was mauled by a zombie!
+30.07.2017 16:57:48: Не обработано: daniil1016 [daniil1016] bled to death!
+30.07.2017 16:58:04: Не обработано: liampuo [liampuo] was mauled by a zombie!
+30.07.2017 16:58:11: Не обработано: Майк Никольсон [RedBull] was mauled by a zombie!
+30.07.2017 16:59:46: Не обработано: Майк Никольсон [RedBull] was mauled by a zombie!
+30.07.2017 17:00:31: Не обработано: Майк Никольсон moved x:941.8983 y:110.8095(+70.90897) z:-910.6583 in the last second (0.09999847)
+30.07.2017 17:01:41: Не обработано: liampuo [liampuo] was mauled by a zombie!
+30.07.2017 17:01:46: Не обработано: Майк Никольсон [RedBull] killed themself.
+30.07.2017 17:02:24: Сохранение сервера
+30.07.2017 17:03:54: Не обработано: God'sEnvoy [God'sEnvoy°] was mauled by a zombie!
+30.07.2017 17:05:43: Не обработано: God'sEnvoy [God'sEnvoy°] was dissolved by a zombie!
+30.07.2017 17:06:49: Не обработано: Owl moved x:-845.6191 y:54.64526(+16.16795) z:-175.5314 in the last second (1)
+30.07.2017 17:10:43: Не обработано: Майк Никольсон [RedBull] bled to death!
+30.07.2017 17:13:38: Не обработано: Owl moved x:887.753 y:76.94432(+38.467) z:877.1204 in the last second (0.1066742)
+30.07.2017 17:13:54: Не обработано: Майк Никольсон [RedBull] was mauled by a zombie!
+30.07.2017 17:14:40: Не обработано: God'sHakke [?God'sHakke?] was dissolved by a zombie!
+30.07.2017 17:19:11: Не обработано: Майк Никольсон moved x:941.8983 y:110.8095(+68.94824) z:-910.6583 in the last second (0.09999847)
+30.07.2017 17:21:52: Не обработано: God'sEnvoy moved x:622.1631 y:67.55627(+28.7789) z:625.1842 in the last second (1.036667)
+30.07.2017 17:21:59: Не обработано: God'sHakke moved x:622.163 y:68.1215(+29.3441) z:625.1853 in the last second (1.596794)
+30.07.2017 17:23:19: Не обработано: YAGMUR [YAGMUR [ sparks ]] was mauled by a zombie!
+30.07.2017 17:24:43: Не обработано: YAGMUR [YAGMUR [ sparks ]] was mauled by a zombie!
+30.07.2017 17:24:50: Не обработано: Майк Никольсон moved x:941.8983 y:110.8096(+72.33223) z:-910.6583 in the last second (0.1000061)
+30.07.2017 17:25:24: Не обработано: Майк Никольсон [RedBull] killed themself.
+30.07.2017 17:25:34: Не обработано: Майк Никольсон [RedBull] killed themself.
+30.07.2017 17:26:58: Не обработано: YAGMUR [YAGMUR [ sparks ]] was mauled by a zombie!
+30.07.2017 17:29:21: Не обработано: Майк Никольсон [RedBull] was mauled by a zombie!
+30.07.2017 17:29:32: Не обработано: Майк Никольсон [RedBull] killed themself.
+30.07.2017 17:29:46: Не обработано: Майк Никольсон [RedBull] killed themself.
+30.07.2017 17:29:53: Не обработано: Майк Никольсон [RedBull] killed themself.
+30.07.2017 17:30:05: Не обработано: Майк Никольсон [RedBull] killed themself.
+30.07.2017 17:32:24: Сохранение сервера
+30.07.2017 17:33:24: Не обработано: Майк Никольсон moved x:941.8983 y:110.9475(+72.47015) z:-910.6583 in the last second (0.2379227)
+30.07.2017 17:37:14: Не обработано: YAGMUR [YAGMUR [ sparks ]] was mauled by a zombie!
+30.07.2017 17:37:23: Не обработано: ST GABE [St GABE] was mauled by a zombie!
+30.07.2017 17:49:14: Не обработано: ST GABE [St GABE] bled to death!
+30.07.2017 17:51:11: Не обработано: (((Police))) [?SCORPIO¦?  ?] bled to death!
+30.07.2017 17:52:38: Не обработано: (((Police))) [?SCORPIO¦?  ?] was dissolved by a zombie!
+30.07.2017 18:00:58: Не обработано: God'sEnvoy был исцелён
+30.07.2017 18:00:58: Не обработано: God'sHakke был исцелён
+30.07.2017 18:00:58: Не обработано: (((Police))) был исцелён
+30.07.2017 18:02:24: Сохранение сервера
+30.07.2017 18:27:32: Не обработано: PlayerID: 76561198297456229 Name: God'sEnvoy° Character: God'sEnvoy Ping: 113
+30.07.2017 18:32:24: Сохранение сервера
+30.07.2017 18:40:13: Не обработано: S.mickityuck moved x:-813.7833 y:97.1241(+19.98692) z:370.7748 in the last second (3.186844)
+30.07.2017 18:49:02: Не обработано: Андрей Некрасов [andruscha18022007] was mauled by a zombie!
+30.07.2017 18:57:42: Не обработано: S.mickityuck moved x:-585.7874 y:57.34815(+18.87083) z:-193.9996 in the last second (0.2379189)
+30.07.2017 18:59:44: Не обработано: S.mickityuck moved x:-585.7874 y:57.34815(+18.87083) z:-193.9996 in the last second (0.2379189)
+30.07.2017 19:01:55: Не обработано: yildizkanalemreozel [yildizkanalemreozel] was mauled by a zombie!
+30.07.2017 19:02:24: Сохранение сервера
+30.07.2017 19:10:38: Не обработано: yildizkanalemreozel [yildizkanalemreozel] was mauled by a zombie!
+30.07.2017 19:23:17: Не обработано: PlayerID: 76561198310890097 Name: S.mickityuck Character: S.mickityuck Ping: 79
+30.07.2017 19:32:24: Не обработано: PlayerID: 76561198310890097 Name: S.mickityuck Character: S.mickityuck Ping: 60
+30.07.2017 19:32:24: Сохранение сервера
+30.07.2017 19:33:05: Не обработано: S.mickityuck moved x:-288.9882 y:55.8084(+17.64357) z:-266.8221 in the last second (1)
+30.07.2017 19:36:12: Не обработано: S.mickityuck moved x:-585.7874 y:57.34815(+18.67081) z:-193.9996 in the last second (0.2379189)
+30.07.2017 19:42:22: Не обработано: S.mickityuck moved x:-786.1337 y:74.73572(+41.20407) z:190.7143 in the last second (1)
+30.07.2017 19:56:03: Не обработано: pasha_bumchik77890 [pasha_bumchik77890] was mauled by a zombie!
+30.07.2017 19:56:12: Не обработано: pasha_bumchik77890 moved x:-720.9009 y:59.51276(+20.83544) z:150.1289 in the last second (1.003479)
+30.07.2017 19:56:24: Не обработано: Даниил Мельников [Daniil Melnikov] was mauled by a zombie!
+30.07.2017 19:56:58: Не обработано: pasha_bumchik77890 [pasha_bumchik77890] was mauled by a zombie!
+30.07.2017 19:57:22: Не обработано: Даниил Мельников [Daniil Melnikov] is calling a vote to kick S.mickityuck [S.mickityuck]
+30.07.2017 19:57:37: Не обработано: Vote failed!
+30.07.2017 19:58:34: Не обработано: Даниил Мельников [Daniil Melnikov] was mauled by a zombie!
+30.07.2017 19:59:52: Не обработано: pasha_bumchik77890 [pasha_bumchik77890] was mauled by a zombie!
+30.07.2017 20:02:10: Не обработано: PlayerID: 76561198310890097 Name: S.mickityuck Character: S.mickityuck Ping: 58
+30.07.2017 20:02:24: Сохранение сервера
+30.07.2017 20:03:11: Не обработано: S.mickityuck moved x:-607.9433 y:59.62103(+32.13908) z:-127.7441 in the last second (0.1072388)
+30.07.2017 20:13:59: Не обработано: PrivateMessages >> Sorry, you haven't received a message!
+30.07.2017 20:14:02: Не обработано: PrivateMessages >> Sorry, you haven't received a message!
+30.07.2017 20:32:24: Сохранение сервера
+30.07.2017 20:59:11: Не обработано: ToMaszeK_x_PoMpa [ToMaszEk] was dissolved by a zombie!
+30.07.2017 21:01:21: Не обработано: TrustNoZero был исцелён
+30.07.2017 21:02:24: Сохранение сервера
+30.07.2017 21:09:39: Не обработано: MrTheNikitaName [MrTheNikitaName] was mauled by a zombie!
+30.07.2017 21:10:39: Не обработано: Metonfin [MrFargoSemes] was mauled by a zombie!
+30.07.2017 21:19:26: Не обработано: MrTheNikitaName moved x:919.4778 y:98.9043(+57.57699) z:41.31659 in the last second (0.6135254)
+30.07.2017 21:23:15: Не обработано: MrTheNikitaName [MrTheNikitaName] was mauled by a zombie!
+30.07.2017 21:24:05: Не обработано: MrTheNikitaName moved x:898.1104 y:88.66158(+58.13262) z:429.5088 in the last second (0.5999985)
+30.07.2017 21:32:24: Сохранение сервера
+30.07.2017 21:41:29: Не обработано: ALEX ANANAS [alexsuf] is calling a vote to kick S.mickityuck [S.mickityuck]
+30.07.2017 21:41:33: Не обработано: Vote failed!
+30.07.2017 21:42:09: Не обработано: S.mickityuck moved x:-880.3631 y:73.81306(+35.07241) z:-567.6216 in the last second (0.0896759)
+30.07.2017 21:46:04: Не обработано: ALEX ANANAS [alexsuf] was mauled by a zombie!
+30.07.2017 21:48:20: Не обработано: ALEX ANANAS [alexsuf] bled to death!
+30.07.2017 21:58:15: Не обработано: ALEX ANANAS [alexsuf] was mauled by a zombie!
+30.07.2017 21:58:19: Не обработано: Влад БыК[ЗАМ] [БыК] was mauled by a zombie!
+30.07.2017 22:02:20: Не обработано: ALEX ANANAS [alexsuf] was blown up by a vehicle!
+30.07.2017 22:02:20: Не обработано: S.mickityuck [S.mickityuck] was blown up by a vehicle!
+30.07.2017 22:02:21: Не обработано: ALEX ANANAS moved x:-197.5641 y:73.88225(+35.56445) z:957.353 in the last second (6.043747)
+30.07.2017 22:02:21: Не обработано: S.mickityuck moved x:-197.5641 y:73.88225(+35.52288) z:957.353 in the last second (6.043747)
+30.07.2017 22:02:24: Сохранение сервера
+30.07.2017 22:02:33: Не обработано: S.mickityuck moved x:-585.7874 y:57.34815(+31.29353) z:-193.9996 in the last second (0.2379189)
+30.07.2017 22:05:59: Не обработано: S.mickityuck moved x:-729.2639 y:58.21588(+25.06252) z:950.7069 in the last second (0.1105309)
+30.07.2017 22:12:44: Не обработано: Joy [Joy] was mauled by a zombie!
+30.07.2017 22:14:12: Не обработано: Joy [Joy] bled to death!
+30.07.2017 22:16:48: Не обработано: Joy [Joy] was mauled by a zombie!
+30.07.2017 22:32:24: Сохранение сервера
+30.07.2017 22:35:50: Не обработано: Jeff [Jeff] was mauled by a zombie!
+30.07.2017 22:35:53: Не обработано: rianmedrado19 [rianmedrado19] was mauled by a zombie!
+30.07.2017 22:37:24: Не обработано: Jeff [Jeff] bled to death!
+30.07.2017 22:38:24: Не обработано: rianmedrado19 [rianmedrado19] bled to death!
+30.07.2017 22:46:04: Не обработано: DestroyerNorth [DestroyerNorth] was dissolved by a zombie!
+30.07.2017 22:50:01: Не обработано: PrivateMessages >> Sorry, you haven't received a message!
+30.07.2017 22:50:07: Не обработано: PrivateMessages >> Sorry, you haven't received a message!
+30.07.2017 22:56:22: Не обработано: A.J [tmgolf12] was mauled by a zombie!
+30.07.2017 23:02:24: Сохранение сервера
+30.07.2017 23:02:41: Не обработано: frendok [kostya-pavlenkov] was mauled by a zombie!
+30.07.2017 23:21:16: Не обработано: Bambot2 moved x:-838.8115 y:95.68103(+57.05839) z:378.8853 in the last second (1)
+30.07.2017 23:22:44: Не обработано: 1366:TruncatedWrongValueForField
+30.07.2017 23:22:44: Не обработано:   at MySql.Data.MySqlClient.MySqlStream.ReadPacket () [0x00000] in <filename unknown>:0 
+30.07.2017 23:22:44: Не обработано:   at MySql.Data.MySqlClient.NativeDriver.GetResult (System.Int32& affectedRow, System.Int64& insertedId) [0x00000] in <filename unknown>:0 
+30.07.2017 23:27:36: Не обработано: PlayerID: 76561198242746738 Name: Артём Character: Bambot2 Ping: 104
+30.07.2017 23:32:24: Сохранение сервера
+30.07.2017 23:41:12: Не обработано: frendok [kostya-pavlenkov] was dissolved by a zombie!
+30.07.2017 23:44:56: Не обработано: mikk [mikk] was mauled by a zombie!
+30.07.2017 23:47:30: Не обработано: limebume [limebume] killed themself.
+30.07.2017 23:47:33: Не обработано: limebume moved x:-720.9009 y:59.51276(+24.12259) z:150.1289 in the last second (1.003479)
+30.07.2017 23:48:34: Не обработано: Bambot2 [Артём] dehydrated to death!
+31.07.2017 0:02:24: Сохранение сервера
+31.07.2017 0:02:44: Не обработано: 1366:TruncatedWrongValueForField
+31.07.2017 0:03:00: Не обработано:   at MySql.Data.MySqlClient.MySqlStream.ReadPacket () [0x00000] in <filename unknown>:0 
+31.07.2017 0:03:00: Не обработано:   at MySql.Data.MySqlClient.NativeDriver.GetResult (System.Int32& affectedRow, System.Int64& insertedId) [0x00000] in <filename unknown>:0 
+31.07.2017 0:03:28: Не обработано: frendok [kostya-pavlenkov] bled to death!
+31.07.2017 0:04:50: Не обработано: 1366:TruncatedWrongValueForField
+31.07.2017 0:04:50: Не обработано:   at MySql.Data.MySqlClient.MySqlStream.ReadPacket () [0x00000] in <filename unknown>:0 
+31.07.2017 0:04:50: Не обработано:   at MySql.Data.MySqlClient.NativeDriver.GetResult (System.Int32& affectedRow, System.Int64& insertedId) [0x00000] in <filename unknown>:0 
+31.07.2017 0:22:03: Не обработано: noob [just a guy] was mauled by a zombie!
+31.07.2017 0:24:34: Не обработано: ADV-31 [ADV-31] bled to death!
+31.07.2017 0:27:34: Не обработано: ADV-31 [ADV-31] was mauled by a zombie!
+31.07.2017 0:28:15: Не обработано: SPM [Gehane????®™] was mauled by a zombie!
+31.07.2017 0:32:24: Сохранение сервера
+31.07.2017 1:02:24: Сохранение сервера
+31.07.2017 1:32:24: Сохранение сервера
+31.07.2017 2:02:24: Сохранение сервера
+31.07.2017 2:32:24: Сохранение сервера
+31.07.2017 3:02:24: Сохранение сервера
+31.07.2017 3:32:24: Сохранение сервера
+31.07.2017 4:02:24: Сохранение сервера
+31.07.2017 4:32:24: Сохранение сервера
+31.07.2017 5:02:24: Сохранение сервера
+31.07.2017 5:32:24: Сохранение сервера
+31.07.2017 6:02:24: Сохранение сервера
+31.07.2017 6:32:24: Сохранение сервера
+31.07.2017 6:56:46: Не обработано: Полный_NOOB!!! [RussiaParasha] was mauled by a zombie!
+31.07.2017 7:02:24: Сохранение сервера
+31.07.2017 7:11:18: Не обработано: PlayerID: 76561198351733830 Name: ЗАМШЕЛЫЙПИНГВИНЕНОК Character: ЗАМШЕЛЫЙПИНГВИНЕНОК Ping: 72
+31.07.2017 7:32:20: Не обработано: PlayerID: 76561198351733830 Name: ЗАМШЕЛЫЙПИНГВИНЕНОК Character: ЗАМШЕЛЫЙПИНГВИНЕНОК Ping: 82
+31.07.2017 7:32:24: Сохранение сервера
+31.07.2017 8:02:24: Сохранение сервера
+31.07.2017 8:32:24: Сохранение сервера
+31.07.2017 8:40:03: Не обработано: Psychoshark [Psychoshark] was mauled by a zombie!
+31.07.2017 9:02:24: Сохранение сервера
+31.07.2017 9:32:24: Сохранение сервера
+31.07.2017 9:44:25: Не обработано: Smile deputat [KBU<God><Smile>] bled to death!
+31.07.2017 10:02:24: Сохранение сервера
+31.07.2017 10:32:24: Сохранение сервера
+31.07.2017 11:02:24: Сохранение сервера
+31.07.2017 11:14:25: Не обработано: God'sEnvoy [God'sEnvoy°] dehydrated to death!
+31.07.2017 11:22:54: Не обработано: God'sEnvoy [God'sEnvoy°] bled to death!
+31.07.2017 11:32:24: Сохранение сервера
+31.07.2017 11:33:51: Не обработано: superfejer [superfejer] was mauled by a zombie!
+31.07.2017 11:36:35: Не обработано: superfejer [superfejer] bled to death!
+31.07.2017 11:39:17: Не обработано: kirill.kvac [Кирюша Стадник] was mauled by a zombie!
+31.07.2017 11:39:18: Не обработано: kirill.kvac moved x:-744.4502 y:58.56762(+20.0903) z:127.2084 in the last second (0.9748459)
+31.07.2017 11:48:30: Не обработано: ToMaszeK_x_PoMpa [ToMaszEk] was dissolved by a zombie!
+31.07.2017 11:51:27: Не обработано: ToMaszeK_x_PoMpa [ToMaszEk] was mauled by a zombie!
+31.07.2017 11:53:44: Не обработано: ToMaszeK_x_PoMpa [ToMaszEk] was mauled by a zombie!
+31.07.2017 11:55:04: Не обработано: ToMaszeK_x_PoMpa [ToMaszEk] was mauled by a zombie!
+31.07.2017 11:57:40: Не обработано: Marshmallow [Marshmallow] was mauled by a zombie!
+31.07.2017 11:58:08: Не обработано: God'sEnvoy [God'sEnvoy°] was blown up by a vehicle!
+31.07.2017 12:00:50: Не обработано: God'sEnvoy был исцелён
+31.07.2017 12:00:50: Не обработано: kirill.kvac был исцелён
+31.07.2017 12:02:24: Сохранение сервера
+31.07.2017 12:07:14: Не обработано: God'sEnvoy moved x:825.5958 y:74.9438(+31.59891) z:-568.2623 in the last second (0.1155548)
+31.07.2017 12:12:31: Не обработано: kirill.kvac moved x:-266.5265 y:55.80842(+17.13109) z:-450.3389 in the last second (1)
+31.07.2017 12:32:24: Сохранение сервера
+31.07.2017 12:38:29: Не обработано: God'sEnvoy [God'sEnvoy°] dehydrated to death!
+31.07.2017 12:57:44: Не обработано: PlayerID: 76561198297456229 Name: God'sEnvoy° Character: God'sEnvoy Ping: 115
+31.07.2017 12:59:55: Не обработано: God'sEnvoy moved x:927.2052 y:69.49844(+24.3393) z:574.5759 in the last second (10.87064)
+31.07.2017 13:01:32: Не обработано: God'sEnvoy [God'sEnvoy°] was blown up by a vehicle!
+31.07.2017 13:02:24: Сохранение сервера
+31.07.2017 13:23:08: Не обработано: God'sEnvoy moved x:887.9512 y:77.82663(+45.11022) z:-424.7065 in the last second (0.1499939)
+31.07.2017 13:26:20: Не обработано: Hyper Beast moved x:780.1156 y:63.86958(+21.97956) z:-823.8271 in the last second (0.6674347)
+31.07.2017 13:30:58: Не обработано: Nekromant [Красный носяра] was mauled by a zombie!
+31.07.2017 13:32:12: Не обработано: Nekromant [Красный носяра] was mauled by a zombie!
+31.07.2017 13:32:23: Не обработано: God'sEnvoy moved x:602.9854 y:64.45743(+21.83131) z:590.4174 in the last second (0.1018372)
+31.07.2017 13:32:24: Сохранение сервера
+31.07.2017 13:32:44: Не обработано: Hyper Beast moved x:603.3423 y:64.94886(+22.14595) z:590.4493 in the last second (0.6018143)
+31.07.2017 13:40:01: Не обработано: Данил Данилов [skayp] was dissolved by a zombie!
+31.07.2017 13:40:28: Не обработано: gamesnovlolka [gameover/lolka] was mauled by a zombie!
+31.07.2017 13:41:05: Не обработано: Casto [Casto] was mauled by a zombie!
+31.07.2017 13:41:14: Не обработано: Данил Данилов [skayp] bled to death!
+31.07.2017 13:42:21: Не обработано: [AdSH]nik-erema [nik-erema] was crushed by a zombie!
+31.07.2017 13:42:26: Не обработано: Casto [Casto] was mauled by a zombie!
+31.07.2017 13:43:50: Не обработано: Nekromant [Красный носяра] was mauled by a zombie!
+31.07.2017 13:44:12: Не обработано: Nekromant moved x:869.0356 y:43.88595(+17.05731) z:655.1328 in the last second (0.5999985)
+31.07.2017 13:44:20: Не обработано: Nekromant [Красный носяра] was mauled by a zombie!
+31.07.2017 13:45:16: Не обработано: Casto [Casto] was mauled by a zombie!
+31.07.2017 13:56:05: Не обработано: S.mickityuck moved x:-585.7874 y:57.34815(+19.24357) z:-193.9996 in the last second (0.2379189)
+31.07.2017 14:00:09: Не обработано: Hyper Beast [Hyper Beast] was mauled by a zombie!
+31.07.2017 14:00:53: Не обработано: Колумбо Сэр [Чубака] was mauled by a zombie!
+31.07.2017 14:02:24: Сохранение сервера
+31.07.2017 14:09:31: Не обработано: Hyper Beast moved x:786.1243 y:59.42873(+20.25126) z:5.635165 in the last second (0.2353668)
+31.07.2017 14:15:25: Не обработано: the boom :) moved x:-275.3265 y:55.14534(+25.9975) z:-398.5628 in the last second (0.3369217)
+31.07.2017 14:16:20: Не обработано: ZOMY moved x:-273.6412 y:55.52334(+26.95975) z:-367.1701 in the last second (1)
+31.07.2017 14:18:01: Не обработано: the boom :) [the boom :)] was blown up by a vehicle!
+31.07.2017 14:18:29: Не обработано: [одиночка]Морт [hovermort] was mauled by a zombie!
+31.07.2017 14:21:00: Не обработано: [одиночка]Морт [hovermort] was blown up by a vehicle!
+31.07.2017 14:21:00: Не обработано: the boom :) [the boom :)] was blown up by a vehicle!
+31.07.2017 14:22:52: Не обработано: [одиночка]Морт moved x:-285.0537 y:72.73798(+34.0606) z:-214.0931 in the last second (23.11118)
+31.07.2017 14:25:00: Не обработано: [одиночка]Морт moved x:-368.9565 y:478.3994(+423.491) z:-849.7977 in the last second (437.7773)
+31.07.2017 14:25:04: Не обработано: the boom :) [the boom :)] was blown up by a vehicle!
+31.07.2017 14:25:23: Не обработано: [одиночка]Морт [hovermort] fractured to death!
+31.07.2017 14:26:17: Не обработано: the boom :) [the boom :)] was mauled by a zombie!
+31.07.2017 14:26:21: Не обработано: the boom :) moved x:-744.4502 y:58.56762(+19.86089) z:127.2084 in the last second (0.9748459)
+31.07.2017 14:27:00: Не обработано: God'sEnvoy moved x:609.4283 y:71.68043(+25.55913) z:731.4479 in the last second (0.4349442)
+31.07.2017 14:27:12: Не обработано: Hyper Beast moved x:614.8397 y:69.86946(+25.73428) z:732.2939 in the last second (0.1116486)
+31.07.2017 14:32:24: Сохранение сервера
+31.07.2017 14:36:15: Не обработано: Hyper Beast moved x:890.8032 y:83.32837(+45.39528) z:395.4061 in the last second (1)
+31.07.2017 14:36:22: Не обработано: God'sEnvoy moved x:914.08 y:87.77904(+49.7335) z:406.8206 in the last second (0.1120453)
+31.07.2017 14:44:51: Не обработано: God'sEnvoy moved x:-265.6274 y:55.24336(+17.07854) z:-454.2095 in the last second (0.4349442)
+31.07.2017 14:44:51: Не обработано: Hyper Beast moved x:-271.8157 y:54.90842(+16.75988) z:-452.4232 in the last second (0.09999847)
+31.07.2017 14:49:38: Не обработано: God'sEnvoy [God'sEnvoy°] fractured to death!
+31.07.2017 14:58:47: Не обработано: Hyper Beast [Hyper Beast] was mauled by a zombie!
+31.07.2017 14:59:02: Не обработано: stas.kyryliak [stas.kyryliak] was mauled by a zombie!
+31.07.2017 15:00:58: Не обработано: Hyper Beast [Hyper Beast] was mauled by a zombie!
+31.07.2017 15:01:24: Не обработано: God'sEnvoy был исцелён
+31.07.2017 15:01:24: Не обработано: Hyper Beast был исцелён
+31.07.2017 15:01:24: Не обработано: God'sHakke был исцелён
+31.07.2017 15:02:24: Сохранение сервера
+31.07.2017 15:02:28: Не обработано: Hyper Beast moved x:-739.6781 y:41.59661(+15.30323) z:-316.88 in the last second (0.5999985)
+31.07.2017 15:03:20: Не обработано: God'sHakke moved x:-831.559 y:86.6725(+46.74696) z:-423.1526 in the last second (0.6095123)
+31.07.2017 15:03:34: Не обработано: kirito LVL.14 [kirito LVL.14] killed themself.
+31.07.2017 15:05:42: Не обработано: Valera_Granata [ewfyfwfyg3w] is calling a vote to kick vladimirkulic2016 [vladimirkulic2016]
+31.07.2017 15:05:57: Не обработано: Vote failed!
+31.07.2017 15:07:18: Не обработано: God'sEnvoy moved x:-835.7697 y:86.99918(+42.93795) z:-429.2676 in the last second (0.6035461)
+31.07.2017 15:15:40: Не обработано: Xander_1290 [Xander_1290] was mauled by a zombie!
+31.07.2017 15:18:48: Не обработано: vladimirkulic2016 [vladimirkulic2016] bled to death!
+31.07.2017 15:23:47: Не обработано: Xander_1290 [Xander_1290] was mauled by a zombie!
+31.07.2017 15:24:47: Не обработано: Xander_1290 [Xander_1290] was mauled by a zombie!
+31.07.2017 15:26:23: Не обработано: Xander_1290 [Xander_1290] was mauled by a zombie!
+31.07.2017 15:27:23: Не обработано: Xander_1290 [Xander_1290] was mauled by a zombie!
+31.07.2017 15:32:24: Сохранение сервера
+31.07.2017 15:33:07: Не обработано: God'sHakke moved x:871.1335 y:72.14495(+31.5891) z:395.9931 in the last second (0.4272461)
+31.07.2017 15:38:02: Не обработано: God'sEnvoy [God'sEnvoy°] dehydrated to death!
+31.07.2017 15:38:29: Не обработано: Hyper Beast moved x:887.4539 y:66.62946(+34.11922) z:-410.4501 in the last second (0.2514114)
+31.07.2017 15:39:58: Не обработано: God'sEnvoy moved x:870.5886 y:76.11901(+33.3161) z:-416.2506 in the last second (0.763298)
+31.07.2017 15:42:48: Не обработано: akula_58. [akula_58.] was mauled by a zombie!
+31.07.2017 15:44:00: Не обработано: tibon [tibon] was mauled by a zombie!
+31.07.2017 15:44:04: Не обработано: tibon moved x:-720.9009 y:59.51276(+20.73366) z:150.1289 in the last second (1.003479)
+31.07.2017 15:45:38: Не обработано: God'sHakke [?God'sHakke?] was mauled by a zombie!
+31.07.2017 15:45:48: Не обработано: Valera_Granata [ewfyfwfyg3w] was dissolved by a zombie!
+31.07.2017 15:45:52: Не обработано: Hyper Beast [Hyper Beast] was mauled by a zombie!
+31.07.2017 15:47:47: Не обработано: God'sEnvoy [God'sEnvoy°] was mauled by a zombie!
+31.07.2017 15:47:49: Не обработано: Valera_Granata [ewfyfwfyg3w] bled to death!
+31.07.2017 15:48:23: Не обработано: God'sEnvoy moved x:-650.5324 y:53.89075(+15.21341) z:-247.394 in the last second (0.5916519)
+31.07.2017 15:49:40: Не обработано: God'sHakke [?God'sHakke?] bled to death!
+31.07.2017 15:49:42: Не обработано: God'sHakke moved x:-720.9009 y:59.51276(+21.03544) z:150.1289 in the last second (1.003479)
+31.07.2017 15:49:57: Не обработано: God'sEnvoy [God'sEnvoy°] was mauled by a zombie!
+31.07.2017 15:50:37: Не обработано: FARAON-G [FARAON-G] was mauled by a zombie!
+31.07.2017 15:52:01: Не обработано: God'sEnvoy [God'sEnvoy°] was mauled by a zombie!
+31.07.2017 15:54:02: Не обработано: God'sEnvoy [God'sEnvoy°] bled to death!
+31.07.2017 15:57:12: Не обработано: stomamaksim8 [stomamaksim8] was dissolved by a zombie!
+31.07.2017 15:57:18: Не обработано: God'sHakke [?God'sHakke?] was mauled by a zombie!
+31.07.2017 15:57:26: Не обработано: Hyper Beast [Hyper Beast] was mauled by a zombie!
+31.07.2017 15:59:43: Не обработано: God'sHakke [?God'sHakke?] was mauled by a zombie!
+31.07.2017 16:00:12: Не обработано: God'sEnvoy [God'sEnvoy°] was mauled by a zombie!
+31.07.2017 16:00:16: Не обработано: Valera_Granata [ewfyfwfyg3w] was mauled by a zombie!
+31.07.2017 16:01:17: Не обработано: God'sEnvoy [God'sEnvoy°] bled to death!
+31.07.2017 16:01:19: Не обработано: God'sEnvoy moved x:-744.4502 y:58.56762(+20.0903) z:127.2084 in the last second (0.9748459)
+31.07.2017 16:02:24: Сохранение сервера
+31.07.2017 16:09:23: Не обработано: kirito LVL.14 [kirito LVL.14] is calling a vote to kick Valera_Granata [ewfyfwfyg3w]
+31.07.2017 16:09:38: Не обработано: Vote failed!
+31.07.2017 16:10:20: Не обработано: vladimirkulic2016 [vladimirkulic2016] bled to death!
+31.07.2017 16:14:33: Не обработано: vladimirkulic2016 [vladimirkulic2016] is calling a vote to kick Valera_Granata [ewfyfwfyg3w]
+31.07.2017 16:14:48: Не обработано: Vote failed!
+31.07.2017 16:23:53: Не обработано: Valera_Granata [ewfyfwfyg3w] is calling a vote to kick vladimirkulic2016 [vladimirkulic2016]
+31.07.2017 16:24:08: Не обработано: Vote failed!
+31.07.2017 16:31:06: Не обработано: Valera_Granata [ewfyfwfyg3w] is calling a vote to kick zolotovlenya [zolotovlenya]
+31.07.2017 16:31:21: Не обработано: Vote failed!
+31.07.2017 16:32:25: Сохранение сервера
+31.07.2017 16:35:57: Не обработано: vladimirkulic2016 [vladimirkulic2016] was mauled by a zombie!
+31.07.2017 16:36:48: Не обработано: kirito LVL.14 [kirito LVL.14] bled to death!
+31.07.2017 16:39:04: Не обработано: kirito LVL.14 [kirito LVL.14] was mauled by a zombie!
+31.07.2017 16:41:38: Не обработано: kirito LVL.14 [kirito LVL.14] was mauled by a zombie!
+31.07.2017 16:42:24: Не обработано: kirito LVL.14 [kirito LVL.14] killed themself.
+31.07.2017 16:42:49: Не обработано: kirito LVL.14 [kirito LVL.14] killed themself.
+31.07.2017 16:45:56: Не обработано: memespage [AESTHETIC] was mauled by a zombie!
+31.07.2017 16:49:25: Не обработано: GORSHOK UMER [G0RsH0K uMeR] was mauled by a zombie!
+31.07.2017 16:49:37: Не обработано: memespage [AESTHETIC] bled to death!
+31.07.2017 16:58:11: Не обработано: [Вор]артур_кузьмин [ArTuR] was mauled by a zombie!
+31.07.2017 16:59:49: Не обработано: Чоткий Пацан [Jaros] bled to death!
+31.07.2017 17:00:30: Не обработано: liampuo [liampuo] was mauled by a zombie!
+31.07.2017 17:00:59: Не обработано: [Вор]артур_кузьмин [ArTuR] was mauled by a zombie!
+31.07.2017 17:01:01: Не обработано: [Вор]артур_кузьмин moved x:-744.4502 y:58.56762(+16.89805) z:127.2084 in the last second (0.9748459)
+31.07.2017 17:01:05: Не обработано: S.mickityuck moved x:-585.7874 y:57.34815(+18.87083) z:-193.9996 in the last second (0.2379189)
+31.07.2017 17:02:00: Не обработано: liampuo [liampuo] was mauled by a zombie!
+31.07.2017 17:02:11: Не обработано: Андрей [Danil160901] was mauled by a zombie!
+31.07.2017 17:02:24: Сохранение сервера
+31.07.2017 17:02:26: Не обработано: Dragon Play [FLEshkoff3] was mauled by a zombie!
+31.07.2017 17:03:13: Не обработано: Чоткий Пацан [Jaros] was mauled by a zombie!
+31.07.2017 17:05:55: Не обработано: {RUS} ТуТ-и-ТаМ :D [Pentiumbitshfuck] was mauled by a zombie!
+31.07.2017 17:07:26: Не обработано: {RUS} ТуТ-и-ТаМ :D [Pentiumbitshfuck] bled to death!
+31.07.2017 17:08:03: Не обработано: {RUS} ТуТ-и-ТаМ :D moved x:-858.433 y:77.44437(+20.42965) z:297.7398 in the last second (0.6000137)
+31.07.2017 17:10:50: Не обработано: S.mickityuck moved x:-585.7874 y:57.21024(+18.73292) z:-193.9996 in the last second (0.1000023)
+31.07.2017 17:13:11: Не обработано: Чоткий Пацан [Jaros] bled to death!
+31.07.2017 17:13:39: Не обработано: liampuo [liampuo] bled to death!
+31.07.2017 17:14:49: Не обработано: The player Чоткий Пацан has no permission to execute the command kit
+31.07.2017 17:14:56: Не обработано: Чоткий Пацан [Jaros] killed themself.
+31.07.2017 17:15:00: Не обработано: S.mickityuck moved x:-585.7874 y:57.34815(+16.25149) z:-193.9996 in the last second (0.2379189)
+31.07.2017 17:17:11: Не обработано: Чоткий Пацан [Jaros] bled to death!
+31.07.2017 17:17:13: Не обработано: Чоткий Пацан moved x:-744.4502 y:58.56762(+20.0903) z:127.2084 in the last second (0.9748459)
+31.07.2017 17:17:19: Не обработано: Чоткий Пацан [Jaros] killed themself.
+31.07.2017 17:17:23: Не обработано: Чоткий Пацан [Jaros] killed themself.
+31.07.2017 17:18:35: Не обработано: Чоткий Пацан [Jaros] was mauled by a zombie!
+31.07.2017 17:18:38: Не обработано: [Вор]артур_кузьмин [ArTuR] bled to death!
+31.07.2017 17:18:57: Не обработано: [Вор]артур_кузьмин moved x:-772.214 y:75.63824(+47.7405) z:259.7521 in the last second (0.6035767)
+31.07.2017 17:19:39: Не обработано: Упоратая Собака [Упоратая Собака] was mauled by a zombie!
+31.07.2017 17:21:29: Не обработано: Упоратая Собака [Упоратая Собака] was mauled by a zombie!
+31.07.2017 17:21:53: Не обработано: Dragon Play [FLEshkoff3] was mauled by a zombie!
+31.07.2017 17:22:00: Не обработано: [Вор]артур_кузьмин [ArTuR] was mauled by a zombie!
+31.07.2017 17:22:17: Не обработано: [Вор]артур_кузьмин moved x:-726.7222 y:85.56181(+47.07714) z:287.8341 in the last second (0.6051407)
+31.07.2017 17:22:19: Не обработано: Чоткий Пацан [Jaros] was mauled by a zombie!
+31.07.2017 17:22:57: Не обработано: Чоткий Пацан [Jaros] killed themself.
+31.07.2017 17:23:03: Не обработано: Чоткий Пацан [Jaros] killed themself.
+31.07.2017 17:23:08: Не обработано: Чоткий Пацан [Jaros] killed themself.
+31.07.2017 17:23:11: Не обработано: Упоратая Собака [Упоратая Собака] was mauled by a zombie!
+31.07.2017 17:23:13: Не обработано: Dragon Play [FLEshkoff3] killed themself.
+31.07.2017 17:23:18: Не обработано: Dragon Play [FLEshkoff3] killed themself.
+31.07.2017 17:23:22: Не обработано: Dragon Play [FLEshkoff3] killed themself.
+31.07.2017 17:23:31: Не обработано: Упоратая Собака [Упоратая Собака] killed themself.
+31.07.2017 17:23:32: Не обработано: Чоткий Пацан [Jaros] killed themself.
+31.07.2017 17:23:38: Не обработано: Чоткий Пацан [Jaros] killed themself.
+31.07.2017 17:23:42: Не обработано: Чоткий Пацан [Jaros] killed themself.
+31.07.2017 17:23:57: Не обработано: Чоткий Пацан [Jaros] killed themself.
+31.07.2017 17:24:07: Не обработано: Чоткий Пацан [Jaros] killed themself.
+31.07.2017 17:25:23: Не обработано: Упоратая Собака [Упоратая Собака] was mauled by a zombie!
+31.07.2017 17:25:29: Не обработано: Упоратая Собака [Упоратая Собака] killed themself.
+31.07.2017 17:25:37: Не обработано: Упоратая Собака [Упоратая Собака] killed themself.
+31.07.2017 17:25:41: Не обработано: Упоратая Собака [Упоратая Собака] killed themself.
+31.07.2017 17:26:21: Не обработано: Упоратая Собака moved x:-747.3548 y:86.98783(+48.1624) z:319.0704 in the last second (0.3633194)
+31.07.2017 17:28:41: Не обработано: Чоткий Пацан [Jaros] killed themself.
+31.07.2017 17:28:43: Не обработано: Упоратая Собака [Упоратая Собака] killed themself.
+31.07.2017 17:28:46: Не обработано: Чоткий Пацан [Jaros] killed themself.
+31.07.2017 17:28:51: Не обработано: Чоткий Пацан [Jaros] killed themself.
+31.07.2017 17:28:55: Не обработано: Упоратая Собака moved x:-766.7153 y:75.05287(+46.90795) z:234.3118 in the last second (0.1038971)
+31.07.2017 17:29:05: Не обработано: Чоткий Пацан [Jaros] killed themself.
+31.07.2017 17:30:18: Не обработано: Dragon Play [FLEshkoff3] was mauled by a zombie!
+31.07.2017 17:30:20: Не обработано: Dragon Play moved x:-744.4502 y:58.56762(+20.0903) z:127.2084 in the last second (0.9748459)
+31.07.2017 17:31:04: Не обработано: Чоткий Пацан [Jaros] killed themself.
+31.07.2017 17:31:10: Не обработано: Упоратая Собака [Упоратая Собака] bled to death!
+31.07.2017 17:31:47: Не обработано: S.mickityuck moved x:-585.7874 y:57.34815(+18.87083) z:-193.9996 in the last second (0.2379189)
+31.07.2017 17:32:23: Не обработано: Андрей moved x:-858.6973 y:77.41714(+36.2354) z:285.1611 in the last second (0.5999985)
+31.07.2017 17:32:24: Сохранение сервера
+31.07.2017 17:32:39: Не обработано: (SSK)Double [Mr_Cмepть SKINACTION.RU] was mauled by a zombie!
+31.07.2017 17:32:45: Не обработано: [Вор]артур_кузьмин [ArTuR] was mauled by a zombie!
+31.07.2017 17:34:31: Не обработано: {RUS} ТуТ-и-ТаМ :D [Pentiumbitshfuck] was mauled by a zombie!
+31.07.2017 17:34:43: Не обработано: {RUS} ТуТ-и-ТаМ :D moved x:-860.8047 y:84.20033(+45.72301) z:329.9173 in the last second (0.6153641)
+31.07.2017 17:35:01: Не обработано: {RUS} ТуТ-и-ТаМ :D [Pentiumbitshfuck] was mauled by a zombie!
+31.07.2017 17:37:11: Не обработано: [Вор]артур_кузьмин moved x:-855.4233 y:83.17165(+44.69433) z:328.4603 in the last second (0.6236725)
+31.07.2017 17:41:08: Не обработано: liampuo [liampuo] was mauled by a zombie!
+31.07.2017 17:46:53: Не обработано: Bandit_Brodyaga [NightEnot] was mauled by a zombie!
+31.07.2017 17:57:18: Не обработано: S.mickityuck moved x:-585.7874 y:57.34815(+17.46198) z:-193.9996 in the last second (0.2379189)
+31.07.2017 18:01:05: Не обработано: S.mickityuck moved x:-585.7874 y:57.34815(+15.88696) z:-193.9996 in the last second (0.2379189)
+31.07.2017 18:02:00: Не обработано: zolotovlenya был исцелён
+31.07.2017 18:02:00: Не обработано: liampuo был исцелён
+31.07.2017 18:02:00: Не обработано: S.mickityuck был исцелён
+31.07.2017 18:02:00: Не обработано: Bandit_Brodyaga был исцелён
+31.07.2017 18:02:24: Сохранение сервера
+31.07.2017 18:07:38: Не обработано: Bandit_Brodyaga [NightEnot] was mauled by a zombie!
+31.07.2017 18:18:57: Не обработано: NAGIBATOR [TOP4IK] was mauled by a zombie!
+31.07.2017 18:19:18: Не обработано: Joni_FOX [JONI_?O?] was mauled by a zombie!
+31.07.2017 18:20:22: Не обработано: Joni_FOX [JONI_?O?] was mauled by a zombie!
+31.07.2017 18:20:25: Не обработано: Joni_FOX moved x:-744.4502 y:58.56762(+24.68167) z:127.2084 in the last second (0.9748459)
+31.07.2017 18:20:31: Не обработано: Юрий Никита Андреевич [???] bled to death!
+31.07.2017 18:21:41: Не обработано: NAGIBATOR [TOP4IK] was mauled by a zombie!
+31.07.2017 18:21:52: Не обработано: Joni_FOX [JONI_?O?] was mauled by a zombie!
+31.07.2017 18:23:32: Не обработано: NAGIBATOR moved x:-838.584 y:77.41714(+38.93982) z:262.4669 in the last second (0.5999985)
+31.07.2017 18:24:04: Не обработано: Joni_FOX [JONI_?O?] was mauled by a zombie!
+31.07.2017 18:24:33: Не обработано: NAGIBATOR [TOP4IK] bled to death!
+31.07.2017 18:24:46: Не обработано: Joni_FOX moved x:-843.2961 y:83.06227(+52.03658) z:334.8242 in the last second (0.6266022)
+31.07.2017 18:27:16: Не обработано: Bandit_Brodyaga [NightEnot] bled to death!
+31.07.2017 18:31:58: Не обработано: Bandit_Brodyaga [NightEnot] was mauled by a zombie!
+31.07.2017 18:32:24: Сохранение сервера
+31.07.2017 18:33:47: Не обработано: Pax Pixel [PaX] was mauled by a zombie!
+31.07.2017 18:34:58: Не обработано: S.mickityuck moved x:-585.7874 y:57.34815(+18.87083) z:-193.9996 in the last second (0.2379189)
+31.07.2017 18:35:51: Не обработано: Pax Pixel [PaX] killed themself.
+31.07.2017 18:35:54: Не обработано: Pax Pixel moved x:-630.5049 y:39.40397(+15.07985) z:-40.46747 in the last second (1.019329)
+31.07.2017 18:39:07: Не обработано: S.mickityuck moved x:-585.7874 y:57.34815(+15.88696) z:-193.9996 in the last second (0.2379189)
+31.07.2017 18:53:34: Не обработано: denikiller68_YT [denikiller68] was mauled by a zombie!
+31.07.2017 18:54:17: Не обработано: CrisGames05 [CrisGames05] was mauled by a zombie!
+31.07.2017 19:00:10: Не обработано: denikiller68_YT [denikiller68] was mauled by a zombie!
+31.07.2017 19:02:24: Сохранение сервера
+31.07.2017 19:32:24: Сохранение сервера
+31.07.2017 19:38:53: Не обработано: S.mickityuck [S.mickityuck] was blown up by a vehicle!
+31.07.2017 19:38:55: Не обработано: S.mickityuck moved x:9.865845 y:39.38515(+26.22817) z:124.8013 in the last second (1.007835)
+31.07.2017 19:42:48: Не обработано: S.mickityuck moved x:-686.6348 y:42.0612(+17.7484) z:-77.10609 in the last second (0.2379189)
+31.07.2017 19:43:45: Не обработано: MaxPayne [MaxPayne] was mauled by a zombie!
+31.07.2017 19:59:24: Не обработано: PlayerID: 76561198310890097 Name: S.mickityuck Character: S.mickityuck Ping: 68
+31.07.2017 20:02:24: Сохранение сервера
+31.07.2017 20:15:07: Не обработано: HackedStrafe [? HackedStrafe ?] was mauled by a zombie!
+31.07.2017 20:15:14: Не обработано: HackedStrafe moved x:-720.9009 y:59.51276(+22.60812) z:150.1289 in the last second (1.003479)
+31.07.2017 20:32:24: Сохранение сервера
+31.07.2017 21:02:24: Сохранение сервера
+31.07.2017 21:09:44: Не обработано: PlayerID: 76561198409222586 Name: friz31314 Character: marishka2035 Ping: 78
+31.07.2017 21:10:48: Не обработано: marishka2035 [friz31314] bled to death!
+31.07.2017 21:13:53: Не обработано: marishka2035 [friz31314] was mauled by a zombie!
+31.07.2017 21:15:20: Не обработано: marishka2035 [friz31314] bled to death!
+31.07.2017 21:15:23: Не обработано: marishka2035 moved x:-720.9009 y:59.51276(+21.03544) z:150.1289 in the last second (1.003479)
+31.07.2017 21:32:24: Сохранение сервера
+31.07.2017 21:33:04: Не обработано: ANNA [RUSlanovnanna] was mauled by a zombie!
+31.07.2017 21:33:07: Не обработано: ANNA moved x:-744.4502 y:58.56762(+19.89025) z:127.2084 in the last second (0.9748459)
+31.07.2017 21:37:49: Не обработано: ANNA [RUSlanovnanna] was mauled by a zombie!
+31.07.2017 21:41:25: Не обработано: vladimirkulic2016 [vladimirkulic2016] bled to death!
+31.07.2017 21:59:39: Не обработано: |\/| Bloodthirsty |\/|  [|\/| Bloodthirsty |\/|] bled to death!
+31.07.2017 22:02:24: Сохранение сервера
+31.07.2017 22:05:39: Не обработано: misterplay28 [misterplay28] bled to death!
+31.07.2017 22:06:37: Не обработано: ninjarayman [ninjarayman] was mauled by a zombie!
+31.07.2017 22:06:37: Не обработано: |\/| Bloodthirsty |\/|  [|\/| Bloodthirsty |\/|] was mauled by a zombie!
+31.07.2017 22:09:06: Не обработано: misterplay28 [misterplay28] bled to death!
+31.07.2017 22:11:46: Не обработано: |\/| Bloodthirsty |\/|  [|\/| Bloodthirsty |\/|] was mauled by a zombie!
+31.07.2017 22:15:37: Не обработано: ninjarayman [ninjarayman] was mauled by a zombie!
+31.07.2017 22:15:46: Не обработано: |\/| Bloodthirsty |\/|  [|\/| Bloodthirsty |\/|] bled to death!
+31.07.2017 22:15:52: Не обработано: |\/| Bloodthirsty |\/|  moved x:-720.9009 y:59.51276(+33.5479) z:150.1289 in the last second (1.003479)
+31.07.2017 22:16:17: Не обработано: ninjarayman moved x:-786.3249 y:76.36724(+34.78614) z:209.1067 in the last second (0.6028061)
+31.07.2017 22:17:33: Не обработано: ninjarayman [ninjarayman] was mauled by a zombie!
+31.07.2017 22:17:51: Не обработано: ninjarayman moved x:-848.1177 y:77.64069(+38.96336) z:233.9189 in the last second (0.5999908)
+31.07.2017 22:18:20: Не обработано: ninjarayman [ninjarayman] was mauled by a zombie!
+31.07.2017 22:29:46: Не обработано: artikup [ЕБАТЬ Я ПИНГВИН] bled to death!
+31.07.2017 22:32:02: Не обработано: artikup [ЕБАТЬ Я ПИНГВИН] bled to death!
+31.07.2017 22:32:04: Не обработано: Slack [Никита Цветоёбов] was mauled by a zombie!
+31.07.2017 22:32:24: Сохранение сервера
+31.07.2017 22:34:14: Не обработано: дАША ПИДОР)0 [дАША ПИДОР)0] was mauled by a zombie!
+31.07.2017 22:34:22: Не обработано: Tony Stark [Tarantashka] bled to death!
+31.07.2017 22:34:25: Не обработано: Tony Stark moved x:-744.4502 y:58.56762(+19.76185) z:127.2084 in the last second (0.9748459)
+31.07.2017 22:35:36: Не обработано: дАША ПИДОР)0 [дАША ПИДОР)0] was mauled by a zombie!
+31.07.2017 22:39:51: Не обработано: DimaG [Dmitriy] bled to death!
+31.07.2017 22:40:31: Не обработано: zapp [Z4pp  BETS.gg] bled to death!
+31.07.2017 22:41:03: Не обработано: дАША ПИДОР)0 [дАША ПИДОР)0] was mauled by a zombie!
+31.07.2017 22:45:18: Не обработано: Иван [killshot] bled to death!
+31.07.2017 22:47:56: Не обработано: ( 0 _ 0) [сАША-ПИДОР)0] bled to death!
+31.07.2017 22:48:14: Не обработано: дАША ПИДОР)0 [дАША ПИДОР)0] was mauled by a zombie!
+31.07.2017 22:50:48: Не обработано: ( 0 _ 0) [сАША-ПИДОР)0] was dissolved by a zombie!
+31.07.2017 22:51:24: Не обработано: дАША ПИДОР)0 [дАША ПИДОР)0] was mauled by a zombie!
+31.07.2017 22:59:36: Не обработано: liampuo [liampuo] bled to death!
+31.07.2017 23:00:37: Не обработано: liampuo [liampuo] was mauled by a zombie!
+31.07.2017 23:02:24: Сохранение сервера
+31.07.2017 23:05:07: Не обработано: ( 0 _ 0) [сАША-ПИДОР)0] was mauled by a zombie!
+31.07.2017 23:08:18: Не обработано: ( 0 _ 0) [сАША-ПИДОР)0] was dissolved by a zombie!
+31.07.2017 23:10:05: Не обработано: дАША ПИДОР)0 [дАША ПИДОР)0] was mauled by a zombie!
+31.07.2017 23:10:26: Не обработано: Tony Stark [Tarantashka] bled to death!
+31.07.2017 23:10:57: Не обработано: ( 0 _ 0) [сАША-ПИДОР)0] was mauled by a zombie!
+31.07.2017 23:15:22: Не обработано: ( 0 _ 0) [сАША-ПИДОР)0] was mauled by a zombie!
+31.07.2017 23:15:45: Не обработано: liampuo moved x:626.6894 y:60.85559(+22.37828) z:762.762 in the last second (0.6232948)
+31.07.2017 23:16:57: Не обработано: дАША ПИДОР)0 [дАША ПИДОР)0] was mauled by a zombie!
+31.07.2017 23:21:51: Не обработано: дАША ПИДОР)0 [дАША ПИДОР)0] was mauled by a zombie!
+31.07.2017 23:28:53: Не обработано: PlayerID: 76561198310890097 Name: S.mickityuck Character: S.mickityuck Ping: 66
+31.07.2017 23:32:24: Сохранение сервера
+01.08.2017 0:02:24: Сохранение сервера
+01.08.2017 0:21:54: Не обработано: PlayerID: 76561198310890097 Name: S.mickityuck Character: S.mickityuck Ping: 74
+01.08.2017 0:32:24: Сохранение сервера
+01.08.2017 0:35:47: Не обработано: liampuo moved x:840.3021 y:85.33063(+46.56405) z:125.5288 in the last second (0.1112671)
+01.08.2017 0:40:07: Не обработано: liampuo moved x:-282.1313 y:54.86959(+16.19205) z:-347.329 in the last second (0.1000061)
+01.08.2017 0:45:30: Не обработано: liampuo moved x:-51.88544 y:51.7771(+17.47253) z:603.8046 in the last second (1)
+01.08.2017 1:02:24: Сохранение сервера
+01.08.2017 1:32:24: Сохранение сервера
+01.08.2017 2:02:24: Сохранение сервера
+01.08.2017 2:32:24: Сохранение сервера
+01.08.2017 3:02:24: Сохранение сервера
+01.08.2017 3:32:24: Сохранение сервера
+01.08.2017 4:02:24: Сохранение сервера
+01.08.2017 4:32:24: Сохранение сервера
+01.08.2017 5:02:24: Сохранение сервера
+01.08.2017 5:32:24: Сохранение сервера
+01.08.2017 5:34:00: Не обработано: kirill.kvac moved x:660.9673 y:73.34539(+34.66807) z:-497.6105 in the last second (0.101738)
+01.08.2017 6:02:24: Сохранение сервера
+01.08.2017 6:24:14: Не обработано: kirill.kvac moved x:914.7009 y:80.92078(+42.44346) z:505.863 in the last second (1)
+01.08.2017 6:32:24: Сохранение сервера
+01.08.2017 7:02:24: Сохранение сервера
+01.08.2017 7:14:50: Не обработано: PlayerID: 76561198310973228 Name: Генерал Вален Character: kirill.kvac Ping: 97
+01.08.2017 7:32:24: Сохранение сервера
+01.08.2017 8:02:24: Сохранение сервера
+01.08.2017 8:32:24: Сохранение сервера
+01.08.2017 9:02:24: Сохранение сервера
+01.08.2017 9:13:19: Не обработано: kirill.kvac [Генерал Вален] bled to death!
+01.08.2017 9:13:22: Не обработано: kirill.kvac moved x:-744.4502 y:58.56762(+19.82487) z:127.2084 in the last second (0.9748459)
+01.08.2017 9:32:24: Сохранение сервера
+01.08.2017 10:02:24: Сохранение сервера
+01.08.2017 10:32:24: Сохранение сервера
+01.08.2017 11:02:24: Сохранение сервера
+01.08.2017 11:08:33: Не обработано: PlayerID: 76561198314638573 Name: ЛЁХА Character: LEXA Ping: 46
+01.08.2017 11:10:28: Не обработано: R.A.A [R.A.A] was mauled by a zombie!
+01.08.2017 11:26:05: Не обработано: PlayerID: 76561198314638573 Name: ЛЁХА Character: LEXA Ping: 62
+01.08.2017 11:28:04: Не обработано: LEXA [ЛЁХА] was mauled by a zombie!
+01.08.2017 11:32:24: Сохранение сервера
+01.08.2017 11:42:18: Не обработано: dancomua2 [dancomua2] was mauled by a zombie!
+01.08.2017 11:43:54: Не обработано: BRUTALL [BRUTALL] bled to death!
+01.08.2017 11:43:54: Не обработано: dancomua2 [dancomua2] is calling a vote to kick BRUTALL [BRUTALL]
+01.08.2017 11:44:07: Не обработано: Vote failed!
+01.08.2017 11:49:25: Не обработано: BRUTALL [BRUTALL] bled to death!
+01.08.2017 11:49:36: Не обработано: An error occured while executing tpa [d]: System.NullReferenceException: Object reference not set to an instance of an object
+01.08.2017 11:49:36: Не обработано:   at Rocket.Unturned.Player.UnturnedPlayer.get_CharacterName () [0x00000] in <filename unknown>:0 
+01.08.2017 11:49:36: Не обработано:   at RocketMod_TPA.CommandTPA.Execute (IRocketPlayer caller, System.String[] command) [0x00000] in <filename unknown>:0 
+01.08.2017 11:49:36: Не обработано:   at Rocket.Core.Commands.RocketCommandManager+RegisteredRocketCommand.Execute (IRocketPlayer caller, System.String[] command) [0x00000] in <filename unknown>:0 
+01.08.2017 11:49:36: Не обработано:   at Rocket.Core.Commands.RocketCommandManager.Execute (IRocketPlayer player, System.String command) [0x00000] in <filename unknown>:0 
+01.08.2017 11:54:55: Не обработано: PrivateMessages >> Sorry, you haven't received a message!
+01.08.2017 12:00:56: Не обработано: S.mickityuck был исцелён
+01.08.2017 12:02:24: Сохранение сервера
+01.08.2017 12:19:53: Не обработано: PlayerID: 76561198310890097 Name: S.mickityuck Character: S.mickityuck Ping: 66
+01.08.2017 12:21:42: Не обработано: S.mickityuck moved x:229.5633 y:73.23108(+32.0634) z:-568.407 in the last second (1)
+01.08.2017 12:26:56: Не обработано: PlayerID: 76561198310890097 Name: S.mickityuck Character: S.mickityuck Ping: 78
+01.08.2017 12:32:40: Сохранение сервера
+01.08.2017 12:34:30: Не обработано: PlayerID: 76561198310890097 Name: S.mickityuck Character: S.mickityuck Ping: 66
+01.08.2017 12:43:29: Не обработано: Doktor Whoo [Doktor Whoo] was mauled by a zombie!
+01.08.2017 12:45:03: Не обработано: S.mickityuck moved x:579.0856 y:66.89083(+28.21346) z:871.0069 in the last second (0.3130722)
+01.08.2017 13:03:35: Сохранение сервера
+01.08.2017 13:12:57: Не обработано: PrivateMessages >> Sorry, you haven't received a message!
+01.08.2017 13:15:48: Не обработано: Serpova Anna [[RedBox] Пуля] was mauled by a zombie!
+01.08.2017 13:18:06: Не обработано: Serpova Anna moved x:-377.1479 y:54.63092(+16.1536) z:-128.9007 in the last second (0.6211548)
+01.08.2017 13:22:53: Не обработано: lolo_Rodin [slavnozavr] was mauled by a zombie!
+01.08.2017 13:33:35: Сохранение сервера
+01.08.2017 13:38:06: Не обработано: Serpova Anna moved x:-869.8604 y:56.68006(+18.0027) z:-181.2001 in the last second (0.4349442)
+01.08.2017 13:39:33: Не обработано: Mr.OlegHunter [|LC|Mr.OlegHunter] bled to death!
+01.08.2017 13:39:37: Не обработано: Mr.OlegHunter moved x:-744.4502 y:58.56762(+19.36025) z:127.2084 in the last second (0.9748459)
+01.08.2017 13:42:04: Не обработано: Serpova Anna moved x:-815.3601 y:55.35173(+16.87442) z:-225.1584 in the last second (0.1019783)
+01.08.2017 13:42:54: Не обработано: Mr.OlegHunter [|LC|Mr.OlegHunter] was mauled by a zombie!
+01.08.2017 13:44:05: Не обработано: S.mickityuck moved x:112.418 y:70.99426(+32.51694) z:-635.407 in the last second (0.8116455)
+01.08.2017 13:47:41: Не обработано: Mr.OlegHunter [|LC|Mr.OlegHunter] was mauled by a zombie!
+01.08.2017 13:48:36: Не обработано: Mr.OlegHunter [|LC|Mr.OlegHunter] was mauled by a zombie!
+01.08.2017 13:58:52: Не обработано: God'sEnvoy [God'sEnvoy°] dehydrated to death!
+01.08.2017 14:01:05: Не обработано: S.mickityuck moved x:-874.6107 y:87.47925(+49.00193) z:370.7261 in the last second (1)
+01.08.2017 14:01:46: Не обработано: Mr.OlegHunter [|LC|Mr.OlegHunter] bled to death!
+01.08.2017 14:03:35: Сохранение сервера
+01.08.2017 14:08:42: Не обработано: Mr.OlegHunter [|LC|Mr.OlegHunter] was mauled by a zombie!
+01.08.2017 14:08:46: Не обработано: Mr.OlegHunter moved x:-744.4502 y:58.56762(+20.0903) z:127.2084 in the last second (0.9748459)
+01.08.2017 14:09:44: Не обработано: Mr.OlegHunter [|LC|Mr.OlegHunter] was dissolved by a zombie!
+01.08.2017 14:10:03: Не обработано: (((Police))) moved x:507.4505 y:54.45086(+16.37152) z:641.8043 in the last second (0.1647263)
+01.08.2017 14:10:19: Не обработано: Mr.OlegHunter [|LC|Mr.OlegHunter] was mauled by a zombie!
+01.08.2017 14:11:19: Не обработано: God'sEnvoy [God'sEnvoy°] was dissolved by a zombie!
+01.08.2017 14:11:19: Не обработано: God'sEnvoy moved x:731.0237 y:69.47134(+16.36225) z:388.897 in the last second (30.36399)
+01.08.2017 14:11:19: Не обработано: Hyper Beast [Hyper Beast] was dissolved by a zombie!
+01.08.2017 14:11:19: Не обработано: (((Police))) [?SCORPIO¦?  ?] was dissolved by a zombie!
+01.08.2017 14:11:20: Не обработано: Hyper Beast moved x:737.04 y:67.87815(+15.05662) z:388.2289 in the last second (29.1708)
+01.08.2017 14:11:32: Не обработано: (((Police))) moved x:456.6776 y:43.40292(+16.79461) z:648.6839 in the last second (0.2379189)
+01.08.2017 14:12:15: Не обработано: Mr.OlegHunter [|LC|Mr.OlegHunter] was mauled by a zombie!
+01.08.2017 14:13:15: Не обработано: Hyper Beast [Hyper Beast] was mauled by a zombie!
+01.08.2017 14:13:42: Не обработано: God'sEnvoy [God'sEnvoy°] was mauled by a zombie!
+01.08.2017 14:18:19: Не обработано: Полотенчико moved x:-546.9135 y:55.52258(+17.04527) z:-247.0831 in the last second (1)
+01.08.2017 14:19:34: Не обработано: Hyper Beast moved x:925.0093 y:55.6354(+16.71385) z:740.7932 in the last second (4.768826)
+01.08.2017 14:22:01: Не обработано: Полотенчико moved x:71.8472 y:67.99072(+29.5134) z:-646.3533 in the last second (1)
+01.08.2017 14:24:07: Не обработано: Mr.OlegHunter [|LC|Mr.OlegHunter] was mauled by a zombie!
+01.08.2017 14:25:56: Не обработано: un [ervin_e05] killed themself.
+01.08.2017 14:26:10: Не обработано: un [ervin_e05] killed themself.
+01.08.2017 14:26:19: Не обработано: un [ervin_e05] killed themself.
+01.08.2017 14:26:25: Не обработано: un [ervin_e05] killed themself.
+01.08.2017 14:26:34: Не обработано: un [ervin_e05] killed themself.
+01.08.2017 14:26:38: Не обработано: un [ervin_e05] killed themself.
+01.08.2017 14:26:45: Не обработано: un [ervin_e05] killed themself.
+01.08.2017 14:26:50: Не обработано: un [ervin_e05] killed themself.
+01.08.2017 14:33:12: Не обработано: NeveR [NeveR] was dissolved by a zombie!
+01.08.2017 14:33:35: Сохранение сервера
+01.08.2017 14:35:10: Не обработано: cod'man moved x:128.0485 y:74.68401(+24.52827) z:-628.8582 in the last second (0.6188202)
+01.08.2017 14:41:29: Не обработано: Hyper Beast moved x:915.2286 y:76.59937(+30.02841) z:463.7444 in the last second (0.4947586)
+01.08.2017 14:43:51: Не обработано: God'sEnvoy moved x:790.0672 y:63.06384(+24.58652) z:2.504651 in the last second (0.8116455)
+01.08.2017 14:43:51: Не обработано: Hyper Beast moved x:791.0736 y:63.93642(+24.47339) z:6.072037 in the last second (0.2717514)
+01.08.2017 14:46:17: Не обработано: God'sEnvoy moved x:783.0432 y:81.14624(+22.47337) z:-486.0249 in the last second (1)
+01.08.2017 14:46:31: Не обработано: Hyper Beast moved x:816.4842 y:88.25062(+39.79209) z:-449.1023 in the last second (0.1131668)
+01.08.2017 14:48:02: Не обработано: God'sEnvoy [God'sEnvoy°] was blown up by a vehicle!
+01.08.2017 14:59:09: Не обработано: BIKTORIA petrova [epic] bled to death!
+01.08.2017 14:59:28: Не обработано: Valera_Granata [ewfyfwfyg3w] killed themself.
+01.08.2017 15:00:48: Не обработано: (((Police))) [?SCORPIO¦?  ?] dehydrated to death!
+01.08.2017 15:02:25: Не обработано: Hyper Beast был исцелён
+01.08.2017 15:02:25: Не обработано: (((Police))) был исцелён
+01.08.2017 15:02:25: Не обработано: zolotovlenya был исцелён
+01.08.2017 15:02:26: Не обработано: cod'man был исцелён
+01.08.2017 15:02:26: Не обработано: DimaG был исцелён
+01.08.2017 15:02:26: Не обработано: God'sEnvoy был исцелён
+01.08.2017 15:02:26: Не обработано: vladimirkulic2016 был исцелён
+01.08.2017 15:02:26: Не обработано: Ilya11242 был исцелён
+01.08.2017 15:02:26: Не обработано: Valera_Granata был исцелён
+01.08.2017 15:02:57: Не обработано: Hyper Beast moved x:522.182 y:60.44336(+23.07608) z:658.0137 in the last second (1)
+01.08.2017 15:03:35: Сохранение сервера
+01.08.2017 15:07:36: Не обработано: Ilya11242 [Ilya11242] was burned by a zombie!
+01.08.2017 15:07:36: Не обработано: NullReferenceException: Object reference not set to an instance of an object - SDG.Unturned.UseableGun.ballistics ()
+01.08.2017 15:07:36: Не обработано: SDG.Unturned.UseableGun.tock (UInt32 clock)
+01.08.2017 15:07:36: Не обработано: SDG.Unturned.PlayerEquipment.tock (UInt32 clock)
+01.08.2017 15:07:36: Не обработано: SDG.Unturned.PlayerInput.FixedUpdate ()
+01.08.2017 15:08:56: Не обработано: God'sEnvoy moved x:835.2128 y:70.95544(+43.65312) z:811.5861 in the last second (0.1032639)
+01.08.2017 15:09:08: Не обработано: club  [Sextus] was mauled by a zombie!
+01.08.2017 15:10:04: Не обработано: club  [Sextus] was mauled by a zombie!
+01.08.2017 15:20:05: Не обработано: cod'man [cod'man] bled to death!
+01.08.2017 15:21:46: Не обработано: cod'man [cod'man] was mauled by a zombie!
+01.08.2017 15:33:35: Сохранение сервера
+01.08.2017 15:34:27: Не обработано: un [ervin_e05] was mauled by a zombie!
+01.08.2017 16:03:35: Сохранение сервера
+01.08.2017 16:13:28: Не обработано: un [ervin_e05] dehydrated to death!
+01.08.2017 16:20:21: Не обработано: Hyper Beast [Hyper Beast] bled to death!
+01.08.2017 16:21:14: Не обработано: Hyper Beast [Hyper Beast] was mauled by a zombie!
+01.08.2017 16:23:11: Не обработано: God'sEnvoy [God'sEnvoy°] was dissolved by a zombie!
+01.08.2017 16:27:33: Не обработано: денис [крипаха] was mauled by a zombie!
+01.08.2017 16:30:32: Не обработано: денис [крипаха] was burned by a zombie!
+01.08.2017 16:30:32: Не обработано: NullReferenceException - SDG.Unturned.UseableMelee.fire ()
+01.08.2017 16:30:33: Не обработано: SDG.Unturned.UseableMelee.simulate (UInt32 simulation, Boolean inputSteady)
+01.08.2017 16:30:33: Не обработано: SDG.Unturned.PlayerEquipment.simulate (UInt32 simulation, Boolean inputPrimary, Boolean inputSecondary, Boolean inputSteady)
+01.08.2017 16:30:33: Не обработано: SDG.Unturned.PlayerInput.FixedUpdate ()
+01.08.2017 16:32:42: Не обработано: денис [крипаха] was mauled by a zombie!
+01.08.2017 16:33:35: Сохранение сервера
+01.08.2017 16:33:48: Не обработано: денис [крипаха] was mauled by a zombie!
+01.08.2017 16:42:31: Не обработано: денис [крипаха] was mauled by a zombie!
+01.08.2017 16:44:30: Не обработано: я крутой 28895551037 [krandetal] was mauled by a zombie!
+01.08.2017 16:50:59: Не обработано: я крутой 28895551037 [krandetal] was mauled by a zombie!
+01.08.2017 16:51:02: Не обработано: денис [крипаха] bled to death!
+01.08.2017 16:52:34: Не обработано: денис [крипаха] was mauled by a zombie!
+01.08.2017 16:58:55: Не обработано: un [ervin_e05] dehydrated to death!
+01.08.2017 17:00:39: Не обработано: R.A.A [R.A.A] killed themself.
+01.08.2017 17:00:42: Не обработано: R.A.A moved x:302.9063 y:43.48241(+18.77583) z:-724.9604 in the last second (0.980217)
+01.08.2017 17:01:03: Не обработано: я крутой 28895551037 [krandetal] was mauled by a zombie!
+01.08.2017 17:01:06: Не обработано: R.A.A [R.A.A] was mauled by a zombie!
+01.08.2017 17:01:14: Не обработано: денис [крипаха] was mauled by a zombie!
+01.08.2017 17:02:00: Не обработано: я крутой 28895551037 [krandetal] was mauled by a zombie!
+01.08.2017 17:02:01: Не обработано: R.A.A [R.A.A] was mauled by a zombie!
+01.08.2017 17:03:35: Сохранение сервера
+01.08.2017 17:05:53: Не обработано: денис [крипаха] bled to death!
+01.08.2017 17:10:01: Не обработано: R.A.A [R.A.A] was mauled by a zombie!
+01.08.2017 17:11:00: Не обработано: R.A.A [R.A.A] bled to death!
+01.08.2017 17:11:11: Не обработано: kirito LVL.14 [уборщик женских т] killed themself.
+01.08.2017 17:15:41: Не обработано: R.A.A [R.A.A] was mauled by a zombie!
+01.08.2017 17:20:25: Не обработано: R.A.A [R.A.A] bled to death!
+01.08.2017 17:22:38: Не обработано: JasonVH [SF EVIL] was mauled by a zombie!
+01.08.2017 17:24:57: Не обработано: kirito LVL.14 [уборщик женских т] was mauled by a zombie!
+01.08.2017 17:25:32: Не обработано: JasonVH [SF EVIL] bled to death!
+01.08.2017 17:28:56: Не обработано: денис [крипаха] was mauled by a zombie!
+01.08.2017 17:33:35: Сохранение сервера
+01.08.2017 17:34:27: Не обработано: R.A.A [R.A.A] was mauled by a zombie!
+01.08.2017 17:35:00: Не обработано: JasonVH [SF EVIL] bled to death!
+01.08.2017 17:38:06: Не обработано: про_100_батя [про_100_батя] was mauled by a zombie!
+01.08.2017 17:38:12: Не обработано: R.A.A [R.A.A] was mauled by a zombie!
+01.08.2017 17:42:50: Не обработано: R.A.A [R.A.A] bled to death!
+01.08.2017 17:46:02: Не обработано: про_100_батя [про_100_батя] was mauled by a zombie!
+01.08.2017 17:56:21: Не обработано: R.A.A [R.A.A] was mauled by a zombie!
+01.08.2017 17:56:23: Не обработано: R.A.A moved x:-720.9009 y:59.51276(+21.03544) z:150.1289 in the last second (1.003479)
+01.08.2017 17:57:23: Не обработано: R.A.A [R.A.A] was mauled by a zombie!
+01.08.2017 18:00:04: Не обработано: про_100_батя [про_100_батя] was mauled by a zombie!
+01.08.2017 18:02:49: Не обработано: DimaG был исцелён
+01.08.2017 18:02:50: Не обработано: un был исцелён
+01.08.2017 18:02:50: Не обработано: nafanya csgo-skins.com был исцелён
+01.08.2017 18:03:35: Сохранение сервера
+01.08.2017 18:08:38: Не обработано: 1366:TruncatedWrongValueForField
+01.08.2017 18:08:39: Не обработано:   at MySql.Data.MySqlClient.MySqlStream.ReadPacket () [0x00000] in <filename unknown>:0 
+01.08.2017 18:08:39: Не обработано:   at MySql.Data.MySqlClient.NativeDriver.GetResult (System.Int32& affectedRow, System.Int64& insertedId) [0x00000] in <filename unknown>:0 
+01.08.2017 18:11:47: Не обработано: lolek [PROGamer] was mauled by a zombie!
+01.08.2017 18:23:36: Не обработано: CreeperBoy27 [CreeperBoy27] was mauled by a zombie!
+01.08.2017 18:24:26: Не обработано: DimaG moved x:-236.9047 y:54.6104(+15.90319) z:111.7476 in the last second (0.09999847)
+01.08.2017 18:24:28: Не обработано: nafanya csgo-skins.com moved x:-236.0897 y:55.72205(+17.00951) z:112.5257 in the last second (1.211647)
+01.08.2017 18:33:35: Сохранение сервера
+01.08.2017 18:41:48: Не обработано: CLI [Omega orange] bled to death!
+01.08.2017 18:43:02: Не обработано: nafanya csgo-skins.com [nafanya] was dissolved by a zombie!
+01.08.2017 18:46:31: Не обработано: JasonVH [SF EVIL] was mauled by a zombie!
+01.08.2017 18:47:25: Не обработано: PersIK moved x:-214.234 y:55.1104(+16.90838) z:98.64268 in the last second (0.5999985)
+01.08.2017 18:48:29: Не обработано: 1366:TruncatedWrongValueForField
+01.08.2017 18:48:29: Не обработано:   at MySql.Data.MySqlClient.MySqlStream.ReadPacket () [0x00000] in <filename unknown>:0 
+01.08.2017 18:48:29: Не обработано:   at MySql.Data.MySqlClient.NativeDriver.GetResult (System.Int32& affectedRow, System.Int64& insertedId) [0x00000] in <filename unknown>:0 
+01.08.2017 18:48:52: Не обработано: un [ervin_e05] killed themself.
+01.08.2017 18:50:13: Не обработано: CLI [Omega orange] was mauled by a zombie!
+01.08.2017 18:50:15: Не обработано: PersIK [PersIK] was mauled by a zombie!
+01.08.2017 18:50:18: Не обработано: PersIK moved x:-744.4502 y:58.56762(+20.0903) z:127.2084 in the last second (0.9748459)
+01.08.2017 18:50:31: Не обработано: JasonVH [SF EVIL] was mauled by a zombie!
+01.08.2017 18:50:36: Не обработано: God'sEnvoy moved x:955.5834 y:68.60449(+19.85259) z:725.1961 in the last second (1)
+01.08.2017 18:53:10: Не обработано: PersIK [PersIK] was mauled by a zombie!
+01.08.2017 18:53:30: Не обработано: CLI [Omega orange] bled to death!
+01.08.2017 18:54:39: Не обработано: God'sEnvoy moved x:883.998 y:78.94862(+35.19591) z:388.4048 in the last second (0.1377029)
+01.08.2017 18:58:19: Не обработано: God'sEnvoy [God'sEnvoy°] dehydrated to death!
+01.08.2017 18:58:45: Не обработано: LEXA moved x:533.4592 y:71.63554(+32.95822) z:-748.734 in the last second (0.1139297)
+01.08.2017 18:58:47: Не обработано: JasonVH moved x:531.0811 y:73.02297(+34.43431) z:-753.1176 in the last second (0.125145)
+01.08.2017 19:03:35: Сохранение сервера
+01.08.2017 19:09:16: Не обработано: PersIK [PersIK] was mauled by a zombie!
+01.08.2017 19:10:44: Не обработано: PersIK [PersIK] was mauled by a zombie!
+01.08.2017 19:10:47: Не обработано: PersIK moved x:-720.9009 y:59.51276(+20.6227) z:150.1289 in the last second (1.003479)
+01.08.2017 19:11:40: Не обработано: un [ervin_e05] bled to death!
+01.08.2017 19:14:21: Не обработано: PersIK [PersIK] was mauled by a zombie!
+01.08.2017 19:14:31: Не обработано: un [ervin_e05] bled to death!
+01.08.2017 19:15:08: Не обработано: LEXA [ЛЁХА] was mauled by a zombie!
+01.08.2017 19:15:28: Не обработано: JasonVH [SF EVIL] was dissolved by a zombie!
+01.08.2017 19:16:25: Не обработано: LEXA [ЛЁХА] killed themself.
+01.08.2017 19:18:50: Не обработано: JasonVH [SF EVIL] was mauled by a zombie!
+01.08.2017 19:27:42: Не обработано: oebilgic [oebilgic] bled to death!
+01.08.2017 19:29:21: Не обработано: PersIK [PersIK] was mauled by a zombie!
+01.08.2017 19:33:35: Сохранение сервера
+01.08.2017 19:37:07: Не обработано: God'sEnvoy [God'sEnvoy°] dehydrated to death!
+01.08.2017 19:49:24: Не обработано: PersIK [PersIK] was mauled by a zombie!
+01.08.2017 19:52:28: Не обработано: JasonVH [SF EVIL] was electrocuted by a zombie!
+01.08.2017 19:54:54: Не обработано: LEXA [ЛЁХА] bled to death!
+01.08.2017 19:55:03: Не обработано: LEXA moved x:-482.503 y:54.65604(+26.20662) z:-137.6954 in the last second (0.6095276)
+01.08.2017 20:01:01: Не обработано: Wazees [Wazees] was mauled by a zombie!
+01.08.2017 20:02:35: Не обработано: JavlaGrohda [JavlaGrohda] was mauled by a zombie!
+01.08.2017 20:03:35: Сохранение сервера
+01.08.2017 20:03:55: Не обработано: JavlaGrohda [JavlaGrohda] was mauled by a zombie!
+01.08.2017 20:05:49: Не обработано: Wazees [Wazees] was dissolved by a zombie!
+01.08.2017 20:06:38: Не обработано: JavlaGrohda [JavlaGrohda] bled to death!
+01.08.2017 20:12:57: Не обработано: Wazees [Wazees] was mauled by a zombie!
+01.08.2017 20:13:24: Не обработано: Wazees [Wazees] was mauled by a zombie!
+01.08.2017 20:13:29: Не обработано: JavlaGrohda [JavlaGrohda] bled to death!
+01.08.2017 20:22:31: Не обработано: СoolMaxik [Sans] was mauled by a zombie!
+01.08.2017 20:22:37: Не обработано: master_of_winds [МЯСНОЙ ПИРОЖОК] bled to death!
+01.08.2017 20:25:52: Не обработано: master_of_winds [МЯСНОЙ ПИРОЖОК] bled to death!
+01.08.2017 20:26:27: Не обработано: God'sEnvoy [God'sEnvoy°] dehydrated to death!
+01.08.2017 20:26:54: Не обработано: master_of_winds [МЯСНОЙ ПИРОЖОК] was mauled by a zombie!
+01.08.2017 20:28:25: Не обработано: master_of_winds [МЯСНОЙ ПИРОЖОК] was mauled by a zombie!
+01.08.2017 20:31:41: Не обработано: master_of_winds [МЯСНОЙ ПИРОЖОК] was mauled by a zombie!
+01.08.2017 20:33:35: Сохранение сервера
+01.08.2017 20:33:42: Не обработано: master_of_winds [МЯСНОЙ ПИРОЖОК] bled to death!
+01.08.2017 20:37:28: Не обработано: master_of_winds [МЯСНОЙ ПИРОЖОК] bled to death!
+01.08.2017 20:38:05: Не обработано: master_of_winds [МЯСНОЙ ПИРОЖОК] was mauled by a zombie!
+01.08.2017 20:43:10: Не обработано: mr.drakoflo [M W LL | 78 QUINSE] was mauled by a zombie!
+01.08.2017 20:44:51: Не обработано: mr.drakoflo [M W LL | 78 QUINSE] was mauled by a zombie!
+01.08.2017 21:01:26: Не обработано: hgh [HDYoutube] bled to death!
+01.08.2017 21:02:55: Не обработано: S.mickityuck был исцелён
+01.08.2017 21:02:55: Не обработано: Estgamer 105 был исцелён
+01.08.2017 21:02:55: Не обработано: hgh был исцелён
+01.08.2017 21:03:35: Сохранение сервера
+01.08.2017 21:07:08: Не обработано: hgh [HDYoutube] was mauled by a zombie!
+01.08.2017 21:07:25: Не обработано: hgh moved x:107.847 y:45.14766(+16.73682) z:-453.6627 in the last second (0.4318428)
+01.08.2017 21:33:35: Сохранение сервера
+01.08.2017 21:40:27: Не обработано: СoolMaxik [Sans] was mauled by a zombie!
+01.08.2017 21:44:13: Не обработано: СoolMaxik [Sans] was mauled by a zombie!
+01.08.2017 22:03:01: Не обработано: DimaG [Dmitriy] was mauled by a zombie!
+01.08.2017 22:03:35: Сохранение сервера
+01.08.2017 22:05:15: Не обработано: Estgamer 105 [Estgamer 105] was mauled by a zombie!
+01.08.2017 22:20:06: Не обработано: PlayerID: 76561198310890097 Name: S.mickityuck Character: S.mickityuck Ping: 226
+01.08.2017 22:33:35: Сохранение сервера
+01.08.2017 22:41:29: Не обработано: haydenwalters [haydenwalters] was dissolved by a zombie!
+01.08.2017 22:48:36: Не обработано: haydenwalters [haydenwalters] was infected to death!
+01.08.2017 22:50:14: Не обработано: DimaG [Dmitriy] was blown up by a vehicle!
+01.08.2017 22:50:31: Не обработано: haydenwalters [haydenwalters] was mauled by a zombie!
+01.08.2017 22:52:36: Не обработано: haydenwalters [haydenwalters] was mauled by a zombie!
+01.08.2017 22:52:55: Не обработано: Anti-Nike [Anti-Nike] was dissolved by a zombie!
+01.08.2017 22:59:23: Не обработано: Anti-Nike [Anti-Nike] was mauled by a zombie!
+01.08.2017 23:00:04: Не обработано: zuni2006 [FusionElm] was mauled by a zombie!
+01.08.2017 23:00:31: Не обработано: Anti-Nike [Anti-Nike] bled to death!
+01.08.2017 23:02:17: Не обработано: haydenwalters [haydenwalters] was dissolved by a zombie!
+01.08.2017 23:03:03: Не обработано: zuni2006 [FusionElm] was dissolved by a zombie!
+01.08.2017 23:03:11: Не обработано: Pinkie Pie [Sunset Shimmer] was mauled by a zombie!
+01.08.2017 23:03:35: Сохранение сервера
+01.08.2017 23:04:03: Не обработано: PrivateMessages >> Sorry, you haven't received a message!
+01.08.2017 23:04:56: Не обработано: haydenwalters [haydenwalters] bled to death!
+01.08.2017 23:05:16: Не обработано: digitallorrd [digitallorrd] was mauled by a zombie!
+01.08.2017 23:05:56: Не обработано: zuni2006 [FusionElm] was mauled by a zombie!
+01.08.2017 23:07:06: Не обработано: digitallorrd [digitallorrd] bled to death!
+01.08.2017 23:07:27: Не обработано: haydenwalters [haydenwalters] was mauled by a zombie!
+01.08.2017 23:14:31: Не обработано: zuni2006 [FusionElm] was mauled by a zombie!
+01.08.2017 23:14:33: Не обработано: GetRektSun69 [GetRektSun69] was mauled by a zombie!
+01.08.2017 23:14:36: Не обработано: GetRektSun69 moved x:-744.4502 y:58.56762(+19.49528) z:127.2084 in the last second (0.9748459)
+01.08.2017 23:14:38: Не обработано: iamasaint422 [iamasaint422] was mauled by a zombie!
+01.08.2017 23:15:04: Не обработано: haydenwalters [haydenwalters] was mauled by a zombie!
+01.08.2017 23:16:02: Не обработано: haydenwalters [haydenwalters] was mauled by a zombie!
+01.08.2017 23:16:35: Не обработано: iamasaint422 [iamasaint422] was mauled by a zombie!
+01.08.2017 23:16:40: Не обработано: haydenwalters [haydenwalters] was mauled by a zombie!
+01.08.2017 23:21:04: Не обработано: haydenwalters [haydenwalters] was dissolved by a zombie!
+01.08.2017 23:23:20: Не обработано: pawlogawlo [pawlogawlo] bled to death!
+01.08.2017 23:23:35: Не обработано: haydenwalters [haydenwalters] was mauled by a zombie!
+01.08.2017 23:26:46: Не обработано: haydenwalters [haydenwalters] killed themself.
+01.08.2017 23:30:02: Не обработано: haydenwalters [haydenwalters] was mauled by a zombie!
+01.08.2017 23:33:35: Сохранение сервера
+01.08.2017 23:37:12: Не обработано: S.mickityuck moved x:-784.6578 y:76.04952(+37.37218) z:202.8963 in the last second (1)
+01.08.2017 23:38:53: Не обработано: Летов [Postman Pat] was mauled by a zombie!
+01.08.2017 23:42:20: Не обработано: Nolic moved x:-625.5807 y:62.07021(+23.53039) z:-106.3491 in the last second (0.1383209)
+01.08.2017 23:42:21: Не обработано: Legend moved x:-621.132 y:61.55434(+23.01453) z:-103.9608 in the last second (0.1273422)
+01.08.2017 23:44:49: Не обработано: S.mickityuck moved x:-773.932 y:79.88038(+41.40306) z:299.525 in the last second (0.104866)
+01.08.2017 23:57:49: Не обработано: Lojetoje [LojeToje] is calling a vote to kick Nolic [?D?R?  Я EHOT]
+01.08.2017 23:57:58: Не обработано: Vote failed!
+02.08.2017 0:00:40: Не обработано: Vova [vova.petrov] was mauled by a zombie!
+02.08.2017 0:03:35: Сохранение сервера
+02.08.2017 0:16:20: Не обработано: nafra.andrey [nafra.andrey] was dissolved by a zombie!
+02.08.2017 0:18:39: Не обработано: nafra.andrey [nafra.andrey] was mauled by a zombie!
+02.08.2017 0:20:53: Не обработано: Bro_Dryg [Bro_Dryg] was mauled by a zombie!
+02.08.2017 0:33:35: Сохранение сервера
+02.08.2017 0:53:26: Не обработано: Edward_Nero [KennyMad] killed themself.
+02.08.2017 0:53:48: Не обработано: Edward_Nero [KennyMad] killed themself.
+02.08.2017 0:53:55: Не обработано: Edward_Nero [KennyMad] killed themself.
+02.08.2017 0:55:58: Не обработано: KennyMad [KennyMad] killed themself.
+02.08.2017 0:56:00: Не обработано: KennyMad moved x:-744.4502 y:58.56762(+20.0903) z:127.2084 in the last second (0.9748459)
+02.08.2017 0:57:12: Не обработано: thekinggamer [the king gamer] was mauled by a zombie!
+02.08.2017 0:58:20: Не обработано: voterzak` [BLR] [voterzak` [BLR]] was dissolved by a zombie!
+02.08.2017 0:58:24: Не обработано: voterzak` [BLR] moved x:-720.9009 y:59.51276(+20.84042) z:150.1289 in the last second (1.003479)
+02.08.2017 1:02:27: Не обработано: KennyMad [KennyMad] was mauled by a zombie!
+02.08.2017 1:02:43: Не обработано: KennyMad [KennyMad] killed themself.
+02.08.2017 1:02:51: Не обработано: KennyMad [KennyMad] killed themself.
+02.08.2017 1:02:57: Не обработано: KennyMad [KennyMad] killed themself.
+02.08.2017 1:03:03: Не обработано: KennyMad [KennyMad] killed themself.
+02.08.2017 1:03:31: Не обработано: voterzak` [BLR] [voterzak` [BLR]] was mauled by a zombie!
+02.08.2017 1:03:35: Сохранение сервера
+02.08.2017 1:33:35: Сохранение сервера
+02.08.2017 2:03:35: Сохранение сервера
+02.08.2017 2:33:35: Сохранение сервера
+02.08.2017 3:03:35: Сохранение сервера
+02.08.2017 3:33:35: Сохранение сервера
+02.08.2017 4:03:35: Сохранение сервера
+02.08.2017 4:33:35: Сохранение сервера
+02.08.2017 5:03:35: Сохранение сервера
+02.08.2017 5:33:35: Сохранение сервера
+02.08.2017 6:03:35: Сохранение сервера
+02.08.2017 6:14:33: Не обработано: PlayerID: 76561198275225136 Name: Mcgrover Character: vawine4you Ping: 195
+02.08.2017 6:15:11: Не обработано: vawine4you moved x:-720.8946 y:58.8449(+20.36758) z:149.769 in the last second (0.4263229)
+02.08.2017 6:16:13: Не обработано: vawine4you [Mcgrover] was mauled by a zombie!
+02.08.2017 6:16:36: Не обработано: terrencekev [TBone1877] was mauled by a zombie!
+02.08.2017 6:20:12: Не обработано: vawine4you [Mcgrover] was mauled by a zombie!
+02.08.2017 6:21:51: Не обработано: vawine4you [Mcgrover] was mauled by a zombie!
+02.08.2017 6:24:19: Не обработано: terrencekev [TBone1877] bled to death!
+02.08.2017 6:28:39: Не обработано: JBroatry [SkinnnyBiscuit] bled to death!
+02.08.2017 6:28:46: Не обработано: Dark System [was egg] bled to death!
+02.08.2017 6:32:33: Не обработано: vawine4you [Mcgrover] was mauled by a zombie!
+02.08.2017 6:32:51: Не обработано: terrencekev [TBone1877] was dissolved by a zombie!
+02.08.2017 6:33:35: Сохранение сервера
+02.08.2017 6:33:42: Не обработано: JBroatry [SkinnnyBiscuit] was mauled by a zombie!
+02.08.2017 6:35:33: Не обработано: terrencekev [TBone1877] bled to death!
+02.08.2017 6:35:45: Не обработано: vawine4you [Mcgrover] was mauled by a zombie!
+02.08.2017 6:36:49: Не обработано: JBroatry [SkinnnyBiscuit] was mauled by a zombie!
+02.08.2017 6:37:10: Не обработано: terrencekev [TBone1877] was mauled by a zombie!
+02.08.2017 6:38:04: Не обработано: JBroatry [SkinnnyBiscuit] was mauled by a zombie!
+02.08.2017 6:38:52: Не обработано: terrencekev [TBone1877] was mauled by a zombie!
+02.08.2017 6:39:07: Не обработано: JBroatry [SkinnnyBiscuit] was mauled by a zombie!
+02.08.2017 6:39:29: Не обработано: vawine4you [Mcgrover] was mauled by a zombie!
+02.08.2017 6:42:05: Не обработано: JBroatry [SkinnnyBiscuit] bled to death!
+02.08.2017 6:43:17: Не обработано: JBroatry [SkinnnyBiscuit] was mauled by a zombie!
+02.08.2017 7:03:35: Сохранение сервера
+02.08.2017 7:18:57: Не обработано: God'sEnvoy moved x:626.7077 y:57.06665(+18.80584) z:728.684 in the last second (1)
+02.08.2017 7:22:27: Не обработано: PlayerID: 76561198297456229 Name: God'sEnvoy° Character: God'sEnvoy Ping: 117
+02.08.2017 7:23:27: Не обработано: PlayerID: 76561198297456229 Name: God'sEnvoy° Character: God'sEnvoy Ping: 117
+02.08.2017 7:25:57: Не обработано: God'sEnvoy [God'sEnvoy°] was mauled by a zombie!
+02.08.2017 7:27:07: Не обработано: PlayerID: 76561198297456229 Name: God'sEnvoy° Character: God'sEnvoy Ping: 109
+02.08.2017 7:33:35: Сохранение сервера
+02.08.2017 7:42:57: Не обработано: danil20987 [DEADPUL] bled to death!
+02.08.2017 7:44:15: Не обработано: danil20987 [DEADPUL] was mauled by a zombie!
+02.08.2017 7:45:10: Не обработано: danil20987 [DEADPUL] was mauled by a zombie!
+02.08.2017 7:46:15: Не обработано: danil20987 [DEADPUL] was mauled by a zombie!
+02.08.2017 7:50:02: Не обработано: God'sEnvoy [God'sEnvoy°] was mauled by a zombie!
+02.08.2017 8:01:04: Не обработано: God'sEnvoy [God'sEnvoy°] bled to death!
+02.08.2017 8:02:25: Не обработано: God'sEnvoy [God'sEnvoy°] suffocated to death!
+02.08.2017 8:02:29: Не обработано: God'sEnvoy moved x:302.9063 y:43.48241(+22.51113) z:-724.9604 in the last second (0.980217)
+02.08.2017 8:03:35: Сохранение сервера
+02.08.2017 8:14:39: Не обработано: FazZzy [FazZzy] bled to death!
+02.08.2017 8:15:56: Не обработано: FazZzy [FazZzy] was mauled by a zombie!
+02.08.2017 8:26:20: Не обработано: asdasd [asdasd] was mauled by a zombie!
+02.08.2017 8:29:11: Не обработано: asdasd [asdasd] killed themself.
+02.08.2017 8:29:17: Не обработано: asdasd moved x:302.9063 y:43.48241(+16.59574) z:-724.9604 in the last second (0.980217)
+02.08.2017 8:33:35: Сохранение сервера
+02.08.2017 9:03:35: Сохранение сервера
+02.08.2017 9:33:35: Сохранение сервера
+02.08.2017 10:03:35: Сохранение сервера
+02.08.2017 10:06:32: Не обработано: 
+02.08.2017 10:06:32: Не обработано: [unloading] PlayerInfoLib
+02.08.2017 11:32:42: Не обработано: денис moved x:526.9782 y:60.80102(+22.3237) z:541.1088 in the last second (0.1367111)
+02.08.2017 11:39:44: Сохранение сервера
+02.08.2017 11:44:43: Не обработано: LEXA moved x:515.8384 y:72.60956(+34.13224) z:-744.091 in the last second (0.1027222)
+02.08.2017 11:54:49: Не обработано: 1366:TruncatedWrongValueForField
+02.08.2017 11:54:49: Не обработано:   at MySql.Data.MySqlClient.MySqlStream.ReadPacket () [0x00000] in <filename unknown>:0 
+02.08.2017 11:54:49: Не обработано:   at MySql.Data.MySqlClient.NativeDriver.GetResult (System.Int32& affectedRow, System.Int64& insertedId) [0x00000] in <filename unknown>:0 
+02.08.2017 11:55:20: Не обработано: Hyper Beast [Hyper Beast] was mauled by a zombie!
+02.08.2017 11:57:36: Не обработано: God'sEnvoy [God'sEnvoy°] was mauled by a zombie!
+02.08.2017 12:00:33: Не обработано: LEXA был исцелён
+02.08.2017 12:00:33: Не обработано: Hyper Beast был исцелён
+02.08.2017 12:00:33: Не обработано: God'sEnvoy был исцелён
+02.08.2017 12:00:34: Не обработано: S.mickityuck был исцелён
+02.08.2017 12:09:44: Сохранение сервера
+02.08.2017 12:24:59: Не обработано: S.mickityuck moved x:100.3351 y:70.14935(+31.47198) z:-630.1195 in the last second (0.1202927)
+02.08.2017 12:38:34: Не обработано: S.mickityuck moved x:-279.5943 y:55.80841(+17.03109) z:-390.5289 in the last second (1)
+02.08.2017 12:38:40: Не обработано: Я мир moved x:-280.9369 y:55.40841(+16.73106) z:-390.67 in the last second (0.5999985)
+02.08.2017 12:39:44: Сохранение сервера
+02.08.2017 13:09:44: Сохранение сервера
+02.08.2017 13:24:15: Не обработано: Shakalowich [Shakalowich] was mauled by a zombie!
+02.08.2017 13:30:02: Не обработано: Kolya1337 [n1^Last] was mauled by a zombie!
+02.08.2017 13:39:44: Сохранение сервера
+02.08.2017 13:43:27: Не обработано: алексей [DRoVoSeK_24] killed themself.
+02.08.2017 14:09:44: Сохранение сервера
+02.08.2017 14:15:20: Не обработано: Я мир [sahapetrovka30] bled to death!
+02.08.2017 14:19:27: Не обработано: VENGUS [VENGUS] was mauled by a zombie!
+02.08.2017 14:19:49: Не обработано: VENGUS [VENGUS] killed themself.
+02.08.2017 14:25:50: Не обработано: tahret979 [tahret979] was mauled by a zombie!
+02.08.2017 14:25:53: Не обработано: tahret979 moved x:-744.4502 y:58.56762(+20.0903) z:127.2084 in the last second (0.9748459)
+02.08.2017 14:27:06: Не обработано: Фин [крекер] suffocated to death!
+02.08.2017 14:27:09: Не обработано: Фин moved x:302.9063 y:43.48241(+26.12135) z:-724.9604 in the last second (0.980217)
+02.08.2017 14:28:21: Не обработано: tahret979 [tahret979] was mauled by a zombie!
+02.08.2017 14:32:32: Не обработано: LEXA moved x:825.5961 y:71.45714(+31.54046) z:-50.36722 in the last second (0.1533051)
+02.08.2017 14:32:38: Не обработано: JasonVH moved x:823.9677 y:71.22632(+30.62415) z:-55.43402 in the last second (1)
+02.08.2017 14:34:01: Не обработано: LEXA moved x:901.5743 y:93.24864(+22.33111) z:-81.98617 in the last second (1.009209)
+02.08.2017 14:34:06: Не обработано: JasonVH moved x:897.98 y:90.22894(+19.58768) z:-83.51111 in the last second (0.121521)
+02.08.2017 14:39:44: Сохранение сервера
+02.08.2017 14:44:14: Не обработано: zolotovlenya moved x:-390.2734 y:53.88911(+15.21677) z:-112.2347 in the last second (0.1139641)
+02.08.2017 14:44:15: Не обработано: tahret979 moved x:-393.0957 y:55.05713(+16.38478) z:-113.2632 in the last second (1)
+02.08.2017 14:44:16: Не обработано: JasonVH moved x:908.1742 y:92.86943(+54.1341) z:-108.768 in the last second (0.6901855)
+02.08.2017 14:44:20: Не обработано: tahret979 [tahret979] was mauled by a zombie!
+02.08.2017 14:57:36: Не обработано: JasonVH moved x:905.6954 y:111.4253(+21.3787) z:-136.5952 in the last second (0.09999847)
+02.08.2017 14:58:38: Не обработано: JasonVH moved x:905.6954 y:111.5633(+22.51743) z:-136.5952 in the last second (0.2379227)
+02.08.2017 15:01:12: Не обработано: S.mickityuck был исцелён
+02.08.2017 15:01:12: Не обработано: я крутой 28895551037 был исцелён
+02.08.2017 15:01:12: Не обработано: JasonVH был исцелён
+02.08.2017 15:01:12: Не обработано: Vlad Nagib был исцелён
+02.08.2017 15:01:12: Не обработано: zolotovlenya был исцелён
+02.08.2017 15:01:12: Не обработано: LEXA был исцелён
+02.08.2017 15:01:12: Не обработано: Фин был исцелён
+02.08.2017 15:01:12: Не обработано: un был исцелён
+02.08.2017 15:01:12: Не обработано: rh137 был исцелён
+02.08.2017 15:01:13: Не обработано: Roma News был исцелён
+02.08.2017 15:01:13: Не обработано: Лукас_Кук был исцелён
+02.08.2017 15:01:13: Не обработано: Денис светлицон был исцелён
+02.08.2017 15:01:13: Не обработано: tahret979 был исцелён
+02.08.2017 15:01:13: Не обработано: ЛЁНЯ богословцев был исцелён
+02.08.2017 15:01:13: Не обработано: KirillDoronin был исцелён
+02.08.2017 15:02:56: Не обработано: JasonVH moved x:905.6954 y:111.4253(+19.1021) z:-136.5952 in the last second (0.09999847)
+02.08.2017 15:03:09: Не обработано: S.mickityuck moved x:-536.1645 y:137.8881(+104.7213) z:-341.8874 in the last second (0.237915)
+02.08.2017 15:03:15: Не обработано: zolotovlenya moved x:-537.3718 y:137.5997(+81.71645) z:-342.631 in the last second (0.4116364)
+02.08.2017 15:04:31: Не обработано: LEXA moved x:905.2823 y:111.5633(+30.47312) z:-138.8275 in the last second (0.2379227)
+02.08.2017 15:05:33: Не обработано: LEXA moved x:905.2823 y:111.4253(+37.04917) z:-138.8275 in the last second (0.09999847)
+02.08.2017 15:06:02: Не обработано: S.mickityuck moved x:-536.1645 y:137.7502(+120.5491) z:-341.8874 in the last second (0.1000061)
+02.08.2017 15:06:36: Не обработано: LEXA moved x:905.2823 y:111.4253(+36.30306) z:-138.8275 in the last second (0.09999847)
+02.08.2017 15:06:40: Не обработано: JasonVH moved x:905.6954 y:111.4253(+21.77374) z:-136.5952 in the last second (0.09999847)
+02.08.2017 15:08:28: Не обработано: PrivateMessages >> Sorry, you haven't received a message!
+02.08.2017 15:08:32: Не обработано: PrivateMessages >> Sorry, you haven't received a message!
+02.08.2017 15:09:43: Не обработано: JasonVH moved x:905.6954 y:111.4253(+19.96214) z:-136.5952 in the last second (0.09999847)
+02.08.2017 15:09:44: Сохранение сервера
+02.08.2017 15:13:56: Не обработано: JasonVH moved x:905.6954 y:111.4253(+52.40712) z:-136.5952 in the last second (0.09999847)
+02.08.2017 15:17:29: Не обработано: JasonVH moved x:905.6954 y:111.5633(+33.63549) z:-136.5952 in the last second (0.2379227)
+02.08.2017 15:17:50: Не обработано: LEXA moved x:905.2823 y:111.4252(+35.18192) z:-138.8275 in the last second (0.09985352)
+02.08.2017 15:18:24: Не обработано: tahret979 [tahret979] was mauled by a zombie!
+02.08.2017 15:19:24: Не обработано: LEXA moved x:905.2823 y:111.4253(+38.61526) z:-138.8275 in the last second (0.09999847)
+02.08.2017 15:20:18: Не обработано: JasonVH moved x:905.6954 y:111.5633(+37.81561) z:-136.5952 in the last second (0.2379227)
+02.08.2017 15:21:04: Не обработано: KirillDoronin [kirilldoronin88] was mauled by a zombie!
+02.08.2017 15:21:06: Не обработано: KirillDoronin moved x:-744.4502 y:58.56762(+20.0903) z:127.2084 in the last second (0.9748459)
+02.08.2017 15:24:45: Не обработано: Pinkie Pie [Sunset Shimmer] was mauled by a zombie!
+02.08.2017 15:25:00: Не обработано: JasonVH moved x:905.6954 y:111.4253(+19.25639) z:-136.5952 in the last second (0.09999847)
+02.08.2017 15:31:22: Не обработано: Roma News [roman.sagitov.2017] killed themself.
+02.08.2017 15:33:35: Не обработано: JasonVH moved x:905.6954 y:111.5633(+73.08595) z:-136.5952 in the last second (0.2379227)
+02.08.2017 15:35:24: Не обработано: LEXA moved x:905.2823 y:111.4253(+61.22485) z:-138.8275 in the last second (0.09999847)
+02.08.2017 15:39:44: Сохранение сервера
+02.08.2017 15:52:17: Не обработано: JasonVH [SF EVIL] was mauled by a zombie!
+02.08.2017 15:53:05: Не обработано: tahret979 [tahret979] was mauled by a zombie!
+02.08.2017 15:53:34: Не обработано: tahret979 [tahret979] killed themself.
+02.08.2017 15:55:45: Не обработано: tahret979 [tahret979] was mauled by a zombie!
+02.08.2017 15:58:38: Не обработано: S.mickityuck moved x:-536.1645 y:137.7502(+102.969) z:-341.8874 in the last second (0.09999084)
+02.08.2017 16:00:17: Не обработано: KoT moved x:72.47559 y:67.22191(+28.74459) z:-652.1969 in the last second (0.6087494)
+02.08.2017 16:03:46: Не обработано: JasonVH moved x:905.6954 y:111.5633(+73.08595) z:-136.5952 in the last second (0.2379227)
+02.08.2017 16:03:52: Не обработано: LEXA moved x:905.2823 y:111.5633(+73.08595) z:-138.8275 in the last second (0.2379227)
+02.08.2017 16:04:27: Не обработано: S.mickityuck moved x:-536.1645 y:137.8881(+91.8175) z:-341.8874 in the last second (0.237915)
+02.08.2017 16:05:28: Не обработано: KoT [KoT] is calling a vote to kick Roma News [roman.sagitov.2017]
+02.08.2017 16:05:38: Не обработано: Vote failed!
+02.08.2017 16:06:01: Не обработано: S.mickityuck moved x:-536.1645 y:137.7502(+33.48251) z:-341.8874 in the last second (0.09999084)
+02.08.2017 16:06:09: Не обработано: NotMeAlone [NotMeAlone] was mauled by a zombie!
+02.08.2017 16:09:44: Сохранение сервера
+02.08.2017 16:10:45: Не обработано: S.mickityuck moved x:-703.405 y:77.75189(+39.02457) z:223.531 in the last second (0.1178589)
+02.08.2017 16:14:27: Не обработано: NotMeAlone [NotMeAlone] was mauled by a zombie!
+02.08.2017 16:24:33: Не обработано: S.mickityuck moved x:-527.9633 y:137.8881(+26.23974) z:-350.3056 in the last second (0.237915)
+02.08.2017 16:24:57: Не обработано: artem [x_artem_x03] bled to death!
+02.08.2017 16:31:41: Не обработано: S.mickityuck moved x:-527.9633 y:137.8881(+99.33755) z:-350.3056 in the last second (0.237915)
+02.08.2017 16:39:25: Не обработано: _KaniBall_ [_KaniBall_] bled to death!
+02.08.2017 16:39:44: Сохранение сервера
+02.08.2017 16:40:59: Не обработано: S.mickityuck moved x:-527.9633 y:137.8881(+99.41077) z:-350.3056 in the last second (0.237915)
+02.08.2017 16:43:20: Не обработано: dgataullin31 [dgataullin31] was mauled by a zombie!
+02.08.2017 16:43:50: Не обработано: S.mickityuck moved x:-531.0107 y:137.8881(+96.67094) z:-355.4424 in the last second (0.237915)
+02.08.2017 16:45:31: Не обработано: Pinkie Pie [Sunset Shimmer] was mauled by a zombie!
+02.08.2017 16:45:39: Не обработано: liampuo [liampuo] bled to death!
+02.08.2017 16:45:43: Не обработано: liampuo moved x:-744.4502 y:58.56762(+20.0903) z:127.2084 in the last second (0.9748459)
+02.08.2017 16:47:06: Не обработано: liampuo [liampuo] bled to death!
+02.08.2017 16:50:22: Не обработано: KoT [KoT] bled to death!
+02.08.2017 16:55:39: Не обработано: God'sEnvoy [God'sEnvoy°] was mauled by a zombie!
+02.08.2017 16:56:11: Не обработано: олк Ping: 85
+02.08.2017 16:57:51: Не обработано: Денис светлицон [Денис светлицон] was mauled by a zombie!
+02.08.2017 16:59:04: Не обработано: PrivateMessages >> Sorry, you haven't received a message!
+02.08.2017 16:59:09: Не обработано: PrivateMessages >> Sorry, you haven't received a message!
+02.08.2017 17:06:15: Не обработано: valden555 [valden555] bled to death!
+02.08.2017 17:07:03: Не обработано: S.mickityuck moved x:-531.0107 y:137.8881(+99.36848) z:-355.4424 in the last second (0.237915)
+02.08.2017 17:09:44: Сохранение сервера
+02.08.2017 17:17:06: Не обработано: KoT [KoT] is calling a vote to kick MrSilent [R.I.P Мать]
+02.08.2017 17:17:21: Не обработано: Vote failed!
+02.08.2017 17:18:29: Не обработано: PrivateMessages >> Sorry, you haven't received a message!
+02.08.2017 17:19:47: Не обработано: S.mickityuck moved x:-531.0107 y:137.8881(+99.16077) z:-355.4424 in the last second (0.237915)
+02.08.2017 17:21:05: Не обработано: местный волк [Akorutabec] was mauled by a zombie!
+02.08.2017 17:24:34: Не обработано: SP [BagaUzer] fractured to death!
+02.08.2017 17:25:04: Не обработано: SP moved x:911.9879 y:73.89375(+35.21638) z:-655.8463 in the last second (0.6399612)
+02.08.2017 17:26:42: Не обработано: welcome21534 [welcome21534] was mauled by a zombie!
+02.08.2017 17:29:11: Не обработано: 34 Character: welcome21534 Ping: 214
+02.08.2017 17:35:04: Не обработано: S.mickityuck moved x:-531.0107 y:137.7502(+83.33722) z:-355.4424 in the last second (0.1000061)
+02.08.2017 17:37:58: Не обработано: S.mickityuck moved x:-531.0107 y:137.8881(+99.41077) z:-355.4424 in the last second (0.237915)
+02.08.2017 17:39:44: Сохранение сервера
+02.08.2017 17:43:59: Не обработано: S.mickityuck moved x:-531.0107 y:137.8881(+99.16077) z:-355.4424 in the last second (0.237915)
+02.08.2017 17:44:26: Не обработано: SP moved x:-532.8917 y:142.0381(+103.3108) z:-346.9547 in the last second (0.5999908)
+02.08.2017 17:45:02: Не обработано: tahret979 moved x:-541.1201 y:142.0381(+103.2608) z:-350.7372 in the last second (0.5999908)
+02.08.2017 17:46:16: Не обработано: S.mickityuck moved x:-531.0107 y:137.7502(+15.068) z:-355.4424 in the last second (0.09999084)
+02.08.2017 17:48:56: Не обработано: _KaniBall_ moved x:-27.39055 y:66.51733(+28.04001) z:944.8683 in the last second (0.2379227)
+02.08.2017 17:49:37: Не обработано: Кот_Кашарович [Кот Кошарович] was infected to death!
+02.08.2017 17:49:42: Не обработано: Кот_Кашарович moved x:-720.9009 y:59.51276(+17.20597) z:150.1289 in the last second (1.003479)
+02.08.2017 17:50:57: Не обработано: R.A.A [R.A.A] was mauled by a zombie!
+02.08.2017 17:51:35: Не обработано: S.mickityuck moved x:-531.0107 y:137.8881(+99.16075) z:-355.4424 in the last second (0.237915)
+02.08.2017 17:51:48: Не обработано: _KaniBall_ [_KaniBall_] killed themself.
+02.08.2017 17:51:57: Не обработано: _KaniBall_ moved x:-27.39055 y:66.51733(+28.04001) z:944.8683 in the last second (0.2379227)
+02.08.2017 17:52:59: Не обработано: R.A.A moved x:-535.8913 y:142.0381(+103.5608) z:-349.1068 in the last second (0.5999908)
+02.08.2017 17:54:49: Не обработано: God'sEnvoy moved x:-825.0502 y:58.46289(+19.98557) z:-275.1499 in the last second (1)
+02.08.2017 17:55:40: Не обработано: tahret979 [tahret979] was mauled by a zombie!
+02.08.2017 17:55:47: Не обработано: NaGiBhCiK [NaGiBhCiK] was mauled by a zombie!
+02.08.2017 17:56:19: Не обработано: Riad [Это не Я] was mauled by a zombie!
+02.08.2017 17:56:31: Не обработано: S.mickityuck moved x:-531.0107 y:137.8881(+96.4269) z:-355.4424 in the last second (0.237915)
+02.08.2017 17:56:38: Не обработано: tahret979 moved x:-406.9646 y:54.16771(+17.80931) z:-126.3665 in the last second (0.2379189)
+02.08.2017 17:59:28: Не обработано: NaGiBhCiK [NaGiBhCiK] was mauled by a zombie!
+02.08.2017 17:59:31: Не обработано: GhoostKey [becker.dmitry] was mauled by a zombie!
+02.08.2017 18:00:31: Не обработано: Ilya11242 [Ilya11242] was mauled by a zombie!
+02.08.2017 18:01:07: Не обработано: KoT [KoT] starved to death!
+02.08.2017 18:01:52: Не обработано: R.A.A [R.A.A] was mauled by a zombie!
+02.08.2017 18:02:01: Не обработано: KoT moved x:-32.97046 y:66.41732(+27.73997) z:950.2654 in the last second (0.5999985)
+02.08.2017 18:03:37: Не обработано: zolotovlenya был исцелён
+02.08.2017 18:03:37: Не обработано: kirito LVL.14 был исцелён
+02.08.2017 18:03:37: Не обработано: God'sEnvoy был исцелён
+02.08.2017 18:03:37: Не обработано: Hyper Beast был исцелён
+02.08.2017 18:03:37: Не обработано: valden555 был исцелён
+02.08.2017 18:03:37: Не обработано: Vlad Nagib был исцелён
+02.08.2017 18:03:37: Не обработано: Кот_Кашарович был исцелён
+02.08.2017 18:03:37: Не обработано: tahret979 был исцелён
+02.08.2017 18:03:37: Не обработано: я крутой 28895551037 был исцелён
+02.08.2017 18:03:37: Не обработано: KoT был исцелён
+02.08.2017 18:03:37: Не обработано: MrSilent был исцелён
+02.08.2017 18:03:38: Не обработано: _KaniBall_ был исцелён
+02.08.2017 18:03:38: Не обработано: GhoostKey был исцелён
+02.08.2017 18:03:38: Не обработано: dantolomeo21 был исцелён
+02.08.2017 18:03:38: Не обработано: Jone был исцелён
+02.08.2017 18:05:45: Не обработано: Vlad Nagib [vladimirkulic2016] bled to death!
+02.08.2017 18:06:28: Не обработано: Vlad Nagib [vladimirkulic2016] killed themself.
+02.08.2017 18:08:29: Не обработано: liampuo [liampuo] was mauled by a zombie!
+02.08.2017 18:08:31: Не обработано: liampuo moved x:-720.9009 y:59.51276(+23.08975) z:150.1289 in the last second (1.003479)
+02.08.2017 18:09:44: Сохранение сервера
+02.08.2017 18:14:13: Не обработано: Александр крылов [mr.alex226] was mauled by a zombie!
+02.08.2017 18:15:25: Не обработано: GAMER [GAMER] was mauled by a zombie!
+02.08.2017 18:19:24: Не обработано: The Boi Alfi [MADSMADSEN] was mauled by a zombie!
+02.08.2017 18:20:01: Не обработано: етлицон Ping: 76
+02.08.2017 18:22:28: Не обработано: Александр крылов [mr.alex226] bled to death!
+02.08.2017 18:22:43: Не обработано: The Boi Alfi [MADSMADSEN] bled to death!
+02.08.2017 18:23:16: Не обработано: Фин [крекер] was mauled by a zombie!
+02.08.2017 18:24:07: Не обработано: Александр крылов [mr.alex226] bled to death!
+02.08.2017 18:24:26: Не обработано: Фин [крекер] was mauled by a zombie!
+02.08.2017 18:24:46: Не обработано: The Boi Alfi [MADSMADSEN] bled to death!
+02.08.2017 18:26:03: Не обработано: tahret979 moved x:-406.9646 y:54.16771(+15.42179) z:-126.3665 in the last second (0.2379189)
+02.08.2017 18:26:38: Не обработано: GAMER moved x:-405.2295 y:54.06771(+15.32179) z:-124.5397 in the last second (0.5999985)
+02.08.2017 18:29:39: Не обработано: SP [BagaUzer] was mauled by a zombie!
+02.08.2017 18:30:59: Не обработано: liampuo [liampuo] was mauled by a zombie!
+02.08.2017 18:31:49: Не обработано: The Boi Alfi [MADSMADSEN] bled to death!
+02.08.2017 18:32:53: Не обработано: liampuo [liampuo] killed themself.
+02.08.2017 18:32:55: Не обработано: liampuo moved x:-744.4502 y:58.56762(+30.68363) z:127.2084 in the last second (0.9748459)
+02.08.2017 18:33:04: Не обработано: The Boi Alfi [MADSMADSEN] bled to death!
+02.08.2017 18:34:13: Не обработано: liampuo [liampuo] killed themself.
+02.08.2017 18:35:55: Не обработано: 1366:TruncatedWrongValueForField
+02.08.2017 18:35:58: Не обработано:   at MySql.Data.MySqlClient.MySqlStream.ReadPacket () [0x00000] in <filename unknown>:0 
+02.08.2017 18:35:58: Не обработано:   at MySql.Data.MySqlClient.NativeDriver.GetResult (System.Int32& affectedRow, System.Int64& insertedId) [0x00000] in <filename unknown>:0 
+02.08.2017 18:37:24: Не обработано: GAMER [GAMER] was mauled by a zombie!
+02.08.2017 18:39:44: Сохранение сервера
+02.08.2017 18:50:26: Не обработано: Денис светлицон [Денис светлицон] killed themself.
+02.08.2017 18:51:32: Не обработано: Кот_Кашарович [Кот Кошарович] killed themself.
+02.08.2017 18:53:46: Не обработано: KoT [KoT] killed themself.
+02.08.2017 18:53:56: Не обработано: KoT moved x:-28.94091 y:66.51733(+35.26386) z:945.0624 in the last second (0.2379227)
+02.08.2017 18:54:39: Не обработано: GAMER moved x:-279.1552 y:55.1104(+16.63308) z:102.8226 in the last second (0.5999985)
+02.08.2017 18:56:22: Не обработано: _KaniBall_ [_KaniBall_] killed themself.
+02.08.2017 18:56:34: Не обработано: _KaniBall_ moved x:-29.45947 y:66.51733(+40.03571) z:942.9872 in the last second (0.2379227)
+02.08.2017 18:59:16: Не обработано: tahret979 moved x:-406.9646 y:54.16771(+15.49537) z:-126.3665 in the last second (0.2379189)
+02.08.2017 19:03:26: Не обработано: _KaniBall_ moved x:-29.45947 y:66.3794(+21.76522) z:942.9872 in the last second (0.09999847)
+02.08.2017 19:06:48: Не обработано: 1366:TruncatedWrongValueForField
+02.08.2017 19:06:48: Не обработано:   at MySql.Data.MySqlClient.MySqlStream.ReadPacket () [0x00000] in <filename unknown>:0 
+02.08.2017 19:06:48: Не обработано:   at MySql.Data.MySqlClient.NativeDriver.GetResult (System.Int32& affectedRow, System.Int64& insertedId) [0x00000] in <filename unknown>:0 
+02.08.2017 19:07:47: Не обработано: (A)Shot [ScreaM] was mauled by a zombie!
+02.08.2017 19:09:44: Сохранение сервера
+02.08.2017 19:10:29: Не обработано: =AVITUS= [=AVITUS=] was mauled by a zombie!
+02.08.2017 19:15:58: Не обработано: =AVITUS= [=AVITUS=] was mauled by a zombie!
+02.08.2017 19:25:34: Не обработано: KoT moved x:-28.94091 y:66.51733(+27.74369) z:945.0624 in the last second (0.2379227)
+02.08.2017 19:28:33: Не обработано: (A)Shot [ScreaM] fractured to death!
+02.08.2017 19:36:29: Не обработано: digitallorrd [digitallorrd] was mauled by a zombie!
+02.08.2017 19:39:44: Сохранение сервера
+02.08.2017 19:41:15: Не обработано: KoT moved x:-28.94091 y:66.51733(+27.01299) z:945.0624 in the last second (0.2379227)
+02.08.2017 19:48:16: Не обработано: (A)Shot [ScreaM] was mauled by a zombie!
+02.08.2017 19:48:43: Не обработано: Yuri_play08 [Юра_play08_/SHaZAm/] was mauled by a zombie!
+02.08.2017 19:50:00: Не обработано: PrivateMessages >> Sorry, you haven't received a message!
+02.08.2017 19:58:34: Не обработано: GoldenEgg [Duck] was mauled by a zombie!
+02.08.2017 19:58:39: Не обработано: GoldenEgg moved x:-744.4502 y:58.56762(+19.81081) z:127.2084 in the last second (0.9748459)
+02.08.2017 19:58:58: Не обработано: ralitpant [Mr.Kitty] was mauled by a zombie!
+02.08.2017 20:02:44: Не обработано: tahret979 [tahret979] was mauled by a zombie!
+02.08.2017 20:02:52: Не обработано: ralitpant [Mr.Kitty] was mauled by a zombie!
+02.08.2017 20:02:59: Не обработано: KoT moved x:-28.94091 y:66.51733(+28.04001) z:945.0624 in the last second (0.2379227)
+02.08.2017 20:03:26: Не обработано: KoT [KoT] bled to death!
+02.08.2017 20:03:31: Не обработано: _KaniBall_ moved x:-29.45947 y:66.51733(+28.04001) z:942.9872 in the last second (0.2379227)
+02.08.2017 20:04:50: Не обработано: ralitpant [Mr.Kitty] was mauled by a zombie!
+02.08.2017 20:04:52: Не обработано: KoT moved x:-28.94091 y:66.51733(+38.71436) z:945.0624 in the last second (0.2379227)
+02.08.2017 20:07:33: Не обработано: _KaniBall_ moved x:-78.92791 y:49.73106(+21.86302) z:598.243 in the last second (0.6016617)
+02.08.2017 20:08:40: Не обработано: _KaniBall_ moved x:-29.45947 y:66.51733(+33.61023) z:942.9872 in the last second (0.2379227)
+02.08.2017 20:09:23: Не обработано: KoT moved x:-28.94091 y:66.51733(+28.08369) z:945.0624 in the last second (0.2379227)
+02.08.2017 20:09:44: Сохранение сервера
+02.08.2017 20:14:12: Не обработано: ralitpant [Mr.Kitty] was mauled by a zombie!
+02.08.2017 20:15:43: Не обработано: Клин [Pitbull] was mauled by a zombie!
+02.08.2017 20:15:50: Не обработано: ralitpant [Mr.Kitty] bled to death!
+02.08.2017 20:15:53: Не обработано: ralitpant moved x:-744.4502 y:58.56762(+19.84155) z:127.2084 in the last second (0.9748459)
+02.08.2017 20:16:08: Не обработано: _KaniBall_ [_KaniBall_] killed themself.
+02.08.2017 20:16:21: Не обработано: _KaniBall_ moved x:-29.45947 y:66.51733(+26.83009) z:942.9872 in the last second (0.2379227)
+02.08.2017 20:20:01: Не обработано: ralitpant [Mr.Kitty] was mauled by a zombie!
+02.08.2017 20:22:42: Не обработано: ralitpant moved x:885.5582 y:92.91158(+65.05258) z:433.8008 in the last second (0.5999985)
+02.08.2017 20:23:04: Не обработано: FLAX [FLAX] dehydrated to death!
+02.08.2017 20:25:30: Не обработано: FLAX [FLAX] bled to death!
+02.08.2017 20:25:40: Не обработано: FLAX moved x:-744.4502 y:58.56762(+20.45296) z:127.2084 in the last second (0.9748459)
+02.08.2017 20:28:37: Не обработано: FLAX [FLAX] was mauled by a zombie!
+02.08.2017 20:32:11: Не обработано: KoT [KoT] killed themself.
+02.08.2017 20:32:19: Не обработано: KoT moved x:-28.94091 y:66.51733(+28.04001) z:945.0624 in the last second (0.2379227)
+02.08.2017 20:32:21: Не обработано: Клин [Pitbull] is calling a vote to kick 1-_КоРоБ_-1 [1-_КоРоБ_-1]
+02.08.2017 20:32:36: Не обработано: Vote failed!
+02.08.2017 20:34:35: Не обработано: maestro498magicdrop.ru [maestro498magicdrop.ru] was mauled by a zombie!
+02.08.2017 20:36:20: Не обработано: 1-_КоРоБ_-1 [1-_КоРоБ_-1] bled to death!
+02.08.2017 20:37:38: Не обработано: gleb756skinaction.ru [gleb756] bled to death!
+02.08.2017 20:39:44: Сохранение сервера
+02.08.2017 20:41:51: Не обработано: Legor177 [Legor177] suffocated to death!
+02.08.2017 20:51:53: Не обработано: gleb756skinaction.ru moved x:814.9943 y:60.43531(+23.83101) z:-117.9432 in the last second (0.4349442)
+02.08.2017 20:56:14: Не обработано: _KaniBall_ [_KaniBall_] was mauled by a zombie!
+02.08.2017 21:01:44: Не обработано: Owl moved x:-723.0267 y:60.20313(+23.73689) z:447.7038 in the last second (0.4349442)
+02.08.2017 21:02:30: Не обработано: maestro498magicdrop.ru [maestro498magicdrop.ru] was mauled by a zombie!
+02.08.2017 21:02:33: Не обработано: maestro498magicdrop.ru moved x:-744.4502 y:58.56762(+19.49529) z:127.2084 in the last second (0.9748459)
+02.08.2017 21:03:19: Не обработано: gleb756skinaction.ru [gleb756] bled to death!
+02.08.2017 21:03:19: Не обработано: _KaniBall_ moved x:-29.45947 y:66.51733(+27.84499) z:942.9872 in the last second (0.2379227)
+02.08.2017 21:03:24: Не обработано: gleb756skinaction.ru moved x:-720.9009 y:59.51276(+20.67572) z:150.1289 in the last second (1.003479)
+02.08.2017 21:03:51: Не обработано: 1-_КоРоБ_-1 был исцелён
+02.08.2017 21:03:51: Не обработано: gleb756skinaction.ru был исцелён
+02.08.2017 21:03:51: Не обработано: maestro498magicdrop.ru был исцелён
+02.08.2017 21:03:51: Не обработано: FLAX был исцелён
+02.08.2017 21:03:51: Не обработано: Клин был исцелён
+02.08.2017 21:03:51: Не обработано: Dimacvit1996 был исцелён
+02.08.2017 21:03:51: Не обработано: Owl был исцелён
+02.08.2017 21:03:51: Не обработано: sanya Top 228 был исцелён
+02.08.2017 21:03:52: Не обработано: _KaniBall_ был исцелён
+02.08.2017 21:04:41: Не обработано: KoT moved x:-28.94091 y:66.51733(+27.84499) z:945.0624 in the last second (0.2379227)
+02.08.2017 21:05:53: Не обработано: _KaniBall_ moved x:-29.45947 y:66.51733(+28.78931) z:942.9872 in the last second (0.2379227)
+02.08.2017 21:06:03: Не обработано: Клин [Pitbull] bled to death!
+02.08.2017 21:08:09: Не обработано: maestro498magicdrop.ru [maestro498magicdrop.ru] bled to death!
+02.08.2017 21:09:44: Сохранение сервера
+02.08.2017 21:09:55: Не обработано: maestro498magicdrop.ru [maestro498magicdrop.ru] was mauled by a zombie!
+02.08.2017 21:11:54: Не обработано: Owl moved x:-793.0162 y:79.48695(+40.80823) z:-559.4154 in the last second (0.1123199)
+02.08.2017 21:12:01: Не обработано: Dimacvit1996 moved x:-788.6837 y:79.10247(+37.7155) z:-560.4442 in the last second (0.1056442)
+02.08.2017 21:12:19: Не обработано: FLAX [FLAX] bled to death!
+02.08.2017 21:19:40: Не обработано: maestro498magicdrop.ru [maestro498magicdrop.ru] was mauled by a zombie!
+02.08.2017 21:29:28: Не обработано: Owl moved x:814.4417 y:72.8595(+32.81682) z:-555.4818 in the last second (1)
+02.08.2017 21:34:02: Не обработано: maestro498magicdrop.ru [maestro498magicdrop.ru] was mauled by a zombie!
+02.08.2017 21:34:27: Не обработано: gleb756skinaction.ru [gleb756] bled to death!
+02.08.2017 21:36:51: Не обработано: valden555 moved x:927.6222 y:85.12268(+46.5829) z:424.8412 in the last second (1)
+02.08.2017 21:39:44: Сохранение сервера
+02.08.2017 21:46:10: Не обработано: gleb756skinaction.ru [gleb756] was mauled by a zombie!
+02.08.2017 21:46:15: Не обработано: gleb756skinaction.ru moved x:-744.4502 y:58.56762(+20.0903) z:127.2084 in the last second (0.9748459)
+02.08.2017 21:46:23: Не обработано: Опасный Ральф [Опасный Ральф] bled to death!
+02.08.2017 21:46:35: Не обработано: dler221 [dler221] bled to death!
+02.08.2017 21:47:01: Не обработано: maestro498magicdrop.ru [maestro498magicdrop.ru] was mauled by a zombie!
+02.08.2017 21:50:42: Не обработано: FLAX [FLAX] was mauled by a zombie!
+02.08.2017 21:51:21: Не обработано: FLAX [FLAX] was mauled by a zombie!
+02.08.2017 21:51:24: Не обработано: 1-_КоРоБ_-1 [1-_КоРоБ_-1] bled to death!
+02.08.2017 21:51:25: Не обработано: FLAX moved x:-720.9009 y:59.51276(+21.03544) z:150.1289 in the last second (1.003479)
+02.08.2017 21:54:30: Не обработано: Опасный Ральф [Опасный Ральф] was mauled by a zombie!
+02.08.2017 21:55:14: Не обработано: JasonVH moved x:905.6954 y:111.5633(+18.9156) z:-136.5952 in the last second (0.2379227)
+02.08.2017 21:56:19: Не обработано: JasonVH moved x:905.6954 y:111.4253(+43.94191) z:-136.5952 in the last second (0.09999847)
+02.08.2017 21:59:46: Не обработано: Тюменский [Poebat'] was mauled by a zombie!
+02.08.2017 21:59:49: Не обработано: VLADIMIR [VLADIMIR] bled to death!
+02.08.2017 22:01:05: Не обработано: dler221 moved x:477.1749 y:55.49469(+17.01737) z:-572.981 in the last second (0.5999985)
+02.08.2017 22:04:50: Не обработано: JasonVH moved x:905.6954 y:111.4253(+65.28317) z:-136.5952 in the last second (0.09999847)
+02.08.2017 22:06:01: Не обработано: JasonVH moved x:905.6954 y:111.5633(+51.00846) z:-136.5952 in the last second (0.2379227)
+02.08.2017 22:08:18: Не обработано: Morgan [Morgan] was mauled by a zombie!
+02.08.2017 22:08:43: Не обработано: JasonVH moved x:905.6954 y:111.4253(+72.6517) z:-136.5952 in the last second (0.09999847)
+02.08.2017 22:08:56: Не обработано: dler221 [dler221] bled to death!
+02.08.2017 22:09:02: Не обработано: dler221 moved x:-720.9009 y:59.51276(+20.79663) z:150.1289 in the last second (1.003479)
+02.08.2017 22:09:44: Сохранение сервера
+02.08.2017 22:10:37: Не обработано: Owl moved x:-859.5252 y:80.44016(+41.76281) z:-364.2849 in the last second (0.1066589)
+02.08.2017 22:15:11: Не обработано: Jesait [AK.TheusBR] was mauled by a zombie!
+02.08.2017 22:15:21: Не обработано: Dimacvit1996 moved x:-803.8913 y:77.21631(+38.09565) z:-533.7845 in the last second (1)
+02.08.2017 22:15:25: Не обработано: соси хуй [соси хуй] was mauled by a zombie!
+02.08.2017 22:18:17: Не обработано: ldemeyer2013 [ldemeyer2013] was mauled by a zombie!
+02.08.2017 22:18:17: Не обработано: Vlasov [Vlasov] was mauled by a zombie!
+02.08.2017 22:23:49: Не обработано: Owl moved x:917.8051 y:84.9353(+46.25798) z:921.4769 in the last second (1)
+02.08.2017 22:25:37: Не обработано: ldemeyer2013 [ldemeyer2013] was mauled by a zombie!
+02.08.2017 22:25:40: Не обработано: ldemeyer2013 moved x:-744.4502 y:58.56762(+20.0903) z:127.2084 in the last second (0.9748459)
+02.08.2017 22:26:32: Не обработано: Jostin [Jostin] bled to death!
+02.08.2017 22:39:44: Сохранение сервера
+02.08.2017 22:47:35: Не обработано: S.mickityuck moved x:-531.0107 y:137.8881(+96.4269) z:-355.4424 in the last second (0.237915)
+02.08.2017 22:50:56: Не обработано: S.mickityuck moved x:-819.8785 y:58.3385(+19.63679) z:-212.8026 in the last second (1)
+02.08.2017 22:53:26: Не обработано: S.mickityuck moved x:-531.0107 y:137.8881(+96.4269) z:-355.4424 in the last second (0.237915)
+02.08.2017 22:59:15: Не обработано: S.mickityuck moved x:-531.0107 y:137.8881(+88.22881) z:-355.4424 in the last second (0.237915)
+02.08.2017 23:04:49: Не обработано: Опасный Ральф [Опасный Ральф] bled to death!
+02.08.2017 23:06:00: Не обработано: S.mickityuck moved x:-531.0107 y:137.8881(+96.4269) z:-355.4424 in the last second (0.237915)
+02.08.2017 23:06:16: Не обработано: dler221 [dler221] bled to death!
+02.08.2017 23:09:05: Не обработано: S.mickityuck moved x:-531.0107 y:137.8881(+96.4269) z:-355.4424 in the last second (0.237915)
+02.08.2017 23:09:44: Сохранение сервера
+02.08.2017 23:11:36: Не обработано: S.mickityuck moved x:-531.0107 y:137.8881(+84.25809) z:-355.4424 in the last second (0.237915)
+02.08.2017 23:13:34: Не обработано: Опасный Ральф [Опасный Ральф] was mauled by a zombie!
+02.08.2017 23:14:06: Не обработано: dler221 [dler221] bled to death!
+02.08.2017 23:15:31: Не обработано: S.mickityuck moved x:-802.5831 y:77.1697(+38.69238) z:222.0616 in the last second (0.10009)
+02.08.2017 23:16:47: Не обработано: S.mickityuck moved x:-824.892 y:95.96595(+19.04881) z:377.4979 in the last second (0.4349442)
+02.08.2017 23:17:02: Не обработано: dler221 [dler221] was mauled by a zombie!
+02.08.2017 23:17:05: Не обработано: dler221 moved x:-744.4502 y:58.56762(+19.73371) z:127.2084 in the last second (0.9748459)
+02.08.2017 23:19:04: Не обработано: dler221 [dler221] was mauled by a zombie!
+02.08.2017 23:20:00: Не обработано: Опасный Ральф [Опасный Ральф] was mauled by a zombie!
+02.08.2017 23:25:26: Не обработано: S.mickityuck moved x:-797.9315 y:77.78479(+43.3502) z:231.3923 in the last second (1)
+02.08.2017 23:37:49: Не обработано: TwinTurbo [TwinTurbo] fractured to death!
+02.08.2017 23:39:44: Сохранение сервера
+02.08.2017 23:39:57: Не обработано: Murka [¦Murka¦] was mauled by a zombie!
+02.08.2017 23:42:41: Не обработано: Murka [¦Murka¦] killed themself.
+02.08.2017 23:42:44: Не обработано: Murka moved x:-720.9009 y:59.51276(+20.83647) z:150.1289 in the last second (1.003479)
+02.08.2017 23:45:45: Не обработано: TwinTurbo moved x:-939.623 y:91.34387(+15.14823) z:-457.4203 in the last second (1)
+02.08.2017 23:48:40: Не обработано: maestro498magicdrop.ru moved x:-277.6351 y:54.72778(+28.08525) z:-381.1706 in the last second (0.1001663)
+02.08.2017 23:48:41: Не обработано: gleb756skinaction.ru moved x:-284.4637 y:54.72017(+15.97073) z:-381.827 in the last second (0.100174)
+02.08.2017 23:58:43: Не обработано: S.mickityuck moved x:-531.0107 y:137.8881(+96.23181) z:-355.4424 in the last second (0.237915)
+02.08.2017 23:58:48: Не обработано: Sarnavskiy.v moved x:-531.0107 y:138.25(+96.78883) z:-355.4424 in the last second (0.5998535)
+02.08.2017 23:58:58: Не обработано:  енот [енот гульбеков] killed themself.
+03.08.2017 0:02:14: Не обработано:  енот [енот гульбеков] was mauled by a zombie!
+03.08.2017 0:03:24: Не обработано: S.mickityuck moved x:-810.3927 y:77.21715(+38.53981) z:228.8703 in the last second (0.1000061)
+03.08.2017 0:03:27: Не обработано: Sarnavskiy.v moved x:-817.2231 y:77.81714(+39.33982) z:240.9852 in the last second (1)
+03.08.2017 0:05:49: Не обработано: S.mickityuck moved x:-531.0107 y:137.8881(+100.2617) z:-355.4424 in the last second (0.237915)
+03.08.2017 0:07:31: Не обработано: Sarnavskiy.v moved x:-69.93939 y:51.06592(+19.29174) z:588.577 in the last second (1)
+03.08.2017 0:09:44: Сохранение сервера
+03.08.2017 0:10:15: Не обработано: S.mickityuck moved x:-531.0107 y:137.8881(+99.21483) z:-355.4424 in the last second (0.237915)
+03.08.2017 0:18:32: Не обработано: S.mickityuck moved x:-531.0107 y:137.8881(+98.68076) z:-355.4424 in the last second (0.237915)
+03.08.2017 0:19:12: Не обработано: liampuo [liampuo] was mauled by a zombie!
+03.08.2017 0:19:23: Не обработано: liampuo [liampuo] killed themself.
+03.08.2017 0:19:33: Не обработано: liampuo [liampuo] killed themself.
+03.08.2017 0:19:40: Не обработано: liampuo [liampuo] killed themself.
+03.08.2017 0:19:46: Не обработано: liampuo [liampuo] killed themself.
+03.08.2017 0:19:55: Не обработано: liampuo [liampuo] killed themself.
+03.08.2017 0:20:00: Не обработано: liampuo [liampuo] killed themself.
+03.08.2017 0:20:04: Не обработано: liampuo [liampuo] killed themself.
+03.08.2017 0:23:41: Не обработано: Sarnavskiy.v moved x:-530.6677 y:137.8881(+99.21075) z:-351.7845 in the last second (0.237915)
+03.08.2017 0:24:00: Не обработано: S.mickityuck moved x:-531.0107 y:137.8881(+88.19328) z:-355.4424 in the last second (0.237915)
+03.08.2017 0:30:44: Не обработано: Sarnavskiy.v moved x:-530.6677 y:137.8881(+96.79138) z:-351.7845 in the last second (0.237915)
+03.08.2017 0:33:50: Не обработано: S.mickityuck moved x:-531.0107 y:137.8881(+99.41077) z:-355.4424 in the last second (0.237915)
+03.08.2017 0:38:17: Не обработано: Sarnavskiy.v moved x:-530.6677 y:137.8881(+99.16077) z:-351.7845 in the last second (0.237915)
+03.08.2017 0:39:37: Не обработано: S.mickityuck moved x:-531.0107 y:137.8881(+99.16077) z:-355.4424 in the last second (0.237915)
+03.08.2017 0:39:44: Сохранение сервера
+03.08.2017 0:43:16: Не обработано: Sarnavskiy.v moved x:-530.6677 y:137.8881(+99.41077) z:-351.7845 in the last second (0.237915)
+03.08.2017 0:52:59: Не обработано: S.mickityuck moved x:-531.0107 y:137.8881(+88.1373) z:-355.4424 in the last second (0.237915)
+03.08.2017 0:53:15: Не обработано: Sarnavskiy.v moved x:-530.6677 y:137.8881(+88.1373) z:-351.7845 in the last second (0.237915)
+03.08.2017 0:58:51: Не обработано: Sarnavskiy.v moved x:-530.6677 y:137.8881(+99.16077) z:-351.7845 in the last second (0.237915)
+03.08.2017 1:03:05: Не обработано: Sarnavskiy.v moved x:-530.6677 y:137.75(+111.1678) z:-351.7845 in the last second (0.09986877)
+03.08.2017 1:06:37: Не обработано: S.mickityuck moved x:-531.0107 y:137.8881(+99.41077) z:-355.4424 in the last second (0.237915)
+03.08.2017 1:09:44: Сохранение сервера
+03.08.2017 1:16:10: Не обработано: Sarnavskiy.v moved x:-530.6677 y:137.8881(+88.1373) z:-351.7845 in the last second (0.237915)
+03.08.2017 1:17:04: Не обработано: S.mickityuck moved x:-531.0107 y:137.8881(+88.1373) z:-355.4424 in the last second (0.237915)
+03.08.2017 1:17:22: Не обработано: PlayerID: 76561198310890097 Name: S.mickityuck Character: S.mickityuck Ping: 65
+03.08.2017 1:39:44: Сохранение сервера
+03.08.2017 2:09:44: Сохранение сервера
+03.08.2017 2:39:44: Сохранение сервера
+03.08.2017 3:09:44: Сохранение сервера
+03.08.2017 3:39:44: Сохранение сервера
+03.08.2017 4:06:46: Не обработано: Хм... Farmskins.com [Хм... Farmskins.com] was mauled by a zombie!
+03.08.2017 4:09:44: Сохранение сервера
+03.08.2017 4:39:44: Сохранение сервера
+03.08.2017 5:09:44: Сохранение сервера
+03.08.2017 5:10:45: Не обработано: Кот_Кашарович [Кот Кошарович] killed themself.
+03.08.2017 5:39:44: Сохранение сервера
+03.08.2017 5:46:13: Не обработано: mr.zona.2Ц005 [zona 228] was mauled by a zombie!
+03.08.2017 5:47:44: Не обработано: mr.zona.2Ц005 [zona 228] killed themself.
+03.08.2017 6:00:22: Не обработано: Кот_Кашарович был исцелён
+03.08.2017 6:09:44: Сохранение сервера
+03.08.2017 6:24:46: Не обработано: Кот_Кашарович [Кот Кошарович] was mauled by a zombie!
+03.08.2017 6:33:02: Не обработано: PlayerID: 76561198333974646 Name: Кот Кошарович Character: Кот_Кашарович Ping: 93
+03.08.2017 6:39:44: Сохранение сервера
+03.08.2017 7:03:58: Не обработано: Ilya11242 [Ilya11242] killed themself.
+03.08.2017 7:09:44: Сохранение сервера
+03.08.2017 7:15:58: Не обработано: Кот_Кашарович moved x:-192.4619 y:54.93739(+22.7734) z:-81.79507 in the last second (0.4965897)
+03.08.2017 7:34:51: Не обработано: God'sEnvoy moved x:-281.8147 y:54.90839(+16.11546) z:-259.3591 in the last second (0.09999847)
+03.08.2017 7:39:44: Сохранение сервера
+03.08.2017 7:50:17: Не обработано: God'sEnvoy [God'sEnvoy°] bled to death!
+03.08.2017 7:52:55: Не обработано: Hyper Beast moved x:-635.5397 y:59.177(+20.69968) z:-148.7057 in the last second (1)
+03.08.2017 7:55:55: Не обработано: God'sEnvoy [God'sEnvoy°] was crushed by a zombie!
+03.08.2017 7:57:06: Не обработано: Hyper Beast [Hyper Beast] was mauled by a zombie!
+03.08.2017 7:57:40: Не обработано: Hyper Beast [Hyper Beast] was mauled by a zombie!
+03.08.2017 7:57:47: Не обработано: God'sEnvoy [God'sEnvoy°] was mauled by a zombie!
+03.08.2017 8:09:44: Сохранение сервера
+03.08.2017 8:22:20: Не обработано: consolepluspc [consolepluspc] was mauled by a zombie!
+03.08.2017 8:23:30: Не обработано: consolepluspc [consolepluspc] was mauled by a zombie!
+03.08.2017 8:25:24: Не обработано: consolepluspc [consolepluspc] was mauled by a zombie!
+03.08.2017 8:39:44: Сохранение сервера
+03.08.2017 8:42:13: Не обработано: Hyper Beast moved x:779.7666 y:52.48225(+16.85714) z:-73.90398 in the last second (0.7174835)
+03.08.2017 9:00:21: Не обработано: Hyper Beast был исцелён
+03.08.2017 9:00:21: Не обработано: God'sEnvoy был исцелён
+03.08.2017 9:03:25: Не обработано: tahret979 [tahret979] was mauled by a zombie!
+03.08.2017 9:04:13: Не обработано: God'sEnvoy moved x:832.9349 y:68.83081(+29.88527) z:783.3852 in the last second (1)
+03.08.2017 9:04:14: Не обработано: Hyper Beast moved x:846.2115 y:68.74646(+28.68877) z:788.1982 in the last second (0.7475586)
+03.08.2017 9:06:25: Не обработано: tahret979 [tahret979] was mauled by a zombie!
+03.08.2017 9:06:52: Не обработано: killer101 [killer101] was mauled by a zombie!
+03.08.2017 9:08:08: Не обработано: tahret979 [tahret979] was mauled by a zombie!
+03.08.2017 9:09:44: Сохранение сервера
+03.08.2017 9:11:29: Не обработано: tahret979 [tahret979] was mauled by a zombie!
+03.08.2017 9:19:17: Не обработано: tahret979 [tahret979] was mauled by a zombie!
+03.08.2017 9:20:22: Не обработано: tahret979 moved x:623.071 y:63.90226(+25.58968) z:618.8534 in the last second (0.5999985)
+03.08.2017 9:23:05: Не обработано: tahret979 [tahret979] was mauled by a zombie!
+03.08.2017 9:36:43: Не обработано: VladPinzin [BOT Anton] was mauled by a zombie!
+03.08.2017 9:36:55: Не обработано: God'sEnvoy moved x:465.0448 y:43.265(+16.80607) z:660.9256 in the last second (0.1000023)
+03.08.2017 9:39:44: Сохранение сервера
+03.08.2017 9:42:16: Не обработано: God'sEnvoy moved x:465.0448 y:43.40291(+15.20784) z:660.9256 in the last second (0.2379189)
+03.08.2017 9:43:26: Не обработано: animys228 [I_souts_I] was mauled by a zombie!
+03.08.2017 9:43:51: Не обработано: tahret979 [tahret979] was mauled by a zombie!
+03.08.2017 9:47:31: Не обработано: KoT moved x:-28.94091 y:66.51733(+27.81697) z:945.0624 in the last second (0.2379227)
+03.08.2017 9:47:42: Не обработано: KoT [KoT] bled to death!
+03.08.2017 9:47:59: Не обработано: _KaniBall_ moved x:-29.45947 y:66.51733(+27.81703) z:942.9872 in the last second (0.2379227)
+03.08.2017 9:48:26: Не обработано: KoT moved x:-29.45947 y:66.8794(+28.20202) z:942.9872 in the last second (0.5999985)
+03.08.2017 9:48:48: Не обработано: tahret979 [tahret979] was mauled by a zombie!
+03.08.2017 9:56:32: Не обработано: tahret979 [tahret979] was mauled by a zombie!
+03.08.2017 9:57:36: Не обработано: tahret979 moved x:529.5392 y:60.08983(+30.04195) z:646.1666 in the last second (0.6047211)
+03.08.2017 10:03:21: Не обработано: Kondrat [Kondrat] was mauled by a zombie!
+03.08.2017 10:03:24: Не обработано: Kondrat moved x:-744.4502 y:58.56762(+19.84155) z:127.2084 in the last second (0.9748459)
+03.08.2017 10:08:52: Не обработано: tahret979 [tahret979] was mauled by a zombie!
+03.08.2017 10:09:44: Сохранение сервера
+03.08.2017 10:10:05: Не обработано: tahret979 moved x:-846.8228 y:84.45987(+45.98255) z:-442.5111 in the last second (0.6019592)
+03.08.2017 10:10:43: Не обработано: Hyper Beast moved x:465.7973 y:43.30291(+18.97808) z:667.3079 in the last second (0.5999985)
+03.08.2017 10:21:31: Не обработано: Failed to convert alice into an ItemID.
+03.08.2017 10:22:32: Не обработано: maestro498magicdrop.ru [maestro498magicdrop.ru] was dissolved by a zombie!
+03.08.2017 10:22:36: Не обработано: maestro498magicdrop.ru moved x:-720.9009 y:59.51276(+21.03611) z:150.1289 in the last second (1.003479)
+03.08.2017 10:26:16: Не обработано: Tester moved x:-407.2468 y:54.52979(+15.82236) z:-125.4588 in the last second (0.5999985)
+03.08.2017 10:29:40: Не обработано: animys228 [I_souts_I] was mauled by a zombie!
+03.08.2017 10:31:47: Не обработано: Tester moved x:-404.3105 y:53.7415(+29.41935) z:-125.9527 in the last second (0.2389259)
+03.08.2017 10:34:48: Не обработано: gleb756skinaction.ru [gleb756] was mauled by a zombie!
+03.08.2017 10:39:44: Сохранение сервера
+03.08.2017 10:42:37: Не обработано: Rubeek [Roуa1 Chииse] bled to death!
+03.08.2017 10:49:33: Не обработано: Timsait [Timsait] was mauled by a zombie!
+03.08.2017 10:50:55: Не обработано: Pinkie Pie [Sunset Shimmer] bled to death!
+03.08.2017 10:51:05: Не обработано: Pinkie Pie moved x:-720.9009 y:59.51276(+21.03544) z:150.1289 in the last second (1.003479)
+03.08.2017 10:51:09: Не обработано: maestro498magicdrop.ru [maestro498magicdrop.ru] was mauled by a zombie!
+03.08.2017 10:51:12: Не обработано: gleb756skinaction.ru [gleb756] was mauled by a zombie!
+03.08.2017 10:52:23: Не обработано: Pinkie Pie [Sunset Shimmer] killed themself.
+03.08.2017 10:54:20: Не обработано: Pinkie Pie [Sunset Shimmer] killed themself.
+03.08.2017 10:54:22: Не обработано: Timsait [Timsait] was mauled by a zombie!
+03.08.2017 10:58:01: Не обработано: KoT moved x:-28.94091 y:66.51733(+28.04001) z:945.0624 in the last second (0.2379227)
+03.08.2017 10:58:35: Не обработано: _KaniBall_ moved x:-29.45947 y:66.51733(+28.04001) z:942.9872 in the last second (0.2379227)
+03.08.2017 10:59:01: Не обработано: Tester moved x:-586.2075 y:57.34815(+18.6708) z:-192.2845 in the last second (0.2379189)
+03.08.2017 11:00:08: Не обработано: Ilya11242 [Ilya11242] dehydrated to death!
+03.08.2017 11:01:40: Не обработано: KoT [KoT] killed themself.
+03.08.2017 11:01:48: Не обработано: KoT moved x:-28.94091 y:66.51733(+28.04001) z:945.0624 in the last second (0.2379227)
+03.08.2017 11:04:22: Не обработано: alexandr.d.belkin [AlexDeRis_007] was mauled by a zombie!
+03.08.2017 11:05:51: Не обработано: tahret979 [tahret979] killed themself.
+03.08.2017 11:09:04: Не обработано: semplay133 [semplay133] was mauled by a zombie!
+03.08.2017 11:09:44: Сохранение сервера
+03.08.2017 11:13:48: Не обработано: mrMarble [?U?a?????? ???] was mauled by a zombie!
+03.08.2017 11:13:52: Не обработано: mrMarble moved x:-720.9009 y:59.51276(+20.8124) z:150.1289 in the last second (1.003479)
+03.08.2017 11:14:07: Не обработано: alexandr.d.belkin moved x:-275.3516 y:54.09216(+15.91554) z:-363.5105 in the last second (0.100811)
+03.08.2017 11:23:26: Не обработано: Pinkie Pie [Sunset Shimmer] was mauled by a zombie!
+03.08.2017 11:25:59: Не обработано: Tester moved x:-586.2075 y:57.34815(+18.87083) z:-192.2845 in the last second (0.2379189)
+03.08.2017 11:26:03: Не обработано: tahret979 [tahret979] was mauled by a zombie!
+03.08.2017 11:26:21: Не обработано: Кирилл Чаганов [kchaganov] was mauled by a zombie!
+03.08.2017 11:27:46: Не обработано: semplay133 [semplay133] bled to death!
+03.08.2017 11:29:14: Не обработано: tahret979 [tahret979] was mauled by a zombie!
+03.08.2017 11:29:38: Не обработано: semplay133 [semplay133] was mauled by a zombie!
+03.08.2017 11:31:13: Не обработано: semplay133 [semplay133] was mauled by a zombie!
+03.08.2017 11:33:23: Не обработано: semplay133 [semplay133] bled to death!
+03.08.2017 11:33:23: Не обработано: _SaRdin_Milad [SlaSh^] was mauled by a zombie!
+03.08.2017 11:36:40: Не обработано: Hyper Beast moved x:699.1531 y:65.42621(+26.74886) z:-93.54236 in the last second (14.24847)
+03.08.2017 11:37:40: Не обработано: 1366:TruncatedWrongValueForField
+03.08.2017 11:37:41: Не обработано:   at MySql.Data.MySqlClient.MySqlStream.ReadPacket () [0x00000] in <filename unknown>:0 
+03.08.2017 11:37:41: Не обработано:   at MySql.Data.MySqlClient.NativeDriver.GetResult (System.Int32& affectedRow, System.Int64& insertedId) [0x00000] in <filename unknown>:0 
+03.08.2017 11:38:12: Не обработано: God'sEnvoy moved x:488.6306 y:45.18201(+15.25578) z:658.916 in the last second (1)
+03.08.2017 11:38:29: Не обработано: Я умею брасать гранаты moved x:683.8625 y:47.3648(+16.69979) z:-83.33437 in the last second (0.1000023)

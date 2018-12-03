@@ -1,0 +1,882 @@
+RocketRcon v2.4.8.0
+
+login aVIPs22031994
+players
+Client has executed command "players"
+Players:
+PlayerID: 76561198421469222 Name: cvan71 Character: Андрей Ping: 62
+PlayerID: 76561198416514639 Name: Aulak Character: Василь Невезучий Ping: 31
+PlayerID: 76561198403731875 Name: Malav Character: Malav Ping: 39
+PlayerID: 76561198290478364 Name: Mr.Web56 Character: webчик Ping: 148
+PlayerID: 76561198358000300 Name: boost_machina Character: GG Ping: 70
+PlayerID: 76561198351213164 Name: _АхМеД_ :D Character: Виндяй Вечеслав[Дьявол] Ping: 70
+PlayerID: 76561198301131571 Name: PogChamp Character: Тише Будь! Ping: 156
+
+Client has executed command "players"
+Players:
+PlayerID: 76561198421469222 Name: cvan71 Character: Андрей Ping: 62
+PlayerID: 76561198416514639 Name: Aulak Character: Василь Невезучий Ping: 31
+PlayerID: 76561198403731875 Name: Malav Character: Malav Ping: 39
+PlayerID: 76561198290478364 Name: Mr.Web56 Character: webчик Ping: 132
+PlayerID: 76561198358000300 Name: boost_machina Character: GG Ping: 62
+PlayerID: 76561198351213164 Name: _АхМеД_ :D Character: Виндяй Вечеслав[Дьявол] Ping: 70
+PlayerID: 76561198301131571 Name: PogChamp Character: Тише Будь! Ping: 156
+Client has executed command "bans"
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27482122
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30362400
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30362416
+Client has executed command "bans"
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27482122
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30362400
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30362416
+
+END
+END
+END
+[World] Malav [Malav]: ".kit help"
+
+END
+MessageAnnouncer >> Broadcast: vk.com/unturned_hgm - цены на премиум, VIP и другие услуги смотрите в группе!
+
+MessageAnnouncer >> vk.com/unturned_hgm - цены на премиум, VIP и другие услуги смотрите в группе!
+
+Client has executed command "GET NOW"
+ServerControl >> VALUE NOW [0] [0] [2395]
+
+[World] Malav [Malav]: "/kit help"
+
+DeathMessagesRemastered >> Broadcast: GG истёк кровью!
+
+GG [boost_machina] bled to death!
+
+Не обработано: GG [boost_machina] bled to death!
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2404]
+
+[World] Андрей [cvan71]: "кто тим"
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2405]
+
+[World] GG [boost_machina]: "/tpa pog"
+
+[World] Андрей [cvan71]: "/tpa виндяй"
+
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198421469222 Name: cvan71 Character: Андрей Ping: 70
+PlayerID: 76561198416514639 Name: Aulak Character: Василь Невезучий Ping: 39
+PlayerID: 76561198403731875 Name: Malav Character: Malav Ping: 31
+PlayerID: 76561198290478364 Name: Mr.Web56 Character: webчик Ping: 101
+PlayerID: 76561198358000300 Name: boost_machina Character: GG Ping: 54
+PlayerID: 76561198351213164 Name: _АхМеД_ :D Character: Виндяй Вечеслав[Дьявол] Ping: 85
+PlayerID: 76561198301131571 Name: PogChamp Character: Тише Будь! Ping: 156
+
+pay 76561198258928962 100
+Client has executed command "pay 76561198258928962 100"
+
+END
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27482100
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30362378
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30362394
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2414]
+
+Disconnecting: PlayerID: 76561198351213164 Name: _АхМеД_ :D Character: Виндяй Вечеслав[Дьявол]
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2415]
+
+END
+[World] Тише Будь! [PogChamp]: ".езф фссузе"
+
+Disconnecting: PlayerID: 76561198403731875 Name: Malav Character: Malav
+
+[World] GG [boost_machina]: ",/tpa a"
+
+[World] Тише Будь! [PogChamp]: "/tpa accept"
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2424]
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2425]
+
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198421469222 Name: cvan71 Character: Андрей Ping: 125
+PlayerID: 76561198416514639 Name: Aulak Character: Василь Невезучий Ping: 31
+PlayerID: 76561198290478364 Name: Mr.Web56 Character: webчик Ping: 78
+PlayerID: 76561198358000300 Name: boost_machina Character: GG Ping: 195
+PlayerID: 76561198301131571 Name: PogChamp Character: Тише Будь! Ping: 171
+
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27482081
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30362359
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30362375
+
+END
+END
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2434]
+
+[World] Андрей [cvan71]: "gg ТП"
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2435]
+
+PlayerInfoLib >> No expired player info records found for this batch.
+
+Saving server
+
+Сохранение сервера
+Broadcast: [ZOMBIE] GG был съеден зомби! 
+
+Не обработано: Broadcast: [ZOMBIE] GG был съеден зомби! 
+GG [boost_machina] was mauled by a zombie!
+
+Не обработано: GG [boost_machina] was mauled by a zombie!
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2444]
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2445]
+
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198421469222 Name: cvan71 Character: Андрей Ping: 54
+PlayerID: 76561198416514639 Name: Aulak Character: Василь Невезучий Ping: 54
+PlayerID: 76561198290478364 Name: Mr.Web56 Character: webчик Ping: 101
+PlayerID: 76561198358000300 Name: boost_machina Character: GG Ping: 78
+PlayerID: 76561198301131571 Name: PogChamp Character: Тише Будь! Ping: 171
+
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27482061
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30362339
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30362355
+
+END
+END
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2454]
+
+MessageAnnouncer >> Broadcast: Наберите /kit claim, чтобы получить Claim Flag
+
+MessageAnnouncer >> Наберите /kit claim, чтобы получить Claim Flag
+
+Client has executed command "GET NOW"
+ServerControl >> VALUE NOW [0] [0] [2455]
+
+[World] GG [boost_machina]: "/tpa pog"
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2464]
+
+[World] GG [boost_machina]: "/tpa pog"
+
+Client has executed command "GET NOW"
+ServerControl >> VALUE NOW [0] [0] [2465]
+
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198421469222 Name: cvan71 Character: Андрей Ping: 62
+PlayerID: 76561198416514639 Name: Aulak Character: Василь Невезучий Ping: 39
+PlayerID: 76561198290478364 Name: Mr.Web56 Character: webчик Ping: 85
+PlayerID: 76561198358000300 Name: boost_machina Character: GG Ping: 54
+PlayerID: 76561198301131571 Name: PogChamp Character: Тише Будь! Ping: 179
+
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27482041
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30362319
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30362335
+
+END
+END
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2474]
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2475]
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2484]
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2485]
+
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198421469222 Name: cvan71 Character: Андрей Ping: 54
+PlayerID: 76561198416514639 Name: Aulak Character: Василь Невезучий Ping: 31
+PlayerID: 76561198290478364 Name: Mr.Web56 Character: webчик Ping: 148
+PlayerID: 76561198358000300 Name: boost_machina Character: GG Ping: 62
+PlayerID: 76561198301131571 Name: PogChamp Character: Тише Будь! Ping: 171
+
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27482021
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30362299
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30362315
+
+END
+END
+[World] GG [boost_machina]: "/tpa pog"
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2494]
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2495]
+
+[World] GG [boost_machina]: "/tpa pog\"
+
+[World] GG [boost_machina]: "/tpa pog"
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2504]
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2505]
+
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198421469222 Name: cvan71 Character: Андрей Ping: 54
+PlayerID: 76561198416514639 Name: Aulak Character: Василь Невезучий Ping: 54
+PlayerID: 76561198290478364 Name: Mr.Web56 Character: webчик Ping: 101
+PlayerID: 76561198358000300 Name: boost_machina Character: GG Ping: 39
+PlayerID: 76561198301131571 Name: PogChamp Character: Тише Будь! Ping: 171
+
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27482001
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30362279
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30362295
+
+END
+END
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2514]
+
+MessageAnnouncer >> Broadcast: Если модератор ведёт себя неподобающе, пишите в группу или ЛС (vk.com/unturned_hgm, vk.com/hemulgm)
+
+MessageAnnouncer >> Если модератор ведёт себя неподобающе, пишите в группу или ЛС (vk.com/unturned_hgm, vk.com/hemulgm)
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2515]
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2524]
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2525]
+
+[World] GG [boost_machina]: ",/tpa \a"
+
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198421469222 Name: cvan71 Character: Андрей Ping: 54
+PlayerID: 76561198416514639 Name: Aulak Character: Василь Невезучий Ping: 39
+PlayerID: 76561198290478364 Name: Mr.Web56 Character: webчик Ping: 93
+PlayerID: 76561198358000300 Name: boost_machina Character: GG Ping: 62
+PlayerID: 76561198301131571 Name: PogChamp Character: Тише Будь! Ping: 187
+
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27481981
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30362259
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30362275
+
+END
+END
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2534]
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2535]
+
+[World] Тише Будь! [PogChamp]: "/tpa a"
+
+pay 76561198258928962 100
+Client has executed command "pay 76561198258928962 100"
+
+Client has executed command "cchat "/33/09/17/04/17/15/16 /24/05/17/05/08 40 /13. " 255 255 0"
+
+ServerControl >> Broadcast: Аирдроп через 40 м.
+
+Не обработано: ServerControl >> Broadcast: Аирдроп через 40 м.
+Disconnecting: PlayerID: 76561198358000300 Name: boost_machina Character: GG
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2544]
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2545]
+
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198421469222 Name: cvan71 Character: Андрей Ping: 46
+PlayerID: 76561198416514639 Name: Aulak Character: Василь Невезучий Ping: 46
+PlayerID: 76561198290478364 Name: Mr.Web56 Character: webчик Ping: 125
+PlayerID: 76561198301131571 Name: PogChamp Character: Тише Будь! Ping: 179
+
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27481961
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30362239
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30362255
+
+END
+END
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2554]
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2555]
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2564]
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2565]
+
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198421469222 Name: cvan71 Character: Андрей Ping: 54
+PlayerID: 76561198416514639 Name: Aulak Character: Василь Невезучий Ping: 31
+PlayerID: 76561198290478364 Name: Mr.Web56 Character: webчик Ping: 140
+PlayerID: 76561198301131571 Name: PogChamp Character: Тише Будь! Ping: 164
+
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27481941
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30362219
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30362235
+
+END
+END
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2574]
+
+MessageAnnouncer >> Broadcast: Посетите наш сайт. Вы будете удивлены! unturned.hemulgm.ru
+
+MessageAnnouncer >> Посетите наш сайт. Вы будете удивлены! unturned.hemulgm.ru
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2575]
+
+[World] Тише Будь! [PogChamp]: "/buy v.123"
+
+Disconnecting: PlayerID: 76561198301131571 Name: PogChamp Character: Тише Будь!
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2585]
+Client has executed command "GET NOW"
+ServerControl >> VALUE NOW [0] [0] [2585]
+
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198421469222 Name: cvan71 Character: Андрей Ping: 62
+PlayerID: 76561198416514639 Name: Aulak Character: Василь Невезучий Ping: 31
+PlayerID: 76561198290478364 Name: Mr.Web56 Character: webчик Ping: 101
+
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27481921
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30362199
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30362215
+
+END
+Connecting: PlayerID: 76561198358000300 Name: boost_machina Character: GG
+
+GG connected with IP 5.143.197.137
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2594]
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2595]
+
+END
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2604]
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2605]
+
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198421469222 Name: cvan71 Character: Андрей Ping: 39
+PlayerID: 76561198416514639 Name: Aulak Character: Василь Невезучий Ping: 31
+PlayerID: 76561198290478364 Name: Mr.Web56 Character: webчик Ping: 125
+PlayerID: 76561198358000300 Name: boost_machina Character: GG Ping: 93
+
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27481901
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30362179
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30362195
+
+END
+END
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2614]
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2615]
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2624]
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2625]
+
+Connecting: PlayerID: 76561198301131571 Name: PogChamp Character: Тише Будь!
+
+Тише Будь! connected with IP 217.144.175.38
+
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198421469222 Name: cvan71 Character: Андрей Ping: 39
+PlayerID: 76561198416514639 Name: Aulak Character: Василь Невезучий Ping: 46
+PlayerID: 76561198290478364 Name: Mr.Web56 Character: webчик Ping: 109
+PlayerID: 76561198358000300 Name: boost_machina Character: GG Ping: 171
+PlayerID: 76561198301131571 Name: PogChamp Character: Тише Будь! Ping: 0
+
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27481881
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30362159
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30362175
+
+END
+END
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2634]
+
+MessageAnnouncer >> Broadcast: vk.com/hemulgm - ЕДИНСТВЕННЫЙ администратор сервера
+
+MessageAnnouncer >> vk.com/hemulgm - ЕДИНСТВЕННЫЙ администратор сервера
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2635]
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2644]
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2645]
+
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198421469222 Name: cvan71 Character: Андрей Ping: 46
+PlayerID: 76561198416514639 Name: Aulak Character: Василь Невезучий Ping: 46
+PlayerID: 76561198290478364 Name: Mr.Web56 Character: webчик Ping: 125
+PlayerID: 76561198358000300 Name: boost_machina Character: GG Ping: 85
+PlayerID: 76561198301131571 Name: PogChamp Character: Тише Будь! Ping: 187
+
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27481861
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30362139
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30362155
+
+END
+END
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2655]
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2655]
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2665]
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2665]
+
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198421469222 Name: cvan71 Character: Андрей Ping: 85
+PlayerID: 76561198416514639 Name: Aulak Character: Василь Невезучий Ping: 31
+PlayerID: 76561198290478364 Name: Mr.Web56 Character: webчик Ping: 148
+PlayerID: 76561198358000300 Name: boost_machina Character: GG Ping: 93
+PlayerID: 76561198301131571 Name: PogChamp Character: Тише Будь! Ping: 187
+
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27481841
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30362119
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30362135
+
+END
+END
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2675]
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2675]
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2685]
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2685]
+
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198421469222 Name: cvan71 Character: Андрей Ping: 78
+PlayerID: 76561198416514639 Name: Aulak Character: Василь Невезучий Ping: 31
+PlayerID: 76561198290478364 Name: Mr.Web56 Character: webчик Ping: 140
+PlayerID: 76561198358000300 Name: boost_machina Character: GG Ping: 117
+PlayerID: 76561198301131571 Name: PogChamp Character: Тише Будь! Ping: 195
+
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27481821
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30362099
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30362115
+
+END
+END
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2695]
+
+MessageAnnouncer >> Broadcast: Используйте /report [ник], чтобы отправить жалобу на игрока
+
+MessageAnnouncer >> Используйте /report [ник], чтобы отправить жалобу на игрока
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2695]
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2705]
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2705]
+
+[World] Андрей [cvan71]: "КТО ТИМ"
+
+[World] GG [boost_machina]: "яя"
+
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198421469222 Name: cvan71 Character: Андрей Ping: 46
+PlayerID: 76561198416514639 Name: Aulak Character: Василь Невезучий Ping: 46
+PlayerID: 76561198290478364 Name: Mr.Web56 Character: webчик Ping: 78
+PlayerID: 76561198358000300 Name: boost_machina Character: GG Ping: 93
+PlayerID: 76561198301131571 Name: PogChamp Character: Тише Будь! Ping: 187
+
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27481801
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30362079
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30362095
+
+END
+END
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2715]
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2715]
+
+[World] Андрей [cvan71]: "тп"
+
+[World] Андрей [cvan71]: "я дом строю"
+
+[World] GG [boost_machina]: "чучу нет"
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2725]
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2725]
+
+[World] Андрей [cvan71]: "НУ ОК"
+
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198421469222 Name: cvan71 Character: Андрей Ping: 54
+PlayerID: 76561198416514639 Name: Aulak Character: Василь Невезучий Ping: 31
+PlayerID: 76561198290478364 Name: Mr.Web56 Character: webчик Ping: 132
+PlayerID: 76561198358000300 Name: boost_machina Character: GG Ping: 93
+PlayerID: 76561198301131571 Name: PogChamp Character: Тише Будь! Ping: 187
+
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27481781
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30362059
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30362075
+
+END
+END
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2735]
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2735]
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2745]
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2745]
+

@@ -1,0 +1,121 @@
+Не обработано: RocketRcon v2.4.8.0
+RocketRcon v2.4.8.0
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198152563082 Name: Drakon Character: [MODER]Stanat Ping: 39
+PlayerID: 76561198367661777 Name: Andrei888 Character: zmushko2002 Ping: 113
+PlayerID: 76561198393829004 Name: rubisbogdan Character: BodyaBich Ping: 121
+PlayerID: 76561198322934559 Name: @& утка про  &@ Character: yesjop Ping: 78
+PlayerID: 76561198395164086 Name: vikafilha Character: vikafilha Ping: 160
+PlayerID: 76561198328119181 Name: Fex Character: Fex Ping: 50
+PlayerID: 76561198292543416 Name: Mr_GiladKing Character: GamerYT Ping: 50
+PlayerID: 76561198347057860 Name: PhantoM Character: ResonZ Ping: 46
+PlayerID: 76561198147477828 Name: galbatsovmikail Character: galbatsovmikail Ping: 54
+PlayerID: 76561198381173735 Name: ingener_spring Character: ingener_spring Ping: 214
+PlayerID: 76561198350739197 Name: bykov4677 Character: MR.CAT Ping: 82
+PlayerID: 76561198368128006 Name: Aibek Character: 3o/loToN_Akym Ping: 125
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294413040
+
+TimerTerminateCommand.Enabled with Bans:
+[World] GamerYT [Mr_GiladKing]: "/home"
+
+END with Bans:
+Не обработано: MessageAnnouncer >> Broadcast: vk.com/unturned_hgm - цены на премиум, VIP и другие услуги смотрите в группе!
+MessageAnnouncer >> Broadcast: vk.com/unturned_hgm - цены на премиум, VIP и другие услуги смотрите в группе!
+
+Не обработано: MessageAnnouncer >> vk.com/unturned_hgm - цены на премиум, VIP и другие услуги смотрите в группе!
+MessageAnnouncer >> vk.com/unturned_hgm - цены на премиум, VIP и другие услуги смотрите в группе!
+
+[World] MR.CAT [bykov4677]: "/KIT START"
+
+[World] ingener_spring [ingener_spring]: "/tpa galbatsovmikail"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198152563082 Name: Drakon Character: [MODER]Stanat Ping: 42
+PlayerID: 76561198367661777 Name: Andrei888 Character: zmushko2002 Ping: 105
+PlayerID: 76561198393829004 Name: rubisbogdan Character: BodyaBich Ping: 125
+PlayerID: 76561198322934559 Name: @& утка про  &@ Character: yesjop Ping: 74
+PlayerID: 76561198395164086 Name: vikafilha Character: vikafilha Ping: 121
+PlayerID: 76561198328119181 Name: Fex Character: Fex Ping: 62
+PlayerID: 76561198292543416 Name: Mr_GiladKing Character: GamerYT Ping: 54
+PlayerID: 76561198347057860 Name: PhantoM Character: ResonZ Ping: 46
+PlayerID: 76561198147477828 Name: galbatsovmikail Character: galbatsovmikail Ping: 54
+PlayerID: 76561198381173735 Name: ingener_spring Character: ingener_spring Ping: 164
+PlayerID: 76561198350739197 Name: bykov4677 Character: MR.CAT Ping: 97
+PlayerID: 76561198368128006 Name: Aibek Character: 3o/loToN_Akym Ping: 97
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294413020
+
+END with Bans:
+[World] ingener_spring [ingener_spring]: "прими"
+
+[World] MR.CAT [bykov4677]: "кто приютит?"
+
+[World] galbatsovmikail [galbatsovmikail]: ".езф фссузе"
+
+Disconnecting: PlayerID: 76561198292543416 Name: Mr_GiladKing Character: GamerYT
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198152563082 Name: Drakon Character: [MODER]Stanat Ping: 54
+PlayerID: 76561198367661777 Name: Andrei888 Character: zmushko2002 Ping: 105
+PlayerID: 76561198393829004 Name: rubisbogdan Character: BodyaBich Ping: 144
+PlayerID: 76561198322934559 Name: @& утка про  &@ Character: yesjop Ping: 78
+PlayerID: 76561198395164086 Name: vikafilha Character: vikafilha Ping: 136
+PlayerID: 76561198328119181 Name: Fex Character: Fex Ping: 46
+PlayerID: 76561198347057860 Name: PhantoM Character: ResonZ Ping: 66
+PlayerID: 76561198147477828 Name: galbatsovmikail Character: galbatsovmikail Ping: 54
+PlayerID: 76561198381173735 Name: ingener_spring Character: ingener_spring Ping: 148
+PlayerID: 76561198350739197 Name: bykov4677 Character: MR.CAT Ping: 82
+PlayerID: 76561198368128006 Name: Aibek Character: 3o/loToN_Akym Ping: 93
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294413000
+
+END with Bans:
+[World] galbatsovmikail [galbatsovmikail]: "/tpa accept"
+
+TimerTerminateCommand.Enabled with Players:
+Client has executed command "players"
+Players:
+PlayerID: 76561198152563082 Name: Drakon Character: [MODER]Stanat Ping: 46
+PlayerID: 76561198367661777 Name: Andrei888 Character: zmushko2002 Ping: 93
+PlayerID: 76561198393829004 Name: rubisbogdan Character: BodyaBich Ping: 97
+PlayerID: 76561198322934559 Name: @& утка про  &@ Character: yesjop Ping: 66
+PlayerID: 76561198395164086 Name: vikafilha Character: vikafilha Ping: 128
+PlayerID: 76561198328119181 Name: Fex Character: Fex Ping: 35
+PlayerID: 76561198347057860 Name: PhantoM Character: ResonZ Ping: 54
+PlayerID: 76561198147477828 Name: galbatsovmikail Character: galbatsovmikail Ping: 50
+PlayerID: 76561198381173735 Name: ingener_spring Character: ingener_spring Ping: 152
+PlayerID: 76561198350739197 Name: bykov4677 Character: MR.CAT Ping: 89
+PlayerID: 76561198368128006 Name: Aibek Character: 3o/loToN_Akym Ping: 89
+

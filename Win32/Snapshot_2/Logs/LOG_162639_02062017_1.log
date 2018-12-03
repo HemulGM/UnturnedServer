@@ -1,0 +1,140 @@
+Не обработано: RocketRcon v2.4.8.0
+RocketRcon v2.4.8.0
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198300812301 Name: KiLeR00707 Character: KiLeR00707 Ping: 23
+PlayerID: 76561198351213164 Name: _АхМеД_ Character: Виндяй Вечеслав Ping: 101
+PlayerID: 76561198295801599 Name: Lo[x] Character: Lo[x] Ping: 62
+PlayerID: 76561198176817369 Name: ?. Character: GlodiS Ping: 62
+PlayerID: 76561198349642857 Name: хлеб228 Character: хлеб228 Ping: 156
+PlayerID: 76561198056237987 Name: Calibrovshik Character: Calibrovshik Ping: 101
+PlayerID: 76561198282625830 Name: Mafia Character: serj-goryn Ping: 148
+PlayerID: 76561198263636845 Name: matic Character: matic Ping: 93
+PlayerID: 76561198256962041 Name: Omega orange Character: CLI Ping: 109
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 123123
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 31282035
+PlayerID: 123
+JudgeID: 0
+Reason: durila Duration: 4000 Remaining: 4294717829
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294746202
+
+END with Bans:
+[World] CLI [Omega orange]: "ебанный инет"
+
+[World] CLI [Omega orange]: "куда ехать"
+
+[World] CLI [Omega orange]: "полёт или колёса?"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198300812301 Name: KiLeR00707 Character: KiLeR00707 Ping: 7
+PlayerID: 76561198351213164 Name: _АхМеД_ Character: Виндяй Вечеслав Ping: 85
+PlayerID: 76561198295801599 Name: Lo[x] Character: Lo[x] Ping: 54
+PlayerID: 76561198176817369 Name: ?. Character: GlodiS Ping: 54
+PlayerID: 76561198349642857 Name: хлеб228 Character: хлеб228 Ping: 125
+PlayerID: 76561198056237987 Name: Calibrovshik Character: Calibrovshik Ping: 101
+PlayerID: 76561198282625830 Name: Mafia Character: serj-goryn Ping: 140
+PlayerID: 76561198263636845 Name: matic Character: matic Ping: 101
+PlayerID: 76561198256962041 Name: Omega orange Character: CLI Ping: 62
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 123123
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 31282015
+PlayerID: 123
+JudgeID: 0
+Reason: durila Duration: 4000 Remaining: 4294717809
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294746182
+
+END with Bans:
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198300812301 Name: KiLeR00707 Character: KiLeR00707 Ping: 23
+PlayerID: 76561198351213164 Name: _АхМеД_ Character: Виндяй Вечеслав Ping: 78
+PlayerID: 76561198295801599 Name: Lo[x] Character: Lo[x] Ping: 54
+PlayerID: 76561198176817369 Name: ?. Character: GlodiS Ping: 54
+PlayerID: 76561198349642857 Name: хлеб228 Character: хлеб228 Ping: 132
+PlayerID: 76561198056237987 Name: Calibrovshik Character: Calibrovshik Ping: 109
+PlayerID: 76561198282625830 Name: Mafia Character: serj-goryn Ping: 132
+PlayerID: 76561198263636845 Name: matic Character: matic Ping: 93
+PlayerID: 76561198256962041 Name: Omega orange Character: CLI Ping: 62
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 123123
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 31281995
+PlayerID: 123
+JudgeID: 0
+Reason: durila Duration: 4000 Remaining: 4294717789
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294746162
+
+TimerTerminateCommand.Enabled with Bans:
+[World] CLI [Omega orange]: "я ща уеду."
+
+END with Bans:
+[World] Calibrovshik [Calibrovshik]: "/home"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198300812301 Name: KiLeR00707 Character: KiLeR00707 Ping: 39
+PlayerID: 76561198351213164 Name: _АхМеД_ Character: Виндяй Вечеслав Ping: 85
+PlayerID: 76561198295801599 Name: Lo[x] Character: Lo[x] Ping: 46
+PlayerID: 76561198176817369 Name: ?. Character: GlodiS Ping: 54
+PlayerID: 76561198349642857 Name: хлеб228 Character: хлеб228 Ping: 140
+PlayerID: 76561198056237987 Name: Calibrovshik Character: Calibrovshik Ping: 93
+PlayerID: 76561198282625830 Name: Mafia Character: serj-goryn Ping: 148
+PlayerID: 76561198263636845 Name: matic Character: matic Ping: 93
+PlayerID: 76561198256962041 Name: Omega orange Character: CLI Ping: 62
+
+TimerTerminateCommand.Enabled with Players:
+[World] CLI [Omega orange]: "куда лететь"
+
+Не обработано: PlayerInfoLib >> No expired player info records found for this batch.
+TimerTerminateCommand.Enabled with Players:
+PlayerInfoLib >> No expired player info records found for this batch.
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 123123
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 31281973
+PlayerID: 123
+JudgeID: 0
+Reason: durila Duration: 4000 Remaining: 4294717767
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294746140
+

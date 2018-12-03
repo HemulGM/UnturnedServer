@@ -1,0 +1,124 @@
+17.11.2017 15:51:22: RocketRcon v2.4.8.0
+
+17.11.2017 15:51:23: Client has executed command "players"
+Players:
+PlayerID: 76561198234232440 Name: FuSian Character: Fusian Ping: 61
+PlayerID: 76561198349888524 Name: Takeo Masaki Loot.farm cs.money Character: hotdog Ping: 33
+PlayerID: 76561198106869292 Name: roman146rus Character: roman146rus Ping: 50
+PlayerID: 76561198170498361 Name: _Nick_Hunter_ Character: Nick_Hunter[RUS] Ping: 125
+PlayerID: 76561198408019916 Name: slava.fan555 Character: Славик Cухоруков Ping: 93
+PlayerID: 76561198444494613 Name: vladkrigin Character: 666а Ping: 134
+
+17.11.2017 15:51:24: Client has executed command "bans"
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 28513294
+PlayerID: 76561198395511982
+JudgeID: 0
+Reason: 999999 Duration: 31536000 Remaining: 30068046
+PlayerID: 76561198331180787
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30416264
+PlayerID: 76561198172502147
+JudgeID: 76561198237123262
+Reason: 3600 Duration: 31536000 Remaining: 30419658
+PlayerID: 76561198331252339
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30431991
+PlayerID: 76561198434258763
+JudgeID: 0
+Reason: reid Duration: 608400 Remaining: 198538
+
+17.11.2017 15:51:24: END
+17.11.2017 15:51:24: Client has executed command "bans"
+
+17.11.2017 15:51:26: Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 28513293
+PlayerID: 76561198395511982
+JudgeID: 0
+Reason: 999999 Duration: 31536000 Remaining: 30068045
+PlayerID: 76561198331180787
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30416263
+PlayerID: 76561198172502147
+JudgeID: 76561198237123262
+Reason: 3600 Duration: 31536000 Remaining: 30419657
+PlayerID: 76561198331252339
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30431990
+PlayerID: 76561198434258763
+JudgeID: 0
+Reason: reid Duration: 608400 Remaining: 198537
+
+17.11.2017 15:51:26: END
+17.11.2017 15:51:28: END
+17.11.2017 15:51:30: MessageAnnouncer >> Broadcast: Добро пожаловать на HGM. Тут рады вам больше, чем на любом другом сервере!
+
+17.11.2017 15:51:30: MessageAnnouncer >> Добро пожаловать на HGM. Тут рады вам больше, чем на любом другом сервере!
+
+17.11.2017 15:51:36: [World] Fusian [FuSian]: "/tpa hot"
+
+17.11.2017 15:51:38: Client has executed command "players"
+
+17.11.2017 15:51:38: Players:
+PlayerID: 76561198234232440 Name: FuSian Character: Fusian Ping: 68
+PlayerID: 76561198349888524 Name: Takeo Masaki Loot.farm cs.money Character: hotdog Ping: 37
+PlayerID: 76561198106869292 Name: roman146rus Character: roman146rus Ping: 51
+PlayerID: 76561198170498361 Name: _Nick_Hunter_ Character: Nick_Hunter[RUS] Ping: 134
+PlayerID: 76561198408019916 Name: slava.fan555 Character: Славик Cухоруков Ping: 109
+PlayerID: 76561198444494613 Name: vladkrigin Character: 666а Ping: 117
+
+17.11.2017 15:51:39: Client has executed command "bans"
+
+17.11.2017 15:51:39: Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 28513278
+PlayerID: 76561198395511982
+JudgeID: 0
+Reason: 999999 Duration: 31536000 Remaining: 30068030
+PlayerID: 76561198331180787
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30416248
+PlayerID: 76561198172502147
+JudgeID: 76561198237123262
+Reason: 3600 Duration: 31536000 Remaining: 30419642
+PlayerID: 76561198331252339
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30431975
+PlayerID: 76561198434258763
+JudgeID: 0
+Reason: reid Duration: 608400 Remaining: 198522
+
+17.11.2017 15:51:39: END
+17.11.2017 15:51:39: Client has executed command "bans"
+
+17.11.2017 15:51:39: Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 28513278
+PlayerID: 76561198395511982
+JudgeID: 0
+Reason: 999999 Duration: 31536000 Remaining: 30068030
+PlayerID: 76561198331180787
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30416248
+PlayerID: 76561198172502147
+JudgeID: 76561198237123262
+Reason: 3600 Duration: 31536000 Remaining: 30419642
+PlayerID: 76561198331252339
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30431975
+PlayerID: 76561198434258763
+JudgeID: 0
+Reason: reid Duration: 608400 Remaining: 198522
+
+17.11.2017 15:51:39: END
+17.11.2017 15:51:41: END
+17.11.2017 15:51:42: [World] 666а [vladkrigin]: "/home"
+
+17.11.2017 15:51:46: [World] hotdog [Takeo Masaki Loot.farm cs.money]: "/tpa a"
+

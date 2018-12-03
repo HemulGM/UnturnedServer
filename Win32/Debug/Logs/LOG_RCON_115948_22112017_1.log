@@ -1,0 +1,377 @@
+RocketRcon v2.4.8.0
+
+login aVIPs22031994
+players
+Client has executed command "players"
+Failed to find any players.
+
+MessageAnnouncer >> Broadcast: Наберите /kit help, чтобы получить первую мед. помощь (бинты, таблетки, еда)
+
+MessageAnnouncer >> Наберите /kit help, чтобы получить первую мед. помощь (бинты, таблетки, еда)
+
+GET ISDAYTIME
+Client has executed command "GET ISDAYTIME"
+
+ServerControl >> VALUE ISDAYTIME [1]
+
+GET TIME
+Client has executed command "GET TIME"
+
+ServerControl >> VALUE TIME [1363]
+
+Client has executed command "players"
+
+Failed to find any players.
+
+GET ISFULLMOON
+Client has executed command "GET ISFULLMOON"
+
+ServerControl >> VALUE ISFULLMOON [0]
+
+Client has executed command "cchat "/33/09/17/04/17/15/16 /24/05/17/05/08 3 /24. " 255 255 0"
+
+ServerControl >> Broadcast: Аирдроп через 3 ч.
+
+Не обработано: ServerControl >> Broadcast: Аирдроп через 3 ч.
+GET ISDAYTIME
+Client has executed command "GET ISDAYTIME"
+
+ServerControl >> VALUE ISDAYTIME [1]
+
+GET TIME
+Client has executed command "GET TIME"
+
+ServerControl >> VALUE TIME [1376]
+
+GET ISFULLMOON
+Client has executed command "GET ISFULLMOON"
+
+ServerControl >> VALUE ISFULLMOON [0]
+
+Client has executed command "players"
+
+Failed to find any players.
+
+GET ISDAYTIME
+Client has executed command "GET ISDAYTIME"
+
+ServerControl >> VALUE ISDAYTIME [1]
+
+GET TIME
+Client has executed command "GET TIME"
+
+ServerControl >> VALUE TIME [1389]
+
+GET ISFULLMOON
+Client has executed command "GET ISFULLMOON"
+
+ServerControl >> VALUE ISFULLMOON [0]
+
+GET ISDAYTIME
+Client has executed command "GET ISDAYTIME"
+
+ServerControl >> VALUE ISDAYTIME [1]
+
+GET TIME
+Client has executed command "GET TIME"
+
+ServerControl >> VALUE TIME [1402]
+
+GET ISFULLMOON
+Client has executed command "GET ISFULLMOON"
+
+ServerControl >> VALUE ISFULLMOON [0]
+
+Client has executed command "players"
+
+Failed to find any players.
+
+MessageAnnouncer >> Broadcast: vk.com/unturned_hgm - цены на премиум, VIP и другие услуги смотрите в группе!
+
+MessageAnnouncer >> vk.com/unturned_hgm - цены на премиум, VIP и другие услуги смотрите в группе!
+
+GET ISDAYTIME
+Client has executed command "GET ISDAYTIME"
+
+ServerControl >> VALUE ISDAYTIME [1]
+
+GET TIME
+Client has executed command "GET TIME"
+
+ServerControl >> VALUE TIME [1415]
+
+GET ISFULLMOON
+Client has executed command "GET ISFULLMOON"
+
+ServerControl >> VALUE ISFULLMOON [0]
+
+Client has executed command "players"
+
+Failed to find any players.
+
+GET ISDAYTIME
+Client has executed command "GET ISDAYTIME"
+
+ServerControl >> VALUE ISDAYTIME [1]
+
+GET TIME
+Client has executed command "GET TIME"
+
+ServerControl >> VALUE TIME [1428]
+
+GET ISFULLMOON
+Client has executed command "GET ISFULLMOON"
+
+ServerControl >> VALUE ISFULLMOON [0]
+
+GET ISDAYTIME
+Client has executed command "GET ISDAYTIME"
+
+ServerControl >> VALUE ISDAYTIME [1]
+
+GET TIME
+Client has executed command "GET TIME"
+
+ServerControl >> VALUE TIME [1442]
+
+GET ISFULLMOON
+Client has executed command "GET ISFULLMOON"
+
+ServerControl >> VALUE ISFULLMOON [0]
+
+Client has executed command "players"
+Failed to find any players.
+
+GET ISDAYTIME
+Client has executed command "GET ISDAYTIME"
+
+ServerControl >> VALUE ISDAYTIME [1]
+
+GET TIME
+Client has executed command "GET TIME"
+
+ServerControl >> VALUE TIME [1455]
+
+GET ISFULLMOON
+Client has executed command "GET ISFULLMOON"
+
+ServerControl >> VALUE ISFULLMOON [0]
+
+Client has executed command "players"
+
+Failed to find any players.
+
+GET ISDAYTIME
+Client has executed command "GET ISDAYTIME"
+
+ServerControl >> VALUE ISDAYTIME [1]
+
+GET TIME
+Client has executed command "GET TIME"
+
+ServerControl >> VALUE TIME [1468]
+
+GET ISFULLMOON
+Client has executed command "GET ISFULLMOON"
+
+ServerControl >> VALUE ISFULLMOON [0]
+
+MessageAnnouncer >> Broadcast: Наберите /kit claim, чтобы получить Claim Flag
+
+MessageAnnouncer >> Наберите /kit claim, чтобы получить Claim Flag
+
+GET ISDAYTIME
+Client has executed command "GET ISDAYTIME"
+
+ServerControl >> VALUE ISDAYTIME [1]
+
+GET TIME
+Client has executed command "GET TIME"
+
+ServerControl >> VALUE TIME [1481]
+
+GET ISFULLMOON
+Client has executed command "GET ISFULLMOON"
+ServerControl >> VALUE ISFULLMOON [0]
+
+Client has executed command "players"
+
+Failed to find any players.
+
+GET ISDAYTIME
+Client has executed command "GET ISDAYTIME"
+
+ServerControl >> VALUE ISDAYTIME [1]
+
+GET TIME
+Client has executed command "GET TIME"
+
+ServerControl >> VALUE TIME [1494]
+
+GET ISFULLMOON
+Client has executed command "GET ISFULLMOON"
+
+ServerControl >> VALUE ISFULLMOON [0]
+
+Client has executed command "players"
+
+Failed to find any players.
+
+GET ISDAYTIME
+Client has executed command "GET ISDAYTIME"
+
+ServerControl >> VALUE ISDAYTIME [1]
+
+GET TIME
+Client has executed command "GET TIME"
+
+ServerControl >> VALUE TIME [1507]
+
+GET ISFULLMOON
+Client has executed command "GET ISFULLMOON"
+
+ServerControl >> VALUE ISFULLMOON [0]
+
+GET ISDAYTIME
+Client has executed command "GET ISDAYTIME"
+
+ServerControl >> VALUE ISDAYTIME [1]
+
+GET TIME
+Client has executed command "GET TIME"
+
+ServerControl >> VALUE TIME [1520]
+
+GET ISFULLMOON
+Client has executed command "GET ISFULLMOON"
+
+ServerControl >> VALUE ISFULLMOON [0]
+
+Client has executed command "players"
+
+Failed to find any players.
+
+PlayerInfoLib >> No expired player info records found for this batch.
+
+Saving server
+
+Сохранение сервера
+GET ISDAYTIME
+Client has executed command "GET ISDAYTIME"
+
+ServerControl >> VALUE ISDAYTIME [1]
+
+MessageAnnouncer >> Broadcast: Если модератор ведёт себя неподобающе, пишите в группу или ЛС (vk.com/unturned_hgm, vk.com/hemulgm)
+
+MessageAnnouncer >> Если модератор ведёт себя неподобающе, пишите в группу или ЛС (vk.com/unturned_hgm, vk.com/hemulgm)
+
+GET TIME
+Client has executed command "GET TIME"
+
+ServerControl >> VALUE TIME [1534]
+
+GET ISFULLMOON
+Client has executed command "GET ISFULLMOON"
+
+ServerControl >> VALUE ISFULLMOON [0]
+
+Client has executed command "players"
+
+Failed to find any players.
+
+GET ISDAYTIME
+Client has executed command "GET ISDAYTIME"
+
+GET TIME
+ServerControl >> VALUE ISDAYTIME [1]
+
+Client has executed command "GET TIME"
+ServerControl >> VALUE TIME [1547]
+
+GET ISFULLMOON
+Client has executed command "GET ISFULLMOON"
+
+ServerControl >> VALUE ISFULLMOON [0]
+
+GET ISDAYTIME
+Client has executed command "GET ISDAYTIME"
+
+ServerControl >> VALUE ISDAYTIME [1]
+
+GET TIME
+Client has executed command "GET TIME"
+
+ServerControl >> VALUE TIME [1560]
+
+GET ISFULLMOON
+GET ISDAYTIME
+GET TIME
+GET ISFULLMOON
+GET ISDAYTIME
+GET TIME
+GET ISFULLMOON
+GET ISDAYTIME
+GET TIME
+GET ISFULLMOON
+GET ISDAYTIME
+GET TIME
+GET ISFULLMOON
+GET ISDAYTIME
+GET TIME
+GET ISFULLMOON
+RocketRcon v2.4.8.0
+
+login aVIPs22031994
+players
+Client has executed command "players"
+
+Failed to find any players.
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [3380]
+
+GET ISDAYTIME
+Client has executed command "GET ISDAYTIME"
+
+ServerControl >> VALUE ISDAYTIME [0]
+
+GET TIME
+Client has executed command "GET TIME"
+
+ServerControl >> VALUE TIME [3385]
+
+MessageAnnouncer >> Broadcast: Наберите /kit start, чтобы получить стартовый набор (еда, вода, топор)
+
+MessageAnnouncer >> Наберите /kit start, чтобы получить стартовый набор (еда, вода, топор)
+
+GET ISFULLMOON
+Client has executed command "GET ISFULLMOON"
+
+ServerControl >> VALUE ISFULLMOON [0]
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [3389]
+
+Client has executed command "players"
+
+Failed to find any players.
+
+GET ISDAYTIME
+Client has executed command "GET ISDAYTIME"
+
+ServerControl >> VALUE ISDAYTIME [0]
+
+GET TIME
+Client has executed command "GET TIME"
+
+ServerControl >> VALUE TIME [3398]
+
+GET ISFULLMOON
+Client has executed command "GET ISFULLMOON"
+
+ServerControl >> VALUE ISFULLMOON [0]
+

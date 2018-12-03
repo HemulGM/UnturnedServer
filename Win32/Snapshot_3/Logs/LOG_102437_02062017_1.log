@@ -1,0 +1,75 @@
+Не обработано: RocketRcon v2.4.8.0
+RocketRcon v2.4.8.0
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198376380342 Name: Sergeant Gamezer Character: Dr.Lee Gamezer  Ping: 148
+PlayerID: 76561198345092267 Name: demid3450 Character: [гл террористов] демид журавлёв Ping: 117
+PlayerID: 76561197991720459 Name: alek_el Character: Sans the skeleton Ping: 85
+PlayerID: 76561198349787658 Name: VIKTORIA_201577 Character: VIKTORIA Ping: 195
+PlayerID: 76561198280617288 Name: Незнаю какой придумать Character: Пипр Ping: 46
+
+END with Players:
+TimerTerminateCommand.Enabled with Bans:
+Client has executed command "bans"
+Bans:
+PlayerID: 123123
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 31303759
+PlayerID: 123
+JudgeID: 0
+Reason: durila Duration: 4000 Remaining: 4294739553
+PlayerID: 76561198274427357
+JudgeID: 0
+
+TimerTerminateCommand.Enabled with Bans:
+Reason: you were vote kicked Duration: 180 Remaining: 4294767926
+
+Не обработано: MessageAnnouncer >> Broadcast: vk.com/hemulgm - ЕДИНСТВЕННЫЙ администратор сервера
+Не обработано: MessageAnnouncer >> vk.com/hemulgm - ЕДИНСТВЕННЫЙ администратор сервера
+Не обработано: DeathMessagesRemastered >> Broadcast: Dr.Lee Gamezer  fell to their death!
+Не обработано: Dr.Lee Gamezer  [Sergeant Gamezer] fractured to death!
+Не обработано: PlayerInfoLib >> No expired player info records found for this batch.
+TimerTerminateCommand.Enabled with Bans:
+[World] [гл террористов] демид журавлёв [demid3450]: "/home"
+[World] Пипр [Незнаю какой придумать]: "/kit help"
+[World] Dr.Lee Gamezer  [Sergeant Gamezer]: "water?"
+Connecting: PlayerID: 76561198367927405 Name: < blank > Character: < blank >
+[World] Sans the skeleton [alek_el]: "yes i run"
+MessageAnnouncer >> Broadcast: vk.com/hemulgm - ЕДИНСТВЕННЫЙ администратор сервера
+MessageAnnouncer >> vk.com/hemulgm - ЕДИНСТВЕННЫЙ администратор сервера
+[World] Dr.Lee Gamezer  [Sergeant Gamezer]: "VIK"
+Disconnecting: PlayerID: 76561198349787658 Name: VIKTORIA_201577 Character: VIKTORIA
+[World] Sans the skeleton [alek_el]: "fuuuuuuuuuuu"
+[World] Dr.Lee Gamezer  [Sergeant Gamezer]: "my loot is yours"
+[World] Sans the skeleton [alek_el]: "ok"
+[World] Dr.Lee Gamezer  [Sergeant Gamezer]: "help"
+[World] Sans the skeleton [alek_el]: "dangit bye"
+Disconnecting: PlayerID: 76561197991720459 Name: alek_el Character: Sans the skeleton
+[World] Dr.Lee Gamezer  [Sergeant Gamezer]: "th"
+[World] Dr.Lee Gamezer  [Sergeant Gamezer]: "damn"
+[World] [гл террористов] демид журавлёв [demid3450]: "/home"
+DeathMessagesRemastered >> Broadcast: Dr.Lee Gamezer  fell to their death!
+Dr.Lee Gamezer  [Sergeant Gamezer] fractured to death!
+PlayerInfoLib >> No expired player info records found for this batch.
+
+END with Bans:
+TimerTerminateCommand.Enabled with Players:
+Client has executed command "players"
+Players:
+PlayerID: 76561198376380342 Name: Sergeant Gamezer Character: Dr.Lee Gamezer  Ping: 125
+PlayerID: 76561198345092267 Name: demid3450 Character: [гл террористов] демид журавлёв Ping: 125
+PlayerID: 76561198280617288 Name: Незнаю какой придумать Character: Пипр Ping: 46
+PlayerID: 76561198367927405 Name: < blank > Character: < blank > Ping: 125
+
+Не обработано: MessageAnnouncer >> Broadcast: Используйте /report [ник], чтобы отправить жалобу на игрока
+TimerTerminateCommand.Enabled with Players:
+MessageAnnouncer >> Broadcast: Используйте /report [ник], чтобы отправить жалобу на игрока
+
+Не обработано: MessageAnnouncer >> Используйте /report [ник], чтобы отправить жалобу на игрока
+TimerTerminateCommand.Enabled with Players:
+MessageAnnouncer >> Используйте /report [ник], чтобы отправить жалобу на игрока
+
+END with Players:

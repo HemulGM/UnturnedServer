@@ -1,0 +1,51 @@
+RocketRcon v2.4.8.0
+
+login aVIPs22031994
+players
+Client has executed command "players"
+Failed to find any players.
+
+Client has executed command "GET NOW"
+ServerControl >> VALUE NOW [0] [0] [3311]
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [3321]
+
+GET NOW
+Client has executed command "GET NOW"
+ServerControl >> VALUE NOW [0] [0] [3321]
+
+Client has executed command "players"
+
+Failed to find any players.
+
+MessageAnnouncer >> Broadcast: Посетите наш сайт. Вы будете удивлены! unturned.hemulgm.ru
+
+MessageAnnouncer >> Посетите наш сайт. Вы будете удивлены! unturned.hemulgm.ru
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [3331]
+
+GET NOW
+Client has executed command "GET NOW"
+ServerControl >> VALUE NOW [0] [0] [3333]
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [3341]
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [3343]
+
+Client has executed command "players"
+
+Failed to find any players.
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [3351]
+

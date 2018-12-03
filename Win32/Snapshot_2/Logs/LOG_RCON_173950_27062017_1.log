@@ -1,0 +1,7 @@
+27.06.2017 17:39:59: Не обработано: TheNightWolf [TheNightWolf] was burned by a zombie!
+27.06.2017 17:39:59: Не обработано: NullReferenceException - SDG.Unturned.UseableMelee.fire ()
+27.06.2017 17:39:59: Не обработано: SDG.Unturned.UseableMelee.simulate (UInt32 simulation, Boolean inputSteady)
+27.06.2017 17:39:59: Не обработано: SDG.Unturned.PlayerEquipment.simulate (UInt32 simulation, Boolean inputPrimary, Boolean inputSecondary, Boolean inputSteady)
+27.06.2017 17:39:59: Не обработано: SDG.Unturned.PlayerInput.FixedUpdate ()
+27.06.2017 17:40:10: Не обработано: LordofPvP [LordofPvP] was mauled by a zombie!
+27.06.2017 17:42:04: Не обработано: MandarinJEFF [MandarinJEFF] was mauled by a zombie!

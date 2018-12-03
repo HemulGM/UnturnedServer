@@ -1,0 +1,54 @@
+RocketRcon v2.4.8.0
+
+login aVIPs22031994
+players
+Client has executed command "players"
+Players:
+PlayerID: 76561198273639213 Name: KuRwa Character: Морф Стоун Ping: 111
+Client has executed command "bans"
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 26371373
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 29251651
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 29251667
+Client has executed command "players"
+Players:
+PlayerID: 76561198273639213 Name: KuRwa Character: Морф Стоун Ping: 109
+
+END
+END
+END
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 26371371
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 29251649
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 29251665
+
+Client has executed command "cchat "/33/09/17/04/17/15/16 /24/05/17/05/08 3 /24. 30 /13. " 255 255 0"
+
+ServerControl >> Broadcast: Аирдроп через 3 ч. 30 м.
+Client has executed command "cchat "" 0 0 0"
+
+Не обработано: ServerControl >> Broadcast: Аирдроп через 3 ч. 30 м.
+END
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [1946]
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [1950]
+

@@ -1,0 +1,37 @@
+Не обработано: RocketRcon v2.4.8.0
+RocketRcon v2.4.8.0
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 49
+PlayerID: 76561198289556960 Name: доширак Character: artiom$KI Ping: 163
+PlayerID: 76561198095089210 Name: //UndeR?ake? Character: //Mr.GoodM?n.RU. Ping: 44
+PlayerID: 76561198152563082 Name: Drakon Character: Stanat Ping: 134
+PlayerID: 76561198262878051 Name: Kolder Character: Kolder Ping: 55
+PlayerID: 76561198292543416 Name: Mr_GiladKing Character: GiladKing Ping: 57
+PlayerID: 76561198235802198 Name: Bodya Character: Bodya Ping: 131
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 169
+PlayerID: 76561198368930526 Name: LLlaxuD Character: LLlaxuD Ping: 147
+PlayerID: 76561198123840535 Name: ?????? Character: top Ping: 210
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4293984856
+
+Не обработано: Bodya moved x:-826.4387 y:88.07556(+16.35421) z:-428.0832 in the last second (1)
+TimerTerminateCommand.Enabled with Bans:
+Bodya moved x:-826.4387 y:88.07556(+16.35421) z:-428.0832 in the last second (1)
+
+TimerTerminateCommand.Enabled with Bans:
+[World] Expert1337 [Expert13372284200]: "новая"
+
+END with Bans:
+[Group] Stanat [Drakon]: "из мода"
+

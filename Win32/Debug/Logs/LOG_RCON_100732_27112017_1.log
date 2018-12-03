@@ -1,0 +1,45 @@
+RocketRcon v2.4.8.0
+
+login aVIPs22031994
+players
+Client has executed command "players"
+Failed to find any players.
+
+Client has executed command "GET NOW"
+ServerControl >> VALUE NOW [0] [0] [2946]
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2956]
+
+Client has executed command "players"
+
+Failed to find any players.
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2958]
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2966]
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2968]
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2976]
+
+Client has executed command "players"
+
+Failed to find any players.
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2978]
+

@@ -1,0 +1,87 @@
+RocketRcon v2.4.8.0
+
+login aVIPs22031994
+players
+Client has executed command "players"
+Players:
+PlayerID: 76561198273639213 Name: KuRwa Character: Морф Стоун Ping: 44
+Client has executed command "bans"
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 26370723
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 29251001
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 29251017
+
+END
+END
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198273639213 Name: KuRwa Character: Морф Стоун Ping: 54
+
+END
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 26370716
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 29250994
+PlayerID: 76561198374710965
+JudgeID: 0
+
+Reason: cheater Duration: 31104000 Remaining: 29251010
+
+Client has executed command "GET NOW"
+ServerControl >> VALUE NOW [0] [0] [2596]
+
+END
+GET NOW
+Client has executed command "GET NOW"
+ServerControl >> VALUE NOW [0] [0] [2601]
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2606]
+
+GET NOW
+Client has executed command "GET NOW"
+ServerControl >> VALUE NOW [0] [0] [2613]
+
+Client has executed command "players"
+Players:
+PlayerID: 76561198273639213 Name: KuRwa Character: Морф Стоун Ping: 50
+
+END
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2616]
+
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 26370695
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 29250973
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 29250989
+
+END
+MessageAnnouncer >> Broadcast: Посетите наш сайт. Вы будете удивлены! unturned.hemulgm.ru
+
+MessageAnnouncer >> Посетите наш сайт. Вы будете удивлены! unturned.hemulgm.ru
+
+GET NOW
+Client has executed command "GET NOW"
+

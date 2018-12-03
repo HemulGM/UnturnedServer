@@ -1,0 +1,124 @@
+23.06.2017 10:38:55: Не обработано: RocketRcon v2.4.8.0
+23.06.2017 10:40:47: Successfully gave ?CIS™ 845!
+23.06.2017 10:41:04: Не обработано: Перезагрузка Rocket
+23.06.2017 10:41:04: Не обработано: 
+23.06.2017 10:41:04: Не обработано: [unloading] VehicleEvents
+23.06.2017 10:41:04: Не обработано: [unloading] Uconomy
+23.06.2017 10:41:04: Не обработано: [unloading] RocketMod_TPA
+23.06.2017 10:41:04: Не обработано: [unloading] PrivateMessages
+23.06.2017 10:41:04: Не обработано: [unloading] PlayerInfoLib
+23.06.2017 10:41:04: Не обработано: [unloading] MessageAnnouncerMessageAnnouncer >> Unload
+23.06.2017 10:41:04: Не обработано: 
+23.06.2017 10:41:04: Не обработано: [unloading] LeeIzaZombie.ItemRestrictions
+23.06.2017 10:41:04: Не обработано: [unloading] Kits
+23.06.2017 10:41:04: Не обработано: [unloading] JoinLeaveMessages
+23.06.2017 10:41:04: Не обработано: [unloading] DynmapDynmap >> Unloading ...
+23.06.2017 10:41:04: Не обработано: 
+23.06.2017 10:41:04: Не обработано: [unloading] DropManager
+23.06.2017 10:41:04: Не обработано: [unloading] DeathMessagesRemastered
+23.06.2017 10:41:04: Не обработано: [unloading] DeathManager
+23.06.2017 10:41:04: Не обработано: Loading DeathManager from C:\Program Files (x86)\Steam\steamapps\common\Unturned\Servers\Russia_HGM\Rocket\Plugins\DeathManager.dll
+23.06.2017 10:41:04: Не обработано: Loading DeathMessagesRemastered from C:\Program Files (x86)\Steam\steamapps\common\Unturned\Servers\Russia_HGM\Rocket\Plugins\DeathMessagesRemastered.dll
+23.06.2017 10:41:04: Не обработано: Loading DropManager from C:\Program Files (x86)\Steam\steamapps\common\Unturned\Servers\Russia_HGM\Rocket\Plugins\DropManager.dll
+23.06.2017 10:41:04: Не обработано: Loading Dynmap from C:\Program Files (x86)\Steam\steamapps\common\Unturned\Servers\Russia_HGM\Rocket\Plugins\Dynmap.dll
+23.06.2017 10:41:04: Не обработано: Loading JoinLeaveMessages from C:\Program Files (x86)\Steam\steamapps\common\Unturned\Servers\Russia_HGM\Rocket\Plugins\JoinLeaveMessages.dll
+23.06.2017 10:41:04: Не обработано: Loading Kits from C:\Program Files (x86)\Steam\steamapps\common\Unturned\Servers\Russia_HGM\Rocket\Plugins\Kits.dll
+23.06.2017 10:41:04: Не обработано: Loading LeeIzaZombie.ItemRestrictions from C:\Program Files (x86)\Steam\steamapps\common\Unturned\Servers\Russia_HGM\Rocket\Plugins\LeeIzaZombie.ItemRestrictions.dll
+23.06.2017 10:41:04: Не обработано: Loading MessageAnnouncer from C:\Program Files (x86)\Steam\steamapps\common\Unturned\Servers\Russia_HGM\Rocket\Plugins\MessageAnnouncer.dll
+23.06.2017 10:41:04: Не обработано: Loading PlayerInfoLib from C:\Program Files (x86)\Steam\steamapps\common\Unturned\Servers\Russia_HGM\Rocket\Plugins\PlayerInfoLib.dll
+23.06.2017 10:41:04: Не обработано: Loading PrivateMessages from C:\Program Files (x86)\Steam\steamapps\common\Unturned\Servers\Russia_HGM\Rocket\Plugins\PrivateMessages.dll
+23.06.2017 10:41:04: Не обработано: Loading RocketMod_TPA from C:\Program Files (x86)\Steam\steamapps\common\Unturned\Servers\Russia_HGM\Rocket\Plugins\RocketMod_TPA.dll
+23.06.2017 10:41:04: Не обработано: Loading Uconomy from C:\Program Files (x86)\Steam\steamapps\common\Unturned\Servers\Russia_HGM\Rocket\Plugins\Uconomy.dll
+23.06.2017 10:41:04: Не обработано: Loading VehicleEvents from C:\Program Files (x86)\Steam\steamapps\common\Unturned\Servers\Russia_HGM\Rocket\Plugins\VehicleEvents.dll
+23.06.2017 10:41:04: Не обработано: 
+23.06.2017 10:41:04: Не обработано: [loading] DeathManager
+23.06.2017 10:41:04: Не обработано: [loading] DeathMessagesRemasteredDeathMessagesRemastered >> Death Messages Remastered has been loaded!
+23.06.2017 10:41:04: Не обработано: --
+23.06.2017 10:41:04: Не обработано: Suicide messages are enabled!
+23.06.2017 10:41:04: Не обработано: Health warning messages are enabled!
+23.06.2017 10:41:04: Не обработано: Uconomy is enabled!
+23.06.2017 10:41:04: Не обработано: Experience is enabled!
+23.06.2017 10:41:04: Не обработано: --
+23.06.2017 10:41:04: Не обработано: 
+23.06.2017 10:41:04: Не обработано: [loading] DropManager
+23.06.2017 10:41:04: Не обработано: [loading] DynmapDynmap >> Loading ...
+23.06.2017 10:41:04: Не обработано: Dynmap >> Finding map : C:\Program Files (x86)\Steam\steamapps\common\Unturned\Maps\Alpha Valley
+23.06.2017 10:41:04: Не обработано: Dynmap >> Finding map : C:\Program Files (x86)\Steam\steamapps\common\Unturned\Maps\Devtest4
+23.06.2017 10:41:04: Не обработано: Dynmap >> Finding map : C:\Program Files (x86)\Steam\steamapps\common\Unturned\Maps\Festive PEI
+23.06.2017 10:41:04: Не обработано: Dynmap >> Finding map : C:\Program Files (x86)\Steam\steamapps\common\Unturned\Maps\Festive Russia
+23.06.2017 10:41:04: Не обработано: Dynmap >> Finding map : C:\Program Files (x86)\Steam\steamapps\common\Unturned\Maps\Halloween PEI
+23.06.2017 10:41:04: Не обработано: Dynmap >> Finding map : C:\Program Files (x86)\Steam\steamapps\common\Unturned\Maps\Hawaii
+23.06.2017 10:41:04: Не обработано: Dynmap >> Finding map : C:\Program Files (x86)\Steam\steamapps\common\Unturned\Maps\Monolith
+23.06.2017 10:41:04: Не обработано: Dynmap >> Finding map : C:\Program Files (x86)\Steam\steamapps\common\Unturned\Maps\Paintball_Arena_0
+23.06.2017 10:41:04: Не обработано: Dynmap >> Finding map : C:\Program Files (x86)\Steam\steamapps\common\Unturned\Maps\PEI
+23.06.2017 10:41:04: Не обработано: Dynmap >> Finding map : C:\Program Files (x86)\Steam\steamapps\common\Unturned\Maps\PEI Arena
+23.06.2017 10:41:04: Не обработано: Dynmap >> Finding map : C:\Program Files (x86)\Steam\steamapps\common\Unturned\Maps\PEI_Space
+23.06.2017 10:41:04: Не обработано: Dynmap >> Finding map : C:\Program Files (x86)\Steam\steamapps\common\Unturned\Maps\Russia
+23.06.2017 10:41:04: Не обработано: Dynmap >> Finding map : C:\Program Files (x86)\Steam\steamapps\common\Unturned\Maps\Tutorial
+23.06.2017 10:41:04: Не обработано: Dynmap >> Finding map : C:\Program Files (x86)\Steam\steamapps\common\Unturned\Maps\Washington
+23.06.2017 10:41:04: Не обработано: Dynmap >> Finding map : C:\Program Files (x86)\Steam\steamapps\common\Unturned\Maps\Washington Arena
+23.06.2017 10:41:04: Не обработано: Dynmap >> Finding map : C:\Program Files (x86)\Steam\steamapps\common\Unturned\Maps\Yukon
+23.06.2017 10:41:04: Не обработано: Uploading map files to the server! This may take some time!
+23.06.2017 10:41:04: Не обработано: Uploading done!
+23.06.2017 10:41:04: Не обработано: 
+23.06.2017 10:41:04: Не обработано: [loading] JoinLeaveMessages
+23.06.2017 10:41:04: Не обработано: [loading] Kits[registered] /kit (fr34kyn01535.Kits.CommandKit/kit)
+23.06.2017 10:41:04: Не обработано: Kits >> Optional dependency Uconomy is not present.
+23.06.2017 10:41:04: Не обработано: 
+23.06.2017 10:41:04: Не обработано: [loading] LeeIzaZombie.ItemRestrictionsSetting up Item Restrictions by LeeIzaZombie. v2.0
+23.06.2017 10:41:04: Не обработано: --
+23.06.2017 10:41:04: Не обработано: Black listed items found: 10
+23.06.2017 10:41:04: Не обработано: --
+23.06.2017 10:41:04: Не обработано: Item Restrictions is ready!
+23.06.2017 10:41:04: Не обработано: 
+23.06.2017 10:41:04: Не обработано: [loading] MessageAnnouncerMessageAnnouncer >> Load
+23.06.2017 10:41:04: Не обработано: [registered] /rules (fr34kyn01535.MessageAnnouncer.RocketTextCommand/rules)
+23.06.2017 10:41:04: Не обработано: [registered] /kits (fr34kyn01535.MessageAnnouncer.RocketTextCommand/kits)
+23.06.2017 10:41:04: Не обработано: 
+23.06.2017 10:41:04: Не обработано: [loading] PlayerInfoLib[registered] /delint (PlayerInfoLibrary.CommandDelInstance/delint)
+23.06.2017 10:41:04: Не обработано: [registered] /rnint (PlayerInfoLibrary.CommandRnInstance/rnint)
+23.06.2017 10:41:04: Не обработано: [registered] /investigate (PlayerInfoLibrary.CommandInvestigate/investigate)
+23.06.2017 10:41:04: Не обработано: PlayerInfoLib >> PlayerInfoLib plugin has been loaded, Server Instance ID is: 1
+23.06.2017 10:41:04: Не обработано: Adding UnturnedPlayerComponent: PlayerInfoLibPComponent
+23.06.2017 10:41:04: Не обработано: 
+23.06.2017 10:41:04: Не обработано: [loading] PrivateMessages[registered] /pm (Teyhota.PrivateMessages.Command_Msg/pm)
+23.06.2017 10:41:04: Не обработано: [registered] /msg (Teyhota.PrivateMessages.Command_Msg/msg)
+23.06.2017 10:41:04: Не обработано: [registered] /dm (Teyhota.PrivateMessages.Command_Msg/dm)
+23.06.2017 10:41:04: Не обработано: [registered] /w (Teyhota.PrivateMessages.Command_Msg/w)
+23.06.2017 10:41:04: Не обработано: [registered] /whipser (Teyhota.PrivateMessages.Command_Msg/whipser)
+23.06.2017 10:41:04: Не обработано: [registered] /reply (Teyhota.PrivateMessages.Command_Reply/reply)
+23.06.2017 10:41:04: Не обработано: [registered] /r (Teyhota.PrivateMessages.Command_Reply/r)
+23.06.2017 10:41:04: Не обработано:  
+23.06.2017 10:41:04: Не обработано: Plugin by: LjMjollnir & Teyhota
+23.06.2017 10:41:04: Не обработано: Plugin version: 1.2
+23.06.2017 10:41:04: Не обработано: Made for Unturned version: 3.18.4.1
+23.06.2017 10:41:04: Не обработано: Made for RocketMod version: 4.9.3.0
+23.06.2017 10:41:04: Не обработано: Support: Plugins.4Unturned.tk
+23.06.2017 10:41:04: Не обработано:  
+23.06.2017 10:41:04: Не обработано: ------
+23.06.2017 10:41:04: Не обработано: PrivateMessages is up to date!
+23.06.2017 10:41:04: Не обработано: ------
+23.06.2017 10:41:04: Не обработано: 
+23.06.2017 10:41:04: Не обработано: [loading] RocketMod_TPA[registered] /tpa (RocketMod_TPA.CommandTPA/tpa)
+23.06.2017 10:41:04: Не обработано: TPA by LeeIzaZombie, Version 1.7.0.2
+23.06.2017 10:41:04: Не обработано: ...
+23.06.2017 10:41:04: Не обработано: Current configuration:
+23.06.2017 10:41:04: Не обработано: ...
+23.06.2017 10:41:04: Не обработано: Cooldown TPA requests: enabled, Seconds: 90
+23.06.2017 10:41:04: Не обработано: Delay teleporting: disabled, Seconds: 10
+23.06.2017 10:41:04: Не обработано: Cancel teleport if bleeding: disabled
+23.06.2017 10:41:04: Не обработано: NinjaTP: disabled, EffectID: 45
+23.06.2017 10:41:04: Не обработано: [Delay] Cancel teleport if hurt: disabled
+23.06.2017 10:41:04: Не обработано: ...
+23.06.2017 10:41:04: Не обработано: Checking for problems:
+23.06.2017 10:41:04: Не обработано: No errors have been found!
+23.06.2017 10:41:04: Не обработано: ...
+23.06.2017 10:41:04: Не обработано: Always welcome to suggestions! If you find a bug, please report it!
+23.06.2017 10:41:04: Не обработано: 
+23.06.2017 10:41:04: Не обработано: [loading] Uconomy[registered] /balance (fr34kyn01535.Uconomy.CommandBalance/balance)
+23.06.2017 10:41:04: Не обработано: [registered] /pay (fr34kyn01535.Uconomy.CommandPay/pay)
+23.06.2017 10:41:05: Не обработано: 
+23.06.2017 10:41:05: Не обработано: [loading] VehicleEventsVehicle Events by CryTheSly has been loaded!
+23.06.2017 10:41:05: Не обработано: VehicleEvents >> Broadcast: Брошенный чёрный хетчбек в Seattle! Найди его и он твой!
+23.06.2017 10:42:30: Не обработано: 7_AleX_3 moved x:-794.3767 y:54.79858(+16.10556) z:-173.6032 in the last second (1)
+23.06.2017 10:42:39: Successfully kicked ?CIS™!

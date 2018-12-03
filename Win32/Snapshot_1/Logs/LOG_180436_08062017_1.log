@@ -1,0 +1,80 @@
+Не обработано: RocketRcon v2.4.8.0
+RocketRcon v2.4.8.0
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198165822970 Name: Indigo Character: Indigo Ping: 39
+PlayerID: 76561198114070067 Name: Маг1стрЙ0да- Character: Samurai Ping: 39
+PlayerID: 76561198305732269 Name: Owl Character: Owl Ping: 117
+PlayerID: 76561198177412437 Name: korak Character: korak Ping: 156
+PlayerID: 76561198314638573 Name: UDODMEN Character: udodmen Ping: 78
+PlayerID: 76561198293594446 Name: R_B_KOCMOCE Character: Lol-чик Ping: 62
+PlayerID: 76561198392992149 Name: ivan.evdokimov.07 Character: ivan.evdokimov.07 Ping: 78
+PlayerID: 76561198239840530 Name: BeToC Character: BeToC Ping: 70
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: [MODER]Expert1337 Ping: 148
+PlayerID: 76561198354362951 Name: m.m.vilkauss Character: miks Ping: 78
+PlayerID: 76561198256794301 Name: MaxPlayRus Character: MaxPlayRus Ping: 62
+PlayerID: 76561198333715440 Name: MartynoGaming Character: MartynoGaming Ping: 93
+
+TimerTerminateCommand.Enabled with Players:
+[World] MaxPlayRus [MaxPlayRus]: "/kit hgm 1"
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294221926
+
+END with Bans:
+Не обработано: PlayerInfoLib >> No expired player info records found for this batch.
+PlayerInfoLib >> No expired player info records found for this batch.
+
+Не обработано: MessageAnnouncer >> Broadcast: Наберите /kit help, чтобы получить первую мед. помощь (бинты, таблетки, еда)
+MessageAnnouncer >> Broadcast: Наберите /kit help, чтобы получить первую мед. помощь (бинты, таблетки, еда)
+
+Не обработано: MessageAnnouncer >> Наберите /kit help, чтобы получить первую мед. помощь (бинты, таблетки, еда)
+MessageAnnouncer >> Наберите /kit help, чтобы получить первую мед. помощь (бинты, таблетки, еда)
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198165822970 Name: Indigo Character: Indigo Ping: 62
+PlayerID: 76561198114070067 Name: Маг1стрЙ0да- Character: Samurai Ping: 39
+PlayerID: 76561198305732269 Name: Owl Character: Owl Ping: 70
+PlayerID: 76561198177412437 Name: korak Character: korak Ping: 132
+PlayerID: 76561198314638573 Name: UDODMEN Character: udodmen Ping: 62
+PlayerID: 76561198293594446 Name: R_B_KOCMOCE Character: Lol-чик Ping: 78
+PlayerID: 76561198392992149 Name: ivan.evdokimov.07 Character: ivan.evdokimov.07 Ping: 62
+PlayerID: 76561198239840530 Name: BeToC Character: BeToC Ping: 78
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: [MODER]Expert1337 Ping: 148
+PlayerID: 76561198354362951 Name: m.m.vilkauss Character: miks Ping: 85
+PlayerID: 76561198256794301 Name: MaxPlayRus Character: MaxPlayRus Ping: 62
+PlayerID: 76561198333715440 Name: MartynoGaming Character: MartynoGaming Ping: 109
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294221907
+
+END with Bans:
+Не обработано: DeathMessagesRemastered >> Broadcast: MartynoGaming was killed by fire!
+DeathMessagesRemastered >> Broadcast: MartynoGaming was killed by fire!
+
+Не обработано: MartynoGaming [MartynoGaming] was burned by a zombie!
+MartynoGaming [MartynoGaming] was burned by a zombie!
+
+Client has executed command "say """
+
+Не обработано: Failed to find parameters in format [Text]/[R]/[G]/[B].
+Failed to find parameters in format [Text]/[R]/[G]/[B].
+

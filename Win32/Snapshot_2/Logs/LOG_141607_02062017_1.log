@@ -1,0 +1,461 @@
+Не обработано: RocketRcon v2.4.8.0
+RocketRcon v2.4.8.0
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198198481426 Name: JasonVH Character: JasonVH Ping: 85
+PlayerID: 76561198382557259 Name: samygin_05 Character: Алёша Ping: 39
+PlayerID: 76561198314638573 Name: UDODMEN Character: udodmen Ping: 70
+PlayerID: 76561198176817369 Name: ?. Character: GlodiS Ping: 54
+PlayerID: 76561198275756732 Name: elistratovartem9 Character: mr_nzta Ping: 31
+PlayerID: 76561198371041527 Name: ¦_s1mple_¦ Character: miguelhormat Ping: 31
+PlayerID: 76561198256962041 Name: Omega orange Character: CLI Ping: 62
+PlayerID: 76561198376937344 Name: mr.dushukhin Character: mr.dushukhin Ping: 210
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 140
+PlayerID: 76561198105181692 Name: Военком Character: Jake King Ping: 85
+PlayerID: 76561198328796128 Name: InK maze Character: NOOMBOOM Ping: 39
+
+TimerTerminateCommand.Enabled with Players:
+Client has executed command "bans"
+
+END with Players:
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 123123
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 31289869
+PlayerID: 123
+JudgeID: 0
+Reason: durila Duration: 4000 Remaining: 4294725663
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294754036
+
+TimerTerminateCommand.Enabled with Bans:
+Disconnecting: PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337
+
+END with Bans:
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198198481426 Name: JasonVH Character: JasonVH Ping: 78
+PlayerID: 76561198382557259 Name: samygin_05 Character: Алёша Ping: 46
+PlayerID: 76561198314638573 Name: UDODMEN Character: udodmen Ping: 62
+PlayerID: 76561198176817369 Name: ?. Character: GlodiS Ping: 62
+PlayerID: 76561198275756732 Name: elistratovartem9 Character: mr_nzta Ping: 31
+PlayerID: 76561198371041527 Name: ¦_s1mple_¦ Character: miguelhormat Ping: 31
+PlayerID: 76561198256962041 Name: Omega orange Character: CLI Ping: 62
+PlayerID: 76561198376937344 Name: mr.dushukhin Character: mr.dushukhin Ping: 273
+PlayerID: 76561198105181692 Name: Военком Character: Jake King Ping: 78
+PlayerID: 76561198328796128 Name: InK maze Character: NOOMBOOM Ping: 31
+
+TimerTerminateCommand.Enabled with Players:
+[World] mr_nzta [elistratovartem9]: "Я БОМЖ У МЕНЯ КРОМЕ НОЖА НИЧО НЕТУ"
+
+END with Players:
+Не обработано: DeathMessagesRemastered >> Broadcast: NOOMBOOM has killed himself!
+DeathMessagesRemastered >> Broadcast: NOOMBOOM has killed himself!
+
+Не обработано: NOOMBOOM [InK maze] killed themself.
+NOOMBOOM [InK maze] killed themself.
+
+[World] CLI [Omega orange]: "бляя"
+
+[World] CLI [Omega orange]: "я разьебал дом"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198198481426 Name: JasonVH Character: JasonVH Ping: 70
+PlayerID: 76561198382557259 Name: samygin_05 Character: Алёша Ping: 31
+PlayerID: 76561198314638573 Name: UDODMEN Character: udodmen Ping: 62
+PlayerID: 76561198176817369 Name: ?. Character: GlodiS Ping: 78
+PlayerID: 76561198275756732 Name: elistratovartem9 Character: mr_nzta Ping: 31
+PlayerID: 76561198371041527 Name: ¦_s1mple_¦ Character: miguelhormat Ping: 31
+PlayerID: 76561198256962041 Name: Omega orange Character: CLI Ping: 62
+PlayerID: 76561198376937344 Name: mr.dushukhin Character: mr.dushukhin Ping: 210
+PlayerID: 76561198105181692 Name: Военком Character: Jake King Ping: 78
+PlayerID: 76561198328796128 Name: InK maze Character: NOOMBOOM Ping: 31
+
+END with Players:
+Client has executed command "say "HemulGM: Nad che?""
+
+[World] CLI [Omega orange]: "а арея клейм"
+
+[World] mr_nzta [elistratovartem9]: "ЭТО ОБАМА ВИНОВАТ"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198198481426 Name: JasonVH Character: JasonVH Ping: 70
+PlayerID: 76561198382557259 Name: samygin_05 Character: Алёша Ping: 31
+PlayerID: 76561198314638573 Name: UDODMEN Character: udodmen Ping: 62
+PlayerID: 76561198176817369 Name: ?. Character: GlodiS Ping: 62
+PlayerID: 76561198275756732 Name: elistratovartem9 Character: mr_nzta Ping: 31
+PlayerID: 76561198371041527 Name: ¦_s1mple_¦ Character: miguelhormat Ping: 31
+PlayerID: 76561198256962041 Name: Omega orange Character: CLI Ping: 62
+PlayerID: 76561198376937344 Name: mr.dushukhin Character: mr.dushukhin Ping: 273
+PlayerID: 76561198105181692 Name: Военком Character: Jake King Ping: 78
+PlayerID: 76561198328796128 Name: InK maze Character: NOOMBOOM Ping: 31
+
+TimerTerminateCommand.Enabled with Players:
+Disconnecting: PlayerID: 76561198328796128 Name: InK maze Character: NOOMBOOM
+
+END with Players:
+[World] CLI [Omega orange]: "да вообще бля"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198198481426 Name: JasonVH Character: JasonVH Ping: 70
+PlayerID: 76561198382557259 Name: samygin_05 Character: Алёша Ping: 46
+PlayerID: 76561198314638573 Name: UDODMEN Character: udodmen Ping: 62
+PlayerID: 76561198176817369 Name: ?. Character: GlodiS Ping: 54
+PlayerID: 76561198275756732 Name: elistratovartem9 Character: mr_nzta Ping: 31
+PlayerID: 76561198371041527 Name: ¦_s1mple_¦ Character: miguelhormat Ping: 31
+PlayerID: 76561198256962041 Name: Omega orange Character: CLI Ping: 62
+PlayerID: 76561198376937344 Name: mr.dushukhin Character: mr.dushukhin Ping: 203
+PlayerID: 76561198105181692 Name: Военком Character: Jake King Ping: 78
+
+TimerTerminateCommand.Enabled with Players:
+Connecting: PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337
+
+TimerTerminateCommand.Enabled with Players:
+Client has executed command "say "naberi kit start""
+
+END with Players:
+[World] mr_nzta [elistratovartem9]: "ВАЩЕ ОН АХРИНЕЛ"
+
+[World] CLI [Omega orange]: "что это за хуйня"
+
+[World] Expert1337 [Expert13372284200]: ".лше рудз"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198198481426 Name: JasonVH Character: JasonVH Ping: 70
+PlayerID: 76561198382557259 Name: samygin_05 Character: Алёша Ping: 39
+PlayerID: 76561198314638573 Name: UDODMEN Character: udodmen Ping: 62
+PlayerID: 76561198176817369 Name: ?. Character: GlodiS Ping: 62
+PlayerID: 76561198275756732 Name: elistratovartem9 Character: mr_nzta Ping: 23
+PlayerID: 76561198371041527 Name: ¦_s1mple_¦ Character: miguelhormat Ping: 23
+PlayerID: 76561198256962041 Name: Omega orange Character: CLI Ping: 62
+PlayerID: 76561198376937344 Name: mr.dushukhin Character: mr.dushukhin Ping: 218
+PlayerID: 76561198105181692 Name: Военком Character: Jake King Ping: 78
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 132
+
+END with Players:
+[World] mr_nzta [elistratovartem9]: "ОБАМА?"
+
+[World] CLI [Omega orange]: "админ прикалывается?"
+
+[World] Expert1337 [Expert13372284200]: "/kit help"
+
+Не обработано: Алёша [samygin_05] is calling a vote to kick CLI [Omega orange]
+Алёша [samygin_05] is calling a vote to kick CLI [Omega orange]
+
+Не обработано: MessageAnnouncer >> Broadcast: vk.com/unturned_hgm - группа сервера ВК, уникальный кит в записи!
+MessageAnnouncer >> Broadcast: vk.com/unturned_hgm - группа сервера ВК, уникальный кит в записи!
+
+Не обработано: MessageAnnouncer >> vk.com/unturned_hgm - группа сервера ВК, уникальный кит в записи!
+MessageAnnouncer >> vk.com/unturned_hgm - группа сервера ВК, уникальный кит в записи!
+
+[World] CLI [Omega orange]: "лёха,ты не ахуель?"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198198481426 Name: JasonVH Character: JasonVH Ping: 70
+PlayerID: 76561198382557259 Name: samygin_05 Character: Алёша Ping: 39
+
+TimerTerminateCommand.Enabled with Players:
+PlayerID: 76561198314638573 Name: UDODMEN Character: udodmen Ping: 70
+PlayerID: 76561198176817369 Name: ?. Character: GlodiS Ping: 62
+PlayerID: 76561198275756732 Name: elistratovartem9 Character: mr_nzta Ping: 23
+PlayerID: 76561198371041527 Name: ¦_s1mple_¦ Character: miguelhormat Ping: 31
+PlayerID: 76561198256962041 Name: Omega orange Character: CLI Ping: 62
+PlayerID: 76561198376937344 Name: mr.dushukhin Character: mr.dushukhin Ping: 179
+PlayerID: 76561198105181692 Name: Военком Character: Jake King Ping: 78
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 132
+
+END with Players:
+Не обработано: Vote failed!
+Vote failed!
+
+[World] CLI [Omega orange]: "аргументы"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198198481426 Name: JasonVH Character: JasonVH Ping: 70
+PlayerID: 76561198382557259 Name: samygin_05 Character: Алёша Ping: 39
+PlayerID: 76561198314638573 Name: UDODMEN Character: udodmen Ping: 70
+PlayerID: 76561198176817369 Name: ?. Character: GlodiS Ping: 62
+PlayerID: 76561198275756732 Name: elistratovartem9 Character: mr_nzta Ping: 31
+PlayerID: 76561198371041527 Name: ¦_s1mple_¦ Character: miguelhormat Ping: 31
+PlayerID: 76561198256962041 Name: Omega orange Character: CLI Ping: 62
+PlayerID: 76561198376937344 Name: mr.dushukhin Character: mr.dushukhin Ping: 164
+PlayerID: 76561198105181692 Name: Военком Character: Jake King Ping: 78
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 117
+
+END with Players:
+[World] CLI [Omega orange]: "или безосновательная агрессия?"
+
+Client has executed command "say "Nikto ne prikalyvaetsya""
+
+[World] Expert1337 [Expert13372284200]: "кому на скорпион 7 нужно"
+
+[World] CLI [Omega orange]: "admin"
+
+Client has executed command "say "ChTo""
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198198481426 Name: JasonVH Character: JasonVH Ping: 101
+PlayerID: 76561198382557259 Name: samygin_05 Character: Алёша Ping: 54
+PlayerID: 76561198314638573 Name: UDODMEN Character: udodmen Ping: 70
+PlayerID: 76561198176817369 Name: ?. Character: GlodiS Ping: 70
+PlayerID: 76561198275756732 Name: elistratovartem9 Character: mr_nzta Ping: 31
+PlayerID: 76561198371041527 Name: ¦_s1mple_¦ Character: miguelhormat Ping: 39
+PlayerID: 76561198256962041 Name: Omega orange Character: CLI Ping: 62
+PlayerID: 76561198376937344 Name: mr.dushukhin Character: mr.dushukhin Ping: 171
+PlayerID: 76561198105181692 Name: Военком Character: Jake King Ping: 78
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 125
+
+END with Players:
+[World] CLI [Omega orange]: "its a"
+
+[World] CLI [Omega orange]: "amazing car"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198198481426 Name: JasonVH Character: JasonVH Ping: 78
+PlayerID: 76561198382557259 Name: samygin_05 Character: Алёша Ping: 62
+PlayerID: 76561198314638573 Name: UDODMEN Character: udodmen Ping: 70
+PlayerID: 76561198176817369 Name: ?. Character: GlodiS Ping: 62
+PlayerID: 76561198275756732 Name: elistratovartem9 Character: mr_nzta Ping: 31
+PlayerID: 76561198371041527 Name: ¦_s1mple_¦ Character: miguelhormat Ping: 39
+PlayerID: 76561198256962041 Name: Omega orange Character: CLI Ping: 62
+PlayerID: 76561198376937344 Name: mr.dushukhin Character: mr.dushukhin Ping: 179
+PlayerID: 76561198105181692 Name: Военком Character: Jake King Ping: 85
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 132
+
+END with Players:
+[World] miguelhormat [¦_s1mple_¦]: "/tpa CLI"
+
+[World] CLI [Omega orange]: "admen"
+
+[World] CLI [Omega orange]: "pamagi"
+
+Client has executed command "say "Pishi normal'no, ne trasnlitom""
+
+[World] CLI [Omega orange]: "ples"
+
+[World] CLI [Omega orange]: "адмен"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198198481426 Name: JasonVH Character: JasonVH Ping: 70
+PlayerID: 76561198382557259 Name: samygin_05 Character: Алёша Ping: 46
+PlayerID: 76561198314638573 Name: UDODMEN Character: udodmen Ping: 70
+PlayerID: 76561198176817369 Name: ?. Character: GlodiS Ping: 62
+PlayerID: 76561198275756732 Name: elistratovartem9 Character: mr_nzta Ping: 31
+PlayerID: 76561198371041527 Name: ¦_s1mple_¦ Character: miguelhormat Ping: 31
+PlayerID: 76561198256962041 Name: Omega orange Character: CLI Ping: 70
+PlayerID: 76561198376937344 Name: mr.dushukhin Character: mr.dushukhin Ping: 218
+PlayerID: 76561198105181692 Name: Военком Character: Jake King Ping: 85
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 132
+
+TimerTerminateCommand.Enabled with Players:
+[World] CLI [Omega orange]: "памаги"
+
+TimerTerminateCommand.Enabled with Players:
+Client has executed command "say "Che nado""
+
+END with Players:
+[World] CLI [Omega orange]: "поставь крышу и стену"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198198481426 Name: JasonVH Character: JasonVH Ping: 78
+PlayerID: 76561198382557259 Name: samygin_05 Character: Алёша Ping: 46
+PlayerID: 76561198314638573 Name: UDODMEN Character: udodmen Ping: 70
+PlayerID: 76561198176817369 Name: ?. Character: GlodiS Ping: 54
+PlayerID: 76561198275756732 Name: elistratovartem9 Character: mr_nzta Ping: 31
+PlayerID: 76561198371041527 Name: ¦_s1mple_¦ Character: miguelhormat Ping: 31
+PlayerID: 76561198256962041 Name: Omega orange Character: CLI Ping: 85
+PlayerID: 76561198376937344 Name: mr.dushukhin Character: mr.dushukhin Ping: 195
+PlayerID: 76561198105181692 Name: Военком Character: Jake King Ping: 78
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 132
+
+TimerTerminateCommand.Enabled with Players:
+[World] CLI [Omega orange]: "я снёс,а зона клейм"
+
+END with Players:
+Client has executed command "say "Yf' yefme""
+
+[World] CLI [Omega orange]: "а друга в онлайне нет"
+
+Не обработано: MessageAnnouncer >> Broadcast: Наберите /kit help, чтобы получить первую мед. помощь (бинты, таблетки, еда)
+MessageAnnouncer >> Broadcast: Наберите /kit help, чтобы получить первую мед. помощь (бинты, таблетки, еда)
+
+Не обработано: MessageAnnouncer >> Наберите /kit help, чтобы получить первую мед. помощь (бинты, таблетки, еда)
+MessageAnnouncer >> Наберите /kit help, чтобы получить первую мед. помощь (бинты, таблетки, еда)
+
+Client has executed command "say "Cfv cnfdm""
+
+[World] CLI [Omega orange]: "памаги"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198198481426 Name: JasonVH Character: JasonVH Ping: 62
+PlayerID: 76561198382557259 Name: samygin_05 Character: Алёша Ping: 46
+PlayerID: 76561198314638573 Name: UDODMEN Character: udodmen Ping: 70
+PlayerID: 76561198176817369 Name: ?. Character: GlodiS Ping: 62
+PlayerID: 76561198275756732 Name: elistratovartem9 Character: mr_nzta Ping: 31
+PlayerID: 76561198371041527 Name: ¦_s1mple_¦ Character: miguelhormat Ping: 39
+PlayerID: 76561198256962041 Name: Omega orange Character: CLI Ping: 70
+PlayerID: 76561198376937344 Name: mr.dushukhin Character: mr.dushukhin Ping: 234
+PlayerID: 76561198105181692 Name: Военком Character: Jake King Ping: 85
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 132
+
+TimerTerminateCommand.Enabled with Players:
+[World] CLI [Omega orange]: "плееез"
+
+TimerTerminateCommand.Enabled with Players:
+Client has executed command "say "Cytcb rktqv""
+
+END with Players:
+[World] miguelhormat [¦_s1mple_¦]: "кому смоук"
+
+[World] CLI [Omega orange]: "ну плееез"
+
+Client has executed command "say "D uheggs j,]tlbyzqntcm""
+
+[World] CLI [Omega orange]: "ну плееееез"
+
+Client has executed command "say "V gruppy ob'edinyaytes'""
+
+Не обработано: DeathMessagesRemastered >> Broadcast: mr.dushukhin has been mauled by a zombie! 
+DeathMessagesRemastered >> Broadcast: mr.dushukhin has been mauled by a zombie! 
+
+Не обработано: mr.dushukhin [mr.dushukhin] was mauled by a zombie!
+mr.dushukhin [mr.dushukhin] was mauled by a zombie!
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198198481426 Name: JasonVH Character: JasonVH Ping: 70
+PlayerID: 76561198382557259 Name: samygin_05 Character: Алёша Ping: 39
+PlayerID: 76561198314638573 Name: UDODMEN Character: udodmen Ping: 78
+PlayerID: 76561198176817369 Name: ?. Character: GlodiS Ping: 70
+PlayerID: 76561198275756732 Name: elistratovartem9 Character: mr_nzta Ping: 39
+PlayerID: 76561198371041527 Name: ¦_s1mple_¦ Character: miguelhormat Ping: 54
+PlayerID: 76561198256962041 Name: Omega orange Character: CLI Ping: 78
+PlayerID: 76561198376937344 Name: mr.dushukhin Character: mr.dushukhin Ping: 218
+PlayerID: 76561198105181692 Name: Военком Character: Jake King Ping: 117
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 140
+
+TimerTerminateCommand.Enabled with Players:
+[World] CLI [Omega orange]: "мы и так в группе"
+
+END with Players:
+[World] CLI [Omega orange]: "клеймы до группы поставил"
+
+Disconnecting: PlayerID: 76561198376937344 Name: mr.dushukhin Character: mr.dushukhin
+
+Client has executed command "say "Ya tut pri chem togda""
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198198481426 Name: JasonVH Character: JasonVH Ping: 70
+PlayerID: 76561198382557259 Name: samygin_05 Character: Алёша Ping: 46
+PlayerID: 76561198314638573 Name: UDODMEN Character: udodmen Ping: 62
+PlayerID: 76561198176817369 Name: ?. Character: GlodiS Ping: 54
+PlayerID: 76561198275756732 Name: elistratovartem9 Character: mr_nzta Ping: 31
+PlayerID: 76561198371041527 Name: ¦_s1mple_¦ Character: miguelhormat Ping: 39
+PlayerID: 76561198256962041 Name: Omega orange Character: CLI Ping: 78
+PlayerID: 76561198105181692 Name: Военком Character: Jake King Ping: 85
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 125
+
+TimerTerminateCommand.Enabled with Players:
+Client has executed command "say "Snesi kleym""
+
+END with Players:
+[World] CLI [Omega orange]: "ок"
+
+Не обработано: Jake King [Военком] is calling a vote to kick mr_nzta [elistratovartem9]
+Jake King [Военком] is calling a vote to kick mr_nzta [elistratovartem9]
+
+[World] CLI [Omega orange]: "и поставить свой?"
+
+Не обработано: Vote failed!
+Vote failed!
+
+[World] miguelhormat [¦_s1mple_¦]: "/tpa Expert1337"
+
+[World] CLI [Omega orange]: "/kit claim"
+
+Client has executed command "say "Nu da""
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198198481426 Name: JasonVH Character: JasonVH Ping: 62
+PlayerID: 76561198382557259 Name: samygin_05 Character: Алёша Ping: 46
+PlayerID: 76561198314638573 Name: UDODMEN Character: udodmen Ping: 70
+PlayerID: 76561198176817369 Name: ?. Character: GlodiS Ping: 62
+PlayerID: 76561198275756732 Name: elistratovartem9 Character: mr_nzta Ping: 31
+PlayerID: 76561198371041527 Name: ¦_s1mple_¦ Character: miguelhormat Ping: 46
+PlayerID: 76561198256962041 Name: Omega orange Character: CLI Ping: 62
+PlayerID: 76561198105181692 Name: Военком Character: Jake King Ping: 85
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 125
+
+TimerTerminateCommand.Enabled with Players:
+Client has executed command "say "Vy zh v gruppe""
+
+END with Players:
+[World] mr_nzta [elistratovartem9]: "ВАСЯ ТЫ ЧТО?"
+
+[World] CLI [Omega orange]: "посебо,мудрейший одмен"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198198481426 Name: JasonVH Character: JasonVH Ping: 78
+PlayerID: 76561198382557259 Name: samygin_05 Character: Алёша Ping: 46
+PlayerID: 76561198314638573 Name: UDODMEN Character: udodmen Ping: 62
+PlayerID: 76561198176817369 Name: ?. Character: GlodiS Ping: 70
+PlayerID: 76561198275756732 Name: elistratovartem9 Character: mr_nzta Ping: 31
+PlayerID: 76561198371041527 Name: ¦_s1mple_¦ Character: miguelhormat Ping: 31
+PlayerID: 76561198256962041 Name: Omega orange Character: CLI Ping: 62
+PlayerID: 76561198105181692 Name: Военком Character: Jake King Ping: 78
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 140
+
+END with Players:
+[World] miguelhormat [¦_s1mple_¦]: "кто приютит буду рабом"
+

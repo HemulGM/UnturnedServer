@@ -1,0 +1,27 @@
+RocketRcon v2.4.8.0
+
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 132
+PlayerID: 76561198276760430 Name: dnjmack Character: puppminer Ping: 230
+PlayerID: 76561198300812301 Name: KiLeR00707 Character: KiLeR00707 Ping: 35
+
+TimerTerminateCommand.Enabled with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Players:
+Bans:
+PlayerID: 123123
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 31478626
+PlayerID: 123
+JudgeID: 0
+Reason: durila Duration: 4000 Remaining: 4294914420
+PlayerID: 76561198303283372
+JudgeID: 0
+Reason: za_reid Duration: 8000 Remaining: 4294934423
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294942793
+

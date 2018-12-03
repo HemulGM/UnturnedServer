@@ -1,0 +1,32 @@
+Не обработано: RocketRcon v2.4.8.0
+RocketRcon v2.4.8.0
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198336965559 Name: Bomjara Character: Bomjara Ping: 35
+PlayerID: 76561198363828451 Name: Ничоси Character: Кеша Ping: 62
+PlayerID: 76561198165822970 Name: Indigo Character: Indigo Ping: 42
+PlayerID: 76561198305732269 Name: Owl Character: Owl Ping: 58
+PlayerID: 76561198390891968 Name: artyr-zakirov-96 Character: alkash Ping: 58
+PlayerID: 76561198386134948 Name: ZAGNIAGNIA Character: zakary.tellier Ping: 113
+PlayerID: 76561198368128006 Name: Aibek Character: Aibek [A.S.D] Ping: 93
+PlayerID: 76561198376117292 Name: mahanmirzade Character: mahanmirzade Ping: 230
+PlayerID: 76561198373329433 Name: BEHDAD Character: killzone_is_BEHDAD Ping: 250
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 123123
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 31002233
+PlayerID: 123
+JudgeID: 0
+Reason: durila Duration: 4000 Remaining: 4294438027
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294466400
+

@@ -1,0 +1,458 @@
+Не обработано: RocketRcon v2.4.8.0
+RocketRcon v2.4.8.0
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198114070067 Name: Маг1стрЙ0да- Character: Samurai Ping: 39
+PlayerID: 76561198152466685 Name: Blaster006 Character: Blaster006 Ping: 54
+PlayerID: 76561198261276323 Name: Phantom Character: Phantom Ping: 140
+PlayerID: 76561198199039913 Name: VirusShow Character: VirusShow Ping: 46
+PlayerID: 76561198261527485 Name: Shadovprise Character: Shadovprise Ping: 93
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 31
+PlayerID: 76561198165822970 Name: Indigo Character: Indigo Ping: 46
+PlayerID: 76561198128074009 Name: Barash-IQ(11) Character: Barash-IQ Ping: 85
+PlayerID: 76561198291118006 Name: Mord_Fustang Character: Tank Ping: 70
+PlayerID: 76561198304586110 Name: Ty Nik Character: Ty Nik Ping: 54
+PlayerID: 76561198177412437 Name: korak Character: korak Ping: 132
+PlayerID: 76561198388763132 Name: Andrei Character: Andreilol1 Ping: 93
+PlayerID: 76561198366152080 Name: Artemkot!ArtAnd Character: vladimir.andreev Ping: 54
+PlayerID: 76561198381358457 Name: MakerMan991 Character: MakerMan991 Ping: 218
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294206896
+
+END with Bans:
+[World] vladimir.andreev [Artemkot!ArtAnd]: "/kit hgm1"
+
+[World] Ty Nik [Ty Nik]: "раздача пушек"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198114070067 Name: Маг1стрЙ0да- Character: Samurai Ping: 62
+PlayerID: 76561198152466685 Name: Blaster006 Character: Blaster006 Ping: 62
+PlayerID: 76561198261276323 Name: Phantom Character: Phantom Ping: 156
+PlayerID: 76561198199039913 Name: VirusShow Character: VirusShow Ping: 39
+PlayerID: 76561198261527485 Name: Shadovprise Character: Shadovprise Ping: 70
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 39
+PlayerID: 76561198165822970 Name: Indigo Character: Indigo Ping: 46
+PlayerID: 76561198128074009 Name: Barash-IQ(11) Character: Barash-IQ Ping: 93
+PlayerID: 76561198291118006 Name: Mord_Fustang Character: Tank Ping: 93
+PlayerID: 76561198304586110 Name: Ty Nik Character: Ty Nik Ping: 54
+PlayerID: 76561198177412437 Name: korak Character: korak Ping: 140
+PlayerID: 76561198388763132 Name: Andrei Character: Andreilol1 Ping: 93
+PlayerID: 76561198366152080 Name: Artemkot!ArtAnd Character: vladimir.andreev Ping: 54
+PlayerID: 76561198381358457 Name: MakerMan991 Character: MakerMan991 Ping: 203
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294206876
+
+END with Bans:
+[World] 7_AleX_3 [7_AleX_3]: "де"
+
+[World] Ty Nik [Ty Nik]: "у меня"
+
+[World] 7_AleX_3 [7_AleX_3]: "где живёш"
+
+[World] Ty Nik [Ty Nik]: "алекс я нашел твой верт"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198114070067 Name: Маг1стрЙ0да- Character: Samurai Ping: 39
+PlayerID: 76561198152466685 Name: Blaster006 Character: Blaster006 Ping: 54
+PlayerID: 76561198261276323 Name: Phantom Character: Phantom Ping: 132
+PlayerID: 76561198199039913 Name: VirusShow Character: VirusShow Ping: 39
+PlayerID: 76561198261527485 Name: Shadovprise Character: Shadovprise Ping: 70
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 31
+PlayerID: 76561198165822970 Name: Indigo Character: Indigo Ping: 46
+PlayerID: 76561198128074009 Name: Barash-IQ(11) Character: Barash-IQ Ping: 85
+PlayerID: 76561198291118006 Name: Mord_Fustang Character: Tank Ping: 117
+PlayerID: 76561198304586110 Name: Ty Nik Character: Ty Nik Ping: 62
+PlayerID: 76561198177412437 Name: korak Character: korak Ping: 132
+PlayerID: 76561198388763132 Name: Andrei Character: Andreilol1 Ping: 101
+PlayerID: 76561198366152080 Name: Artemkot!ArtAnd Character: vladimir.andreev Ping: 46
+PlayerID: 76561198381358457 Name: MakerMan991 Character: MakerMan991 Ping: 226
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294206856
+
+END with Bans:
+Client has executed command "heal 76561198114070067"
+
+Не обработано: Samurai был исцелён
+Samurai был исцелён
+
+Client has executed command "heal 76561198152466685"
+
+Не обработано: Blaster006 был исцелён
+Blaster006 был исцелён
+
+Client has executed command "heal 76561198261276323"
+
+Не обработано: Phantom был исцелён
+Phantom был исцелён
+
+Client has executed command "heal 76561198199039913"
+
+Не обработано: VirusShow был исцелён
+VirusShow был исцелён
+
+Client has executed command "heal 76561198261527485"
+
+Не обработано: Shadovprise был исцелён
+Shadovprise был исцелён
+
+Client has executed command "heal 76561198140053978"
+
+Не обработано: 7_AleX_3 был исцелён
+7_AleX_3 был исцелён
+
+Не обработано: Indigo был исцелён
+Client has executed command "heal 76561198165822970"
+Indigo был исцелён
+
+Client has executed command "heal 76561198128074009"
+
+Не обработано: Barash-IQ был исцелён
+Barash-IQ был исцелён
+
+Client has executed command "heal 76561198291118006"
+
+Не обработано: Tank был исцелён
+Tank был исцелён
+
+Client has executed command "heal 76561198304586110"
+
+Не обработано: Ty Nik был исцелён
+Ty Nik был исцелён
+
+Не обработано: korak был исцелён
+Client has executed command "heal 76561198177412437"
+korak был исцелён
+
+Client has executed command "heal 76561198388763132"
+
+Не обработано: Andreilol1 был исцелён
+Andreilol1 был исцелён
+
+Не обработано: vladimir.andreev был исцелён
+Client has executed command "heal 76561198366152080"
+vladimir.andreev был исцелён
+
+Client has executed command "heal 76561198381358457"
+
+Не обработано: MakerMan991 был исцелён
+MakerMan991 был исцелён
+
+[World] 7_AleX_3 [7_AleX_3]: "иду"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198114070067 Name: Маг1стрЙ0да- Character: Samurai Ping: 46
+PlayerID: 76561198152466685 Name: Blaster006 Character: Blaster006 Ping: 54
+PlayerID: 76561198261276323 Name: Phantom Character: Phantom Ping: 148
+PlayerID: 76561198199039913 Name: VirusShow Character: VirusShow Ping: 46
+PlayerID: 76561198261527485 Name: Shadovprise Character: Shadovprise Ping: 85
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 31
+PlayerID: 76561198165822970 Name: Indigo Character: Indigo Ping: 70
+PlayerID: 76561198128074009 Name: Barash-IQ(11) Character: Barash-IQ Ping: 93
+PlayerID: 76561198291118006 Name: Mord_Fustang Character: Tank Ping: 78
+PlayerID: 76561198304586110 Name: Ty Nik Character: Ty Nik Ping: 46
+PlayerID: 76561198177412437 Name: korak Character: korak Ping: 125
+PlayerID: 76561198388763132 Name: Andrei Character: Andreilol1 Ping: 117
+PlayerID: 76561198366152080 Name: Artemkot!ArtAnd Character: vladimir.andreev Ping: 54
+PlayerID: 76561198381358457 Name: MakerMan991 Character: MakerMan991 Ping: 203
+
+TimerTerminateCommand.Enabled with Players:
+[World] VirusShow [VirusShow]: "ЧТО?"
+
+Не обработано: DeathMessagesRemastered >> Broadcast: MakerMan991 has been mauled by a zombie! 
+TimerTerminateCommand.Enabled with Players:
+DeathMessagesRemastered >> Broadcast: MakerMan991 has been mauled by a zombie! 
+
+Не обработано: MakerMan991 [MakerMan991] was mauled by a zombie!
+TimerTerminateCommand.Enabled with Players:
+MakerMan991 [MakerMan991] was mauled by a zombie!
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294206835
+
+Не обработано: MakerMan991 moved x:-744.4502 y:58.56762(+20.0903) z:127.2084 in the last second (0.9748459)
+TimerTerminateCommand.Enabled with Bans:
+MakerMan991 moved x:-744.4502 y:58.56762(+20.0903) z:127.2084 in the last second (0.9748459)
+
+TimerTerminateCommand.Enabled with Bans:
+[World] VirusShow [VirusShow]: "СПАСИБО ГОСПОДУ!!!!"
+
+END with Bans:
+[World] 7_AleX_3 [7_AleX_3]: "тдея"
+
+[World] 7_AleX_3 [7_AleX_3]: "идея"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198114070067 Name: Маг1стрЙ0да- Character: Samurai Ping: 39
+PlayerID: 76561198152466685 Name: Blaster006 Character: Blaster006 Ping: 54
+PlayerID: 76561198261276323 Name: Phantom Character: Phantom Ping: 148
+PlayerID: 76561198199039913 Name: VirusShow Character: VirusShow Ping: 39
+PlayerID: 76561198261527485 Name: Shadovprise Character: Shadovprise Ping: 78
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 31
+PlayerID: 76561198165822970 Name: Indigo Character: Indigo Ping: 46
+PlayerID: 76561198128074009 Name: Barash-IQ(11) Character: Barash-IQ Ping: 93
+PlayerID: 76561198291118006 Name: Mord_Fustang Character: Tank Ping: 265
+PlayerID: 76561198304586110 Name: Ty Nik Character: Ty Nik Ping: 46
+PlayerID: 76561198177412437 Name: korak Character: korak Ping: 125
+PlayerID: 76561198388763132 Name: Andrei Character: Andreilol1 Ping: 101
+PlayerID: 76561198366152080 Name: Artemkot!ArtAnd Character: vladimir.andreev Ping: 54
+PlayerID: 76561198381358457 Name: MakerMan991 Character: MakerMan991 Ping: 242
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294206816
+
+END with Bans:
+Disconnecting: PlayerID: 76561198381358457 Name: MakerMan991 Character: MakerMan991
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198114070067 Name: Маг1стрЙ0да- Character: Samurai Ping: 31
+PlayerID: 76561198152466685 Name: Blaster006 Character: Blaster006 Ping: 54
+PlayerID: 76561198261276323 Name: Phantom Character: Phantom Ping: 148
+PlayerID: 76561198199039913 Name: VirusShow Character: VirusShow Ping: 39
+
+TimerTerminateCommand.Enabled with Players:
+PlayerID: 76561198261527485 Name: Shadovprise Character: Shadovprise Ping: 70
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 23
+PlayerID: 76561198165822970 Name: Indigo Character: Indigo Ping: 46
+PlayerID: 76561198128074009 Name: Barash-IQ(11) Character: Barash-IQ Ping: 85
+PlayerID: 76561198291118006 Name: Mord_Fustang Character: Tank Ping: 46
+PlayerID: 76561198304586110 Name: Ty Nik Character: Ty Nik Ping: 39
+PlayerID: 76561198177412437 Name: korak Character: korak Ping: 140
+PlayerID: 76561198388763132 Name: Andrei Character: Andreilol1 Ping: 93
+PlayerID: 76561198366152080 Name: Artemkot!ArtAnd Character: vladimir.andreev Ping: 39
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294206796
+
+Не обработано: MessageAnnouncer >> Broadcast: Используйте /report [ник], чтобы отправить жалобу на игрока
+TimerTerminateCommand.Enabled with Bans:
+MessageAnnouncer >> Broadcast: Используйте /report [ник], чтобы отправить жалобу на игрока
+
+Не обработано: MessageAnnouncer >> Используйте /report [ник], чтобы отправить жалобу на игрока
+TimerTerminateCommand.Enabled with Bans:
+MessageAnnouncer >> Используйте /report [ник], чтобы отправить жалобу на игрока
+
+END with Bans:
+[World] korak [korak]: "/kit help"
+
+[World] 7_AleX_3 [7_AleX_3]: "сюда"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198114070067 Name: Маг1стрЙ0да- Character: Samurai Ping: 31
+PlayerID: 76561198152466685 Name: Blaster006 Character: Blaster006 Ping: 70
+PlayerID: 76561198261276323 Name: Phantom Character: Phantom Ping: 265
+PlayerID: 76561198199039913 Name: VirusShow Character: VirusShow Ping: 54
+PlayerID: 76561198261527485 Name: Shadovprise Character: Shadovprise Ping: 187
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 31
+PlayerID: 76561198165822970 Name: Indigo Character: Indigo Ping: 46
+PlayerID: 76561198128074009 Name: Barash-IQ(11) Character: Barash-IQ Ping: 101
+PlayerID: 76561198291118006 Name: Mord_Fustang Character: Tank Ping: 46
+PlayerID: 76561198304586110 Name: Ty Nik Character: Ty Nik Ping: 54
+PlayerID: 76561198177412437 Name: korak Character: korak Ping: 148
+PlayerID: 76561198388763132 Name: Andrei Character: Andreilol1 Ping: 93
+PlayerID: 76561198366152080 Name: Artemkot!ArtAnd Character: vladimir.andreev Ping: 54
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294206776
+
+END with Bans:
+[World] 7_AleX_3 [7_AleX_3]: "го ветето делать"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198114070067 Name: Маг1стрЙ0да- Character: Samurai Ping: 54
+PlayerID: 76561198152466685 Name: Blaster006 Character: Blaster006 Ping: 62
+PlayerID: 76561198261276323 Name: Phantom Character: Phantom Ping: 132
+PlayerID: 76561198199039913 Name: VirusShow Character: VirusShow Ping: 54
+PlayerID: 76561198261527485 Name: Shadovprise Character: Shadovprise Ping: 78
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 31
+PlayerID: 76561198165822970 Name: Indigo Character: Indigo Ping: 46
+PlayerID: 76561198128074009 Name: Barash-IQ(11) Character: Barash-IQ Ping: 125
+PlayerID: 76561198291118006 Name: Mord_Fustang Character: Tank Ping: 54
+PlayerID: 76561198304586110 Name: Ty Nik Character: Ty Nik Ping: 46
+PlayerID: 76561198177412437 Name: korak Character: korak Ping: 140
+PlayerID: 76561198388763132 Name: Andrei Character: Andreilol1 Ping: 101
+PlayerID: 76561198366152080 Name: Artemkot!ArtAnd Character: vladimir.andreev Ping: 62
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294206756
+
+END with Bans:
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198114070067 Name: Маг1стрЙ0да- Character: Samurai Ping: 31
+PlayerID: 76561198152466685 Name: Blaster006 Character: Blaster006 Ping: 46
+PlayerID: 76561198261276323 Name: Phantom Character: Phantom Ping: 132
+PlayerID: 76561198199039913 Name: VirusShow Character: VirusShow Ping: 46
+PlayerID: 76561198261527485 Name: Shadovprise Character: Shadovprise Ping: 70
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 31
+PlayerID: 76561198165822970 Name: Indigo Character: Indigo Ping: 78
+PlayerID: 76561198128074009 Name: Barash-IQ(11) Character: Barash-IQ Ping: 85
+PlayerID: 76561198291118006 Name: Mord_Fustang Character: Tank Ping: 62
+PlayerID: 76561198304586110 Name: Ty Nik Character: Ty Nik Ping: 46
+PlayerID: 76561198177412437 Name: korak Character: korak Ping: 132
+PlayerID: 76561198388763132 Name: Andrei Character: Andreilol1 Ping: 93
+PlayerID: 76561198366152080 Name: Artemkot!ArtAnd Character: vladimir.andreev Ping: 54
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294206736
+
+END with Bans:
+[World] 7_AleX_3 [7_AleX_3]: "за сейфами"
+
+[World] vladimir.andreev [Artemkot!ArtAnd]: "/home"
+
+[World] Ty Nik [Ty Nik]: "острожно деревья"
+
+Не обработано: vladimir.andreev moved x:592.0483 y:75.34627(+36.71032) z:720.6134 in the last second (0.2379227)
+vladimir.andreev moved x:592.0483 y:75.34627(+36.71032) z:720.6134 in the last second (0.2379227)
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198114070067 Name: Маг1стрЙ0да- Character: Samurai Ping: 39
+PlayerID: 76561198152466685 Name: Blaster006 Character: Blaster006 Ping: 54
+PlayerID: 76561198261276323 Name: Phantom Character: Phantom Ping: 140
+PlayerID: 76561198199039913 Name: VirusShow Character: VirusShow Ping: 46
+PlayerID: 76561198261527485 Name: Shadovprise Character: Shadovprise Ping: 70
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 179
+PlayerID: 76561198165822970 Name: Indigo Character: Indigo Ping: 46
+PlayerID: 76561198128074009 Name: Barash-IQ(11) Character: Barash-IQ Ping: 93
+PlayerID: 76561198291118006 Name: Mord_Fustang Character: Tank Ping: 46
+PlayerID: 76561198304586110 Name: Ty Nik Character: Ty Nik Ping: 93
+PlayerID: 76561198177412437 Name: korak Character: korak Ping: 148
+PlayerID: 76561198388763132 Name: Andrei Character: Andreilol1 Ping: 101
+PlayerID: 76561198366152080 Name: Artemkot!ArtAnd Character: vladimir.andreev Ping: 54
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294206716
+
+END with Bans:
+[World] 7_AleX_3 [7_AleX_3]: "они фу"
+
+[World] Barash-IQ [Barash-IQ(11)]: "дайте їбаний навигатор. Мне нужно с другом встреиться -я карты не знаю"
+
+[World] Samurai [Маг1стрЙ0да-]: "/home"
+
+Не обработано: Samurai moved x:594.2361 y:75.34627(+36.66892) z:720.751 in the last second (0.2379227)
+Samurai moved x:594.2361 y:75.34627(+36.66892) z:720.751 in the last second (0.2379227)
+
+[World] 7_AleX_3 [7_AleX_3]: "не сломают"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198114070067 Name: Маг1стрЙ0да- Character: Samurai Ping: 54
+
+TimerTerminateCommand.Enabled with Players:
+PlayerID: 76561198152466685 Name: Blaster006 Character: Blaster006 Ping: 62
+PlayerID: 76561198261276323 Name: Phantom Character: Phantom Ping: 164
+PlayerID: 76561198199039913 Name: VirusShow Character: VirusShow Ping: 39
+PlayerID: 76561198261527485 Name: Shadovprise Character: Shadovprise Ping: 85
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 46
+PlayerID: 76561198165822970 Name: Indigo Character: Indigo Ping: 39
+PlayerID: 76561198128074009 Name: Barash-IQ(11) Character: Barash-IQ Ping: 101
+PlayerID: 76561198291118006 Name: Mord_Fustang Character: Tank Ping: 250
+PlayerID: 76561198304586110 Name: Ty Nik Character: Ty Nik Ping: 54
+PlayerID: 76561198177412437 Name: korak Character: korak Ping: 140
+PlayerID: 76561198388763132 Name: Andrei Character: Andreilol1 Ping: 93
+PlayerID: 76561198366152080 Name: Artemkot!ArtAnd Character: vladimir.andreev Ping: 62
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294206696
+

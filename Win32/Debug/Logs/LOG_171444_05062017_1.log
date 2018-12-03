@@ -1,0 +1,35 @@
+Не обработано: RocketRcon v2.4.8.0
+RocketRcon v2.4.8.0
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198165822970 Name: Indigo Character: Indigo Ping: 50
+PlayerID: 76561198114070067 Name: Super iGeroy Character: Samurai Ping: 39
+PlayerID: 76561198351213164 Name: _АхМеД_ Character: Виндяй Вечеслав Ping: 105
+PlayerID: 76561198381173735 Name: ingener_spring Character: ingener_spring Ping: 160
+PlayerID: 76561198254170004 Name: GrыGoRы4 Character: XoRoShka Ping: 74
+PlayerID: 76561198142773982 Name: promager Character: pirania98 Ping: 27
+
+TimerTerminateCommand.Enabled with Players:
+[World] Indigo [Indigo]: "я афк встану"
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 123123
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 31019952
+PlayerID: 123
+JudgeID: 0
+Reason: durila Duration: 4000 Remaining: 4294455746
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294484119
+
+END with Bans:
+[World] Samurai [Super iGeroy]: "не надо"
+

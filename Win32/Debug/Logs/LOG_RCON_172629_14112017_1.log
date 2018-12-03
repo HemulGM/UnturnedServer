@@ -1,0 +1,31 @@
+14.11.2017 17:26:37: Не обработано: ServerControl >> Broadcast: Че надо
+14.11.2017 17:26:46: Не обработано: Дал Сергей Кревинов вещь 36:40
+14.11.2017 17:27:09: Не обработано: ServerControl >> Broadcast: Нет
+14.11.2017 17:27:27: Не обработано: ServerControl >> Broadcast: С какого хрена?
+14.11.2017 17:27:42: Не обработано: ServerControl >> Broadcast: Ааа
+14.11.2017 17:27:43: Не обработано: ServerControl >> Broadcast: Нет
+14.11.2017 17:27:50: Не обработано: ServerControl >> Broadcast: Купи
+14.11.2017 17:28:07: Не обработано: ServerControl >> Broadcast: Проверь
+14.11.2017 17:28:21: Не обработано: ServerControl >> Broadcast: ./cost id двери
+14.11.2017 17:28:53: Не обработано: Дал Сергей Кревинов вещь 36:10
+14.11.2017 17:29:47: Не обработано: Дал Сергей Кревинов вещь 33:50
+14.11.2017 17:29:47: Не обработано: ServerControl >> Broadcast: ./sell
+14.11.2017 17:30:19: Не обработано: zohan moved x:-135.3303 y:63.62423(+25.14692) z:920.6913 in the last second (0.1000023)
+14.11.2017 17:30:28: Не обработано: ServerControl >> Broadcast: Аирдроп через 2 ч. 30 м.
+14.11.2017 17:30:49: Не обработано: ServerControl >> Broadcast: Можно
+14.11.2017 17:30:54: Не обработано: ServerControl >> Broadcast: Нет
+14.11.2017 17:30:58: Не обработано: ServerControl >> Broadcast: Дерево нет
+14.11.2017 17:31:31: Не обработано: ServerControl >> Broadcast: Киты
+14.11.2017 17:31:44: Не обработано: ServerControl >> Broadcast: Там воды на неделю
+14.11.2017 17:32:06: Не обработано: ServerControl >> Broadcast: Ну мне жаль
+14.11.2017 17:32:40: Не обработано: qryt1444 [qryt1444] was mauled by a zombie!
+14.11.2017 17:32:50: Не обработано: ServerControl >> Broadcast: Через пол часа хил
+14.11.2017 17:33:19: Не обработано: jerrygann1997 [FLS_DeathBat] was mauled by a zombie!
+14.11.2017 17:33:21: Не обработано: ServerControl >> Broadcast: Эм. Общий хил чере 27 минут
+14.11.2017 17:34:40: Не обработано: Дал Сергей Кревинов вещь 322:1
+14.11.2017 17:35:00: Не обработано: SqlNullValueException: Data is Null. This method or property cannot be called on Null values. - MySql.Data.MySqlClient.MySqlDataReader.GetFieldValue (Int32 index, Boolean checkNull)
+14.11.2017 17:35:00: Не обработано: MySql.Data.MySqlClient.MySqlDataReader.GetString (Int32 i)
+14.11.2017 17:35:00: Не обработано: MySql.Data.MySqlClient.MySqlDataReader.GetString (System.String column)
+14.11.2017 17:35:00: Не обработано: (wrapper remoting-invoke-with-check) MySql.Data.MySqlClient.MySqlDataReader:GetString (string)
+14.11.2017 17:35:00: Не обработано: PlayerInfoLibrary.DatabaseManager.PrecessExpiredPInfo ()
+14.11.2017 17:35:00: Не обработано: PlayerInfoLibrary.PlayerInfoLib.FixedUpdate ()

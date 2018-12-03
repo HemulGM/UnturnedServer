@@ -1,0 +1,109 @@
+16.06.2017 17:12:00: Не обработано: RocketRcon v2.4.8.0
+16.06.2017 17:12:00: RocketRcon v2.4.8.0
+
+16.06.2017 17:12:00: Client has executed command "players"
+
+16.06.2017 17:12:01: TimerTerminateCommand.Enabled with Players:
+16.06.2017 17:12:01: Players:
+PlayerID: 76561198398512684 Name: НеЗнаюКакой Character: Пипр Ping: 46
+PlayerID: 76561198203921497 Name: xom9k Character: Тугрик Ping: 39
+PlayerID: 76561198392750097 Name: mufteev.gleb Character: Глеб Муфтеев Ping: 93
+PlayerID: 76561198329269141 Name: Iliyas Character: Lazer228 Ping: 117
+PlayerID: 76561198323264908 Name: I AM YOUR GOD Character: blank  Ping: 78
+PlayerID: 76561198307872567 Name: Hi im Azok Character: wiktor600600 Ping: 93
+PlayerID: 76561198252992596 Name: skarpeta (hellcase.com) Character: mieszko0002 Ping: 78
+PlayerID: 76561198396485715 Name: vadimka.astakhov.00 Character: [полицей]Стас Сылкин [сержант] Ping: 85
+PlayerID: 76561198395371716 Name: ffffuuuas Character: ffffuuuas Ping: 398
+PlayerID: 76561198076319498 Name: a.bykov.ru Character:  (TR) лёша Ping: 0
+PlayerID: 76561198186140023 Name: Rolpex_Plus Character: Dmitriy_Ivan0v Ping: 31
+PlayerID: 76561198257298690 Name: DIAminerr Character: Dmitriy_Zelydev Ping: 164
+PlayerID: 76561198147477828 Name: galbatsovmikail Character: galbatsovmikail Ping: 70
+PlayerID: 76561198273666310 Name: Жареный Шакал Character: Шакал Ping: 93
+PlayerID: 76561198356538272 Name: CakeGamer Character: Killer Ping: 140
+PlayerID: 76561198369910805 Name: vasya_s_2005 Character: vasya_s_2005 Ping: 62
+
+16.06.2017 17:12:02: TimerTerminateCommand.Enabled with Players:
+16.06.2017 17:12:02: [World] blank  [I AM YOUR GOD]: "В низ спускайтесь"
+
+16.06.2017 17:12:04: END with Players:
+16.06.2017 17:12:04: Client has executed command "bans"
+
+16.06.2017 17:12:04: TimerTerminateCommand.Enabled with Bans:
+16.06.2017 17:12:04: Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4293533884
+PlayerID: 76561198384007551
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 31362271
+PlayerID: 76561198371016652
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 31442685
+PlayerID: 76561198373930516
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294905705
+[World] Lazer228 [Iliyas]: "Это не эти патроны"
+
+16.06.2017 17:12:06: END with Bans:
+16.06.2017 17:12:20: Client has executed command "players"
+
+16.06.2017 17:12:21: TimerTerminateCommand.Enabled with Players:
+16.06.2017 17:12:21: Players:
+PlayerID: 76561198398512684 Name: НеЗнаюКакой Character: Пипр Ping: 54
+PlayerID: 76561198203921497 Name: xom9k Character: Тугрик Ping: 39
+PlayerID: 76561198392750097 Name: mufteev.gleb Character: Глеб Муфтеев Ping: 109
+PlayerID: 76561198329269141 Name: Iliyas Character: Lazer228 Ping: 101
+PlayerID: 76561198323264908 Name: I AM YOUR GOD Character: blank  Ping: 62
+PlayerID: 76561198307872567 Name: Hi im Azok Character: wiktor600600 Ping: 101
+PlayerID: 76561198252992596 Name: skarpeta (hellcase.com) Character: mieszko0002 Ping: 85
+PlayerID: 76561198396485715 Name: vadimka.astakhov.00 Character: [полицей]Стас Сылкин [сержант] Ping: 93
+PlayerID: 76561198395371716 Name: ffffuuuas Character: ffffuuuas Ping: 70
+PlayerID: 76561198076319498 Name: a.bykov.ru Character:  (TR) лёша Ping: 7
+PlayerID: 76561198186140023 Name: Rolpex_Plus Character: Dmitriy_Ivan0v Ping: 46
+PlayerID: 76561198257298690 Name: DIAminerr Character: Dmitriy_Zelydev Ping: 179
+PlayerID: 76561198147477828 Name: galbatsovmikail Character: galbatsovmikail Ping: 78
+PlayerID: 76561198273666310 Name: Жареный Шакал Character: Шакал Ping: 132
+PlayerID: 76561198356538272 Name: CakeGamer Character: Killer Ping: 203
+PlayerID: 76561198369910805 Name: vasya_s_2005 Character: vasya_s_2005 Ping: 101
+
+16.06.2017 17:12:21: TimerTerminateCommand.Enabled with Players:
+16.06.2017 17:12:21: [World] Глеб Муфтеев [mufteev.gleb]: "меня сьели дайте оружик пж"
+
+16.06.2017 17:12:22: Не обработано: DeathMessagesRemastered >> Broadcast:  (TR) лёша разбился насмерть!
+16.06.2017 17:12:22: TimerTerminateCommand.Enabled with Players:
+16.06.2017 17:12:22: DeathMessagesRemastered >> Broadcast:  (TR) лёша разбился насмерть!
+
+16.06.2017 17:12:22: Не обработано: DropManager >> 3
+16.06.2017 17:12:22: TimerTerminateCommand.Enabled with Players:
+16.06.2017 17:12:22: DropManager >> 3
+
+16.06.2017 17:12:22: Не обработано:  (TR) лёша [a.bykov.ru] fractured to death!
+16.06.2017 17:12:22: TimerTerminateCommand.Enabled with Players:
+16.06.2017 17:12:22:  (TR) лёша [a.bykov.ru] fractured to death!
+
+16.06.2017 17:12:23: TimerTerminateCommand.Enabled with Players:
+16.06.2017 17:12:23: [World] Lazer228 [Iliyas]: "/tpa bla"
+
+16.06.2017 17:12:25: END with Players:
+16.06.2017 17:12:25: Client has executed command "bans"
+
+16.06.2017 17:12:25: TimerTerminateCommand.Enabled with Bans:
+16.06.2017 17:12:25: Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4293533863
+PlayerID: 76561198384007551
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 31362250
+PlayerID: 76561198371016652
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 31442664
+PlayerID: 76561198373930516
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294905684
+
+16.06.2017 17:12:27: END with Bans:
+16.06.2017 17:12:34: [World] blank  [I AM YOUR GOD]: "/tpa a"
+
+16.06.2017 17:12:35: [Group]  (TR) лёша [a.bykov.ru]: "/tpa blank"
+

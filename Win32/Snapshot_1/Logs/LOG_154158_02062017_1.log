@@ -1,0 +1,314 @@
+Не обработано: RocketRcon v2.4.8.0
+RocketRcon v2.4.8.0
+
+END with Players:
+Не обработано: MessageAnnouncer >> Broadcast: Наберите /kit start, чтобы получить стартовый набор (еда, вода, топор)
+Не обработано: MessageAnnouncer >> Наберите /kit start, чтобы получить стартовый набор (еда, вода, топор)
+TimerTerminateCommand.Enabled with Bans:
+Client has executed command "players"
+Players:
+PlayerID: 76561198371041527 Name: ¦_s1mple_¦ Character: miguelhormat Ping: 31
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 109
+PlayerID: 76561198300812301 Name: KiLeR00707 Character: KiLeR00707 Ping: 46
+PlayerID: 76561198309800376 Name: polinazamlinskaya Character: Полина Замлынская Ping: 39
+PlayerID: 76561198280617288 Name: Незнаю какой придумать Character: Пипр Ping: 85
+PlayerID: 76561198292170506 Name: NekitDo Character: Jeck Ping: 62
+PlayerID: 76561198351213164 Name: _АхМеД_ Character: Виндяй Вечеслав Ping: 62
+PlayerID: 76561198372560066 Name: Hranolka#CZ Character: JirkaPavlik#CZ Ping: 289
+PlayerID: 76561198184777471 Name: -SkullMaker ?? ?? Character: sprokit1111 Ping: 15
+PlayerID: 76561198177243258 Name: garfield2016 Character: rubi Ping: 78
+Client has executed command "bans"
+Bans:
+PlayerID: 123123
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 31284719
+PlayerID: 123
+JudgeID: 0
+Reason: durila Duration: 4000 Remaining: 4294720513
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294748886
+MessageAnnouncer >> Broadcast: Наберите /kit start, чтобы получить стартовый набор (еда, вода, топор)
+MessageAnnouncer >> Наберите /kit start, чтобы получить стартовый набор (еда, вода, топор)
+Disconnecting: PlayerID: 76561198177243258 Name: garfield2016 Character: rubi
+
+TimerTerminateCommand.Enabled with Bans:
+Connecting: PlayerID: 76561198295801599 Name: Lo[x] Character: Lo[x]
+
+END with Bans:
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198371041527 Name: ¦_s1mple_¦ Character: miguelhormat Ping: 31
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 140
+PlayerID: 76561198300812301 Name: KiLeR00707 Character: KiLeR00707 Ping: 15
+PlayerID: 76561198309800376 Name: polinazamlinskaya Character: Полина Замлынская Ping: 46
+PlayerID: 76561198280617288 Name: Незнаю какой придумать Character: Пипр Ping: 54
+PlayerID: 76561198292170506 Name: NekitDo Character: Jeck Ping: 62
+PlayerID: 76561198351213164 Name: _АхМеД_ Character: Виндяй Вечеслав Ping: 101
+PlayerID: 76561198372560066 Name: Hranolka#CZ Character: JirkaPavlik#CZ Ping: 328
+PlayerID: 76561198184777471 Name: -SkullMaker ?? ?? Character: sprokit1111 Ping: 7
+PlayerID: 76561198295801599 Name: Lo[x] Character: Lo[x] Ping: 54
+
+END with Players:
+Не обработано: VehicleEvents >> Broadcast: Брошенный квадроцикл в Clearwater Campground! Найди его и он твой!
+[World] sprokit1111 [-SkullMaker ?? ??]: "/kit start"
+VehicleEvents >> Broadcast: Брошенный квадроцикл в Clearwater Campground! Найди его и он твой!
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198371041527 Name: ¦_s1mple_¦ Character: miguelhormat Ping: 31
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 148
+PlayerID: 76561198300812301 Name: KiLeR00707 Character: KiLeR00707 Ping: 23
+PlayerID: 76561198309800376 Name: polinazamlinskaya Character: Полина Замлынская Ping: 54
+PlayerID: 76561198280617288 Name: Незнаю какой придумать Character: Пипр Ping: 46
+PlayerID: 76561198292170506 Name: NekitDo Character: Jeck Ping: 62
+PlayerID: 76561198351213164 Name: _АхМеД_ Character: Виндяй Вечеслав Ping: 62
+PlayerID: 76561198372560066 Name: Hranolka#CZ Character: JirkaPavlik#CZ Ping: 453
+PlayerID: 76561198184777471 Name: -SkullMaker ?? ?? Character: sprokit1111 Ping: 15
+PlayerID: 76561198295801599 Name: Lo[x] Character: Lo[x] Ping: 54
+
+END with Players:
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198371041527 Name: ¦_s1mple_¦ Character: miguelhormat Ping: 39
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 140
+PlayerID: 76561198300812301 Name: KiLeR00707 Character: KiLeR00707 Ping: 7
+PlayerID: 76561198309800376 Name: polinazamlinskaya Character: Полина Замлынская Ping: 62
+PlayerID: 76561198280617288 Name: Незнаю какой придумать Character: Пипр Ping: 93
+PlayerID: 76561198292170506 Name: NekitDo Character: Jeck Ping: 62
+PlayerID: 76561198351213164 Name: _АхМеД_ Character: Виндяй Вечеслав Ping: 93
+PlayerID: 76561198372560066 Name: Hranolka#CZ Character: JirkaPavlik#CZ Ping: 351
+PlayerID: 76561198184777471 Name: -SkullMaker ?? ?? Character: sprokit1111 Ping: 7
+PlayerID: 76561198295801599 Name: Lo[x] Character: Lo[x] Ping: 46
+
+TimerTerminateCommand.Enabled with Players:
+[World] KiLeR00707 [KiLeR00707]: "/home"
+
+Не обработано: KiLeR00707 moved x:843.7886 y:86.94987(+48.16164) z:-482.8979 in the last second (0.2379227)
+TimerTerminateCommand.Enabled with Players:
+KiLeR00707 moved x:843.7886 y:86.94987(+48.16164) z:-482.8979 in the last second (0.2379227)
+
+END with Players:
+Connecting: PlayerID: 76561198176817369 Name: ?. Character: GlodiS
+
+Disconnecting: PlayerID: 76561198292170506 Name: NekitDo Character: Jeck
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198371041527 Name: ¦_s1mple_¦ Character: miguelhormat Ping: 31
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 125
+PlayerID: 76561198300812301 Name: KiLeR00707 Character: KiLeR00707 Ping: 31
+PlayerID: 76561198309800376 Name: polinazamlinskaya Character: Полина Замлынская Ping: 39
+PlayerID: 76561198280617288 Name: Незнаю какой придумать Character: Пипр Ping: 62
+PlayerID: 76561198351213164 Name: _АхМеД_ Character: Виндяй Вечеслав Ping: 109
+PlayerID: 76561198372560066 Name: Hranolka#CZ Character: JirkaPavlik#CZ Ping: 273
+PlayerID: 76561198184777471 Name: -SkullMaker ?? ?? Character: sprokit1111 Ping: 15
+PlayerID: 76561198295801599 Name: Lo[x] Character: Lo[x] Ping: 46
+PlayerID: 76561198176817369 Name: ?. Character: GlodiS Ping: 62
+
+END with Players:
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198371041527 Name: ¦_s1mple_¦ Character: miguelhormat Ping: 31
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 140
+PlayerID: 76561198300812301 Name: KiLeR00707 Character: KiLeR00707 Ping: 31
+PlayerID: 76561198309800376 Name: polinazamlinskaya Character: Полина Замлынская Ping: 39
+PlayerID: 76561198280617288 Name: Незнаю какой придумать Character: Пипр Ping: 85
+PlayerID: 76561198351213164 Name: _АхМеД_ Character: Виндяй Вечеслав Ping: 101
+PlayerID: 76561198372560066 Name: Hranolka#CZ Character: JirkaPavlik#CZ Ping: 312
+PlayerID: 76561198184777471 Name: -SkullMaker ?? ?? Character: sprokit1111 Ping: 31
+PlayerID: 76561198295801599 Name: Lo[x] Character: Lo[x] Ping: 46
+PlayerID: 76561198176817369 Name: ?. Character: GlodiS Ping: 54
+
+END with Players:
+[Area] GlodiS [?.]: "/kit start"
+
+Не обработано: MessageAnnouncer >> Broadcast: Внимание! PvP-режим по субботам! PvP-режим!!!
+MessageAnnouncer >> Broadcast: Внимание! PvP-режим по субботам! PvP-режим!!!
+
+Не обработано: MessageAnnouncer >> Внимание! PvP-режим по субботам! PvP-режим!!!
+MessageAnnouncer >> Внимание! PvP-режим по субботам! PvP-режим!!!
+
+[Area] GlodiS [?.]: "/kit help"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198371041527 Name: ¦_s1mple_¦ Character: miguelhormat Ping: 39
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 132
+PlayerID: 76561198300812301 Name: KiLeR00707 Character: KiLeR00707 Ping: 31
+PlayerID: 76561198309800376 Name: polinazamlinskaya Character: Полина Замлынская Ping: 46
+PlayerID: 76561198280617288 Name: Незнаю какой придумать Character: Пипр Ping: 85
+PlayerID: 76561198351213164 Name: _АхМеД_ Character: Виндяй Вечеслав Ping: 210
+PlayerID: 76561198372560066 Name: Hranolka#CZ Character: JirkaPavlik#CZ Ping: 382
+PlayerID: 76561198184777471 Name: -SkullMaker ?? ?? Character: sprokit1111 Ping: 0
+PlayerID: 76561198295801599 Name: Lo[x] Character: Lo[x] Ping: 46
+PlayerID: 76561198176817369 Name: ?. Character: GlodiS Ping: 62
+
+END with Players:
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198371041527 Name: ¦_s1mple_¦ Character: miguelhormat Ping: 31
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 132
+PlayerID: 76561198300812301 Name: KiLeR00707 Character: KiLeR00707 Ping: 15
+PlayerID: 76561198309800376 Name: polinazamlinskaya Character: Полина Замлынская Ping: 54
+PlayerID: 76561198280617288 Name: Незнаю какой придумать Character: Пипр Ping: 62
+PlayerID: 76561198351213164 Name: _АхМеД_ Character: Виндяй Вечеслав Ping: 78
+PlayerID: 76561198372560066 Name: Hranolka#CZ Character: JirkaPavlik#CZ Ping: 421
+PlayerID: 76561198184777471 Name: -SkullMaker ?? ?? Character: sprokit1111 Ping: 15
+PlayerID: 76561198295801599 Name: Lo[x] Character: Lo[x] Ping: 62
+PlayerID: 76561198176817369 Name: ?. Character: GlodiS Ping: 54
+Connecting: PlayerID: 76561198293080477 Name: Венди Character: $egg
+
+END with Players:
+[World] $egg [Венди]: "/p"
+
+[World] Пипр [Незнаю какой придумать]: "/home"
+
+[World] $egg [Венди]: "Всем привет"
+
+Не обработано: Пипр moved x:-696.7648 y:82.72859(+44.18877) z:319.8549 in the last second (0.2379227)
+Пипр moved x:-696.7648 y:82.72859(+44.18877) z:319.8549 in the last second (0.2379227)
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198371041527 Name: ¦_s1mple_¦ Character: miguelhormat Ping: 39
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 125
+PlayerID: 76561198300812301 Name: KiLeR00707 Character: KiLeR00707 Ping: 39
+PlayerID: 76561198309800376 Name: polinazamlinskaya Character: Полина Замлынская Ping: 54
+PlayerID: 76561198280617288 Name: Незнаю какой придумать Character: Пипр Ping: 78
+PlayerID: 76561198351213164 Name: _АхМеД_ Character: Виндяй Вечеслав Ping: 78
+PlayerID: 76561198372560066 Name: Hranolka#CZ Character: JirkaPavlik#CZ Ping: 273
+PlayerID: 76561198184777471 Name: -SkullMaker ?? ?? Character: sprokit1111 Ping: 15
+PlayerID: 76561198295801599 Name: Lo[x] Character: Lo[x] Ping: 54
+PlayerID: 76561198176817369 Name: ?. Character: GlodiS Ping: 62
+PlayerID: 76561198293080477 Name: Венди Character: $egg Ping: 117
+
+END with Players:
+[World] KiLeR00707 [KiLeR00707]: "Привет"
+
+[World] $egg [Венди]: "Кто тим?"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198371041527 Name: ¦_s1mple_¦ Character: miguelhormat Ping: 54
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 148
+PlayerID: 76561198300812301 Name: KiLeR00707 Character: KiLeR00707 Ping: 31
+PlayerID: 76561198309800376 Name: polinazamlinskaya Character: Полина Замлынская Ping: 78
+PlayerID: 76561198280617288 Name: Незнаю какой придумать Character: Пипр Ping: 109
+PlayerID: 76561198351213164 Name: _АхМеД_ Character: Виндяй Вечеслав Ping: 148
+PlayerID: 76561198372560066 Name: Hranolka#CZ Character: JirkaPavlik#CZ Ping: 265
+PlayerID: 76561198184777471 Name: -SkullMaker ?? ?? Character: sprokit1111 Ping: 23
+PlayerID: 76561198295801599 Name: Lo[x] Character: Lo[x] Ping: 70
+PlayerID: 76561198176817369 Name: ?. Character: GlodiS Ping: 78
+PlayerID: 76561198293080477 Name: Венди Character: $egg Ping: 125
+
+END with Players:
+[World] miguelhormat [¦_s1mple_¦]: "тут все тим"
+
+[World] $egg [Венди]: "ПВЕ?"
+
+[World] miguelhormat [¦_s1mple_¦]: "да"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198371041527 Name: ¦_s1mple_¦ Character: miguelhormat Ping: 31
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 132
+PlayerID: 76561198300812301 Name: KiLeR00707 Character: KiLeR00707 Ping: 39
+PlayerID: 76561198309800376 Name: polinazamlinskaya Character: Полина Замлынская Ping: 46
+PlayerID: 76561198280617288 Name: Незнаю какой придумать Character: Пипр Ping: 46
+PlayerID: 76561198351213164 Name: _АхМеД_ Character: Виндяй Вечеслав Ping: 85
+PlayerID: 76561198372560066 Name: Hranolka#CZ Character: JirkaPavlik#CZ Ping: 273
+PlayerID: 76561198184777471 Name: -SkullMaker ?? ?? Character: sprokit1111 Ping: 15
+PlayerID: 76561198295801599 Name: Lo[x] Character: Lo[x] Ping: 62
+PlayerID: 76561198176817369 Name: ?. Character: GlodiS Ping: 54
+PlayerID: 76561198293080477 Name: Венди Character: $egg Ping: 117
+
+END with Players:
+Disconnecting: PlayerID: 76561198293080477 Name: Венди Character: $egg
+
+[World] Expert1337 [Expert13372284200]: "завтра пвп"
+
+[World] miguelhormat [¦_s1mple_¦]: "в суботу пвп"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198371041527 Name: ¦_s1mple_¦ Character: miguelhormat Ping: 39
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 117
+PlayerID: 76561198300812301 Name: KiLeR00707 Character: KiLeR00707 Ping: 7
+PlayerID: 76561198309800376 Name: polinazamlinskaya Character: Полина Замлынская Ping: 54
+PlayerID: 76561198280617288 Name: Незнаю какой придумать Character: Пипр Ping: 54
+PlayerID: 76561198351213164 Name: _АхМеД_ Character: Виндяй Вечеслав Ping: 85
+PlayerID: 76561198372560066 Name: Hranolka#CZ Character: JirkaPavlik#CZ Ping: 289
+PlayerID: 76561198184777471 Name: -SkullMaker ?? ?? Character: sprokit1111 Ping: 7
+PlayerID: 76561198295801599 Name: Lo[x] Character: Lo[x] Ping: 46
+PlayerID: 76561198176817369 Name: ?. Character: GlodiS Ping: 54
+
+END with Players:
+[World] Expert1337 [Expert13372284200]: "ну завтра"
+
+Не обработано: MessageAnnouncer >> Broadcast: vk.com/unturned_hgm - группа сервера ВК, уникальный кит в записи!
+MessageAnnouncer >> Broadcast: vk.com/unturned_hgm - группа сервера ВК, уникальный кит в записи!
+
+Не обработано: MessageAnnouncer >> vk.com/unturned_hgm - группа сервера ВК, уникальный кит в записи!
+MessageAnnouncer >> vk.com/unturned_hgm - группа сервера ВК, уникальный кит в записи!
+
+Не обработано: DeathMessagesRemastered >> Broadcast: JirkaPavlik#CZ has been mauled by a zombie! 
+DeathMessagesRemastered >> Broadcast: JirkaPavlik#CZ has been mauled by a zombie! 
+
+Не обработано: JirkaPavlik#CZ [Hranolka#CZ] was mauled by a zombie!
+JirkaPavlik#CZ [Hranolka#CZ] was mauled by a zombie!
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198371041527 Name: ¦_s1mple_¦ Character: miguelhormat Ping: 31
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 117
+PlayerID: 76561198300812301 Name: KiLeR00707 Character: KiLeR00707 Ping: 54
+PlayerID: 76561198309800376 Name: polinazamlinskaya Character: Полина Замлынская Ping: 46
+PlayerID: 76561198280617288 Name: Незнаю какой придумать Character: Пипр Ping: 46
+PlayerID: 76561198351213164 Name: _АхМеД_ Character: Виндяй Вечеслав Ping: 93
+PlayerID: 76561198372560066 Name: Hranolka#CZ Character: JirkaPavlik#CZ Ping: 375
+PlayerID: 76561198184777471 Name: -SkullMaker ?? ?? Character: sprokit1111 Ping: 7
+PlayerID: 76561198295801599 Name: Lo[x] Character: Lo[x] Ping: 54
+PlayerID: 76561198176817369 Name: ?. Character: GlodiS Ping: 54
+
+END with Players:
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198371041527 Name: ¦_s1mple_¦ Character: miguelhormat Ping: 132
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 226
+PlayerID: 76561198300812301 Name: KiLeR00707 Character: KiLeR00707 Ping: 23
+PlayerID: 76561198309800376 Name: polinazamlinskaya Character: Полина Замлынская Ping: 54
+PlayerID: 76561198280617288 Name: Незнаю какой придумать Character: Пипр Ping: 93
+PlayerID: 76561198351213164 Name: _АхМеД_ Character: Виндяй Вечеслав Ping: 125
+PlayerID: 76561198372560066 Name: Hranolka#CZ Character: JirkaPavlik#CZ Ping: 257
+PlayerID: 76561198184777471 Name: -SkullMaker ?? ?? Character: sprokit1111 Ping: 0
+PlayerID: 76561198295801599 Name: Lo[x] Character: Lo[x] Ping: 62
+PlayerID: 76561198176817369 Name: ?. Character: GlodiS Ping: 62
+
+END with Players:

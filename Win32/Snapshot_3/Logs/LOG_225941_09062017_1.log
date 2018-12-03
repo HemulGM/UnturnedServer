@@ -1,0 +1,50 @@
+Не обработано: RocketRcon v2.4.8.0
+RocketRcon v2.4.8.0
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198329269141 Name: Iliyas Character: Iliyas Ping: 84
+PlayerID: 76561198130825409 Name: ya.maksim51 Character: ya.maksim51 Ping: 78
+PlayerID: 76561198340683253 Name: mitin7373 Character: mitin7373 Ping: 76
+PlayerID: 76561198278360341 Name: AcademeG Character: AcademeG Ping: 97
+PlayerID: 76561198232631228 Name: alex115 Character: Charles o"brien Ping: 168
+PlayerID: 76561198335414537 Name: miron_s04 Character: miron_s04 Ping: 94
+PlayerID: 76561198268161521 Name: DOMIK Character: Listiger_wolf2 Ping: 58
+PlayerID: 76561198262784586 Name: thedreamer Character: thedreamer Ping: 108
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294117826
+
+END with Bans:
+Disconnecting: PlayerID: 76561198262784586 Name: thedreamer Character: thedreamer
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198329269141 Name: Iliyas Character: Iliyas Ping: 91
+PlayerID: 76561198130825409 Name: ya.maksim51 Character: ya.maksim51 Ping: 104
+PlayerID: 76561198340683253 Name: mitin7373 Character: mitin7373 Ping: 90
+PlayerID: 76561198278360341 Name: AcademeG Character: AcademeG Ping: 71
+PlayerID: 76561198232631228 Name: alex115 Character: Charles o"brien Ping: 158
+PlayerID: 76561198335414537 Name: miron_s04 Character: miron_s04 Ping: 93
+PlayerID: 76561198268161521 Name: DOMIK Character: Listiger_wolf2 Ping: 66
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294117805
+
+END with Bans:

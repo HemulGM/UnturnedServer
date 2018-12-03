@@ -1,0 +1,78 @@
+Не обработано: RocketRcon v2.4.8.0
+RocketRcon v2.4.8.0
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198300812301 Name: KiLeR00707 Character: KiLeR00707 Ping: 7
+PlayerID: 76561198295801599 Name: Lo[x] Character: Lo[x] Ping: 62
+PlayerID: 76561198176817369 Name: ?. Character: GlodiS Ping: 62
+PlayerID: 76561198349642857 Name: хлеб228 Character: хлеб228 Ping: 140
+PlayerID: 76561198056237987 Name: Calibrovshik Character: Calibrovshik Ping: 109
+PlayerID: 76561198282625830 Name: Mafia Character: serj-goryn Ping: 132
+PlayerID: 76561198263636845 Name: matic Character: matic Ping: 101
+PlayerID: 76561198371161101 Name: TheOneWinner4 Character: rauno.pikk Ping: 78
+PlayerID: 76561198238373696 Name: SecretGuyRasmus Character: SecretGuyRasmus Ping: 85
+PlayerID: 76561198256962041 Name: Omega orange Character: CLI Ping: 62
+PlayerID: 76561198388679451 Name: jarobmw Character: inferno king Ping: 93
+PlayerID: 76561198341997660 Name: Dimacvit1996 Character: Dimacvit1996 Ping: 70
+PlayerID: 76561198305732269 Name: Owl Character: Owl Ping: 62
+PlayerID: 76561198303283372 Name: PeR4IK Character: данил Ping: 62
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 123123
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 31280805
+PlayerID: 123
+JudgeID: 0
+Reason: durila Duration: 4000 Remaining: 4294716599
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294744972
+
+END with Bans:
+[World] CLI [Omega orange]: "эй?"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198300812301 Name: KiLeR00707 Character: KiLeR00707 Ping: 46
+PlayerID: 76561198295801599 Name: Lo[x] Character: Lo[x] Ping: 39
+PlayerID: 76561198176817369 Name: ?. Character: GlodiS Ping: 54
+PlayerID: 76561198349642857 Name: хлеб228 Character: хлеб228 Ping: 132
+PlayerID: 76561198056237987 Name: Calibrovshik Character: Calibrovshik Ping: 101
+PlayerID: 76561198282625830 Name: Mafia Character: serj-goryn Ping: 140
+PlayerID: 76561198263636845 Name: matic Character: matic Ping: 101
+PlayerID: 76561198371161101 Name: TheOneWinner4 Character: rauno.pikk Ping: 62
+PlayerID: 76561198238373696 Name: SecretGuyRasmus Character: SecretGuyRasmus Ping: 93
+PlayerID: 76561198256962041 Name: Omega orange Character: CLI Ping: 62
+PlayerID: 76561198388679451 Name: jarobmw Character: inferno king Ping: 117
+PlayerID: 76561198341997660 Name: Dimacvit1996 Character: Dimacvit1996 Ping: 62
+PlayerID: 76561198305732269 Name: Owl Character: Owl Ping: 70
+PlayerID: 76561198303283372 Name: PeR4IK Character: данил Ping: 78
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 123123
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 31280785
+PlayerID: 123
+JudgeID: 0
+Reason: durila Duration: 4000 Remaining: 4294716579
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294744952
+
+TimerTerminateCommand.Enabled with Bans:
+[World] данил [PeR4IK]: "ты кому"
+
+END with Bans:

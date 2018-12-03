@@ -1,0 +1,29 @@
+Не обработано: RocketRcon v2.4.8.0
+RocketRcon v2.4.8.0
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198376380342 Name: Sergeant Gamezer Character: Dr.Lee Gamezer  Ping: 242
+PlayerID: 76561198345092267 Name: demid3450 Character: [гл террористов] демид журавлёв Ping: 117
+PlayerID: 76561197991720459 Name: alek_el Character: Sans the skeleton Ping: 93
+PlayerID: 76561198349787658 Name: VIKTORIA_201577 Character: VIKTORIA Ping: 273
+PlayerID: 76561198280617288 Name: Незнаю какой придумать Character: Пипр Ping: 62
+
+TimerTerminateCommand.Enabled with Players:
+Client has executed command "bans"
+
+END with Players:
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 123123
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 31303774
+PlayerID: 123
+JudgeID: 0
+Reason: durila Duration: 4000 Remaining: 4294739568
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294767941
+

@@ -1,0 +1,244 @@
+Не обработано: RocketRcon v2.4.8.0
+RocketRcon v2.4.8.0
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198178769943 Name: Agusha228 Character: Agusha228 Ping: 125
+PlayerID: 76561198144832045 Name: (БРО228)Агуша228 Character: (БРО228)Агуша228 Ping: 125
+PlayerID: 76561198389415200 Name: Andrew Lavrinets Character: Andrew Ping: 289
+PlayerID: 76561198322193999 Name: ™_Game®_™ Character: Карл Иванович Ping: 46
+PlayerID: 76561198280617288 Name: Незнаю какой придумать Character: Пипр Ping: 54
+PlayerID: 76561198393528096 Name: BlahBlahBlah Character: BlahBlahBlah Ping: 484
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 132
+PlayerID: 76561198345092267 Name: demid3450 Character: [гл террористов] демид журавлёв Ping: 125
+PlayerID: 76561198219246692 Name: 71M0qp3u* Character: 71M0qp3u* Ping: 70
+
+Не обработано: MessageAnnouncer >> Broadcast: Используйте /report [ник], чтобы отправить жалобу на игрока
+TimerTerminateCommand.Enabled with Players:
+MessageAnnouncer >> Broadcast: Используйте /report [ник], чтобы отправить жалобу на игрока
+
+Не обработано: MessageAnnouncer >> Используйте /report [ник], чтобы отправить жалобу на игрока
+TimerTerminateCommand.Enabled with Players:
+MessageAnnouncer >> Используйте /report [ник], чтобы отправить жалобу на игрока
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294322509
+PlayerID: 76561198341672556
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294887700
+
+END with Bans:
+Connecting: PlayerID: 76561198287257345 Name: TheHard27 Character: TheHard27
+
+Disconnecting: PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198178769943 Name: Agusha228 Character: Agusha228 Ping: 125
+PlayerID: 76561198144832045 Name: (БРО228)Агуша228 Character: (БРО228)Агуша228 Ping: 101
+PlayerID: 76561198389415200 Name: Andrew Lavrinets Character: Andrew Ping: 242
+PlayerID: 76561198322193999 Name: ™_Game®_™ Character: Карл Иванович Ping: 39
+PlayerID: 76561198280617288 Name: Незнаю какой придумать Character: Пипр Ping: 39
+PlayerID: 76561198393528096 Name: BlahBlahBlah Character: BlahBlahBlah Ping: 578
+PlayerID: 76561198345092267 Name: demid3450 Character: [гл террористов] демид журавлёв Ping: 117
+PlayerID: 76561198219246692 Name: 71M0qp3u* Character: 71M0qp3u* Ping: 62
+PlayerID: 76561198287257345 Name: TheHard27 Character: TheHard27 Ping: 218
+
+TimerTerminateCommand.Enabled with Players:
+Disconnecting: PlayerID: 76561198393528096 Name: BlahBlahBlah Character: BlahBlahBlah
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294322488
+PlayerID: 76561198341672556
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294887679
+
+END with Bans:
+[World] TheHard27 [TheHard27]: "/home"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198178769943 Name: Agusha228 Character: Agusha228 Ping: 125
+PlayerID: 76561198144832045 Name: (БРО228)Агуша228 Character: (БРО228)Агуша228 Ping: 117
+PlayerID: 76561198389415200 Name: Andrew Lavrinets Character: Andrew Ping: 289
+PlayerID: 76561198322193999 Name: ™_Game®_™ Character: Карл Иванович Ping: 31
+PlayerID: 76561198280617288 Name: Незнаю какой придумать Character: Пипр Ping: 46
+PlayerID: 76561198345092267 Name: demid3450 Character: [гл террористов] демид журавлёв Ping: 148
+PlayerID: 76561198219246692 Name: 71M0qp3u* Character: 71M0qp3u* Ping: 54
+PlayerID: 76561198287257345 Name: TheHard27 Character: TheHard27 Ping: 148
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294322469
+PlayerID: 76561198341672556
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294887660
+
+END with Bans:
+Не обработано: DeathMessagesRemastered >> Broadcast: Agusha228 has been mauled by a zombie! 
+DeathMessagesRemastered >> Broadcast: Agusha228 has been mauled by a zombie! 
+
+Не обработано: Agusha228 [Agusha228] was mauled by a zombie!
+Agusha228 [Agusha228] was mauled by a zombie!
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198178769943 Name: Agusha228 Character: Agusha228 Ping: 148
+PlayerID: 76561198144832045 Name: (БРО228)Агуша228 Character: (БРО228)Агуша228 Ping: 148
+PlayerID: 76561198389415200 Name: Andrew Lavrinets Character: Andrew Ping: 304
+PlayerID: 76561198322193999 Name: ™_Game®_™ Character: Карл Иванович Ping: 54
+PlayerID: 76561198280617288 Name: Незнаю какой придумать Character: Пипр Ping: 46
+PlayerID: 76561198345092267 Name: demid3450 Character: [гл террористов] демид журавлёв Ping: 117
+PlayerID: 76561198219246692 Name: 71M0qp3u* Character: 71M0qp3u* Ping: 62
+PlayerID: 76561198287257345 Name: TheHard27 Character: TheHard27 Ping: 171
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294322449
+PlayerID: 76561198341672556
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294887640
+
+END with Bans:
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198178769943 Name: Agusha228 Character: Agusha228 Ping: 156
+PlayerID: 76561198144832045 Name: (БРО228)Агуша228 Character: (БРО228)Агуша228 Ping: 156
+PlayerID: 76561198389415200 Name: Andrew Lavrinets Character: Andrew Ping: 210
+PlayerID: 76561198322193999 Name: ™_Game®_™ Character: Карл Иванович Ping: 54
+PlayerID: 76561198280617288 Name: Незнаю какой придумать Character: Пипр Ping: 46
+PlayerID: 76561198345092267 Name: demid3450 Character: [гл террористов] демид журавлёв Ping: 250
+PlayerID: 76561198219246692 Name: 71M0qp3u* Character: 71M0qp3u* Ping: 62
+PlayerID: 76561198287257345 Name: TheHard27 Character: TheHard27 Ping: 257
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294322429
+PlayerID: 76561198341672556
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294887620
+
+END with Bans:
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198178769943 Name: Agusha228 Character: Agusha228 Ping: 156
+PlayerID: 76561198144832045 Name: (БРО228)Агуша228 Character: (БРО228)Агуша228 Ping: 148
+PlayerID: 76561198389415200 Name: Andrew Lavrinets Character: Andrew Ping: 117
+PlayerID: 76561198322193999 Name: ™_Game®_™ Character: Карл Иванович Ping: 46
+PlayerID: 76561198280617288 Name: Незнаю какой придумать Character: Пипр Ping: 39
+PlayerID: 76561198345092267 Name: demid3450 Character: [гл террористов] демид журавлёв Ping: 117
+PlayerID: 76561198219246692 Name: 71M0qp3u* Character: 71M0qp3u* Ping: 78
+PlayerID: 76561198287257345 Name: TheHard27 Character: TheHard27 Ping: 164
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294322409
+PlayerID: 76561198341672556
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294887600
+
+END with Bans:
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198178769943 Name: Agusha228 Character: Agusha228 Ping: 156
+PlayerID: 76561198144832045 Name: (БРО228)Агуша228 Character: (БРО228)Агуша228 Ping: 156
+PlayerID: 76561198389415200 Name: Andrew Lavrinets Character: Andrew Ping: 273
+PlayerID: 76561198322193999 Name: ™_Game®_™ Character: Карл Иванович Ping: 39
+PlayerID: 76561198280617288 Name: Незнаю какой придумать Character: Пипр Ping: 54
+PlayerID: 76561198345092267 Name: demid3450 Character: [гл террористов] демид журавлёв Ping: 109
+PlayerID: 76561198219246692 Name: 71M0qp3u* Character: 71M0qp3u* Ping: 54
+PlayerID: 76561198287257345 Name: TheHard27 Character: TheHard27 Ping: 156
+
+Не обработано: MessageAnnouncer >> Broadcast: Наберите /rules (/r) для просмотра правил
+TimerTerminateCommand.Enabled with Players:
+MessageAnnouncer >> Broadcast: Наберите /rules (/r) для просмотра правил
+
+Не обработано: MessageAnnouncer >> Наберите /rules (/r) для просмотра правил
+TimerTerminateCommand.Enabled with Players:
+MessageAnnouncer >> Наберите /rules (/r) для просмотра правил
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294322389
+PlayerID: 76561198341672556
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294887580
+
+END with Bans:
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198178769943 Name: Agusha228 Character: Agusha228 Ping: 164
+PlayerID: 76561198144832045 Name: (БРО228)Агуша228 Character: (БРО228)Агуша228 Ping: 156
+PlayerID: 76561198389415200 Name: Andrew Lavrinets Character: Andrew Ping: 257
+PlayerID: 76561198322193999 Name: ™_Game®_™ Character: Карл Иванович Ping: 187
+PlayerID: 76561198280617288 Name: Незнаю какой придумать Character: Пипр Ping: 62
+PlayerID: 76561198345092267 Name: demid3450 Character: [гл террористов] демид журавлёв Ping: 132
+PlayerID: 76561198219246692 Name: 71M0qp3u* Character: 71M0qp3u* Ping: 62
+PlayerID: 76561198287257345 Name: TheHard27 Character: TheHard27 Ping: 171
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294322369
+PlayerID: 76561198341672556
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294887560
+
+END with Bans:

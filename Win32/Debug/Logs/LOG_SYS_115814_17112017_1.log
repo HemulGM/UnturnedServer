@@ -1,0 +1,9 @@
+17.11.2017 11:58:15: ClientSocketLookup
+17.11.2017 11:58:15: ClientSocketConnecting
+17.11.2017 11:58:15: ClientSocketConnect
+17.11.2017 11:58:15: ClientSocketWrite
+17.11.2017 11:58:47: except UpdateBansTable rec: 0
+17.11.2017 11:59:09: except UpdateBansTable rec: 1
+17.11.2017 11:59:30: except UpdateBansTable rec: 2
+17.11.2017 12:02:09: except UpdateBansTable rec: 3
+17.11.2017 12:02:22: except UpdateBansTable rec: 4

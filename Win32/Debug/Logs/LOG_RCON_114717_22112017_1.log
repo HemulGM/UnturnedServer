@@ -1,0 +1,44 @@
+RocketRcon v2.4.8.0
+
+login aVIPs22031994
+players
+Client has executed command "players"
+Failed to find any players.
+
+Client has executed command "players"
+
+Failed to find any players.
+
+GET ISDAYTIME
+Client has executed command "GET ISDAYTIME"
+
+ServerControl >> VALUE ISDAYTIME [1]
+
+ISDAYTIME: ""
+GET TIME
+Client has executed command "GET TIME"
+
+ServerControl >> VALUE TIME [612]
+
+TIME: ""
+GET ISFULLMOON
+Client has executed command "GET ISFULLMOON"
+
+ServerControl >> VALUE ISFULLMOON [0]
+
+ISFULLMOON: ""
+Client has executed command "players"
+
+Failed to find any players.
+
+GET ISDAYTIME
+Client has executed command "GET ISDAYTIME"
+
+ServerControl >> VALUE ISDAYTIME [1]
+
+ISDAYTIME: ""
+GET TIME
+Client has executed command "GET TIME"
+
+ServerControl >> VALUE TIME [625]
+

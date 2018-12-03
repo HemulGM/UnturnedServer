@@ -1,0 +1,7 @@
+16.06.2017 17:13:02: ClientSocketLookup
+16.06.2017 17:13:05: ClientSocketConnecting
+16.06.2017 17:13:05: ClientSocketConnect
+16.06.2017 17:13:05: ClientSocketWrite
+16.06.2017 17:15:19: ClientSocketManagerLookup
+16.06.2017 17:15:19: ClientSocketManagerConnecting
+16.06.2017 17:15:20: ClientSocketManagerError Не смог подключиться

@@ -1,0 +1,38 @@
+RocketRcon v2.4.8.0
+
+login aVIPs22031994
+players
+Client has executed command "bans"
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27651266
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30531544
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30531560
+Client has executed command "players"
+Players:
+PlayerID: 76561198203101308 Name: Dirooll Character: Алексей Вдувакин Ping: 66
+PlayerID: 76561198444494613 Name: vladkrut22 Character: Aня Ping: 152
+PlayerID: 76561198423084997 Name: lovemariina Character: 228ff Ping: 152
+PlayerID: 76561198396880187 Name: AnimatorCMEPTU Character: AnimatorCMEPTU Ping: 101
+PlayerID: 76561198408019916 Name: slava.fan555 Character: Славик Cухоруков Ping: 82
+
+END
+Client has executed command "bans"
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27651264
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30531542
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30531558
+
+END
+END

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Translations xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Translation Id="rocket_join_public" Value="{0} connected to the server" />
+  <Translation Id="rocket_leave_public" Value="{0} disconnected from the server" />
+  <Translation Id="command_no_permission" Value="You do not have permissions to execute this command." />
+  <Translation Id="command_cooldown" Value="You have to wait {0} seconds before you can use this command again." />
+</Translations>

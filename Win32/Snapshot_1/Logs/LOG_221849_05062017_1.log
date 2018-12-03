@@ -1,0 +1,321 @@
+Не обработано: RocketRcon v2.4.8.0
+RocketRcon v2.4.8.0
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198363828451 Name: Ничоси Character: Кеша Ping: 46
+PlayerID: 76561198305732269 Name: Owl Character: Owl Ping: 66
+PlayerID: 76561198386134948 Name: ZAGNIAGNIA Character: zakary.tellier Ping: 101
+PlayerID: 76561198334346242 Name: мареонетка Character: [Кровавые]хмурый Ping: 167
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 123123
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 31001708
+PlayerID: 123
+JudgeID: 0
+Reason: durila Duration: 4000 Remaining: 4294437502
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294465875
+
+END with Bans:
+Не обработано: Owl moved x:857.8381 y:64.758(+25.99718) z:539.0323 in the last second (0.1362915)
+Owl moved x:857.8381 y:64.758(+25.99718) z:539.0323 in the last second (0.1362915)
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198363828451 Name: Ничоси Character: Кеша Ping: 42
+PlayerID: 76561198305732269 Name: Owl Character: Owl Ping: 74
+PlayerID: 76561198386134948 Name: ZAGNIAGNIA Character: zakary.tellier Ping: 109
+PlayerID: 76561198334346242 Name: мареонетка Character: [Кровавые]хмурый Ping: 156
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 123123
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 31001688
+PlayerID: 123
+JudgeID: 0
+Reason: durila Duration: 4000 Remaining: 4294437482
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294465855
+
+END with Bans:
+Не обработано: MessageAnnouncer >> Broadcast: vk.com/unturned_hgm - цены на премиум, VIP и другие услуги смотрите в группе!
+MessageAnnouncer >> Broadcast: vk.com/unturned_hgm - цены на премиум, VIP и другие услуги смотрите в группе!
+
+Не обработано: MessageAnnouncer >> vk.com/unturned_hgm - цены на премиум, VIP и другие услуги смотрите в группе!
+MessageAnnouncer >> vk.com/unturned_hgm - цены на премиум, VIP и другие услуги смотрите в группе!
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198363828451 Name: Ничоси Character: Кеша Ping: 50
+PlayerID: 76561198305732269 Name: Owl Character: Owl Ping: 62
+PlayerID: 76561198386134948 Name: ZAGNIAGNIA Character: zakary.tellier Ping: 101
+PlayerID: 76561198334346242 Name: мареонетка Character: [Кровавые]хмурый Ping: 132
+
+Не обработано: DeathMessagesRemastered >> Broadcast: zakary.tellier was killed by spit!
+TimerTerminateCommand.Enabled with Players:
+DeathMessagesRemastered >> Broadcast: zakary.tellier was killed by spit!
+
+Не обработано: zakary.tellier [ZAGNIAGNIA] was dissolved by a zombie!
+TimerTerminateCommand.Enabled with Players:
+zakary.tellier [ZAGNIAGNIA] was dissolved by a zombie!
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 123123
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 31001667
+PlayerID: 123
+JudgeID: 0
+Reason: durila Duration: 4000 Remaining: 4294437461
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294465834
+
+END with Bans:
+Disconnecting: PlayerID: 76561198386134948 Name: ZAGNIAGNIA Character: zakary.tellier
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198363828451 Name: Ничоси Character: Кеша Ping: 50
+PlayerID: 76561198305732269 Name: Owl Character: Owl Ping: 78
+PlayerID: 76561198334346242 Name: мареонетка Character: [Кровавые]хмурый Ping: 144
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 123123
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 31001648
+PlayerID: 123
+JudgeID: 0
+Reason: durila Duration: 4000 Remaining: 4294437442
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294465815
+
+END with Bans:
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198363828451 Name: Ничоси Character: Кеша Ping: 35
+PlayerID: 76561198305732269 Name: Owl Character: Owl Ping: 70
+PlayerID: 76561198334346242 Name: мареонетка Character: [Кровавые]хмурый Ping: 93
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 123123
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 31001628
+PlayerID: 123
+JudgeID: 0
+Reason: durila Duration: 4000 Remaining: 4294437422
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294465795
+
+END with Bans:
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198363828451 Name: Ничоси Character: Кеша Ping: 42
+PlayerID: 76561198305732269 Name: Owl Character: Owl Ping: 58
+PlayerID: 76561198334346242 Name: мареонетка Character: [Кровавые]хмурый Ping: 144
+
+TimerTerminateCommand.Enabled with Players:
+Connecting: PlayerID: 76561198126311468 Name: top pocik Character: Logic
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 123123
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 31001606
+PlayerID: 123
+JudgeID: 0
+Reason: durila Duration: 4000 Remaining: 4294437400
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294465773
+
+END with Bans:
+[Area] Кеша [Ничоси]: "/home"
+
+Не обработано: Кеша moved x:48.79025 y:60.64051(+24.60084) z:-47.16897 in the last second (0.2379189)
+Кеша moved x:48.79025 y:60.64051(+24.60084) z:-47.16897 in the last second (0.2379189)
+
+TimerTerminateCommand.Enabled with Players:
+Client has executed command "players"
+Players:
+PlayerID: 76561198363828451 Name: Ничоси Character: Кеша Ping: 42
+PlayerID: 76561198305732269 Name: Owl Character: Owl Ping: 58
+PlayerID: 76561198334346242 Name: мареонетка Character: [Кровавые]хмурый Ping: 253
+PlayerID: 76561198126311468 Name: top pocik Character: Logic Ping: 93
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 123123
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 31001585
+PlayerID: 123
+JudgeID: 0
+Reason: durila Duration: 4000 Remaining: 4294437379
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294465752
+
+END with Bans:
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198363828451 Name: Ничоси Character: Кеша Ping: 42
+PlayerID: 76561198305732269 Name: Owl Character: Owl Ping: 62
+PlayerID: 76561198334346242 Name: мареонетка Character: [Кровавые]хмурый Ping: 121
+PlayerID: 76561198126311468 Name: top pocik Character: Logic Ping: 85
+
+TimerTerminateCommand.Enabled with Players:
+[World] Logic [top pocik]: "/kits"
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 123123
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 31001564
+PlayerID: 123
+JudgeID: 0
+Reason: durila Duration: 4000 Remaining: 4294437358
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294465731
+
+END with Bans:
+[World] Logic [top pocik]: "/kit start"
+
+[Group] Кеша [Ничоси]: "/t["
+
+Не обработано: MessageAnnouncer >> Broadcast: Наберите /kit claim, чтобы получить Claim Flag
+MessageAnnouncer >> Broadcast: Наберите /kit claim, чтобы получить Claim Flag
+
+Не обработано: MessageAnnouncer >> Наберите /kit claim, чтобы получить Claim Flag
+MessageAnnouncer >> Наберите /kit claim, чтобы получить Claim Flag
+
+[Area] Кеша [Ничоси]: "/tpa мар"
+
+[Group] Logic [top pocik]: "/kit help"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198363828451 Name: Ничоси Character: Кеша Ping: 39
+PlayerID: 76561198305732269 Name: Owl Character: Owl Ping: 54
+PlayerID: 76561198334346242 Name: мареонетка Character: [Кровавые]хмурый Ping: 144
+PlayerID: 76561198126311468 Name: top pocik Character: Logic Ping: 85
+
+TimerTerminateCommand.Enabled with Players:
+[World] [Кровавые]хмурый [мареонетка]: "/tpa a"
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 123123
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 31001543
+PlayerID: 123
+JudgeID: 0
+Reason: durila Duration: 4000 Remaining: 4294437337
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294465710
+
+END with Bans:
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198363828451 Name: Ничоси Character: Кеша Ping: 39
+PlayerID: 76561198305732269 Name: Owl Character: Owl Ping: 54
+PlayerID: 76561198334346242 Name: мареонетка Character: [Кровавые]хмурый Ping: 140
+PlayerID: 76561198126311468 Name: top pocik Character: Logic Ping: 66
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 123123
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 31001525
+PlayerID: 123
+JudgeID: 0
+Reason: durila Duration: 4000 Remaining: 4294437319
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294465692
+
+END with Bans:
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198363828451 Name: Ничоси Character: Кеша Ping: 42
+PlayerID: 76561198305732269 Name: Owl Character: Owl Ping: 58
+PlayerID: 76561198334346242 Name: мареонетка Character: [Кровавые]хмурый Ping: 140
+PlayerID: 76561198126311468 Name: top pocik Character: Logic Ping: 238
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 123123
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 31001505
+PlayerID: 123
+JudgeID: 0
+Reason: durila Duration: 4000 Remaining: 4294437299
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294465672
+
+END with Bans:

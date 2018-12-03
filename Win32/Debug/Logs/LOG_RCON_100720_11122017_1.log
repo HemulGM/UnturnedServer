@@ -1,0 +1,37 @@
+RocketRcon v2.4.8.0
+
+login aVIPs22031994
+players
+Client has executed command "players"
+Failed to find any players.
+Client has executed command "players"
+Failed to find any players.
+
+Client has executed command "GET NOW"
+ServerControl >> VALUE NOW [1] [0] [476]
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [485]
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [486]
+
+MessageAnnouncer >> Broadcast: vk.com/unturned_hgm - группа сервера ВК, уникальный кит в записи!
+
+MessageAnnouncer >> vk.com/unturned_hgm - группа сервера ВК, уникальный кит в записи!
+
+Client has executed command "players"
+
+Failed to find any players.
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [496]
+
+Client has executed command "GET NOW"
+ServerControl >> VALUE NOW [1] [0] [496]
+

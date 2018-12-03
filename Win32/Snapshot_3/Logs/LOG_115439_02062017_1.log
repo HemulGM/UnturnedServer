@@ -1,0 +1,39 @@
+Не обработано: RocketRcon v2.4.8.0
+RocketRcon v2.4.8.0
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198280617288 Name: Незнаю какой придумать Character: Пипр Ping: 54
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 39
+PlayerID: 76561198303283372 Name: PeR4IK Character: данил Ping: 85
+PlayerID: 76561198391121800 Name: Джеимс Вурхиз Character: Джеимс Вурхиз Ping: 54
+PlayerID: 76561198292543416 Name: Mr_GiladKing Character: GamerYT Ping: 62
+PlayerID: 76561198322193999 Name: ™_Game®_™ Character: Карл Иванович Ping: 54
+PlayerID: 76561198167413206 Name: Doktor Whoo Character: Doktor Whoo Ping: 39
+PlayerID: 76561198341672556 Name: st.vladir Character: st.vladir Ping: 140
+PlayerID: 76561198324996335 Name: Mуждей щи Мамалыга Character: []Max[] Ping: 85
+
+TimerTerminateCommand.Enabled with Players:
+Client has executed command "bans"
+
+END with Players:
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 123123
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 31298357
+PlayerID: 123
+JudgeID: 0
+Reason: durila Duration: 4000 Remaining: 4294734151
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294762524
+
+???M ????
+???M ????
+???M ????
+END with Bans:
+???M ????
+???M ????

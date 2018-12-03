@@ -1,0 +1,160 @@
+RocketRcon v2.4.8.0
+
+login aVIPs22031994
+players
+Client has executed command "players"
+Players:
+PlayerID: 76561198056500580 Name: BART Character: KOFFI Ping: 15
+
+Client has executed command "bans"
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27473621
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30353899
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30353915
+
+END
+Client has executed command "players"
+Players:
+PlayerID: 76561198056500580 Name: BART Character: KOFFI Ping: 15
+Client has executed command "bans"
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27473619
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30353897
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30353913
+
+END
+END
+END
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [1032]
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [1038]
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [1042]
+
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198056500580 Name: BART Character: KOFFI Ping: 23
+
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27473599
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30353877
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30353893
+
+END
+GET NOW
+END
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [1048]
+
+MessageAnnouncer >> Broadcast: Наберите /kit help, чтобы получить первую мед. помощь (бинты, таблетки, еда)
+
+MessageAnnouncer >> Наберите /kit help, чтобы получить первую мед. помощь (бинты, таблетки, еда)
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [1052]
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [1059]
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [1062]
+
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198056500580 Name: BART Character: KOFFI Ping: 39
+
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27473579
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30353857
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30353873
+
+END
+END
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [1069]
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [1072]
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [1079]
+Client has executed command "cchat "/33/09/17/04/17/15/16 /24/05/17/05/08 3 /24. 20 /13. " 255 255 0"
+
+ServerControl >> Broadcast: Аирдроп через 3 ч. 20 м.
+
+Не обработано: ServerControl >> Broadcast: Аирдроп через 3 ч. 20 м.
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [1082]
+
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198056500580 Name: BART Character: KOFFI Ping: 15
+
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27473559
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30353837
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30353853
+
+END
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [1089]
+

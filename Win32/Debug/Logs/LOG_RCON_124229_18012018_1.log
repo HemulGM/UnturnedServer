@@ -1,0 +1,393 @@
+RocketRcon v2.4.8.0
+
+login aVIPs22031994
+players
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198425129304 Name: NOT GAME Character: Slava_kitel Ping: 31
+PlayerID: 76561198426897214 Name: TomiK Character: Roman_KIller Ping: 54
+
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 23167881
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 26048159
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 26048175
+PlayerID: 76561198441524917
+JudgeID: 76561198237123262
+Reason: 100000 Duration: 31536000 Remaining: 31139341
+
+END
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [876]
+
+MessageAnnouncer >> Broadcast: Добро пожаловать на HGM. Тут рады вам больше, чем на любом другом сервере!
+
+MessageAnnouncer >> Добро пожаловать на HGM. Тут рады вам больше, чем на любом другом сервере!
+
+END
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [879]
+
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198425129304 Name: NOT GAME Character: Slava_kitel Ping: 31
+PlayerID: 76561198426897214 Name: TomiK Character: Roman_KIller Ping: 62
+
+END
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 23167871
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 26048149
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 26048165
+PlayerID: 76561198441524917
+JudgeID: 76561198237123262
+Reason: 100000 Duration: 31536000 Remaining: 31139331
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [887]
+
+END
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [889]
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [897]
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [899]
+
+Disconnecting: PlayerID: 76561198426897214 Name: TomiK Character: Roman_KIller
+
+Client has executed command "players"
+Players:
+PlayerID: 76561198425129304 Name: NOT GAME Character: Slava_kitel Ping: 31
+
+END
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 23167850
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 26048128
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 26048144
+PlayerID: 76561198441524917
+JudgeID: 76561198237123262
+Reason: 100000 Duration: 31536000 Remaining: 31139310
+
+cchat "76561198425129304" "/49/17/09/02/05/12/05/03/09/09 /02/11/12/31/24/05/14/28" 255 255 255
+p add 76561198425129304 Moderators
+Client has executed command "cchat "76561198425129304" "/49/17/09/02/05/12/05/03/09/09 /02/11/12/31/24/05/14/28" 255 255 255"
+
+ServerControl >> /49/17/09/02/05/12/05/03/09/09 /02/11/12/31/24/05/14/28 255 255 255
+
+Не обработано: ServerControl >> /49/17/09/02/05/12/05/03/09/09 /02/11/12/31/24/05/14/28 255 255 255
+Client has executed command "p add 76561198425129304 Moderators"
+
+Slava_kitel уже в группе Moderators
+
+Не обработано: Slava_kitel уже в группе Moderators
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [907]
+
+Client has executed command "GET NOW"
+ServerControl >> VALUE NOW [1] [0] [909]
+
+END
+Client has executed command "cchat "" 0 0 0"
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [918]
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [919]
+
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198425129304 Name: NOT GAME Character: Slava_kitel Ping: 31
+
+END
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 23167830
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 26048108
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 26048124
+PlayerID: 76561198441524917
+JudgeID: 76561198237123262
+Reason: 100000 Duration: 31536000 Remaining: 31139290
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [927]
+
+END
+Client has executed command "GET NOW"
+ServerControl >> VALUE NOW [1] [0] [929]
+[World] Slava_kitel [NOT GAME]: "/HELP"
+Connecting: PlayerID: 76561198426897214 Name: TomiK Character: Roman_KIller
+Roman_KIller connected with IP 195.218.182.53
+MessageAnnouncer >> Broadcast: Наберите /kit start, чтобы получить стартовый набор (еда, вода, топор)
+MessageAnnouncer >> Наберите /kit start, чтобы получить стартовый набор (еда, вода, топор)
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [938]
+
+[World] Slava_kitel [NOT GAME]: "/HEAL"
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [939]
+
+END
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198425129304 Name: NOT GAME Character: Slava_kitel Ping: 31
+PlayerID: 76561198426897214 Name: TomiK Character: Roman_KIller Ping: 54
+
+END
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 23167809
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 26048087
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 26048103
+PlayerID: 76561198441524917
+JudgeID: 76561198237123262
+Reason: 100000 Duration: 31536000 Remaining: 31139269
+
+END
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [949]
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [949]
+
+END
+GET NOW
+Client has executed command "GET NOW"
+ServerControl >> VALUE NOW [1] [0] [959]
+Client has executed command "players"
+Players:
+PlayerID: 76561198425129304 Name: NOT GAME Character: Slava_kitel Ping: 31
+PlayerID: 76561198426897214 Name: TomiK Character: Roman_KIller Ping: 62
+Client has executed command "bans"
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 23167789
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 26048067
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 26048083
+PlayerID: 76561198441524917
+JudgeID: 76561198237123262
+Reason: 100000 Duration: 31536000 Remaining: 31139249
+Client has executed command "GET NOW"
+ServerControl >> VALUE NOW [1] [0] [969]
+Client has executed command "GET NOW"
+ServerControl >> VALUE NOW [1] [0] [979]
+Client has executed command "players"
+Players:
+PlayerID: 76561198425129304 Name: NOT GAME Character: Slava_kitel Ping: 31
+PlayerID: 76561198426897214 Name: TomiK Character: Roman_KIller Ping: 54
+Client has executed command "bans"
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 23167768
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 26048046
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 26048062
+PlayerID: 76561198441524917
+JudgeID: 76561198237123262
+Reason: 100000 Duration: 31536000 Remaining: 31139228
+Client has executed command "GET NOW"
+ServerControl >> VALUE NOW [1] [0] [989]
+MessageAnnouncer >> Broadcast: Внимание! PvP-режим по субботам! PvP-режим!!!
+MessageAnnouncer >> Внимание! PvP-режим по субботам! PvP-режим!!!
+Client has executed command "GET NOW"
+ServerControl >> VALUE NOW [1] [0] [999]
+Client has executed command "players"
+Players:
+PlayerID: 76561198425129304 Name: NOT GAME Character: Slava_kitel Ping: 31
+PlayerID: 76561198426897214 Name: TomiK Character: Roman_KIller Ping: 54
+Client has executed command "bans"
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 23167748
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 26048026
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 26048042
+PlayerID: 76561198441524917
+JudgeID: 76561198237123262
+Reason: 100000 Duration: 31536000 Remaining: 31139208
+Client has executed command "GET NOW"
+ServerControl >> VALUE NOW [1] [0] [1009]
+Client has executed command "GET NOW"
+ServerControl >> VALUE NOW [1] [0] [1019]
+Client has executed command "players"
+Players:
+PlayerID: 76561198425129304 Name: NOT GAME Character: Slava_kitel Ping: 31
+PlayerID: 76561198426897214 Name: TomiK Character: Roman_KIller Ping: 78
+Client has executed command "bans"
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 23167727
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 26048005
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 26048021
+PlayerID: 76561198441524917
+JudgeID: 76561198237123262
+Reason: 100000 Duration: 31536000 Remaining: 31139187
+Client has executed command "GET NOW"
+ServerControl >> VALUE NOW [1] [0] [1029]
+Client has executed command "cchat "" 0 0 0"
+Client has executed command "GET NOW"
+ServerControl >> VALUE NOW [1] [0] [1039]
+Client has executed command "players"
+Players:
+PlayerID: 76561198425129304 Name: NOT GAME Character: Slava_kitel Ping: 31
+PlayerID: 76561198426897214 Name: TomiK Character: Roman_KIller Ping: 54
+Client has executed command "GET NOW"
+ServerControl >> VALUE NOW [1] [0] [1049]
+Client has executed command "bans"
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 23167705
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 26047983
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 26047999
+PlayerID: 76561198441524917
+JudgeID: 76561198237123262
+Reason: 100000 Duration: 31536000 Remaining: 31139165
+MessageAnnouncer >> Broadcast: vk.com/unturned_hgm - группа сервера ВК, уникальный кит в записи!
+MessageAnnouncer >> vk.com/unturned_hgm - группа сервера ВК, уникальный кит в записи!
+Client has executed command "GET NOW"
+ServerControl >> VALUE NOW [1] [0] [1059]
+Client has executed command "players"
+Players:
+PlayerID: 76561198425129304 Name: NOT GAME Character: Slava_kitel Ping: 31
+PlayerID: 76561198426897214 Name: TomiK Character: Roman_KIller Ping: 39
+Client has executed command "GET NOW"
+ServerControl >> VALUE NOW [1] [0] [1069]
+Client has executed command "bans"
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 23167685
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 26047963
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 26047979
+PlayerID: 76561198441524917
+JudgeID: 76561198237123262
+Reason: 100000 Duration: 31536000 Remaining: 31139145
+Client has executed command "GET NOW"
+ServerControl >> VALUE NOW [1] [0] [1079]
+Client has executed command "GET NOW"
+
+END
+ServerControl >> VALUE NOW [1] [0] [1081]
+
+END
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198425129304 Name: NOT GAME Character: Slava_kitel Ping: 39
+PlayerID: 76561198426897214 Name: TomiK Character: Roman_KIller Ping: 54
+
+END
+Client has executed command "GET NOW"
+ServerControl >> VALUE NOW [1] [0] [1089]
+Client has executed command "bans"
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 23167665
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 26047943
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 26047959
+PlayerID: 76561198441524917
+JudgeID: 76561198237123262
+Reason: 100000 Duration: 31536000 Remaining: 31139125
+Client has executed command "GET NOW"
+ServerControl >> VALUE NOW [1] [0] [1099]
+
+END

@@ -1,0 +1,58 @@
+Не обработано: RocketRcon v2.4.8.0
+RocketRcon v2.4.8.0
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 148
+PlayerID: 76561198346009739 Name: СпЕкТоР Character: Николай Белый Ping: 23
+
+TimerTerminateCommand.Enabled with Players:
+Client has executed command "bans"
+
+END with Players:
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 123123
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 31308801
+PlayerID: 123
+JudgeID: 0
+Reason: durila Duration: 4000 Remaining: 4294744595
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294772968
+
+END with Bans:
+[World] Николай Белый [СпЕкТоР]: "почему на норм сервере нарушают правила они уже зае****"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 132
+PlayerID: 76561198346009739 Name: СпЕкТоР Character: Николай Белый Ping: 31
+
+TimerTerminateCommand.Enabled with Players:
+Client has executed command "say "???M: ???????????""
+
+END with Players:
+[World] Николай Белый [СпЕкТоР]: "меня зарейдили !"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 140
+PlayerID: 76561198346009739 Name: СпЕкТоР Character: Николай Белый Ping: 31
+
+END with Players:
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 117
+PlayerID: 76561198346009739 Name: СпЕкТоР Character: Николай Белый Ping: 31
+
+END with Players:

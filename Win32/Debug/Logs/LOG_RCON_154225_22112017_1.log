@@ -1,0 +1,74 @@
+RocketRcon v2.4.8.0
+
+login aVIPs22031994
+players
+Client has executed command "players"
+Failed to find any players.
+
+Client has executed command "GET NOW"
+ServerControl >> VALUE NOW [0] [0] [2443]
+
+Client has executed command "players"
+
+Failed to find any players.
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2453]
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2456]
+
+MessageAnnouncer >> Broadcast: Используйте /report [ник], чтобы отправить жалобу на игрока
+
+MessageAnnouncer >> Используйте /report [ник], чтобы отправить жалобу на игрока
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2463]
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2466]
+
+Client has executed command "players"
+
+Failed to find any players.
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2473]
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2476]
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2483]
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2486]
+
+Client has executed command "players"
+
+Failed to find any players.
+
+Client has executed command "GET NOW"
+ServerControl >> VALUE NOW [0] [0] [2493]
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2496]
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2503]
+

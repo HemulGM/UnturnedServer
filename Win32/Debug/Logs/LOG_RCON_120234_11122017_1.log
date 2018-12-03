@@ -1,0 +1,94 @@
+RocketRcon v2.4.8.0
+
+login aVIPs22031994
+players
+Client has executed command "players"
+Failed to find any players.
+
+Client has executed command "GET NOW"
+ServerControl >> VALUE NOW [1] [0] [190]
+
+Client has executed command "players"
+
+Failed to find any players.
+
+MessageAnnouncer >> Broadcast: Наберите /kit start, чтобы получить стартовый набор (еда, вода, топор)
+
+MessageAnnouncer >> Наберите /kit start, чтобы получить стартовый набор (еда, вода, топор)
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [200]
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [200]
+
+GET NOW
+Client has executed command "GET NOW"
+ServerControl >> VALUE NOW [1] [0] [210]
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [211]
+
+Client has executed command "players"
+
+Failed to find any players.
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [220]
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [221]
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [230]
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [231]
+
+Client has executed command "players"
+
+Failed to find any players.
+
+Client has executed command "GET NOW"
+ServerControl >> VALUE NOW [1] [0] [240]
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [241]
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [250]
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [251]
+
+Client has executed command "players"
+Failed to find any players.
+
+MessageAnnouncer >> Broadcast: Внимание! PvP-режим по субботам! PvP-режим!!!
+
+MessageAnnouncer >> Внимание! PvP-режим по субботам! PvP-режим!!!
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [260]
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [261]
+

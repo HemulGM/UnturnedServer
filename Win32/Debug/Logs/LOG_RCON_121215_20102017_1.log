@@ -1,0 +1,39 @@
+20.10.2017 12:12:41: Не обработано: Broadcast: ????????
+20.10.2017 12:12:41: Не обработано: Say: '????????'
+20.10.2017 12:14:51: Не обработано: Broadcast: ????????
+20.10.2017 12:14:51: Не обработано: Say: '????????'
+20.10.2017 12:16:55: Не обработано: Client has disconnected! (IP: 127.0.0.1:5662)
+20.10.2017 12:17:45: Не обработано: Broadcast: ????
+20.10.2017 12:17:45: Не обработано: Say: '????'
+20.10.2017 12:48:13: Не обработано: Rocket.Core >> Exception in Read: System.IO.IOException: Read failure ---> System.Net.Sockets.SocketException: Программа на вашем хост-компьютере разорвала установленное подключение.
+20.10.2017 12:48:13: Не обработано: 
+20.10.2017 12:48:13: Не обработано:   at System.Net.Sockets.Socket.Receive (System.Byte[] buffer, Int32 offset, Int32 size, SocketFlags flags) [0x00000] in <filename unknown>:0 
+20.10.2017 12:48:13: Не обработано:   at System.Net.Sockets.NetworkStream.Read (System.Byte[] buffer, Int32 offset, Int32 size) [0x00000] in <filename unknown>:0 
+20.10.2017 12:48:13: Не обработано:   --- End of inner exception stack trace ---
+20.10.2017 12:48:13: Не обработано:   at System.Net.Sockets.NetworkStream.Read (System.Byte[] buffer, Int32 offset, Int32 size) [0x00000] in <filename unknown>:0 
+20.10.2017 12:48:13: Не обработано:   at Rocket.Core.RCON.RCONServer.Read (System.Net.Sockets.TcpClient client) [0x00000] in <filename unknown>:0 
+20.10.2017 12:48:13: Не обработано: Rocket.CoreException in Rocket.Core: System.IO.IOException: Write failure ---> System.Net.Sockets.SocketException: Программа на вашем хост-компьютере разорвала установленное подключение.
+20.10.2017 12:48:13: Не обработано: 
+20.10.2017 12:48:13: Не обработано:   at System.Net.Sockets.Socket.Send (System.Byte[] buf, Int32 offset, Int32 size, SocketFlags flags) [0x00000] in <filename unknown>:0 
+20.10.2017 12:48:13: Не обработано:   at System.Net.Sockets.NetworkStream.Write (System.Byte[] buffer, Int32 offset, Int32 size) [0x00000] in <filename unknown>:0 
+20.10.2017 12:48:13: Не обработано:   --- End of inner exception stack trace ---
+20.10.2017 12:48:13: Не обработано:   at System.Net.Sockets.NetworkStream.Write (System.Byte[] buffer, Int32 offset, Int32 size) [0x00000] in <filename unknown>:0 
+20.10.2017 12:48:13: Не обработано:   at Rocket.Core.RCON.RCONServer.Send (System.Net.Sockets.TcpClient client, System.String text) [0x00000] in <filename unknown>:0 
+20.10.2017 12:48:13: Не обработано:   at Rocket.Core.RCON.RCONConnection.Send (System.String command, Boolean nonewline) [0x00000] in <filename unknown>:0 
+20.10.2017 12:48:13: Не обработано:   at Rocket.Core.RCON.RCONServer.handleConnection (System.Object obj) [0x00000] in <filename unknown>:0 
+20.10.2017 12:48:14: Не обработано: Client has disconnected! (IP: 5.172.14.161:53425)
+20.10.2017 12:48:46: Не обработано: Broadcast: /01/02/03/04/05/06/07/08/10/50
+20.10.2017 12:48:46: Не обработано: Say: '/01/02/03/04/05/06/07/08/10/50'
+20.10.2017 12:54:12: Не обработано: Loading level: 16%
+20.10.2017 12:54:13: Не обработано: Loading level: 25%
+20.10.2017 12:54:13: Не обработано: Loading level: 33%
+20.10.2017 12:54:13: Не обработано: Loading level: 41%
+20.10.2017 12:54:14: Не обработано: Loading level: 50%
+20.10.2017 12:54:14: Не обработано: Broadcast: бвгдеёжзйР
+20.10.2017 12:54:14: Не обработано: Say: 'бвгдеёжзйР'
+20.10.2017 12:54:14: Не обработано: Loading level: 58%
+20.10.2017 12:54:14: Не обработано: Loading level: 66%
+20.10.2017 12:54:14: Не обработано: Loading level: 75%
+20.10.2017 12:54:14: Не обработано: Loading level: 83%
+20.10.2017 12:54:14: Не обработано: Loading level: 91%
+20.10.2017 12:54:14: Не обработано: Loading level: 100%

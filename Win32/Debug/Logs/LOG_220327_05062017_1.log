@@ -1,0 +1,50 @@
+Не обработано: RocketRcon v2.4.8.0
+RocketRcon v2.4.8.0
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198280617288 Name: Незнаю какой придумать Character: Пипр Ping: 66
+PlayerID: 76561198152563082 Name: Drakon Character: [MODER]Stanat Ping: 160
+PlayerID: 76561198336965559 Name: Bomjara Character: Bomjara Ping: 42
+PlayerID: 76561198363828451 Name: Ничоси Character: Кеша Ping: 35
+PlayerID: 76561198165822970 Name: Indigo Character: Indigo Ping: 46
+PlayerID: 76561198305732269 Name: Owl Character: Owl Ping: 70
+PlayerID: 76561198390891968 Name: artyr-zakirov-96 Character: alkash Ping: 70
+PlayerID: 76561198334346242 Name: мареонетка Character: [Кровавые]хмурый Ping: 109
+PlayerID: 76561198372676519 Name: Kreeperator play Character: Kreeperator play Ping: 46
+PlayerID: 76561198338916497 Name: evgeish Character: JENYA Ping: 93
+PlayerID: 76561198386134948 Name: ZAGNIAGNIA Character: zakary.tellier Ping: 109
+PlayerID: 76561198368128006 Name: Aibek Character: Aibek [A.S.D] Ping: 97
+
+Не обработано: MessageAnnouncer >> Broadcast: vk.com/hemulgm - ЕДИНСТВЕННЫЙ администратор сервера
+TimerTerminateCommand.Enabled with Players:
+MessageAnnouncer >> Broadcast: vk.com/hemulgm - ЕДИНСТВЕННЫЙ администратор сервера
+
+Не обработано: MessageAnnouncer >> vk.com/hemulgm - ЕДИНСТВЕННЫЙ администратор сервера
+TimerTerminateCommand.Enabled with Players:
+MessageAnnouncer >> vk.com/hemulgm - ЕДИНСТВЕННЫЙ администратор сервера
+
+TimerTerminateCommand.Enabled with Players:
+[World] Пипр [Незнаю какой придумать]: "Подвези"
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 123123
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 31002628
+PlayerID: 123
+JudgeID: 0
+Reason: durila Duration: 4000 Remaining: 4294438422
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294466795
+
+TimerTerminateCommand.Enabled with Bans:
+[World] Indigo [Indigo]: "куда"
+
+END with Bans:

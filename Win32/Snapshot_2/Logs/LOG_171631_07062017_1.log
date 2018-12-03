@@ -1,0 +1,57 @@
+Не обработано: RocketRcon v2.4.8.0
+RocketRcon v2.4.8.0
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198309008539 Name: NOOO-SENPAI... Character: Сенпай Ping: 31
+PlayerID: 76561198151655003 Name: HemulGM Character: HemulGM Ping: 7
+PlayerID: 76561198297629847 Name: VeZuN4iK Character: DeN Ping: 46
+PlayerID: 76561198147477828 Name: galbatsovmikail Character: galbatsovmikail Ping: 46
+PlayerID: 76561198390219785 Name: emokacper110 Character: emokacper110 Ping: 132
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 132
+PlayerID: 76561198376416045 Name: xitrfaratez Character: xitrfaratez Ping: 70
+PlayerID: 76561198363828451 Name: Ничоси Character: Кеша Ping: 31
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294311212
+
+TimerTerminateCommand.Enabled with Bans:
+[World] galbatsovmikail [galbatsovmikail]: "круто"
+
+END with Bans:
+Client has executed command "syaa "?AAAAAA?CE|?AAAAAA?CE|?AAAAAA?CE""
+
+Не обработано: DeathMessagesRemastered >> Broadcast: emokacper110 has bled to death!
+DeathMessagesRemastered >> Broadcast: emokacper110 has bled to death!
+
+Не обработано: emokacper110 [emokacper110] bled to death!
+emokacper110 [emokacper110] bled to death!
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198309008539 Name: NOOO-SENPAI... Character: Сенпай Ping: 31
+PlayerID: 76561198151655003 Name: HemulGM Character: HemulGM Ping: 7
+PlayerID: 76561198297629847 Name: VeZuN4iK Character: DeN Ping: 54
+PlayerID: 76561198147477828 Name: galbatsovmikail Character: galbatsovmikail Ping: 70
+PlayerID: 76561198390219785 Name: emokacper110 Character: emokacper110 Ping: 156
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 156
+PlayerID: 76561198376416045 Name: xitrfaratez Character: xitrfaratez Ping: 85
+PlayerID: 76561198363828451 Name: Ничоси Character: Кеша Ping: 39
+
+TimerTerminateCommand.Enabled with Players:
+Disconnecting: PlayerID: 76561198363828451 Name: Ничоси Character: Кеша
+
+Не обработано: emokacper110 moved x:-744.4502 y:58.56762(+20.0903) z:127.2084 in the last second (0.9748459)
+TimerTerminateCommand.Enabled with Players:
+emokacper110 moved x:-744.4502 y:58.56762(+20.0903) z:127.2084 in the last second (0.9748459)
+

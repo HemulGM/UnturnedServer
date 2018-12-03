@@ -1,0 +1,2352 @@
+RocketRcon v2.4.8.0
+
+login aVIPs22031994
+players
+Client has executed command "players"
+Players:
+PlayerID: 76561198130308475 Name: алдуин csgofast.com Character: OXXXY Ping: 27
+PlayerID: 76561198366549870 Name: Expert1337 Character: Expert1337 Ping: 62
+PlayerID: 76561198423084997 Name: FACE Character: Элджей Ping: 109
+PlayerID: 76561198290478364 Name: Mr.Web56 Character: Webчик  Ping: 121
+PlayerID: 76561198314376473 Name: Злой Котик) Character: степан Ping: 109
+PlayerID: 76561198811334829 Name: yara.traf Character: yara.traf Ping: 70
+PlayerID: 76561198393477159 Name: Enderapple Character: Вячеслав_Эндров Ping: 50
+PlayerID: 76561198302408230 Name: Esour Character: Даник Приймич Ping: 74
+Client has executed command "bans"
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 19454792
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 22335070
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 22335086
+PlayerID: 76561198441524917
+JudgeID: 76561198237123262
+Reason: 100000 Duration: 31536000 Remaining: 27426252
+PlayerID: 76561198446923945
+JudgeID: 76561198237123262
+Reason: 60000 Duration: 31536000 Remaining: 28001216
+
+END
+END
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198130308475 Name: алдуин csgofast.com Character: OXXXY Ping: 23
+PlayerID: 76561198366549870 Name: Expert1337 Character: Expert1337 Ping: 58
+PlayerID: 76561198423084997 Name: FACE Character: Элджей Ping: 113
+PlayerID: 76561198290478364 Name: Mr.Web56 Character: Webчик  Ping: 93
+PlayerID: 76561198314376473 Name: Злой Котик) Character: степан Ping: 117
+PlayerID: 76561198811334829 Name: yara.traf Character: yara.traf Ping: 74
+
+PlayerID: 76561198393477159 Name: Enderapple Character: Вячеслав_Эндров Ping: 39
+PlayerID: 76561198302408230 Name: Esour Character: Даник Приймич Ping: 78
+
+Client has executed command "GET NOW"
+ServerControl >> VALUE NOW [0] [0] [2609]
+
+[Group] Expert1337 [Expert1337]: "пельмешка"
+
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 19454785
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 22335063
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 22335079
+PlayerID: 76561198441524917
+JudgeID: 76561198237123262
+Reason: 100000 Duration: 31536000 Remaining: 27426245
+PlayerID: 76561198446923945
+JudgeID: 76561198237123262
+Reason: 60000 Duration: 31536000 Remaining: 28001209
+
+END
+[Group] Expert1337 [Expert1337]: "сюда"
+
+END
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2616]
+
+Connecting: PlayerID: 76561198403129269 Name: egop17036 Character: egop17036
+
+egop17036 connected with IP 95.158.237.251
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2619]
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2627]
+
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198130308475 Name: алдуин csgofast.com Character: OXXXY Ping: 31
+PlayerID: 76561198366549870 Name: Expert1337 Character: Expert1337 Ping: 62
+PlayerID: 76561198423084997 Name: FACE Character: Элджей Ping: 128
+PlayerID: 76561198290478364 Name: Mr.Web56 Character: Webчик  Ping: 97
+PlayerID: 76561198314376473 Name: Злой Котик) Character: степан Ping: 117
+PlayerID: 76561198811334829 Name: yara.traf Character: yara.traf Ping: 82
+PlayerID: 76561198393477159 Name: Enderapple Character: Вячеслав_Эндров Ping: 50
+PlayerID: 76561198302408230 Name: Esour Character: Даник Приймич Ping: 113
+PlayerID: 76561198403129269 Name: egop17036 Character: egop17036 Ping: 3
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2629]
+
+END
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 19454766
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 22335044
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 22335060
+PlayerID: 76561198441524917
+JudgeID: 76561198237123262
+Reason: 100000 Duration: 31536000 Remaining: 27426226
+PlayerID: 76561198446923945
+JudgeID: 76561198237123262
+Reason: 60000 Duration: 31536000 Remaining: 28001190
+
+END
+Broadcast: vk.com/unturned_hgm - цены на премиум, VIP и другие услуги смотрите в группе!
+
+Не обработано: Broadcast: vk.com/unturned_hgm - цены на премиум, VIP и другие услуги смотрите в группе!
+MessageAnnouncer >> vk.com/unturned_hgm - цены на премиум, VIP и другие услуги смотрите в группе!
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2637]
+
+[Group] Expert1337 [Expert1337]: "пиши скок платить будем тебе максимальное 50ЕР"
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2640]
+
+Disconnecting: PlayerID: 76561198423084997 Name: FACE Character: Элджей
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2647]
+
+[World] egop17036 [egop17036]: "/home"
+
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198130308475 Name: алдуин csgofast.com Character: OXXXY Ping: 23
+PlayerID: 76561198366549870 Name: Expert1337 Character: Expert1337 Ping: 58
+PlayerID: 76561198290478364 Name: Mr.Web56 Character: Webчик  Ping: 82
+PlayerID: 76561198314376473 Name: Злой Котик) Character: степан Ping: 121
+PlayerID: 76561198811334829 Name: yara.traf Character: yara.traf Ping: 74
+PlayerID: 76561198393477159 Name: Enderapple Character: Вячеслав_Эндров Ping: 35
+PlayerID: 76561198302408230 Name: Esour Character: Даник Приймич Ping: 89
+PlayerID: 76561198403129269 Name: egop17036 Character: egop17036 Ping: 140
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2650]
+
+egop17036 moved x:-704.0322 y:73.46648(+47.50704) z:-721.8534 in the last second (0.05000305)
+
+Не обработано: egop17036 moved x:-704.0322 y:73.46648(+47.50704) z:-721.8534 in the last second (0.05000305)
+END
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 19454745
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 22335023
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 22335039
+PlayerID: 76561198441524917
+JudgeID: 76561198237123262
+Reason: 100000 Duration: 31536000 Remaining: 27426205
+PlayerID: 76561198446923945
+JudgeID: 76561198237123262
+Reason: 60000 Duration: 31536000 Remaining: 28001169
+
+END
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2657]
+
+[Group] Expert1337 [Expert1337]: "веб ща переведу"
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2661]
+
+[Group] Expert1337 [Expert1337]: "/pay web 300"
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2667]
+
+[Group] Expert1337 [Expert1337]: "это за неделю"
+
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198130308475 Name: алдуин csgofast.com Character: OXXXY Ping: 27
+PlayerID: 76561198366549870 Name: Expert1337 Character: Expert1337 Ping: 54
+PlayerID: 76561198290478364 Name: Mr.Web56 Character: Webчик  Ping: 85
+PlayerID: 76561198314376473 Name: Злой Котик) Character: степан Ping: 125
+PlayerID: 76561198811334829 Name: yara.traf Character: yara.traf Ping: 74
+PlayerID: 76561198393477159 Name: Enderapple Character: Вячеслав_Эндров Ping: 42
+PlayerID: 76561198302408230 Name: Esour Character: Даник Приймич Ping: 101
+PlayerID: 76561198403129269 Name: egop17036 Character: egop17036 Ping: 58
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2671]
+
+END
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 19454724
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 22335002
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 22335018
+PlayerID: 76561198441524917
+JudgeID: 76561198237123262
+Reason: 100000 Duration: 31536000 Remaining: 27426184
+PlayerID: 76561198446923945
+JudgeID: 76561198237123262
+Reason: 60000 Duration: 31536000 Remaining: 28001148
+
+[Group] Webчик  [Mr.Web56]: "cgc"
+
+END
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2677]
+
+[Group] Webчик  [Mr.Web56]: "спс"
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2681]
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2687]
+
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198130308475 Name: алдуин csgofast.com Character: OXXXY Ping: 31
+PlayerID: 76561198366549870 Name: Expert1337 Character: Expert1337 Ping: 66
+PlayerID: 76561198290478364 Name: Mr.Web56 Character: Webчик  Ping: 74
+PlayerID: 76561198314376473 Name: Злой Котик) Character: степан Ping: 117
+PlayerID: 76561198811334829 Name: yara.traf Character: yara.traf Ping: 70
+PlayerID: 76561198393477159 Name: Enderapple Character: Вячеслав_Эндров Ping: 42
+PlayerID: 76561198302408230 Name: Esour Character: Даник Приймич Ping: 93
+PlayerID: 76561198403129269 Name: egop17036 Character: egop17036 Ping: 58
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2691]
+
+END
+Broadcast: Наберите /kit claim, чтобы получить Claim Flag
+
+Не обработано: Broadcast: Наберите /kit claim, чтобы получить Claim Flag
+MessageAnnouncer >> Наберите /kit claim, чтобы получить Claim Flag
+
+p "76561198130308475"
+Client has executed command "p "76561198130308475""
+
+OXXXYs p_groups: Normal, Guest
+OXXXYs p_perm: sell, servercontrol.a, a, server, p, rules, r, donat, site, vk, home(60), tpa.*, kit, kit.start, kit.map, kit.help, kit.claim, kit.hgm1, kits, report, balance, buy, cost, exchange, pm, reply, pay, checkowner
+
+Не обработано: OXXXYs p_perm: sell, servercontrol.a, a, server, p, rules, r, donat, site, vk, home(60), tpa.*, kit, kit.start, kit.map, kit.help, kit.claim, kit.hgm1, kits, report, balance, buy, cost, exchange, pm, reply, pay, checkowner
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 19454702
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 22334980
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 22334996
+PlayerID: 76561198441524917
+JudgeID: 76561198237123262
+Reason: 100000 Duration: 31536000 Remaining: 27426162
+PlayerID: 76561198446923945
+JudgeID: 76561198237123262
+Reason: 60000 Duration: 31536000 Remaining: 28001126
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2697]
+
+END
+p "76561198130308475"
+Client has executed command "p "76561198130308475""
+
+OXXXYs p_groups: Normal, Guest
+OXXXYs p_perm: sell, servercontrol.a, a, server, p, rules, r, donat, site, vk, home(60), tpa.*, kit, kit.start, kit.map, kit.help, kit.claim, kit.hgm1, kits, report, balance, buy, cost, exchange, pm, reply, pay, checkowner
+
+Не обработано: OXXXYs p_perm: sell, servercontrol.a, a, server, p, rules, r, donat, site, vk, home(60), tpa.*, kit, kit.start, kit.map, kit.help, kit.claim, kit.hgm1, kits, report, balance, buy, cost, exchange, pm, reply, pay, checkowner
+p "76561198366549870"
+Client has executed command "p "76561198366549870""
+
+Expert1337s p_groups: Normal, Guest, Moderators
+Expert1337s p_perm: tp(20), heal(60), tphere, god, i(30), v(100), day(3000), night(3000), give(30), vehicle(60), vanish, mute(120), unmute, sell, servercontrol.a, a, server, p, rules, r, donat, site, vk, home(60), tpa.*, kit, kit.start, kit.map, kit.help, kit.claim, kit.hgm1, kits, report, balance, buy, cost, exchange, pm, reply, pay, checkowner
+
+Не обработано: Expert1337s p_perm: tp(20), heal(60), tphere, god, i(30), v(100), day(3000), night(3000), give(30), vehicle(60), vanish, mute(120), unmute, sell, servercontrol.a, a, server, p, rules, r, donat, site, vk, home(60), tpa.*, kit, kit.start, kit.map, kit.help, kit.claim, kit.hgm1, kits, report, balance, buy, cost, exchange, pm, reply, pay, checkowner
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2702]
+
+p "76561198290478364"
+Client has executed command "p "76561198290478364""
+
+Webчик s p_groups: Normal, Guest, Moderators
+Webчик s p_perm: tp(20), heal(60), tphere, god, i(30), v(100), day(3000), night(3000), give(30), vehicle(60), vanish, mute(120), unmute, sell, servercontrol.a, a, server, p, rules, r, donat, site, vk, home(60), tpa.*, kit, kit.start, kit.map, kit.help, kit.claim, kit.hgm1, kits, report, balance, buy, cost, exchange, pm, reply, pay, checkowner
+
+Не обработано: Webчик s p_perm: tp(20), heal(60), tphere, god, i(30), v(100), day(3000), night(3000), give(30), vehicle(60), vanish, mute(120), unmute, sell, servercontrol.a, a, server, p, rules, r, donat, site, vk, home(60), tpa.*, kit, kit.start, kit.map, kit.help, kit.claim, kit.hgm1, kits, report, balance, buy, cost, exchange, pm, reply, pay, checkowner
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2707]
+
+p "76561198393477159"
+Client has executed command "p "76561198393477159""
+
+Вячеслав_Эндровs p_groups: Normal, Guest
+Вячеслав_Эндровs p_perm: sell, servercontrol.a, a, server, p, rules, r, donat, site, vk, home(60), tpa.*, kit, kit.start, kit.map, kit.help, kit.claim, kit.hgm1, kits, report, balance, buy, cost, exchange, pm, reply, pay, checkowner
+
+Не обработано: Вячеслав_Эндровs p_perm: sell, servercontrol.a, a, server, p, rules, r, donat, site, vk, home(60), tpa.*, kit, kit.start, kit.map, kit.help, kit.claim, kit.hgm1, kits, report, balance, buy, cost, exchange, pm, reply, pay, checkowner
+Client has executed command "cchat "" 0 0 0"
+
+p "76561198403129269"
+Client has executed command "p "76561198403129269""
+
+egop17036s p_groups: Normal, Guest
+egop17036s p_perm: sell, servercontrol.a, a, server, p, rules, r, donat, site, vk, home(60), tpa.*, kit, kit.start, kit.map, kit.help, kit.claim, kit.hgm1, kits, report, balance, buy, cost, exchange, pm, reply, pay, checkowner
+
+Не обработано: egop17036s p_perm: sell, servercontrol.a, a, server, p, rules, r, donat, site, vk, home(60), tpa.*, kit, kit.start, kit.map, kit.help, kit.claim, kit.hgm1, kits, report, balance, buy, cost, exchange, pm, reply, pay, checkowner
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198130308475 Name: алдуин csgofast.com Character: OXXXY Ping: 19
+PlayerID: 76561198366549870 Name: Expert1337 Character: Expert1337 Ping: 54
+PlayerID: 76561198290478364 Name: Mr.Web56 Character: Webчик  Ping: 93
+PlayerID: 76561198314376473 Name: Злой Котик) Character: степан Ping: 117
+PlayerID: 76561198811334829 Name: yara.traf Character: yara.traf Ping: 70
+PlayerID: 76561198393477159 Name: Enderapple Character: Вячеслав_Эндров Ping: 42
+PlayerID: 76561198302408230 Name: Esour Character: Даник Приймич Ping: 89
+PlayerID: 76561198403129269 Name: egop17036 Character: egop17036 Ping: 66
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2712]
+
+END
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 19454682
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 22334960
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 22334976
+PlayerID: 76561198441524917
+JudgeID: 76561198237123262
+Reason: 100000 Duration: 31536000 Remaining: 27426142
+PlayerID: 76561198446923945
+JudgeID: 76561198237123262
+Reason: 60000 Duration: 31536000 Remaining: 28001106
+
+END
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2717]
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2723]
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2727]
+
+[World] egop17036 [egop17036]: "/kit food"
+
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198130308475 Name: алдуин csgofast.com Character: OXXXY Ping: 19
+PlayerID: 76561198366549870 Name: Expert1337 Character: Expert1337 Ping: 54
+PlayerID: 76561198290478364 Name: Mr.Web56 Character: Webчик  Ping: 85
+PlayerID: 76561198314376473 Name: Злой Котик) Character: степан Ping: 117
+PlayerID: 76561198811334829 Name: yara.traf Character: yara.traf Ping: 70
+PlayerID: 76561198393477159 Name: Enderapple Character: Вячеслав_Эндров Ping: 31
+PlayerID: 76561198302408230 Name: Esour Character: Даник Приймич Ping: 78
+PlayerID: 76561198403129269 Name: egop17036 Character: egop17036 Ping: 62
+
+Client has executed command "GET NOW"
+ServerControl >> VALUE NOW [0] [0] [2734]
+
+[World] egop17036 [egop17036]: "/kit start"
+
+[World] OXXXY [алдуин csgofast.com]: "/home"
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2737]
+
+END
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 19454659
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 22334937
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 22334953
+PlayerID: 76561198441524917
+JudgeID: 76561198237123262
+Reason: 100000 Duration: 31536000 Remaining: 27426119
+PlayerID: 76561198446923945
+JudgeID: 76561198237123262
+Reason: 60000 Duration: 31536000 Remaining: 28001083
+
+END
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2744]
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2747]
+
+Broadcast: Если модератор ведёт себя неподобающе, пишите в группу или ЛС (vk.com/unturned_hgm, vk.com/hemulgm)
+
+Не обработано: Broadcast: Если модератор ведёт себя неподобающе, пишите в группу или ЛС (vk.com/unturned_hgm, vk.com/hemulgm)
+MessageAnnouncer >> Если модератор ведёт себя неподобающе, пишите в группу или ЛС (vk.com/unturned_hgm, vk.com/hemulgm)
+
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198130308475 Name: алдуин csgofast.com Character: OXXXY Ping: 19
+PlayerID: 76561198366549870 Name: Expert1337 Character: Expert1337 Ping: 62
+PlayerID: 76561198290478364 Name: Mr.Web56 Character: Webчик  Ping: 82
+PlayerID: 76561198314376473 Name: Злой Котик) Character: степан Ping: 113
+PlayerID: 76561198811334829 Name: yara.traf Character: yara.traf Ping: 66
+PlayerID: 76561198393477159 Name: Enderapple Character: Вячеслав_Эндров Ping: 35
+PlayerID: 76561198302408230 Name: Esour Character: Даник Приймич Ping: 101
+PlayerID: 76561198403129269 Name: egop17036 Character: egop17036 Ping: 54
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2754]
+
+END
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 19454641
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 22334919
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 22334935
+PlayerID: 76561198441524917
+JudgeID: 76561198237123262
+Reason: 100000 Duration: 31536000 Remaining: 27426101
+PlayerID: 76561198446923945
+JudgeID: 76561198237123262
+Reason: 60000 Duration: 31536000 Remaining: 28001065
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2757]
+
+END
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2765]
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2767]
+
+Disconnecting: PlayerID: 76561198393477159 Name: Enderapple Character: Вячеслав_Эндров
+
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198130308475 Name: алдуин csgofast.com Character: OXXXY Ping: 23
+PlayerID: 76561198366549870 Name: Expert1337 Character: Expert1337 Ping: 62
+PlayerID: 76561198290478364 Name: Mr.Web56 Character: Webчик  Ping: 93
+PlayerID: 76561198314376473 Name: Злой Котик) Character: степан Ping: 121
+PlayerID: 76561198811334829 Name: yara.traf Character: yara.traf Ping: 66
+PlayerID: 76561198302408230 Name: Esour Character: Даник Приймич Ping: 85
+PlayerID: 76561198403129269 Name: egop17036 Character: egop17036 Ping: 66
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2775]
+
+END
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2777]
+Client has executed command "bans"
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 19454620
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 22334898
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 22334914
+PlayerID: 76561198441524917
+JudgeID: 76561198237123262
+Reason: 100000 Duration: 31536000 Remaining: 27426080
+PlayerID: 76561198446923945
+JudgeID: 76561198237123262
+Reason: 60000 Duration: 31536000 Remaining: 28001044
+
+END
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2785]
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2787]
+
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198130308475 Name: алдуин csgofast.com Character: OXXXY Ping: 23
+PlayerID: 76561198366549870 Name: Expert1337 Character: Expert1337 Ping: 50
+PlayerID: 76561198290478364 Name: Mr.Web56 Character: Webчик  Ping: 66
+PlayerID: 76561198314376473 Name: Злой Котик) Character: степан Ping: 117
+PlayerID: 76561198811334829 Name: yara.traf Character: yara.traf Ping: 62
+PlayerID: 76561198302408230 Name: Esour Character: Даник Приймич Ping: 78
+PlayerID: 76561198403129269 Name: egop17036 Character: egop17036 Ping: 78
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2796]
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2797]
+
+END
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 19454599
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 22334877
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 22334893
+PlayerID: 76561198441524917
+JudgeID: 76561198237123262
+Reason: 100000 Duration: 31536000 Remaining: 27426059
+PlayerID: 76561198446923945
+JudgeID: 76561198237123262
+Reason: 60000 Duration: 31536000 Remaining: 28001023
+
+END
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2806]
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2807]
+
+[Group] Expert1337 [Expert1337]: "/day"
+
+Broadcast: Посетите наш сайт. Вы будете удивлены! unturned.hemulgm.ru
+
+Не обработано: Broadcast: Посетите наш сайт. Вы будете удивлены! unturned.hemulgm.ru
+MessageAnnouncer >> Посетите наш сайт. Вы будете удивлены! unturned.hemulgm.ru
+
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198130308475 Name: алдуин csgofast.com Character: OXXXY Ping: 35
+PlayerID: 76561198366549870 Name: Expert1337 Character: Expert1337 Ping: 66
+PlayerID: 76561198290478364 Name: Mr.Web56 Character: Webчик  Ping: 82
+PlayerID: 76561198314376473 Name: Злой Котик) Character: степан Ping: 117
+PlayerID: 76561198811334829 Name: yara.traf Character: yara.traf Ping: 62
+PlayerID: 76561198302408230 Name: Esour Character: Даник Приймич Ping: 70
+PlayerID: 76561198403129269 Name: egop17036 Character: egop17036 Ping: 78
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2817]
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2817]
+
+END
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 19454579
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 22334857
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 22334873
+PlayerID: 76561198441524917
+JudgeID: 76561198237123262
+Reason: 100000 Duration: 31536000 Remaining: 27426039
+PlayerID: 76561198446923945
+JudgeID: 76561198237123262
+Reason: 60000 Duration: 31536000 Remaining: 28001003
+
+END
+Connecting: PlayerID: 76561198393477159 Name: Enderapple Character: Вячеслав_Эндров
+
+Вячеслав_Эндров connected with IP 46.165.4.12
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2827]
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2827]
+
+Client has executed command "cchat "/33/09/17/04/17/15/16 /24/05/17/05/08 1 /24. 50 /13. " 255 255 0"
+
+Broadcast: Аирдроп через 1 ч. 50 м.
+
+Не обработано: Broadcast: Аирдроп через 1 ч. 50 м.
+Client has executed command "cchat "" 0 0 0"
+
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198130308475 Name: алдуин csgofast.com Character: OXXXY Ping: 23
+PlayerID: 76561198366549870 Name: Expert1337 Character: Expert1337 Ping: 50
+PlayerID: 76561198290478364 Name: Mr.Web56 Character: Webчик  Ping: 85
+PlayerID: 76561198314376473 Name: Злой Котик) Character: степан Ping: 125
+PlayerID: 76561198811334829 Name: yara.traf Character: yara.traf Ping: 62
+PlayerID: 76561198302408230 Name: Esour Character: Даник Приймич Ping: 78
+PlayerID: 76561198403129269 Name: egop17036 Character: egop17036 Ping: 50
+PlayerID: 76561198393477159 Name: Enderapple Character: Вячеслав_Эндров Ping: 39
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2837]
+
+Client has executed command "GET NOW"
+ServerControl >> VALUE NOW [0] [0] [2837]
+
+END
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 19454558
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 22334836
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 22334852
+PlayerID: 76561198441524917
+JudgeID: 76561198237123262
+Reason: 100000 Duration: 31536000 Remaining: 27426018
+PlayerID: 76561198446923945
+JudgeID: 76561198237123262
+Reason: 60000 Duration: 31536000 Remaining: 28000982
+
+END
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2847]
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2847]
+
+[Group] Expert1337 [Expert1337]: "/vehicle 96"
+
+Successfully gave Expert1337 96!
+
+GET NOW
+Client has executed command "players"
+Players:
+PlayerID: 76561198130308475 Name: алдуин csgofast.com Character: OXXXY Ping: 31
+PlayerID: 76561198366549870 Name: Expert1337 Character: Expert1337 Ping: 58
+PlayerID: 76561198290478364 Name: Mr.Web56 Character: Webчик  Ping: 74
+PlayerID: 76561198314376473 Name: Злой Котик) Character: степан Ping: 121
+PlayerID: 76561198811334829 Name: yara.traf Character: yara.traf Ping: 62
+PlayerID: 76561198302408230 Name: Esour Character: Даник Приймич Ping: 101
+PlayerID: 76561198403129269 Name: egop17036 Character: egop17036 Ping: 74
+PlayerID: 76561198393477159 Name: Enderapple Character: Вячеслав_Эндров Ping: 35
+Client has executed command "GET NOW"
+ServerControl >> VALUE NOW [0] [0] [2857]
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2858]
+
+END
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 19454538
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 22334816
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 22334832
+PlayerID: 76561198441524917
+JudgeID: 76561198237123262
+Reason: 100000 Duration: 31536000 Remaining: 27425998
+PlayerID: 76561198446923945
+JudgeID: 76561198237123262
+Reason: 60000 Duration: 31536000 Remaining: 28000962
+
+END
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2868]
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2868]
+
+[World] Webчик  [Mr.Web56]: "/day"
+
+Successfully set time to day!
+
+Broadcast: vk.com/hemulgm - ЕДИНСТВЕННЫЙ администратор сервера
+
+Не обработано: Broadcast: vk.com/hemulgm - ЕДИНСТВЕННЫЙ администратор сервера
+GET NOW
+MessageAnnouncer >> vk.com/hemulgm - ЕДИНСТВЕННЫЙ администратор сервера
+Client has executed command "GET NOW"
+ServerControl >> VALUE NOW [1] [0] [377]
+Client has executed command "players"
+Players:
+PlayerID: 76561198130308475 Name: алдуин csgofast.com Character: OXXXY Ping: 23
+PlayerID: 76561198366549870 Name: Expert1337 Character: Expert1337 Ping: 152
+PlayerID: 76561198290478364 Name: Mr.Web56 Character: Webчик  Ping: 62
+PlayerID: 76561198314376473 Name: Злой Котик) Character: степан Ping: 121
+PlayerID: 76561198811334829 Name: yara.traf Character: yara.traf Ping: 66
+PlayerID: 76561198302408230 Name: Esour Character: Даник Приймич Ping: 105
+PlayerID: 76561198403129269 Name: egop17036 Character: egop17036 Ping: 66
+PlayerID: 76561198393477159 Name: Enderapple Character: Вячеслав_Эндров Ping: 46
+Client has executed command "GET NOW"
+ServerControl >> VALUE NOW [1] [0] [377]
+
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 19454517
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 22334795
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 22334811
+PlayerID: 76561198441524917
+JudgeID: 76561198237123262
+Reason: 100000 Duration: 31536000 Remaining: 27425977
+PlayerID: 76561198446923945
+JudgeID: 76561198237123262
+Reason: 60000 Duration: 31536000 Remaining: 28000941
+
+END
+END
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [388]
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [388]
+
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198130308475 Name: алдуин csgofast.com Character: OXXXY Ping: 19
+PlayerID: 76561198366549870 Name: Expert1337 Character: Expert1337 Ping: 132
+PlayerID: 76561198290478364 Name: Mr.Web56 Character: Webчик  Ping: 70
+PlayerID: 76561198314376473 Name: Злой Котик) Character: степан Ping: 117
+PlayerID: 76561198811334829 Name: yara.traf Character: yara.traf Ping: 66
+PlayerID: 76561198302408230 Name: Esour Character: Даник Приймич Ping: 74
+PlayerID: 76561198403129269 Name: egop17036 Character: egop17036 Ping: 62
+PlayerID: 76561198393477159 Name: Enderapple Character: Вячеслав_Эндров Ping: 39
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [398]
+
+GET NOW
+Client has executed command "GET NOW"
+ServerControl >> VALUE NOW [1] [0] [398]
+
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 19454496
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 22334774
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 22334790
+PlayerID: 76561198441524917
+JudgeID: 76561198237123262
+Reason: 100000 Duration: 31536000 Remaining: 27425956
+PlayerID: 76561198446923945
+JudgeID: 76561198237123262
+Reason: 60000 Duration: 31536000 Remaining: 28000920
+
+END
+END
+[Group] Webчик  [Mr.Web56]: "пока"
+
+Disconnecting: PlayerID: 76561198290478364 Name: Mr.Web56 Character: Webчик 
+
+Client has executed command "GET NOW"
+
+GET NOW
+ServerControl >> VALUE NOW [1] [0] [408]
+
+Client has executed command "GET NOW"
+ServerControl >> VALUE NOW [1] [0] [408]
+
+Expert1337 moved x:-753.1935 y:61.19687(+36.86986) z:454.5471 in the last second (28.38242)
+
+Не обработано: Expert1337 moved x:-753.1935 y:61.19687(+36.86986) z:454.5471 in the last second (28.38242)
+Client has executed command "players"
+Players:
+PlayerID: 76561198130308475 Name: алдуин csgofast.com Character: OXXXY Ping: 27
+PlayerID: 76561198366549870 Name: Expert1337 Character: Expert1337 Ping: 50
+PlayerID: 76561198314376473 Name: Злой Котик) Character: степан Ping: 128
+PlayerID: 76561198811334829 Name: yara.traf Character: yara.traf Ping: 74
+PlayerID: 76561198302408230 Name: Esour Character: Даник Приймич Ping: 89
+PlayerID: 76561198403129269 Name: egop17036 Character: egop17036 Ping: 58
+PlayerID: 76561198393477159 Name: Enderapple Character: Вячеслав_Эндров Ping: 39
+Client has executed command "GET NOW"
+ServerControl >> VALUE NOW [1] [0] [418]
+
+GET NOW
+END
+Client has executed command "bans"
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 19454476
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 22334754
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 22334770
+PlayerID: 76561198441524917
+JudgeID: 76561198237123262
+Reason: 100000 Duration: 31536000 Remaining: 27425936
+PlayerID: 76561198446923945
+JudgeID: 76561198237123262
+Reason: 60000 Duration: 31536000 Remaining: 28000900
+
+END
+GET NOW
+Client has executed command "GET NOW"
+ServerControl >> VALUE NOW [1] [0] [423]
+Client has executed command "GET NOW"
+ServerControl >> VALUE NOW [1] [0] [429]
+Broadcast: Используйте /report [ник], чтобы отправить жалобу на игрока
+MessageAnnouncer >> Используйте /report [ник], чтобы отправить жалобу на игрока
+
+Не обработано: Broadcast: Используйте /report [ник], чтобы отправить жалобу на игрока
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [432]
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [439]
+
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198130308475 Name: алдуин csgofast.com Character: OXXXY Ping: 23
+PlayerID: 76561198366549870 Name: Expert1337 Character: Expert1337 Ping: 50
+PlayerID: 76561198314376473 Name: Злой Котик) Character: степан Ping: 121
+PlayerID: 76561198811334829 Name: yara.traf Character: yara.traf Ping: 58
+PlayerID: 76561198302408230 Name: Esour Character: Даник Приймич Ping: 97
+PlayerID: 76561198403129269 Name: egop17036 Character: egop17036 Ping: 58
+PlayerID: 76561198393477159 Name: Enderapple Character: Вячеслав_Эндров Ping: 54
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [439]
+
+END
+Client has executed command "bans"
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 19454455
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 22334733
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 22334749
+PlayerID: 76561198441524917
+JudgeID: 76561198237123262
+Reason: 100000 Duration: 31536000 Remaining: 27425915
+PlayerID: 76561198446923945
+JudgeID: 76561198237123262
+Reason: 60000 Duration: 31536000 Remaining: 28000879
+
+END
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [449]
+
+Client has executed command "cchat "" 0 0 0"
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [450]
+
+GET NOW
+Client has executed command "players"
+Players:
+PlayerID: 76561198130308475 Name: алдуин csgofast.com Character: OXXXY Ping: 19
+PlayerID: 76561198366549870 Name: Expert1337 Character: Expert1337 Ping: 58
+PlayerID: 76561198314376473 Name: Злой Котик) Character: степан Ping: 117
+PlayerID: 76561198811334829 Name: yara.traf Character: yara.traf Ping: 66
+PlayerID: 76561198302408230 Name: Esour Character: Даник Приймич Ping: 70
+PlayerID: 76561198403129269 Name: egop17036 Character: egop17036 Ping: 50
+PlayerID: 76561198393477159 Name: Enderapple Character: Вячеслав_Эндров Ping: 42
+Client has executed command "GET NOW"
+ServerControl >> VALUE NOW [1] [0] [460]
+
+Client has executed command "bans"
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 19454434
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 22334712
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 22334728
+PlayerID: 76561198441524917
+JudgeID: 76561198237123262
+Reason: 100000 Duration: 31536000 Remaining: 27425894
+PlayerID: 76561198446923945
+JudgeID: 76561198237123262
+Reason: 60000 Duration: 31536000 Remaining: 28000858
+
+END
+END
+Client has executed command "GET NOW"
+ServerControl >> VALUE NOW [1] [0] [468]
+Client has executed command "GET NOW"
+ServerControl >> VALUE NOW [1] [0] [470]
+[Group] Expert1337 [Expert1337]: "/tp milit"
+Expert1337 телепортирован к Summerside Military Base
+Client has executed command "players"
+Players:
+PlayerID: 76561198130308475 Name: алдуин csgofast.com Character: OXXXY Ping: 35
+PlayerID: 76561198366549870 Name: Expert1337 Character: Expert1337 Ping: 175
+PlayerID: 76561198314376473 Name: Злой Котик) Character: степан Ping: 113
+PlayerID: 76561198811334829 Name: yara.traf Character: yara.traf Ping: 58
+PlayerID: 76561198302408230 Name: Esour Character: Даник Приймич Ping: 82
+PlayerID: 76561198403129269 Name: egop17036 Character: egop17036 Ping: 70
+PlayerID: 76561198393477159 Name: Enderapple Character: Вячеслав_Эндров Ping: 35
+Client has executed command "GET NOW"
+ServerControl >> VALUE NOW [1] [0] [480]
+Client has executed command "bans"
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 19454414
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 22334692
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 22334708
+PlayerID: 76561198441524917
+JudgeID: 76561198237123262
+Reason: 100000 Duration: 31536000 Remaining: 27425874
+PlayerID: 76561198446923945
+JudgeID: 76561198237123262
+Reason: 60000 Duration: 31536000 Remaining: 28000838
+Client has executed command "GET NOW"
+ServerControl >> VALUE NOW [1] [0] [491]
+Broadcast: Наберите /rules (/r) для просмотра правил
+MessageAnnouncer >> Наберите /rules (/r) для просмотра правил
+Client has executed command "players"
+Players:
+PlayerID: 76561198130308475 Name: алдуин csgofast.com Character: OXXXY Ping: 31
+PlayerID: 76561198366549870 Name: Expert1337 Character: Expert1337 Ping: 66
+PlayerID: 76561198314376473 Name: Злой Котик) Character: степан Ping: 121
+PlayerID: 76561198811334829 Name: yara.traf Character: yara.traf Ping: 62
+PlayerID: 76561198302408230 Name: Esour Character: Даник Приймич Ping: 78
+PlayerID: 76561198403129269 Name: egop17036 Character: egop17036 Ping: 62
+PlayerID: 76561198393477159 Name: Enderapple Character: Вячеслав_Эндров Ping: 35
+Client has executed command "GET NOW"
+ServerControl >> VALUE NOW [1] [0] [501]
+Client has executed command "bans"
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 19454393
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 22334671
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 22334687
+PlayerID: 76561198441524917
+JudgeID: 76561198237123262
+Reason: 100000 Duration: 31536000 Remaining: 27425853
+PlayerID: 76561198446923945
+JudgeID: 76561198237123262
+Reason: 60000 Duration: 31536000 Remaining: 28000817
+
+Не обработано: Expert1337 телепортирован к Summerside Military Base
+END
+Не обработано: Broadcast: Наберите /rules (/r) для просмотра правил
+END
+END
+GET NOW
+Client has executed command "GET NOW"
+ServerControl >> VALUE NOW [1] [0] [510]
+Client has executed command "GET NOW"
+ServerControl >> VALUE NOW [1] [0] [511]
+
+END
+GET NOW
+Client has executed command "GET NOW"
+
+Client has executed command "players"
+ServerControl >> VALUE NOW [1] [0] [521]
+Players:
+PlayerID: 76561198130308475 Name: алдуин csgofast.com Character: OXXXY Ping: 19
+PlayerID: 76561198366549870 Name: Expert1337 Character: Expert1337 Ping: 74
+PlayerID: 76561198314376473 Name: Злой Котик) Character: степан Ping: 113
+PlayerID: 76561198811334829 Name: yara.traf Character: yara.traf Ping: 82
+PlayerID: 76561198302408230 Name: Esour Character: Даник Приймич Ping: 89
+PlayerID: 76561198403129269 Name: egop17036 Character: egop17036 Ping: 85
+PlayerID: 76561198393477159 Name: Enderapple Character: Вячеслав_Эндров Ping: 35
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [522]
+
+END
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 19454372
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 22334650
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 22334666
+PlayerID: 76561198441524917
+JudgeID: 76561198237123262
+Reason: 100000 Duration: 31536000 Remaining: 27425832
+PlayerID: 76561198446923945
+JudgeID: 76561198237123262
+Reason: 60000 Duration: 31536000 Remaining: 28000796
+
+END
+GET NOW
+Client has executed command "GET NOW"
+ServerControl >> VALUE NOW [1] [0] [532]
+
+Client has executed command "GET NOW"
+ServerControl >> VALUE NOW [1] [0] [532]
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [542]
+
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198130308475 Name: алдуин csgofast.com Character: OXXXY Ping: 35
+PlayerID: 76561198366549870 Name: Expert1337 Character: Expert1337 Ping: 46
+PlayerID: 76561198314376473 Name: Злой Котик) Character: степан Ping: 121
+PlayerID: 76561198811334829 Name: yara.traf Character: yara.traf Ping: 70
+PlayerID: 76561198302408230 Name: Esour Character: Даник Приймич Ping: 78
+PlayerID: 76561198403129269 Name: egop17036 Character: egop17036 Ping: 70
+PlayerID: 76561198393477159 Name: Enderapple Character: Вячеслав_Эндров Ping: 62
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [542]
+
+END
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 19454352
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 22334630
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 22334646
+PlayerID: 76561198441524917
+JudgeID: 76561198237123262
+Reason: 100000 Duration: 31536000 Remaining: 27425812
+PlayerID: 76561198446923945
+JudgeID: 76561198237123262
+Reason: 60000 Duration: 31536000 Remaining: 28000776
+
+END
+[Area] Expert1337 [Expert1337]: "ок"
+
+GET NOW
+Client has executed command "GET NOW"
+ServerControl >> VALUE NOW [1] [0] [552]
+Broadcast: Добро пожаловать на HGM. Тут рады вам больше, чем на любом другом сервере!
+
+Не обработано: Broadcast: Добро пожаловать на HGM. Тут рады вам больше, чем на любом другом сервере!
+MessageAnnouncer >> Добро пожаловать на HGM. Тут рады вам больше, чем на любом другом сервере!
+
+Client has executed command "GET NOW"
+ServerControl >> VALUE NOW [1] [0] [553]
+
+GET NOW
+Client has executed command "GET NOW"
+ServerControl >> VALUE NOW [1] [0] [562]
+
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198130308475 Name: алдуин csgofast.com Character: OXXXY Ping: 23
+PlayerID: 76561198366549870 Name: Expert1337 Character: Expert1337 Ping: 46
+PlayerID: 76561198314376473 Name: Злой Котик) Character: степан Ping: 113
+PlayerID: 76561198811334829 Name: yara.traf Character: yara.traf Ping: 62
+PlayerID: 76561198302408230 Name: Esour Character: Даник Приймич Ping: 78
+PlayerID: 76561198403129269 Name: egop17036 Character: egop17036 Ping: 54
+PlayerID: 76561198393477159 Name: Enderapple Character: Вячеслав_Эндров Ping: 46
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [563]
+
+Client has executed command "bans"
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 19454331
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 22334609
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 22334625
+PlayerID: 76561198441524917
+JudgeID: 76561198237123262
+Reason: 100000 Duration: 31536000 Remaining: 27425791
+PlayerID: 76561198446923945
+JudgeID: 76561198237123262
+Reason: 60000 Duration: 31536000 Remaining: 28000755
+
+END
+END
+Client has executed command "cchat "" 0 0 0"
+
+GET NOW
+Client has executed command "GET NOW"
+ServerControl >> VALUE NOW [1] [0] [573]
+
+Client has executed command "GET NOW"
+ServerControl >> VALUE NOW [1] [0] [576]
+
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198130308475 Name: алдуин csgofast.com Character: OXXXY Ping: 191
+PlayerID: 76561198366549870 Name: Expert1337 Character: Expert1337 Ping: 50
+PlayerID: 76561198314376473 Name: Злой Котик) Character: степан Ping: 121
+PlayerID: 76561198811334829 Name: yara.traf Character: yara.traf Ping: 85
+PlayerID: 76561198302408230 Name: Esour Character: Даник Приймич Ping: 89
+PlayerID: 76561198403129269 Name: egop17036 Character: egop17036 Ping: 66
+PlayerID: 76561198393477159 Name: Enderapple Character: Вячеслав_Эндров Ping: 50
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [584]
+
+END
+Client has executed command "bans"
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 19454310
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 22334588
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 22334604
+PlayerID: 76561198441524917
+JudgeID: 76561198237123262
+Reason: 100000 Duration: 31536000 Remaining: 27425770
+PlayerID: 76561198446923945
+JudgeID: 76561198237123262
+Reason: 60000 Duration: 31536000 Remaining: 28000734
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [586]
+
+END
+Client has executed command "GET NOW"
+ServerControl >> VALUE NOW [1] [0] [594]
+
+[Area] Expert1337 [Expert1337]: "/give 3501"
+
+Successfully gave Expert1337 3501 x1!
+
+GET NOW
+Client has executed command "GET NOW"
+ServerControl >> VALUE NOW [1] [0] [597]
+
+[Area] Expert1337 [Expert1337]: "нет"
+
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198130308475 Name: алдуин csgofast.com Character: OXXXY Ping: 19
+PlayerID: 76561198366549870 Name: Expert1337 Character: Expert1337 Ping: 50
+PlayerID: 76561198314376473 Name: Злой Котик) Character: степан Ping: 125
+PlayerID: 76561198811334829 Name: yara.traf Character: yara.traf Ping: 85
+PlayerID: 76561198302408230 Name: Esour Character: Даник Приймич Ping: 97
+PlayerID: 76561198403129269 Name: egop17036 Character: egop17036 Ping: 70
+PlayerID: 76561198393477159 Name: Enderapple Character: Вячеслав_Эндров Ping: 42
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [604]
+
+END
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 19454290
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 22334568
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 22334584
+PlayerID: 76561198441524917
+JudgeID: 76561198237123262
+Reason: 100000 Duration: 31536000 Remaining: 27425750
+PlayerID: 76561198446923945
+JudgeID: 76561198237123262
+Reason: 60000 Duration: 31536000 Remaining: 28000714
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [607]
+
+END
+Broadcast: Наберите /kit start, чтобы получить стартовый набор (еда, вода, топор)
+MessageAnnouncer >> Наберите /kit start, чтобы получить стартовый набор (еда, вода, топор)
+
+Не обработано: Broadcast: Наберите /kit start, чтобы получить стартовый набор (еда, вода, топор)
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [615]
+
+GET NOW
+Client has executed command "GET NOW"
+ServerControl >> VALUE NOW [1] [0] [618]
+
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198130308475 Name: алдуин csgofast.com Character: OXXXY Ping: 15
+PlayerID: 76561198366549870 Name: Expert1337 Character: Expert1337 Ping: 62
+PlayerID: 76561198314376473 Name: Злой Котик) Character: степан Ping: 121
+PlayerID: 76561198811334829 Name: yara.traf Character: yara.traf Ping: 66
+PlayerID: 76561198302408230 Name: Esour Character: Даник Приймич Ping: 74
+PlayerID: 76561198403129269 Name: egop17036 Character: egop17036 Ping: 54
+PlayerID: 76561198393477159 Name: Enderapple Character: Вячеслав_Эндров Ping: 46
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [625]
+
+END
+Client has executed command "bans"
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 19454269
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 22334547
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 22334563
+PlayerID: 76561198441524917
+JudgeID: 76561198237123262
+Reason: 100000 Duration: 31536000 Remaining: 27425729
+PlayerID: 76561198446923945
+JudgeID: 76561198237123262
+Reason: 60000 Duration: 31536000 Remaining: 28000693
+
+END
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [628]
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [635]
+
+GET NOW
+Client has executed command "GET NOW"
+ServerControl >> VALUE NOW [1] [0] [640]
+
+Client has executed command "players"
+Players:
+PlayerID: 76561198130308475 Name: алдуин csgofast.com Character: OXXXY Ping: 15
+PlayerID: 76561198366549870 Name: Expert1337 Character: Expert1337 Ping: 42
+PlayerID: 76561198314376473 Name: Злой Котик) Character: степан Ping: 121
+PlayerID: 76561198811334829 Name: yara.traf Character: yara.traf Ping: 66
+PlayerID: 76561198302408230 Name: Esour Character: Даник Приймич Ping: 85
+PlayerID: 76561198403129269 Name: egop17036 Character: egop17036 Ping: 54
+PlayerID: 76561198393477159 Name: Enderapple Character: Вячеслав_Эндров Ping: 39
+Client has executed command "GET NOW"
+ServerControl >> VALUE NOW [1] [0] [645]
+
+END
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 19454249
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 22334527
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 22334543
+PlayerID: 76561198441524917
+JudgeID: 76561198237123262
+Reason: 100000 Duration: 31536000 Remaining: 27425709
+PlayerID: 76561198446923945
+JudgeID: 76561198237123262
+Reason: 60000 Duration: 31536000 Remaining: 28000673
+
+END
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [650]
+
+Client has executed command "GET NOW"
+ServerControl >> VALUE NOW [1] [0] [656]
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [660]
+
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198130308475 Name: алдуин csgofast.com Character: OXXXY Ping: 19
+PlayerID: 76561198366549870 Name: Expert1337 Character: Expert1337 Ping: 50
+PlayerID: 76561198314376473 Name: Злой Котик) Character: степан Ping: 125
+PlayerID: 76561198811334829 Name: yara.traf Character: yara.traf Ping: 70
+PlayerID: 76561198302408230 Name: Esour Character: Даник Приймич Ping: 105
+PlayerID: 76561198403129269 Name: egop17036 Character: egop17036 Ping: 54
+PlayerID: 76561198393477159 Name: Enderapple Character: Вячеслав_Эндров Ping: 39
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [666]
+
+END
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 19454228
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 22334506
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 22334522
+PlayerID: 76561198441524917
+JudgeID: 76561198237123262
+Reason: 100000 Duration: 31536000 Remaining: 27425688
+PlayerID: 76561198446923945
+JudgeID: 76561198237123262
+Reason: 60000 Duration: 31536000 Remaining: 28000652
+
+END
+GET NOW
+Client has executed command "GET NOW"
+ServerControl >> VALUE NOW [1] [0] [670]
+
+Broadcast: Внимание! PvP-режим по субботам! PvP-режим!!!
+
+Не обработано: Broadcast: Внимание! PvP-режим по субботам! PvP-режим!!!
+MessageAnnouncer >> Внимание! PvP-режим по субботам! PvP-режим!!!
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [677]
+
+[Area] Expert1337 [Expert1337]: "дай мк тебе оборудую"
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [680]
+
+[Area] Expert1337 [Expert1337]: "нее"
+
+Client has executed command "players"
+Players:
+PlayerID: 76561198130308475 Name: алдуин csgofast.com Character: OXXXY Ping: 19
+PlayerID: 76561198366549870 Name: Expert1337 Character: Expert1337 Ping: 54
+PlayerID: 76561198314376473 Name: Злой Котик) Character: степан Ping: 128
+PlayerID: 76561198811334829 Name: yara.traf Character: yara.traf Ping: 78
+PlayerID: 76561198302408230 Name: Esour Character: Даник Приймич Ping: 85
+PlayerID: 76561198403129269 Name: egop17036 Character: egop17036 Ping: 78
+PlayerID: 76561198393477159 Name: Enderapple Character: Вячеслав_Эндров Ping: 35
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [687]
+
+Client has executed command "cchat "" 0 0 0"
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [690]
+
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 19454204
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 22334482
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 22334498
+PlayerID: 76561198441524917
+JudgeID: 76561198237123262
+Reason: 100000 Duration: 31536000 Remaining: 27425664
+PlayerID: 76561198446923945
+JudgeID: 76561198237123262
+Reason: 60000 Duration: 31536000 Remaining: 28000628
+
+END
+END
+[Area] Expert1337 [Expert1337]: "дай винтовку твою"
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [697]
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [700]
+
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198130308475 Name: алдуин csgofast.com Character: OXXXY Ping: 27
+PlayerID: 76561198366549870 Name: Expert1337 Character: Expert1337 Ping: 42
+PlayerID: 76561198314376473 Name: Злой Котик) Character: степан Ping: 125
+PlayerID: 76561198811334829 Name: yara.traf Character: yara.traf Ping: 66
+PlayerID: 76561198302408230 Name: Esour Character: Даник Приймич Ping: 97
+PlayerID: 76561198403129269 Name: egop17036 Character: egop17036 Ping: 66
+PlayerID: 76561198393477159 Name: Enderapple Character: Вячеслав_Эндров Ping: 42
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [707]
+
+END
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 19454187
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 22334465
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 22334481
+PlayerID: 76561198441524917
+JudgeID: 76561198237123262
+Reason: 100000 Duration: 31536000 Remaining: 27425647
+PlayerID: 76561198446923945
+JudgeID: 76561198237123262
+Reason: 60000 Duration: 31536000 Remaining: 28000611
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [710]
+
+END
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [718]
+
+[Area] Expert1337 [Expert1337]: "/i 147"
+
+Дал Expert1337 вещь 147:1
+
+Не обработано: Дал Expert1337 вещь 147:1
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [720]
+
+Client has executed command "players"
+Players:
+PlayerID: 76561198130308475 Name: алдуин csgofast.com Character: OXXXY Ping: 19
+PlayerID: 76561198366549870 Name: Expert1337 Character: Expert1337 Ping: 54
+PlayerID: 76561198314376473 Name: Злой Котик) Character: степан Ping: 121
+PlayerID: 76561198811334829 Name: yara.traf Character: yara.traf Ping: 62
+PlayerID: 76561198302408230 Name: Esour Character: Даник Приймич Ping: 74
+PlayerID: 76561198403129269 Name: egop17036 Character: egop17036 Ping: 62
+PlayerID: 76561198393477159 Name: Enderapple Character: Вячеслав_Эндров Ping: 42
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [728]
+
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 19454166
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 22334444
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 22334460
+PlayerID: 76561198441524917
+JudgeID: 76561198237123262
+Reason: 100000 Duration: 31536000 Remaining: 27425626
+PlayerID: 76561198446923945
+JudgeID: 76561198237123262
+Reason: 60000 Duration: 31536000 Remaining: 28000590
+
+END
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [730]
+
+[Area] Expert1337 [Expert1337]: "/give 1002"
+
+Successfully gave Expert1337 1002 x1!
+
+Broadcast: vk.com/unturned_hgm - группа сервера ВК, уникальный кит в записи!
+
+Не обработано: Broadcast: vk.com/unturned_hgm - группа сервера ВК, уникальный кит в записи!
+MessageAnnouncer >> vk.com/unturned_hgm - группа сервера ВК, уникальный кит в записи!
+
+END
+[Area] Expert1337 [Expert1337]: "/buy 17"
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [739]
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [740]
+
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198130308475 Name: алдуин csgofast.com Character: OXXXY Ping: 31
+PlayerID: 76561198366549870 Name: Expert1337 Character: Expert1337 Ping: 70
+PlayerID: 76561198314376473 Name: Злой Котик) Character: степан Ping: 117
+PlayerID: 76561198811334829 Name: yara.traf Character: yara.traf Ping: 78
+PlayerID: 76561198302408230 Name: Esour Character: Даник Приймич Ping: 93
+PlayerID: 76561198403129269 Name: egop17036 Character: egop17036 Ping: 66
+PlayerID: 76561198393477159 Name: Enderapple Character: Вячеслав_Эндров Ping: 39
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [749]
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [750]
+
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 19454144
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 22334422
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 22334438
+PlayerID: 76561198441524917
+JudgeID: 76561198237123262
+Reason: 100000 Duration: 31536000 Remaining: 27425604
+PlayerID: 76561198446923945
+JudgeID: 76561198237123262
+Reason: 60000 Duration: 31536000 Remaining: 28000568
+
+END
+END
+[Area] yara.traf [yara.traf]: "МОЖНО МНЕ В ВАШ КЛАН?"
+
+Client has executed command "GET NOW"
+ServerControl >> VALUE NOW [1] [0] [759]
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [760]
+
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198130308475 Name: алдуин csgofast.com Character: OXXXY Ping: 27
+PlayerID: 76561198366549870 Name: Expert1337 Character: Expert1337 Ping: 50
+PlayerID: 76561198314376473 Name: Злой Котик) Character: степан Ping: 121
+PlayerID: 76561198811334829 Name: yara.traf Character: yara.traf Ping: 78
+PlayerID: 76561198302408230 Name: Esour Character: Даник Приймич Ping: 93
+PlayerID: 76561198403129269 Name: egop17036 Character: egop17036 Ping: 54
+PlayerID: 76561198393477159 Name: Enderapple Character: Вячеслав_Эндров Ping: 42
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [769]
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [770]
+
+END
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 19454124
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 22334402
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 22334418
+PlayerID: 76561198441524917
+JudgeID: 76561198237123262
+Reason: 100000 Duration: 31536000 Remaining: 27425584
+PlayerID: 76561198446923945
+JudgeID: 76561198237123262
+
+Reason: 60000 Duration: 31536000 Remaining: 28000548
+
+END
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [780]
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [780]
+
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198130308475 Name: алдуин csgofast.com Character: OXXXY Ping: 23
+PlayerID: 76561198366549870 Name: Expert1337 Character: Expert1337 Ping: 50
+PlayerID: 76561198314376473 Name: Злой Котик) Character: степан Ping: 121
+PlayerID: 76561198811334829 Name: yara.traf Character: yara.traf Ping: 70
+PlayerID: 76561198302408230 Name: Esour Character: Даник Приймич Ping: 89
+PlayerID: 76561198403129269 Name: egop17036 Character: egop17036 Ping: 54
+PlayerID: 76561198393477159 Name: Enderapple Character: Вячеслав_Эндров Ping: 50
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [790]
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [790]
+
+END
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 19454104
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 22334382
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 22334398
+PlayerID: 76561198441524917
+JudgeID: 76561198237123262
+Reason: 100000 Duration: 31536000 Remaining: 27425564
+PlayerID: 76561198446923945
+JudgeID: 76561198237123262
+Reason: 60000 Duration: 31536000 Remaining: 28000528
+
+Broadcast: Посетите наш сайт. Вы будете удивлены! unturned.hemulgm.ru
+
+Не обработано: Broadcast: Посетите наш сайт. Вы будете удивлены! unturned.hemulgm.ru
+END
+GET NOW
+MessageAnnouncer >> Посетите наш сайт. Вы будете удивлены! unturned.hemulgm.ru
+
+Client has executed command "GET NOW"
+ServerControl >> VALUE NOW [1] [0] [800]
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [800]
+
+Client has executed command "cchat "" 0 0 0"
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [810]
+
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198130308475 Name: алдуин csgofast.com Character: OXXXY Ping: 23
+PlayerID: 76561198366549870 Name: Expert1337 Character: Expert1337 Ping: 46
+PlayerID: 76561198314376473 Name: Злой Котик) Character: степан Ping: 121
+PlayerID: 76561198811334829 Name: yara.traf Character: yara.traf Ping: 82
+PlayerID: 76561198302408230 Name: Esour Character: Даник Приймич Ping: 128
+PlayerID: 76561198403129269 Name: egop17036 Character: egop17036 Ping: 82
+PlayerID: 76561198393477159 Name: Enderapple Character: Вячеслав_Эндров Ping: 46
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [810]
+
+[Area] Expert1337 [Expert1337]: "/v 67"
+Expert1337 получил транспорт 67
+
+Не обработано: Expert1337 получил транспорт 67
+END
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 19454083
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 22334361
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 22334377
+PlayerID: 76561198441524917
+JudgeID: 76561198237123262
+Reason: 100000 Duration: 31536000 Remaining: 27425543
+PlayerID: 76561198446923945
+JudgeID: 76561198237123262
+Reason: 60000 Duration: 31536000 Remaining: 28000507
+
+END
+[Area] Expert1337 [Expert1337]: "/vanish"
+
+Expert1337 включена нивидимость
+
+Не обработано: Expert1337 включена нивидимость
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [820]
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [821]
+
+GET NOW
+[Area] yara.traf [yara.traf]: "МОЖНО В ВАШ КЛАН?"
+
+Client has executed command "GET NOW"
+ServerControl >> VALUE NOW [1] [0] [830]
+
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198130308475 Name: алдуин csgofast.com Character: OXXXY Ping: 27
+PlayerID: 76561198366549870 Name: Expert1337 Character: Expert1337 Ping: 85
+PlayerID: 76561198314376473 Name: Злой Котик) Character: степан Ping: 121
+PlayerID: 76561198811334829 Name: yara.traf Character: yara.traf Ping: 66
+PlayerID: 76561198302408230 Name: Esour Character: Даник Приймич Ping: 93
+PlayerID: 76561198403129269 Name: egop17036 Character: egop17036 Ping: 58
+PlayerID: 76561198393477159 Name: Enderapple Character: Вячеслав_Эндров Ping: 50
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [832]
+
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 19454063
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 22334341
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 22334357
+PlayerID: 76561198441524917
+JudgeID: 76561198237123262
+Reason: 100000 Duration: 31536000 Remaining: 27425523
+PlayerID: 76561198446923945
+JudgeID: 76561198237123262
+Reason: 60000 Duration: 31536000 Remaining: 28000487
+
+END
+END
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [840]
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [842]
+
+Connecting: PlayerID: 76561198814506959 Name: ????? Character: Александр Дичовски
+
+Александр Дичовски connected with IP 82.208.124.183
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [850]
+
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198130308475 Name: алдуин csgofast.com Character: OXXXY Ping: 23
+PlayerID: 76561198366549870 Name: Expert1337 Character: Expert1337 Ping: 58
+PlayerID: 76561198314376473 Name: Злой Котик) Character: степан Ping: 121
+PlayerID: 76561198811334829 Name: yara.traf Character: yara.traf Ping: 66
+PlayerID: 76561198302408230 Name: Esour Character: Даник Приймич Ping: 89
+PlayerID: 76561198403129269 Name: egop17036 Character: egop17036 Ping: 58
+PlayerID: 76561198393477159 Name: Enderapple Character: Вячеслав_Эндров Ping: 50
+PlayerID: 76561198814506959 Name: ????? Character: Александр Дичовски Ping: 199
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [852]
+
+Broadcast: Наберите /kit help, чтобы получить первую мед. помощь (бинты, таблетки, еда)
+
+Не обработано: Broadcast: Наберите /kit help, чтобы получить первую мед. помощь (бинты, таблетки, еда)
+MessageAnnouncer >> Наберите /kit help, чтобы получить первую мед. помощь (бинты, таблетки, еда)
+
+END
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 19454042
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 22334320
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 22334336
+PlayerID: 76561198441524917
+JudgeID: 76561198237123262
+Reason: 100000 Duration: 31536000 Remaining: 27425502
+PlayerID: 76561198446923945
+JudgeID: 76561198237123262
+Reason: 60000 Duration: 31536000 Remaining: 28000466
+
+END
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [860]
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [862]
+
+Disconnecting: PlayerID: 76561198814506959 Name: ????? Character: Александр Дичовски
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [870]
+
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198130308475 Name: алдуин csgofast.com Character: OXXXY Ping: 27
+PlayerID: 76561198366549870 Name: Expert1337 Character: Expert1337 Ping: 62
+PlayerID: 76561198314376473 Name: Злой Котик) Character: степан Ping: 121
+PlayerID: 76561198811334829 Name: yara.traf Character: yara.traf Ping: 66
+PlayerID: 76561198302408230 Name: Esour Character: Даник Приймич Ping: 85
+PlayerID: 76561198403129269 Name: egop17036 Character: egop17036 Ping: 62
+PlayerID: 76561198393477159 Name: Enderapple Character: Вячеслав_Эндров Ping: 39
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [872]
+
+END
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 19454022
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 22334300
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 22334316
+PlayerID: 76561198441524917
+JudgeID: 76561198237123262
+Reason: 100000 Duration: 31536000 Remaining: 27425482
+PlayerID: 76561198446923945
+JudgeID: 76561198237123262
+Reason: 60000 Duration: 31536000 Remaining: 28000446
+
+END
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [880]
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [883]
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [890]
+
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198130308475 Name: алдуин csgofast.com Character: OXXXY Ping: 19
+PlayerID: 76561198366549870 Name: Expert1337 Character: Expert1337 Ping: 58
+PlayerID: 76561198314376473 Name: Злой Котик) Character: степан Ping: 117
+PlayerID: 76561198811334829 Name: yara.traf Character: yara.traf Ping: 62
+PlayerID: 76561198302408230 Name: Esour Character: Даник Приймич Ping: 70
+PlayerID: 76561198403129269 Name: egop17036 Character: egop17036 Ping: 85
+PlayerID: 76561198393477159 Name: Enderapple Character: Вячеслав_Эндров Ping: 42
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [893]
+
+END
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 19454001
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 22334279
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 22334295
+PlayerID: 76561198441524917
+JudgeID: 76561198237123262
+Reason: 100000 Duration: 31536000 Remaining: 27425461
+PlayerID: 76561198446923945
+JudgeID: 76561198237123262
+Reason: 60000 Duration: 31536000 Remaining: 28000425
+
+END
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [900]
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [904]
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [910]
+
+Broadcast: vk.com/unturned_hgm - цены на премиум, VIP и другие услуги смотрите в группе!
+
+Не обработано: Broadcast: vk.com/unturned_hgm - цены на премиум, VIP и другие услуги смотрите в группе!
+MessageAnnouncer >> vk.com/unturned_hgm - цены на премиум, VIP и другие услуги смотрите в группе!
+
+Client has executed command "players"
+Players:
+PlayerID: 76561198130308475 Name: алдуин csgofast.com Character: OXXXY Ping: 23
+PlayerID: 76561198366549870 Name: Expert1337 Character: Expert1337 Ping: 101
+PlayerID: 76561198314376473 Name: Злой Котик) Character: степан Ping: 121
+PlayerID: 76561198811334829 Name: yara.traf Character: yara.traf Ping: 70
+PlayerID: 76561198302408230 Name: Esour Character: Даник Приймич Ping: 101
+PlayerID: 76561198403129269 Name: egop17036 Character: egop17036 Ping: 82
+PlayerID: 76561198393477159 Name: Enderapple Character: Вячеслав_Эндров Ping: 62
+Client has executed command "GET NOW"
+ServerControl >> VALUE NOW [1] [0] [914]
+
+END
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 19453980
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 22334258
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 22334274
+PlayerID: 76561198441524917
+JudgeID: 76561198237123262
+Reason: 100000 Duration: 31536000 Remaining: 27425440
+PlayerID: 76561198446923945
+JudgeID: 76561198237123262
+Reason: 60000 Duration: 31536000 Remaining: 28000404
+
+END
+PlayerInfoLib >> No expired player info records found for this batch.
+
+Saving server
+
+Сохранение сервера
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [920]
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [924]
+
+Client has executed command "cchat "/33/09/17/04/17/15/16 /24/05/17/05/08 1 /24. 40 /13. " 255 255 0"
+
+Broadcast: Аирдроп через 1 ч. 40 м.
+
+Не обработано: Broadcast: Аирдроп через 1 ч. 40 м.
+Client has executed command "cchat "" 0 0 0"
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [930]
+
+Client has executed command "players"
+Players:
+PlayerID: 76561198130308475 Name: алдуин csgofast.com Character: OXXXY Ping: 27
+PlayerID: 76561198366549870 Name: Expert1337 Character: Expert1337 Ping: 50
+PlayerID: 76561198314376473 Name: Злой Котик) Character: степан Ping: 121
+PlayerID: 76561198811334829 Name: yara.traf Character: yara.traf Ping: 66
+PlayerID: 76561198302408230 Name: Esour Character: Даник Приймич Ping: 82
+PlayerID: 76561198403129269 Name: egop17036 Character: egop17036 Ping: 58
+PlayerID: 76561198393477159 Name: Enderapple Character: Вячеслав_Эндров Ping: 54
+Client has executed command "GET NOW"
+ServerControl >> VALUE NOW [1] [0] [934]
+
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 19453960
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 22334238
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 22334254
+PlayerID: 76561198441524917
+JudgeID: 76561198237123262
+Reason: 100000 Duration: 31536000 Remaining: 27425420
+PlayerID: 76561198446923945
+JudgeID: 76561198237123262
+Reason: 60000 Duration: 31536000 Remaining: 28000384
+
+END
+END
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [940]
+
+[Area] Expert1337 [Expert1337]: "/tp ен"
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [945]
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [950]
+
+[Area] Expert1337 [Expert1337]: "/tp эндор"
+
+Client has executed command "players"
+Players:
+PlayerID: 76561198130308475 Name: алдуин csgofast.com Character: OXXXY Ping: 19
+PlayerID: 76561198366549870 Name: Expert1337 Character: Expert1337 Ping: 66
+PlayerID: 76561198314376473 Name: Злой Котик) Character: степан Ping: 113
+PlayerID: 76561198811334829 Name: yara.traf Character: yara.traf Ping: 74
+PlayerID: 76561198302408230 Name: Esour Character: Даник Приймич Ping: 78
+PlayerID: 76561198403129269 Name: egop17036 Character: egop17036 Ping: 62
+PlayerID: 76561198393477159 Name: Enderapple Character: Вячеслав_Эндров Ping: 39
+
+Client has executed command "GET NOW"
+ServerControl >> VALUE NOW [1] [0] [956]
+
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 19453939
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 22334217
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 22334233
+PlayerID: 76561198441524917
+JudgeID: 76561198237123262
+Reason: 100000 Duration: 31536000 Remaining: 27425399
+PlayerID: 76561198446923945
+JudgeID: 76561198237123262
+Reason: 60000 Duration: 31536000 Remaining: 28000363
+
+END
+END
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [960]
+
+[Area] Expert1337 [Expert1337]: "/tp вячеслав"
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [966]
+
+[Area] Expert1337 [Expert1337]: "/tp вячеслав"
+
+Expert1337 телепортирован к Вячеслав_Эндров
+
+Не обработано: Expert1337 телепортирован к Вячеслав_Эндров
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [970]
+
+Broadcast: Наберите /kit claim, чтобы получить Claim Flag
+
+Не обработано: Broadcast: Наберите /kit claim, чтобы получить Claim Flag
+MessageAnnouncer >> Наберите /kit claim, чтобы получить Claim Flag
+
+Connecting: PlayerID: 76561198814506959 Name: ????? Character: Александр Дичовски
+
+Александр Дичовски connected with IP 82.208.124.183
+
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198130308475 Name: алдуин csgofast.com Character: OXXXY Ping: 23
+PlayerID: 76561198366549870 Name: Expert1337 Character: Expert1337 Ping: 54
+PlayerID: 76561198314376473 Name: Злой Котик) Character: степан Ping: 117
+PlayerID: 76561198811334829 Name: yara.traf Character: yara.traf Ping: 74
+PlayerID: 76561198302408230 Name: Esour Character: Даник Приймич Ping: 101
+PlayerID: 76561198403129269 Name: egop17036 Character: egop17036 Ping: 54
+PlayerID: 76561198393477159 Name: Enderapple Character: Вячеслав_Эндров Ping: 39
+PlayerID: 76561198814506959 Name: ????? Character: Александр Дичовски Ping: 167
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [976]
+
+Disconnecting: PlayerID: 76561198811334829 Name: yara.traf Character: yara.traf
+
+END
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 19453918
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 22334196
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 22334212
+PlayerID: 76561198441524917
+JudgeID: 76561198237123262
+Reason: 100000 Duration: 31536000 Remaining: 27425378
+PlayerID: 76561198446923945
+JudgeID: 76561198237123262
+Reason: 60000 Duration: 31536000 Remaining: 28000342
+
+END
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [980]
+

@@ -1,0 +1,22 @@
+05.10.2017 11:32:38: ClientSocketLookup
+05.10.2017 11:32:39: ClientSocketConnecting
+05.10.2017 11:32:39: Can't connect to MySQL server on '127.0.0.1' (10061)
+05.10.2017 11:32:40: ClientSocketError Не смог подключиться
+05.10.2017 11:32:40: Can't connect to MySQL server on '127.0.0.1' (10061)
+05.10.2017 11:32:45: Can't connect to MySQL server on '127.0.0.1' (10061)
+05.10.2017 11:32:45: Can't connect to MySQL server on '127.0.0.1' (10061)
+05.10.2017 11:32:45: ClientSocketLookup
+05.10.2017 11:32:45: ClientSocketConnecting
+05.10.2017 11:32:46: ClientSocketError Не смог подключиться
+05.10.2017 11:32:48: ClientSocketLookup
+05.10.2017 11:32:48: ClientSocketConnecting
+05.10.2017 11:32:49: ClientSocketError Не смог подключиться
+05.10.2017 11:33:10: ClientSocketLookup
+05.10.2017 11:33:10: ClientSocketConnecting
+05.10.2017 11:33:11: ClientSocketError Не смог подключиться
+05.10.2017 11:33:18: ClientSocketLookup
+05.10.2017 11:33:18: ClientSocketConnecting
+05.10.2017 11:33:19: ClientSocketError Не смог подключиться
+05.10.2017 11:33:23: Can't connect to MySQL server on '127.0.0.1' (10061)
+05.10.2017 11:33:23: Can't connect to MySQL server on '127.0.0.1' (10061)
+05.10.2017 11:33:25: Can't connect to MySQL server on '127.0.0.1' (10061)

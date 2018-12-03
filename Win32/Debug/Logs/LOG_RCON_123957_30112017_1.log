@@ -1,0 +1,305 @@
+RocketRcon v2.4.8.0
+
+login aVIPs22031994
+players
+Client has executed command "players"
+Players:
+PlayerID: 76561198421469222 Name: cvan71 Character: Андрей Ping: 54
+PlayerID: 76561198290478364 Name: Mr.Web56 Character: webчик Ping: 85
+PlayerID: 76561198366284525 Name: NikiRoC Character: Никита Калашников Ping: 62
+PlayerID: 76561198441524917 Name: qryt1444 Character: Данил Сергейович Ping: 85
+PlayerID: 76561198443646437 Name: ya.yasliggg Character: killer Ping: 164
+
+Client has executed command "GET NOW"
+ServerControl >> VALUE NOW [1] [0] [1215]
+
+Client has executed command "bans"
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27401602
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30281880
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30281896
+PlayerID: 76561198257502095
+JudgeID: 76561198237123262
+Reason: 3600 Duration: 31536000 Remaining: 31487136
+
+END
+Client has executed command "players"
+Players:
+PlayerID: 76561198421469222 Name: cvan71 Character: Андрей Ping: 46
+PlayerID: 76561198290478364 Name: Mr.Web56 Character: webчик Ping: 85
+PlayerID: 76561198366284525 Name: NikiRoC Character: Никита Калашников Ping: 62
+PlayerID: 76561198441524917 Name: qryt1444 Character: Данил Сергейович Ping: 54
+PlayerID: 76561198443646437 Name: ya.yasliggg Character: killer Ping: 101
+
+END
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27401598
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30281876
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30281892
+PlayerID: 76561198257502095
+JudgeID: 76561198237123262
+Reason: 3600 Duration: 31536000 Remaining: 31487132
+
+END
+END
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [1225]
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [1231]
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [1235]
+
+[World] Андрей [cvan71]: "чо ок"
+
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198421469222 Name: cvan71 Character: Андрей Ping: 31
+PlayerID: 76561198290478364 Name: Mr.Web56 Character: webчик Ping: 85
+PlayerID: 76561198366284525 Name: NikiRoC Character: Никита Калашников Ping: 54
+PlayerID: 76561198441524917 Name: qryt1444 Character: Данил Сергейович Ping: 46
+PlayerID: 76561198443646437 Name: ya.yasliggg Character: killer Ping: 117
+
+GET NOW
+MessageAnnouncer >> Broadcast: Посетите наш сайт. Вы будете удивлены! unturned.hemulgm.ru
+MessageAnnouncer >> Посетите наш сайт. Вы будете удивлены! unturned.hemulgm.ru
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [1242]
+
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27401576
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30281854
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30281870
+PlayerID: 76561198257502095
+JudgeID: 76561198237123262
+Reason: 3600 Duration: 31536000 Remaining: 31487110
+
+END
+END
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [1245]
+
+Client has executed command "cchat "/33/09/17/04/17/15/16 /24/05/17/05/08 2 /24. 20 /13. " 255 255 0"
+
+ServerControl >> Broadcast: Аирдроп через 2 ч. 20 м.
+
+Не обработано: ServerControl >> Broadcast: Аирдроп через 2 ч. 20 м.
+[World] webчик [Mr.Web56]: "я не тебе сказал   ок"
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [1252]
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [1255]
+
+[World] Андрей [cvan71]: "/kit help"
+
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198421469222 Name: cvan71 Character: Андрей Ping: 62
+PlayerID: 76561198290478364 Name: Mr.Web56 Character: webчик Ping: 93
+PlayerID: 76561198366284525 Name: NikiRoC Character: Никита Калашников Ping: 46
+PlayerID: 76561198441524917 Name: qryt1444 Character: Данил Сергейович Ping: 85
+PlayerID: 76561198443646437 Name: ya.yasliggg Character: killer Ping: 132
+
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27401558
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30281836
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30281852
+PlayerID: 76561198257502095
+JudgeID: 76561198237123262
+Reason: 3600 Duration: 31536000 Remaining: 31487092
+
+END
+GET NOW
+END
+Client has executed command "GET NOW"
+ServerControl >> VALUE NOW [1] [0] [1264]
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [1265]
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [1274]
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [1275]
+
+[World] Андрей [cvan71]: "/buy 66 3"
+
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198421469222 Name: cvan71 Character: Андрей Ping: 62
+PlayerID: 76561198290478364 Name: Mr.Web56 Character: webчик Ping: 78
+PlayerID: 76561198366284525 Name: NikiRoC Character: Никита Калашников Ping: 62
+PlayerID: 76561198441524917 Name: qryt1444 Character: Данил Сергейович Ping: 101
+PlayerID: 76561198443646437 Name: ya.yasliggg Character: killer Ping: 187
+
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27401538
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30281816
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30281832
+PlayerID: 76561198257502095
+JudgeID: 76561198237123262
+Reason: 3600 Duration: 31536000 Remaining: 31487072
+
+END
+END
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [1284]
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [1285]
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [1294]
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [1295]
+
+[World] webчик [Mr.Web56]: "/home"
+
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198421469222 Name: cvan71 Character: Андрей Ping: 78
+PlayerID: 76561198290478364 Name: Mr.Web56 Character: webчик Ping: 132
+PlayerID: 76561198366284525 Name: NikiRoC Character: Никита Калашников Ping: 265
+PlayerID: 76561198441524917 Name: qryt1444 Character: Данил Сергейович Ping: 242
+PlayerID: 76561198443646437 Name: ya.yasliggg Character: killer Ping: 125
+
+MessageAnnouncer >> Broadcast: vk.com/hemulgm - ЕДИНСТВЕННЫЙ администратор сервера
+
+MessageAnnouncer >> vk.com/hemulgm - ЕДИНСТВЕННЫЙ администратор сервера
+
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27401517
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30281795
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30281811
+PlayerID: 76561198257502095
+JudgeID: 76561198237123262
+Reason: 3600 Duration: 31536000 Remaining: 31487051
+
+END
+END
+GET NOW
+Disconnecting: PlayerID: 76561198290478364 Name: Mr.Web56 Character: webчик
+
+Client has executed command "GET NOW"
+ServerControl >> VALUE NOW [1] [0] [1304]
+
+Client has executed command "GET NOW"
+ServerControl >> VALUE NOW [1] [0] [1305]
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [1314]
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [1315]
+
+Client has executed command "players"
+Players:
+PlayerID: 76561198421469222 Name: cvan71 Character: Андрей Ping: 93
+PlayerID: 76561198366284525 Name: NikiRoC Character: Никита Калашников Ping: 70
+PlayerID: 76561198441524917 Name: qryt1444 Character: Данил Сергейович Ping: 93
+PlayerID: 76561198443646437 Name: ya.yasliggg Character: killer Ping: 148
+
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27401498
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30281776
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30281792
+PlayerID: 76561198257502095
+JudgeID: 76561198237123262
+Reason: 3600 Duration: 31536000 Remaining: 31487032
+
+END
+END
+GET NOW
+Client has executed command "GET NOW"
+ServerControl >> VALUE NOW [1] [0] [1325]
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [1326]
+

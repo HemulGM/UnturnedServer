@@ -1,0 +1,933 @@
+RocketRcon v2.4.8.0
+
+login aVIPs22031994
+players
+Client has executed command "players"
+Players:
+PlayerID: 76561198818151252 Name: vladimirtkacenko06 Character: Вова Ping: 132
+Client has executed command "bans"
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 19463208
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 22343486
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 22343502
+PlayerID: 76561198441524917
+JudgeID: 76561198237123262
+Reason: 100000 Duration: 31536000 Remaining: 27434668
+PlayerID: 76561198446923945
+JudgeID: 76561198237123262
+Reason: 60000 Duration: 31536000 Remaining: 28009632
+
+END
+END
+Client has executed command "GET NOW"
+ServerControl >> VALUE NOW [0] [0] [2484]
+Client has executed command "players"
+Players:
+PlayerID: 76561198818151252 Name: vladimirtkacenko06 Character: Вова Ping: 128
+Client has executed command "GET NOW"
+ServerControl >> VALUE NOW [0] [0] [2494]
+Client has executed command "bans"
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 19463189
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 22343467
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 22343483
+PlayerID: 76561198441524917
+JudgeID: 76561198237123262
+Reason: 100000 Duration: 31536000 Remaining: 27434649
+PlayerID: 76561198446923945
+JudgeID: 76561198237123262
+Reason: 60000 Duration: 31536000 Remaining: 28009613
+Client has executed command "GET NOW"
+ServerControl >> VALUE NOW [0] [0] [2504]
+Client has executed command "players"
+Players:
+PlayerID: 76561198818151252 Name: vladimirtkacenko06 Character: Вова Ping: 132
+Client has executed command "GET NOW"
+ServerControl >> VALUE NOW [0] [0] [2514]
+Client has executed command "bans"
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 19463169
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 22343447
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 22343463
+PlayerID: 76561198441524917
+JudgeID: 76561198237123262
+Reason: 100000 Duration: 31536000 Remaining: 27434629
+PlayerID: 76561198446923945
+JudgeID: 76561198237123262
+Reason: 60000 Duration: 31536000 Remaining: 28009593
+Broadcast: Посетите наш сайт. Вы будете удивлены! unturned.hemulgm.ru
+MessageAnnouncer >> Посетите наш сайт. Вы будете удивлены! unturned.hemulgm.ru
+Client has executed command "GET NOW"
+ServerControl >> VALUE NOW [0] [0] [2525]
+
+END
+END
+END
+Не обработано: Broadcast: Посетите наш сайт. Вы будете удивлены! unturned.hemulgm.ru
+GET NOW
+Client has executed command "GET NOW"
+ServerControl >> VALUE NOW [0] [0] [2526]
+
+END
+players
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198818151252 Name: vladimirtkacenko06 Character: Вова Ping: 132
+
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 19463154
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 22343432
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 22343448
+PlayerID: 76561198441524917
+JudgeID: 76561198237123262
+Reason: 100000 Duration: 31536000 Remaining: 27434614
+PlayerID: 76561198446923945
+JudgeID: 76561198237123262
+Reason: 60000 Duration: 31536000 Remaining: 28009578
+
+END
+END
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198818151252 Name: vladimirtkacenko06 Character: Вова Ping: 144
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2535]
+
+END
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2537]
+
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 19463147
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 22343425
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 22343441
+PlayerID: 76561198441524917
+JudgeID: 76561198237123262
+Reason: 100000 Duration: 31536000 Remaining: 27434607
+PlayerID: 76561198446923945
+JudgeID: 76561198237123262
+Reason: 60000 Duration: 31536000 Remaining: 28009571
+
+END
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2546]
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2547]
+
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198818151252 Name: vladimirtkacenko06 Character: Вова Ping: 144
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2556]
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2557]
+
+END
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 19463127
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 22343405
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 22343421
+PlayerID: 76561198441524917
+JudgeID: 76561198237123262
+Reason: 100000 Duration: 31536000 Remaining: 27434587
+PlayerID: 76561198446923945
+JudgeID: 76561198237123262
+Reason: 60000 Duration: 31536000 Remaining: 28009551
+
+END
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2566]
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2567]
+
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198818151252 Name: vladimirtkacenko06 Character: Вова Ping: 125
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2576]
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2577]
+
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 19463107
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 22343385
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 22343401
+PlayerID: 76561198441524917
+JudgeID: 76561198237123262
+Reason: 100000 Duration: 31536000 Remaining: 27434567
+PlayerID: 76561198446923945
+JudgeID: 76561198237123262
+Reason: 60000 Duration: 31536000 Remaining: 28009531
+
+END
+Broadcast: vk.com/hemulgm - ЕДИНСТВЕННЫЙ администратор сервера
+
+Не обработано: Broadcast: vk.com/hemulgm - ЕДИНСТВЕННЫЙ администратор сервера
+MessageAnnouncer >> vk.com/hemulgm - ЕДИНСТВЕННЫЙ администратор сервера
+
+END
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2587]
+Client has executed command "GET NOW"
+ServerControl >> VALUE NOW [0] [0] [2587]
+
+Client has executed command "cchat "" 0 0 0"
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2597]
+Client has executed command "players"
+Players:
+PlayerID: 76561198818151252 Name: vladimirtkacenko06 Character: Вова Ping: 144
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2597]
+
+END
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 19463086
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 22343364
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 22343380
+PlayerID: 76561198441524917
+JudgeID: 76561198237123262
+Reason: 100000 Duration: 31536000 Remaining: 27434546
+PlayerID: 76561198446923945
+JudgeID: 76561198237123262
+Reason: 60000 Duration: 31536000 Remaining: 28009510
+
+EventProcMassAirdrop
+airdrop
+airdrop
+airdrop
+airdrop
+airdrop
+airdrop
+airdrop
+airdrop
+airdrop
+airdrop
+Client has executed command "airdrop"
+Successfully set airdrop!
+
+Client has executed command "airdrop"
+
+Successfully set airdrop!
+
+Client has executed command "airdrop"
+
+Successfully set airdrop!
+
+Client has executed command "airdrop"
+
+Successfully set airdrop!
+
+Client has executed command "airdrop"
+
+Successfully set airdrop!
+
+Client has executed command "airdrop"
+
+Successfully set airdrop!
+
+Client has executed command "airdrop"
+
+Successfully set airdrop!
+
+Client has executed command "airdrop"
+
+Successfully set airdrop!
+
+Client has executed command "airdrop"
+
+Successfully set airdrop!
+
+Client has executed command "airdrop"
+
+Successfully set airdrop!
+
+END
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2607]
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2607]
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2617]
+
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198818151252 Name: vladimirtkacenko06 Character: Вова Ping: 132
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2618]
+
+Broadcast: [ZOMBIE] Вова был съеден зомби! 
+
+Не обработано: Broadcast: [ZOMBIE] Вова был съеден зомби! 
+Вова [vladimirtkacenko06] was mauled by a zombie!
+
+Не обработано: Вова [vladimirtkacenko06] was mauled by a zombie!
+END
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 19463064
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 22343342
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 22343358
+PlayerID: 76561198441524917
+JudgeID: 76561198237123262
+Reason: 100000 Duration: 31536000 Remaining: 27434524
+PlayerID: 76561198446923945
+JudgeID: 76561198237123262
+Reason: 60000 Duration: 31536000 Remaining: 28009488
+
+END
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2627]
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2628]
+
+Kicking for inactivity: PlayerID: 76561198818151252 Name: vladimirtkacenko06 Character: Вова
+
+Не обработано: Kicking for inactivity: PlayerID: 76561198818151252 Name: vladimirtkacenko06 Character: Вова
+Disconnecting: PlayerID: 76561198818151252 Name: vladimirtkacenko06 Character: Вова
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2637]
+
+Client has executed command "players"
+
+Failed to find any players.
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2638]
+
+Broadcast: Используйте /report [ник], чтобы отправить жалобу на игрока
+
+Не обработано: Broadcast: Используйте /report [ник], чтобы отправить жалобу на игрока
+MessageAnnouncer >> Используйте /report [ник], чтобы отправить жалобу на игрока
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2647]
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2649]
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2657]
+
+cchat "76561198818151252" "/49/17/09/02/05/12/05/03/09/09 /02/11/12/31/24/05/14/28" 255 255 255
+p add 76561198818151252 vip
+Client has executed command "players"
+Failed to find any players.
+Client has executed command "cchat "76561198818151252" "/49/17/09/02/05/12/05/03/09/09 /02/11/12/31/24/05/14/28" 255 255 255"
+
+ServerControl >> /49/17/09/02/05/12/05/03/09/09 /02/11/12/31/24/05/14/28 255 255 255
+
+Не обработано: ServerControl >> /49/17/09/02/05/12/05/03/09/09 /02/11/12/31/24/05/14/28 255 255 255
+Client has executed command "GET NOW"
+ServerControl >> VALUE NOW [0] [0] [2659]
+
+Client has executed command "p add 76561198818151252 vip"
+NULL был добавлен к группе vip
+
+Не обработано: NULL был добавлен к группе vip
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2667]
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2669]
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2677]
+
+Client has executed command "players"
+
+Failed to find any players.
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2680]
+
+p remove 76561198818151252 vip
+cchat "76561198818151252" "/53 /19/05/01/32 /11/15/14/24/09/12/18/32 /04/15/14/00/19" 255 255 255
+Client has executed command "p remove 76561198818151252 vip"
+NULL был удалён из группы vip
+
+Не обработано: NULL был удалён из группы vip
+GET NOW
+Client has executed command "cchat "76561198818151252" "/53 /19/05/01/32 /11/15/14/24/09/12/18/32 /04/15/14/00/19" 255 255 255"
+
+ServerControl >> /53 /19/05/01/32 /11/15/14/24/09/12/18/32 /04/15/14/00/19 255 255 255
+
+Не обработано: ServerControl >> /53 /19/05/01/32 /11/15/14/24/09/12/18/32 /04/15/14/00/19 255 255 255
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2687]
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2690]
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2697]
+
+Broadcast: Наберите /rules (/r) для просмотра правил
+
+Не обработано: Broadcast: Наберите /rules (/r) для просмотра правил
+MessageAnnouncer >> Наберите /rules (/r) для просмотра правил
+
+Client has executed command "players"
+
+Failed to find any players.
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2700]
+
+p "76561198818151252"
+Client has executed command "p "76561198818151252""
+
+s p_groups: Normal, Guest
+s p_perm: sell, servercontrol.a, a, server, p, rules, r, donat, site, vk, home(60), tpa.*, kit, kit.start, kit.map, kit.help, kit.claim, kit.hgm1, kits, report, balance, buy, cost, exchange, pm, reply, pay, checkowner
+
+Не обработано: s p_perm: sell, servercontrol.a, a, server, p, rules, r, donat, site, vk, home(60), tpa.*, kit, kit.start, kit.map, kit.help, kit.claim, kit.hgm1, kits, report, balance, buy, cost, exchange, pm, reply, pay, checkowner
+p "76561198818151252"
+Client has executed command "p "76561198818151252""
+
+s p_groups: Normal, Guest
+s p_perm: sell, servercontrol.a, a, server, p, rules, r, donat, site, vk, home(60), tpa.*, kit, kit.start, kit.map, kit.help, kit.claim, kit.hgm1, kits, report, balance, buy, cost, exchange, pm, reply, pay, checkowner
+
+Не обработано: s p_perm: sell, servercontrol.a, a, server, p, rules, r, donat, site, vk, home(60), tpa.*, kit, kit.start, kit.map, kit.help, kit.claim, kit.hgm1, kits, report, balance, buy, cost, exchange, pm, reply, pay, checkowner
+cchat "76561198818151252" "/49/17/09/02/05/12/05/03/09/09 /02/11/12/31/24/05/14/28" 255 255 255
+p add 76561198818151252 vip
+Client has executed command "cchat "76561198818151252" "/49/17/09/02/05/12/05/03/09/09 /02/11/12/31/24/05/14/28" 255 255 255"
+
+ServerControl >> /49/17/09/02/05/12/05/03/09/09 /02/11/12/31/24/05/14/28 255 255 255
+
+Не обработано: ServerControl >> /49/17/09/02/05/12/05/03/09/09 /02/11/12/31/24/05/14/28 255 255 255
+Client has executed command "p add 76561198818151252 vip"
+
+NULL был добавлен к группе vip
+
+Не обработано: NULL был добавлен к группе vip
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2707]
+
+p "76561198818151252"
+Client has executed command "p "76561198818151252""
+
+s p_groups: Normal, Guest, VIP
+s p_perm: i(500), v(1000), give(500), vehicle(1000), sell, servercontrol.a, a, server, p, rules, r, donat, site, vk, home(60), tpa.*, kit, kit.start, kit.map, kit.help, kit.claim, kit.hgm1, kits, report, balance, buy, cost, exchange, pm, reply, pay, checkowner
+
+Не обработано: s p_perm: i(500), v(1000), give(500), vehicle(1000), sell, servercontrol.a, a, server, p, rules, r, donat, site, vk, home(60), tpa.*, kit, kit.start, kit.map, kit.help, kit.claim, kit.hgm1, kits, report, balance, buy, cost, exchange, pm, reply, pay, checkowner
+PlayerInfoLib >> No expired player info records found for this batch.
+
+Saving server
+
+Сохранение сервера
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2711]
+
+Client has executed command "cchat "/33/09/17/04/17/15/16 /24/05/17/05/08 10 /13. " 255 255 0"
+Broadcast: Аирдроп через 10 м.
+Client has executed command "cchat "" 0 0 0"
+
+Не обработано: Broadcast: Аирдроп через 10 м.
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2717]
+
+p remove 76561198818151252 vip
+cchat "76561198818151252" "/53 /19/05/01/32 /11/15/14/24/09/12/18/32 /04/15/14/00/19" 255 255 255
+Client has executed command "p remove 76561198818151252 vip"
+NULL был удалён из группы vip
+
+Не обработано: NULL был удалён из группы vip
+Client has executed command "cchat "76561198818151252" "/53 /19/05/01/32 /11/15/14/24/09/12/18/32 /04/15/14/00/19" 255 255 255"
+
+ServerControl >> /53 /19/05/01/32 /11/15/14/24/09/12/18/32 /04/15/14/00/19 255 255 255
+
+Не обработано: ServerControl >> /53 /19/05/01/32 /11/15/14/24/09/12/18/32 /04/15/14/00/19 255 255 255
+Client has executed command "players"
+
+Failed to find any players.
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2721]
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2727]
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2731]
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2737]
+
+Client has executed command "players"
+
+Failed to find any players.
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2742]
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2747]
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2752]
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2757]
+
+Broadcast: Добро пожаловать на HGM. Тут рады вам больше, чем на любом другом сервере!
+
+Не обработано: Broadcast: Добро пожаловать на HGM. Тут рады вам больше, чем на любом другом сервере!
+MessageAnnouncer >> Добро пожаловать на HGM. Тут рады вам больше, чем на любом другом сервере!
+
+Client has executed command "players"
+
+Failed to find any players.
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2763]
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2767]
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2773]
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2777]
+
+Client has executed command "players"
+
+Failed to find any players.
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2783]
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2787]
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2794]
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2797]
+
+Client has executed command "players"
+
+Failed to find any players.
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2804]
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2807]
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2814]
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2817]
+
+Broadcast: Наберите /kit start, чтобы получить стартовый набор (еда, вода, топор)
+
+Не обработано: Broadcast: Наберите /kit start, чтобы получить стартовый набор (еда, вода, топор)
+MessageAnnouncer >> Наберите /kit start, чтобы получить стартовый набор (еда, вода, топор)
+
+bans
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 19462865
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 22343143
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 22343159
+PlayerID: 76561198441524917
+JudgeID: 76561198237123262
+Reason: 100000 Duration: 31536000 Remaining: 27434325
+PlayerID: 76561198446923945
+JudgeID: 76561198237123262
+Reason: 60000 Duration: 31536000 Remaining: 28009289
+
+END
+Client has executed command "players"
+
+Failed to find any players.
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2825]
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2827]
+
+Client has executed command "cchat "" 0 0 0"
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2835]
+
+GET NOW
+Client has executed command "GET NOW"
+ServerControl >> VALUE NOW [0] [0] [2838]
+
+Client has executed command "players"
+
+Failed to find any players.
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2845]
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2848]
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2855]
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2858]
+
+Client has executed command "players"
+
+Failed to find any players.
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2866]
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2868]
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2876]
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2878]
+
+Broadcast: Внимание! PvP-режим по субботам! PvP-режим!!!
+
+Не обработано: Broadcast: Внимание! PvP-режим по субботам! PvP-режим!!!
+MessageAnnouncer >> Внимание! PvP-режим по субботам! PvP-режим!!!
+
+Client has executed command "players"
+
+Failed to find any players.
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2886]
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2888]
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2897]
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2898]
+
+Client has executed command "players"
+
+Failed to find any players.
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2907]
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2908]
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2917]
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2918]
+
+Client has executed command "players"
+
+Failed to find any players.
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2928]
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2928]
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2938]
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2938]
+
+Broadcast: vk.com/unturned_hgm - группа сервера ВК, уникальный кит в записи!
+
+Не обработано: Broadcast: vk.com/unturned_hgm - группа сервера ВК, уникальный кит в записи!
+MessageAnnouncer >> vk.com/unturned_hgm - группа сервера ВК, уникальный кит в записи!
+
+Client has executed command "players"
+
+Failed to find any players.
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2948]
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2948]
+
+Client has executed command "cchat "" 0 0 0"
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2958]
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2959]
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2968]
+
+Client has executed command "players"
+
+Failed to find any players.
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2969]
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2978]
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2979]
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2988]
+
+Client has executed command "players"
+
+Failed to find any players.
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2989]
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2998]
+
+Broadcast: Посетите наш сайт. Вы будете удивлены! unturned.hemulgm.ru
+
+Не обработано: Broadcast: Посетите наш сайт. Вы будете удивлены! unturned.hemulgm.ru
+MessageAnnouncer >> Посетите наш сайт. Вы будете удивлены! unturned.hemulgm.ru
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [3000]
+

@@ -1,0 +1,60 @@
+Ќе обработано: RocketRcon v2.4.8.0
+RocketRcon v2.4.8.0
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198165822970 Name: Indigo Character: Indigo Ping: 50
+PlayerID: 76561198114070067 Name: Super iGeroy Character: Samurai Ping: 46
+PlayerID: 76561198351213164 Name: _јхћеƒ_ Character: ¬инд€й ¬ечеслав Ping: 132
+PlayerID: 76561198381173735 Name: ingener_spring Character: ingener_spring Ping: 152
+PlayerID: 76561198254170004 Name: GrыGoRы4 Character: XoRoShka Ping: 66
+PlayerID: 76561198142773982 Name: promager Character: pirania98 Ping: 31
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 123123
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 31019929
+PlayerID: 123
+JudgeID: 0
+Reason: durila Duration: 4000 Remaining: 4294455723
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294484096
+
+END with Bans:
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198165822970 Name: Indigo Character: Indigo Ping: 31
+PlayerID: 76561198114070067 Name: Super iGeroy Character: Samurai Ping: 42
+PlayerID: 76561198351213164 Name: _јхћеƒ_ Character: ¬инд€й ¬ечеслав Ping: 105
+PlayerID: 76561198381173735 Name: ingener_spring Character: ingener_spring Ping: 156
+PlayerID: 76561198254170004 Name: GrыGoRы4 Character: XoRoShka Ping: 58
+PlayerID: 76561198142773982 Name: promager Character: pirania98 Ping: 23
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 123123
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 31019909
+PlayerID: 123
+JudgeID: 0
+Reason: durila Duration: 4000 Remaining: 4294455703
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294484076
+
+TimerTerminateCommand.Enabled with Bans:
+[World] Samurai [Super iGeroy]: "/kit help"
+
+END with Bans:

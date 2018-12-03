@@ -1,0 +1,24 @@
+06.10.2017 12:56:29: ClientSocketLookup
+06.10.2017 12:56:29: ClientSocketConnecting
+06.10.2017 12:56:29: ClientSocketConnect
+06.10.2017 12:56:29: ClientSocketWrite
+06.10.2017 12:56:29: ClientSocketError Соединение прервано
+06.10.2017 12:56:31: Can't connect to MySQL server on '127.0.0.1' (10061)
+06.10.2017 12:56:32: Can't connect to MySQL server on '127.0.0.1' (10061)
+06.10.2017 12:56:33: ClientSocketDisconnect
+06.10.2017 12:57:57: ClientSocketLookup
+06.10.2017 12:58:13: ClientSocketConnecting
+06.10.2017 12:58:14: ClientSocketConnect
+06.10.2017 12:58:14: ClientSocketWrite
+06.10.2017 12:58:14: ClientSocketError Соединение прервано
+06.10.2017 12:58:15: Can't connect to MySQL server on '127.0.0.1' (10061)
+06.10.2017 12:58:16: Can't connect to MySQL server on '127.0.0.1' (10061)
+06.10.2017 12:58:20: ClientSocketError eeSend
+06.10.2017 12:58:20: ClientSocketDisconnect
+06.10.2017 12:58:24: ClientSocketLookup
+06.10.2017 12:58:24: ClientSocketConnecting
+06.10.2017 12:58:24: ClientSocketConnect
+06.10.2017 12:58:24: ClientSocketWrite
+06.10.2017 12:58:24: ClientSocketError Соединение прервано
+06.10.2017 12:58:25: Can't connect to MySQL server on '127.0.0.1' (10061)
+06.10.2017 12:58:26: Can't connect to MySQL server on '127.0.0.1' (10061)

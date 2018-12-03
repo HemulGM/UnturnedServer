@@ -1,0 +1,34 @@
+RocketRcon v2.4.8.0
+
+login aVIPs22031994
+players
+Client has executed command "players"
+Players:
+PlayerID: 76561198205863883 Name: Крокодил Гена Character: krokodil gena Ping: 42
+PlayerID: 76561198317172157 Name: ?           ???  ??? Character: (Охотник)Добрый Рома Ping: 50
+
+Client has executed command "bans"
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 26977671
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 29857949
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 29857965
+PlayerID: 76561198408019916
+JudgeID: 76561198237123262
+Reason: raid Duration: 604800 Remaining: 210296
+PlayerID: 76561198366284525
+JudgeID: 76561198237123262
+Reason: REKLAMA Duration: 604800 Remaining: 388465
+
+END
+Client has executed command "GET NOW"
+ServerControl >> VALUE NOW [0] [1] [2914]
+
+END
+[World] krokodil gena [Крокодил Гена]: "/sell 1435"
+

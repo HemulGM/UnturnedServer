@@ -1,0 +1,170 @@
+Не обработано: RocketRcon v2.4.8.0
+RocketRcon v2.4.8.0
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198123840535 Name: ?????? Character: top Ping: 121
+PlayerID: 76561198280617288 Name: Незнаю какой придумать Character: Пипр Ping: 54
+PlayerID: 76561198152563082 Name: Drakon Character: [MODER]Stanat Ping: 160
+PlayerID: 76561198324398740 Name: Анимешный Бурячок Character: АнимешныйБурячок Ping: 136
+PlayerID: 76561198325444258 Name: FuzzyWizard221 Character: ThatDankStalker Ping: 203
+PlayerID: 76561198364985994 Name: gubben Character: gubben Ping: 117
+PlayerID: 76561198351213164 Name: _АхМеД_ Character: Виндяй Вечеслав Ping: 82
+
+TimerTerminateCommand.Enabled with Players:
+Disconnecting: PlayerID: 76561198324398740 Name: Анимешный Бурячок Character: АнимешныйБурячок
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 123123
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 31006120
+PlayerID: 123
+JudgeID: 0
+Reason: durila Duration: 4000 Remaining: 4294441914
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294470287
+
+END with Bans:
+Disconnecting: PlayerID: 76561198325444258 Name: FuzzyWizard221 Character: ThatDankStalker
+
+Не обработано: MessageAnnouncer >> Broadcast: Наберите /kit start, чтобы получить стартовый набор (еда, вода, топор)
+MessageAnnouncer >> Broadcast: Наберите /kit start, чтобы получить стартовый набор (еда, вода, топор)
+
+Не обработано: MessageAnnouncer >> Наберите /kit start, чтобы получить стартовый набор (еда, вода, топор)
+MessageAnnouncer >> Наберите /kit start, чтобы получить стартовый набор (еда, вода, топор)
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198123840535 Name: ?????? Character: top Ping: 121
+PlayerID: 76561198280617288 Name: Незнаю какой придумать Character: Пипр Ping: 46
+PlayerID: 76561198152563082 Name: Drakon Character: [MODER]Stanat Ping: 148
+PlayerID: 76561198364985994 Name: gubben Character: gubben Ping: 105
+PlayerID: 76561198351213164 Name: _АхМеД_ Character: Виндяй Вечеслав Ping: 117
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 123123
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 31006102
+PlayerID: 123
+JudgeID: 0
+Reason: durila Duration: 4000 Remaining: 4294441896
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294470269
+
+END with Bans:
+Connecting: PlayerID: 76561198368128006 Name: Aibek Character: Aibek [A.S.D]
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198123840535 Name: ?????? Character: top Ping: 113
+PlayerID: 76561198280617288 Name: Незнаю какой придумать Character: Пипр Ping: 50
+PlayerID: 76561198152563082 Name: Drakon Character: [MODER]Stanat Ping: 148
+PlayerID: 76561198364985994 Name: gubben Character: gubben Ping: 152
+PlayerID: 76561198351213164 Name: _АхМеД_ Character: Виндяй Вечеслав Ping: 113
+PlayerID: 76561198368128006 Name: Aibek Character: Aibek [A.S.D] Ping: 125
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 123123
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 31006082
+PlayerID: 123
+JudgeID: 0
+Reason: durila Duration: 4000 Remaining: 4294441876
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294470249
+
+END with Bans:
+[World] [MODER]Stanat [Drakon]: "/i 151"
+
+Не обработано: Дал [MODER]Stanat вещь 151:1
+Дал [MODER]Stanat вещь 151:1
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198123840535 Name: ?????? Character: top Ping: 121
+PlayerID: 76561198280617288 Name: Незнаю какой придумать Character: Пипр Ping: 183
+PlayerID: 76561198152563082 Name: Drakon Character: [MODER]Stanat Ping: 207
+PlayerID: 76561198364985994 Name: gubben Character: gubben Ping: 117
+PlayerID: 76561198351213164 Name: _АхМеД_ Character: Виндяй Вечеслав Ping: 109
+PlayerID: 76561198368128006 Name: Aibek Character: Aibek [A.S.D] Ping: 105
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 123123
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 31006062
+PlayerID: 123
+JudgeID: 0
+Reason: durila Duration: 4000 Remaining: 4294441856
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294470229
+
+TimerTerminateCommand.Enabled with Bans:
+Connecting: PlayerID: 76561198346656228 Name: #Sanion# Character: Citrus
+
+END with Bans:
+[World] [MODER]Stanat [Drakon]: "непикай"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198123840535 Name: ?????? Character: top Ping: 105
+PlayerID: 76561198280617288 Name: Незнаю какой придумать Character: Пипр Ping: 50
+PlayerID: 76561198152563082 Name: Drakon Character: [MODER]Stanat Ping: 148
+PlayerID: 76561198364985994 Name: gubben Character: gubben Ping: 121
+PlayerID: 76561198351213164 Name: _АхМеД_ Character: Виндяй Вечеслав Ping: 148
+PlayerID: 76561198368128006 Name: Aibek Character: Aibek [A.S.D] Ping: 101
+PlayerID: 76561198346656228 Name: #Sanion# Character: Citrus Ping: 128
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 123123
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 31006042
+
+TimerTerminateCommand.Enabled with Bans:
+PlayerID: 123
+JudgeID: 0
+Reason: durila Duration: 4000 Remaining: 4294441836
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294470209
+
+TimerTerminateCommand.Enabled with Bans:
+[World] [MODER]Stanat [Drakon]: "стой"
+
+TimerTerminateCommand.Enabled with Bans:
+[World] [MODER]Stanat [Drakon]: "стой"
+
+END with Bans:

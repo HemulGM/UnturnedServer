@@ -1,0 +1,181 @@
+17.11.2017 15:16:28: RocketRcon v2.4.8.0
+
+17.11.2017 15:16:29: Client has executed command "players"
+Players:
+PlayerID: 76561198263148425 Name: __EHoT Character: zohan Ping: 39
+PlayerID: 76561198234232440 Name: FuSian Character: Fusian Ping: 60
+PlayerID: 76561198285625894 Name: _Wenrag0rn Character: _Wenrag0rn Ping: 57
+PlayerID: 76561198170498361 Name: _Nick_Hunter_ Character: Nick_Hunter[RUS] Ping: 130
+
+17.11.2017 15:16:30: MessageAnnouncer >> Broadcast: Посетите наш сайт. Вы будете удивлены! unturned.hemulgm.ru
+MessageAnnouncer >> Посетите наш сайт. Вы будете удивлены! unturned.hemulgm.ru
+
+17.11.2017 15:16:32: Client has executed command "bans"
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 28515386
+PlayerID: 76561198395511982
+JudgeID: 0
+Reason: 999999 Duration: 31536000 Remaining: 30070138
+PlayerID: 76561198331180787
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30418356
+PlayerID: 76561198172502147
+JudgeID: 76561198237123262
+Reason: 3600 Duration: 31536000 Remaining: 30421750
+PlayerID: 76561198331252339
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30434083
+PlayerID: 76561198434258763
+JudgeID: 0
+Reason: reid Duration: 608400 Remaining: 200630
+
+17.11.2017 15:16:32: END
+17.11.2017 15:16:32: Client has executed command "bans"
+
+17.11.2017 15:16:32: Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 28515385
+PlayerID: 76561198395511982
+JudgeID: 0
+Reason: 999999 Duration: 31536000 Remaining: 30070137
+PlayerID: 76561198331180787
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30418355
+PlayerID: 76561198172502147
+JudgeID: 76561198237123262
+Reason: 3600 Duration: 31536000 Remaining: 30421749
+PlayerID: 76561198331252339
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30434082
+PlayerID: 76561198434258763
+JudgeID: 0
+Reason: reid Duration: 608400 Remaining: 200629
+
+17.11.2017 15:16:32: END
+17.11.2017 15:16:33: Connecting: PlayerID: 76561198327780865 Name: vetalpro Character: vetalpro
+
+17.11.2017 15:16:33: vetalpro connected with IP 46.172.67.250
+
+17.11.2017 15:16:34: END
+17.11.2017 15:16:38: Client has executed command "players"
+
+17.11.2017 15:16:38: Players:
+PlayerID: 76561198263148425 Name: __EHoT Character: zohan Ping: 34
+PlayerID: 76561198234232440 Name: FuSian Character: Fusian Ping: 70
+PlayerID: 76561198285625894 Name: _Wenrag0rn Character: _Wenrag0rn Ping: 62
+PlayerID: 76561198170498361 Name: _Nick_Hunter_ Character: Nick_Hunter[RUS] Ping: 129
+PlayerID: 76561198327780865 Name: vetalpro Character: vetalpro Ping: 145
+
+17.11.2017 15:16:39: Client has executed command "bans"
+
+17.11.2017 15:16:39: Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 28515378
+PlayerID: 76561198395511982
+JudgeID: 0
+Reason: 999999 Duration: 31536000 Remaining: 30070130
+PlayerID: 76561198331180787
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30418348
+PlayerID: 76561198172502147
+JudgeID: 76561198237123262
+Reason: 3600 Duration: 31536000 Remaining: 30421742
+PlayerID: 76561198331252339
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30434075
+PlayerID: 76561198434258763
+JudgeID: 0
+Reason: reid Duration: 608400 Remaining: 200622
+
+17.11.2017 15:16:39: END
+17.11.2017 15:16:39: Client has executed command "bans"
+
+17.11.2017 15:16:39: Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 28515378
+PlayerID: 76561198395511982
+JudgeID: 0
+Reason: 999999 Duration: 31536000 Remaining: 30070130
+PlayerID: 76561198331180787
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30418348
+PlayerID: 76561198172502147
+JudgeID: 76561198237123262
+Reason: 3600 Duration: 31536000 Remaining: 30421742
+PlayerID: 76561198331252339
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30434075
+PlayerID: 76561198434258763
+JudgeID: 0
+Reason: reid Duration: 608400 Remaining: 200622
+
+17.11.2017 15:16:39: END
+17.11.2017 15:16:41: END
+17.11.2017 15:16:43: [World] zohan [__EHoT]: "/home"
+
+17.11.2017 15:16:44: zohan moved x:-138.2724 y:65.74921(+37.33436) z:925.9868 in the last second (0.09999847)
+
+17.11.2017 15:16:44: Не обработано: zohan moved x:-138.2724 y:65.74921(+37.33436) z:925.9868 in the last second (0.09999847)
+17.11.2017 15:16:49: [World] vetalpro [vetalpro]: "/KITS"
+
+17.11.2017 15:16:58: Client has executed command "players"
+
+17.11.2017 15:16:58: Players:
+PlayerID: 76561198263148425 Name: __EHoT Character: zohan Ping: 29
+PlayerID: 76561198234232440 Name: FuSian Character: Fusian Ping: 63
+PlayerID: 76561198285625894 Name: _Wenrag0rn Character: _Wenrag0rn Ping: 77
+PlayerID: 76561198170498361 Name: _Nick_Hunter_ Character: Nick_Hunter[RUS] Ping: 133
+PlayerID: 76561198327780865 Name: vetalpro Character: vetalpro Ping: 159
+
+17.11.2017 15:16:59: Client has executed command "bans"
+
+17.11.2017 15:16:59: Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 28515358
+PlayerID: 76561198395511982
+JudgeID: 0
+Reason: 999999 Duration: 31536000 Remaining: 30070110
+PlayerID: 76561198331180787
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30418328
+PlayerID: 76561198172502147
+JudgeID: 76561198237123262
+Reason: 3600 Duration: 31536000 Remaining: 30421722
+PlayerID: 76561198331252339
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30434055
+PlayerID: 76561198434258763
+JudgeID: 0
+Reason: reid Duration: 608400 Remaining: 200602
+
+17.11.2017 15:16:59: END
+17.11.2017 15:16:59: Client has executed command "bans"
+
+17.11.2017 15:16:59: Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 28515358
+PlayerID: 76561198395511982
+JudgeID: 0
+Reason: 999999 Duration: 31536000 Remaining: 30070110
+PlayerID: 76561198331180787
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30418328
+PlayerID: 76561198172502147
+JudgeID: 76561198237123262
+Reason: 3600 Duration: 31536000 Remaining: 30421722
+PlayerID: 76561198331252339
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30434055
+PlayerID: 76561198434258763
+JudgeID: 0
+Reason: reid Duration: 608400 Remaining: 200602
+
+17.11.2017 15:16:59: END
+17.11.2017 15:17:01: END

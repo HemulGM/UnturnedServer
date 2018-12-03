@@ -1,0 +1,45 @@
+22.08.2017 10:18:14: ClientSocketLookup
+22.08.2017 10:18:35: ClientSocketConnecting
+22.08.2017 10:18:35: Can't connect to MySQL server on 'hemulgm.ru' (10060)
+22.08.2017 10:18:56: ClientSocketError Не смог подключиться
+22.08.2017 10:18:56: Can't connect to MySQL server on 'hemulgm.ru' (10060)
+22.08.2017 10:19:12: ClientSocketLookup
+22.08.2017 10:19:12: ClientSocketConnecting
+22.08.2017 10:19:33: ClientSocketError Не смог подключиться
+22.08.2017 10:28:33: ClientSocketLookup
+22.08.2017 10:28:33: ClientSocketConnecting
+22.08.2017 10:28:54: ClientSocketError Не смог подключиться
+22.08.2017 10:38:34: ClientSocketLookup
+22.08.2017 10:38:34: ClientSocketConnecting
+22.08.2017 10:38:55: ClientSocketError Не смог подключиться
+22.08.2017 12:50:44: ClientSocketLookup
+22.08.2017 12:50:44: ClientSocketConnecting
+22.08.2017 12:51:11: ClientSocketError Не смог подключиться
+22.08.2017 12:51:11: Can't connect to MySQL server on 'hemulgm.ru' (10060)
+23.08.2017 9:13:36: ClientSocketLookup
+23.08.2017 9:13:36: ClientSocketConnecting
+23.08.2017 9:13:36: ClientSocketConnect
+23.08.2017 9:13:36: ClientSocketWrite
+23.08.2017 11:55:52: Can't connect to MySQL server on 'unturned.hemulgm.ru' (10060)
+23.08.2017 11:56:33: Can't connect to MySQL server on 'unturned.hemulgm.ru' (10060)
+24.08.2017 5:06:47: ClientSocketError Соединение прервано
+24.08.2017 5:06:47: ClientSocketError eeSend
+24.08.2017 5:06:47: ClientSocketDisconnect
+24.08.2017 9:05:39: ClientSocketLookup
+24.08.2017 9:05:39: ClientSocketConnecting
+24.08.2017 9:05:39: ClientSocketConnect
+24.08.2017 9:05:39: ClientSocketWrite
+26.08.2017 10:25:12: ClientSocketError Соединение прервано
+26.08.2017 10:25:29: ClientSocketError eeSend
+26.08.2017 10:25:29: ClientSocketDisconnect
+26.08.2017 10:27:32: ClientSocketLookup
+26.08.2017 10:27:32: ClientSocketConnecting
+26.08.2017 10:27:32: ClientSocketConnect
+26.08.2017 10:27:32: ClientSocketWrite
+27.08.2017 9:15:43: ClientSocketError Соединение прервано
+27.08.2017 9:15:57: ClientSocketError eeSend
+27.08.2017 9:15:57: ClientSocketDisconnect
+27.08.2017 9:16:37: ClientSocketLookup
+27.08.2017 9:16:37: ClientSocketConnecting
+27.08.2017 9:16:37: ClientSocketConnect
+27.08.2017 9:16:37: ClientSocketWrite

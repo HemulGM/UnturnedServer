@@ -1,0 +1,75 @@
+RocketRcon v2.4.8.0
+
+login aVIPs22031994
+players
+Client has executed command "players"
+Failed to find any players.
+
+Client has executed command "players"
+
+Failed to find any players.
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [258]
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [260]
+
+MessageAnnouncer >> Broadcast: Добро пожаловать на HGM. Тут рады вам больше, чем на любом другом сервере!
+
+MessageAnnouncer >> Добро пожаловать на HGM. Тут рады вам больше, чем на любом другом сервере!
+
+Client has executed command "cchat "/33/09/17/04/17/15/16 /24/05/17/05/08 4 /24. 50 /13. " 255 255 0"
+
+ServerControl >> Broadcast: Аирдроп через 4 ч. 50 м.
+
+Не обработано: ServerControl >> Broadcast: Аирдроп через 4 ч. 50 м.
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [268]
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [271]
+
+Client has executed command "players"
+
+Failed to find any players.
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [278]
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [281]
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [288]
+
+GET NOW
+Client has executed command "GET NOW"
+ServerControl >> VALUE NOW [1] [0] [291]
+Client has executed command "players"
+Failed to find any players.
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [298]
+
+GET NOW
+Client has executed command "GET NOW"
+ServerControl >> VALUE NOW [1] [0] [303]
+
+Client has executed command "GET NOW"
+ServerControl >> VALUE NOW [1] [0] [308]
+
+Client has executed command "players"
+Failed to find any players.
+

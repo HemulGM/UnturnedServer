@@ -1,0 +1,358 @@
+RocketRcon v2.4.8.0
+
+login aVIPs22031994
+players
+Client has executed command "players"
+Players:
+PlayerID: 76561198203101308 Name: Dirooll Character: Алексей Вдувакин Ping: 62
+PlayerID: 76561198444494613 Name: vladkrut22 Character: Aня Ping: 144
+PlayerID: 76561198423084997 Name: lovemariina Character: 228ff Ping: 136
+PlayerID: 76561198396880187 Name: AnimatorCMEPTU Character: AnimatorCMEPTU Ping: 97
+PlayerID: 76561198408019916 Name: slava.fan555 Character: Славик Cухоруков Ping: 101
+Client has executed command "bans"
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27651105
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30531383
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30531399
+Client has executed command "bans"
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27651105
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30531383
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30531399
+
+END
+bans
+END
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27651105
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30531383
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30531399
+
+END
+[World] AnimatorCMEPTU [AnimatorCMEPTU]: "прими"
+
+END
+[World] AnimatorCMEPTU [AnimatorCMEPTU]: "/tpa сла"
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [2024]
+
+[World] Славик Cухоруков [slava.fan555]: "ща сек"
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [2029]
+
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198203101308 Name: Dirooll Character: Алексей Вдувакин Ping: 74
+PlayerID: 76561198444494613 Name: vladkrut22 Character: Aня Ping: 144
+PlayerID: 76561198423084997 Name: lovemariina Character: 228ff Ping: 132
+PlayerID: 76561198396880187 Name: AnimatorCMEPTU Character: AnimatorCMEPTU Ping: 105
+PlayerID: 76561198408019916 Name: slava.fan555 Character: Славик Cухоруков Ping: 105
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [2034]
+
+END
+bans
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27651085
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30531363
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30531378
+
+Client has executed command "bans"
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27651084
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30531362
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30531378
+
+END
+[World] Славик Cухоруков [slava.fan555]: "/tpa a"
+
+END
+[World] Славик Cухоруков [slava.fan555]: "/tpa a"
+Client has executed command "GET NOW"
+ServerControl >> VALUE NOW [1] [0] [2044]
+
+GET NOW
+players
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [2045]
+
+Client has executed command "players"
+Players:
+PlayerID: 76561198203101308 Name: Dirooll Character: Алексей Вдувакин Ping: 101
+PlayerID: 76561198444494613 Name: vladkrut22 Character: Aня Ping: 140
+PlayerID: 76561198423084997 Name: lovemariina Character: 228ff Ping: 136
+PlayerID: 76561198396880187 Name: AnimatorCMEPTU Character: AnimatorCMEPTU Ping: 121
+PlayerID: 76561198408019916 Name: slava.fan555 Character: Славик Cухоруков Ping: 125
+
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27651073
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30531351
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30531367
+
+END
+bans
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27651073
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30531351
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30531367
+
+END
+END
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198203101308 Name: Dirooll Character: Алексей Вдувакин Ping: 93
+PlayerID: 76561198444494613 Name: vladkrut22 Character: Aня Ping: 125
+PlayerID: 76561198423084997 Name: lovemariina Character: 228ff Ping: 121
+PlayerID: 76561198396880187 Name: AnimatorCMEPTU Character: AnimatorCMEPTU Ping: 113
+PlayerID: 76561198408019916 Name: slava.fan555 Character: Славик Cухоруков Ping: 113
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [2054]
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [2055]
+
+MessageAnnouncer >> Broadcast: Наберите /rules (/r) для просмотра правил
+
+MessageAnnouncer >> Наберите /rules (/r) для просмотра правил
+
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27651063
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30531341
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30531357
+
+END
+bans
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27651063
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30531341
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30531357
+
+END
+END
+[World] Славик Cухоруков [slava.fan555]: "/buy 17"
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [2064]
+
+players
+GET NOW
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198203101308 Name: Dirooll Character: Алексей Вдувакин Ping: 89
+PlayerID: 76561198444494613 Name: vladkrut22 Character: Aня Ping: 152
+PlayerID: 76561198423084997 Name: lovemariina Character: 228ff Ping: 148
+PlayerID: 76561198396880187 Name: AnimatorCMEPTU Character: AnimatorCMEPTU Ping: 265
+PlayerID: 76561198408019916 Name: slava.fan555 Character: Славик Cухоруков Ping: 97
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [2065]
+
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27651053
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30531331
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30531347
+
+END
+bans
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27651053
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30531331
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30531347
+
+END
+END
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198203101308 Name: Dirooll Character: Алексей Вдувакин Ping: 105
+PlayerID: 76561198444494613 Name: vladkrut22 Character: Aня Ping: 148
+PlayerID: 76561198423084997 Name: lovemariina Character: 228ff Ping: 132
+PlayerID: 76561198396880187 Name: AnimatorCMEPTU Character: AnimatorCMEPTU Ping: 148
+PlayerID: 76561198408019916 Name: slava.fan555 Character: Славик Cухоруков Ping: 93
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [2074]
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [2075]
+
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27651043
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30531321
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30531337
+
+END
+bans
+Client has executed command "bans"
+Bans:
+PlayerID: 76561197966773788
+
+END
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27651043
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30531321
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30531337
+
+END
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [2084]
+
+players
+GET NOW
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198203101308 Name: Dirooll Character: Алексей Вдувакин Ping: 50
+PlayerID: 76561198444494613 Name: vladkrut22 Character: Aня Ping: 148
+PlayerID: 76561198423084997 Name: lovemariina Character: 228ff Ping: 128
+PlayerID: 76561198396880187 Name: AnimatorCMEPTU Character: AnimatorCMEPTU Ping: 136
+PlayerID: 76561198408019916 Name: slava.fan555 Character: Славик Cухоруков Ping: 78
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [2085]
+
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27651033
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30531311
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30531327
+
+END
+bans
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27651033
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30531311
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30531327
+
+END

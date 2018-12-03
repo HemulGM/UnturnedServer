@@ -1,0 +1,238 @@
+Не обработано: RocketRcon v2.4.8.0
+RocketRcon v2.4.8.0
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198292543416 Name: Mr_GiladKing Character: GiladKing Ping: 57
+PlayerID: 76561198145049762 Name: Inquisitor Character: Gon Sina Ping: 103
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 40
+PlayerID: 76561198030393730 Name: heavy198 Character: heavy198 Ping: 147
+PlayerID: 76561198289556960 Name: доширак Character: artiom$KI Ping: 250
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4293988623
+
+END with Bans:
+Не обработано: MessageAnnouncer >> Broadcast: Добро пожаловать на HEMULGM.RU. Тут рады вам больше, чем на любом другом сервере!
+MessageAnnouncer >> Broadcast: Добро пожаловать на HEMULGM.RU. Тут рады вам больше, чем на любом другом сервере!
+
+Не обработано: MessageAnnouncer >> Добро пожаловать на HEMULGM.RU. Тут рады вам больше, чем на любом другом сервере!
+MessageAnnouncer >> Добро пожаловать на HEMULGM.RU. Тут рады вам больше, чем на любом другом сервере!
+
+[World] GiladKing [Mr_GiladKing]: "/tpa 7_"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198292543416 Name: Mr_GiladKing Character: GiladKing Ping: 61
+PlayerID: 76561198145049762 Name: Inquisitor Character: Gon Sina Ping: 105
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 45
+PlayerID: 76561198030393730 Name: heavy198 Character: heavy198 Ping: 139
+PlayerID: 76561198289556960 Name: доширак Character: artiom$KI Ping: 189
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4293988603
+
+END with Bans:
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198292543416 Name: Mr_GiladKing Character: GiladKing Ping: 56
+PlayerID: 76561198145049762 Name: Inquisitor Character: Gon Sina Ping: 112
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 37
+PlayerID: 76561198030393730 Name: heavy198 Character: heavy198 Ping: 149
+PlayerID: 76561198289556960 Name: доширак Character: artiom$KI Ping: 233
+
+TimerTerminateCommand.Enabled with Players:
+[World] 7_AleX_3 [7_AleX_3]: "/tpa accept"
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4293988582
+
+TimerTerminateCommand.Enabled with Bans:
+Disconnecting: PlayerID: 76561198145049762 Name: Inquisitor Character: Gon Sina
+
+END with Bans:
+Не обработано: DeathMessagesRemastered >> Broadcast: heavy198 истёк кровью!
+DeathMessagesRemastered >> Broadcast: heavy198 истёк кровью!
+
+Не обработано: DropManager >> 3
+Не обработано: heavy198 [heavy198] bled to death!
+DropManager >> 3
+heavy198 [heavy198] bled to death!
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198292543416 Name: Mr_GiladKing Character: GiladKing Ping: 70
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 41
+PlayerID: 76561198030393730 Name: heavy198 Character: heavy198 Ping: 136
+PlayerID: 76561198289556960 Name: доширак Character: artiom$KI Ping: 229
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4293988563
+
+END with Bans:
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198292543416 Name: Mr_GiladKing Character: GiladKing Ping: 56
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 44
+PlayerID: 76561198030393730 Name: heavy198 Character: heavy198 Ping: 143
+PlayerID: 76561198289556960 Name: доширак Character: artiom$KI Ping: 201
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4293988543
+
+END with Bans:
+[World] 7_AleX_3 [7_AleX_3]: "/home"
+
+[World] GiladKing [Mr_GiladKing]: "дай коржек на менуту"
+
+Не обработано: 7_AleX_3 moved x:-664.8975 y:82.011(+43.3387) z:357.0413 in the last second (0.05000305)
+7_AleX_3 moved x:-664.8975 y:82.011(+43.3387) z:357.0413 in the last second (0.05000305)
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198292543416 Name: Mr_GiladKing Character: GiladKing Ping: 60
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 268
+PlayerID: 76561198030393730 Name: heavy198 Character: heavy198 Ping: 142
+PlayerID: 76561198289556960 Name: доширак Character: artiom$KI Ping: 208
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4293988523
+
+END with Bans:
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198292543416 Name: Mr_GiladKing Character: GiladKing Ping: 53
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 34
+PlayerID: 76561198030393730 Name: heavy198 Character: heavy198 Ping: 145
+PlayerID: 76561198289556960 Name: доширак Character: artiom$KI Ping: 192
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4293988503
+
+END with Bans:
+Не обработано: MessageAnnouncer >> Broadcast: Наберите /kit start, чтобы получить стартовый набор (еда, вода, топор)
+MessageAnnouncer >> Broadcast: Наберите /kit start, чтобы получить стартовый набор (еда, вода, топор)
+
+Не обработано: MessageAnnouncer >> Наберите /kit start, чтобы получить стартовый набор (еда, вода, топор)
+MessageAnnouncer >> Наберите /kit start, чтобы получить стартовый набор (еда, вода, топор)
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198292543416 Name: Mr_GiladKing Character: GiladKing Ping: 57
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 43
+PlayerID: 76561198030393730 Name: heavy198 Character: heavy198 Ping: 140
+PlayerID: 76561198289556960 Name: доширак Character: artiom$KI Ping: 238
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4293988483
+
+END with Bans:
+[World] heavy198 [heavy198]: "\kit help"
+
+TimerTerminateCommand.Enabled with Players:
+Client has executed command "players"
+Players:
+PlayerID: 76561198292543416 Name: Mr_GiladKing Character: GiladKing Ping: 59
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 42
+PlayerID: 76561198030393730 Name: heavy198 Character: heavy198 Ping: 142
+PlayerID: 76561198289556960 Name: доширак Character: artiom$KI Ping: 206
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4293988463
+
+END with Bans:
+[World] 7_AleX_3 [7_AleX_3]: "я ща"
+
+[World] heavy198 [heavy198]: "kit helh"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198292543416 Name: Mr_GiladKing Character: GiladKing Ping: 56
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 38
+PlayerID: 76561198030393730 Name: heavy198 Character: heavy198 Ping: 145
+PlayerID: 76561198289556960 Name: доширак Character: artiom$KI Ping: 196
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4293988443
+
+END with Bans:
+[Area] heavy198 [heavy198]: "kit help"
+

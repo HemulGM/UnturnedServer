@@ -1,0 +1,25 @@
+20.10.2017 12:12:40: ClientSocketLookup
+20.10.2017 12:12:40: ClientSocketConnecting
+20.10.2017 12:12:40: ClientSocketConnect
+20.10.2017 12:12:40: ClientSocketWrite
+20.10.2017 12:48:06: ClientSocketDisconnect
+20.10.2017 12:48:06: ClientSocketLookup
+20.10.2017 12:48:06: ClientSocketConnecting
+20.10.2017 12:48:06: ClientSocketConnect
+20.10.2017 12:48:06: ClientSocketWrite
+20.10.2017 12:48:13: ClientSocketDisconnect
+20.10.2017 12:48:13: ClientSocketLookup
+20.10.2017 12:48:13: ClientSocketConnecting
+20.10.2017 12:48:13: ClientSocketConnect
+20.10.2017 12:48:13: ClientSocketWrite
+20.10.2017 12:48:13: ClientSocketDisconnect
+20.10.2017 12:48:13: ClientSocketLookup
+20.10.2017 12:48:13: ClientSocketConnecting
+20.10.2017 12:48:13: ClientSocketConnect
+20.10.2017 12:48:13: ClientSocketWrite
+20.10.2017 12:53:43: ClientSocketError Соединение прервано
+20.10.2017 12:54:10: ClientSocketDisconnect
+20.10.2017 12:54:10: ClientSocketLookup
+20.10.2017 12:54:10: ClientSocketConnecting
+20.10.2017 12:54:10: ClientSocketConnect
+20.10.2017 12:54:10: ClientSocketWrite

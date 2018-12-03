@@ -1,0 +1,296 @@
+23.06.2017 17:11:04: Не обработано: PlayerInfoLib >> No expired player info records found for this batch.
+23.06.2017 17:12:11: Не обработано: 7_AleX_3 moved x:-698.0756 y:94.27115(+23.00669) z:281.824 in the last second (0.05000305)
+23.06.2017 17:13:02: Не обработано: Dancer [deathdancer10] is calling a vote to kick 1337lordgame1337 [Goofy]
+23.06.2017 17:13:17: Не обработано: Vote failed!
+23.06.2017 17:13:53: Не обработано: Kirito Kun moved x:82.46152 y:62.30371(+23.37357) z:36.13684 in the last second (0.6171875)
+23.06.2017 17:15:14: Не обработано: doroxg moved x:-55.7219 y:58.12926(+19.65194) z:-70.17767 in the last second (0.05000305)
+23.06.2017 17:19:29: Не обработано: Castolone [Castolone] was mauled by a zombie!
+23.06.2017 17:19:31: Не обработано: Castolone moved x:-744.4502 y:58.56762(+20.0903) z:127.2084 in the last second (0.9748459)
+23.06.2017 17:19:39: Не обработано: PrivateMessages >> Sorry, you haven't received a message!
+23.06.2017 17:19:48: Не обработано: PrivateMessages >> Sorry, you haven't received a message!
+23.06.2017 17:20:41: Не обработано: Vovan [Darius] bled to death!
+23.06.2017 17:21:24: Не обработано: Pozitiv moved x:-705.5311 y:93.87115(+69.53741) z:287.7 in the last second (0.5999985)
+23.06.2017 17:23:17: Не обработано: ARIEL555 [ARIEL555] dehydrated to death!
+23.06.2017 17:26:00: Не обработано: 7_AleX_3 moved x:-698.0756 y:94.27115(+15.9807) z:281.824 in the last second (0.05000305)
+23.06.2017 17:27:40: Не обработано: doroxg moved x:-704.4596 y:92.77638(+31.87926) z:297.3246 in the last second (0.7560577)
+23.06.2017 17:32:56: Сохранение сервера
+23.06.2017 17:36:38: Не обработано: mrdudasadam [FOX] was mauled by a zombie!
+23.06.2017 17:37:11: Не обработано: Dancer moved x:-618.6219 y:45.00914(+18.35763) z:25.08721 in the last second (0.617054)
+23.06.2017 17:37:16: Не обработано: An error occured while executing tpa [d]: System.NullReferenceException: Object reference not set to an instance of an object
+23.06.2017 17:37:16: Не обработано:   at Rocket.Unturned.Player.UnturnedPlayer.get_CharacterName () [0x00000] in <filename unknown>:0 
+23.06.2017 17:37:16: Не обработано:   at RocketMod_TPA.CommandTPA.Execute (IRocketPlayer caller, System.String[] command) [0x00000] in <filename unknown>:0 
+23.06.2017 17:37:16: Не обработано:   at Rocket.Core.Commands.RocketCommandManager+RegisteredRocketCommand.Execute (IRocketPlayer caller, System.String[] command) [0x00000] in <filename unknown>:0 
+23.06.2017 17:37:16: Не обработано:   at Rocket.Core.Commands.RocketCommandManager.Execute (IRocketPlayer player, System.String command) [0x00000] in <filename unknown>:0 
+23.06.2017 17:37:30: Не обработано: 1337lordgame1337 [Goofy] suffocated to death!
+23.06.2017 17:38:13: Не обработано: Angel268149 [mariteresg74] was mauled by a zombie!
+23.06.2017 17:39:08: Не обработано: Angel268149 [mariteresg74] killed themself.
+23.06.2017 17:39:22: Не обработано: Angel268149 [mariteresg74] killed themself.
+23.06.2017 17:41:04: Не обработано: PlayerInfoLib >> No expired player info records found for this batch.
+23.06.2017 17:41:35: Не обработано: 7_AleX_3 moved x:-698.0756 y:94.27115(+55.79383) z:281.824 in the last second (0.05000305)
+23.06.2017 17:43:12: Не обработано: Angel268149 [mariteresg74] fractured to death!
+23.06.2017 17:44:20: Не обработано: Angel268149 [mariteresg74] killed themself.
+23.06.2017 17:45:20: Не обработано: Angel268149 [mariteresg74] was mauled by a zombie!
+23.06.2017 17:45:31: Не обработано: Angel268149 [mariteresg74] killed themself.
+23.06.2017 17:45:48: Не обработано: Angel268149 [mariteresg74] killed themself.
+23.06.2017 17:46:20: Не обработано: Angel268149 [mariteresg74] was mauled by a zombie!
+23.06.2017 17:47:05: Не обработано: Angel268149 [mariteresg74] killed themself.
+23.06.2017 17:47:35: Не обработано: Angel268149 [mariteresg74] killed themself.
+23.06.2017 17:48:23: Не обработано: Angel268149 [mariteresg74] was mauled by a zombie!
+23.06.2017 17:50:19: Не обработано: Angel268149 [mariteresg74] killed themself.
+23.06.2017 17:53:02: Не обработано: Angel268149 [mariteresg74] was mauled by a zombie!
+23.06.2017 17:53:48: Не обработано: JPXFRD [aizenalaga] was mauled by a zombie!
+23.06.2017 17:54:10: Не обработано: Angel268149 [mariteresg74] was mauled by a zombie!
+23.06.2017 17:55:02: Не обработано: Miia [Miia] was mauled by a zombie!
+23.06.2017 17:55:14: Не обработано: DraSelXL [47 Ronin] was mauled by a zombie!
+23.06.2017 17:55:16: Не обработано: DraSelXL moved x:-744.4502 y:58.56762(+19.89029) z:127.2084 in the last second (0.9748459)
+23.06.2017 17:55:42: Не обработано: Pozitiv moved x:-671.4709 y:86.26102(+47.5837) z:352.4338 in the last second (0.05000305)
+23.06.2017 17:55:49: Не обработано: Sadman [Sadman] bled to death!
+23.06.2017 17:56:10: Не обработано: FargoMetov moved x:-876.9238 y:88.03227(+63.73692) z:-939.8495 in the last second (0.09999847)
+23.06.2017 17:56:20: Не обработано: Angel268149 [mariteresg74] killed themself.
+23.06.2017 17:56:23: Не обработано: Сустав [CSGetto.com LORD] was mauled by a zombie!
+23.06.2017 17:57:29: Не обработано: FargoMetov moved x:-876.9238 y:88.03227(+60.99593) z:-939.8495 in the last second (0.09999847)
+23.06.2017 17:57:32: Не обработано: BIG TATARIN BOSS [BIG TATARIN BOSS] was mauled by a zombie!
+23.06.2017 17:58:11: Не обработано: StieLL [xRetroRaez] is calling a vote to kick REHDI2 [REHDI2]
+23.06.2017 17:58:26: Не обработано: Vote failed!
+23.06.2017 17:58:57: Не обработано: BIG TATARIN BOSS [BIG TATARIN BOSS] was mauled by a zombie!
+23.06.2017 17:59:16: Не обработано: DraSelXL [47 Ronin] bled to death!
+23.06.2017 17:59:19: Не обработано: DraSelXL moved x:-720.9009 y:59.51276(+20.73542) z:150.1289 in the last second (1.003479)
+23.06.2017 17:59:21: Не обработано: Сустав [CSGetto.com LORD] was mauled by a zombie!
+23.06.2017 18:00:41: Не обработано: Miia [Miia] bled to death!
+23.06.2017 18:02:25: Не обработано: Awars Marines [Awars Marines] killed themself.
+23.06.2017 18:02:26: Не обработано: Sadman [Sadman] was mauled by a zombie!
+23.06.2017 18:02:56: Сохранение сервера
+23.06.2017 18:05:50: Не обработано: Sadman [Sadman] bled to death!
+23.06.2017 18:08:59: Не обработано: Miia [Miia] killed themself.
+23.06.2017 18:10:38: Не обработано: xCompatibleCombo [xCompatibleCombo] was mauled by a zombie!
+23.06.2017 18:11:04: Не обработано: PlayerInfoLib >> No expired player info records found for this batch.
+23.06.2017 18:11:33: Не обработано: StieLL [xRetroRaez] is calling a vote to kick REHDI2 [REHDI2]
+23.06.2017 18:11:45: Не обработано: Vote failed!
+23.06.2017 18:11:57: Не обработано: kosmat [matbeeb] was mauled by a zombie!
+23.06.2017 18:12:09: Не обработано: DraSelXL moved x:927.0397 y:81.11823(+41.29587) z:535.2224 in the last second (0.5999985)
+23.06.2017 18:13:32: Не обработано: BIG TATARIN BOSS [BIG TATARIN BOSS] was mauled by a zombie!
+23.06.2017 18:13:34: Не обработано: BIG TATARIN BOSS moved x:-720.9009 y:59.51276(+20.84042) z:150.1289 in the last second (1.003479)
+23.06.2017 18:15:10: Не обработано: BIG TATARIN BOSS [BIG TATARIN BOSS] was mauled by a zombie!
+23.06.2017 18:15:29: Не обработано: Skorpion.46rus [Skorpion.46rus] was mauled by a zombie!
+23.06.2017 18:15:42: Не обработано: DraSelXL [47 Ronin] fractured to death!
+23.06.2017 18:16:08: Не обработано: xCompatibleCombo [xCompatibleCombo] bled to death!
+23.06.2017 18:16:16: Не обработано: Xeum moved x:-743.5966 y:56.70703(+17.90485) z:-172.7601 in the last second (0.05000305)
+23.06.2017 18:16:20: Не обработано: Skorpion.46rus [Skorpion.46rus] was mauled by a zombie!
+23.06.2017 18:16:35: Не обработано: Miia [Miia] was mauled by a zombie!
+23.06.2017 18:17:14: Не обработано: DraSelXL [47 Ronin] was mauled by a zombie!
+23.06.2017 18:17:26: Не обработано: Pozitiv moved x:-282.3931 y:55.74655(+17.06919) z:-347.9024 in the last second (1)
+23.06.2017 18:18:32: Не обработано: xCompatibleCombo [xCompatibleCombo] was mauled by a zombie!
+23.06.2017 18:19:50: Не обработано: Sadman [Sadman] was mauled by a zombie!
+23.06.2017 18:21:50: Не обработано: Sadman [Sadman] bled to death!
+23.06.2017 18:23:03: Не обработано: Miia [Miia] was mauled by a zombie!
+23.06.2017 18:24:21: Не обработано: DraSelXL [47 Ronin] was mauled by a zombie!
+23.06.2017 18:24:31: Не обработано: Angel268149 [mariteresg74] was mauled by a zombie!
+23.06.2017 18:25:49: Не обработано: ninja moved x:882.1998 y:87.2373(+48.55994) z:11.74982 in the last second (1)
+23.06.2017 18:26:01: Не обработано: BIG TATARIN BOSS [BIG TATARIN BOSS] was mauled by a zombie!
+23.06.2017 18:26:30: Не обработано: xCompatibleCombo [xCompatibleCombo] was mauled by a zombie!
+23.06.2017 18:27:31: Не обработано: Miia [Miia] was mauled by a zombie!
+23.06.2017 18:31:46: Не обработано: xCompatibleCombo [xCompatibleCombo] was mauled by a zombie!
+23.06.2017 18:32:56: Сохранение сервера
+23.06.2017 18:33:42: Не обработано: 7_AleX_3 moved x:-698.0756 y:94.27115(+55.73574) z:281.824 in the last second (0.05000305)
+23.06.2017 18:37:21: Не обработано: rafael.rod78 [rafael.rod78] was mauled by a zombie!
+23.06.2017 18:38:29: Не обработано: 7_AleX_3 [7_AleX_3] dehydrated to death!
+23.06.2017 18:39:18: Не обработано: rafael.rod78 [rafael.rod78] was mauled by a zombie!
+23.06.2017 18:40:28: Не обработано: Sadman [Sadman] was mauled by a zombie!
+23.06.2017 18:40:32: Не обработано: Sadman moved x:-720.9009 y:59.51276(+21.03544) z:150.1289 in the last second (1.003479)
+23.06.2017 18:40:53: Не обработано: rafael.rod78 [rafael.rod78] was mauled by a zombie!
+23.06.2017 18:40:56: Не обработано: rafael.rod78 moved x:-720.9009 y:59.51276(+21.03544) z:150.1289 in the last second (1.003479)
+23.06.2017 18:41:04: Не обработано: PlayerInfoLib >> No expired player info records found for this batch.
+23.06.2017 19:05:50: Не обработано: Xeum moved x:-743.5966 y:56.70703(+17.4105) z:-172.7601 in the last second (0.05000305)
+23.06.2017 19:05:51: Не обработано: denis124 [Ченигренка] killed themself.
+23.06.2017 19:05:51: Не обработано: 7_AleX_3 moved x:-698.0756 y:94.27115(+47.91986) z:281.824 in the last second (0.05000305)
+23.06.2017 19:05:51: Не обработано: denis124 [Ченигренка] was mauled by a zombie!
+23.06.2017 19:05:51: Не обработано: denis124 [Ченигренка] killed themself.
+23.06.2017 19:05:51: Не обработано: StieLL moved x:411.8443 y:54.159(+15.40926) z:-169.1108 in the last second (0.100769)
+23.06.2017 19:05:51: Не обработано: denis124 [Ченигренка] killed themself.
+23.06.2017 19:05:51: Не обработано: kalabin.denis21015 [kalabin.denis21015] bled to death!
+23.06.2017 19:05:52: Не обработано: kalabin.denis21015 [kalabin.denis21015] was mauled by a zombie!
+23.06.2017 19:05:52: Сохранение сервера
+23.06.2017 19:05:52: Не обработано: kalabin.denis21015 moved x:-720.9009 y:59.51276(+20.77793) z:150.1289 in the last second (1.003479)
+23.06.2017 19:05:52: Не обработано: kalabin.denis21015 [kalabin.denis21015] killed themself.
+23.06.2017 19:05:52: Не обработано: 7_AleX_3 moved x:-698.0756 y:94.27115(+18.16267) z:281.824 in the last second (0.05000305)
+23.06.2017 19:05:53: Не обработано: kalabin.denis21015 [kalabin.denis21015] killed themself.
+23.06.2017 19:05:53: Не обработано: denis124 [Ченигренка] was mauled by a zombie!
+23.06.2017 19:05:53: Не обработано: denis124 [Ченигренка] killed themself.
+23.06.2017 19:05:53: Не обработано: kalabin.denis21015 [kalabin.denis21015] killed themself.
+23.06.2017 19:05:53: Не обработано: kalabin.denis21015 [kalabin.denis21015] killed themself.
+23.06.2017 19:05:53: Не обработано: kalabin.denis21015 [kalabin.denis21015] killed themself.
+23.06.2017 19:05:53: Не обработано: kalabin.denis21015 [kalabin.denis21015] killed themself.
+23.06.2017 19:08:15: Не обработано: CRYSIS moved x:99.09937 y:55.16194(+30.82534) z:919.7769 in the last second (0.2379189)
+23.06.2017 19:08:19: Не обработано: REHDI2 [REHDI2] was mauled by a zombie!
+23.06.2017 19:08:54: Не обработано: REHDI2 moved x:-772.0433 y:64.65762(+26.18031) z:438.7255 in the last second (0.7749329)
+23.06.2017 19:09:21: Не обработано: denis124 [Ченигренка] was mauled by a zombie!
+23.06.2017 19:11:04: Не обработано: PlayerInfoLib >> No expired player info records found for this batch.
+23.06.2017 19:11:27: Не обработано: denis124 [Ченигренка] killed themself.
+23.06.2017 19:12:40: Не обработано: denis124 [Ченигренка] killed themself.
+23.06.2017 19:13:05: Не обработано: Banan4ik [Banan4ik] killed themself.
+23.06.2017 19:13:10: Не обработано: denis124 [Ченигренка] killed themself.
+23.06.2017 19:13:19: Не обработано: denis124 [Ченигренка] killed themself.
+23.06.2017 19:13:33: Не обработано: denis124 [Ченигренка] killed themself.
+23.06.2017 19:14:03: Не обработано: denis124 [Ченигренка] killed themself.
+23.06.2017 19:15:37: Не обработано: denis124 [Ченигренка] killed themself.
+23.06.2017 19:16:07: Не обработано: denis124 [Ченигренка] killed themself.
+23.06.2017 19:17:06: Не обработано: HemulGM включен Godmode
+23.06.2017 19:17:52: Не обработано: Xeum [Xeum] was mauled by a zombie!
+23.06.2017 19:17:54: Не обработано: rafael.rod78 [rafael.rod78] bled to death!
+23.06.2017 19:17:59: Не обработано: Xeum moved x:-743.5966 y:57.20703(+18.43472) z:-172.7601 in the last second (0.5500031)
+23.06.2017 19:18:49: Не обработано: denis124 [Ченигренка] killed themself.
+23.06.2017 19:19:41: Не обработано: ninja moved x:698.3727 y:68.66211(+29.68229) z:-527.0653 in the last second (1)
+23.06.2017 19:19:42: Не обработано: denis124 [Ченигренка] killed themself.
+23.06.2017 19:21:22: Не обработано: denis124 [Ченигренка] was dissolved by a zombie!
+23.06.2017 19:22:03: Не обработано: Дал HemulGM вещь 520:30
+23.06.2017 19:23:11: Не обработано: denis124 [Ченигренка] killed themself.
+23.06.2017 19:24:03: Не обработано: denis124 [Ченигренка] killed themself.
+23.06.2017 19:26:07: Не обработано: Дал HemulGM вещь 520:30
+23.06.2017 19:29:20: Не обработано: Дал HemulGM вещь 520:20
+23.06.2017 19:32:53: Не обработано: Дал HemulGM вещь 520:30
+23.06.2017 19:32:55: Не обработано: denis124 [Ченигренка] was infected to death!
+23.06.2017 19:32:56: Сохранение сервера
+23.06.2017 19:33:19: Не обработано: Banan4ik [Banan4ik] was mauled by a zombie!
+23.06.2017 19:33:23: Не обработано: Banan4ik moved x:-744.4502 y:58.56762(+19.79828) z:127.2084 in the last second (0.9748459)
+23.06.2017 19:33:37: Не обработано: ninja moved x:-285.1246 y:54.87376(+16.39644) z:-346.8 in the last second (0.1000061)
+23.06.2017 19:34:02: Не обработано: denis124 [Ченигренка] bled to death!
+23.06.2017 19:34:07: Не обработано: BIG TATARIN BOSS [BIG TATARIN BOSS] was mauled by a zombie!
+23.06.2017 19:35:00: Не обработано: Дал HemulGM вещь 520:25
+23.06.2017 19:35:05: Не обработано: Xeum moved x:-743.5966 y:56.70703(+17.63469) z:-172.7601 in the last second (0.05000305)
+23.06.2017 19:35:15: Не обработано: rafael.rod78 moved x:-741.7982 y:57.80637(+19.13403) z:-164.9845 in the last second (0.5993385)
+23.06.2017 19:37:23: Не обработано: HemulGM телепортирован к rafael.rod78
+23.06.2017 19:38:30: Не обработано: denis124 [Ченигренка] was mauled by a zombie!
+23.06.2017 19:38:54: Не обработано: denis124 [Ченигренка] killed themself.
+23.06.2017 19:40:13: Не обработано: denis124 [Ченигренка] killed themself.
+23.06.2017 19:41:04: Не обработано: PlayerInfoLib >> No expired player info records found for this batch.
+23.06.2017 19:42:03: Не обработано: Дал HemulGM вещь 520:20
+23.06.2017 19:46:55: Не обработано: kalabin.denis21015 [kalabin.denis21015] was mauled by a zombie!
+23.06.2017 19:47:14: Не обработано: denis124 [Ченигренка] was mauled by a zombie!
+23.06.2017 19:47:16: Не обработано: Xeum moved x:-743.5966 y:56.70703(+18.22971) z:-172.7601 in the last second (0.05000305)
+23.06.2017 19:47:27: Не обработано: kalabin.denis21015 [kalabin.denis21015] killed themself.
+23.06.2017 19:47:42: Не обработано: kalabin.denis21015 [kalabin.denis21015] killed themself.
+23.06.2017 19:47:50: Не обработано: denis124 [Ченигренка] killed themself.
+23.06.2017 19:48:18: Не обработано: 7_AleX_3 [7_AleX_3] killed themself.
+23.06.2017 19:48:26: Не обработано: denis124 [Ченигренка] killed themself.
+23.06.2017 19:49:31: Не обработано: denis124 [Ченигренка] killed themself.
+23.06.2017 19:49:33: Не обработано: denis124 moved x:-720.9009 y:59.51276(+41.30406) z:150.1289 in the last second (1.003479)
+23.06.2017 19:53:07: Не обработано: Xeum moved x:-725.5983 y:71.77677(+33.29945) z:-156.4716 in the last second (3.319717)
+23.06.2017 19:53:16: Не обработано: kalabin.denis21015 [kalabin.denis21015] killed themself.
+23.06.2017 19:53:17: Не обработано: xDDDDDDDDDDDDDDDDDDDDD [xDDDDDDDDDDD caserandom.com] bled to death!
+23.06.2017 19:53:43: Не обработано: kalabin.denis21015 [kalabin.denis21015] killed themself.
+23.06.2017 19:54:16: Не обработано: kalabin.denis21015 [kalabin.denis21015] was mauled by a zombie!
+23.06.2017 19:55:33: Не обработано: METOOD [METOOD] was mauled by a zombie!
+23.06.2017 19:56:51: Не обработано: ARIEL555 [ARIEL555] was mauled by a zombie!
+23.06.2017 19:57:13: Не обработано: shay.k [skimaster5 hellcase.com] was mauled by a zombie!
+23.06.2017 19:57:47: Не обработано: xDDDDDDDDDDDDDDDDDDDDD [xDDDDDDDDDDD caserandom.com] was dissolved by a zombie!
+23.06.2017 20:02:56: Сохранение сервера
+23.06.2017 20:03:53: Не обработано: Xeum moved x:-743.5966 y:56.70703(+18.22971) z:-172.7601 in the last second (0.05000305)
+23.06.2017 20:08:03: Не обработано: REHDI2 moved x:405.8681 y:54.7853(+16.30798) z:-173.5248 in the last second (0.2379189)
+23.06.2017 20:08:33: Не обработано: kalabin.denis21015 [kalabin.denis21015] was mauled by a zombie!
+23.06.2017 20:09:48: Не обработано: kalabin.denis21015 [kalabin.denis21015] was mauled by a zombie!
+23.06.2017 20:10:47: Не обработано: meteor [svtmusienko] burned to death!
+23.06.2017 20:10:52: Не обработано: Crazy Cat [?вольдымаRUS?] was mauled by a zombie!
+23.06.2017 20:11:04: Не обработано: PlayerInfoLib >> No expired player info records found for this batch.
+23.06.2017 20:11:32: Не обработано: ninja moved x:641.2299 y:59.69458(+21.01685) z:321.4116 in the last second (1)
+23.06.2017 20:13:21: Не обработано: Xeum moved x:-743.5966 y:56.70703(+18.22971) z:-172.7601 in the last second (0.05000305)
+23.06.2017 20:16:07: Не обработано: ninja moved x:958.9603 y:89.97729(+29.04709) z:454.884 in the last second (1)
+23.06.2017 20:17:02: Не обработано: ДокторКир moved x:-124.6303 y:60.86106(+22.38374) z:-620.3669 in the last second (0.05000305)
+23.06.2017 20:18:50: Не обработано: kalabin.denis21015 moved x:568.8972 y:54.25929(+15.78266) z:-550.1901 in the last second (0.6000938)
+23.06.2017 20:21:36: Не обработано: nikanorova2 moved x:253.1474 y:53.8833(+23.49996) z:-457.3896 in the last second (15.50598)
+23.06.2017 20:28:28: Не обработано: Конь в пальто moved x:-154.7339 y:149.8019(+111.1245) z:-222.3131 in the last second (131.6947)
+23.06.2017 20:31:40: Не обработано: 7_AleX_3 moved x:-741.293 y:91.32487(+17.42953) z:333.4861 in the last second (0.1213837)
+23.06.2017 20:32:56: Сохранение сервера
+23.06.2017 20:33:47: Не обработано: 7_AleX_3 moved x:-474.831 y:139.7295(+58.57539) z:-366.1163 in the last second (0.342392)
+23.06.2017 20:34:18: Не обработано: PrivateMessages >> Sorry, you haven't received a message!
+23.06.2017 20:35:32: Не обработано: ARIEL555 [ARIEL555] dehydrated to death!
+23.06.2017 20:39:04: Не обработано: 7_AleX_3 moved x:-698.0756 y:94.27115(+52.14209) z:281.824 in the last second (0.05000305)
+23.06.2017 20:39:19: Не обработано: nikanorova2 moved x:-704.5461 y:92.61909(+66.05646) z:297.5853 in the last second (0.7560577)
+23.06.2017 20:41:04: Не обработано: PlayerInfoLib >> No expired player info records found for this batch.
+23.06.2017 20:42:00: Не обработано: 7_AleX_3 moved x:-698.0756 y:94.27115(+18.00768) z:281.824 in the last second (0.05000305)
+23.06.2017 20:44:18: Не обработано: kalabin.denis21015 [kalabin.denis21015] was mauled by a zombie!
+23.06.2017 20:47:26: Не обработано: denis124 [Ченигренка] was dissolved by a zombie!
+23.06.2017 20:47:31: Не обработано: kalabin.denis21015 [kalabin.denis21015] was mauled by a zombie!
+23.06.2017 20:47:51: Не обработано: denis124 [Ченигренка] killed themself.
+23.06.2017 20:48:52: Не обработано: denis124 [Ченигренка] bled to death!
+23.06.2017 20:49:38: Не обработано: Конь в пальто [CatGame19] was mauled by a zombie!
+23.06.2017 20:55:40: Не обработано: VehicleEvents >> Vehicle has been despawned
+23.06.2017 21:02:56: Сохранение сервера
+23.06.2017 21:03:58: Не обработано: Xeum [Xeum] was mauled by a zombie!
+23.06.2017 21:04:00: Не обработано: Xeum moved x:-743.8824 y:56.99582(+18.5185) z:-172.6991 in the last second (0.3387947)
+23.06.2017 21:04:08: Не обработано: ДокторКир [DokYakinar] was mauled by a zombie!
+23.06.2017 21:04:25: Не обработано: ДокторКир moved x:-124.6303 y:60.86106(+32.96332) z:-620.3669 in the last second (0.05000305)
+23.06.2017 21:04:42: Не обработано: BIG TATARIN BOSS [BIG TATARIN BOSS] was mauled by a zombie!
+23.06.2017 21:09:36: Не обработано: BIG TATARIN BOSS [BIG TATARIN BOSS] was mauled by a zombie!
+23.06.2017 21:11:04: Не обработано: PlayerInfoLib >> No expired player info records found for this batch.
+23.06.2017 21:14:34: Не обработано: ДокторКир moved x:-124.6303 y:60.86106(+27.09292) z:-620.3669 in the last second (0.05000305)
+23.06.2017 21:15:23: Не обработано: BIG TATARIN BOSS [BIG TATARIN BOSS] was mauled by a zombie!
+23.06.2017 21:17:00: Не обработано: kill my please_ ^_ moved x:-704.4125 y:92.92477(+53.71743) z:297.2551 in the last second (0.8404846)
+23.06.2017 21:19:25: Не обработано: BIG TATARIN BOSS [BIG TATARIN BOSS] was mauled by a zombie!
+23.06.2017 21:25:31: Не обработано: BIG TATARIN BOSS [BIG TATARIN BOSS] was burned by a zombie!
+23.06.2017 21:25:31: Не обработано: NullReferenceException - SDG.Unturned.UseableMelee.fire ()
+23.06.2017 21:25:31: Не обработано: SDG.Unturned.UseableMelee.simulate (UInt32 simulation, Boolean inputSteady)
+23.06.2017 21:25:31: Не обработано: SDG.Unturned.PlayerEquipment.simulate (UInt32 simulation, Boolean inputPrimary, Boolean inputSecondary, Boolean inputSteady)
+23.06.2017 21:25:31: Не обработано: SDG.Unturned.PlayerInput.FixedUpdate ()
+23.06.2017 21:25:50: Не обработано: BIG TATARIN BOSS [BIG TATARIN BOSS] killed themself.
+23.06.2017 21:26:14: Не обработано: BIG TATARIN BOSS [BIG TATARIN BOSS] killed themself.
+23.06.2017 21:26:18: Не обработано: BIG TATARIN BOSS [BIG TATARIN BOSS] killed themself.
+23.06.2017 21:28:34: Не обработано: BIG TATARIN BOSS moved x:119.4072 y:66.6814(+27.97314) z:951.9398 in the last second (1)
+23.06.2017 21:29:24: Не обработано: Bshpirt [Bobert] killed themself.
+23.06.2017 21:30:23: Не обработано: Bshpirt [Bobert] killed themself.
+23.06.2017 21:31:37: Не обработано: 7_AleX_3 [7_AleX_3] was mauled by a zombie!
+23.06.2017 21:32:56: Сохранение сервера
+23.06.2017 21:33:10: Не обработано: Bshpirt [Bobert] was infected to death!
+23.06.2017 21:33:13: Не обработано: Bshpirt moved x:-720.9009 y:59.51276(+15.40855) z:150.1289 in the last second (1.003479)
+23.06.2017 21:33:24: Не обработано: Пипр moved x:-818.5793 y:80.34998(+41.87266) z:-952.7543 in the last second (0.05000305)
+23.06.2017 21:41:04: Не обработано: PlayerInfoLib >> No expired player info records found for this batch.
+23.06.2017 21:41:45: Не обработано: araghi80 [mamadi80] was mauled by a zombie!
+23.06.2017 21:45:02: Не обработано: Xeum [Xeum] dehydrated to death!
+23.06.2017 21:48:32: Не обработано: araghi80 [mamadi80] was mauled by a zombie!
+23.06.2017 21:51:19: Не обработано: ДокторКир moved x:-115.8727 y:67.51697(+29.03965) z:-609.9842 in the last second (1)
+23.06.2017 21:51:42: Не обработано: Diogopro13 [diogolimasiqueira] was mauled by a zombie!
+23.06.2017 21:51:50: Не обработано: JPXFRD [aizenalaga] was mauled by a zombie!
+23.06.2017 21:52:03: Не обработано: 7_AleX_3 moved x:-698.0756 y:94.27115(+55.79383) z:281.824 in the last second (0.05000305)
+23.06.2017 21:53:14: Не обработано: Пипр moved x:-831.1882 y:78.65617(+39.97884) z:-928.3658 in the last second (0.1035538)
+23.06.2017 21:55:45: Не обработано: JPXFRD [aizenalaga] was mauled by a zombie!
+23.06.2017 21:58:10: Не обработано: JPXFRD [aizenalaga] was burned by a zombie!
+23.06.2017 21:58:10: Не обработано: NullReferenceException - SDG.Unturned.UseableMelee.fire ()
+23.06.2017 21:58:10: Не обработано: SDG.Unturned.UseableMelee.simulate (UInt32 simulation, Boolean inputSteady)
+23.06.2017 21:58:10: Не обработано: SDG.Unturned.PlayerEquipment.simulate (UInt32 simulation, Boolean inputPrimary, Boolean inputSecondary, Boolean inputSteady)
+23.06.2017 21:58:10: Не обработано: SDG.Unturned.PlayerInput.FixedUpdate ()
+23.06.2017 21:58:45: Не обработано: REHDI2 moved x:-758.3379 y:93.8682(+21.50193) z:345.9443 in the last second (0.5999985)
+23.06.2017 22:00:14: Не обработано: ДокторКир moved x:-154.9055 y:66.25904(+23.46849) z:-605.7737 in the last second (1.945068)
+23.06.2017 22:02:15: Не обработано: REHDI2 moved x:-757.0939 y:94.61821(+40.43291) z:337.0627 in the last second (0.1257553)
+23.06.2017 22:02:56: Сохранение сервера
+23.06.2017 22:11:04: Не обработано: PlayerInfoLib >> No expired player info records found for this batch.
+23.06.2017 22:17:20: Не обработано: Пипр moved x:-818.5793 y:80.34998(+57.04324) z:-952.7543 in the last second (0.05000305)
+23.06.2017 22:20:02: Не обработано: xKingSnipperx1 [Heaven's Floor] was mauled by a zombie!
+23.06.2017 22:23:30: Не обработано: kill my please_ ^_ moved x:-754.4349 y:93.96821(+55.49089) z:334.657 in the last second (0.2379227)
+23.06.2017 22:25:49: Не обработано: VehicleEvents >> Vehicle has been despawned
+23.06.2017 22:28:54: Не обработано: REHDI2 moved x:405.8681 y:54.64738(+16.44095) z:-173.5248 in the last second (0.1000023)
+23.06.2017 22:32:56: Сохранение сервера
+23.06.2017 22:33:36: Не обработано: Nocomments.no [Lovecraft] bled to death!
+23.06.2017 22:40:44: Не обработано: meteor [svtmusienko] was mauled by a zombie!
+23.06.2017 22:41:04: Не обработано: PlayerInfoLib >> No expired player info records found for this batch.
+23.06.2017 22:43:32: Не обработано: meteor [svtmusienko] was mauled by a zombie!
+23.06.2017 22:44:57: Не обработано: REHDI2 moved x:405.8681 y:54.7853(+16.09266) z:-173.5248 in the last second (0.2379189)
+23.06.2017 22:45:08: Не обработано: kill my please_ ^_ moved x:410.7206 y:54.70126(+16.02345) z:-170.901 in the last second (0.6007957)
+23.06.2017 22:45:36: Не обработано: meteor [svtmusienko] was mauled by a zombie!
+23.06.2017 22:47:29: Не обработано: meteor [svtmusienko] bled to death!
+23.06.2017 22:50:02: Не обработано: kill my please_ ^_ moved x:-754.4349 y:93.96821(+40.16846) z:334.657 in the last second (0.2379227)
+23.06.2017 22:54:41: Не обработано: Пипр moved x:-818.5793 y:80.34998(+26.26008) z:-952.7543 in the last second (0.05000305)
+23.06.2017 22:54:42: Не обработано: joro_kremi moved x:-55.48909 y:52.32817(+21.75141) z:-28.3309 in the last second (0.6069832)
+23.06.2017 22:55:03: Не обработано: anjelin581 moved x:-59.96125 y:63.66225(+25.18494) z:9.283341 in the last second (0.9224396)
+23.06.2017 22:55:24: Не обработано: The player [ТнЗ]Виталий Бутняков has no permission to execute the command kit
+23.06.2017 23:00:44: Не обработано: anjelin581 [anjelin581] was mauled by a zombie!
+23.06.2017 23:00:59: Не обработано: joro_kremi [boosted_sarmi4ka] was mauled by a zombie!
+23.06.2017 23:02:26: Не обработано: PrivateMessages >> Sorry, you haven't received a message!
+23.06.2017 23:02:29: Не обработано: [ТнЗ]Виталий Бутняков [Пьяный Шмелек] was dissolved by a zombie!
+23.06.2017 23:02:48: Не обработано: ZIGANALI [ziganalikaan6129] bled to death!
+23.06.2017 23:02:55: Не обработано: ZIGANALI moved x:-744.4502 y:58.56762(+20.0903) z:127.2084 in the last second (0.9748459)
+23.06.2017 23:02:56: Сохранение сервера
+23.06.2017 23:03:19: Не обработано: VehicleEvents >> Vehicle has been despawned
+24.06.2017 11:45:46: Не обработано: PrivateMessages >> Sorry, you haven't received a message!
+24.06.2017 11:46:08: Не обработано: alexandreiliev7 [alexandreiliev7] was mauled by a zombie!
+24.06.2017 11:46:33: Не обработано: alexandreiliev7 [alexandreiliev7] was mauled by a zombie!
+24.06.2017 11:46:54: Не обработано: slamkata_bg [slamkata_bg] was mauled by a zombie!
+24.06.2017 11:46:54: Не обработано: PlayerInfoLib >> No expired player info records found for this batch.

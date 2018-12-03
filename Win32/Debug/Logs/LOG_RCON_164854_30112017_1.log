@@ -1,0 +1,36 @@
+RocketRcon v2.4.8.0
+
+login aVIPs22031994
+players
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198242496136 Name: _Official_Group_GameGuardian_ Character: mer_1560 Ping: 39
+PlayerID: 76561198315561906 Name: MaXiMuS Character: MaXiMuS Ping: 46
+PlayerID: 76561198407087458 Name: -_-Paer-_- Character: Паша Полянцев Ping: 23
+PlayerID: 76561198352329817 Name: X_RaY Character: Учиха_Саске Ping: 226
+PlayerID: 76561198131227088 Name: нет друзей Character: нет друзей Ping: 101
+PlayerID: 76561198421469222 Name: cvan71 Character: Андрей Ping: 54
+PlayerID: 76561198366284525 Name: NikiRoC Character: Никита Калашников Ping: 62
+PlayerID: 76561198114302725 Name: пуля Character: пуля Ping: 93
+
+[World] mer_1560 [_Official_Group_GameGuardian_]: "нет"
+
+END
+bans
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27386661
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30266939
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30266955
+PlayerID: 76561198257502095
+JudgeID: 76561198237123262
+Reason: 3600 Duration: 31536000 Remaining: 31472195
+

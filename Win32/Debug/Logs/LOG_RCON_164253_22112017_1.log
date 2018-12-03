@@ -1,0 +1,91 @@
+RocketRcon v2.4.8.0
+
+login aVIPs22031994
+players
+Client has executed command "players"
+Players:
+PlayerID: 76561198170498361 Name: _Nick_Hunter_ Character: Nick_Hunter[RUS] Ping: 75
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 215
+PlayerID: 76561198384139999 Name: agat84 Character: Mr.Shadou Ping: 87
+PlayerID: 76561198265247601 Name: BisonbonasusPlay Character: Dmitriy Ping: 87
+PlayerID: 76561198385149949 Name: GoDNooB Character: GoDNooB Ping: 117
+PlayerID: 76561198315561906 Name: MaXiMuS Character: valuxa1984 Ping: 57
+
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198170498361 Name: _Nick_Hunter_ Character: Nick_Hunter[RUS] Ping: 75
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 215
+PlayerID: 76561198384139999 Name: agat84 Character: Mr.Shadou Ping: 87
+PlayerID: 76561198265247601 Name: BisonbonasusPlay Character: Dmitriy Ping: 87
+PlayerID: 76561198385149949 Name: GoDNooB Character: GoDNooB Ping: 117
+PlayerID: 76561198315561906 Name: MaXiMuS Character: valuxa1984 Ping: 57
+Client has executed command "bans"
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 28078204
+PlayerID: 76561198336969313
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 193437
+PlayerID: 76561198212486347
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 193768
+PlayerID: 76561198391097237
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 356255
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30958482
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30958498
+Client has executed command "bans"
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 28078204
+PlayerID: 76561198336969313
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 193437
+PlayerID: 76561198212486347
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 193768
+PlayerID: 76561198391097237
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 356255
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30958482
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30958498
+
+END
+END
+END
+Client has executed command "GET NOW"
+ServerControl >> VALUE NOW [1] [0] [755]
+
+ZaupUconomyEssentials >> paid was not fired as player or amount not given.
+
+END
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [765]
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [766]
+
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198170498361 Name: _Nick_Hunter_ Character: Nick_Hunter[RUS] Ping: 64
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 212
+PlayerID: 76561198384139999 Name: agat84 Character: Mr.Shadou Ping: 87
+PlayerID: 76561198265247601 Name: BisonbonasusPlay Character: Dmitriy Ping: 87
+PlayerID: 76561198385149949 Name: GoDNooB Character: GoDNooB Ping: 126
+PlayerID: 76561198315561906 Name: MaXiMuS Character: valuxa1984 Ping: 55
+

@@ -1,0 +1,37 @@
+Не обработано: RocketRcon v2.4.8.0
+RocketRcon v2.4.8.0
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 46
+PlayerID: 76561198235802198 Name: Bodya Character: Bodya Ping: 135
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 155
+PlayerID: 76561198368930526 Name: LLlaxuD Character: LLlaxuD Ping: 137
+PlayerID: 76561198123840535 Name: ?????? Character: top Ping: 102
+PlayerID: 76561198030393730 Name: heavy198 Character: heavy198 Ping: 136
+PlayerID: 76561198152563082 Name: Drakon Character: Stanat Ping: 145
+PlayerID: 76561198051446787 Name: PUGNA Character: Opticor Ping: 35
+PlayerID: 76561198397238388 Name: nikita-zakharov-1999 Character: nikita-zakharov-1999 Ping: 55
+PlayerID: 76561198247269044 Name: SpaceMan Character: КрасноглазыйЧерножоп Ping: 54
+PlayerID: 76561198238255690 Name: SWAG Character: AimBooT #NiceShot Ping: 98
+PlayerID: 76561198260223915 Name: Matei kickback.com Character: matei Ping: 0
+
+TimerTerminateCommand.Enabled with Players:
+[Group] Stanat [Drakon]: "военка или скорп"
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4293981930
+
+END with Bans:
+[World] top [??????]: "/tpa a a,y"
+
+[World] Expert1337 [Expert13372284200]: "военка лучше"
+

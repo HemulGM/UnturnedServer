@@ -1,0 +1,88 @@
+RocketRcon v2.4.8.0
+
+login aVIPs22031994
+players
+Client has executed command "players"
+Players:
+PlayerID: 76561198130308475 Name: алдуин csgofast.com Character: OXXXY Ping: 27
+PlayerID: 76561198366549870 Name: Expert1337 Character: Expert1337 Ping: 42
+PlayerID: 76561198423084997 Name: FACE Character: Элджей Ping: 121
+PlayerID: 76561198818151252 Name: vladimirtkacenko06 Character: Вова Ping: 121
+PlayerID: 76561198290478364 Name: Mr.Web56 Character: Webчик  Ping: 82
+PlayerID: 76561198314376473 Name: Злой Котик) Character: степан Ping: 121
+Client has executed command "bans"
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 19455455
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 22335733
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 22335749
+PlayerID: 76561198441524917
+JudgeID: 76561198237123262
+Reason: 100000 Duration: 31536000 Remaining: 27426915
+PlayerID: 76561198446923945
+JudgeID: 76561198237123262
+Reason: 60000 Duration: 31536000 Remaining: 28001879
+
+END
+END
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198130308475 Name: алдуин csgofast.com Character: OXXXY Ping: 19
+PlayerID: 76561198366549870 Name: Expert1337 Character: Expert1337 Ping: 46
+PlayerID: 76561198423084997 Name: FACE Character: Элджей Ping: 125
+PlayerID: 76561198818151252 Name: vladimirtkacenko06 Character: Вова Ping: 132
+PlayerID: 76561198290478364 Name: Mr.Web56 Character: Webчик  Ping: 93
+PlayerID: 76561198314376473 Name: Злой Котик) Character: степан Ping: 125
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [1948]
+
+[World] степан [Злой Котик)]: "не"
+
+END
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 19455446
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 22335724
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 22335740
+PlayerID: 76561198441524917
+JudgeID: 76561198237123262
+Reason: 100000 Duration: 31536000 Remaining: 27426906
+PlayerID: 76561198446923945
+JudgeID: 76561198237123262
+Reason: 60000 Duration: 31536000 Remaining: 28001870
+
+END
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [1953]
+
+[Group] Expert1337 [Expert1337]: "/i 68 5"
+
+Дал Expert1337 вещь 68:5
+
+Не обработано: Дал Expert1337 вещь 68:5
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [1958]
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [1966]
+

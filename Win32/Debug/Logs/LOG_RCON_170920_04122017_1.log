@@ -1,0 +1,121 @@
+RocketRcon v2.4.8.0
+
+login aVIPs22031994
+players
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198403731875 Name: Malav Character: Malav Ping: 46
+PlayerID: 76561198416514639 Name: Aulak Character: Aulak Ping: 117
+
+Client has executed command "bans"
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27039845
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 29920123
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 29920139
+PlayerID: 76561198408019916
+JudgeID: 76561198237123262
+Reason: raid Duration: 604800 Remaining: 272470
+PlayerID: 76561198366284525
+JudgeID: 76561198237123262
+Reason: REKLAMA Duration: 604800 Remaining: 450639
+
+END
+END
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198403731875 Name: Malav Character: Malav Ping: 39
+PlayerID: 76561198416514639 Name: Aulak Character: Aulak Ping: 93
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [1946]
+
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27039836
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 29920114
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 29920130
+PlayerID: 76561198408019916
+JudgeID: 76561198237123262
+Reason: raid Duration: 604800 Remaining: 272461
+PlayerID: 76561198366284525
+JudgeID: 76561198237123262
+Reason: REKLAMA Duration: 604800 Remaining: 450630
+
+END
+END
+MessageAnnouncer >> Broadcast: vk.com/unturned_hgm - группа сервера ВК, уникальный кит в записи!
+
+MessageAnnouncer >> vk.com/unturned_hgm - группа сервера ВК, уникальный кит в записи!
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [1950]
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [1956]
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [1961]
+
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198403731875 Name: Malav Character: Malav Ping: 46
+PlayerID: 76561198416514639 Name: Aulak Character: Aulak Ping: 58
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [1967]
+
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27039816
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 29920094
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 29920110
+PlayerID: 76561198408019916
+JudgeID: 76561198237123262
+Reason: raid Duration: 604800 Remaining: 272441
+PlayerID: 76561198366284525
+JudgeID: 76561198237123262
+Reason: REKLAMA Duration: 604800 Remaining: 450610
+
+END
+END
+Disconnecting: PlayerID: 76561198416514639 Name: Aulak Character: Aulak
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [1971]
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [1976]
+

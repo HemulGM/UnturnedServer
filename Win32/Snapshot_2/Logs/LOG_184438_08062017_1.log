@@ -1,0 +1,50 @@
+Не обработано: RocketRcon v2.4.8.0
+RocketRcon v2.4.8.0
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198165822970 Name: Indigo Character: Indigo Ping: 93
+PlayerID: 76561198114070067 Name: Маг1стрЙ0да- Character: Samurai Ping: 31
+PlayerID: 76561198305732269 Name: Owl Character: Owl Ping: 62
+PlayerID: 76561198177412437 Name: korak Character: korak Ping: 140
+PlayerID: 76561198293594446 Name: R_B_KOCMOCE Character: Lol-чик Ping: 78
+PlayerID: 76561198392992149 Name: ivan.evdokimov.07 Character: ivan.evdokimov.07 Ping: 85
+PlayerID: 76561198239840530 Name: BeToC Character: BeToC Ping: 70
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: [MODER]Expert1337 Ping: 156
+PlayerID: 76561198354362951 Name: m.m.vilkauss Character: miks Ping: 78
+PlayerID: 76561198256794301 Name: MaxPlayRus Character: MaxPlayRus Ping: 46
+PlayerID: 76561198280617288 Name: Незнаю какой придумать Character: Пипр Ping: 70
+PlayerID: 76561198122117590 Name: masterbissen Character: masterbissen Ping: 78
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294219525
+
+TimerTerminateCommand.Enabled with Bans:
+[World] [MODER]Expert1337 [Expert13372284200]: "ща"
+
+TimerTerminateCommand.Enabled with Bans:
+Client has executed command "admins"
+
+END with Bans:
+TimerTerminateCommand.Enabled with Admins:
+Admins:
+PlayerID: 76561198119509031
+JudgeID: 0
+
+END with Admins:
+[World] [MODER]Expert1337 [Expert13372284200]: "в замен что"
+
+Не обработано: MessageAnnouncer >> Broadcast: Внимание! PvP-режим по субботам! PvP-режим!!!
+MessageAnnouncer >> Broadcast: Внимание! PvP-режим по субботам! PvP-режим!!!
+
+Не обработано: MessageAnnouncer >> Внимание! PvP-режим по субботам! PvP-режим!!!
+MessageAnnouncer >> Внимание! PvP-режим по субботам! PvP-режим!!!
+

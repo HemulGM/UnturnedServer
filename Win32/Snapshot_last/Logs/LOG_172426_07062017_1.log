@@ -1,0 +1,86 @@
+Не обработано: RocketRcon v2.4.8.0
+RocketRcon v2.4.8.0
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198309008539 Name: NOOO-SENPAI... Character: Сенпай Ping: 31
+PlayerID: 76561198151655003 Name: HemulGM Character: HemulGM Ping: 7
+PlayerID: 76561198147477828 Name: galbatsovmikail Character: galbatsovmikail Ping: 39
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 54
+PlayerID: 76561198080300844 Name: $.W.A.T. Character: $.W.A.T. Ping: 171
+
+TimerTerminateCommand.Enabled with Players:
+Connecting: PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337
+
+TimerTerminateCommand.Enabled with Players:
+Client has executed command "say "??????????|???????I??l|???????I??l""
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294310736
+
+END with Bans:
+[World] 7_AleX_3 [7_AleX_3]: "эксперт"
+
+[World] 7_AleX_3 [7_AleX_3]: "дай"
+
+TimerTerminateCommand.Enabled with Players:
+Client has executed command "players"
+Players:
+PlayerID: 76561198309008539 Name: NOOO-SENPAI... Character: Сенпай Ping: 31
+PlayerID: 76561198151655003 Name: HemulGM Character: HemulGM Ping: 0
+PlayerID: 76561198147477828 Name: galbatsovmikail Character: galbatsovmikail Ping: 39
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 39
+PlayerID: 76561198080300844 Name: $.W.A.T. Character: $.W.A.T. Ping: 62
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 148
+
+TimerTerminateCommand.Enabled with Players:
+[World] galbatsovmikail [galbatsovmikail]: "кстати ск те лет"
+
+TimerTerminateCommand.Enabled with Players:
+[World] 7_AleX_3 [7_AleX_3]: "я учился"
+
+TimerTerminateCommand.Enabled with Players:
+[World] HemulGM [HemulGM]: "Вышел"
+
+TimerTerminateCommand.Enabled with Players:
+[World] Expert1337 [Expert13372284200]: "идём дам ток верни"
+
+TimerTerminateCommand.Enabled with Players:
+[World] 7_AleX_3 [7_AleX_3]: "не машину"
+
+END with Players:
+TimerTerminateCommand.Enabled with Players:
+Client has executed command "players"
+Players:
+PlayerID: 76561198309008539 Name: NOOO-SENPAI... Character: Сенпай Ping: 39
+PlayerID: 76561198151655003 Name: HemulGM Character: HemulGM Ping: 7
+PlayerID: 76561198147477828 Name: galbatsovmikail Character: galbatsovmikail Ping: 70
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 39
+PlayerID: 76561198080300844 Name: $.W.A.T. Character: $.W.A.T. Ping: 62
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 156
+
+END with Players:
+TimerTerminateCommand.Enabled with Bans:
+Client has executed command "bans"
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294310697
+[World] 7_AleX_3 [7_AleX_3]: "я не влес преземлюсь"
+
+END with Bans:
+TimerTerminateCommand.Enabled with Bans:
+Client has executed command "bans"
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294310696
+

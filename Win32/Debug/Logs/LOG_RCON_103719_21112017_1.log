@@ -1,0 +1,891 @@
+RocketRcon v2.4.8.0
+
+login aVIPs22031994
+players
+Client has executed command "players"
+Players:
+PlayerID: 76561198391993267 Name: S.E.W.K.L.A. Character: S.E.W.K.L.A. Ping: 74
+PlayerID: 76561198245870076 Name: 0|TheGangstar|0 Character: Nyan Bread Ping: 85
+PlayerID: 76561198279732031 Name: Renss Character: Ёдвард Ўахтов Ping: 195
+Client has executed command "players"
+Players:
+PlayerID: 76561198391993267 Name: S.E.W.K.L.A. Character: S.E.W.K.L.A. Ping: 74
+PlayerID: 76561198245870076 Name: 0|TheGangstar|0 Character: Nyan Bread Ping: 85
+PlayerID: 76561198279732031 Name: Renss Character: Ёдвард Ўахтов Ping: 195
+Client has executed command "bans"
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 28186525
+PlayerID: 76561198336969313
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 301758
+PlayerID: 76561198212486347
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 302089
+PlayerID: 76561198391097237
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 464576
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 31066803
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 31066819
+Client has executed command "bans"
+
+END
+END
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 28186525
+PlayerID: 76561198336969313
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 301758
+PlayerID: 76561198212486347
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 302089
+PlayerID: 76561198391097237
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 464576
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 31066803
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 31066819
+
+END
+END
+[World] S.E.W.K.L.A. [S.E.W.K.L.A.]: "gjqle lkz ,nhf ufhf; ltkfnm"
+
+MessageAnnouncer >> Broadcast: Ќаберите /rules (/r) дл€ просмотра правил
+
+MessageAnnouncer >> Ќаберите /rules (/r) дл€ просмотра правил
+
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198391993267 Name: S.E.W.K.L.A. Character: S.E.W.K.L.A. Ping: 74
+PlayerID: 76561198245870076 Name: 0|TheGangstar|0 Character: Nyan Bread Ping: 85
+PlayerID: 76561198279732031 Name: Renss Character: Ёдвард Ўахтов Ping: 160
+
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 28186504
+PlayerID: 76561198336969313
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 301737
+PlayerID: 76561198212486347
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 302068
+PlayerID: 76561198391097237
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 464555
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 31066782
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 31066798
+
+END
+END
+[World] Ёдвард Ўахтов [Renss]: "/r"
+
+PrivateMessages >> Sorry, you haven't received a message!
+
+Ќе обработано: PrivateMessages >> Sorry, you haven't received a message!
+[World] S.E.W.K.L.A. [S.E.W.K.L.A.]: "пойду дл€ бтр'a гараж делать"
+
+[World] Ёдвард Ўахтов [Renss]: "/rules"
+
+[World] Nyan Bread [0|TheGangstar|0]: "ок"
+
+help
+Client has executed command "help"
+
+[World] Ёдвард Ўахтов [Renss]: "/rules 2"
+
+heal 76561198279732031
+Client has executed command "heal 76561198279732031"
+
+Ёдвард Ўахтов был исцелЄн
+
+Ќе обработано: Ёдвард Ўахтов был исцелЄн
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198391993267 Name: S.E.W.K.L.A. Character: S.E.W.K.L.A. Ping: 70
+PlayerID: 76561198245870076 Name: 0|TheGangstar|0 Character: Nyan Bread Ping: 89
+PlayerID: 76561198279732031 Name: Renss Character: Ёдвард Ўахтов Ping: 152
+
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 28186484
+PlayerID: 76561198336969313
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 301717
+PlayerID: 76561198212486347
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 302048
+PlayerID: 76561198391097237
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 464535
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 31066762
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 31066778
+
+END
+END
+[World] S.E.W.K.L.A. [S.E.W.K.L.A.]: "тебе кстати надо что нибудь"
+
+[World] Nyan Bread [0|TheGangstar|0]: "неа"
+
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198391993267 Name: S.E.W.K.L.A. Character: S.E.W.K.L.A. Ping: 74
+PlayerID: 76561198245870076 Name: 0|TheGangstar|0 Character: Nyan Bread Ping: 82
+PlayerID: 76561198279732031 Name: Renss Character: Ёдвард Ўахтов Ping: 167
+
+[World] S.E.W.K.L.A. [S.E.W.K.L.A.]: "окей"
+
+[World] Nyan Bread [0|TheGangstar|0]: "/home"
+
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 28186463
+PlayerID: 76561198336969313
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 301696
+PlayerID: 76561198212486347
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 302027
+PlayerID: 76561198391097237
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 464514
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 31066741
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 31066757
+
+END
+END
+MessageAnnouncer >> Broadcast: ƒобро пожаловать на HGM. “ут рады вам больше, чем на любом другом сервере!
+
+MessageAnnouncer >> ƒобро пожаловать на HGM. “ут рады вам больше, чем на любом другом сервере!
+
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198391993267 Name: S.E.W.K.L.A. Character: S.E.W.K.L.A. Ping: 66
+PlayerID: 76561198245870076 Name: 0|TheGangstar|0 Character: Nyan Bread Ping: 82
+PlayerID: 76561198279732031 Name: Renss Character: Ёдвард Ўахтов Ping: 148
+
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 28186444
+PlayerID: 76561198336969313
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 301677
+PlayerID: 76561198212486347
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 302008
+PlayerID: 76561198391097237
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 464495
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 31066722
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 31066738
+
+END
+END
+[World] Ёдвард Ўахтов [Renss]: "/kits"
+
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198391993267 Name: S.E.W.K.L.A. Character: S.E.W.K.L.A. Ping: 82
+PlayerID: 76561198245870076 Name: 0|TheGangstar|0 Character: Nyan Bread Ping: 89
+PlayerID: 76561198279732031 Name: Renss Character: Ёдвард Ўахтов Ping: 160
+
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 28186424
+PlayerID: 76561198336969313
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 301657
+PlayerID: 76561198212486347
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 301988
+PlayerID: 76561198391097237
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 464475
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 31066702
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 31066718
+
+END
+[World] Ёдвард Ўахтов [Renss]: "/kit start"
+
+END
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198391993267 Name: S.E.W.K.L.A. Character: S.E.W.K.L.A. Ping: 66
+PlayerID: 76561198245870076 Name: 0|TheGangstar|0 Character: Nyan Bread Ping: 89
+PlayerID: 76561198279732031 Name: Renss Character: Ёдвард Ўахтов Ping: 164
+
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 28186404
+PlayerID: 76561198336969313
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 301637
+PlayerID: 76561198212486347
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 301968
+PlayerID: 76561198391097237
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 464455
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 31066682
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 31066698
+
+END
+END
+MessageAnnouncer >> Broadcast: Ќаберите /kit start, чтобы получить стартовый набор (еда, вода, топор)
+
+MessageAnnouncer >> Ќаберите /kit start, чтобы получить стартовый набор (еда, вода, топор)
+
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198391993267 Name: S.E.W.K.L.A. Character: S.E.W.K.L.A. Ping: 74
+PlayerID: 76561198245870076 Name: 0|TheGangstar|0 Character: Nyan Bread Ping: 93
+PlayerID: 76561198279732031 Name: Renss Character: Ёдвард Ўахтов Ping: 156
+
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 28186384
+PlayerID: 76561198336969313
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 301617
+PlayerID: 76561198212486347
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 301948
+PlayerID: 76561198391097237
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 464435
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 31066662
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 31066678
+
+END
+[World] Nyan Bread [0|TheGangstar|0]: "/buy scrap 4"
+
+END
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198391993267 Name: S.E.W.K.L.A. Character: S.E.W.K.L.A. Ping: 66
+PlayerID: 76561198245870076 Name: 0|TheGangstar|0 Character: Nyan Bread Ping: 93
+PlayerID: 76561198279732031 Name: Renss Character: Ёдвард Ўахтов Ping: 167
+
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 28186364
+PlayerID: 76561198336969313
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 301597
+PlayerID: 76561198212486347
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 301928
+PlayerID: 76561198391097237
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 464415
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 31066642
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 31066658
+
+END
+END
+Client has executed command "cchat "/33/09/17/04/17/15/16 /24/05/17/05/08 4 /24. 20 /13. " 255 255 0"
+
+ServerControl >> Broadcast: јирдроп через 4 ч. 20 м.
+
+Ќе обработано: ServerControl >> Broadcast: јирдроп через 4 ч. 20 м.
+[World] Nyan Bread [0|TheGangstar|0]: "/buy scrap 8"
+
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198391993267 Name: S.E.W.K.L.A. Character: S.E.W.K.L.A. Ping: 74
+PlayerID: 76561198245870076 Name: 0|TheGangstar|0 Character: Nyan Bread Ping: 82
+PlayerID: 76561198279732031 Name: Renss Character: Ёдвард Ўахтов Ping: 136
+
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 28186344
+PlayerID: 76561198336969313
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 301577
+PlayerID: 76561198212486347
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 301908
+PlayerID: 76561198391097237
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 464395
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 31066622
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 31066638
+
+END
+END
+MessageAnnouncer >> Broadcast: ¬нимание! PvP-режим по субботам! PvP-режим!!!
+
+MessageAnnouncer >> ¬нимание! PvP-режим по субботам! PvP-режим!!!
+
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198391993267 Name: S.E.W.K.L.A. Character: S.E.W.K.L.A. Ping: 70
+PlayerID: 76561198245870076 Name: 0|TheGangstar|0 Character: Nyan Bread Ping: 85
+PlayerID: 76561198279732031 Name: Renss Character: Ёдвард Ўахтов Ping: 171
+
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 28186324
+PlayerID: 76561198336969313
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 301557
+PlayerID: 76561198212486347
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 301888
+PlayerID: 76561198391097237
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 464375
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 31066602
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 31066618
+
+END
+END
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198391993267 Name: S.E.W.K.L.A. Character: S.E.W.K.L.A. Ping: 74
+PlayerID: 76561198245870076 Name: 0|TheGangstar|0 Character: Nyan Bread Ping: 78
+PlayerID: 76561198279732031 Name: Renss Character: Ёдвард Ўахтов Ping: 152
+
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 28186304
+PlayerID: 76561198336969313
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 301537
+PlayerID: 76561198212486347
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 301868
+PlayerID: 76561198391097237
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 464355
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 31066582
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 31066598
+
+END
+END
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198391993267 Name: S.E.W.K.L.A. Character: S.E.W.K.L.A. Ping: 74
+PlayerID: 76561198245870076 Name: 0|TheGangstar|0 Character: Nyan Bread Ping: 101
+PlayerID: 76561198279732031 Name: Renss Character: Ёдвард Ўахтов Ping: 156
+
+[World] S.E.W.K.L.A. [S.E.W.K.L.A.]: ".ыудд ыфиукещщер"
+
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 28186283
+PlayerID: 76561198336969313
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 301516
+PlayerID: 76561198212486347
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 301847
+PlayerID: 76561198391097237
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 464334
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 31066561
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 31066577
+
+END
+END
+[World] S.E.W.K.L.A. [S.E.W.K.L.A.]: "/sell sabertooth"
+
+MessageAnnouncer >> Broadcast: vk.com/unturned_hgm - группа сервера ¬ , уникальный кит в записи!
+
+MessageAnnouncer >> vk.com/unturned_hgm - группа сервера ¬ , уникальный кит в записи!
+
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198391993267 Name: S.E.W.K.L.A. Character: S.E.W.K.L.A. Ping: 74
+PlayerID: 76561198245870076 Name: 0|TheGangstar|0 Character: Nyan Bread Ping: 78
+PlayerID: 76561198279732031 Name: Renss Character: Ёдвард Ўахтов Ping: 160
+
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 28186264
+PlayerID: 76561198336969313
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 301497
+PlayerID: 76561198212486347
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 301828
+PlayerID: 76561198391097237
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 464315
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 31066542
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 31066558
+
+END
+END
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198391993267 Name: S.E.W.K.L.A. Character: S.E.W.K.L.A. Ping: 74
+PlayerID: 76561198245870076 Name: 0|TheGangstar|0 Character: Nyan Bread Ping: 144
+PlayerID: 76561198279732031 Name: Renss Character: Ёдвард Ўахтов Ping: 164
+
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 28186244
+PlayerID: 76561198336969313
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 301477
+PlayerID: 76561198212486347
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 301808
+PlayerID: 76561198391097237
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 464295
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 31066522
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 31066538
+
+END
+END
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198391993267 Name: S.E.W.K.L.A. Character: S.E.W.K.L.A. Ping: 70
+PlayerID: 76561198245870076 Name: 0|TheGangstar|0 Character: Nyan Bread Ping: 89
+PlayerID: 76561198279732031 Name: Renss Character: Ёдвард Ўахтов Ping: 167
+
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 28186224
+PlayerID: 76561198336969313
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 301457
+PlayerID: 76561198212486347
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 301788
+PlayerID: 76561198391097237
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 464275
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 31066502
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 31066518
+
+END
+END
+MessageAnnouncer >> Broadcast: ѕосетите наш сайт. ¬ы будете удивлены! unturned.hemulgm.ru
+
+MessageAnnouncer >> ѕосетите наш сайт. ¬ы будете удивлены! unturned.hemulgm.ru
+
+[World] Nyan Bread [0|TheGangstar|0]: "/sell rail 9"
+
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198391993267 Name: S.E.W.K.L.A. Character: S.E.W.K.L.A. Ping: 85
+PlayerID: 76561198245870076 Name: 0|TheGangstar|0 Character: Nyan Bread Ping: 85
+PlayerID: 76561198279732031 Name: Renss Character: Ёдвард Ўахтов Ping: 152
+
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 28186204
+PlayerID: 76561198336969313
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 301437
+PlayerID: 76561198212486347
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 301768
+PlayerID: 76561198391097237
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 464255
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 31066482
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 31066498
+
+END
+END
+[World] Nyan Bread [0|TheGangstar|0]: "/buy jackhammer"
+
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198391993267 Name: S.E.W.K.L.A. Character: S.E.W.K.L.A. Ping: 74
+PlayerID: 76561198245870076 Name: 0|TheGangstar|0 Character: Nyan Bread Ping: 85
+PlayerID: 76561198279732031 Name: Renss Character: Ёдвард Ўахтов Ping: 156
+
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 28186184
+PlayerID: 76561198336969313
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 301417
+PlayerID: 76561198212486347
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 301748
+PlayerID: 76561198391097237
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 464235
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 31066462
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 31066478
+
+END
+END
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198391993267 Name: S.E.W.K.L.A. Character: S.E.W.K.L.A. Ping: 66
+PlayerID: 76561198245870076 Name: 0|TheGangstar|0 Character: Nyan Bread Ping: 93
+PlayerID: 76561198279732031 Name: Renss Character: Ёдвард Ўахтов Ping: 144
+
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 28186164
+PlayerID: 76561198336969313
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 301397
+PlayerID: 76561198212486347
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 301728
+PlayerID: 76561198391097237
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 464215
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 31066442
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 31066458
+
+END
+END
+MessageAnnouncer >> Broadcast: Ќаберите /kit help, чтобы получить первую мед. помощь (бинты, таблетки, еда)
+
+MessageAnnouncer >> Ќаберите /kit help, чтобы получить первую мед. помощь (бинты, таблетки, еда)
+
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198391993267 Name: S.E.W.K.L.A. Character: S.E.W.K.L.A. Ping: 74
+PlayerID: 76561198245870076 Name: 0|TheGangstar|0 Character: Nyan Bread Ping: 85
+PlayerID: 76561198279732031 Name: Renss Character: Ёдвард Ўахтов Ping: 148
+
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 28186144
+PlayerID: 76561198336969313
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 301377
+PlayerID: 76561198212486347
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 301708
+PlayerID: 76561198391097237
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 464195
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 31066422
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 31066438
+
+END
+END
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198391993267 Name: S.E.W.K.L.A. Character: S.E.W.K.L.A. Ping: 70
+PlayerID: 76561198245870076 Name: 0|TheGangstar|0 Character: Nyan Bread Ping: 78
+PlayerID: 76561198279732031 Name: Renss Character: Ёдвард Ўахтов Ping: 156
+
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 28186124
+PlayerID: 76561198336969313
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 301357
+PlayerID: 76561198212486347
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 301688
+PlayerID: 76561198391097237
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 464175
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 31066402
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 31066418
+
+END
+[World] S.E.W.K.L.A. [S.E.W.K.L.A.]: "/sell 1360"
+
+END
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198391993267 Name: S.E.W.K.L.A. Character: S.E.W.K.L.A. Ping: 78
+PlayerID: 76561198245870076 Name: 0|TheGangstar|0 Character: Nyan Bread Ping: 82
+PlayerID: 76561198279732031 Name: Renss Character: Ёдвард Ўахтов Ping: 148
+
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 28186104
+PlayerID: 76561198336969313
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 301337
+PlayerID: 76561198212486347
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 301668
+PlayerID: 76561198391097237
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 464155
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 31066382
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 31066398
+
+END
+END
+MessageAnnouncer >> Broadcast: vk.com/unturned_hgm - цены на премиум, VIP и другие услуги смотрите в группе!
+
+MessageAnnouncer >> vk.com/unturned_hgm - цены на премиум, VIP и другие услуги смотрите в группе!
+
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198391993267 Name: S.E.W.K.L.A. Character: S.E.W.K.L.A. Ping: 78
+PlayerID: 76561198245870076 Name: 0|TheGangstar|0 Character: Nyan Bread Ping: 85
+PlayerID: 76561198279732031 Name: Renss Character: Ёдвард Ўахтов Ping: 164
+
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 28186084
+PlayerID: 76561198336969313
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 301317
+PlayerID: 76561198212486347
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 301648
+PlayerID: 76561198391097237
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 464135
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 31066362
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 31066378
+
+END
+END
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198391993267 Name: S.E.W.K.L.A. Character: S.E.W.K.L.A. Ping: 70
+PlayerID: 76561198245870076 Name: 0|TheGangstar|0 Character: Nyan Bread Ping: 89
+PlayerID: 76561198279732031 Name: Renss Character: Ёдвард Ўахтов Ping: 160
+
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 28186064
+PlayerID: 76561198336969313
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 301297
+PlayerID: 76561198212486347
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 301628
+PlayerID: 76561198391097237
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 464115
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 31066342
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 31066358
+
+END
+END
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198391993267 Name: S.E.W.K.L.A. Character: S.E.W.K.L.A. Ping: 70
+PlayerID: 76561198245870076 Name: 0|TheGangstar|0 Character: Nyan Bread Ping: 82
+PlayerID: 76561198279732031 Name: Renss Character: Ёдвард Ўахтов Ping: 160
+
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 28186044
+PlayerID: 76561198336969313
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 301277
+PlayerID: 76561198212486347
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 301608
+PlayerID: 76561198391097237
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 464095
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 31066322
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 31066338
+
+END
+END

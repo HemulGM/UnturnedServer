@@ -1,0 +1,137 @@
+RocketRcon v2.4.8.0
+
+login aVIPs22031994
+players
+Client has executed command "players"
+Players:
+PlayerID: 76561198351213164 Name: _АхМеД_ :D Character: Виндяй Вечеслав Ping: 70
+PlayerID: 76561198366284525 Name: NikiRoC Character: Никита Калашников Ping: 54
+
+Client has executed command "bans"
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27406790
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30287068
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30287084
+PlayerID: 76561198257502095
+JudgeID: 76561198237123262
+Reason: 3600 Duration: 31536000 Remaining: 31492324
+
+END
+END
+Client has executed command "GET NOW"
+ServerControl >> VALUE NOW [0] [0] [3235]
+
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198351213164 Name: _АхМеД_ :D Character: Виндяй Вечеслав Ping: 70
+PlayerID: 76561198366284525 Name: NikiRoC Character: Никита Калашников Ping: 54
+
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27406778
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30287056
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30287072
+PlayerID: 76561198257502095
+JudgeID: 76561198237123262
+Reason: 3600 Duration: 31536000 Remaining: 31492312
+
+END
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [3242]
+
+END
+Client has executed command "GET NOW"
+
+GET NOW
+ServerControl >> VALUE NOW [0] [0] [3245]
+
+Client has executed command "GET NOW"
+ServerControl >> VALUE NOW [0] [0] [3254]
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [3255]
+
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198351213164 Name: _АхМеД_ :D Character: Виндяй Вечеслав Ping: 78
+PlayerID: 76561198366284525 Name: NikiRoC Character: Никита Калашников Ping: 54
+
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27406758
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30287036
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30287052
+PlayerID: 76561198257502095
+JudgeID: 76561198237123262
+Reason: 3600 Duration: 31536000 Remaining: 31492292
+
+END
+END
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [3264]
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [3265]
+
+GET NOW
+Client has executed command "GET NOW"
+ServerControl >> VALUE NOW [0] [0] [3275]
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [3275]
+
+MessageAnnouncer >> Broadcast: Наберите /kit start, чтобы получить стартовый набор (еда, вода, топор)
+
+MessageAnnouncer >> Наберите /kit start, чтобы получить стартовый набор (еда, вода, топор)
+
+Client has executed command "players"
+Players:
+PlayerID: 76561198351213164 Name: _АхМеД_ :D Character: Виндяй Вечеслав Ping: 70
+PlayerID: 76561198366284525 Name: NikiRoC Character: Никита Калашников Ping: 62
+
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27406738
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30287016
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30287032
+PlayerID: 76561198257502095
+JudgeID: 76561198237123262
+Reason: 3600 Duration: 31536000 Remaining: 31492272
+
+END

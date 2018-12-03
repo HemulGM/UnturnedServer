@@ -1,0 +1,11 @@
+26.06.2017 9:49:17: ClientSocketLookup
+26.06.2017 9:49:17: ClientSocketConnecting
+26.06.2017 9:49:18: ClientSocketConnect
+26.06.2017 9:49:18: ClientSocketWrite
+27.06.2017 8:30:47: ClientSocketError eeReceive
+27.06.2017 8:30:47: ClientSocketDisconnect
+27.06.2017 8:30:47: ClientSocketError Соединение прервано
+27.06.2017 8:38:23: ClientSocketLookup
+27.06.2017 8:38:24: ClientSocketConnecting
+27.06.2017 8:38:24: ClientSocketConnect
+27.06.2017 8:38:24: ClientSocketWrite

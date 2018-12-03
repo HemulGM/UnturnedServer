@@ -1,0 +1,104 @@
+RocketRcon v2.4.8.0
+
+login aVIPs22031994
+players
+Client has executed command "players"
+Players:
+PlayerID: 76561198301131571 Name: PogChamp Character: Тише Будь! Ping: 141
+PlayerID: 76561198360077099 Name: BJIOXA Character: BJIOXA Ping: 86
+PlayerID: 76561198242496136 Name: _Official_Group_GameGuardian_ Character: mer_1560 Ping: 44
+PlayerID: 76561198190664649 Name: Енот Ракета Character: Foxy Ping: 65
+PlayerID: 76561198245870076 Name: 0|TheGangstar|0 Character: Nyan Bread Ping: 86
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 181
+Client has executed command "bans"
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 28169934
+PlayerID: 76561198336969313
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 285167
+PlayerID: 76561198212486347
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 285498
+PlayerID: 76561198391097237
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 447985
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 31050212
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 31050228
+Client has executed command "bans"
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 28169934
+PlayerID: 76561198336969313
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 285167
+PlayerID: 76561198212486347
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 285498
+PlayerID: 76561198391097237
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 447985
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 31050212
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 31050228
+
+END
+END
+[World] Nyan Bread [0|TheGangstar|0]: "внутри"
+
+[World] Nyan Bread [0|TheGangstar|0]: "лол"
+
+[World] Nyan Bread [0|TheGangstar|0]: "я там"
+
+END
+[World] Nyan Bread [0|TheGangstar|0]: "/buy mre"
+
+[World] BJIOXA [BJIOXA]: "/cost 1132"
+
+[World] Foxy [Енот Ракета]: "/tpa Nyan Bread"
+
+Client has executed command "players"
+Players:
+PlayerID: 76561198301131571 Name: PogChamp Character: Тише Будь! Ping: 147
+PlayerID: 76561198360077099 Name: BJIOXA Character: BJIOXA Ping: 69
+PlayerID: 76561198242496136 Name: _Official_Group_GameGuardian_ Character: mer_1560 Ping: 35
+PlayerID: 76561198190664649 Name: Енот Ракета Character: Foxy Ping: 68
+PlayerID: 76561198245870076 Name: 0|TheGangstar|0 Character: Nyan Bread Ping: 78
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 180
+
+Client has executed command "bans"
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 28169913
+PlayerID: 76561198336969313
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 285146
+PlayerID: 76561198212486347
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 285477
+PlayerID: 76561198391097237
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 447964
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 31050191
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 31050207
+
+END
+END
+[World] BJIOXA [BJIOXA]: "/buy 1132"
+
+[World] Nyan Bread [0|TheGangstar|0]: "а если я буду из деревянных сундуков патроны воровать, это рейд?"
+

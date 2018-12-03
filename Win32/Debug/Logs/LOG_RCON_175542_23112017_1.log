@@ -1,0 +1,81 @@
+RocketRcon v2.4.8.0
+
+login aVIPs22031994
+players
+Client has executed command "players"
+Players:
+PlayerID: 76561198424120093 Name: Knockout1Demscouts Character: Knockout1Demscouts Ping: 193
+PlayerID: 76561198245870076 Name: 0|TheGangstar|0 Character: Nyan Bread Ping: 85
+PlayerID: 76561198135660540 Name: CelestialReaper Character: CelestialReaper Ping: 197
+PlayerID: 76561198421850220 Name: засранец женских туалетов Character: Bogdan_Granata Ping: 66
+PlayerID: 76561198408019916 Name: slava.fan555 Character: Славик Cухоруков Ping: 85
+
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27987432
+PlayerID: 76561198336969313
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 102665
+PlayerID: 76561198212486347
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 102996
+PlayerID: 76561198391097237
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 265483
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30867710
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30867726
+
+END
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [937]
+
+END
+Broadcast: [ZOMBIE] Knockout1Demscouts был съеден зомби! 
+
+Не обработано: Broadcast: [ZOMBIE] Knockout1Demscouts был съеден зомби! 
+Knockout1Demscouts [Knockout1Demscouts] was mauled by a zombie!
+
+Не обработано: Knockout1Demscouts [Knockout1Demscouts] was mauled by a zombie!
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198424120093 Name: Knockout1Demscouts Character: Knockout1Demscouts Ping: 205
+PlayerID: 76561198245870076 Name: 0|TheGangstar|0 Character: Nyan Bread Ping: 91
+PlayerID: 76561198135660540 Name: CelestialReaper Character: CelestialReaper Ping: 197
+PlayerID: 76561198421850220 Name: засранец женских туалетов Character: Bogdan_Granata Ping: 58
+PlayerID: 76561198408019916 Name: slava.fan555 Character: Славик Cухоруков Ping: 93
+
+Knockout1Demscouts moved x:808.1655 y:60.1353(+21.32343) z:552.5236 in the last second (0.7379189)
+
+Не обработано: Knockout1Demscouts moved x:808.1655 y:60.1353(+21.32343) z:552.5236 in the last second (0.7379189)
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27987421
+PlayerID: 76561198336969313
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 102654
+PlayerID: 76561198212486347
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 102985
+PlayerID: 76561198391097237
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 265472
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30867699
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30867715
+
+END

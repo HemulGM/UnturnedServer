@@ -1,0 +1,4572 @@
+RocketRcon v2.4.8.0
+
+login aVIPs22031994
+players
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198242496136 Name: _Official_Group_GameGuardian_ Character: mer_1560 Ping: 31
+PlayerID: 76561198315561906 Name: MaXiMuS Character: MaXiMuS Ping: 46
+PlayerID: 76561198407087458 Name: -_-Paer-_- Character: Паша Полянцев Ping: 23
+PlayerID: 76561198352329817 Name: X_RaY Character: Учиха_Саске Ping: 187
+PlayerID: 76561198131227088 Name: нет друзей Character: нет друзей Ping: 93
+PlayerID: 76561198421469222 Name: cvan71 Character: Андрей Ping: 85
+PlayerID: 76561198114302725 Name: пуля Character: пуля Ping: 109
+PlayerID: 76561198366284525 Name: NikiRoC Character: Никита Калашников Ping: 62
+[Group] MaXiMuS [MaXiMuS]: "неважно"
+
+END
+bans
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27386336
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30266614
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30266630
+PlayerID: 76561198257502095
+JudgeID: 76561198237123262
+Reason: 3600 Duration: 31536000 Remaining: 31471870
+
+MessageAnnouncer >> Broadcast: vk.com/unturned_hgm - группа сервера ВК, уникальный кит в записи!
+
+MessageAnnouncer >> vk.com/unturned_hgm - группа сервера ВК, уникальный кит в записи!
+
+END
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [2091]
+
+players
+GET NOW
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198242496136 Name: _Official_Group_GameGuardian_ Character: mer_1560 Ping: 39
+PlayerID: 76561198315561906 Name: MaXiMuS Character: MaXiMuS Ping: 46
+PlayerID: 76561198407087458 Name: -_-Paer-_- Character: Паша Полянцев Ping: 15
+PlayerID: 76561198352329817 Name: X_RaY Character: Учиха_Саске Ping: 195
+PlayerID: 76561198131227088 Name: нет друзей Character: нет друзей Ping: 101
+PlayerID: 76561198421469222 Name: cvan71 Character: Андрей Ping: 39
+PlayerID: 76561198114302725 Name: пуля Character: пуля Ping: 78
+PlayerID: 76561198366284525 Name: NikiRoC Character: Никита Калашников Ping: 62
+Client has executed command "GET NOW"
+ServerControl >> VALUE NOW [1] [0] [2102]
+
+cchat "/33/04/13/09/14: /38/26/06 /00/09/17 /14/14/00/04?" 255 0 0
+Client has executed command "cchat "/33/04/13/09/14: /38/26/06 /00/09/17 /14/14/00/04?" 255 0 0"
+ServerControl >> Broadcast: Админ: Ещё аир ннад?
+
+Не обработано: ServerControl >> Broadcast: Админ: Ещё аир ннад?
+END
+bans
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27386314
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30266592
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30266608
+PlayerID: 76561198257502095
+JudgeID: 76561198237123262
+Reason: 3600 Duration: 31536000 Remaining: 31471848
+
+END
+[World] mer_1560 [_Official_Group_GameGuardian_]: "даааа"
+
+[World] Андрей [cvan71]: "да"
+
+[World] MaXiMuS [MaXiMuS]: "даа"
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [2112]
+
+[World] mer_1560 [_Official_Group_GameGuardian_]: "жди"
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [2122]
+
+players
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198242496136 Name: _Official_Group_GameGuardian_ Character: mer_1560 Ping: 31
+PlayerID: 76561198315561906 Name: MaXiMuS Character: MaXiMuS Ping: 54
+PlayerID: 76561198407087458 Name: -_-Paer-_- Character: Паша Полянцев Ping: 0
+PlayerID: 76561198352329817 Name: X_RaY Character: Учиха_Саске Ping: 210
+PlayerID: 76561198131227088 Name: нет друзей Character: нет друзей Ping: 85
+PlayerID: 76561198421469222 Name: cvan71 Character: Андрей Ping: 62
+PlayerID: 76561198114302725 Name: пуля Character: пуля Ping: 93
+PlayerID: 76561198366284525 Name: NikiRoC Character: Никита Калашников Ping: 62
+
+[Group] MaXiMuS [MaXiMuS]: "может я домой?"
+
+END
+bans
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27386292
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30266570
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30266586
+PlayerID: 76561198257502095
+JudgeID: 76561198237123262
+Reason: 3600 Duration: 31536000 Remaining: 31471826
+
+cchat "/33/04/13/09/14: /34/15/12/29/25/15/06 / /13/00/12/05/14/29/11/09/10?" 255 0 0
+Client has executed command "cchat "/33/04/13/09/14: /34/15/12/29/25/15/06 / /13/00/12/05/14/29/11/09/10?" 255 0 0"
+
+ServerControl >> Broadcast: Админ: Большоё / маленький?
+
+Не обработано: ServerControl >> Broadcast: Админ: Большоё / маленький?
+END
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [2132]
+
+[World] MaXiMuS [MaXiMuS]: "большой"
+
+[World] Андрей [cvan71]: "большое"
+
+EventProcMassAirdrop
+airdrop
+airdrop
+airdrop
+airdrop
+airdrop
+airdrop
+airdrop
+airdrop
+airdrop
+airdrop
+Client has executed command "airdrop"
+Successfully set airdrop!
+[World] mer_1560 [_Official_Group_GameGuardian_]: "большой"
+Client has executed command "airdrop"
+Successfully set airdrop!
+
+Client has executed command "airdrop"
+
+Successfully set airdrop!
+
+Client has executed command "airdrop"
+Successfully set airdrop!
+
+Client has executed command "airdrop"
+
+Successfully set airdrop!
+
+Client has executed command "airdrop"
+Successfully set airdrop!
+
+Client has executed command "airdrop"
+
+Successfully set airdrop!
+
+Client has executed command "airdrop"
+Successfully set airdrop!
+
+Client has executed command "airdrop"
+
+Successfully set airdrop!
+
+Client has executed command "airdrop"
+Successfully set airdrop!
+
+GET NOW
+Client has executed command "GET NOW"
+
+cchat "/33/04/13/09/14: /47/20 /15/11" 255 0 0
+ServerControl >> VALUE NOW [1] [0] [2142]
+
+Client has executed command "cchat "/33/04/13/09/14: /47/20 /15/11" 255 0 0"
+
+ServerControl >> Broadcast: Админ: Ну ок
+
+Не обработано: ServerControl >> Broadcast: Админ: Ну ок
+players
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198242496136 Name: _Official_Group_GameGuardian_ Character: mer_1560 Ping: 31
+PlayerID: 76561198315561906 Name: MaXiMuS Character: MaXiMuS Ping: 46
+PlayerID: 76561198407087458 Name: -_-Paer-_- Character: Паша Полянцев Ping: 7
+PlayerID: 76561198352329817 Name: X_RaY Character: Учиха_Саске Ping: 195
+PlayerID: 76561198131227088 Name: нет друзей Character: нет друзей Ping: 93
+PlayerID: 76561198421469222 Name: cvan71 Character: Андрей Ping: 164
+PlayerID: 76561198114302725 Name: пуля Character: пуля Ping: 85
+PlayerID: 76561198366284525 Name: NikiRoC Character: Никита Калашников Ping: 62
+MessageAnnouncer >> Broadcast: Посетите наш сайт. Вы будете удивлены! unturned.hemulgm.ru
+MessageAnnouncer >> Посетите наш сайт. Вы будете удивлены! unturned.hemulgm.ru
+
+END
+bans
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27386272
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30266550
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30266566
+PlayerID: 76561198257502095
+JudgeID: 76561198237123262
+Reason: 3600 Duration: 31536000 Remaining: 31471806
+
+[World] MaXiMuS [MaXiMuS]: "еей"
+
+END
+[World] Андрей [cvan71]: "ооо"
+
+[World] Андрей [cvan71]: "ееей"
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [2152]
+
+[World] Андрей [cvan71]: "ура"
+
+[World] Андрей [cvan71]: "спасибоо"
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [2162]
+
+[World] Андрей [cvan71]: "xD"
+
+players
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198242496136 Name: _Official_Group_GameGuardian_ Character: mer_1560 Ping: 39
+PlayerID: 76561198315561906 Name: MaXiMuS Character: MaXiMuS Ping: 54
+PlayerID: 76561198407087458 Name: -_-Paer-_- Character: Паша Полянцев Ping: 23
+PlayerID: 76561198352329817 Name: X_RaY Character: Учиха_Саске Ping: 218
+PlayerID: 76561198131227088 Name: нет друзей Character: нет друзей Ping: 93
+PlayerID: 76561198421469222 Name: cvan71 Character: Андрей Ping: 62
+PlayerID: 76561198114302725 Name: пуля Character: пуля Ping: 101
+PlayerID: 76561198366284525 Name: NikiRoC Character: Никита Калашников Ping: 62
+
+END
+bans
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27386251
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30266529
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30266545
+PlayerID: 76561198257502095
+JudgeID: 76561198237123262
+Reason: 3600 Duration: 31536000 Remaining: 31471785
+
+END
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [2172]
+
+DeathMessagesRemastered >> Broadcast: Паша Полянцев совершил суицид!
+
+Паша Полянцев [-_-Paer-_-] killed themself.
+
+Не обработано: Паша Полянцев [-_-Paer-_-] killed themself.
+cchat "/36/05/14/14/00/04/09/10 /46/00/12/09/14/09/14: /37/00 /14/05 /08/00 /24/19/15)" 255 176 38
+Client has executed command "cchat "/36/05/14/14/00/04/09/10 /46/00/12/09/14/09/14: /37/00 /14/05 /08/00 /24/19/15)" 255 176 38"
+
+ServerControl >> Broadcast: Геннадий Малинин: Да не за что)
+
+Не обработано: ServerControl >> Broadcast: Геннадий Малинин: Да не за что)
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [2182]
+
+Disconnecting: PlayerID: 76561198366284525 Name: NikiRoC Character: Никита Калашников
+
+players
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198242496136 Name: _Official_Group_GameGuardian_ Character: mer_1560 Ping: 31
+PlayerID: 76561198315561906 Name: MaXiMuS Character: MaXiMuS Ping: 62
+PlayerID: 76561198407087458 Name: -_-Paer-_- Character: Паша Полянцев Ping: 23
+PlayerID: 76561198352329817 Name: X_RaY Character: Учиха_Саске Ping: 218
+PlayerID: 76561198131227088 Name: нет друзей Character: нет друзей Ping: 109
+PlayerID: 76561198421469222 Name: cvan71 Character: Андрей Ping: 78
+PlayerID: 76561198114302725 Name: пуля Character: пуля Ping: 242
+Disconnecting: PlayerID: 76561198114302725 Name: пуля Character: пуля
+
+[World] Паша Полянцев [-_-Paer-_-]: "/tpa учиха"
+
+END
+bans
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27386229
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30266507
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30266523
+PlayerID: 76561198257502095
+JudgeID: 76561198237123262
+Reason: 3600 Duration: 31536000 Remaining: 31471763
+
+END
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [2192]
+
+[World] Учиха_Саске [X_RaY]: "/tpa a"
+
+Паша Полянцев moved x:858.4456 y:92.63718(+54.15987) z:923.2939 in the last second (0.09999847)
+
+Не обработано: Паша Полянцев moved x:858.4456 y:92.63718(+54.15987) z:923.2939 in the last second (0.09999847)
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [2202]
+
+Connecting: PlayerID: 76561198366284525 Name: NikiRoC Character: Никита Калашников
+
+Никита Калашников connected with IP 46.98.75.145
+
+[World] mer_1560 [_Official_Group_GameGuardian_]: "ролд го за мной"
+
+MessageAnnouncer >> Broadcast: Наберите /kit help, чтобы получить первую мед. помощь (бинты, таблетки, еда)
+
+MessageAnnouncer >> Наберите /kit help, чтобы получить первую мед. помощь (бинты, таблетки, еда)
+
+players
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198242496136 Name: _Official_Group_GameGuardian_ Character: mer_1560 Ping: 39
+PlayerID: 76561198315561906 Name: MaXiMuS Character: MaXiMuS Ping: 54
+PlayerID: 76561198407087458 Name: -_-Paer-_- Character: Паша Полянцев Ping: 7
+PlayerID: 76561198352329817 Name: X_RaY Character: Учиха_Саске Ping: 203
+PlayerID: 76561198131227088 Name: нет друзей Character: нет друзей Ping: 117
+PlayerID: 76561198421469222 Name: cvan71 Character: Андрей Ping: 70
+PlayerID: 76561198366284525 Name: NikiRoC Character: Никита Калашников Ping: 218
+
+END
+bans
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27386210
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30266488
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30266504
+PlayerID: 76561198257502095
+JudgeID: 76561198237123262
+Reason: 3600 Duration: 31536000 Remaining: 31471744
+
+END
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [2212]
+
+[World] mer_1560 [_Official_Group_GameGuardian_]: "ну"
+
+[Group] MaXiMuS [MaXiMuS]: "но аирдропФ!"
+
+DeathMessagesRemastered >> Broadcast: Учиха_Саске совершил суицид!
+
+Учиха_Саске [X_RaY] killed themself.
+
+Не обработано: Учиха_Саске [X_RaY] killed themself.
+[Group] MaXiMuS [MaXiMuS]: "на право"
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [2222]
+
+[World] mer_1560 [_Official_Group_GameGuardian_]: "ага"
+
+[Group] MaXiMuS [MaXiMuS]: "да"
+
+[Group] MaXiMuS [MaXiMuS]: "там на острове"
+
+players
+Client has executed command "players"
+Players:
+PlayerID: 76561198242496136 Name: _Official_Group_GameGuardian_ Character: mer_1560 Ping: 31
+PlayerID: 76561198315561906 Name: MaXiMuS Character: MaXiMuS Ping: 46
+PlayerID: 76561198407087458 Name: -_-Paer-_- Character: Паша Полянцев Ping: 15
+PlayerID: 76561198352329817 Name: X_RaY Character: Учиха_Саске Ping: 179
+PlayerID: 76561198131227088 Name: нет друзей Character: нет друзей Ping: 85
+PlayerID: 76561198421469222 Name: cvan71 Character: Андрей Ping: 46
+PlayerID: 76561198366284525 Name: NikiRoC Character: Никита Калашников Ping: 54
+
+GET NOW
+[World] Андрей [cvan71]: "/buy 1806"
+
+Client has executed command "GET NOW"
+ServerControl >> VALUE NOW [1] [0] [2233]
+
+[World] mer_1560 [_Official_Group_GameGuardian_]: "ты веди"
+
+[World] Учиха_Саске [X_RaY]: "/home"
+
+Учиха_Саске moved x:863.8121 y:93.23718(+65.43972) z:922.5371 in the last second (0.2379227)
+
+Не обработано: Учиха_Саске moved x:863.8121 y:93.23718(+65.43972) z:922.5371 in the last second (0.2379227)
+END
+bans
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27386183
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30266461
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30266477
+PlayerID: 76561198257502095
+JudgeID: 76561198237123262
+Reason: 3600 Duration: 31536000 Remaining: 31471717
+
+END
+[World] Андрей [cvan71]: "/balance"
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [2243]
+
+players
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198242496136 Name: _Official_Group_GameGuardian_ Character: mer_1560 Ping: 31
+PlayerID: 76561198315561906 Name: MaXiMuS Character: MaXiMuS Ping: 39
+PlayerID: 76561198407087458 Name: -_-Paer-_- Character: Паша Полянцев Ping: 15
+PlayerID: 76561198352329817 Name: X_RaY Character: Учиха_Саске Ping: 187
+PlayerID: 76561198131227088 Name: нет друзей Character: нет друзей Ping: 85
+PlayerID: 76561198421469222 Name: cvan71 Character: Андрей Ping: 46
+PlayerID: 76561198366284525 Name: NikiRoC Character: Никита Калашников Ping: 62
+Connecting: PlayerID: 76561198114302725 Name: пуля Character: пуля
+пуля connected with IP 2.61.58.195
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [2254]
+
+END
+bans
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27386163
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30266441
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30266457
+PlayerID: 76561198257502095
+JudgeID: 76561198237123262
+Reason: 3600 Duration: 31536000 Remaining: 31471697
+
+[World] mer_1560 [_Official_Group_GameGuardian_]: "терь я"
+
+END
+[World] mer_1560 [_Official_Group_GameGuardian_]: "веду"
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [2264]
+
+MessageAnnouncer >> Broadcast: vk.com/unturned_hgm - цены на премиум, VIP и другие услуги смотрите в группе!
+
+MessageAnnouncer >> vk.com/unturned_hgm - цены на премиум, VIP и другие услуги смотрите в группе!
+
+[World] Андрей [cvan71]: "я первый залутал"
+
+[Group] MaXiMuS [MaXiMuS]: "го"
+
+players
+GET NOW
+Client has executed command "players"
+Players:
+PlayerID: 76561198242496136 Name: _Official_Group_GameGuardian_ Character: mer_1560 Ping: 31
+PlayerID: 76561198315561906 Name: MaXiMuS Character: MaXiMuS Ping: 31
+PlayerID: 76561198407087458 Name: -_-Paer-_- Character: Паша Полянцев Ping: 23
+PlayerID: 76561198352329817 Name: X_RaY Character: Учиха_Саске Ping: 218
+PlayerID: 76561198131227088 Name: нет друзей Character: нет друзей Ping: 93
+PlayerID: 76561198421469222 Name: cvan71 Character: Андрей Ping: 54
+PlayerID: 76561198366284525 Name: NikiRoC Character: Никита Калашников Ping: 62
+PlayerID: 76561198114302725 Name: пуля Character: пуля Ping: 179
+Client has executed command "GET NOW"
+ServerControl >> VALUE NOW [1] [0] [2274]
+
+END
+bans
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27386142
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30266420
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30266436
+PlayerID: 76561198257502095
+JudgeID: 76561198237123262
+Reason: 3600 Duration: 31536000 Remaining: 31471676
+
+[World] Андрей [cvan71]: "о 2ппш"
+
+END
+Disconnecting: PlayerID: 76561198114302725 Name: пуля Character: пуля
+
+GET NOW
+Client has executed command "GET NOW"
+ServerControl >> VALUE NOW [1] [0] [2286]
+
+[World] Андрей [cvan71]: "/sell callin"
+
+players
+GET NOW
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198242496136 Name: _Official_Group_GameGuardian_ Character: mer_1560 Ping: 31
+PlayerID: 76561198315561906 Name: MaXiMuS Character: MaXiMuS Ping: 46
+PlayerID: 76561198407087458 Name: -_-Paer-_- Character: Паша Полянцев Ping: 0
+PlayerID: 76561198352329817 Name: X_RaY Character: Учиха_Саске Ping: 312
+PlayerID: 76561198131227088 Name: нет друзей Character: нет друзей Ping: 93
+PlayerID: 76561198421469222 Name: cvan71 Character: Андрей Ping: 39
+PlayerID: 76561198366284525 Name: NikiRoC Character: Никита Калашников Ping: 62
+Client has executed command "GET NOW"
+ServerControl >> VALUE NOW [1] [0] [2296]
+
+END
+bans
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27386120
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30266398
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30266414
+PlayerID: 76561198257502095
+JudgeID: 76561198237123262
+Reason: 3600 Duration: 31536000 Remaining: 31471654
+
+END
+[World] Андрей [cvan71]: "/buy 1806"
+
+[World] Андрей [cvan71]: "/home"
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [1] [2307]
+
+Андрей moved x:-126.7607 y:75.67115(+36.59883) z:353.9553 in the last second (0.279007)
+
+Не обработано: Андрей moved x:-126.7607 y:75.67115(+36.59883) z:353.9553 in the last second (0.279007)
+[World] mer_1560 [_Official_Group_GameGuardian_]: "ооооо"
+
+players
+GET NOW
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198242496136 Name: _Official_Group_GameGuardian_ Character: mer_1560 Ping: 23
+PlayerID: 76561198315561906 Name: MaXiMuS Character: MaXiMuS Ping: 39
+PlayerID: 76561198407087458 Name: -_-Paer-_- Character: Паша Полянцев Ping: 7
+PlayerID: 76561198352329817 Name: X_RaY Character: Учиха_Саске Ping: 203
+PlayerID: 76561198131227088 Name: нет друзей Character: нет друзей Ping: 93
+PlayerID: 76561198421469222 Name: cvan71 Character: Андрей Ping: 62
+PlayerID: 76561198366284525 Name: NikiRoC Character: Никита Калашников Ping: 70
+Client has executed command "GET NOW"
+ServerControl >> VALUE NOW [0] [1] [2317]
+
+END
+bans
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27386099
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30266377
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30266393
+PlayerID: 76561198257502095
+JudgeID: 76561198237123262
+Reason: 3600 Duration: 31536000 Remaining: 31471633
+
+END
+MessageAnnouncer >> Broadcast: Наберите /kit claim, чтобы получить Claim Flag
+
+MessageAnnouncer >> Наберите /kit claim, чтобы получить Claim Flag
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [1] [2329]
+
+[World] Андрей [cvan71]: "yf,jh d nfrcb"
+
+[World] Андрей [cvan71]: "набор в такси"
+
+players
+GET NOW
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198242496136 Name: _Official_Group_GameGuardian_ Character: mer_1560 Ping: 31
+PlayerID: 76561198315561906 Name: MaXiMuS Character: MaXiMuS Ping: 46
+PlayerID: 76561198407087458 Name: -_-Paer-_- Character: Паша Полянцев Ping: 23
+PlayerID: 76561198352329817 Name: X_RaY Character: Учиха_Саске Ping: 210
+PlayerID: 76561198131227088 Name: нет друзей Character: нет друзей Ping: 117
+PlayerID: 76561198421469222 Name: cvan71 Character: Андрей Ping: 62
+PlayerID: 76561198366284525 Name: NikiRoC Character: Никита Калашников Ping: 54
+Client has executed command "GET NOW"
+ServerControl >> VALUE NOW [0] [1] [2339]
+
+Connecting: PlayerID: 76561198114302725 Name: пуля Character: пуля
+
+пуля connected with IP 2.61.58.195
+
+END
+bans
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27386078
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30266356
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30266372
+PlayerID: 76561198257502095
+JudgeID: 76561198237123262
+Reason: 3600 Duration: 31536000 Remaining: 31471612
+
+Broadcast: [ZOMBIE] пуля был съеден зомби! 
+
+Не обработано: Broadcast: [ZOMBIE] пуля был съеден зомби! 
+пуля [пуля] was mauled by a zombie!
+
+Не обработано: пуля [пуля] was mauled by a zombie!
+END
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [1] [2349]
+
+[World] Андрей [cvan71]: "/sell devil"
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [1] [2359]
+
+players
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198242496136 Name: _Official_Group_GameGuardian_ Character: mer_1560 Ping: 31
+PlayerID: 76561198315561906 Name: MaXiMuS Character: MaXiMuS Ping: 39
+PlayerID: 76561198407087458 Name: -_-Paer-_- Character: Паша Полянцев Ping: 15
+PlayerID: 76561198352329817 Name: X_RaY Character: Учиха_Саске Ping: 195
+PlayerID: 76561198131227088 Name: нет друзей Character: нет друзей Ping: 85
+PlayerID: 76561198421469222 Name: cvan71 Character: Андрей Ping: 62
+PlayerID: 76561198366284525 Name: NikiRoC Character: Никита Калашников Ping: 46
+PlayerID: 76561198114302725 Name: пуля Character: пуля Ping: 85
+
+END
+bans
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27386057
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30266335
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30266351
+PlayerID: 76561198257502095
+JudgeID: 76561198237123262
+Reason: 3600 Duration: 31536000 Remaining: 31471591
+
+END
+[World] Андрей [cvan71]: "/sell tek"
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [1] [2369]
+
+[World] mer_1560 [_Official_Group_GameGuardian_]: "клади в ящики"
+
+[World] Андрей [cvan71]: "/buy 1806"
+
+[World] mer_1560 [_Official_Group_GameGuardian_]: "то что не вместилось"
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [1] [2379]
+
+players
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198242496136 Name: _Official_Group_GameGuardian_ Character: mer_1560 Ping: 31
+PlayerID: 76561198315561906 Name: MaXiMuS Character: MaXiMuS Ping: 39
+PlayerID: 76561198407087458 Name: -_-Paer-_- Character: Паша Полянцев Ping: 23
+PlayerID: 76561198352329817 Name: X_RaY Character: Учиха_Саске Ping: 203
+PlayerID: 76561198131227088 Name: нет друзей Character: нет друзей Ping: 78
+PlayerID: 76561198421469222 Name: cvan71 Character: Андрей Ping: 62
+PlayerID: 76561198366284525 Name: NikiRoC Character: Никита Калашников Ping: 62
+PlayerID: 76561198114302725 Name: пуля Character: пуля Ping: 78
+
+END
+bans
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27386036
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30266314
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30266330
+PlayerID: 76561198257502095
+JudgeID: 76561198237123262
+Reason: 3600 Duration: 31536000 Remaining: 31471570
+
+MessageAnnouncer >> Broadcast: Если модератор ведёт себя неподобающе, пишите в группу или ЛС (vk.com/unturned_hgm, vk.com/hemulgm)
+
+MessageAnnouncer >> Если модератор ведёт себя неподобающе, пишите в группу или ЛС (vk.com/unturned_hgm, vk.com/hemulgm)
+
+[World] Андрей [cvan71]: "/sell 16"
+
+END
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [1] [2389]
+
+[World] Андрей [cvan71]: "/sell bul"
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [1] [2399]
+
+[World] пуля [пуля]: "/tpa нет друзей"
+
+[World] Андрей [cvan71]: "/sell buldog"
+
+players
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198242496136 Name: _Official_Group_GameGuardian_ Character: mer_1560 Ping: 31
+PlayerID: 76561198315561906 Name: MaXiMuS Character: MaXiMuS Ping: 39
+PlayerID: 76561198407087458 Name: -_-Paer-_- Character: Паша Полянцев Ping: 7
+PlayerID: 76561198352329817 Name: X_RaY Character: Учиха_Саске Ping: 195
+PlayerID: 76561198131227088 Name: нет друзей Character: нет друзей Ping: 101
+PlayerID: 76561198421469222 Name: cvan71 Character: Андрей Ping: 54
+PlayerID: 76561198366284525 Name: NikiRoC Character: Никита Калашников Ping: 62
+PlayerID: 76561198114302725 Name: пуля Character: пуля Ping: 78
+
+END
+bans
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27386014
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30266292
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30266308
+PlayerID: 76561198257502095
+JudgeID: 76561198237123262
+Reason: 3600 Duration: 31536000 Remaining: 31471548
+
+END
+[World] Андрей [cvan71]: "/sell bulldo"
+
+[Area] MaXiMuS [MaXiMuS]: "у меня еще норм места"
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [1] [2409]
+
+[World] нет друзей [нет друзей]: "/tpa accept"
+
+пуля moved x:-832.9932 y:87.13731(+33.24656) z:-436.5318 in the last second (0.6233902)
+
+Не обработано: пуля moved x:-832.9932 y:87.13731(+33.24656) z:-436.5318 in the last second (0.6233902)
+[World] Андрей [cvan71]: "/sell luger"
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [1] [2419]
+
+[Group] MaXiMuS [MaXiMuS]: "я в карман автомат положил)"
+
+[World] Андрей [cvan71]: "/buy 1806"
+
+players
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198242496136 Name: _Official_Group_GameGuardian_ Character: mer_1560 Ping: 31
+PlayerID: 76561198315561906 Name: MaXiMuS Character: MaXiMuS Ping: 39
+PlayerID: 76561198407087458 Name: -_-Paer-_- Character: Паша Полянцев Ping: 23
+PlayerID: 76561198352329817 Name: X_RaY Character: Учиха_Саске Ping: 210
+PlayerID: 76561198131227088 Name: нет друзей Character: нет друзей Ping: 78
+PlayerID: 76561198421469222 Name: cvan71 Character: Андрей Ping: 54
+PlayerID: 76561198366284525 Name: NikiRoC Character: Никита Калашников Ping: 54
+PlayerID: 76561198114302725 Name: пуля Character: пуля Ping: 78
+
+END
+bans
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27385993
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30266271
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30266287
+PlayerID: 76561198257502095
+JudgeID: 76561198237123262
+Reason: 3600 Duration: 31536000 Remaining: 31471527
+
+[World] mer_1560 [_Official_Group_GameGuardian_]: "у нас емпаир ечсть?"
+
+END
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [1] [2431]
+
+[Group] MaXiMuS [MaXiMuS]: "у меня да"
+
+[World] mer_1560 [_Official_Group_GameGuardian_]: "го"
+
+[World] Паша Полянцев [-_-Paer-_-]: "/home"
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [1] [2442]
+
+MessageAnnouncer >> Broadcast: Посетите наш сайт. Вы будете удивлены! unturned.hemulgm.ru
+
+MessageAnnouncer >> Посетите наш сайт. Вы будете удивлены! unturned.hemulgm.ru
+
+players
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198242496136 Name: _Official_Group_GameGuardian_ Character: mer_1560 Ping: 31
+PlayerID: 76561198315561906 Name: MaXiMuS Character: MaXiMuS Ping: 39
+PlayerID: 76561198407087458 Name: -_-Paer-_- Character: Паша Полянцев Ping: 23
+PlayerID: 76561198352329817 Name: X_RaY Character: Учиха_Саске Ping: 195
+PlayerID: 76561198131227088 Name: нет друзей Character: нет друзей Ping: 101
+PlayerID: 76561198421469222 Name: cvan71 Character: Андрей Ping: 70
+PlayerID: 76561198366284525 Name: NikiRoC Character: Никита Калашников Ping: 54
+PlayerID: 76561198114302725 Name: пуля Character: пуля Ping: 85
+
+END
+bans
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27385973
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30266251
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30266267
+PlayerID: 76561198257502095
+JudgeID: 76561198237123262
+Reason: 3600 Duration: 31536000 Remaining: 31471507
+
+END
+[World] пуля [пуля]: "/kill"
+
+[World] Андрей [cvan71]: "/sell 490"
+
+[Group] MaXiMuS [MaXiMuS]: "веди"
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [1] [2452]
+
+[Group] MaXiMuS [MaXiMuS]: "а клади"
+
+[World] пуля [пуля]: "/respawn"
+
+[World] Андрей [cvan71]: "/sell grena"
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [1] [2462]
+
+[World] mer_1560 [_Official_Group_GameGuardian_]: "где еще упало?"
+
+players
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198242496136 Name: _Official_Group_GameGuardian_ Character: mer_1560 Ping: 23
+PlayerID: 76561198315561906 Name: MaXiMuS Character: MaXiMuS Ping: 46
+PlayerID: 76561198407087458 Name: -_-Paer-_- Character: Паша Полянцев Ping: 7
+PlayerID: 76561198352329817 Name: X_RaY Character: Учиха_Саске Ping: 218
+PlayerID: 76561198131227088 Name: нет друзей Character: нет друзей Ping: 93
+PlayerID: 76561198421469222 Name: cvan71 Character: Андрей Ping: 62
+PlayerID: 76561198366284525 Name: NikiRoC Character: Никита Калашников Ping: 62
+PlayerID: 76561198114302725 Name: пуля Character: пуля Ping: 85
+
+END
+bans
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27385948
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30266226
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30266242
+PlayerID: 76561198257502095
+JudgeID: 76561198237123262
+Reason: 3600 Duration: 31536000 Remaining: 31471482
+
+Disconnecting: PlayerID: 76561198131227088 Name: нет друзей Character: нет друзей
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [1] [2472]
+
+[Area] MaXiMuS [MaXiMuS]: "вроде слева"
+
+END
+[World] mer_1560 [_Official_Group_GameGuardian_]: "справа"
+
+Disconnecting: PlayerID: 76561198114302725 Name: пуля Character: пуля
+
+[Area] MaXiMuS [MaXiMuS]: "да"
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [1] [2482]
+
+[Area] MaXiMuS [MaXiMuS]: "да там"
+
+[World] mer_1560 [_Official_Group_GameGuardian_]: "знаю"
+
+players
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198242496136 Name: _Official_Group_GameGuardian_ Character: mer_1560 Ping: 31
+PlayerID: 76561198315561906 Name: MaXiMuS Character: MaXiMuS Ping: 39
+PlayerID: 76561198407087458 Name: -_-Paer-_- Character: Паша Полянцев Ping: 23
+PlayerID: 76561198352329817 Name: X_RaY Character: Учиха_Саске Ping: 195
+PlayerID: 76561198421469222 Name: cvan71 Character: Андрей Ping: 54
+PlayerID: 76561198366284525 Name: NikiRoC Character: Никита Калашников Ping: 62
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [1] [2492]
+
+END
+bans
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27385926
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30266204
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30266220
+PlayerID: 76561198257502095
+JudgeID: 76561198237123262
+Reason: 3600 Duration: 31536000 Remaining: 31471460
+
+END
+[World] Андрей [cvan71]: "/sell 73 4"
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [1] [2502]
+
+MessageAnnouncer >> Broadcast: vk.com/hemulgm - ЕДИНСТВЕННЫЙ администратор сервера
+
+MessageAnnouncer >> vk.com/hemulgm - ЕДИНСТВЕННЫЙ администратор сервера
+
+[World] Андрей [cvan71]: "/buy 1169"
+
+players
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198242496136 Name: _Official_Group_GameGuardian_ Character: mer_1560 Ping: 39
+PlayerID: 76561198315561906 Name: MaXiMuS Character: MaXiMuS Ping: 54
+PlayerID: 76561198407087458 Name: -_-Paer-_- Character: Паша Полянцев Ping: 23
+PlayerID: 76561198352329817 Name: X_RaY Character: Учиха_Саске Ping: 203
+PlayerID: 76561198421469222 Name: cvan71 Character: Андрей Ping: 54
+PlayerID: 76561198366284525 Name: NikiRoC Character: Никита Калашников Ping: 54
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [1] [2512]
+
+END
+bans
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27385905
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30266183
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30266199
+PlayerID: 76561198257502095
+JudgeID: 76561198237123262
+Reason: 3600 Duration: 31536000 Remaining: 31471439
+
+END
+[World] Андрей [cvan71]: "/sell 29"
+
+[World] Андрей [cvan71]: "/sell 28"
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [1] [2522]
+
+players
+Client has executed command "players"
+
+GET NOW
+Players:
+PlayerID: 76561198242496136 Name: _Official_Group_GameGuardian_ Character: mer_1560 Ping: 39
+PlayerID: 76561198315561906 Name: MaXiMuS Character: MaXiMuS Ping: 62
+PlayerID: 76561198407087458 Name: -_-Paer-_- Character: Паша Полянцев Ping: 7
+PlayerID: 76561198352329817 Name: X_RaY Character: Учиха_Саске Ping: 195
+PlayerID: 76561198421469222 Name: cvan71 Character: Андрей Ping: 54
+PlayerID: 76561198366284525 Name: NikiRoC Character: Никита Калашников Ping: 54
+[World] Андрей [cvan71]: "/sell fragme"
+
+Client has executed command "GET NOW"
+ServerControl >> VALUE NOW [0] [1] [2533]
+
+END
+bans
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27385884
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30266162
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30266178
+PlayerID: 76561198257502095
+JudgeID: 76561198237123262
+Reason: 3600 Duration: 31536000 Remaining: 31471418
+
+END
+[World] mer_1560 [_Official_Group_GameGuardian_]: "и где"
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [1] [2543]
+
+[World] MaXiMuS [MaXiMuS]: "где то тут"
+
+[World] mer_1560 [_Official_Group_GameGuardian_]: "воооон"
+
+players
+Client has executed command "players"
+
+GET NOW
+Players:
+PlayerID: 76561198242496136 Name: _Official_Group_GameGuardian_ Character: mer_1560 Ping: 132
+PlayerID: 76561198315561906 Name: MaXiMuS Character: MaXiMuS Ping: 85
+PlayerID: 76561198407087458 Name: -_-Paer-_- Character: Паша Полянцев Ping: 15
+PlayerID: 76561198352329817 Name: X_RaY Character: Учиха_Саске Ping: 203
+PlayerID: 76561198421469222 Name: cvan71 Character: Андрей Ping: 46
+PlayerID: 76561198366284525 Name: NikiRoC Character: Никита Калашников Ping: 70
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [1] [2554]
+
+END
+bans
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27385863
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30266141
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30266157
+PlayerID: 76561198257502095
+JudgeID: 76561198237123262
+Reason: 3600 Duration: 31536000 Remaining: 31471397
+
+[Area] MaXiMuS [MaXiMuS]: "а да там 3"
+
+END
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [1] [2564]
+
+MessageAnnouncer >> Broadcast: Используйте /report [ник], чтобы отправить жалобу на игрока
+
+MessageAnnouncer >> Используйте /report [ник], чтобы отправить жалобу на игрока
+
+[Area] MaXiMuS [MaXiMuS]: "я там лутал в 1 раз"
+
+[World] mer_1560 [_Official_Group_GameGuardian_]: "нету"
+
+MaXiMuS moved x:-43.15239 y:52.48397(+22.18424) z:567.8785 in the last second (0.1112938)
+
+Не обработано: MaXiMuS moved x:-43.15239 y:52.48397(+22.18424) z:567.8785 in the last second (0.1112938)
+[World] mer_1560 [_Official_Group_GameGuardian_]: "а есть"
+
+players
+Client has executed command "players"
+
+GET NOW
+Players:
+PlayerID: 76561198242496136 Name: _Official_Group_GameGuardian_ Character: mer_1560 Ping: 31
+PlayerID: 76561198315561906 Name: MaXiMuS Character: MaXiMuS Ping: 46
+PlayerID: 76561198407087458 Name: -_-Paer-_- Character: Паша Полянцев Ping: 23
+PlayerID: 76561198352329817 Name: X_RaY Character: Учиха_Саске Ping: 187
+PlayerID: 76561198421469222 Name: cvan71 Character: Андрей Ping: 46
+PlayerID: 76561198366284525 Name: NikiRoC Character: Никита Калашников Ping: 62
+mer_1560 moved x:-64.56683 y:52.95813(+22.2482) z:583.8003 in the last second (1)
+Client has executed command "GET NOW"
+ServerControl >> VALUE NOW [0] [1] [2574]
+
+Не обработано: mer_1560 moved x:-64.56683 y:52.95813(+22.2482) z:583.8003 in the last second (1)
+END
+bans
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27385842
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30266120
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30266136
+PlayerID: 76561198257502095
+JudgeID: 76561198237123262
+Reason: 3600 Duration: 31536000 Remaining: 31471376
+
+[Group] MaXiMuS [MaXiMuS]: "не лутали!"
+
+END
+[World] Андрей [cvan71]: "ща я имя сменю"
+
+[World] mer_1560 [_Official_Group_GameGuardian_]: "оогогоогог"
+
+Disconnecting: PlayerID: 76561198421469222 Name: cvan71 Character: Андрей
+
+[World] mer_1560 [_Official_Group_GameGuardian_]: "миниган"
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [1] [2586]
+
+[World] mer_1560 [_Official_Group_GameGuardian_]: "ээээ"
+
+[World] mer_1560 [_Official_Group_GameGuardian_]: "бляяя"
+
+players
+GET NOW
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198242496136 Name: _Official_Group_GameGuardian_ Character: mer_1560 Ping: 31
+PlayerID: 76561198315561906 Name: MaXiMuS Character: MaXiMuS Ping: 46
+PlayerID: 76561198407087458 Name: -_-Paer-_- Character: Паша Полянцев Ping: 0
+PlayerID: 76561198352329817 Name: X_RaY Character: Учиха_Саске Ping: 218
+PlayerID: 76561198366284525 Name: NikiRoC Character: Никита Калашников Ping: 62
+Client has executed command "GET NOW"
+ServerControl >> VALUE NOW [0] [1] [2596]
+
+[Group] MaXiMuS [MaXiMuS]: "оо"
+
+[World] mer_1560 [_Official_Group_GameGuardian_]: "предмет миниган запрещен (("
+
+END
+bans
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27385819
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30266097
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30266113
+PlayerID: 76561198257502095
+JudgeID: 76561198237123262
+Reason: 3600 Duration: 31536000 Remaining: 31471353
+
+END
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [1] [2606]
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [1] [2616]
+
+players
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198242496136 Name: _Official_Group_GameGuardian_ Character: mer_1560 Ping: 31
+PlayerID: 76561198315561906 Name: MaXiMuS Character: MaXiMuS Ping: 46
+PlayerID: 76561198407087458 Name: -_-Paer-_- Character: Паша Полянцев Ping: 15
+PlayerID: 76561198352329817 Name: X_RaY Character: Учиха_Саске Ping: 203
+PlayerID: 76561198366284525 Name: NikiRoC Character: Никита Калашников Ping: 54
+
+END
+bans
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27385799
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30266077
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30266093
+PlayerID: 76561198257502095
+JudgeID: 76561198237123262
+Reason: 3600 Duration: 31536000 Remaining: 31471333
+
+END
+MessageAnnouncer >> Broadcast: Наберите /rules (/r) для просмотра правил
+
+MessageAnnouncer >> Наберите /rules (/r) для просмотра правил
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [1] [2626]
+
+Disconnecting: PlayerID: 76561198352329817 Name: X_RaY Character: Учиха_Саске
+
+[World] mer_1560 [_Official_Group_GameGuardian_]: "я еще коробки сделаю"
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [1] [2636]
+[World] mer_1560 [_Official_Group_GameGuardian_]: "места нету ))"
+
+Connecting: PlayerID: 76561198421469222 Name: cvan71 Character: (охотник)Андрей
+
+(охотник)Андрей connected with IP 94.50.231.157
+
+players
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198242496136 Name: _Official_Group_GameGuardian_ Character: mer_1560 Ping: 31
+PlayerID: 76561198315561906 Name: MaXiMuS Character: MaXiMuS Ping: 54
+PlayerID: 76561198407087458 Name: -_-Paer-_- Character: Паша Полянцев Ping: 15
+PlayerID: 76561198366284525 Name: NikiRoC Character: Никита Калашников Ping: 46
+PlayerID: 76561198421469222 Name: cvan71 Character: (охотник)Андрей Ping: 0
+
+END
+bans
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27385778
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30266056
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30266072
+PlayerID: 76561198257502095
+JudgeID: 76561198237123262
+Reason: 3600 Duration: 31536000 Remaining: 31471312
+
+END
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [1] [2646]
+
+[World] (охотник)Андрей [cvan71]: "/kit help"
+
+[World] (охотник)Андрей [cvan71]: "/kit start"
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [1] [2656]
+
+[Area] MaXiMuS [MaXiMuS]: "тут нет минигана?"
+
+players
+Client has executed command "players"
+Players:
+PlayerID: 76561198242496136 Name: _Official_Group_GameGuardian_ Character: mer_1560 Ping: 31
+PlayerID: 76561198315561906 Name: MaXiMuS Character: MaXiMuS Ping: 46
+PlayerID: 76561198407087458 Name: -_-Paer-_- Character: Паша Полянцев Ping: 23
+PlayerID: 76561198366284525 Name: NikiRoC Character: Никита Калашников Ping: 54
+PlayerID: 76561198421469222 Name: cvan71 Character: (охотник)Андрей Ping: 62
+
+END
+bans
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27385758
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30266036
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30266052
+PlayerID: 76561198257502095
+JudgeID: 76561198237123262
+Reason: 3600 Duration: 31536000 Remaining: 31471292
+
+END
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [1] [2666]
+
+[World] mer_1560 [_Official_Group_GameGuardian_]: "неа"
+
+[World] mer_1560 [_Official_Group_GameGuardian_]: "он исчез"
+
+Disconnecting: PlayerID: 76561198366284525 Name: NikiRoC Character: Никита Калашников
+
+[World] (охотник)Андрей [cvan71]: "всё я тут"
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [1] [2676]
+
+[World] (охотник)Андрей [cvan71]: "я уже охотник"
+
+players
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198242496136 Name: _Official_Group_GameGuardian_ Character: mer_1560 Ping: 31
+PlayerID: 76561198315561906 Name: MaXiMuS Character: MaXiMuS Ping: 39
+PlayerID: 76561198407087458 Name: -_-Paer-_- Character: Паша Полянцев Ping: 15
+PlayerID: 76561198421469222 Name: cvan71 Character: (охотник)Андрей Ping: 62
+
+END
+bans
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27385736
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30266014
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30266030
+PlayerID: 76561198257502095
+JudgeID: 76561198237123262
+Reason: 3600 Duration: 31536000 Remaining: 31471270
+
+END
+MessageAnnouncer >> Broadcast: Добро пожаловать на HGM. Тут рады вам больше, чем на любом другом сервере!
+
+MessageAnnouncer >> Добро пожаловать на HGM. Тут рады вам больше, чем на любом другом сервере!
+
+[Area] MaXiMuS [MaXiMuS]: "терь домой"
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [1] [2686]
+
+[World] mer_1560 [_Official_Group_GameGuardian_]: "ага"
+
+EventProcEcho
+cchat "/33/09/17/04/17/15/16 /24/05/17/05/08 4 /24. 50 /13. " 255 255 0
+Client has executed command "cchat "/33/09/17/04/17/15/16 /24/05/17/05/08 4 /24. 50 /13. " 255 255 0"
+ServerControl >> Broadcast: Аирдроп через 4 ч. 50 м.
+
+Не обработано: ServerControl >> Broadcast: Аирдроп через 4 ч. 50 м.
+[World] mer_1560 [_Official_Group_GameGuardian_]: "ща ящик сделаю"
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [1] [2696]
+
+players
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198242496136 Name: _Official_Group_GameGuardian_ Character: mer_1560 Ping: 31
+PlayerID: 76561198315561906 Name: MaXiMuS Character: MaXiMuS Ping: 39
+PlayerID: 76561198407087458 Name: -_-Paer-_- Character: Паша Полянцев Ping: 15
+PlayerID: 76561198421469222 Name: cvan71 Character: (охотник)Андрей Ping: 62
+
+GET NOW
+Client has executed command "GET NOW"
+ServerControl >> VALUE NOW [0] [1] [2706]
+
+END
+bans
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27385711
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30265989
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30266005
+PlayerID: 76561198257502095
+JudgeID: 76561198237123262
+Reason: 3600 Duration: 31536000 Remaining: 31471245
+
+END
+[World] (охотник)Андрей [cvan71]: "кто хочет охотником быть"
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [1] [2716]
+
+[World] (охотник)Андрей [cvan71]: "/sell ekho"
+
+[Area] MaXiMuS [MaXiMuS]: "у меня дофига патронов"
+
+players
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198242496136 Name: _Official_Group_GameGuardian_ Character: mer_1560 Ping: 31
+PlayerID: 76561198315561906 Name: MaXiMuS Character: MaXiMuS Ping: 46
+PlayerID: 76561198407087458 Name: -_-Paer-_- Character: Паша Полянцев Ping: 15
+PlayerID: 76561198421469222 Name: cvan71 Character: (охотник)Андрей Ping: 39
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [1] [2727]
+
+END
+bans
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27385690
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30265968
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30265984
+PlayerID: 76561198257502095
+JudgeID: 76561198237123262
+Reason: 3600 Duration: 31536000 Remaining: 31471224
+
+END
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [1] [2737]
+
+MessageAnnouncer >> Broadcast: Наберите /kit start, чтобы получить стартовый набор (еда, вода, топор)
+
+MessageAnnouncer >> Наберите /kit start, чтобы получить стартовый набор (еда, вода, топор)
+
+players
+Client has executed command "players"
+
+GET NOW
+Players:
+PlayerID: 76561198242496136 Name: _Official_Group_GameGuardian_ Character: mer_1560 Ping: 31
+PlayerID: 76561198315561906 Name: MaXiMuS Character: MaXiMuS Ping: 39
+PlayerID: 76561198407087458 Name: -_-Paer-_- Character: Паша Полянцев Ping: 7
+PlayerID: 76561198421469222 Name: cvan71 Character: (охотник)Андрей Ping: 46
+Client has executed command "GET NOW"
+ServerControl >> VALUE NOW [0] [1] [2747]
+
+END
+bans
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27385669
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30265947
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30265963
+PlayerID: 76561198257502095
+JudgeID: 76561198237123262
+Reason: 3600 Duration: 31536000 Remaining: 31471203
+
+END
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [1] [2759]
+
+players
+GET NOW
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198242496136 Name: _Official_Group_GameGuardian_ Character: mer_1560 Ping: 31
+PlayerID: 76561198315561906 Name: MaXiMuS Character: MaXiMuS Ping: 54
+PlayerID: 76561198407087458 Name: -_-Paer-_- Character: Паша Полянцев Ping: 15
+PlayerID: 76561198421469222 Name: cvan71 Character: (охотник)Андрей Ping: 62
+Client has executed command "GET NOW"
+ServerControl >> VALUE NOW [0] [1] [2769]
+
+END
+bans
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27385647
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30265925
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30265941
+PlayerID: 76561198257502095
+JudgeID: 76561198237123262
+Reason: 3600 Duration: 31536000 Remaining: 31471181
+
+END
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [1] [2780]
+
+[World] mer_1560 [_Official_Group_GameGuardian_]: "где фамас"
+
+[World] (охотник)Андрей [cvan71]: "/kit help"
+
+players
+GET NOW
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198242496136 Name: _Official_Group_GameGuardian_ Character: mer_1560 Ping: 31
+PlayerID: 76561198315561906 Name: MaXiMuS Character: MaXiMuS Ping: 31
+PlayerID: 76561198407087458 Name: -_-Paer-_- Character: Паша Полянцев Ping: 7
+PlayerID: 76561198421469222 Name: cvan71 Character: (охотник)Андрей Ping: 39
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [1] [2790]
+
+[Area] MaXiMuS [MaXiMuS]: "в ящике"
+[World] mer_1560 [_Official_Group_GameGuardian_]: "а у меня"
+
+END
+bans
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27385625
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30265903
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30265919
+PlayerID: 76561198257502095
+JudgeID: 76561198237123262
+Reason: 3600 Duration: 31536000 Remaining: 31471159
+
+END
+[Group] MaXiMuS [MaXiMuS]: "еще там"
+
+[World] mer_1560 [_Official_Group_GameGuardian_]: "и алис пак есть ))"
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [1] [2800]
+
+MessageAnnouncer >> Broadcast: Внимание! PvP-режим по субботам! PvP-режим!!!
+MessageAnnouncer >> Внимание! PvP-режим по субботам! PvP-режим!!!
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [1] [2810]
+
+[World] (охотник)Андрей [cvan71]: "gfif"
+
+players
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198242496136 Name: _Official_Group_GameGuardian_ Character: mer_1560 Ping: 31
+PlayerID: 76561198315561906 Name: MaXiMuS Character: MaXiMuS Ping: 46
+PlayerID: 76561198407087458 Name: -_-Paer-_- Character: Паша Полянцев Ping: 15
+PlayerID: 76561198421469222 Name: cvan71 Character: (охотник)Андрей Ping: 46
+[World] (охотник)Андрей [cvan71]: "паша"
+
+END
+bans
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27385603
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30265881
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30265897
+PlayerID: 76561198257502095
+JudgeID: 76561198237123262
+Reason: 3600 Duration: 31536000 Remaining: 31471137
+
+END
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [1] [2820]
+
+[World] (охотник)Андрей [cvan71]: "/buy 152 2"
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [1] [2830]
+
+players
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198242496136 Name: _Official_Group_GameGuardian_ Character: mer_1560 Ping: 31
+PlayerID: 76561198315561906 Name: MaXiMuS Character: MaXiMuS Ping: 39
+PlayerID: 76561198407087458 Name: -_-Paer-_- Character: Паша Полянцев Ping: 23
+PlayerID: 76561198421469222 Name: cvan71 Character: (охотник)Андрей Ping: 54
+
+END
+bans
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27385581
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30265859
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30265875
+PlayerID: 76561198257502095
+JudgeID: 76561198237123262
+Reason: 3600 Duration: 31536000 Remaining: 31471115
+
+END
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [1] [2840]
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [1] [2850]
+
+players
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198242496136 Name: _Official_Group_GameGuardian_ Character: mer_1560 Ping: 31
+PlayerID: 76561198315561906 Name: MaXiMuS Character: MaXiMuS Ping: 46
+PlayerID: 76561198407087458 Name: -_-Paer-_- Character: Паша Полянцев Ping: 15
+PlayerID: 76561198421469222 Name: cvan71 Character: (охотник)Андрей Ping: 54
+
+END
+bans
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27385560
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30265838
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30265854
+PlayerID: 76561198257502095
+JudgeID: 76561198237123262
+Reason: 3600 Duration: 31536000 Remaining: 31471094
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [1] [2860]
+
+END
+Connecting: PlayerID: 76561198352329817 Name: X_RaY Character: Учиха_Саске
+
+Учиха_Саске connected with IP 80.83.234.237
+
+MessageAnnouncer >> Broadcast: vk.com/unturned_hgm - группа сервера ВК, уникальный кит в записи!
+
+MessageAnnouncer >> vk.com/unturned_hgm - группа сервера ВК, уникальный кит в записи!
+
+[World] (охотник)Андрей [cvan71]: "паша хочеш охотником быть"
+
+[Area] MaXiMuS [MaXiMuS]: "амм"
+
+[World] MaXiMuS [MaXiMuS]: "черт..."
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [1] [2870]
+
+[World] mer_1560 [_Official_Group_GameGuardian_]: "чо ты"
+
+players
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198242496136 Name: _Official_Group_GameGuardian_ Character: mer_1560 Ping: 39
+PlayerID: 76561198315561906 Name: MaXiMuS Character: MaXiMuS Ping: 46
+PlayerID: 76561198407087458 Name: -_-Paer-_- Character: Паша Полянцев Ping: 15
+PlayerID: 76561198421469222 Name: cvan71 Character: (охотник)Андрей Ping: 54
+PlayerID: 76561198352329817 Name: X_RaY Character: Учиха_Саске Ping: 359
+
+[World] MaXiMuS [MaXiMuS]: "где мой timberwolf&"
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [1] [2880]
+
+END
+bans
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27385537
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30265815
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30265831
+PlayerID: 76561198257502095
+JudgeID: 76561198237123262
+Reason: 3600 Duration: 31536000 Remaining: 31471071
+
+END
+[World] mer_1560 [_Official_Group_GameGuardian_]: "я продал ))"
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [1] [2890]
+[World] mer_1560 [_Official_Group_GameGuardian_]: "дома еще есть"
+
+[World] MaXiMuS [MaXiMuS]: "pf crjkmrj"
+
+[Group] Учиха_Саске [X_RaY]: "/buy 334"
+
+players
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198242496136 Name: _Official_Group_GameGuardian_ Character: mer_1560 Ping: 39
+PlayerID: 76561198315561906 Name: MaXiMuS Character: MaXiMuS Ping: 46
+PlayerID: 76561198407087458 Name: -_-Paer-_- Character: Паша Полянцев Ping: 15
+PlayerID: 76561198421469222 Name: cvan71 Character: (охотник)Андрей Ping: 46
+PlayerID: 76561198352329817 Name: X_RaY Character: Учиха_Саске Ping: 203
+[World] MaXiMuS [MaXiMuS]: "за сколько"
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [1] [2900]
+
+END
+bans
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27385517
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30265795
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30265811
+PlayerID: 76561198257502095
+JudgeID: 76561198237123262
+Reason: 3600 Duration: 31536000 Remaining: 31471051
+
+[World] mer_1560 [_Official_Group_GameGuardian_]: "за 50"
+
+END
+[World] mer_1560 [_Official_Group_GameGuardian_]: "по моему"
+
+[World] (охотник)Андрей [cvan71]: "что так мало"
+
+[World] mer_1560 [_Official_Group_GameGuardian_]: "/balance"
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [1] [2911]
+
+[World] mer_1560 [_Official_Group_GameGuardian_]: "хз"
+
+[World] MaXiMuS [MaXiMuS]: "а как продать"
+
+Connecting: PlayerID: 76561198205863883 Name: Крокодил Гена Character: krokodil gena
+
+krokodil gena connected with IP 176.99.72.122
+
+players
+Client has executed command "players"
+Players:
+PlayerID: 76561198242496136 Name: _Official_Group_GameGuardian_ Character: mer_1560 Ping: 31
+PlayerID: 76561198315561906 Name: MaXiMuS Character: MaXiMuS Ping: 46
+PlayerID: 76561198407087458 Name: -_-Paer-_- Character: Паша Полянцев Ping: 0
+PlayerID: 76561198421469222 Name: cvan71 Character: (охотник)Андрей Ping: 46
+PlayerID: 76561198352329817 Name: X_RaY Character: Учиха_Саске Ping: 210
+PlayerID: 76561198205863883 Name: Крокодил Гена Character: krokodil gena Ping: 46
+[World] (охотник)Андрей [cvan71]: "./sell"
+[World] mer_1560 [_Official_Group_GameGuardian_]: "./sell"
+
+GET NOW
+Client has executed command "GET NOW"
+ServerControl >> VALUE NOW [0] [1] [2922]
+
+END
+bans
+Client has executed command "bans"
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27385496
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30265774
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30265790
+PlayerID: 76561198257502095
+JudgeID: 76561198237123262
+Reason: 3600 Duration: 31536000 Remaining: 31471030
+
+MessageAnnouncer >> Broadcast: Посетите наш сайт. Вы будете удивлены! unturned.hemulgm.ru
+MessageAnnouncer >> Посетите наш сайт. Вы будете удивлены! unturned.hemulgm.ru
+
+END
+[World] mer_1560 [_Official_Group_GameGuardian_]: "и название вещи"
+
+[World] MaXiMuS [MaXiMuS]: "cпс"
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [1] [2932]
+
+[World] mer_1560 [_Official_Group_GameGuardian_]: "чо хоешь продать?"
+
+players
+GET NOW
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198242496136 Name: _Official_Group_GameGuardian_ Character: mer_1560 Ping: 31
+PlayerID: 76561198315561906 Name: MaXiMuS Character: MaXiMuS Ping: 46
+PlayerID: 76561198407087458 Name: -_-Paer-_- Character: Паша Полянцев Ping: 23
+PlayerID: 76561198421469222 Name: cvan71 Character: (охотник)Андрей Ping: 62
+PlayerID: 76561198352329817 Name: X_RaY Character: Учиха_Саске Ping: 210
+PlayerID: 76561198205863883 Name: Крокодил Гена Character: krokodil gena Ping: 46
+Client has executed command "GET NOW"
+ServerControl >> VALUE NOW [0] [1] [2942]
+
+[World] mer_1560 [_Official_Group_GameGuardian_]: "оружие не надо"
+
+END
+bans
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27385473
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30265751
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30265767
+PlayerID: 76561198257502095
+JudgeID: 76561198237123262
+Reason: 3600 Duration: 31536000 Remaining: 31471007
+
+END
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [1] [2953]
+
+Disconnecting: PlayerID: 76561198421469222 Name: cvan71 Character: (охотник)Андрей
+
+players
+Client has executed command "players"
+
+GET NOW
+Players:
+PlayerID: 76561198242496136 Name: _Official_Group_GameGuardian_ Character: mer_1560 Ping: 31
+PlayerID: 76561198315561906 Name: MaXiMuS Character: MaXiMuS Ping: 39
+PlayerID: 76561198407087458 Name: -_-Paer-_- Character: Паша Полянцев Ping: 0
+PlayerID: 76561198352329817 Name: X_RaY Character: Учиха_Саске Ping: 257
+PlayerID: 76561198205863883 Name: Крокодил Гена Character: krokodil gena Ping: 31
+Client has executed command "GET NOW"
+ServerControl >> VALUE NOW [0] [1] [2963]
+
+[Group] Учиха_Саске [X_RaY]: "/buy 418"
+
+END
+bans
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27385452
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30265730
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30265746
+PlayerID: 76561198257502095
+JudgeID: 76561198237123262
+Reason: 3600 Duration: 31536000 Remaining: 31470986
+
+[Group] MaXiMuS [MaXiMuS]: "ок"
+
+END
+[World] mer_1560 [_Official_Group_GameGuardian_]: "ну ка"
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [1] [2975]
+
+MessageAnnouncer >> Broadcast: Наберите /kit help, чтобы получить первую мед. помощь (бинты, таблетки, еда)
+
+MessageAnnouncer >> Наберите /kit help, чтобы получить первую мед. помощь (бинты, таблетки, еда)
+
+players
+GET NOW
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198242496136 Name: _Official_Group_GameGuardian_ Character: mer_1560 Ping: 31
+PlayerID: 76561198315561906 Name: MaXiMuS Character: MaXiMuS Ping: 46
+PlayerID: 76561198407087458 Name: -_-Paer-_- Character: Паша Полянцев Ping: 39
+PlayerID: 76561198352329817 Name: X_RaY Character: Учиха_Саске Ping: 203
+PlayerID: 76561198205863883 Name: Крокодил Гена Character: krokodil gena Ping: 31
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [1] [2985]
+
+END
+bans
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27385432
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30265710
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30265726
+PlayerID: 76561198257502095
+JudgeID: 76561198237123262
+Reason: 3600 Duration: 31536000 Remaining: 31470966
+
+[Group] Учиха_Саске [X_RaY]: "buy"
+
+END
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [1] [2995]
+
+[World] mer_1560 [_Official_Group_GameGuardian_]: "Я к но"
+
+[World] mer_1560 [_Official_Group_GameGuardian_]: "нло"
+
+GET NOW
+Client has executed command "GET NOW"
+ServerControl >> VALUE NOW [0] [1] [3005]
+
+[Group] MaXiMuS [MaXiMuS]: "/sell maschinengewehr"
+
+players
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198242496136 Name: _Official_Group_GameGuardian_ Character: mer_1560 Ping: 31
+PlayerID: 76561198315561906 Name: MaXiMuS Character: MaXiMuS Ping: 39
+PlayerID: 76561198407087458 Name: -_-Paer-_- Character: Паша Полянцев Ping: 15
+PlayerID: 76561198352329817 Name: X_RaY Character: Учиха_Саске Ping: 210
+PlayerID: 76561198205863883 Name: Крокодил Гена Character: krokodil gena Ping: 31
+
+[World] krokodil gena [Крокодил Гена]: "/buy v.135"
+
+END
+bans
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27385405
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30265683
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30265699
+PlayerID: 76561198257502095
+JudgeID: 76561198237123262
+Reason: 3600 Duration: 31536000 Remaining: 31470939
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [1] [3015]
+
+END
+[Area] MaXiMuS [MaXiMuS]: "я продал"
+
+[Area] MaXiMuS [MaXiMuS]: "за 25"
+
+[World] mer_1560 [_Official_Group_GameGuardian_]: "что"
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [1] [3025]
+
+players
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198242496136 Name: _Official_Group_GameGuardian_ Character: mer_1560 Ping: 31
+PlayerID: 76561198315561906 Name: MaXiMuS Character: MaXiMuS Ping: 62
+PlayerID: 76561198407087458 Name: -_-Paer-_- Character: Паша Полянцев Ping: 23
+PlayerID: 76561198352329817 Name: X_RaY Character: Учиха_Саске Ping: 210
+PlayerID: 76561198205863883 Name: Крокодил Гена Character: krokodil gena Ping: 39
+
+[Area] MaXiMuS [MaXiMuS]: "maschinengewerh"
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [1] [3035]
+
+[Group] Учиха_Саске [X_RaY]: "/balance"
+
+[World] Паша Полянцев [-_-Paer-_-]: "/bгн 116"
+
+END
+bans
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27385380
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30265658
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30265674
+PlayerID: 76561198257502095
+JudgeID: 76561198237123262
+Reason: 3600 Duration: 31536000 Remaining: 31470914
+
+[World] mer_1560 [_Official_Group_GameGuardian_]: "зач"
+
+END
+[Area] MaXiMuS [MaXiMuS]: "ghjcnj e yfc b["
+
+MessageAnnouncer >> Broadcast: vk.com/unturned_hgm - цены на премиум, VIP и другие услуги смотрите в группе!
+
+MessageAnnouncer >> vk.com/unturned_hgm - цены на премиум, VIP и другие услуги смотрите в группе!
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [1] [3045]
+
+[Group] Учиха_Саске [X_RaY]: "/buy"
+
+players
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198242496136 Name: _Official_Group_GameGuardian_ Character: mer_1560 Ping: 31
+PlayerID: 76561198315561906 Name: MaXiMuS Character: MaXiMuS Ping: 39
+PlayerID: 76561198407087458 Name: -_-Paer-_- Character: Паша Полянцев Ping: 7
+PlayerID: 76561198352329817 Name: X_RaY Character: Учиха_Саске Ping: 195
+PlayerID: 76561198205863883 Name: Крокодил Гена Character: krokodil gena Ping: 39
+[World] MaXiMuS [MaXiMuS]: "просто у нас их уже было 4"
+[Group] Учиха_Саске [X_RaY]: "buy"
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [1] [3055]
+
+[World] mer_1560 [_Official_Group_GameGuardian_]: "ок"
+
+END
+bans
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27385361
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30265639
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30265655
+PlayerID: 76561198257502095
+JudgeID: 76561198237123262
+Reason: 3600 Duration: 31536000 Remaining: 31470895
+
+END
+[World] Паша Полянцев [-_-Paer-_-]: "//buy 116"
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [1] [3065]
+
+players
+Client has executed command "players"
+Players:
+PlayerID: 76561198242496136 Name: _Official_Group_GameGuardian_ Character: mer_1560 Ping: 31
+PlayerID: 76561198315561906 Name: MaXiMuS Character: MaXiMuS Ping: 39
+PlayerID: 76561198407087458 Name: -_-Paer-_- Character: Паша Полянцев Ping: 15
+PlayerID: 76561198352329817 Name: X_RaY Character: Учиха_Саске Ping: 187
+PlayerID: 76561198205863883 Name: Крокодил Гена Character: krokodil gena Ping: 234
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [1] [3076]
+
+END
+bans
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27385342
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30265620
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30265636
+PlayerID: 76561198257502095
+JudgeID: 76561198237123262
+Reason: 3600 Duration: 31536000 Remaining: 31470876
+
+END
+[World] Паша Полянцев [-_-Paer-_-]: "/buy 116"
+
+[World] mer_1560 [_Official_Group_GameGuardian_]: "ого тут рейлов"
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [1] [3086]
+
+[World] mer_1560 [_Official_Group_GameGuardian_]: "ухади"
+
+players
+GET NOW
+Client has executed command "players"
+Players:
+PlayerID: 76561198242496136 Name: _Official_Group_GameGuardian_ Character: mer_1560 Ping: 31
+PlayerID: 76561198315561906 Name: MaXiMuS Character: MaXiMuS Ping: 39
+PlayerID: 76561198407087458 Name: -_-Paer-_- Character: Паша Полянцев Ping: 0
+PlayerID: 76561198352329817 Name: X_RaY Character: Учиха_Саске Ping: 210
+PlayerID: 76561198205863883 Name: Крокодил Гена Character: krokodil gena Ping: 31
+
+Client has executed command "GET NOW"
+ServerControl >> VALUE NOW [0] [1] [3096]
+
+DeathMessagesRemastered >> Broadcast: MaXiMuS отравился!
+
+MaXiMuS [MaXiMuS] was infected to death!
+
+Не обработано: MaXiMuS [MaXiMuS] was infected to death!
+[World] mer_1560 [_Official_Group_GameGuardian_]: "дурак"
+
+END
+bans
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27385320
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30265598
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30265614
+PlayerID: 76561198257502095
+JudgeID: 76561198237123262
+Reason: 3600 Duration: 31536000 Remaining: 31470854
+
+END
+[Group] MaXiMuS [MaXiMuS]: "сори"
+
+[World] mer_1560 [_Official_Group_GameGuardian_]: "тп ко мне"
+
+MessageAnnouncer >> Broadcast: Наберите /kit claim, чтобы получить Claim Flag
+MessageAnnouncer >> Наберите /kit claim, чтобы получить Claim Flag
+
+[World] mer_1560 [_Official_Group_GameGuardian_]: "дурак"
+
+krokodil gena moved x:-217.171 y:79.70193(+41.6511) z:92.04177 in the last second (41.32461)
+
+Не обработано: krokodil gena moved x:-217.171 y:79.70193(+41.6511) z:92.04177 in the last second (41.32461)
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [1] [3107]
+
+[World] mer_1560 [_Official_Group_GameGuardian_]: "ого вещей у тя"
+
+players
+Client has executed command "players"
+
+GET NOW
+Players:
+PlayerID: 76561198242496136 Name: _Official_Group_GameGuardian_ Character: mer_1560 Ping: 31
+PlayerID: 76561198315561906 Name: MaXiMuS Character: MaXiMuS Ping: 46
+PlayerID: 76561198407087458 Name: -_-Paer-_- Character: Паша Полянцев Ping: 15
+PlayerID: 76561198352329817 Name: X_RaY Character: Учиха_Саске Ping: 187
+PlayerID: 76561198205863883 Name: Крокодил Гена Character: krokodil gena Ping: 54
+Client has executed command "GET NOW"
+ServerControl >> VALUE NOW [0] [1] [3117]
+[Group] MaXiMuS [MaXiMuS]: "/tpa mer_1560"
+
+END
+bans
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27385299
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30265577
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30265593
+PlayerID: 76561198257502095
+JudgeID: 76561198237123262
+Reason: 3600 Duration: 31536000 Remaining: 31470833
+
+END
+[World] mer_1560 [_Official_Group_GameGuardian_]: "/tpa a"
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [1] [3129]
+
+players
+GET NOW
+Client has executed command "players"
+Players:
+PlayerID: 76561198242496136 Name: _Official_Group_GameGuardian_ Character: mer_1560 Ping: 31
+PlayerID: 76561198315561906 Name: MaXiMuS Character: MaXiMuS Ping: 39
+PlayerID: 76561198407087458 Name: -_-Paer-_- Character: Паша Полянцев Ping: 31
+PlayerID: 76561198352329817 Name: X_RaY Character: Учиха_Саске Ping: 203
+PlayerID: 76561198205863883 Name: Крокодил Гена Character: krokodil gena Ping: 31
+Client has executed command "GET NOW"
+ServerControl >> VALUE NOW [0] [1] [3139]
+
+[Group] Учиха_Саске [X_RaY]: "/buy 1017"
+
+END
+bans
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27385277
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30265555
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30265571
+PlayerID: 76561198257502095
+JudgeID: 76561198237123262
+Reason: 3600 Duration: 31536000 Remaining: 31470811
+
+END
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [1] [3150]
+
+[World] mer_1560 [_Official_Group_GameGuardian_]: "yf"
+
+[World] mer_1560 [_Official_Group_GameGuardian_]: "на"
+
+players
+GET NOW
+Client has executed command "players"
+Players:
+PlayerID: 76561198242496136 Name: _Official_Group_GameGuardian_ Character: mer_1560 Ping: 31
+PlayerID: 76561198315561906 Name: MaXiMuS Character: MaXiMuS Ping: 31
+PlayerID: 76561198407087458 Name: -_-Paer-_- Character: Паша Полянцев Ping: 0
+PlayerID: 76561198352329817 Name: X_RaY Character: Учиха_Саске Ping: 210
+PlayerID: 76561198205863883 Name: Крокодил Гена Character: krokodil gena Ping: 31
+Client has executed command "GET NOW"
+ServerControl >> VALUE NOW [0] [1] [3160]
+
+END
+bans
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27385256
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30265534
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30265550
+PlayerID: 76561198257502095
+JudgeID: 76561198237123262
+Reason: 3600 Duration: 31536000 Remaining: 31470790
+
+[Area] MaXiMuS [MaXiMuS]: "то"
+
+MessageAnnouncer >> Broadcast: Если модератор ведёт себя неподобающе, пишите в группу или ЛС (vk.com/unturned_hgm, vk.com/hemulgm)
+
+MessageAnnouncer >> Если модератор ведёт себя неподобающе, пишите в группу или ЛС (vk.com/unturned_hgm, vk.com/hemulgm)
+
+END
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [1] [3171]
+
+[World] mer_1560 [_Official_Group_GameGuardian_]: "/kit start"
+
+[Area] MaXiMuS [MaXiMuS]: "дашь?"
+
+players
+Client has executed command "players"
+
+GET NOW
+Players:
+PlayerID: 76561198242496136 Name: _Official_Group_GameGuardian_ Character: mer_1560 Ping: 23
+PlayerID: 76561198315561906 Name: MaXiMuS Character: MaXiMuS Ping: 31
+PlayerID: 76561198407087458 Name: -_-Paer-_- Character: Паша Полянцев Ping: 7
+PlayerID: 76561198352329817 Name: X_RaY Character: Учиха_Саске Ping: 187
+PlayerID: 76561198205863883 Name: Крокодил Гена Character: krokodil gena Ping: 31
+Client has executed command "GET NOW"
+ServerControl >> VALUE NOW [0] [1] [3182]
+
+END
+bans
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27385234
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30265512
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30265528
+
+PlayerID: 76561198257502095
+JudgeID: 76561198237123262
+Reason: 3600 Duration: 31536000 Remaining: 31470768
+
+END
+[World] mer_1560 [_Official_Group_GameGuardian_]: "xnj"
+
+[World] mer_1560 [_Official_Group_GameGuardian_]: "что"
+
+[World] Паша Полянцев [-_-Paer-_-]: "/buy 1017"
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [1] [3193]
+
+[Area] MaXiMuS [MaXiMuS]: "там меня убьет"
+
+[World] mer_1560 [_Official_Group_GameGuardian_]: "купи"
+
+[World] mer_1560 [_Official_Group_GameGuardian_]: "сколько у тя"
+
+players
+GET NOW
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198242496136 Name: _Official_Group_GameGuardian_ Character: mer_1560 Ping: 31
+PlayerID: 76561198315561906 Name: MaXiMuS Character: MaXiMuS Ping: 78
+PlayerID: 76561198407087458 Name: -_-Paer-_- Character: Паша Полянцев Ping: 15
+PlayerID: 76561198352329817 Name: X_RaY Character: Учиха_Саске Ping: 203
+PlayerID: 76561198205863883 Name: Крокодил Гена Character: krokodil gena Ping: 46
+Client has executed command "GET NOW"
+ServerControl >> VALUE NOW [0] [1] [3203]
+
+[World] mer_1560 [_Official_Group_GameGuardian_]: "там уже ничо нету"
+
+[Area] MaXiMuS [MaXiMuS]: "кого?"
+
+[Group] Учиха_Саске [X_RaY]: "/buy 1169"
+
+END
+bans
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27385211
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30265489
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30265505
+PlayerID: 76561198257502095
+JudgeID: 76561198237123262
+Reason: 3600 Duration: 31536000 Remaining: 31470745
+
+[World] mer_1560 [_Official_Group_GameGuardian_]: "денег"
+
+END
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [1] [3213]
+
+[Area] MaXiMuS [MaXiMuS]: "125"
+
+[World] krokodil gena [Крокодил Гена]: "/buy 14"
+
+[World] mer_1560 [_Official_Group_GameGuardian_]: "давай 40"
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [1] [3223]
+
+players
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198242496136 Name: _Official_Group_GameGuardian_ Character: mer_1560 Ping: 23
+PlayerID: 76561198315561906 Name: MaXiMuS Character: MaXiMuS Ping: 39
+PlayerID: 76561198407087458 Name: -_-Paer-_- Character: Паша Полянцев Ping: 7
+PlayerID: 76561198352329817 Name: X_RaY Character: Учиха_Саске Ping: 187
+PlayerID: 76561198205863883 Name: Крокодил Гена Character: krokodil gena Ping: 39
+MessageAnnouncer >> Broadcast: Посетите наш сайт. Вы будете удивлены! unturned.hemulgm.ru
+MessageAnnouncer >> Посетите наш сайт. Вы будете удивлены! unturned.hemulgm.ru
+
+END
+bans
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27385192
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30265470
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30265486
+PlayerID: 76561198257502095
+JudgeID: 76561198237123262
+Reason: 3600 Duration: 31536000 Remaining: 31470726
+
+END
+[World] krokodil gena [Крокодил Гена]: "/buy 13"
+
+[World] MaXiMuS [MaXiMuS]: "у меня план"
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [1] [3233]
+
+[World] mer_1560 [_Official_Group_GameGuardian_]: "какой"
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [1] [3243]
+
+players
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198242496136 Name: _Official_Group_GameGuardian_ Character: mer_1560 Ping: 31
+PlayerID: 76561198315561906 Name: MaXiMuS Character: MaXiMuS Ping: 54
+PlayerID: 76561198407087458 Name: -_-Paer-_- Character: Паша Полянцев Ping: 23
+PlayerID: 76561198352329817 Name: X_RaY Character: Учиха_Саске Ping: 210
+PlayerID: 76561198205863883 Name: Крокодил Гена Character: krokodil gena Ping: 31
+[Group] Учиха_Саске [X_RaY]: "/buy 1139"
+
+END
+bans
+Client has executed command "bans"
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27385171
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30265449
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30265465
+PlayerID: 76561198257502095
+JudgeID: 76561198237123262
+Reason: 3600 Duration: 31536000 Remaining: 31470705
+
+END
+[Area] MaXiMuS [MaXiMuS]: "да такой"
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [1] [3253]
+
+[Group] MaXiMuS [MaXiMuS]: "спс"
+
+Connecting: PlayerID: 76561198366284525 Name: NikiRoC Character: Никита Калашников
+
+Никита Калашников connected with IP 46.98.75.145
+
+[Group] Учиха_Саске [X_RaY]: "/buy 1189"
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [1] [3263]
+
+[World] mer_1560 [_Official_Group_GameGuardian_]: "мог бы сразу попросить"
+
+players
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198242496136 Name: _Official_Group_GameGuardian_ Character: mer_1560 Ping: 23
+PlayerID: 76561198315561906 Name: MaXiMuS Character: MaXiMuS Ping: 54
+PlayerID: 76561198407087458 Name: -_-Paer-_- Character: Паша Полянцев Ping: 23
+PlayerID: 76561198352329817 Name: X_RaY Character: Учиха_Саске Ping: 265
+PlayerID: 76561198205863883 Name: Крокодил Гена Character: krokodil gena Ping: 39
+PlayerID: 76561198366284525 Name: NikiRoC Character: Никита Калашников Ping: 351
+
+END
+bans
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27385149
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30265427
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30265443
+PlayerID: 76561198257502095
+JudgeID: 76561198237123262
+Reason: 3600 Duration: 31536000 Remaining: 31470683
+
+END
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [1] [3273]
+
+[Group] Учиха_Саске [X_RaY]: "/buy 1389"
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [1] [3283]
+
+MessageAnnouncer >> Broadcast: vk.com/hemulgm - ЕДИНСТВЕННЫЙ администратор сервера
+
+MessageAnnouncer >> vk.com/hemulgm - ЕДИНСТВЕННЫЙ администратор сервера
+
+[World] mer_1560 [_Official_Group_GameGuardian_]: "есть девил бейн?"
+
+players
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198242496136 Name: _Official_Group_GameGuardian_ Character: mer_1560 Ping: 31
+PlayerID: 76561198315561906 Name: MaXiMuS Character: MaXiMuS Ping: 62
+PlayerID: 76561198407087458 Name: -_-Paer-_- Character: Паша Полянцев Ping: 31
+PlayerID: 76561198352329817 Name: X_RaY Character: Учиха_Саске Ping: 218
+PlayerID: 76561198205863883 Name: Крокодил Гена Character: krokodil gena Ping: 31
+PlayerID: 76561198366284525 Name: NikiRoC Character: Никита Калашников Ping: 62
+
+END
+bans
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27385127
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30265405
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30265421
+PlayerID: 76561198257502095
+JudgeID: 76561198237123262
+Reason: 3600 Duration: 31536000 Remaining: 31470661
+
+GET NOW
+END
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [1] [3293]
+[World] mer_1560 [_Official_Group_GameGuardian_]: "а дома два валяются"
+
+[Area] MaXiMuS [MaXiMuS]: "да"
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [1] [3303]
+
+players
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198242496136 Name: _Official_Group_GameGuardian_ Character: mer_1560 Ping: 31
+PlayerID: 76561198315561906 Name: MaXiMuS Character: MaXiMuS Ping: 46
+PlayerID: 76561198407087458 Name: -_-Paer-_- Character: Паша Полянцев Ping: 23
+PlayerID: 76561198352329817 Name: X_RaY Character: Учиха_Саске Ping: 218
+PlayerID: 76561198205863883 Name: Крокодил Гена Character: krokodil gena Ping: 31
+PlayerID: 76561198366284525 Name: NikiRoC Character: Никита Калашников Ping: 54
+[Area] MaXiMuS [MaXiMuS]: "стоп..."
+[World] mer_1560 [_Official_Group_GameGuardian_]: "напиши /buy gasma"
+
+END
+bans
+GET NOW
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27385106
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30265384
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30265400
+PlayerID: 76561198257502095
+JudgeID: 76561198237123262
+Reason: 3600 Duration: 31536000 Remaining: 31470640
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [1] [3313]
+
+END
+[Area] MaXiMuS [MaXiMuS]: "стой"
+
+EventProcEcho
+cchat "/33/09/17/04/17/15/16 /24/05/17/05/08 4 /24. 40 /13. " 255 255 0
+Client has executed command "cchat "/33/09/17/04/17/15/16 /24/05/17/05/08 4 /24. 40 /13. " 255 255 0"
+ServerControl >> Broadcast: Аирдроп через 4 ч. 40 м.
+
+Не обработано: ServerControl >> Broadcast: Аирдроп через 4 ч. 40 м.
+[World] mer_1560 [_Official_Group_GameGuardian_]: "что"
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [1] [3323]
+
+[Group] MaXiMuS [MaXiMuS]: "а где мои потроны от devila?"
+
+[World] mer_1560 [_Official_Group_GameGuardian_]: "у меняэ"
+
+players
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198242496136 Name: _Official_Group_GameGuardian_ Character: mer_1560 Ping: 31
+PlayerID: 76561198315561906 Name: MaXiMuS Character: MaXiMuS Ping: 62
+PlayerID: 76561198407087458 Name: -_-Paer-_- Character: Паша Полянцев Ping: 7
+PlayerID: 76561198352329817 Name: X_RaY Character: Учиха_Саске Ping: 195
+PlayerID: 76561198205863883 Name: Крокодил Гена Character: krokodil gena Ping: 39
+PlayerID: 76561198366284525 Name: NikiRoC Character: Никита Калашников Ping: 62
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [1] [3333]
+
+END
+bans
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27385084
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30265362
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30265378
+PlayerID: 76561198257502095
+JudgeID: 76561198237123262
+Reason: 3600 Duration: 31536000 Remaining: 31470618
+
+[Area] MaXiMuS [MaXiMuS]: "ну как всегда"
+
+END
+[World] mer_1560 [_Official_Group_GameGuardian_]: "еххехе"
+
+[Area] MaXiMuS [MaXiMuS]: "самое хорошее"
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [1] [3343]
+
+[World] mer_1560 [_Official_Group_GameGuardian_]: "нееет"
+
+MessageAnnouncer >> Broadcast: Используйте /report [ник], чтобы отправить жалобу на игрока
+
+MessageAnnouncer >> Используйте /report [ник], чтобы отправить жалобу на игрока
+
+[Group] Учиха_Саске [X_RaY]: "/buy 33 4"
+
+[World] mer_1560 [_Official_Group_GameGuardian_]: "дома много валяется патров"
+
+players
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198242496136 Name: _Official_Group_GameGuardian_ Character: mer_1560 Ping: 31
+PlayerID: 76561198315561906 Name: MaXiMuS Character: MaXiMuS Ping: 46
+PlayerID: 76561198407087458 Name: -_-Paer-_- Character: Паша Полянцев Ping: 7
+PlayerID: 76561198352329817 Name: X_RaY Character: Учиха_Саске Ping: 210
+PlayerID: 76561198205863883 Name: Крокодил Гена Character: krokodil gena Ping: 46
+PlayerID: 76561198366284525 Name: NikiRoC Character: Никита Калашников Ping: 54
+
+GET NOW
+Client has executed command "GET NOW"
+
+unban 76561198257502095
+ServerControl >> VALUE NOW [0] [1] [3355]
+
+Client has executed command "unban 76561198257502095"
+
+Successfully unbanned 76561198257502095!
+
+bans
+[Area] MaXiMuS [MaXiMuS]: "ну да"
+
+Client has executed command "bans"
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27385064
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30265342
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30265358
+
+END
+bans
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27385064
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30265342
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30265358
+
+END
+END
+[World] mer_1560 [_Official_Group_GameGuardian_]: "давай отдам"
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [1] [3365]
+
+[World] mer_1560 [_Official_Group_GameGuardian_]: "на"
+
+[Area] MaXiMuS [MaXiMuS]: "спс"
+
+players
+Client has executed command "players"
+
+GET NOW
+Players:
+PlayerID: 76561198242496136 Name: _Official_Group_GameGuardian_ Character: mer_1560 Ping: 39
+PlayerID: 76561198315561906 Name: MaXiMuS Character: MaXiMuS Ping: 54
+PlayerID: 76561198407087458 Name: -_-Paer-_- Character: Паша Полянцев Ping: 23
+PlayerID: 76561198352329817 Name: X_RaY Character: Учиха_Саске Ping: 218
+PlayerID: 76561198205863883 Name: Крокодил Гена Character: krokodil gena Ping: 31
+PlayerID: 76561198366284525 Name: NikiRoC Character: Никита Калашников Ping: 62
+Client has executed command "GET NOW"
+ServerControl >> VALUE NOW [0] [1] [3375]
+
+END
+bans
+Client has executed command "bans"
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27385042
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30265320
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30265336
+
+[World] mer_1560 [_Official_Group_GameGuardian_]: "стой там"
+
+END
+[World] MaXiMuS [MaXiMuS]: "ты куда?"
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [1] [3386]
+
+[World] mer_1560 [_Official_Group_GameGuardian_]: "залутаю"
+
+players
+GET NOW
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198242496136 Name: _Official_Group_GameGuardian_ Character: mer_1560 Ping: 23
+PlayerID: 76561198315561906 Name: MaXiMuS Character: MaXiMuS Ping: 46
+PlayerID: 76561198407087458 Name: -_-Paer-_- Character: Паша Полянцев Ping: 0
+PlayerID: 76561198352329817 Name: X_RaY Character: Учиха_Саске Ping: 179
+PlayerID: 76561198205863883 Name: Крокодил Гена Character: krokodil gena Ping: 31
+PlayerID: 76561198366284525 Name: NikiRoC Character: Никита Калашников Ping: 62
+Client has executed command "GET NOW"
+ServerControl >> VALUE NOW [0] [1] [3396]
+[World] mer_1560 [_Official_Group_GameGuardian_]: "ооо"
+
+[World] mer_1560 [_Official_Group_GameGuardian_]: "криазибек"
+
+END
+bans
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27385019
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30265297
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30265313
+
+[Group] Учиха_Саске [X_RaY]: "/buy 443 4"
+
+END
+MessageAnnouncer >> Broadcast: Наберите /rules (/r) для просмотра правил
+
+MessageAnnouncer >> Наберите /rules (/r) для просмотра правил
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [1] [3407]
+
+[World] mer_1560 [_Official_Group_GameGuardian_]: "ай ногу сломал ))"
+
+GET NOW
+Client has executed command "GET NOW"
+
+players
+ServerControl >> VALUE NOW [0] [1] [3417]
+
+Client has executed command "players"
+Players:
+PlayerID: 76561198242496136 Name: _Official_Group_GameGuardian_ Character: mer_1560 Ping: 31
+PlayerID: 76561198315561906 Name: MaXiMuS Character: MaXiMuS Ping: 54
+PlayerID: 76561198407087458 Name: -_-Paer-_- Character: Паша Полянцев Ping: 15
+PlayerID: 76561198352329817 Name: X_RaY Character: Учиха_Саске Ping: 218
+PlayerID: 76561198205863883 Name: Крокодил Гена Character: krokodil gena Ping: 31
+PlayerID: 76561198366284525 Name: NikiRoC Character: Никита Калашников Ping: 62
+
+END
+bans
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27384999
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30265277
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30265293
+
+END
+[Area] MaXiMuS [MaXiMuS]: "от радости"
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [1] [3427]
+
+[World] mer_1560 [_Official_Group_GameGuardian_]: "от прыжков"
+
+Connecting: PlayerID: 76561198077303819 Name: Arcadia Character: Arcadia
+
+Arcadia connected with IP 46.46.101.252
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [1] [3437]
+[Area] MaXiMuS [MaXiMuS]: "хаха"
+
+players
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198242496136 Name: _Official_Group_GameGuardian_ Character: mer_1560 Ping: 31
+PlayerID: 76561198315561906 Name: MaXiMuS Character: MaXiMuS Ping: 46
+PlayerID: 76561198407087458 Name: -_-Paer-_- Character: Паша Полянцев Ping: 23
+PlayerID: 76561198352329817 Name: X_RaY Character: Учиха_Саске Ping: 187
+PlayerID: 76561198205863883 Name: Крокодил Гена Character: krokodil gena Ping: 31
+PlayerID: 76561198366284525 Name: NikiRoC Character: Никита Калашников Ping: 54
+PlayerID: 76561198077303819 Name: Arcadia Character: Arcadia Ping: 101
+
+END
+bans
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27384978
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30265256
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30265272
+
+END
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [1] [3447]
+
+[World] mer_1560 [_Official_Group_GameGuardian_]: "так"
+
+[World] krokodil gena [Крокодил Гена]: "воздушное такси"
+
+[World] mer_1560 [_Official_Group_GameGuardian_]: "где мы живем ) ????"
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [1] [3457]
+
+players
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198242496136 Name: _Official_Group_GameGuardian_ Character: mer_1560 Ping: 31
+PlayerID: 76561198315561906 Name: MaXiMuS Character: MaXiMuS Ping: 54
+PlayerID: 76561198407087458 Name: -_-Paer-_- Character: Паша Полянцев Ping: 31
+PlayerID: 76561198352329817 Name: X_RaY Character: Учиха_Саске Ping: 195
+PlayerID: 76561198205863883 Name: Крокодил Гена Character: krokodil gena Ping: 39
+PlayerID: 76561198366284525 Name: NikiRoC Character: Никита Калашников Ping: 62
+PlayerID: 76561198077303819 Name: Arcadia Character: Arcadia Ping: 54
+
+[Area] MaXiMuS [MaXiMuS]: "хаха"
+
+END
+bans
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27384956
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30265234
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30265250
+
+MessageAnnouncer >> Broadcast: Добро пожаловать на HGM. Тут рады вам больше, чем на любом другом сервере!
+
+MessageAnnouncer >> Добро пожаловать на HGM. Тут рады вам больше, чем на любом другом сервере!
+
+[World] mer_1560 [_Official_Group_GameGuardian_]: "привет гена"
+
+END
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [1] [3467]
+
+[World] MaXiMuS [MaXiMuS]: "а карты у тя нет?"
+
+[World] krokodil gena [Крокодил Гена]: "хай"
+
+[Group] Учиха_Саске [X_RaY]: "/i 36 4"
+
+[World] mer_1560 [_Official_Group_GameGuardian_]: "го сначала на"
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [1] [3477]
+
+players
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198242496136 Name: _Official_Group_GameGuardian_ Character: mer_1560 Ping: 31
+PlayerID: 76561198315561906 Name: MaXiMuS Character: MaXiMuS Ping: 54
+PlayerID: 76561198407087458 Name: -_-Paer-_- Character: Паша Полянцев Ping: 7
+PlayerID: 76561198352329817 Name: X_RaY Character: Учиха_Саске Ping: 203
+PlayerID: 76561198205863883 Name: Крокодил Гена Character: krokodil gena Ping: 46
+PlayerID: 76561198366284525 Name: NikiRoC Character: Никита Калашников Ping: 54
+PlayerID: 76561198077303819 Name: Arcadia Character: Arcadia Ping: 46
+[World] mer_1560 [_Official_Group_GameGuardian_]: "скорп"
+
+END
+bans
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27384935
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30265213
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30265229
+
+END
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [1] [3487]
+
+[World] MaXiMuS [MaXiMuS]: "с радостью!"
+
+[Group] Учиха_Саске [X_RaY]: "/buy 36 4"
+
+GET NOW
+Client has executed command "GET NOW"
+ServerControl >> VALUE NOW [0] [1] [3497]
+
+Connecting: PlayerID: 76561198177412437 Name: Korak Character: Korak
+
+Korak connected with IP 95.153.83.247
+
+players
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198242496136 Name: _Official_Group_GameGuardian_ Character: mer_1560 Ping: 39
+PlayerID: 76561198315561906 Name: MaXiMuS Character: MaXiMuS Ping: 54
+PlayerID: 76561198407087458 Name: -_-Paer-_- Character: Паша Полянцев Ping: 70
+PlayerID: 76561198352329817 Name: X_RaY Character: Учиха_Саске Ping: 210
+PlayerID: 76561198205863883 Name: Крокодил Гена Character: krokodil gena Ping: 46
+PlayerID: 76561198366284525 Name: NikiRoC Character: Никита Калашников Ping: 62
+PlayerID: 76561198077303819 Name: Arcadia Character: Arcadia Ping: 54
+PlayerID: 76561198177412437 Name: Korak Character: Korak Ping: 0
+
+END
+bans
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27384914
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30265192
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30265208
+
+END
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [1] [3508]
+
+Connecting: PlayerID: 76561198369125775 Name: victor.telehoi Character: Victor_Furiosul
+
+Victor_Furiosul connected with IP 188.25.94.123
+
+krokodil gena moved x:-577.3273 y:159.0097(+120.3373) z:-513.041 in the last second (0.09999084)
+
+Не обработано: krokodil gena moved x:-577.3273 y:159.0097(+120.3373) z:-513.041 in the last second (0.09999084)
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [1] [3518]
+
+[World] Korak [Korak]: "всем здрасти"
+
+[World] mer_1560 [_Official_Group_GameGuardian_]: "ооо"
+
+players
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198242496136 Name: _Official_Group_GameGuardian_ Character: mer_1560 Ping: 39
+PlayerID: 76561198315561906 Name: MaXiMuS Character: MaXiMuS Ping: 62
+PlayerID: 76561198407087458 Name: -_-Paer-_- Character: Паша Полянцев Ping: 7
+PlayerID: 76561198352329817 Name: X_RaY Character: Учиха_Саске Ping: 195
+PlayerID: 76561198205863883 Name: Крокодил Гена Character: krokodil gena Ping: 39
+PlayerID: 76561198366284525 Name: NikiRoC Character: Никита Калашников Ping: 62
+PlayerID: 76561198077303819 Name: Arcadia Character: Arcadia Ping: 46
+PlayerID: 76561198177412437 Name: Korak Character: Korak Ping: 148
+PlayerID: 76561198369125775 Name: victor.telehoi Character: Victor_Furiosul Ping: 289
+Disconnecting: PlayerID: 76561198369125775 Name: victor.telehoi Character: Victor_Furiosul
+MessageAnnouncer >> Broadcast: Наберите /kit start, чтобы получить стартовый набор (еда, вода, топор)
+MessageAnnouncer >> Наберите /kit start, чтобы получить стартовый набор (еда, вода, топор)
+
+[World] mer_1560 [_Official_Group_GameGuardian_]: "и корак тут ))"
+
+[Area] MaXiMuS [MaXiMuS]: "чо?"
+
+END
+bans
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27384892
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30265170
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30265186
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [1] [3528]
+
+END
+[World] MaXiMuS [MaXiMuS]: "АА"
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [1] [3538]
+
+PlayerInfoLib >> No expired player info records found for this batch.
+
+Saving server
+
+Сохранение сервера
+players
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198242496136 Name: _Official_Group_GameGuardian_ Character: mer_1560 Ping: 31
+PlayerID: 76561198315561906 Name: MaXiMuS Character: MaXiMuS Ping: 46
+PlayerID: 76561198407087458 Name: -_-Paer-_- Character: Паша Полянцев Ping: 23
+PlayerID: 76561198352329817 Name: X_RaY Character: Учиха_Саске Ping: 179
+PlayerID: 76561198205863883 Name: Крокодил Гена Character: krokodil gena Ping: 39
+PlayerID: 76561198366284525 Name: NikiRoC Character: Никита Калашников Ping: 46
+PlayerID: 76561198077303819 Name: Arcadia Character: Arcadia Ping: 78
+PlayerID: 76561198177412437 Name: Korak Character: Korak Ping: 140
+
+END
+bans
+Client has executed command "bans"
+
+GET NOW
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27384871
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30265149
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30265165
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [1] [3548]
+
+END
+[World] mer_1560 [_Official_Group_GameGuardian_]: "ща поем"
+
+[Area] MaXiMuS [MaXiMuS]: "оо"
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [1] [3558]
+
+[Group] Учиха_Саске [X_RaY]: "/buy 35 7"
+
+players
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198242496136 Name: _Official_Group_GameGuardian_ Character: mer_1560 Ping: 15
+PlayerID: 76561198315561906 Name: MaXiMuS Character: MaXiMuS Ping: 62
+PlayerID: 76561198407087458 Name: -_-Paer-_- Character: Паша Полянцев Ping: 15
+PlayerID: 76561198352329817 Name: X_RaY Character: Учиха_Саске Ping: 187
+PlayerID: 76561198205863883 Name: Крокодил Гена Character: krokodil gena Ping: 31
+PlayerID: 76561198366284525 Name: NikiRoC Character: Никита Калашников Ping: 54
+PlayerID: 76561198077303819 Name: Arcadia Character: Arcadia Ping: 31
+PlayerID: 76561198177412437 Name: Korak Character: Korak Ping: 148
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [1] [3568]
+
+END
+bans
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27384850
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30265128
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30265144
+
+END
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [1] [3578]
+
+MessageAnnouncer >> Broadcast: Внимание! PvP-режим по субботам! PvP-режим!!!
+
+MessageAnnouncer >> Внимание! PvP-режим по субботам! PvP-режим!!!
+
+players
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198242496136 Name: _Official_Group_GameGuardian_ Character: mer_1560 Ping: 31
+PlayerID: 76561198315561906 Name: MaXiMuS Character: MaXiMuS Ping: 70
+PlayerID: 76561198407087458 Name: -_-Paer-_- Character: Паша Полянцев Ping: 7
+PlayerID: 76561198352329817 Name: X_RaY Character: Учиха_Саске Ping: 187
+PlayerID: 76561198205863883 Name: Крокодил Гена Character: krokodil gena Ping: 39
+PlayerID: 76561198366284525 Name: NikiRoC Character: Никита Калашников Ping: 78
+PlayerID: 76561198077303819 Name: Arcadia Character: Arcadia Ping: 46
+PlayerID: 76561198177412437 Name: Korak Character: Korak Ping: 156
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [1] [3590]
+
+[World] mer_1560 [_Official_Group_GameGuardian_]: "вайп"
+
+END
+bans
+Client has executed command "bans"
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27384827
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30265104
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30265120
+
+END
+[World] mer_1560 [_Official_Group_GameGuardian_]: "я рейлы соберу"
+
+[Area] MaXiMuS [MaXiMuS]: "вейп?"
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [0]
+
+[World] mer_1560 [_Official_Group_GameGuardian_]: "вайпер"
+
+[Area] MaXiMuS [MaXiMuS]: "аа"
+
+players
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198242496136 Name: _Official_Group_GameGuardian_ Character: mer_1560 Ping: 31
+PlayerID: 76561198315561906 Name: MaXiMuS Character: MaXiMuS Ping: 46
+PlayerID: 76561198407087458 Name: -_-Paer-_- Character: Паша Полянцев Ping: 23
+PlayerID: 76561198352329817 Name: X_RaY Character: Учиха_Саске Ping: 210
+PlayerID: 76561198205863883 Name: Крокодил Гена Character: krokodil gena Ping: 31
+PlayerID: 76561198366284525 Name: NikiRoC Character: Никита Калашников Ping: 54
+PlayerID: 76561198077303819 Name: Arcadia Character: Arcadia Ping: 46
+PlayerID: 76561198177412437 Name: Korak Character: Korak Ping: 179
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [10]
+
+[World] mer_1560 [_Official_Group_GameGuardian_]: "возми"
+
+[World] mer_1560 [_Official_Group_GameGuardian_]: "на железо"
+
+END
+bans
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27384805
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30265083
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30265099
+
+END
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [20]
+
+[Group] Учиха_Саске [X_RaY]: "/buy 36"
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [30]
+
+players
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198242496136 Name: _Official_Group_GameGuardian_ Character: mer_1560 Ping: 31
+PlayerID: 76561198315561906 Name: MaXiMuS Character: MaXiMuS Ping: 62
+PlayerID: 76561198407087458 Name: -_-Paer-_- Character: Паша Полянцев Ping: 23
+PlayerID: 76561198352329817 Name: X_RaY Character: Учиха_Саске Ping: 195
+PlayerID: 76561198205863883 Name: Крокодил Гена Character: krokodil gena Ping: 31
+PlayerID: 76561198366284525 Name: NikiRoC Character: Никита Калашников Ping: 62
+PlayerID: 76561198077303819 Name: Arcadia Character: Arcadia Ping: 62
+PlayerID: 76561198177412437 Name: Korak Character: Korak Ping: 156
+
+END
+bans
+Client has executed command "bans"
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27384785
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30265063
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30265079
+
+END
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [40]
+
+[World] mer_1560 [_Official_Group_GameGuardian_]: "го"
+
+MessageAnnouncer >> Broadcast: vk.com/unturned_hgm - группа сервера ВК, уникальный кит в записи!
+
+MessageAnnouncer >> vk.com/unturned_hgm - группа сервера ВК, уникальный кит в записи!
+
+[World] mer_1560 [_Official_Group_GameGuardian_]: "ролд"
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [50]
+
+players
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198242496136 Name: _Official_Group_GameGuardian_ Character: mer_1560 Ping: 31
+PlayerID: 76561198315561906 Name: MaXiMuS Character: MaXiMuS Ping: 62
+PlayerID: 76561198407087458 Name: -_-Paer-_- Character: Паша Полянцев Ping: 15
+PlayerID: 76561198352329817 Name: X_RaY Character: Учиха_Саске Ping: 195
+PlayerID: 76561198205863883 Name: Крокодил Гена Character: krokodil gena Ping: 39
+PlayerID: 76561198366284525 Name: NikiRoC Character: Никита Калашников Ping: 54
+PlayerID: 76561198077303819 Name: Arcadia Character: Arcadia Ping: 39
+PlayerID: 76561198177412437 Name: Korak Character: Korak Ping: 156
+
+END
+bans
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27384763
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30265041
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30265057
+
+[World] mer_1560 [_Official_Group_GameGuardian_]: "нет"
+
+END
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [60]
+
+[Group] Учиха_Саске [X_RaY]: "/buy 33 8"
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [70]
+
+[World] mer_1560 [_Official_Group_GameGuardian_]: "надо много"
+
+players
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198242496136 Name: _Official_Group_GameGuardian_ Character: mer_1560 Ping: 31
+PlayerID: 76561198315561906 Name: MaXiMuS Character: MaXiMuS Ping: 54
+PlayerID: 76561198407087458 Name: -_-Paer-_- Character: Паша Полянцев Ping: 31
+PlayerID: 76561198352329817 Name: X_RaY Character: Учиха_Саске Ping: 187
+PlayerID: 76561198205863883 Name: Крокодил Гена Character: krokodil gena Ping: 46
+PlayerID: 76561198366284525 Name: NikiRoC Character: Никита Калашников Ping: 62
+PlayerID: 76561198077303819 Name: Arcadia Character: Arcadia Ping: 93
+PlayerID: 76561198177412437 Name: Korak Character: Korak Ping: 156
+[World] mer_1560 [_Official_Group_GameGuardian_]: "железа"
+
+END
+bans
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27384742
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30265020
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30265036
+
+END
+[World] mer_1560 [_Official_Group_GameGuardian_]: "купить"
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [80]
+
+[Area] MaXiMuS [MaXiMuS]: "ок"
+
+[Area] MaXiMuS [MaXiMuS]: "а скок оно стоит"
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [90]
+
+[World] mer_1560 [_Official_Group_GameGuardian_]: ".5"
+
+[World] mer_1560 [_Official_Group_GameGuardian_]: "0.5"
+
+players
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198242496136 Name: _Official_Group_GameGuardian_ Character: mer_1560 Ping: 23
+PlayerID: 76561198315561906 Name: MaXiMuS Character: MaXiMuS Ping: 54
+PlayerID: 76561198407087458 Name: -_-Paer-_- Character: Паша Полянцев Ping: 0
+PlayerID: 76561198352329817 Name: X_RaY Character: Учиха_Саске Ping: 242
+PlayerID: 76561198205863883 Name: Крокодил Гена Character: krokodil gena Ping: 46
+PlayerID: 76561198366284525 Name: NikiRoC Character: Никита Калашников Ping: 62
+PlayerID: 76561198077303819 Name: Arcadia Character: Arcadia Ping: 39
+PlayerID: 76561198177412437 Name: Korak Character: Korak Ping: 156
+
+END
+bans
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27384720
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30264998
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30265014
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [100]
+
+END
+[World] mer_1560 [_Official_Group_GameGuardian_]: "купишь ?"
+
+[World] mer_1560 [_Official_Group_GameGuardian_]: "очень много"
+
+MessageAnnouncer >> Broadcast: Посетите наш сайт. Вы будете удивлены! unturned.hemulgm.ru
+
+MessageAnnouncer >> Посетите наш сайт. Вы будете удивлены! unturned.hemulgm.ru
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [110]
+
+[Area] MaXiMuS [MaXiMuS]: "я такиз 288 vjue regbnm"
+
+players
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198242496136 Name: _Official_Group_GameGuardian_ Character: mer_1560 Ping: 39
+PlayerID: 76561198315561906 Name: MaXiMuS Character: MaXiMuS Ping: 54
+PlayerID: 76561198407087458 Name: -_-Paer-_- Character: Паша Полянцев Ping: 23
+PlayerID: 76561198352329817 Name: X_RaY Character: Учиха_Саске Ping: 179
+PlayerID: 76561198205863883 Name: Крокодил Гена Character: krokodil gena Ping: 39
+PlayerID: 76561198366284525 Name: NikiRoC Character: Никита Калашников Ping: 62
+PlayerID: 76561198077303819 Name: Arcadia Character: Arcadia Ping: 46
+PlayerID: 76561198177412437 Name: Korak Character: Korak Ping: 156
+[World] mer_1560 [_Official_Group_GameGuardian_]: "чего"
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [120]
+
+END
+bans
+Client has executed command "bans"
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27384697
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30264975
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30264991
+
+END
+[World] krokodil gena [Крокодил Гена]: "/buy 1440 2"
+
+[Area] MaXiMuS [MaXiMuS]: "могу 288 regbnm ;tktpf"
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [130]
+
+[Group] mer_1560 [_Official_Group_GameGuardian_]: "чо"
+
+[Area] MaXiMuS [MaXiMuS]: "железа 228"
+
+[Group] mer_1560 [_Official_Group_GameGuardian_]: "))"
+
+[Group] mer_1560 [_Official_Group_GameGuardian_]: "покупай"
+
+[Area] MaXiMuS [MaXiMuS]: "288!!!!"
+
+players
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198242496136 Name: _Official_Group_GameGuardian_ Character: mer_1560 Ping: 39
+PlayerID: 76561198315561906 Name: MaXiMuS Character: MaXiMuS Ping: 78
+PlayerID: 76561198407087458 Name: -_-Paer-_- Character: Паша Полянцев Ping: 7
+PlayerID: 76561198352329817 Name: X_RaY Character: Учиха_Саске Ping: 187
+PlayerID: 76561198205863883 Name: Крокодил Гена Character: krokodil gena Ping: 31
+PlayerID: 76561198366284525 Name: NikiRoC Character: Никита Калашников Ping: 62
+PlayerID: 76561198077303819 Name: Arcadia Character: Arcadia Ping: 46
+PlayerID: 76561198177412437 Name: Korak Character: Korak Ping: 156
+
+GET NOW
+Client has executed command "GET NOW"
+ServerControl >> VALUE NOW [1] [0] [140]
+
+END
+bans
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27384677
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30264955
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30264971
+
+[Area] MaXiMuS [MaXiMuS]: "я коплю"
+
+END
+[World] krokodil gena [Крокодил Гена]: "воздушное такси\"
+
+[World] Korak [Korak]: "/home"
+
+Korak moved x:-442.3871 y:53.6906(+15.21328) z:-126.8947 in the last second (0.05000305)
+
+Не обработано: Korak moved x:-442.3871 y:53.6906(+15.21328) z:-126.8947 in the last second (0.05000305)
+[Group] mer_1560 [_Official_Group_GameGuardian_]: "на что"
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [150]
+
+[Area] MaXiMuS [MaXiMuS]: "на что то"
+
+players
+Client has executed command "players"
+
+GET NOW
+Players:
+PlayerID: 76561198242496136 Name: _Official_Group_GameGuardian_ Character: mer_1560 Ping: 39
+PlayerID: 76561198315561906 Name: MaXiMuS Character: MaXiMuS Ping: 46
+PlayerID: 76561198407087458 Name: -_-Paer-_- Character: Паша Полянцев Ping: 23
+PlayerID: 76561198352329817 Name: X_RaY Character: Учиха_Саске Ping: 203
+PlayerID: 76561198205863883 Name: Крокодил Гена Character: krokodil gena Ping: 31
+PlayerID: 76561198366284525 Name: NikiRoC Character: Никита Калашников Ping: 54
+PlayerID: 76561198077303819 Name: Arcadia Character: Arcadia Ping: 39
+PlayerID: 76561198177412437 Name: Korak Character: Korak Ping: 140
+Client has executed command "GET NOW"
+ServerControl >> VALUE NOW [1] [0] [160]
+
+END
+bans
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27384655
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30264933
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30264949
+
+[Group] mer_1560 [_Official_Group_GameGuardian_]: "))"
+
+MessageAnnouncer >> Broadcast: Наберите /kit help, чтобы получить первую мед. помощь (бинты, таблетки, еда)
+
+MessageAnnouncer >> Наберите /kit help, чтобы получить первую мед. помощь (бинты, таблетки, еда)
+
+[Area] MaXiMuS [MaXiMuS]: "сколько верт стоит?"
+
+END
+[Group] mer_1560 [_Official_Group_GameGuardian_]: "сного"
+
+[Group] mer_1560 [_Official_Group_GameGuardian_]: "очень"
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [172]
+
+players
+GET NOW
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198242496136 Name: _Official_Group_GameGuardian_ Character: mer_1560 Ping: 46
+PlayerID: 76561198315561906 Name: MaXiMuS Character: MaXiMuS Ping: 62
+PlayerID: 76561198407087458 Name: -_-Paer-_- Character: Паша Полянцев Ping: 31
+PlayerID: 76561198352329817 Name: X_RaY Character: Учиха_Саске Ping: 226
+PlayerID: 76561198205863883 Name: Крокодил Гена Character: krokodil gena Ping: 31
+PlayerID: 76561198366284525 Name: NikiRoC Character: Никита Калашников Ping: 62
+PlayerID: 76561198077303819 Name: Arcadia Character: Arcadia Ping: 62
+PlayerID: 76561198177412437 Name: Korak Character: Korak Ping: 156
+
+Client has executed command "GET NOW"
+ServerControl >> VALUE NOW [1] [0] [182]
+
+END
+bans
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27384634
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30264912
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30264928
+
+END
+[World] krokodil gena [Крокодил Гена]: "/buy 1470 2"
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [192]
+
+[Group] MaXiMuS [MaXiMuS]: "надо ОГРОМНЫЙ ящик"
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [202]
+
+[Group] mer_1560 [_Official_Group_GameGuardian_]: "какой"
+
+players
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198242496136 Name: _Official_Group_GameGuardian_ Character: mer_1560 Ping: 54
+PlayerID: 76561198315561906 Name: MaXiMuS Character: MaXiMuS Ping: 78
+PlayerID: 76561198407087458 Name: -_-Paer-_- Character: Паша Полянцев Ping: 15
+PlayerID: 76561198352329817 Name: X_RaY Character: Учиха_Саске Ping: 203
+PlayerID: 76561198205863883 Name: Крокодил Гена Character: krokodil gena Ping: 39
+PlayerID: 76561198366284525 Name: NikiRoC Character: Никита Калашников Ping: 62
+PlayerID: 76561198077303819 Name: Arcadia Character: Arcadia Ping: 54
+PlayerID: 76561198177412437 Name: Korak Character: Korak Ping: 156
+[Group] mer_1560 [_Official_Group_GameGuardian_]: "это"
+
+END
+bans
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27384612
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30264890
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30264906
+
+END
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [212]
+
+[Group] MaXiMuS [MaXiMuS]: "самый большой"
+
+[Group] Учиха_Саске [X_RaY]: "/buy 72"
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [222]
+
+MessageAnnouncer >> Broadcast: vk.com/unturned_hgm - цены на премиум, VIP и другие услуги смотрите в группе!
+
+MessageAnnouncer >> vk.com/unturned_hgm - цены на премиум, VIP и другие услуги смотрите в группе!
+
+players
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198242496136 Name: _Official_Group_GameGuardian_ Character: mer_1560 Ping: 31
+PlayerID: 76561198315561906 Name: MaXiMuS Character: MaXiMuS Ping: 85
+PlayerID: 76561198407087458 Name: -_-Paer-_- Character: Паша Полянцев Ping: 7
+PlayerID: 76561198352329817 Name: X_RaY Character: Учиха_Саске Ping: 195
+PlayerID: 76561198205863883 Name: Крокодил Гена Character: krokodil gena Ping: 39
+PlayerID: 76561198366284525 Name: NikiRoC Character: Никита Калашников Ping: 54
+PlayerID: 76561198077303819 Name: Arcadia Character: Arcadia Ping: 46
+PlayerID: 76561198177412437 Name: Korak Character: Korak Ping: 148
+[Group] mer_1560 [_Official_Group_GameGuardian_]: "это самый"
+
+END
+bans
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27384590
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30264868
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30264884
+
+END
+[Group] Учиха_Саске [X_RaY]: "/buy 69"
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [232]
+
+[Group] MaXiMuS [MaXiMuS]: "сейф?"
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [242]
+
+[Group] mer_1560 [_Official_Group_GameGuardian_]: "ага"
+
+players
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198242496136 Name: _Official_Group_GameGuardian_ Character: mer_1560 Ping: 39
+PlayerID: 76561198315561906 Name: MaXiMuS Character: MaXiMuS Ping: 62
+PlayerID: 76561198407087458 Name: -_-Paer-_- Character: Паша Полянцев Ping: 7
+PlayerID: 76561198352329817 Name: X_RaY Character: Учиха_Саске Ping: 242
+PlayerID: 76561198205863883 Name: Крокодил Гена Character: krokodil gena Ping: 31
+PlayerID: 76561198366284525 Name: NikiRoC Character: Никита Калашников Ping: 78
+PlayerID: 76561198077303819 Name: Arcadia Character: Arcadia Ping: 39
+PlayerID: 76561198177412437 Name: Korak Character: Korak Ping: 156
+
+END
+bans
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27384568
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30264846
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30264862
+
+END
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [252]
+
+Connecting: PlayerID: 76561198237123262 Name: I'M Phenomenal Character: Anthonyyy
+
+Anthonyyy connected with IP 95.46.40.88
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [262]
+
+[World] krokodil gena [Крокодил Гена]: "кому такси"
+
+players
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198242496136 Name: _Official_Group_GameGuardian_ Character: mer_1560 Ping: 23
+PlayerID: 76561198315561906 Name: MaXiMuS Character: MaXiMuS Ping: 46
+PlayerID: 76561198407087458 Name: -_-Paer-_- Character: Паша Полянцев Ping: 15
+PlayerID: 76561198352329817 Name: X_RaY Character: Учиха_Саске Ping: 195
+PlayerID: 76561198205863883 Name: Крокодил Гена Character: krokodil gena Ping: 31
+PlayerID: 76561198366284525 Name: NikiRoC Character: Никита Калашников Ping: 54
+PlayerID: 76561198077303819 Name: Arcadia Character: Arcadia Ping: 289
+PlayerID: 76561198177412437 Name: Korak Character: Korak Ping: 156
+PlayerID: 76561198237123262 Name: I'M Phenomenal Character: Anthonyyy Ping: 0
+
+END
+bans
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27384547
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30264825
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30264841
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [272]
+
+END
+[Group] mer_1560 [_Official_Group_GameGuardian_]: "продамка я все рейлы ))"
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [282]
+
+[Group] mer_1560 [_Official_Group_GameGuardian_]: "/sell rail 12"
+
+MessageAnnouncer >> Broadcast: Наберите /kit claim, чтобы получить Claim Flag
+
+MessageAnnouncer >> Наберите /kit claim, чтобы получить Claim Flag
+
+[Area] MaXiMuS [MaXiMuS]: "сто такое рейлы?"
+
+[Group] Учиха_Саске [X_RaY]: "/buy 71"
+
+players
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198242496136 Name: _Official_Group_GameGuardian_ Character: mer_1560 Ping: 46
+PlayerID: 76561198315561906 Name: MaXiMuS Character: MaXiMuS Ping: 62
+PlayerID: 76561198407087458 Name: -_-Paer-_- Character: Паша Полянцев Ping: 15
+PlayerID: 76561198352329817 Name: X_RaY Character: Учиха_Саске Ping: 210
+PlayerID: 76561198205863883 Name: Крокодил Гена Character: krokodil gena Ping: 31
+PlayerID: 76561198366284525 Name: NikiRoC Character: Никита Калашников Ping: 62
+PlayerID: 76561198077303819 Name: Arcadia Character: Arcadia Ping: 54
+PlayerID: 76561198177412437 Name: Korak Character: Korak Ping: 156
+PlayerID: 76561198237123262 Name: I'M Phenomenal Character: Anthonyyy Ping: 257
+[Group] MaXiMuS [MaXiMuS]: "что*"
+
+GET NOW
+Client has executed command "GET NOW"
+ServerControl >> VALUE NOW [1] [0] [295]
+
+END
+bans
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27384522
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30264800
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30264816
+
+END
+[Group] mer_1560 [_Official_Group_GameGuardian_]: "патроны для шадов сталкера"
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [305]
+[Area] MaXiMuS [MaXiMuS]: "ааа"
+
+[Group] mer_1560 [_Official_Group_GameGuardian_]: "и сталкер продам ))"
+
+Connecting: PlayerID: 76561198101403061 Name: antifist Character: Помелов Андрей
+
+Помелов Андрей connected with IP 37.112.184.94
+
+Disconnecting: PlayerID: 76561198237123262 Name: I'M Phenomenal Character: Anthonyyy
+
+[Group] mer_1560 [_Official_Group_GameGuardian_]: "нах надо"
+
+players
+Client has executed command "players"
+
+GET NOW
+Players:
+PlayerID: 76561198242496136 Name: _Official_Group_GameGuardian_ Character: mer_1560 Ping: 46
+PlayerID: 76561198315561906 Name: MaXiMuS Character: MaXiMuS Ping: 62
+PlayerID: 76561198407087458 Name: -_-Paer-_- Character: Паша Полянцев Ping: 15
+PlayerID: 76561198352329817 Name: X_RaY Character: Учиха_Саске Ping: 234
+PlayerID: 76561198205863883 Name: Крокодил Гена Character: krokodil gena Ping: 31
+PlayerID: 76561198366284525 Name: NikiRoC Character: Никита Калашников Ping: 93
+PlayerID: 76561198077303819 Name: Arcadia Character: Arcadia Ping: 39
+PlayerID: 76561198177412437 Name: Korak Character: Korak Ping: 148
+PlayerID: 76561198101403061 Name: antifist Character: Помелов Андрей Ping: 39
+Client has executed command "GET NOW"
+ServerControl >> VALUE NOW [1] [0] [315]
+
+END
+bans
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27384501
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30264779
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30264795
+
+END
+[Group] mer_1560 [_Official_Group_GameGuardian_]: "/sell shadow"
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [326]
+
+[Group] Учиха_Саске [X_RaY]: "/i 1445 2"
+
+[Group] mer_1560 [_Official_Group_GameGuardian_]: "и пиасемейкеры"
+
+EventProcEcho
+cchat "/33/09/17/04/17/15/16 /24/05/17/05/08 4 /24. 30 /13. " 255 255 0
+Client has executed command "cchat "/33/09/17/04/17/15/16 /24/05/17/05/08 4 /24. 30 /13. " 255 255 0"
+
+ServerControl >> Broadcast: Аирдроп через 4 ч. 30 м.
+
+Не обработано: ServerControl >> Broadcast: Аирдроп через 4 ч. 30 м.
+[Group] mer_1560 [_Official_Group_GameGuardian_]: "и все"
+
+GET NOW
+players
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [336]
+
+Client has executed command "players"
+Players:
+PlayerID: 76561198242496136 Name: _Official_Group_GameGuardian_ Character: mer_1560 Ping: 39
+PlayerID: 76561198315561906 Name: MaXiMuS Character: MaXiMuS Ping: 54
+PlayerID: 76561198407087458 Name: -_-Paer-_- Character: Паша Полянцев Ping: 23
+PlayerID: 76561198352329817 Name: X_RaY Character: Учиха_Саске Ping: 257
+PlayerID: 76561198205863883 Name: Крокодил Гена Character: krokodil gena Ping: 46
+PlayerID: 76561198366284525 Name: NikiRoC Character: Никита Калашников Ping: 54
+PlayerID: 76561198077303819 Name: Arcadia Character: Arcadia Ping: 93
+PlayerID: 76561198177412437 Name: Korak Character: Korak Ping: 156
+PlayerID: 76561198101403061 Name: antifist Character: Помелов Андрей Ping: 39
+
+END
+bans
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27384480
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30264758
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30264774
+
+[Group] mer_1560 [_Official_Group_GameGuardian_]: "больше ничо"
+
+END
+[Group] mer_1560 [_Official_Group_GameGuardian_]: "а нет"
+
+[Group] Учиха_Саске [X_RaY]: "/buy 1445 2"
+
+MessageAnnouncer >> Broadcast: Если модератор ведёт себя неподобающе, пишите в группу или ЛС (vk.com/unturned_hgm, vk.com/hemulgm)
+
+MessageAnnouncer >> Если модератор ведёт себя неподобающе, пишите в группу или ЛС (vk.com/unturned_hgm, vk.com/hemulgm)
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [346]
+
+[World] MaXiMuS [MaXiMuS]: "кстати"
+
+[Group] mer_1560 [_Official_Group_GameGuardian_]: "на железо их"
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [356]
+
+players
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198242496136 Name: _Official_Group_GameGuardian_ Character: mer_1560 Ping: 39
+PlayerID: 76561198315561906 Name: MaXiMuS Character: MaXiMuS Ping: 62
+PlayerID: 76561198407087458 Name: -_-Paer-_- Character: Паша Полянцев Ping: 23
+PlayerID: 76561198352329817 Name: X_RaY Character: Учиха_Саске Ping: 195
+PlayerID: 76561198205863883 Name: Крокодил Гена Character: krokodil gena Ping: 39
+PlayerID: 76561198366284525 Name: NikiRoC Character: Никита Калашников Ping: 62
+PlayerID: 76561198077303819 Name: Arcadia Character: Arcadia Ping: 62
+PlayerID: 76561198177412437 Name: Korak Character: Korak Ping: 156
+PlayerID: 76561198101403061 Name: antifist Character: Помелов Андрей Ping: 46
+[Group] mer_1560 [_Official_Group_GameGuardian_]: "что"
+
+END
+bans
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27384459
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30264737
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30264753
+
+END
+[Group] mer_1560 [_Official_Group_GameGuardian_]: "в группу пиши"
+
+[Area] MaXiMuS [MaXiMuS]: "почему я нашел свой аулик но в нем 17 патрон?"
+
+[World] krokodil gena [Крокодил Гена]: "кому такси"
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [366]
+
+[Group] mer_1560 [_Official_Group_GameGuardian_]: "ну так то"
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [376]
+
+[World] krokodil gena [Крокодил Гена]: "воздушное"
+
+players
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198242496136 Name: _Official_Group_GameGuardian_ Character: mer_1560 Ping: 39
+PlayerID: 76561198315561906 Name: MaXiMuS Character: MaXiMuS Ping: 62
+PlayerID: 76561198407087458 Name: -_-Paer-_- Character: Паша Полянцев Ping: 23
+PlayerID: 76561198352329817 Name: X_RaY Character: Учиха_Саске Ping: 203
+PlayerID: 76561198205863883 Name: Крокодил Гена Character: krokodil gena Ping: 31
+PlayerID: 76561198366284525 Name: NikiRoC Character: Никита Калашников Ping: 54
+PlayerID: 76561198077303819 Name: Arcadia Character: Arcadia Ping: 39
+PlayerID: 76561198177412437 Name: Korak Character: Korak Ping: 156
+PlayerID: 76561198101403061 Name: antifist Character: Помелов Андрей Ping: 62
+[Group] MaXiMuS [MaXiMuS]: "пулик"
+[Group] mer_1560 [_Official_Group_GameGuardian_]: "я его потратил ))"
+
+END
+bans
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27384437
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30264715
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30264731
+
+END
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [386]
+
+Connecting: PlayerID: 76561198237123262 Name: I'M Phenomenal Character: Anthonyyy
+
+Anthonyyy connected with IP 95.46.40.88
+
+admins
+Client has executed command "admins"
+
+Admins:
+PlayerID: 76561198119509031
+JudgeID: 0
+
+[Group] mer_1560 [_Official_Group_GameGuardian_]: "но другой нашел"
+
+END
+[Group] MaXiMuS [MaXiMuS]: "ну как всегда"
+
+[Group] mer_1560 [_Official_Group_GameGuardian_]: "в других я щиках поищи"
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [396]
+
+[Group] mer_1560 [_Official_Group_GameGuardian_]: "военный"
+
+players
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198242496136 Name: _Official_Group_GameGuardian_ Character: mer_1560 Ping: 39
+PlayerID: 76561198315561906 Name: MaXiMuS Character: MaXiMuS Ping: 54
+PlayerID: 76561198407087458 Name: -_-Paer-_- Character: Паша Полянцев Ping: 23
+PlayerID: 76561198352329817 Name: X_RaY Character: Учиха_Саске Ping: 203
+PlayerID: 76561198205863883 Name: Крокодил Гена Character: krokodil gena Ping: 31
+PlayerID: 76561198366284525 Name: NikiRoC Character: Никита Калашников Ping: 54
+PlayerID: 76561198077303819 Name: Arcadia Character: Arcadia Ping: 54
+PlayerID: 76561198177412437 Name: Korak Character: Korak Ping: 148
+PlayerID: 76561198101403061 Name: antifist Character: Помелов Андрей Ping: 54
+PlayerID: 76561198237123262 Name: I'M Phenomenal Character: Anthonyyy Ping: 46
+
+END
+bans
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27384416
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30264694
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30264710
+
+[Group] mer_1560 [_Official_Group_GameGuardian_]: "со всеми по моему патронами"
+
+MessageAnnouncer >> Broadcast: Посетите наш сайт. Вы будете удивлены! unturned.hemulgm.ru
+
+MessageAnnouncer >> Посетите наш сайт. Вы будете удивлены! unturned.hemulgm.ru
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [406]
+
+[World] Anthonyyy [I'M Phenomenal]: "Всеем привет"
+
+[Group] mer_1560 [_Official_Group_GameGuardian_]: "тут"
+
+END
+[World] Korak [Korak]: "аллоха"
+
+[Group] mer_1560 [_Official_Group_GameGuardian_]: "привет"
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [416]
+
+[World] krokodil gena [Крокодил Гена]: "хай"
+
+[World] mer_1560 [_Official_Group_GameGuardian_]: "привет"
+
+[World] Anthonyyy [I'M Phenomenal]: "Крокодил гена"
+
+players
+[World] mer_1560 [_Official_Group_GameGuardian_]: "антони"
+
+Client has executed command "players"
+Players:
+PlayerID: 76561198242496136 Name: _Official_Group_GameGuardian_ Character: mer_1560 Ping: 39
+PlayerID: 76561198315561906 Name: MaXiMuS Character: MaXiMuS Ping: 85
+PlayerID: 76561198407087458 Name: -_-Paer-_- Character: Паша Полянцев Ping: 15
+PlayerID: 76561198352329817 Name: X_RaY Character: Учиха_Саске Ping: 226
+PlayerID: 76561198205863883 Name: Крокодил Гена Character: krokodil gena Ping: 31
+PlayerID: 76561198366284525 Name: NikiRoC Character: Никита Калашников Ping: 54
+PlayerID: 76561198077303819 Name: Arcadia Character: Arcadia Ping: 46
+PlayerID: 76561198177412437 Name: Korak Character: Korak Ping: 156
+PlayerID: 76561198101403061 Name: antifist Character: Помелов Андрей Ping: 54
+PlayerID: 76561198237123262 Name: I'M Phenomenal Character: Anthonyyy Ping: 62
+
+END
+bans
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27384396
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30264674
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30264690
+
+END
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [426]
+

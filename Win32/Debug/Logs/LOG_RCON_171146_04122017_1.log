@@ -1,0 +1,330 @@
+RocketRcon v2.4.8.0
+
+login aVIPs22031994
+players
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198403731875 Name: Malav Character: Malav Ping: 46
+PlayerID: 76561198416514639 Name: Aulak Character: Aulak Ping: 58
+
+Client has executed command "bans"
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27039698
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 29919976
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 29919992
+PlayerID: 76561198408019916
+JudgeID: 76561198237123262
+Reason: raid Duration: 604800 Remaining: 272323
+PlayerID: 76561198366284525
+JudgeID: 76561198237123262
+Reason: REKLAMA Duration: 604800 Remaining: 450492
+
+END
+[World] Malav [Malav]: "/tpaaccept"
+Client has executed command "GET NOW"
+ServerControl >> VALUE NOW [1] [0] [2087]
+
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198403731875 Name: Malav Character: Malav Ping: 54
+PlayerID: 76561198416514639 Name: Aulak Character: Aulak Ping: 78
+
+END
+END
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27039693
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 29919971
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 29919987
+PlayerID: 76561198408019916
+JudgeID: 76561198237123262
+Reason: raid Duration: 604800 Remaining: 272318
+PlayerID: 76561198366284525
+JudgeID: 76561198237123262
+
+Reason: REKLAMA Duration: 604800 Remaining: 450487
+
+[World] Malav [Malav]: "/tpa accept"
+Connecting: PlayerID: 76561198133535023 Name: Emil`) Character: Адель Гиниятулли
+Адель Гиниятулли connected with IP 89.232.69.83
+
+END
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [2097]
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [2097]
+
+GET NOW
+Client has executed command "GET NOW"
+ServerControl >> VALUE NOW [1] [0] [2107]
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [2108]
+
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198403731875 Name: Malav Character: Malav Ping: 42
+PlayerID: 76561198416514639 Name: Aulak Character: Aulak Ping: 89
+PlayerID: 76561198133535023 Name: Emil`) Character: Адель Гиниятулли Ping: 113
+
+END
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27039673
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 29919951
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 29919967
+PlayerID: 76561198408019916
+JudgeID: 76561198237123262
+Reason: raid Duration: 604800 Remaining: 272298
+PlayerID: 76561198366284525
+JudgeID: 76561198237123262
+Reason: REKLAMA Duration: 604800 Remaining: 450467
+
+END
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [2117]
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [2118]
+
+[World] Aulak [Aulak]: "/home"
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [2127]
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [2129]
+
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198403731875 Name: Malav Character: Malav Ping: 42
+PlayerID: 76561198416514639 Name: Aulak Character: Aulak Ping: 78
+PlayerID: 76561198133535023 Name: Emil`) Character: Адель Гиниятулли Ping: 101
+
+MessageAnnouncer >> Broadcast: vk.com/unturned_hgm - цены на премиум, VIP и другие услуги смотрите в группе!
+
+MessageAnnouncer >> vk.com/unturned_hgm - цены на премиум, VIP и другие услуги смотрите в группе!
+
+[World] Адель Гиниятулли [Emil`)]: "/kit start"
+
+Client has executed command "bans"
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27039652
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 29919930
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 29919946
+PlayerID: 76561198408019916
+JudgeID: 76561198237123262
+Reason: raid Duration: 604800 Remaining: 272277
+PlayerID: 76561198366284525
+JudgeID: 76561198237123262
+Reason: REKLAMA Duration: 604800 Remaining: 450446
+
+END
+END
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [2137]
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [2139]
+
+[World] Aulak [Aulak]: "/tpa malav"
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [2147]
+
+[World] Malav [Malav]: "/tpa accept"
+
+GET NOW
+Client has executed command "players"
+Players:
+PlayerID: 76561198403731875 Name: Malav Character: Malav Ping: 39
+PlayerID: 76561198416514639 Name: Aulak Character: Aulak Ping: 101
+PlayerID: 76561198133535023 Name: Emil`) Character: Адель Гиниятулли Ping: 93
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [2150]
+
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27039632
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 29919910
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 29919926
+PlayerID: 76561198408019916
+JudgeID: 76561198237123262
+Reason: raid Duration: 604800 Remaining: 272257
+PlayerID: 76561198366284525
+JudgeID: 76561198237123262
+Reason: REKLAMA Duration: 604800 Remaining: 450426
+
+END
+END
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [2157]
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [2160]
+
+Client has executed command "cchat "/33/09/17/04/17/15/16 /24/05/17/05/08 4 /24. 10 /13. " 255 255 0"
+
+ServerControl >> Broadcast: Аирдроп через 4 ч. 10 м.
+
+Не обработано: ServerControl >> Broadcast: Аирдроп через 4 ч. 10 м.
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [2167]
+
+[World] Адель Гиниятулли [Emil`)]: "Bcem Привет)"
+
+Client has executed command "players"
+Players:
+PlayerID: 76561198403731875 Name: Malav Character: Malav Ping: 42
+PlayerID: 76561198416514639 Name: Aulak Character: Aulak Ping: 62
+PlayerID: 76561198133535023 Name: Emil`) Character: Адель Гиниятулли Ping: 93
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [2172]
+
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27039611
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 29919889
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 29919905
+PlayerID: 76561198408019916
+JudgeID: 76561198237123262
+Reason: raid Duration: 604800 Remaining: 272236
+PlayerID: 76561198366284525
+JudgeID: 76561198237123262
+Reason: REKLAMA Duration: 604800 Remaining: 450405
+
+END
+END
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [2177]
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [2182]
+
+[World] Aulak [Aulak]: "Привет"
+
+[World] Aulak [Aulak]: "/tpa malav"
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [2187]
+
+[World] Malav [Malav]: "Gjrf"
+
+[World] Malav [Malav]: "Пока"
+
+MessageAnnouncer >> Broadcast: Наберите /kit claim, чтобы получить Claim Flag
+
+MessageAnnouncer >> Наберите /kit claim, чтобы получить Claim Flag
+
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198403731875 Name: Malav Character: Malav Ping: 39
+PlayerID: 76561198416514639 Name: Aulak Character: Aulak Ping: 82
+PlayerID: 76561198133535023 Name: Emil`) Character: Адель Гиниятулли Ping: 101
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [2193]
+
+Client has executed command "bans"
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27039590
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 29919868
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 29919884
+PlayerID: 76561198408019916
+JudgeID: 76561198237123262
+Reason: raid Duration: 604800 Remaining: 272215
+PlayerID: 76561198366284525
+JudgeID: 76561198237123262
+Reason: REKLAMA Duration: 604800 Remaining: 450384
+
+END
+[World] Адель Гиниятулли [Emil`)]: "Пока"
+
+END
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [2197]
+
+[World] Malav [Malav]: "/tpa accept"
+

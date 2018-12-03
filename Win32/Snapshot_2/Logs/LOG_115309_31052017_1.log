@@ -1,0 +1,41 @@
+Не обработано: RocketRcon v2.4.8.0
+RocketRcon v2.4.8.0
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 140
+PlayerID: 76561198300812301 Name: KiLeR00707 Character: KiLeR00707 Ping: 70
+PlayerID: 76561198345092267 Name: demid3450 Character: [гл террористов] демид журавлёв Ping: 132
+PlayerID: 76561198200101595 Name: NEVALYASHA Character: NEVALYASHA Ping: 113
+PlayerID: 76561198262994976 Name: XxX_ARMAЗ_XxX Character: shilyaev710 Ping: 117
+PlayerID: 76561198303283372 Name: PeR4IK Character: данил Ping: 85
+PlayerID: 76561198123840535 Name: ?????? Character: top Ping: 117
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 39
+PlayerID: 76561198292543416 Name: Mr_GiladKing Character: GamerYT Ping: 62
+PlayerID: 76561198295801599 Name: Lo[x] Character: Lo[x] Ping: 62
+PlayerID: 76561198314140913 Name: DireHick Character: JeffRee Ping: 19
+PlayerID: 76561198314638573 Name: UDODMEN Character: udodmen Ping: 78
+PlayerID: 76561198176817369 Name: ?. Character: GlodiS Ping: 85
+PlayerID: 76561198241901342 Name: Podarochek Character: Игорь Петрович Ping: 121
+PlayerID: 76561198225218476 Name: Dr Zomberg Character: Dr Zomberg Ping: 74
+
+TimerTerminateCommand.Enabled with Bans:
+[World] 7_AleX_3 [7_AleX_3]: "да"
+Client has executed command "bans"
+Bans:
+PlayerID: 123123
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 31471218
+PlayerID: 123
+
+TimerTerminateCommand.Enabled with Bans:
+JudgeID: 0
+Reason: durila Duration: 4000 Remaining: 4294907012
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294935385
+
+[World] Expert1337 [Expert13372284200]: "xtuj"
+

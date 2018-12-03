@@ -1,0 +1,107 @@
+Не обработано: RocketRcon v2.4.8.0
+RocketRcon v2.4.8.0
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198369248070 Name: Ali Character: Ali Ping: 152
+PlayerID: 76561198165822970 Name: Indigo Character: Indigo Ping: 35
+PlayerID: 76561198114070067 Name: Super iGeroy Character: Samurai Ping: 42
+PlayerID: 76561198351213164 Name: _АхМеД_ Character: Виндяй Вечеслав Ping: 105
+PlayerID: 76561198363828451 Name: Ничоси Character: Кеша Ping: 39
+PlayerID: 76561198334346242 Name: мареонетка Character: [Кровавые]хмурый Ping: 101
+PlayerID: 76561198381173735 Name: ingener_spring Character: ingener_spring Ping: 164
+PlayerID: 76561198193423317 Name: Bandit Character: Bandit Ping: 70
+PlayerID: 76561198190614569 Name: ___Ru$$ian BaNDit___ Character: Argus Ping: 70
+PlayerID: 76561198392163437 Name: Unlocker Character: Unlocker Ping: 109
+PlayerID: 76561198368128006 Name: Aibek Character: Aibek [A.S.D] Ping: 97
+PlayerID: 76561198346656228 Name: #Sanion# Character: Citrus Ping: 101
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 123123
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 31021773
+PlayerID: 123
+JudgeID: 0
+Reason: durila Duration: 4000 Remaining: 4294457567
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294485940
+
+END with Bans:
+[World] Indigo [Indigo]: "а как мне машину можно получить?"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198369248070 Name: Ali Character: Ali Ping: 148
+PlayerID: 76561198165822970 Name: Indigo Character: Indigo Ping: 46
+PlayerID: 76561198114070067 Name: Super iGeroy Character: Samurai Ping: 50
+PlayerID: 76561198351213164 Name: _АхМеД_ Character: Виндяй Вечеслав Ping: 171
+PlayerID: 76561198363828451 Name: Ничоси Character: Кеша Ping: 42
+PlayerID: 76561198334346242 Name: мареонетка Character: [Кровавые]хмурый Ping: 128
+PlayerID: 76561198381173735 Name: ingener_spring Character: ingener_spring Ping: 218
+PlayerID: 76561198193423317 Name: Bandit Character: Bandit Ping: 78
+PlayerID: 76561198190614569 Name: ___Ru$$ian BaNDit___ Character: Argus Ping: 82
+PlayerID: 76561198392163437 Name: Unlocker Character: Unlocker Ping: 136
+PlayerID: 76561198368128006 Name: Aibek Character: Aibek [A.S.D] Ping: 101
+PlayerID: 76561198346656228 Name: #Sanion# Character: Citrus Ping: 113
+
+TimerTerminateCommand.Enabled with Players:
+[World] Bandit [Bandit]: "/kit claim"
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 123123
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 31021751
+PlayerID: 123
+JudgeID: 0
+Reason: durila Duration: 4000 Remaining: 4294457545
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294485918
+
+END with Bans:
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198369248070 Name: Ali Character: Ali Ping: 140
+PlayerID: 76561198165822970 Name: Indigo Character: Indigo Ping: 50
+PlayerID: 76561198114070067 Name: Super iGeroy Character: Samurai Ping: 42
+PlayerID: 76561198351213164 Name: _АхМеД_ Character: Виндяй Вечеслав Ping: 160
+PlayerID: 76561198363828451 Name: Ничоси Character: Кеша Ping: 35
+PlayerID: 76561198334346242 Name: мареонетка Character: [Кровавые]хмурый Ping: 117
+PlayerID: 76561198381173735 Name: ingener_spring Character: ingener_spring Ping: 164
+PlayerID: 76561198193423317 Name: Bandit Character: Bandit Ping: 66
+PlayerID: 76561198190614569 Name: ___Ru$$ian BaNDit___ Character: Argus Ping: 66
+PlayerID: 76561198392163437 Name: Unlocker Character: Unlocker Ping: 109
+PlayerID: 76561198368128006 Name: Aibek Character: Aibek [A.S.D] Ping: 97
+PlayerID: 76561198346656228 Name: #Sanion# Character: Citrus Ping: 97
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 123123
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 31021739
+PlayerID: 123
+JudgeID: 0
+Reason: durila Duration: 4000 Remaining: 4294457533
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294485906
+
+END with Bans:

@@ -1,0 +1,2856 @@
+Не обработано: RocketRcon v2.4.8.0
+RocketRcon v2.4.8.0
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198369248070 Name: Ali Character: Ali Ping: 144
+PlayerID: 76561198165822970 Name: Indigo Character: Indigo Ping: 39
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 144
+PlayerID: 76561198368128006 Name: Aibek Character: Aibek [A.S.D] Ping: 93
+PlayerID: 76561198328119181 Name: Fex Character: Fex Ping: 42
+PlayerID: 76561198114070067 Name: Super iGeroy Character: Samurai Ping: 50
+PlayerID: 76561198381575360 Name: sehdzscuygs Character: sehdzscuygs Ping: 207
+PlayerID: 76561198392717455 Name: yusufcalik2006 Character: pro Ping: 183
+PlayerID: 76561198351213164 Name: _АхМеД_ Character: Виндяй Вечеслав Ping: 117
+PlayerID: 76561198363828451 Name: Ничоси Character: Кеша Ping: 42
+PlayerID: 76561198334346242 Name: мареонетка Character: [Кровавые]хмурый Ping: 113
+PlayerID: 76561198341672556 Name: st.vladir Character: st.vladir Ping: 160
+PlayerID: 76561198390395377 Name: russianfederationforever Character: Русский_Патриот Ping: 42
+PlayerID: 76561198381173735 Name: ingener_spring Character: ingener_spring Ping: 148
+PlayerID: 76561198361426439 Name: YouTube-kotik_killer Character: YouTube-kotik_killer Ping: 140
+
+TimerTerminateCommand.Enabled with Players:
+[World] Indigo [Indigo]: "и спальник"
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 123123
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 31024062
+PlayerID: 123
+JudgeID: 0
+Reason: durila Duration: 4000 Remaining: 4294459856
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294488229
+
+END with Bans:
+[World] Expert1337 [Expert13372284200]: "кити вкл"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198369248070 Name: Ali Character: Ali Ping: 156
+PlayerID: 76561198165822970 Name: Indigo Character: Indigo Ping: 50
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 156
+PlayerID: 76561198368128006 Name: Aibek Character: Aibek [A.S.D] Ping: 105
+PlayerID: 76561198328119181 Name: Fex Character: Fex Ping: 58
+PlayerID: 76561198114070067 Name: Super iGeroy Character: Samurai Ping: 50
+PlayerID: 76561198381575360 Name: sehdzscuygs Character: sehdzscuygs Ping: 207
+PlayerID: 76561198392717455 Name: yusufcalik2006 Character: pro Ping: 183
+PlayerID: 76561198351213164 Name: _АхМеД_ Character: Виндяй Вечеслав Ping: 144
+PlayerID: 76561198363828451 Name: Ничоси Character: Кеша Ping: 46
+PlayerID: 76561198334346242 Name: мареонетка Character: [Кровавые]хмурый Ping: 121
+PlayerID: 76561198341672556 Name: st.vladir Character: st.vladir Ping: 148
+PlayerID: 76561198390395377 Name: russianfederationforever Character: Русский_Патриот Ping: 66
+PlayerID: 76561198381173735 Name: ingener_spring Character: ingener_spring Ping: 148
+PlayerID: 76561198361426439 Name: YouTube-kotik_killer Character: YouTube-kotik_killer Ping: 140
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 123123
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 31024043
+PlayerID: 123
+JudgeID: 0
+Reason: durila Duration: 4000 Remaining: 4294459837
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294488210
+
+TimerTerminateCommand.Enabled with Bans:
+[World] Samurai [Super iGeroy]: "Клэйми"
+
+TimerTerminateCommand.Enabled with Bans:
+[World] Expert1337 [Expert13372284200]: "киты"
+
+END with Bans:
+[World] Samurai [Super iGeroy]: "воо"
+
+[World] Expert1337 [Expert13372284200]: "/kit hgm1"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198369248070 Name: Ali Character: Ali Ping: 148
+PlayerID: 76561198165822970 Name: Indigo Character: Indigo Ping: 42
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 152
+PlayerID: 76561198368128006 Name: Aibek Character: Aibek [A.S.D] Ping: 101
+PlayerID: 76561198328119181 Name: Fex Character: Fex Ping: 50
+PlayerID: 76561198114070067 Name: Super iGeroy Character: Samurai Ping: 42
+PlayerID: 76561198381575360 Name: sehdzscuygs Character: sehdzscuygs Ping: 179
+PlayerID: 76561198392717455 Name: yusufcalik2006 Character: pro Ping: 187
+PlayerID: 76561198351213164 Name: _АхМеД_ Character: Виндяй Вечеслав Ping: 109
+PlayerID: 76561198363828451 Name: Ничоси Character: Кеша Ping: 39
+PlayerID: 76561198334346242 Name: мареонетка Character: [Кровавые]хмурый Ping: 253
+PlayerID: 76561198341672556 Name: st.vladir Character: st.vladir Ping: 148
+PlayerID: 76561198390395377 Name: russianfederationforever Character: Русский_Патриот Ping: 70
+PlayerID: 76561198381173735 Name: ingener_spring Character: ingener_spring Ping: 230
+PlayerID: 76561198361426439 Name: YouTube-kotik_killer Character: YouTube-kotik_killer Ping: 128
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 123123
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 31024023
+PlayerID: 123
+JudgeID: 0
+Reason: durila Duration: 4000 Remaining: 4294459817
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294488190
+
+END with Bans:
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198369248070 Name: Ali Character: Ali Ping: 152
+PlayerID: 76561198165822970 Name: Indigo Character: Indigo Ping: 50
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 136
+PlayerID: 76561198368128006 Name: Aibek Character: Aibek [A.S.D] Ping: 97
+PlayerID: 76561198328119181 Name: Fex Character: Fex Ping: 58
+PlayerID: 76561198114070067 Name: Super iGeroy Character: Samurai Ping: 50
+PlayerID: 76561198381575360 Name: sehdzscuygs Character: sehdzscuygs Ping: 199
+PlayerID: 76561198392717455 Name: yusufcalik2006 Character: pro Ping: 191
+PlayerID: 76561198351213164 Name: _АхМеД_ Character: Виндяй Вечеслав Ping: 109
+PlayerID: 76561198363828451 Name: Ничоси Character: Кеша Ping: 42
+PlayerID: 76561198334346242 Name: мареонетка Character: [Кровавые]хмурый Ping: 109
+PlayerID: 76561198341672556 Name: st.vladir Character: st.vladir Ping: 175
+PlayerID: 76561198390395377 Name: russianfederationforever Character: Русский_Патриот Ping: 46
+PlayerID: 76561198381173735 Name: ingener_spring Character: ingener_spring Ping: 152
+PlayerID: 76561198361426439 Name: YouTube-kotik_killer Character: YouTube-kotik_killer Ping: 132
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 123123
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 31024003
+PlayerID: 123
+JudgeID: 0
+Reason: durila Duration: 4000 Remaining: 4294459797
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294488170
+
+END with Bans:
+[World] ingener_spring [ingener_spring]: "/kit start"
+
+[World] Expert1337 [Expert13372284200]: "шкав с едой сделаю"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198369248070 Name: Ali Character: Ali Ping: 152
+PlayerID: 76561198165822970 Name: Indigo Character: Indigo Ping: 42
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 121
+PlayerID: 76561198368128006 Name: Aibek Character: Aibek [A.S.D] Ping: 93
+PlayerID: 76561198328119181 Name: Fex Character: Fex Ping: 46
+PlayerID: 76561198114070067 Name: Super iGeroy Character: Samurai Ping: 42
+PlayerID: 76561198381575360 Name: sehdzscuygs Character: sehdzscuygs Ping: 199
+PlayerID: 76561198392717455 Name: yusufcalik2006 Character: pro Ping: 164
+PlayerID: 76561198351213164 Name: _АхМеД_ Character: Виндяй Вечеслав Ping: 85
+PlayerID: 76561198363828451 Name: Ничоси Character: Кеша Ping: 39
+PlayerID: 76561198334346242 Name: мареонетка Character: [Кровавые]хмурый Ping: 113
+PlayerID: 76561198341672556 Name: st.vladir Character: st.vladir Ping: 144
+PlayerID: 76561198390395377 Name: russianfederationforever Character: Русский_Патриот Ping: 39
+PlayerID: 76561198381173735 Name: ingener_spring Character: ingener_spring Ping: 144
+PlayerID: 76561198361426439 Name: YouTube-kotik_killer Character: YouTube-kotik_killer Ping: 125
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 123123
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 31023983
+PlayerID: 123
+JudgeID: 0
+Reason: durila Duration: 4000 Remaining: 4294459777
+
+TimerTerminateCommand.Enabled with Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294488150
+
+END with Bans:
+[World] Indigo [Indigo]: "эксперт"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198369248070 Name: Ali Character: Ali Ping: 148
+PlayerID: 76561198165822970 Name: Indigo Character: Indigo Ping: 39
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 140
+PlayerID: 76561198368128006 Name: Aibek Character: Aibek [A.S.D] Ping: 89
+PlayerID: 76561198328119181 Name: Fex Character: Fex Ping: 50
+PlayerID: 76561198114070067 Name: Super iGeroy Character: Samurai Ping: 46
+PlayerID: 76561198381575360 Name: sehdzscuygs Character: sehdzscuygs Ping: 222
+PlayerID: 76561198392717455 Name: yusufcalik2006 Character: pro Ping: 175
+PlayerID: 76561198351213164 Name: _АхМеД_ Character: Виндяй Вечеслав Ping: 117
+PlayerID: 76561198363828451 Name: Ничоси Character: Кеша Ping: 42
+PlayerID: 76561198334346242 Name: мареонетка Character: [Кровавые]хмурый Ping: 121
+PlayerID: 76561198341672556 Name: st.vladir Character: st.vladir Ping: 152
+PlayerID: 76561198390395377 Name: russianfederationforever Character: Русский_Патриот Ping: 35
+PlayerID: 76561198381173735 Name: ingener_spring Character: ingener_spring Ping: 148
+PlayerID: 76561198361426439 Name: YouTube-kotik_killer Character: YouTube-kotik_killer Ping: 140
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 123123
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 31023963
+PlayerID: 123
+JudgeID: 0
+Reason: durila Duration: 4000 Remaining: 4294459757
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294488130
+
+END with Bans:
+[World] Indigo [Indigo]: "можешь еще 1 шкаф сделать?"
+
+Не обработано: MessageAnnouncer >> Broadcast: Добро пожаловать на HEMULGM.RU. Тут рады вам больше, чем на любом другом сервере!
+MessageAnnouncer >> Broadcast: Добро пожаловать на HEMULGM.RU. Тут рады вам больше, чем на любом другом сервере!
+
+Не обработано: MessageAnnouncer >> Добро пожаловать на HEMULGM.RU. Тут рады вам больше, чем на любом другом сервере!
+MessageAnnouncer >> Добро пожаловать на HEMULGM.RU. Тут рады вам больше, чем на любом другом сервере!
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198369248070 Name: Ali Character: Ali Ping: 148
+PlayerID: 76561198165822970 Name: Indigo Character: Indigo Ping: 46
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 144
+PlayerID: 76561198368128006 Name: Aibek Character: Aibek [A.S.D] Ping: 93
+PlayerID: 76561198328119181 Name: Fex Character: Fex Ping: 50
+PlayerID: 76561198114070067 Name: Super iGeroy Character: Samurai Ping: 46
+PlayerID: 76561198381575360 Name: sehdzscuygs Character: sehdzscuygs Ping: 203
+PlayerID: 76561198392717455 Name: yusufcalik2006 Character: pro Ping: 222
+PlayerID: 76561198351213164 Name: _АхМеД_ Character: Виндяй Вечеслав Ping: 316
+PlayerID: 76561198363828451 Name: Ничоси Character: Кеша Ping: 93
+PlayerID: 76561198334346242 Name: мареонетка Character: [Кровавые]хмурый Ping: 136
+PlayerID: 76561198341672556 Name: st.vladir Character: st.vladir Ping: 343
+PlayerID: 76561198390395377 Name: russianfederationforever Character: Русский_Патриот Ping: 39
+PlayerID: 76561198381173735 Name: ingener_spring Character: ingener_spring Ping: 160
+PlayerID: 76561198361426439 Name: YouTube-kotik_killer Character: YouTube-kotik_killer Ping: 132
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 123123
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 31023943
+PlayerID: 123
+JudgeID: 0
+Reason: durila Duration: 4000 Remaining: 4294459737
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294488110
+
+END with Bans:
+[World] Expert1337 [Expert13372284200]: "я гулять пойду"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198369248070 Name: Ali Character: Ali Ping: 148
+PlayerID: 76561198165822970 Name: Indigo Character: Indigo Ping: 39
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 148
+PlayerID: 76561198368128006 Name: Aibek Character: Aibek [A.S.D] Ping: 93
+PlayerID: 76561198328119181 Name: Fex Character: Fex Ping: 50
+PlayerID: 76561198114070067 Name: Super iGeroy Character: Samurai Ping: 39
+PlayerID: 76561198381575360 Name: sehdzscuygs Character: sehdzscuygs Ping: 210
+PlayerID: 76561198392717455 Name: yusufcalik2006 Character: pro Ping: 175
+PlayerID: 76561198351213164 Name: _АхМеД_ Character: Виндяй Вечеслав Ping: 148
+PlayerID: 76561198363828451 Name: Ничоси Character: Кеша Ping: 35
+PlayerID: 76561198334346242 Name: мареонетка Character: [Кровавые]хмурый Ping: 97
+PlayerID: 76561198341672556 Name: st.vladir Character: st.vladir Ping: 160
+PlayerID: 76561198390395377 Name: russianfederationforever Character: Русский_Патриот Ping: 35
+PlayerID: 76561198381173735 Name: ingener_spring Character: ingener_spring Ping: 148
+PlayerID: 76561198361426439 Name: YouTube-kotik_killer Character: YouTube-kotik_killer Ping: 132
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 123123
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 31023923
+PlayerID: 123
+JudgeID: 0
+Reason: durila Duration: 4000 Remaining: 4294459717
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294488090
+
+TimerTerminateCommand.Enabled with Bans:
+[World] Виндяй Вечеслав [_АхМеД_]: "/home"
+
+END with Bans:
+[Area] Кеша [Ничоси]: "/home"
+
+Не обработано: Кеша moved x:50.1163 y:60.64051(+22.1632) z:-46.97908 in the last second (0.2379189)
+Кеша moved x:50.1163 y:60.64051(+22.1632) z:-46.97908 in the last second (0.2379189)
+
+[World] Expert1337 [Expert13372284200]: "пока"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198369248070 Name: Ali Character: Ali Ping: 148
+PlayerID: 76561198165822970 Name: Indigo Character: Indigo Ping: 58
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 144
+PlayerID: 76561198368128006 Name: Aibek Character: Aibek [A.S.D] Ping: 97
+PlayerID: 76561198328119181 Name: Fex Character: Fex Ping: 46
+PlayerID: 76561198114070067 Name: Super iGeroy Character: Samurai Ping: 46
+PlayerID: 76561198381575360 Name: sehdzscuygs Character: sehdzscuygs Ping: 222
+PlayerID: 76561198392717455 Name: yusufcalik2006 Character: pro Ping: 156
+PlayerID: 76561198351213164 Name: _АхМеД_ Character: Виндяй Вечеслав Ping: 160
+PlayerID: 76561198363828451 Name: Ничоси Character: Кеша Ping: 46
+PlayerID: 76561198334346242 Name: мареонетка Character: [Кровавые]хмурый Ping: 121
+PlayerID: 76561198341672556 Name: st.vladir Character: st.vladir Ping: 152
+PlayerID: 76561198390395377 Name: russianfederationforever Character: Русский_Патриот Ping: 46
+PlayerID: 76561198381173735 Name: ingener_spring Character: ingener_spring Ping: 152
+PlayerID: 76561198361426439 Name: YouTube-kotik_killer Character: YouTube-kotik_killer Ping: 132
+
+TimerTerminateCommand.Enabled with Players:
+[World] Expert1337 [Expert13372284200]: "приду через 2 часа"
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 123123
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 31023902
+PlayerID: 123
+JudgeID: 0
+Reason: durila Duration: 4000 Remaining: 4294459696
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294488069
+
+END with Bans:
+Disconnecting: PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337
+
+Не обработано: DeathMessagesRemastered >> Broadcast: Русский_Патриот has bled to death!
+DeathMessagesRemastered >> Broadcast: Русский_Патриот has bled to death!
+
+Не обработано: Русский_Патриот [russianfederationforever] bled to death!
+Русский_Патриот [russianfederationforever] bled to death!
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198369248070 Name: Ali Character: Ali Ping: 152
+PlayerID: 76561198165822970 Name: Indigo Character: Indigo Ping: 39
+PlayerID: 76561198368128006 Name: Aibek Character: Aibek [A.S.D] Ping: 93
+PlayerID: 76561198328119181 Name: Fex Character: Fex Ping: 58
+PlayerID: 76561198114070067 Name: Super iGeroy Character: Samurai Ping: 35
+PlayerID: 76561198381575360 Name: sehdzscuygs Character: sehdzscuygs Ping: 226
+PlayerID: 76561198392717455 Name: yusufcalik2006 Character: pro Ping: 175
+PlayerID: 76561198351213164 Name: _АхМеД_ Character: Виндяй Вечеслав Ping: 101
+PlayerID: 76561198363828451 Name: Ничоси Character: Кеша Ping: 46
+PlayerID: 76561198334346242 Name: мареонетка Character: [Кровавые]хмурый Ping: 109
+PlayerID: 76561198341672556 Name: st.vladir Character: st.vladir Ping: 140
+PlayerID: 76561198390395377 Name: russianfederationforever Character: Русский_Патриот Ping: 46
+PlayerID: 76561198381173735 Name: ingener_spring Character: ingener_spring Ping: 140
+PlayerID: 76561198361426439 Name: YouTube-kotik_killer Character: YouTube-kotik_killer Ping: 132
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 123123
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 31023883
+PlayerID: 123
+JudgeID: 0
+Reason: durila Duration: 4000 Remaining: 4294459677
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294488050
+
+END with Bans:
+[World] Indigo [Indigo]: "я забыл что еще есть"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198369248070 Name: Ali Character: Ali Ping: 152
+PlayerID: 76561198165822970 Name: Indigo Character: Indigo Ping: 50
+PlayerID: 76561198368128006 Name: Aibek Character: Aibek [A.S.D] Ping: 97
+PlayerID: 76561198328119181 Name: Fex Character: Fex Ping: 46
+PlayerID: 76561198114070067 Name: Super iGeroy Character: Samurai Ping: 39
+PlayerID: 76561198381575360 Name: sehdzscuygs Character: sehdzscuygs Ping: 175
+PlayerID: 76561198392717455 Name: yusufcalik2006 Character: pro Ping: 167
+PlayerID: 76561198351213164 Name: _АхМеД_ Character: Виндяй Вечеслав Ping: 152
+PlayerID: 76561198363828451 Name: Ничоси Character: Кеша Ping: 42
+PlayerID: 76561198334346242 Name: мареонетка Character: [Кровавые]хмурый Ping: 292
+PlayerID: 76561198341672556 Name: st.vladir Character: st.vladir Ping: 152
+PlayerID: 76561198390395377 Name: russianfederationforever Character: Русский_Патриот Ping: 42
+PlayerID: 76561198381173735 Name: ingener_spring Character: ingener_spring Ping: 171
+PlayerID: 76561198361426439 Name: YouTube-kotik_killer Character: YouTube-kotik_killer Ping: 148
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 123123
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 31023863
+PlayerID: 123
+JudgeID: 0
+Reason: durila Duration: 4000 Remaining: 4294459657
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294488030
+
+END with Bans:
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198369248070 Name: Ali Character: Ali Ping: 148
+PlayerID: 76561198165822970 Name: Indigo Character: Indigo Ping: 58
+PlayerID: 76561198368128006 Name: Aibek Character: Aibek [A.S.D] Ping: 97
+PlayerID: 76561198328119181 Name: Fex Character: Fex Ping: 54
+PlayerID: 76561198114070067 Name: Super iGeroy Character: Samurai Ping: 46
+PlayerID: 76561198381575360 Name: sehdzscuygs Character: sehdzscuygs Ping: 261
+PlayerID: 76561198392717455 Name: yusufcalik2006 Character: pro Ping: 191
+PlayerID: 76561198351213164 Name: _АхМеД_ Character: Виндяй Вечеслав Ping: 93
+PlayerID: 76561198363828451 Name: Ничоси Character: Кеша Ping: 70
+PlayerID: 76561198334346242 Name: мареонетка Character: [Кровавые]хмурый Ping: 292
+PlayerID: 76561198341672556 Name: st.vladir Character: st.vladir Ping: 164
+PlayerID: 76561198390395377 Name: russianfederationforever Character: Русский_Патриот Ping: 31
+PlayerID: 76561198381173735 Name: ingener_spring Character: ingener_spring Ping: 195
+PlayerID: 76561198361426439 Name: YouTube-kotik_killer Character: YouTube-kotik_killer Ping: 128
+
+TimerTerminateCommand.Enabled with Players:
+[World] Indigo [Indigo]: "го?"
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 123123
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 31023843
+PlayerID: 123
+JudgeID: 0
+Reason: durila Duration: 4000 Remaining: 4294459637
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294488010
+
+END with Bans:
+Не обработано: PlayerInfoLib >> No expired player info records found for this batch.
+PlayerInfoLib >> No expired player info records found for this batch.
+
+Не обработано: MessageAnnouncer >> Broadcast: Наберите /kit start, чтобы получить стартовый набор (еда, вода, топор)
+MessageAnnouncer >> Broadcast: Наберите /kit start, чтобы получить стартовый набор (еда, вода, топор)
+
+Не обработано: MessageAnnouncer >> Наберите /kit start, чтобы получить стартовый набор (еда, вода, топор)
+MessageAnnouncer >> Наберите /kit start, чтобы получить стартовый набор (еда, вода, топор)
+
+[World] Samurai [Super iGeroy]: "го на скорпион"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198369248070 Name: Ali Character: Ali Ping: 152
+PlayerID: 76561198165822970 Name: Indigo Character: Indigo Ping: 46
+PlayerID: 76561198368128006 Name: Aibek Character: Aibek [A.S.D] Ping: 89
+PlayerID: 76561198328119181 Name: Fex Character: Fex Ping: 50
+PlayerID: 76561198114070067 Name: Super iGeroy Character: Samurai Ping: 39
+PlayerID: 76561198381575360 Name: sehdzscuygs Character: sehdzscuygs Ping: 234
+PlayerID: 76561198392717455 Name: yusufcalik2006 Character: pro Ping: 265
+PlayerID: 76561198351213164 Name: _АхМеД_ Character: Виндяй Вечеслав Ping: 179
+PlayerID: 76561198363828451 Name: Ничоси Character: Кеша Ping: 46
+PlayerID: 76561198334346242 Name: мареонетка Character: [Кровавые]хмурый Ping: 117
+PlayerID: 76561198341672556 Name: st.vladir Character: st.vladir Ping: 148
+PlayerID: 76561198390395377 Name: russianfederationforever Character: Русский_Патриот Ping: 35
+PlayerID: 76561198381173735 Name: ingener_spring Character: ingener_spring Ping: 160
+PlayerID: 76561198361426439 Name: YouTube-kotik_killer Character: YouTube-kotik_killer Ping: 125
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 123123
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 31023823
+PlayerID: 123
+JudgeID: 0
+Reason: durila Duration: 4000 Remaining: 4294459617
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294487990
+
+END with Bans:
+[Area] Ali [Ali]: "/tpa aib"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198369248070 Name: Ali Character: Ali Ping: 156
+PlayerID: 76561198165822970 Name: Indigo Character: Indigo Ping: 54
+PlayerID: 76561198368128006 Name: Aibek Character: Aibek [A.S.D] Ping: 105
+PlayerID: 76561198328119181 Name: Fex Character: Fex Ping: 62
+PlayerID: 76561198114070067 Name: Super iGeroy Character: Samurai Ping: 50
+PlayerID: 76561198381575360 Name: sehdzscuygs Character: sehdzscuygs Ping: 589
+PlayerID: 76561198392717455 Name: yusufcalik2006 Character: pro Ping: 175
+PlayerID: 76561198351213164 Name: _АхМеД_ Character: Виндяй Вечеслав Ping: 105
+PlayerID: 76561198363828451 Name: Ничоси Character: Кеша Ping: 42
+PlayerID: 76561198334346242 Name: мареонетка Character: [Кровавые]хмурый Ping: 203
+PlayerID: 76561198341672556 Name: st.vladir Character: st.vladir Ping: 164
+PlayerID: 76561198390395377 Name: russianfederationforever Character: Русский_Патриот Ping: 46
+PlayerID: 76561198381173735 Name: ingener_spring Character: ingener_spring Ping: 156
+PlayerID: 76561198361426439 Name: YouTube-kotik_killer Character: YouTube-kotik_killer Ping: 128
+
+TimerTerminateCommand.Enabled with Players:
+[World] Aibek [A.S.D] [Aibek]: "/tpa a"
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 123123
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 31023801
+PlayerID: 123
+JudgeID: 0
+Reason: durila Duration: 4000 Remaining: 4294459595
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294487968
+
+END with Bans:
+[World] Samurai [Super iGeroy]: "Еда вода нужна?"
+
+Не обработано: DeathMessagesRemastered >> Broadcast: Русский_Патриот has bled to death!
+DeathMessagesRemastered >> Broadcast: Русский_Патриот has bled to death!
+
+Не обработано: Русский_Патриот [russianfederationforever] bled to death!
+Русский_Патриот [russianfederationforever] bled to death!
+
+[World] Indigo [Indigo]: "не"
+
+[World] ingener_spring [ingener_spring]: "indigo я друг эксперта"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198369248070 Name: Ali Character: Ali Ping: 144
+PlayerID: 76561198165822970 Name: Indigo Character: Indigo Ping: 46
+PlayerID: 76561198368128006 Name: Aibek Character: Aibek [A.S.D] Ping: 89
+PlayerID: 76561198328119181 Name: Fex Character: Fex Ping: 50
+PlayerID: 76561198114070067 Name: Super iGeroy Character: Samurai Ping: 50
+PlayerID: 76561198381575360 Name: sehdzscuygs Character: sehdzscuygs Ping: 191
+PlayerID: 76561198392717455 Name: yusufcalik2006 Character: pro Ping: 179
+PlayerID: 76561198351213164 Name: _АхМеД_ Character: Виндяй Вечеслав Ping: 140
+PlayerID: 76561198363828451 Name: Ничоси Character: Кеша Ping: 46
+PlayerID: 76561198334346242 Name: мареонетка Character: [Кровавые]хмурый Ping: 113
+PlayerID: 76561198341672556 Name: st.vladir Character: st.vladir Ping: 156
+PlayerID: 76561198390395377 Name: russianfederationforever Character: Русский_Патриот Ping: 351
+PlayerID: 76561198381173735 Name: ingener_spring Character: ingener_spring Ping: 156
+PlayerID: 76561198361426439 Name: YouTube-kotik_killer Character: YouTube-kotik_killer Ping: 132
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 123123
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 31023783
+PlayerID: 123
+JudgeID: 0
+Reason: durila Duration: 4000 Remaining: 4294459577
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294487950
+
+END with Bans:
+Disconnecting: PlayerID: 76561198390395377 Name: russianfederationforever Character: Русский_Патриот
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198369248070 Name: Ali Character: Ali Ping: 140
+PlayerID: 76561198165822970 Name: Indigo Character: Indigo Ping: 39
+PlayerID: 76561198368128006 Name: Aibek Character: Aibek [A.S.D] Ping: 97
+PlayerID: 76561198328119181 Name: Fex Character: Fex Ping: 62
+PlayerID: 76561198114070067 Name: Super iGeroy Character: Samurai Ping: 42
+PlayerID: 76561198381575360 Name: sehdzscuygs Character: sehdzscuygs Ping: 214
+PlayerID: 76561198392717455 Name: yusufcalik2006 Character: pro Ping: 167
+PlayerID: 76561198351213164 Name: _АхМеД_ Character: Виндяй Вечеслав Ping: 117
+PlayerID: 76561198363828451 Name: Ничоси Character: Кеша Ping: 46
+PlayerID: 76561198334346242 Name: мареонетка Character: [Кровавые]хмурый Ping: 109
+PlayerID: 76561198341672556 Name: st.vladir Character: st.vladir Ping: 156
+PlayerID: 76561198381173735 Name: ingener_spring Character: ingener_spring Ping: 152
+PlayerID: 76561198361426439 Name: YouTube-kotik_killer Character: YouTube-kotik_killer Ping: 136
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 123123
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 31023763
+PlayerID: 123
+JudgeID: 0
+Reason: durila Duration: 4000 Remaining: 4294459557
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294487930
+
+END with Bans:
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198369248070 Name: Ali Character: Ali Ping: 144
+PlayerID: 76561198165822970 Name: Indigo Character: Indigo Ping: 42
+PlayerID: 76561198368128006 Name: Aibek Character: Aibek [A.S.D] Ping: 93
+PlayerID: 76561198328119181 Name: Fex Character: Fex Ping: 46
+PlayerID: 76561198114070067 Name: Super iGeroy Character: Samurai Ping: 46
+PlayerID: 76561198381575360 Name: sehdzscuygs Character: sehdzscuygs Ping: 203
+PlayerID: 76561198392717455 Name: yusufcalik2006 Character: pro Ping: 183
+PlayerID: 76561198351213164 Name: _АхМеД_ Character: Виндяй Вечеслав Ping: 128
+PlayerID: 76561198363828451 Name: Ничоси Character: Кеша Ping: 39
+PlayerID: 76561198334346242 Name: мареонетка Character: [Кровавые]хмурый Ping: 128
+PlayerID: 76561198341672556 Name: st.vladir Character: st.vladir Ping: 152
+PlayerID: 76561198381173735 Name: ingener_spring Character: ingener_spring Ping: 140
+PlayerID: 76561198361426439 Name: YouTube-kotik_killer Character: YouTube-kotik_killer Ping: 132
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 123123
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 31023743
+PlayerID: 123
+JudgeID: 0
+Reason: durila Duration: 4000 Remaining: 4294459537
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294487910
+
+END with Bans:
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198369248070 Name: Ali Character: Ali Ping: 148
+PlayerID: 76561198165822970 Name: Indigo Character: Indigo Ping: 54
+PlayerID: 76561198368128006 Name: Aibek Character: Aibek [A.S.D] Ping: 101
+PlayerID: 76561198328119181 Name: Fex Character: Fex Ping: 42
+PlayerID: 76561198114070067 Name: Super iGeroy Character: Samurai Ping: 42
+PlayerID: 76561198381575360 Name: sehdzscuygs Character: sehdzscuygs Ping: 222
+PlayerID: 76561198392717455 Name: yusufcalik2006 Character: pro Ping: 175
+PlayerID: 76561198351213164 Name: _АхМеД_ Character: Виндяй Вечеслав Ping: 117
+PlayerID: 76561198363828451 Name: Ничоси Character: Кеша Ping: 42
+PlayerID: 76561198334346242 Name: мареонетка Character: [Кровавые]хмурый Ping: 125
+PlayerID: 76561198341672556 Name: st.vladir Character: st.vladir Ping: 160
+PlayerID: 76561198381173735 Name: ingener_spring Character: ingener_spring Ping: 214
+PlayerID: 76561198361426439 Name: YouTube-kotik_killer Character: YouTube-kotik_killer Ping: 132
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 123123
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 31023723
+PlayerID: 123
+JudgeID: 0
+Reason: durila Duration: 4000 Remaining: 4294459517
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294487890
+
+END with Bans:
+Не обработано: MessageAnnouncer >> Broadcast: Внимание! PvP-режим по субботам! PvP-режим!!!
+MessageAnnouncer >> Broadcast: Внимание! PvP-режим по субботам! PvP-режим!!!
+
+Не обработано: MessageAnnouncer >> Внимание! PvP-режим по субботам! PvP-режим!!!
+MessageAnnouncer >> Внимание! PvP-режим по субботам! PvP-режим!!!
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198369248070 Name: Ali Character: Ali Ping: 144
+PlayerID: 76561198165822970 Name: Indigo Character: Indigo Ping: 58
+PlayerID: 76561198368128006 Name: Aibek Character: Aibek [A.S.D] Ping: 97
+PlayerID: 76561198328119181 Name: Fex Character: Fex Ping: 35
+PlayerID: 76561198114070067 Name: Super iGeroy Character: Samurai Ping: 42
+PlayerID: 76561198381575360 Name: sehdzscuygs Character: sehdzscuygs Ping: 355
+PlayerID: 76561198392717455 Name: yusufcalik2006 Character: pro Ping: 167
+PlayerID: 76561198351213164 Name: _АхМеД_ Character: Виндяй Вечеслав Ping: 89
+PlayerID: 76561198363828451 Name: Ничоси Character: Кеша Ping: 42
+PlayerID: 76561198334346242 Name: мареонетка Character: [Кровавые]хмурый Ping: 121
+PlayerID: 76561198341672556 Name: st.vladir Character: st.vladir Ping: 148
+PlayerID: 76561198381173735 Name: ingener_spring Character: ingener_spring Ping: 148
+PlayerID: 76561198361426439 Name: YouTube-kotik_killer Character: YouTube-kotik_killer Ping: 140
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 123123
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 31023703
+PlayerID: 123
+JudgeID: 0
+Reason: durila Duration: 4000 Remaining: 4294459497
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294487870
+
+END with Bans:
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198369248070 Name: Ali Character: Ali Ping: 152
+PlayerID: 76561198165822970 Name: Indigo Character: Indigo Ping: 46
+PlayerID: 76561198368128006 Name: Aibek Character: Aibek [A.S.D] Ping: 97
+PlayerID: 76561198328119181 Name: Fex Character: Fex Ping: 50
+PlayerID: 76561198114070067 Name: Super iGeroy Character: Samurai Ping: 50
+PlayerID: 76561198381575360 Name: sehdzscuygs Character: sehdzscuygs Ping: 417
+PlayerID: 76561198392717455 Name: yusufcalik2006 Character: pro Ping: 171
+PlayerID: 76561198351213164 Name: _АхМеД_ Character: Виндяй Вечеслав Ping: 97
+PlayerID: 76561198363828451 Name: Ничоси Character: Кеша Ping: 46
+PlayerID: 76561198334346242 Name: мареонетка Character: [Кровавые]хмурый Ping: 128
+PlayerID: 76561198341672556 Name: st.vladir Character: st.vladir Ping: 160
+PlayerID: 76561198381173735 Name: ingener_spring Character: ingener_spring Ping: 152
+PlayerID: 76561198361426439 Name: YouTube-kotik_killer Character: YouTube-kotik_killer Ping: 132
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 123123
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 31023683
+PlayerID: 123
+JudgeID: 0
+Reason: durila Duration: 4000 Remaining: 4294459477
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294487850
+
+END with Bans:
+[World] pro [yusufcalik2006]: "bas git be adam"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198369248070 Name: Ali Character: Ali Ping: 156
+PlayerID: 76561198165822970 Name: Indigo Character: Indigo Ping: 54
+PlayerID: 76561198368128006 Name: Aibek Character: Aibek [A.S.D] Ping: 101
+PlayerID: 76561198328119181 Name: Fex Character: Fex Ping: 54
+PlayerID: 76561198114070067 Name: Super iGeroy Character: Samurai Ping: 42
+PlayerID: 76561198381575360 Name: sehdzscuygs Character: sehdzscuygs Ping: 339
+PlayerID: 76561198392717455 Name: yusufcalik2006 Character: pro Ping: 207
+PlayerID: 76561198351213164 Name: _АхМеД_ Character: Виндяй Вечеслав Ping: 128
+PlayerID: 76561198363828451 Name: Ничоси Character: Кеша Ping: 42
+PlayerID: 76561198334346242 Name: мареонетка Character: [Кровавые]хмурый Ping: 140
+PlayerID: 76561198341672556 Name: st.vladir Character: st.vladir Ping: 152
+PlayerID: 76561198381173735 Name: ingener_spring Character: ingener_spring Ping: 160
+PlayerID: 76561198361426439 Name: YouTube-kotik_killer Character: YouTube-kotik_killer Ping: 144
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 123123
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 31023663
+PlayerID: 123
+JudgeID: 0
+Reason: durila Duration: 4000 Remaining: 4294459457
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294487830
+
+END with Bans:
+[World] ingener_spring [ingener_spring]: "/home"
+
+Не обработано: ingener_spring moved x:927.0328 y:81.0803(+42.60298) z:512.3831 in the last second (0.09999847)
+ingener_spring moved x:927.0328 y:81.0803(+42.60298) z:512.3831 in the last second (0.09999847)
+
+Не обработано: DeathMessagesRemastered >> Broadcast: Кеша has killed himself!
+DeathMessagesRemastered >> Broadcast: Кеша has killed himself!
+
+Не обработано: Кеша [Ничоси] killed themself.
+Кеша [Ничоси] killed themself.
+
+[Area] Кеша [Ничоси]: "/home"
+
+Не обработано: Кеша moved x:48.66975 y:60.64051(+22.1632) z:-47.25995 in the last second (0.2379189)
+Кеша moved x:48.66975 y:60.64051(+22.1632) z:-47.25995 in the last second (0.2379189)
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198369248070 Name: Ali Character: Ali Ping: 148
+PlayerID: 76561198165822970 Name: Indigo Character: Indigo Ping: 42
+PlayerID: 76561198368128006 Name: Aibek Character: Aibek [A.S.D] Ping: 101
+PlayerID: 76561198328119181 Name: Fex Character: Fex Ping: 54
+PlayerID: 76561198114070067 Name: Super iGeroy Character: Samurai Ping: 50
+PlayerID: 76561198381575360 Name: sehdzscuygs Character: sehdzscuygs Ping: 332
+PlayerID: 76561198392717455 Name: yusufcalik2006 Character: pro Ping: 171
+PlayerID: 76561198351213164 Name: _АхМеД_ Character: Виндяй Вечеслав Ping: 109
+PlayerID: 76561198363828451 Name: Ничоси Character: Кеша Ping: 167
+PlayerID: 76561198334346242 Name: мареонетка Character: [Кровавые]хмурый Ping: 117
+PlayerID: 76561198341672556 Name: st.vladir Character: st.vladir Ping: 152
+PlayerID: 76561198381173735 Name: ingener_spring Character: ingener_spring Ping: 160
+PlayerID: 76561198361426439 Name: YouTube-kotik_killer Character: YouTube-kotik_killer Ping: 152
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 123123
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 31023643
+PlayerID: 123
+JudgeID: 0
+Reason: durila Duration: 4000 Remaining: 4294459437
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294487810
+
+END with Bans:
+[World] Samurai [Super iGeroy]: "теперь тихо xD"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198369248070 Name: Ali Character: Ali Ping: 167
+PlayerID: 76561198165822970 Name: Indigo Character: Indigo Ping: 50
+PlayerID: 76561198368128006 Name: Aibek Character: Aibek [A.S.D] Ping: 93
+PlayerID: 76561198328119181 Name: Fex Character: Fex Ping: 62
+PlayerID: 76561198114070067 Name: Super iGeroy Character: Samurai Ping: 42
+PlayerID: 76561198381575360 Name: sehdzscuygs Character: sehdzscuygs Ping: 218
+PlayerID: 76561198392717455 Name: yusufcalik2006 Character: pro Ping: 164
+PlayerID: 76561198351213164 Name: _АхМеД_ Character: Виндяй Вечеслав Ping: 128
+PlayerID: 76561198363828451 Name: Ничоси Character: Кеша Ping: 46
+PlayerID: 76561198334346242 Name: мареонетка Character: [Кровавые]хмурый Ping: 144
+PlayerID: 76561198341672556 Name: st.vladir Character: st.vladir Ping: 156
+PlayerID: 76561198381173735 Name: ingener_spring Character: ingener_spring Ping: 203
+PlayerID: 76561198361426439 Name: YouTube-kotik_killer Character: YouTube-kotik_killer Ping: 132
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 123123
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 31023623
+PlayerID: 123
+JudgeID: 0
+Reason: durila Duration: 4000 Remaining: 4294459417
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294487790
+
+END with Bans:
+Connecting: PlayerID: 76561198193423317 Name: Bandit Character: Bandit
+
+Connecting: PlayerID: 76561198190614569 Name: ___Ru$$ian BaNDit___ Character: Argus
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198369248070 Name: Ali Character: Ali Ping: 152
+PlayerID: 76561198165822970 Name: Indigo Character: Indigo Ping: 46
+PlayerID: 76561198368128006 Name: Aibek Character: Aibek [A.S.D] Ping: 93
+PlayerID: 76561198328119181 Name: Fex Character: Fex Ping: 54
+PlayerID: 76561198114070067 Name: Super iGeroy Character: Samurai Ping: 46
+PlayerID: 76561198381575360 Name: sehdzscuygs Character: sehdzscuygs Ping: 222
+PlayerID: 76561198392717455 Name: yusufcalik2006 Character: pro Ping: 160
+PlayerID: 76561198351213164 Name: _АхМеД_ Character: Виндяй Вечеслав Ping: 277
+PlayerID: 76561198363828451 Name: Ничоси Character: Кеша Ping: 39
+PlayerID: 76561198334346242 Name: мареонетка Character: [Кровавые]хмурый Ping: 335
+PlayerID: 76561198341672556 Name: st.vladir Character: st.vladir Ping: 183
+PlayerID: 76561198381173735 Name: ingener_spring Character: ingener_spring Ping: 171
+PlayerID: 76561198361426439 Name: YouTube-kotik_killer Character: YouTube-kotik_killer Ping: 140
+PlayerID: 76561198193423317 Name: Bandit Character: Bandit Ping: 164
+PlayerID: 76561198190614569 Name: ___Ru$$ian BaNDit___ Character: Argus Ping: 187
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 123123
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 31023603
+PlayerID: 123
+JudgeID: 0
+Reason: durila Duration: 4000 Remaining: 4294459397
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294487770
+
+TimerTerminateCommand.Enabled with Bans:
+[World] [Кровавые]хмурый [мареонетка]: "/tpa кеша"
+
+END with Bans:
+Не обработано: Saving server
+Saving server
+
+[World] Bandit [Bandit]: "/kits"
+
+Не обработано: MessageAnnouncer >> Broadcast: vk.com/unturned_hgm - группа сервера ВК, уникальный кит в записи!
+MessageAnnouncer >> Broadcast: vk.com/unturned_hgm - группа сервера ВК, уникальный кит в записи!
+
+Не обработано: MessageAnnouncer >> vk.com/unturned_hgm - группа сервера ВК, уникальный кит в записи!
+MessageAnnouncer >> vk.com/unturned_hgm - группа сервера ВК, уникальный кит в записи!
+
+[Area] Кеша [Ничоси]: "/tpa a"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198369248070 Name: Ali Character: Ali Ping: 152
+PlayerID: 76561198165822970 Name: Indigo Character: Indigo Ping: 42
+PlayerID: 76561198368128006 Name: Aibek Character: Aibek [A.S.D] Ping: 97
+PlayerID: 76561198328119181 Name: Fex Character: Fex Ping: 58
+PlayerID: 76561198114070067 Name: Super iGeroy Character: Samurai Ping: 54
+PlayerID: 76561198381575360 Name: sehdzscuygs Character: sehdzscuygs Ping: 199
+PlayerID: 76561198392717455 Name: yusufcalik2006 Character: pro Ping: 171
+PlayerID: 76561198351213164 Name: _АхМеД_ Character: Виндяй Вечеслав Ping: 187
+PlayerID: 76561198363828451 Name: Ничоси Character: Кеша Ping: 42
+PlayerID: 76561198334346242 Name: мареонетка Character: [Кровавые]хмурый Ping: 136
+PlayerID: 76561198341672556 Name: st.vladir Character: st.vladir Ping: 148
+PlayerID: 76561198381173735 Name: ingener_spring Character: ingener_spring Ping: 148
+PlayerID: 76561198361426439 Name: YouTube-kotik_killer Character: YouTube-kotik_killer Ping: 156
+PlayerID: 76561198193423317 Name: Bandit Character: Bandit Ping: 74
+PlayerID: 76561198190614569 Name: ___Ru$$ian BaNDit___ Character: Argus Ping: 70
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 123123
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 31023583
+PlayerID: 123
+JudgeID: 0
+Reason: durila Duration: 4000 Remaining: 4294459377
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294487750
+
+TimerTerminateCommand.Enabled with Bans:
+[World] Bandit [Bandit]: "kit help"
+
+END with Bans:
+Connecting: PlayerID: 76561198388139923 Name: danik Character: danik
+
+[World] Bandit [Bandit]: "/kithelp"
+
+Connecting: PlayerID: 76561198392163437 Name: Unlocker Character: Unlocker
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198369248070 Name: Ali Character: Ali Ping: 164
+PlayerID: 76561198165822970 Name: Indigo Character: Indigo Ping: 39
+PlayerID: 76561198368128006 Name: Aibek Character: Aibek [A.S.D] Ping: 97
+PlayerID: 76561198328119181 Name: Fex Character: Fex Ping: 42
+PlayerID: 76561198114070067 Name: Super iGeroy Character: Samurai Ping: 54
+PlayerID: 76561198381575360 Name: sehdzscuygs Character: sehdzscuygs Ping: 203
+PlayerID: 76561198392717455 Name: yusufcalik2006 Character: pro Ping: 167
+PlayerID: 76561198351213164 Name: _АхМеД_ Character: Виндяй Вечеслав Ping: 74
+PlayerID: 76561198363828451 Name: Ничоси Character: Кеша Ping: 39
+PlayerID: 76561198334346242 Name: мареонетка Character: [Кровавые]хмурый Ping: 117
+PlayerID: 76561198341672556 Name: st.vladir Character: st.vladir Ping: 152
+PlayerID: 76561198381173735 Name: ingener_spring Character: ingener_spring Ping: 199
+PlayerID: 76561198361426439 Name: YouTube-kotik_killer Character: YouTube-kotik_killer Ping: 152
+PlayerID: 76561198193423317 Name: Bandit Character: Bandit Ping: 85
+PlayerID: 76561198190614569 Name: ___Ru$$ian BaNDit___ Character: Argus Ping: 74
+PlayerID: 76561198388139923 Name: danik Character: danik Ping: 101
+PlayerID: 76561198392163437 Name: Unlocker Character: Unlocker Ping: 128
+
+TimerTerminateCommand.Enabled with Players:
+[World] Argus [___Ru$$ian BaNDit___]: "/kits"
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 123123
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 31023561
+PlayerID: 123
+JudgeID: 0
+Reason: durila Duration: 4000 Remaining: 4294459355
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294487728
+
+END with Bans:
+[World] Bandit [Bandit]: "/kit start"
+
+Не обработано: DeathMessagesRemastered >> Broadcast: sehdzscuygs has been mauled by a zombie! 
+DeathMessagesRemastered >> Broadcast: sehdzscuygs has been mauled by a zombie! 
+
+Не обработано: sehdzscuygs [sehdzscuygs] was mauled by a zombie!
+sehdzscuygs [sehdzscuygs] was mauled by a zombie!
+
+[World] ingener_spring [ingener_spring]: "/kit help"
+
+Disconnecting: PlayerID: 76561198341672556 Name: st.vladir Character: st.vladir
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198369248070 Name: Ali Character: Ali Ping: 148
+PlayerID: 76561198165822970 Name: Indigo Character: Indigo Ping: 50
+PlayerID: 76561198368128006 Name: Aibek Character: Aibek [A.S.D] Ping: 105
+PlayerID: 76561198328119181 Name: Fex Character: Fex Ping: 66
+PlayerID: 76561198114070067 Name: Super iGeroy Character: Samurai Ping: 58
+PlayerID: 76561198381575360 Name: sehdzscuygs Character: sehdzscuygs Ping: 218
+PlayerID: 76561198392717455 Name: yusufcalik2006 Character: pro Ping: 191
+PlayerID: 76561198351213164 Name: _АхМеД_ Character: Виндяй Вечеслав Ping: 136
+PlayerID: 76561198363828451 Name: Ничоси Character: Кеша Ping: 54
+PlayerID: 76561198334346242 Name: мареонетка Character: [Кровавые]хмурый Ping: 125
+PlayerID: 76561198381173735 Name: ingener_spring Character: ingener_spring Ping: 148
+PlayerID: 76561198361426439 Name: YouTube-kotik_killer Character: YouTube-kotik_killer Ping: 132
+PlayerID: 76561198193423317 Name: Bandit Character: Bandit Ping: 85
+PlayerID: 76561198190614569 Name: ___Ru$$ian BaNDit___ Character: Argus Ping: 66
+PlayerID: 76561198388139923 Name: danik Character: danik Ping: 136
+PlayerID: 76561198392163437 Name: Unlocker Character: Unlocker Ping: 117
+
+TimerTerminateCommand.Enabled with Players:
+[World] Bandit [Bandit]: "/kit help"
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 123123
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 31023542
+PlayerID: 123
+JudgeID: 0
+Reason: durila Duration: 4000 Remaining: 4294459336
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294487709
+
+END with Bans:
+[World] Argus [___Ru$$ian BaNDit___]: "/kit claim"
+
+[World] Bandit [Bandit]: "/kit claim"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198369248070 Name: Ali Character: Ali Ping: 160
+PlayerID: 76561198165822970 Name: Indigo Character: Indigo Ping: 54
+PlayerID: 76561198368128006 Name: Aibek Character: Aibek [A.S.D] Ping: 101
+PlayerID: 76561198328119181 Name: Fex Character: Fex Ping: 62
+PlayerID: 76561198114070067 Name: Super iGeroy Character: Samurai Ping: 58
+PlayerID: 76561198381575360 Name: sehdzscuygs Character: sehdzscuygs Ping: 269
+PlayerID: 76561198392717455 Name: yusufcalik2006 Character: pro Ping: 171
+PlayerID: 76561198351213164 Name: _АхМеД_ Character: Виндяй Вечеслав Ping: 97
+PlayerID: 76561198363828451 Name: Ничоси Character: Кеша Ping: 42
+PlayerID: 76561198334346242 Name: мареонетка Character: [Кровавые]хмурый Ping: 125
+PlayerID: 76561198381173735 Name: ingener_spring Character: ingener_spring Ping: 160
+PlayerID: 76561198361426439 Name: YouTube-kotik_killer Character: YouTube-kotik_killer Ping: 140
+PlayerID: 76561198193423317 Name: Bandit Character: Bandit Ping: 78
+PlayerID: 76561198190614569 Name: ___Ru$$ian BaNDit___ Character: Argus Ping: 82
+PlayerID: 76561198388139923 Name: danik Character: danik Ping: 242
+PlayerID: 76561198392163437 Name: Unlocker Character: Unlocker Ping: 113
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 123123
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 31023523
+PlayerID: 123
+JudgeID: 0
+Reason: durila Duration: 4000 Remaining: 4294459317
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294487690
+
+END with Bans:
+Disconnecting: PlayerID: 76561198388139923 Name: danik Character: danik
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198369248070 Name: Ali Character: Ali Ping: 156
+PlayerID: 76561198165822970 Name: Indigo Character: Indigo Ping: 62
+PlayerID: 76561198368128006 Name: Aibek Character: Aibek [A.S.D] Ping: 97
+PlayerID: 76561198328119181 Name: Fex Character: Fex Ping: 46
+PlayerID: 76561198114070067 Name: Super iGeroy Character: Samurai Ping: 66
+PlayerID: 76561198381575360 Name: sehdzscuygs Character: sehdzscuygs Ping: 171
+PlayerID: 76561198392717455 Name: yusufcalik2006 Character: pro Ping: 167
+PlayerID: 76561198351213164 Name: _АхМеД_ Character: Виндяй Вечеслав Ping: 93
+PlayerID: 76561198363828451 Name: Ничоси Character: Кеша Ping: 35
+PlayerID: 76561198334346242 Name: мареонетка Character: [Кровавые]хмурый Ping: 125
+PlayerID: 76561198381173735 Name: ingener_spring Character: ingener_spring Ping: 148
+PlayerID: 76561198361426439 Name: YouTube-kotik_killer Character: YouTube-kotik_killer Ping: 132
+PlayerID: 76561198193423317 Name: Bandit Character: Bandit Ping: 82
+PlayerID: 76561198190614569 Name: ___Ru$$ian BaNDit___ Character: Argus Ping: 93
+PlayerID: 76561198392163437 Name: Unlocker Character: Unlocker Ping: 109
+
+TimerTerminateCommand.Enabled with Players:
+Disconnecting: PlayerID: 76561198381575360 Name: sehdzscuygs Character: sehdzscuygs
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 123123
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 31023502
+PlayerID: 123
+JudgeID: 0
+Reason: durila Duration: 4000 Remaining: 4294459296
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294487669
+
+END with Bans:
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198369248070 Name: Ali Character: Ali Ping: 148
+PlayerID: 76561198165822970 Name: Indigo Character: Indigo Ping: 66
+PlayerID: 76561198368128006 Name: Aibek Character: Aibek [A.S.D] Ping: 93
+PlayerID: 76561198328119181 Name: Fex Character: Fex Ping: 121
+PlayerID: 76561198114070067 Name: Super iGeroy Character: Samurai Ping: 50
+PlayerID: 76561198392717455 Name: yusufcalik2006 Character: pro Ping: 167
+PlayerID: 76561198351213164 Name: _АхМеД_ Character: Виндяй Вечеслав Ping: 82
+PlayerID: 76561198363828451 Name: Ничоси Character: Кеша Ping: 42
+PlayerID: 76561198334346242 Name: мареонетка Character: [Кровавые]хмурый Ping: 109
+PlayerID: 76561198381173735 Name: ingener_spring Character: ingener_spring Ping: 152
+PlayerID: 76561198361426439 Name: YouTube-kotik_killer Character: YouTube-kotik_killer Ping: 144
+PlayerID: 76561198193423317 Name: Bandit Character: Bandit Ping: 82
+PlayerID: 76561198190614569 Name: ___Ru$$ian BaNDit___ Character: Argus Ping: 66
+PlayerID: 76561198392163437 Name: Unlocker Character: Unlocker Ping: 125
+
+TimerTerminateCommand.Enabled with Players:
+Disconnecting: PlayerID: 76561198392717455 Name: yusufcalik2006 Character: pro
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 123123
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 31023482
+PlayerID: 123
+JudgeID: 0
+Reason: durila Duration: 4000 Remaining: 4294459276
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294487649
+
+END with Bans:
+[World] Argus [___Ru$$ian BaNDit___]: "/kit start"
+
+Не обработано: MessageAnnouncer >> Broadcast: Наберите /kit help, чтобы получить первую мед. помощь (бинты, таблетки, еда)
+MessageAnnouncer >> Broadcast: Наберите /kit help, чтобы получить первую мед. помощь (бинты, таблетки, еда)
+
+Не обработано: MessageAnnouncer >> Наберите /kit help, чтобы получить первую мед. помощь (бинты, таблетки, еда)
+MessageAnnouncer >> Наберите /kit help, чтобы получить первую мед. помощь (бинты, таблетки, еда)
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198369248070 Name: Ali Character: Ali Ping: 152
+PlayerID: 76561198165822970 Name: Indigo Character: Indigo Ping: 42
+PlayerID: 76561198368128006 Name: Aibek Character: Aibek [A.S.D] Ping: 105
+PlayerID: 76561198328119181 Name: Fex Character: Fex Ping: 50
+PlayerID: 76561198114070067 Name: Super iGeroy Character: Samurai Ping: 50
+PlayerID: 76561198351213164 Name: _АхМеД_ Character: Виндяй Вечеслав Ping: 101
+PlayerID: 76561198363828451 Name: Ничоси Character: Кеша Ping: 35
+PlayerID: 76561198334346242 Name: мареонетка Character: [Кровавые]хмурый Ping: 128
+PlayerID: 76561198381173735 Name: ingener_spring Character: ingener_spring Ping: 156
+PlayerID: 76561198361426439 Name: YouTube-kotik_killer Character: YouTube-kotik_killer Ping: 136
+PlayerID: 76561198193423317 Name: Bandit Character: Bandit Ping: 105
+PlayerID: 76561198190614569 Name: ___Ru$$ian BaNDit___ Character: Argus Ping: 70
+PlayerID: 76561198392163437 Name: Unlocker Character: Unlocker Ping: 109
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 123123
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 31023463
+PlayerID: 123
+JudgeID: 0
+Reason: durila Duration: 4000 Remaining: 4294459257
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294487630
+
+END with Bans:
+[World] Argus [___Ru$$ian BaNDit___]: "/kit halp"
+
+[World] Argus [___Ru$$ian BaNDit___]: "/kits"
+
+TimerTerminateCommand.Enabled with Players:
+Client has executed command "players"
+Players:
+PlayerID: 76561198369248070 Name: Ali Character: Ali Ping: 175
+PlayerID: 76561198165822970 Name: Indigo Character: Indigo Ping: 46
+PlayerID: 76561198368128006 Name: Aibek Character: Aibek [A.S.D] Ping: 97
+PlayerID: 76561198328119181 Name: Fex Character: Fex Ping: 46
+PlayerID: 76561198114070067 Name: Super iGeroy Character: Samurai Ping: 50
+PlayerID: 76561198351213164 Name: _АхМеД_ Character: Виндяй Вечеслав Ping: 89
+PlayerID: 76561198363828451 Name: Ничоси Character: Кеша Ping: 42
+PlayerID: 76561198334346242 Name: мареонетка Character: [Кровавые]хмурый Ping: 117
+PlayerID: 76561198381173735 Name: ingener_spring Character: ingener_spring Ping: 144
+PlayerID: 76561198361426439 Name: YouTube-kotik_killer Character: YouTube-kotik_killer Ping: 144
+PlayerID: 76561198193423317 Name: Bandit Character: Bandit Ping: 82
+PlayerID: 76561198190614569 Name: ___Ru$$ian BaNDit___ Character: Argus Ping: 78
+PlayerID: 76561198392163437 Name: Unlocker Character: Unlocker Ping: 117
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 123123
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 31023443
+PlayerID: 123
+JudgeID: 0
+Reason: durila Duration: 4000 Remaining: 4294459237
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294487610
+
+END with Bans:
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198369248070 Name: Ali Character: Ali Ping: 152
+PlayerID: 76561198165822970 Name: Indigo Character: Indigo Ping: 42
+PlayerID: 76561198368128006 Name: Aibek Character: Aibek [A.S.D] Ping: 93
+PlayerID: 76561198328119181 Name: Fex Character: Fex Ping: 70
+PlayerID: 76561198114070067 Name: Super iGeroy Character: Samurai Ping: 58
+PlayerID: 76561198351213164 Name: _АхМеД_ Character: Виндяй Вечеслав Ping: 82
+PlayerID: 76561198363828451 Name: Ничоси Character: Кеша Ping: 46
+PlayerID: 76561198334346242 Name: мареонетка Character: [Кровавые]хмурый Ping: 113
+PlayerID: 76561198381173735 Name: ingener_spring Character: ingener_spring Ping: 160
+PlayerID: 76561198361426439 Name: YouTube-kotik_killer Character: YouTube-kotik_killer Ping: 132
+PlayerID: 76561198193423317 Name: Bandit Character: Bandit Ping: 82
+PlayerID: 76561198190614569 Name: ___Ru$$ian BaNDit___ Character: Argus Ping: 74
+PlayerID: 76561198392163437 Name: Unlocker Character: Unlocker Ping: 113
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 123123
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 31023423
+PlayerID: 123
+JudgeID: 0
+Reason: durila Duration: 4000 Remaining: 4294459217
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294487590
+
+END with Bans:
+[World] Argus [___Ru$$ian BaNDit___]: "/kit heip"
+
+[World] Виндяй Вечеслав [_АхМеД_]: "/home"
+
+Не обработано: Виндяй Вечеслав moved x:409.3456 y:29.81143(+16.80135) z:-85.95695 in the last second (0.04999924)
+Виндяй Вечеслав moved x:409.3456 y:29.81143(+16.80135) z:-85.95695 in the last second (0.04999924)
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198369248070 Name: Ali Character: Ali Ping: 144
+PlayerID: 76561198165822970 Name: Indigo Character: Indigo Ping: 39
+PlayerID: 76561198368128006 Name: Aibek Character: Aibek [A.S.D] Ping: 105
+PlayerID: 76561198328119181 Name: Fex Character: Fex Ping: 160
+PlayerID: 76561198114070067 Name: Super iGeroy Character: Samurai Ping: 54
+PlayerID: 76561198351213164 Name: _АхМеД_ Character: Виндяй Вечеслав Ping: 183
+PlayerID: 76561198363828451 Name: Ничоси Character: Кеша Ping: 35
+PlayerID: 76561198334346242 Name: мареонетка Character: [Кровавые]хмурый Ping: 121
+PlayerID: 76561198381173735 Name: ingener_spring Character: ingener_spring Ping: 156
+PlayerID: 76561198361426439 Name: YouTube-kotik_killer Character: YouTube-kotik_killer Ping: 140
+PlayerID: 76561198193423317 Name: Bandit Character: Bandit Ping: 78
+PlayerID: 76561198190614569 Name: ___Ru$$ian BaNDit___ Character: Argus Ping: 85
+PlayerID: 76561198392163437 Name: Unlocker Character: Unlocker Ping: 121
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 123123
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 31023403
+PlayerID: 123
+JudgeID: 0
+Reason: durila Duration: 4000 Remaining: 4294459197
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294487570
+
+END with Bans:
+[World] Argus [___Ru$$ian BaNDit___]: "/kit help"
+
+[World] Bandit [Bandit]: "/tpa argus"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198369248070 Name: Ali Character: Ali Ping: 160
+PlayerID: 76561198165822970 Name: Indigo Character: Indigo Ping: 46
+PlayerID: 76561198368128006 Name: Aibek Character: Aibek [A.S.D] Ping: 93
+PlayerID: 76561198328119181 Name: Fex Character: Fex Ping: 54
+PlayerID: 76561198114070067 Name: Super iGeroy Character: Samurai Ping: 54
+PlayerID: 76561198351213164 Name: _АхМеД_ Character: Виндяй Вечеслав Ping: 117
+PlayerID: 76561198363828451 Name: Ничоси Character: Кеша Ping: 42
+PlayerID: 76561198334346242 Name: мареонетка Character: [Кровавые]хмурый Ping: 113
+PlayerID: 76561198381173735 Name: ingener_spring Character: ingener_spring Ping: 144
+PlayerID: 76561198361426439 Name: YouTube-kotik_killer Character: YouTube-kotik_killer Ping: 132
+PlayerID: 76561198193423317 Name: Bandit Character: Bandit Ping: 70
+PlayerID: 76561198190614569 Name: ___Ru$$ian BaNDit___ Character: Argus Ping: 74
+PlayerID: 76561198392163437 Name: Unlocker Character: Unlocker Ping: 113
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 123123
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 31023383
+PlayerID: 123
+JudgeID: 0
+Reason: durila Duration: 4000 Remaining: 4294459177
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294487550
+
+END with Bans:
+[World] Argus [___Ru$$ian BaNDit___]: "/tpa a"
+
+[World] Aibek [A.S.D] [Aibek]: "/home"
+
+[Area] Ali [Ali]: "/home"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198369248070 Name: Ali Character: Ali Ping: 152
+PlayerID: 76561198165822970 Name: Indigo Character: Indigo Ping: 39
+PlayerID: 76561198368128006 Name: Aibek Character: Aibek [A.S.D] Ping: 93
+PlayerID: 76561198328119181 Name: Fex Character: Fex Ping: 50
+PlayerID: 76561198114070067 Name: Super iGeroy Character: Samurai Ping: 50
+PlayerID: 76561198351213164 Name: _АхМеД_ Character: Виндяй Вечеслав Ping: 191
+PlayerID: 76561198363828451 Name: Ничоси Character: Кеша Ping: 42
+PlayerID: 76561198334346242 Name: мареонетка Character: [Кровавые]хмурый Ping: 113
+PlayerID: 76561198381173735 Name: ingener_spring Character: ingener_spring Ping: 167
+PlayerID: 76561198361426439 Name: YouTube-kotik_killer Character: YouTube-kotik_killer Ping: 128
+PlayerID: 76561198193423317 Name: Bandit Character: Bandit Ping: 93
+PlayerID: 76561198190614569 Name: ___Ru$$ian BaNDit___ Character: Argus Ping: 70
+PlayerID: 76561198392163437 Name: Unlocker Character: Unlocker Ping: 113
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 123123
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 31023363
+PlayerID: 123
+JudgeID: 0
+Reason: durila Duration: 4000 Remaining: 4294459157
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294487530
+
+TimerTerminateCommand.Enabled with Bans:
+[Area] Ali [Ali]: "/tpa aibek"
+
+END with Bans:
+Не обработано: MessageAnnouncer >> Broadcast: vk.com/unturned_hgm - цены на премиум, VIP и другие услуги смотрите в группе!
+MessageAnnouncer >> Broadcast: vk.com/unturned_hgm - цены на премиум, VIP и другие услуги смотрите в группе!
+
+Не обработано: MessageAnnouncer >> vk.com/unturned_hgm - цены на премиум, VIP и другие услуги смотрите в группе!
+MessageAnnouncer >> vk.com/unturned_hgm - цены на премиум, VIP и другие услуги смотрите в группе!
+
+[World] Aibek [A.S.D] [Aibek]: "/tpa a"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198369248070 Name: Ali Character: Ali Ping: 148
+PlayerID: 76561198165822970 Name: Indigo Character: Indigo Ping: 46
+PlayerID: 76561198368128006 Name: Aibek Character: Aibek [A.S.D] Ping: 85
+PlayerID: 76561198328119181 Name: Fex Character: Fex Ping: 66
+PlayerID: 76561198114070067 Name: Super iGeroy Character: Samurai Ping: 62
+PlayerID: 76561198351213164 Name: _АхМеД_ Character: Виндяй Вечеслав Ping: 82
+PlayerID: 76561198363828451 Name: Ничоси Character: Кеша Ping: 31
+PlayerID: 76561198334346242 Name: мареонетка Character: [Кровавые]хмурый Ping: 132
+PlayerID: 76561198381173735 Name: ingener_spring Character: ingener_spring Ping: 140
+PlayerID: 76561198361426439 Name: YouTube-kotik_killer Character: YouTube-kotik_killer Ping: 132
+PlayerID: 76561198193423317 Name: Bandit Character: Bandit Ping: 74
+PlayerID: 76561198190614569 Name: ___Ru$$ian BaNDit___ Character: Argus Ping: 58
+PlayerID: 76561198392163437 Name: Unlocker Character: Unlocker Ping: 113
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 123123
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 31023343
+PlayerID: 123
+JudgeID: 0
+Reason: durila Duration: 4000 Remaining: 4294459137
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294487510
+
+END with Bans:
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198369248070 Name: Ali Character: Ali Ping: 160
+PlayerID: 76561198165822970 Name: Indigo Character: Indigo Ping: 50
+PlayerID: 76561198368128006 Name: Aibek Character: Aibek [A.S.D] Ping: 109
+PlayerID: 76561198328119181 Name: Fex Character: Fex Ping: 58
+PlayerID: 76561198114070067 Name: Super iGeroy Character: Samurai Ping: 54
+PlayerID: 76561198351213164 Name: _АхМеД_ Character: Виндяй Вечеслав Ping: 222
+PlayerID: 76561198363828451 Name: Ничоси Character: Кеша Ping: 42
+PlayerID: 76561198334346242 Name: мареонетка Character: [Кровавые]хмурый Ping: 117
+PlayerID: 76561198381173735 Name: ingener_spring Character: ingener_spring Ping: 160
+PlayerID: 76561198361426439 Name: YouTube-kotik_killer Character: YouTube-kotik_killer Ping: 140
+PlayerID: 76561198193423317 Name: Bandit Character: Bandit Ping: 82
+PlayerID: 76561198190614569 Name: ___Ru$$ian BaNDit___ Character: Argus Ping: 70
+PlayerID: 76561198392163437 Name: Unlocker Character: Unlocker Ping: 117
+
+TimerTerminateCommand.Enabled with Players:
+[World] Bandit [Bandit]: "/kit hgm"
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 123123
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 31023321
+PlayerID: 123
+JudgeID: 0
+Reason: durila Duration: 4000 Remaining: 4294459115
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294487488
+
+END with Bans:
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198369248070 Name: Ali Character: Ali Ping: 156
+PlayerID: 76561198165822970 Name: Indigo Character: Indigo Ping: 54
+PlayerID: 76561198368128006 Name: Aibek Character: Aibek [A.S.D] Ping: 105
+PlayerID: 76561198328119181 Name: Fex Character: Fex Ping: 66
+PlayerID: 76561198114070067 Name: Super iGeroy Character: Samurai Ping: 54
+PlayerID: 76561198351213164 Name: _АхМеД_ Character: Виндяй Вечеслав Ping: 101
+PlayerID: 76561198363828451 Name: Ничоси Character: Кеша Ping: 46
+PlayerID: 76561198334346242 Name: мареонетка Character: [Кровавые]хмурый Ping: 136
+PlayerID: 76561198381173735 Name: ingener_spring Character: ingener_spring Ping: 144
+PlayerID: 76561198361426439 Name: YouTube-kotik_killer Character: YouTube-kotik_killer Ping: 136
+PlayerID: 76561198193423317 Name: Bandit Character: Bandit Ping: 74
+PlayerID: 76561198190614569 Name: ___Ru$$ian BaNDit___ Character: Argus Ping: 70
+PlayerID: 76561198392163437 Name: Unlocker Character: Unlocker Ping: 113
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 123123
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 31023303
+PlayerID: 123
+JudgeID: 0
+Reason: durila Duration: 4000 Remaining: 4294459097
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294487470
+
+END with Bans:
+[World] ingener_spring [ingener_spring]: "/tpa Samurai"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198369248070 Name: Ali Character: Ali Ping: 160
+PlayerID: 76561198165822970 Name: Indigo Character: Indigo Ping: 54
+PlayerID: 76561198368128006 Name: Aibek Character: Aibek [A.S.D] Ping: 101
+PlayerID: 76561198328119181 Name: Fex Character: Fex Ping: 46
+PlayerID: 76561198114070067 Name: Super iGeroy Character: Samurai Ping: 50
+PlayerID: 76561198351213164 Name: _АхМеД_ Character: Виндяй Вечеслав Ping: 101
+PlayerID: 76561198363828451 Name: Ничоси Character: Кеша Ping: 39
+PlayerID: 76561198334346242 Name: мареонетка Character: [Кровавые]хмурый Ping: 113
+PlayerID: 76561198381173735 Name: ingener_spring Character: ingener_spring Ping: 156
+PlayerID: 76561198361426439 Name: YouTube-kotik_killer Character: YouTube-kotik_killer Ping: 128
+PlayerID: 76561198193423317 Name: Bandit Character: Bandit Ping: 78
+PlayerID: 76561198190614569 Name: ___Ru$$ian BaNDit___ Character: Argus Ping: 66
+PlayerID: 76561198392163437 Name: Unlocker Character: Unlocker Ping: 105
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 123123
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 31023283
+PlayerID: 123
+JudgeID: 0
+Reason: durila Duration: 4000 Remaining: 4294459077
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294487450
+
+END with Bans:
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198369248070 Name: Ali Character: Ali Ping: 156
+PlayerID: 76561198165822970 Name: Indigo Character: Indigo Ping: 39
+PlayerID: 76561198368128006 Name: Aibek Character: Aibek [A.S.D] Ping: 101
+PlayerID: 76561198328119181 Name: Fex Character: Fex Ping: 62
+PlayerID: 76561198114070067 Name: Super iGeroy Character: Samurai Ping: 54
+PlayerID: 76561198351213164 Name: _АхМеД_ Character: Виндяй Вечеслав Ping: 121
+PlayerID: 76561198363828451 Name: Ничоси Character: Кеша Ping: 50
+PlayerID: 76561198334346242 Name: мареонетка Character: [Кровавые]хмурый Ping: 128
+PlayerID: 76561198381173735 Name: ingener_spring Character: ingener_spring Ping: 152
+PlayerID: 76561198361426439 Name: YouTube-kotik_killer Character: YouTube-kotik_killer Ping: 144
+PlayerID: 76561198193423317 Name: Bandit Character: Bandit Ping: 85
+PlayerID: 76561198190614569 Name: ___Ru$$ian BaNDit___ Character: Argus Ping: 66
+PlayerID: 76561198392163437 Name: Unlocker Character: Unlocker Ping: 117
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 123123
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 31023263
+PlayerID: 123
+JudgeID: 0
+Reason: durila Duration: 4000 Remaining: 4294459057
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294487430
+
+END with Bans:
+[World] Bandit [Bandit]: "/kit hgm1"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198369248070 Name: Ali Character: Ali Ping: 144
+PlayerID: 76561198165822970 Name: Indigo Character: Indigo Ping: 66
+PlayerID: 76561198368128006 Name: Aibek Character: Aibek [A.S.D] Ping: 93
+PlayerID: 76561198328119181 Name: Fex Character: Fex Ping: 54
+PlayerID: 76561198114070067 Name: Super iGeroy Character: Samurai Ping: 42
+PlayerID: 76561198351213164 Name: _АхМеД_ Character: Виндяй Вечеслав Ping: 160
+PlayerID: 76561198363828451 Name: Ничоси Character: Кеша Ping: 31
+PlayerID: 76561198334346242 Name: мареонетка Character: [Кровавые]хмурый Ping: 109
+PlayerID: 76561198381173735 Name: ingener_spring Character: ingener_spring Ping: 140
+PlayerID: 76561198361426439 Name: YouTube-kotik_killer Character: YouTube-kotik_killer Ping: 136
+PlayerID: 76561198193423317 Name: Bandit Character: Bandit Ping: 66
+PlayerID: 76561198190614569 Name: ___Ru$$ian BaNDit___ Character: Argus Ping: 70
+PlayerID: 76561198392163437 Name: Unlocker Character: Unlocker Ping: 105
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 123123
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 31023243
+PlayerID: 123
+JudgeID: 0
+Reason: durila Duration: 4000 Remaining: 4294459037
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294487410
+
+TimerTerminateCommand.Enabled with Bans:
+[World] Bandit [Bandit]: "/kit claim"
+
+END with Bans:
+[World] Argus [___Ru$$ian BaNDit___]: "/kit hgm1"
+
+Не обработано: MessageAnnouncer >> Broadcast: Наберите /kit claim, чтобы получить Claim Flag
+MessageAnnouncer >> Broadcast: Наберите /kit claim, чтобы получить Claim Flag
+
+Не обработано: MessageAnnouncer >> Наберите /kit claim, чтобы получить Claim Flag
+MessageAnnouncer >> Наберите /kit claim, чтобы получить Claim Flag
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198369248070 Name: Ali Character: Ali Ping: 156
+PlayerID: 76561198165822970 Name: Indigo Character: Indigo Ping: 39
+PlayerID: 76561198368128006 Name: Aibek Character: Aibek [A.S.D] Ping: 101
+PlayerID: 76561198328119181 Name: Fex Character: Fex Ping: 46
+PlayerID: 76561198114070067 Name: Super iGeroy Character: Samurai Ping: 42
+PlayerID: 76561198351213164 Name: _АхМеД_ Character: Виндяй Вечеслав Ping: 242
+PlayerID: 76561198363828451 Name: Ничоси Character: Кеша Ping: 50
+PlayerID: 76561198334346242 Name: мареонетка Character: [Кровавые]хмурый Ping: 105
+PlayerID: 76561198381173735 Name: ingener_spring Character: ingener_spring Ping: 148
+PlayerID: 76561198361426439 Name: YouTube-kotik_killer Character: YouTube-kotik_killer Ping: 144
+PlayerID: 76561198193423317 Name: Bandit Character: Bandit Ping: 93
+PlayerID: 76561198190614569 Name: ___Ru$$ian BaNDit___ Character: Argus Ping: 78
+PlayerID: 76561198392163437 Name: Unlocker Character: Unlocker Ping: 121
+
+TimerTerminateCommand.Enabled with Players:
+[Area] Кеша [Ничоси]: "/kit claim"
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 123123
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 31023222
+PlayerID: 123
+JudgeID: 0
+Reason: durila Duration: 4000 Remaining: 4294459016
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294487389
+
+END with Bans:
+[Area] Кеша [Ничоси]: "/kit star"
+
+[World] Samurai [Super iGeroy]: "/tpa a"
+
+[World] [Кровавые]хмурый [мареонетка]: "/kit claim"
+
+[Area] Кеша [Ничоси]: "/kit start"
+
+[World] [Кровавые]хмурый [мареонетка]: "/kits"
+
+[Area] Кеша [Ничоси]: "/kits"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198369248070 Name: Ali Character: Ali Ping: 148
+PlayerID: 76561198165822970 Name: Indigo Character: Indigo Ping: 58
+PlayerID: 76561198368128006 Name: Aibek Character: Aibek [A.S.D] Ping: 101
+PlayerID: 76561198328119181 Name: Fex Character: Fex Ping: 46
+PlayerID: 76561198114070067 Name: Super iGeroy Character: Samurai Ping: 39
+PlayerID: 76561198351213164 Name: _АхМеД_ Character: Виндяй Вечеслав Ping: 136
+PlayerID: 76561198363828451 Name: Ничоси Character: Кеша Ping: 35
+PlayerID: 76561198334346242 Name: мареонетка Character: [Кровавые]хмурый Ping: 105
+PlayerID: 76561198381173735 Name: ingener_spring Character: ingener_spring Ping: 156
+PlayerID: 76561198361426439 Name: YouTube-kotik_killer Character: YouTube-kotik_killer Ping: 125
+PlayerID: 76561198193423317 Name: Bandit Character: Bandit Ping: 70
+PlayerID: 76561198190614569 Name: ___Ru$$ian BaNDit___ Character: Argus Ping: 70
+PlayerID: 76561198392163437 Name: Unlocker Character: Unlocker Ping: 105
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 123123
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 31023203
+PlayerID: 123
+JudgeID: 0
+Reason: durila Duration: 4000 Remaining: 4294458997
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294487370
+
+TimerTerminateCommand.Enabled with Bans:
+[World] Indigo [Indigo]: "спс"
+
+TimerTerminateCommand.Enabled with Bans:
+[Area] Кеша [Ничоси]: "/kit help"
+
+END with Bans:
+[World] Fex [Fex]: "/KIT CLAIM"
+
+[World] [Кровавые]хмурый [мареонетка]: "/kit start"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198369248070 Name: Ali Character: Ali Ping: 152
+PlayerID: 76561198165822970 Name: Indigo Character: Indigo Ping: 42
+PlayerID: 76561198368128006 Name: Aibek Character: Aibek [A.S.D] Ping: 97
+PlayerID: 76561198328119181 Name: Fex Character: Fex Ping: 54
+PlayerID: 76561198114070067 Name: Super iGeroy Character: Samurai Ping: 54
+PlayerID: 76561198351213164 Name: _АхМеД_ Character: Виндяй Вечеслав Ping: 175
+PlayerID: 76561198363828451 Name: Ничоси Character: Кеша Ping: 46
+PlayerID: 76561198334346242 Name: мареонетка Character: [Кровавые]хмурый Ping: 117
+PlayerID: 76561198381173735 Name: ingener_spring Character: ingener_spring Ping: 160
+PlayerID: 76561198361426439 Name: YouTube-kotik_killer Character: YouTube-kotik_killer Ping: 136
+PlayerID: 76561198193423317 Name: Bandit Character: Bandit Ping: 89
+PlayerID: 76561198190614569 Name: ___Ru$$ian BaNDit___ Character: Argus Ping: 82
+PlayerID: 76561198392163437 Name: Unlocker Character: Unlocker Ping: 113
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 123123
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 31023183
+PlayerID: 123
+JudgeID: 0
+Reason: durila Duration: 4000 Remaining: 4294458977
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294487350
+
+Не обработано: DeathMessagesRemastered >> Broadcast: ingener_spring has been mauled by a zombie! 
+TimerTerminateCommand.Enabled with Bans:
+DeathMessagesRemastered >> Broadcast: ingener_spring has been mauled by a zombie! 
+
+Не обработано: ingener_spring [ingener_spring] was mauled by a zombie!
+TimerTerminateCommand.Enabled with Bans:
+ingener_spring [ingener_spring] was mauled by a zombie!
+
+END with Bans:
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198369248070 Name: Ali Character: Ali Ping: 160
+PlayerID: 76561198165822970 Name: Indigo Character: Indigo Ping: 39
+PlayerID: 76561198368128006 Name: Aibek Character: Aibek [A.S.D] Ping: 97
+PlayerID: 76561198328119181 Name: Fex Character: Fex Ping: 74
+PlayerID: 76561198114070067 Name: Super iGeroy Character: Samurai Ping: 42
+PlayerID: 76561198351213164 Name: _АхМеД_ Character: Виндяй Вечеслав Ping: 121
+PlayerID: 76561198363828451 Name: Ничоси Character: Кеша Ping: 42
+PlayerID: 76561198334346242 Name: мареонетка Character: [Кровавые]хмурый Ping: 125
+PlayerID: 76561198381173735 Name: ingener_spring Character: ingener_spring Ping: 164
+PlayerID: 76561198361426439 Name: YouTube-kotik_killer Character: YouTube-kotik_killer Ping: 144
+PlayerID: 76561198193423317 Name: Bandit Character: Bandit Ping: 89
+PlayerID: 76561198190614569 Name: ___Ru$$ian BaNDit___ Character: Argus Ping: 70
+PlayerID: 76561198392163437 Name: Unlocker Character: Unlocker Ping: 117
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 123123
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 31023163
+PlayerID: 123
+JudgeID: 0
+Reason: durila Duration: 4000 Remaining: 4294458957
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294487330
+
+END with Bans:
+[World] Unlocker [Unlocker]: "/kit help"
+
+[World] Indigo [Indigo]: "/tpa accept"
+
+[World] ingener_spring [ingener_spring]: "Indigo"
+
+[World] [Кровавые]хмурый [мареонетка]: "/home"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198369248070 Name: Ali Character: Ali Ping: 152
+PlayerID: 76561198165822970 Name: Indigo Character: Indigo Ping: 39
+PlayerID: 76561198368128006 Name: Aibek Character: Aibek [A.S.D] Ping: 93
+PlayerID: 76561198328119181 Name: Fex Character: Fex Ping: 70
+PlayerID: 76561198114070067 Name: Super iGeroy Character: Samurai Ping: 54
+PlayerID: 76561198351213164 Name: _АхМеД_ Character: Виндяй Вечеслав Ping: 109
+PlayerID: 76561198363828451 Name: Ничоси Character: Кеша Ping: 39
+PlayerID: 76561198334346242 Name: мареонетка Character: [Кровавые]хмурый Ping: 125
+PlayerID: 76561198381173735 Name: ingener_spring Character: ingener_spring Ping: 152
+PlayerID: 76561198361426439 Name: YouTube-kotik_killer Character: YouTube-kotik_killer Ping: 128
+PlayerID: 76561198193423317 Name: Bandit Character: Bandit Ping: 74
+PlayerID: 76561198190614569 Name: ___Ru$$ian BaNDit___ Character: Argus Ping: 82
+PlayerID: 76561198392163437 Name: Unlocker Character: Unlocker Ping: 113
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 123123
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 31023143
+PlayerID: 123
+JudgeID: 0
+Reason: durila Duration: 4000 Remaining: 4294458937
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294487310
+
+END with Bans:
+[Area] Кеша [Ничоси]: "/home"
+
+[World] Indigo [Indigo]: "/tpa accept"
+
+[World] Indigo [Indigo]: "что"
+
+[World] ingener_spring [ingener_spring]: "/tpa Indigo"
+
+[World] Indigo [Indigo]: "/tpa accpet"
+
+[World] Indigo [Indigo]: "/tpa accept"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198369248070 Name: Ali Character: Ali Ping: 152
+PlayerID: 76561198165822970 Name: Indigo Character: Indigo Ping: 50
+PlayerID: 76561198368128006 Name: Aibek Character: Aibek [A.S.D] Ping: 97
+PlayerID: 76561198328119181 Name: Fex Character: Fex Ping: 50
+PlayerID: 76561198114070067 Name: Super iGeroy Character: Samurai Ping: 50
+PlayerID: 76561198351213164 Name: _АхМеД_ Character: Виндяй Вечеслав Ping: 105
+PlayerID: 76561198363828451 Name: Ничоси Character: Кеша Ping: 42
+PlayerID: 76561198334346242 Name: мареонетка Character: [Кровавые]хмурый Ping: 136
+PlayerID: 76561198381173735 Name: ingener_spring Character: ingener_spring Ping: 148
+PlayerID: 76561198361426439 Name: YouTube-kotik_killer Character: YouTube-kotik_killer Ping: 140
+PlayerID: 76561198193423317 Name: Bandit Character: Bandit Ping: 74
+PlayerID: 76561198190614569 Name: ___Ru$$ian BaNDit___ Character: Argus Ping: 66
+PlayerID: 76561198392163437 Name: Unlocker Character: Unlocker Ping: 125
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 123123
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 31023123
+PlayerID: 123
+JudgeID: 0
+Reason: durila Duration: 4000 Remaining: 4294458917
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294487290
+
+END with Bans:
+[World] ingener_spring [ingener_spring]: "прими я лут заберу"
+
+Не обработано: MessageAnnouncer >> Broadcast: Если модератор ведёт себя неподобающе, пишите в группу или ЛС (vk.com/unturned_hgm, vk.com/hemulgm)
+MessageAnnouncer >> Broadcast: Если модератор ведёт себя неподобающе, пишите в группу или ЛС (vk.com/unturned_hgm, vk.com/hemulgm)
+
+Не обработано: MessageAnnouncer >> Если модератор ведёт себя неподобающе, пишите в группу или ЛС (vk.com/unturned_hgm, vk.com/hemulgm)
+MessageAnnouncer >> Если модератор ведёт себя неподобающе, пишите в группу или ЛС (vk.com/unturned_hgm, vk.com/hemulgm)
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198369248070 Name: Ali Character: Ali Ping: 148
+PlayerID: 76561198165822970 Name: Indigo Character: Indigo Ping: 42
+PlayerID: 76561198368128006 Name: Aibek Character: Aibek [A.S.D] Ping: 93
+PlayerID: 76561198328119181 Name: Fex Character: Fex Ping: 54
+PlayerID: 76561198114070067 Name: Super iGeroy Character: Samurai Ping: 58
+PlayerID: 76561198351213164 Name: _АхМеД_ Character: Виндяй Вечеслав Ping: 89
+PlayerID: 76561198363828451 Name: Ничоси Character: Кеша Ping: 42
+PlayerID: 76561198334346242 Name: мареонетка Character: [Кровавые]хмурый Ping: 105
+PlayerID: 76561198381173735 Name: ingener_spring Character: ingener_spring Ping: 167
+PlayerID: 76561198361426439 Name: YouTube-kotik_killer Character: YouTube-kotik_killer Ping: 140
+PlayerID: 76561198193423317 Name: Bandit Character: Bandit Ping: 89
+PlayerID: 76561198190614569 Name: ___Ru$$ian BaNDit___ Character: Argus Ping: 78
+PlayerID: 76561198392163437 Name: Unlocker Character: Unlocker Ping: 113
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 123123
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 31023103
+PlayerID: 123
+JudgeID: 0
+Reason: durila Duration: 4000 Remaining: 4294458897
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294487270
+
+END with Bans:
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198369248070 Name: Ali Character: Ali Ping: 140
+PlayerID: 76561198165822970 Name: Indigo Character: Indigo Ping: 70
+PlayerID: 76561198368128006 Name: Aibek Character: Aibek [A.S.D] Ping: 97
+PlayerID: 76561198328119181 Name: Fex Character: Fex Ping: 42
+PlayerID: 76561198114070067 Name: Super iGeroy Character: Samurai Ping: 42
+PlayerID: 76561198351213164 Name: _АхМеД_ Character: Виндяй Вечеслав Ping: 97
+PlayerID: 76561198363828451 Name: Ничоси Character: Кеша Ping: 42
+PlayerID: 76561198334346242 Name: мареонетка Character: [Кровавые]хмурый Ping: 89
+PlayerID: 76561198381173735 Name: ingener_spring Character: ingener_spring Ping: 152
+PlayerID: 76561198361426439 Name: YouTube-kotik_killer Character: YouTube-kotik_killer Ping: 128
+PlayerID: 76561198193423317 Name: Bandit Character: Bandit Ping: 105
+PlayerID: 76561198190614569 Name: ___Ru$$ian BaNDit___ Character: Argus Ping: 105
+PlayerID: 76561198392163437 Name: Unlocker Character: Unlocker Ping: 113
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 123123
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 31023083
+PlayerID: 123
+JudgeID: 0
+Reason: durila Duration: 4000 Remaining: 4294458877
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294487250
+
+END with Bans:
+[World] Indigo [Indigo]: "мне бы от радиации что то"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198369248070 Name: Ali Character: Ali Ping: 152
+PlayerID: 76561198165822970 Name: Indigo Character: Indigo Ping: 42
+PlayerID: 76561198368128006 Name: Aibek Character: Aibek [A.S.D] Ping: 101
+PlayerID: 76561198328119181 Name: Fex Character: Fex Ping: 58
+PlayerID: 76561198114070067 Name: Super iGeroy Character: Samurai Ping: 39
+PlayerID: 76561198351213164 Name: _АхМеД_ Character: Виндяй Вечеслав Ping: 109
+PlayerID: 76561198363828451 Name: Ничоси Character: Кеша Ping: 39
+PlayerID: 76561198334346242 Name: мареонетка Character: [Кровавые]хмурый Ping: 132
+PlayerID: 76561198381173735 Name: ingener_spring Character: ingener_spring Ping: 152
+PlayerID: 76561198361426439 Name: YouTube-kotik_killer Character: YouTube-kotik_killer Ping: 132
+PlayerID: 76561198193423317 Name: Bandit Character: Bandit Ping: 85
+PlayerID: 76561198190614569 Name: ___Ru$$ian BaNDit___ Character: Argus Ping: 74
+PlayerID: 76561198392163437 Name: Unlocker Character: Unlocker Ping: 113
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 123123
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 31023063
+PlayerID: 123
+JudgeID: 0
+Reason: durila Duration: 4000 Remaining: 4294458857
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294487230
+
+END with Bans:
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198369248070 Name: Ali Character: Ali Ping: 152
+PlayerID: 76561198165822970 Name: Indigo Character: Indigo Ping: 50
+PlayerID: 76561198368128006 Name: Aibek Character: Aibek [A.S.D] Ping: 89
+PlayerID: 76561198328119181 Name: Fex Character: Fex Ping: 31
+PlayerID: 76561198114070067 Name: Super iGeroy Character: Samurai Ping: 50
+PlayerID: 76561198351213164 Name: _АхМеД_ Character: Виндяй Вечеслав Ping: 269
+PlayerID: 76561198363828451 Name: Ничоси Character: Кеша Ping: 46
+PlayerID: 76561198334346242 Name: мареонетка Character: [Кровавые]хмурый Ping: 101
+PlayerID: 76561198381173735 Name: ingener_spring Character: ingener_spring Ping: 156
+PlayerID: 76561198361426439 Name: YouTube-kotik_killer Character: YouTube-kotik_killer Ping: 132
+PlayerID: 76561198193423317 Name: Bandit Character: Bandit Ping: 74
+PlayerID: 76561198190614569 Name: ___Ru$$ian BaNDit___ Character: Argus Ping: 82
+PlayerID: 76561198392163437 Name: Unlocker Character: Unlocker Ping: 117
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 123123
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 31023043
+PlayerID: 123
+JudgeID: 0
+Reason: durila Duration: 4000 Remaining: 4294458837
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294487210
+
+END with Bans:
+[World] ingener_spring [ingener_spring]: "на"
+
+[World] Indigo [Indigo]: "спс"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198369248070 Name: Ali Character: Ali Ping: 148
+PlayerID: 76561198165822970 Name: Indigo Character: Indigo Ping: 42
+PlayerID: 76561198368128006 Name: Aibek Character: Aibek [A.S.D] Ping: 97
+PlayerID: 76561198328119181 Name: Fex Character: Fex Ping: 54
+PlayerID: 76561198114070067 Name: Super iGeroy Character: Samurai Ping: 54
+PlayerID: 76561198351213164 Name: _АхМеД_ Character: Виндяй Вечеслав Ping: 85
+PlayerID: 76561198363828451 Name: Ничоси Character: Кеша Ping: 42
+PlayerID: 76561198334346242 Name: мареонетка Character: [Кровавые]хмурый Ping: 171
+PlayerID: 76561198381173735 Name: ingener_spring Character: ingener_spring Ping: 152
+PlayerID: 76561198361426439 Name: YouTube-kotik_killer Character: YouTube-kotik_killer Ping: 136
+PlayerID: 76561198193423317 Name: Bandit Character: Bandit Ping: 74
+PlayerID: 76561198190614569 Name: ___Ru$$ian BaNDit___ Character: Argus Ping: 101
+PlayerID: 76561198392163437 Name: Unlocker Character: Unlocker Ping: 109
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 123123
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 31023023
+PlayerID: 123
+JudgeID: 0
+Reason: durila Duration: 4000 Remaining: 4294458817
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294487190
+
+END with Bans:
+[Area] Кеша [Ничоси]: "/home"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198369248070 Name: Ali Character: Ali Ping: 152
+PlayerID: 76561198165822970 Name: Indigo Character: Indigo Ping: 54
+PlayerID: 76561198368128006 Name: Aibek Character: Aibek [A.S.D] Ping: 93
+PlayerID: 76561198328119181 Name: Fex Character: Fex Ping: 74
+PlayerID: 76561198114070067 Name: Super iGeroy Character: Samurai Ping: 42
+PlayerID: 76561198351213164 Name: _АхМеД_ Character: Виндяй Вечеслав Ping: 101
+PlayerID: 76561198363828451 Name: Ничоси Character: Кеша Ping: 39
+PlayerID: 76561198334346242 Name: мареонетка Character: [Кровавые]хмурый Ping: 113
+PlayerID: 76561198381173735 Name: ingener_spring Character: ingener_spring Ping: 167
+PlayerID: 76561198361426439 Name: YouTube-kotik_killer Character: YouTube-kotik_killer Ping: 121
+PlayerID: 76561198193423317 Name: Bandit Character: Bandit Ping: 74
+PlayerID: 76561198190614569 Name: ___Ru$$ian BaNDit___ Character: Argus Ping: 74
+PlayerID: 76561198392163437 Name: Unlocker Character: Unlocker Ping: 121
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 123123
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 31023003
+PlayerID: 123
+JudgeID: 0
+Reason: durila Duration: 4000 Remaining: 4294458797
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294487170
+
+END with Bans:
+Не обработано: MessageAnnouncer >> Broadcast: vk.com/hemulgm - ЕДИНСТВЕННЫЙ администратор сервера
+MessageAnnouncer >> Broadcast: vk.com/hemulgm - ЕДИНСТВЕННЫЙ администратор сервера
+
+Не обработано: MessageAnnouncer >> vk.com/hemulgm - ЕДИНСТВЕННЫЙ администратор сервера
+MessageAnnouncer >> vk.com/hemulgm - ЕДИНСТВЕННЫЙ администратор сервера
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198369248070 Name: Ali Character: Ali Ping: 148
+PlayerID: 76561198165822970 Name: Indigo Character: Indigo Ping: 46
+PlayerID: 76561198368128006 Name: Aibek Character: Aibek [A.S.D] Ping: 109
+PlayerID: 76561198328119181 Name: Fex Character: Fex Ping: 82
+PlayerID: 76561198114070067 Name: Super iGeroy Character: Samurai Ping: 54
+PlayerID: 76561198351213164 Name: _АхМеД_ Character: Виндяй Вечеслав Ping: 109
+PlayerID: 76561198363828451 Name: Ничоси Character: Кеша Ping: 54
+PlayerID: 76561198334346242 Name: мареонетка Character: [Кровавые]хмурый Ping: 140
+PlayerID: 76561198381173735 Name: ingener_spring Character: ingener_spring Ping: 156
+PlayerID: 76561198361426439 Name: YouTube-kotik_killer Character: YouTube-kotik_killer Ping: 140
+PlayerID: 76561198193423317 Name: Bandit Character: Bandit Ping: 66
+PlayerID: 76561198190614569 Name: ___Ru$$ian BaNDit___ Character: Argus Ping: 97
+PlayerID: 76561198392163437 Name: Unlocker Character: Unlocker Ping: 128
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 123123
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 31022983
+PlayerID: 123
+JudgeID: 0
+Reason: durila Duration: 4000 Remaining: 4294458777
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294487150
+
+END with Bans:
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198369248070 Name: Ali Character: Ali Ping: 148
+PlayerID: 76561198165822970 Name: Indigo Character: Indigo Ping: 58
+PlayerID: 76561198368128006 Name: Aibek Character: Aibek [A.S.D] Ping: 101
+PlayerID: 76561198328119181 Name: Fex Character: Fex Ping: 39
+PlayerID: 76561198114070067 Name: Super iGeroy Character: Samurai Ping: 46
+PlayerID: 76561198351213164 Name: _АхМеД_ Character: Виндяй Вечеслав Ping: 144
+PlayerID: 76561198363828451 Name: Ничоси Character: Кеша Ping: 46
+PlayerID: 76561198334346242 Name: мареонетка Character: [Кровавые]хмурый Ping: 109
+PlayerID: 76561198381173735 Name: ingener_spring Character: ingener_spring Ping: 171
+PlayerID: 76561198361426439 Name: YouTube-kotik_killer Character: YouTube-kotik_killer Ping: 117
+PlayerID: 76561198193423317 Name: Bandit Character: Bandit Ping: 70
+PlayerID: 76561198190614569 Name: ___Ru$$ian BaNDit___ Character: Argus Ping: 70
+PlayerID: 76561198392163437 Name: Unlocker Character: Unlocker Ping: 113
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 123123
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 31022963
+PlayerID: 123
+JudgeID: 0
+Reason: durila Duration: 4000 Remaining: 4294458757
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294487130
+
+TimerTerminateCommand.Enabled with Bans:
+[World] Indigo [Indigo]: "сколько ткин"
+
+TimerTerminateCommand.Enabled with Bans:
+[World] Indigo [Indigo]: "ткани"
+
+END with Bans:
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198369248070 Name: Ali Character: Ali Ping: 152
+PlayerID: 76561198165822970 Name: Indigo Character: Indigo Ping: 31
+PlayerID: 76561198368128006 Name: Aibek Character: Aibek [A.S.D] Ping: 89
+PlayerID: 76561198328119181 Name: Fex Character: Fex Ping: 85
+PlayerID: 76561198114070067 Name: Super iGeroy Character: Samurai Ping: 58
+PlayerID: 76561198351213164 Name: _АхМеД_ Character: Виндяй Вечеслав Ping: 175
+PlayerID: 76561198363828451 Name: Ничоси Character: Кеша Ping: 46
+PlayerID: 76561198334346242 Name: мареонетка Character: [Кровавые]хмурый Ping: 105
+PlayerID: 76561198381173735 Name: ingener_spring Character: ingener_spring Ping: 156
+PlayerID: 76561198361426439 Name: YouTube-kotik_killer Character: YouTube-kotik_killer Ping: 117
+PlayerID: 76561198193423317 Name: Bandit Character: Bandit Ping: 78
+PlayerID: 76561198190614569 Name: ___Ru$$ian BaNDit___ Character: Argus Ping: 66
+PlayerID: 76561198392163437 Name: Unlocker Character: Unlocker Ping: 113
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 123123
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 31022943
+PlayerID: 123
+JudgeID: 0
+Reason: durila Duration: 4000 Remaining: 4294458737
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294487110
+
+END with Bans:
+[World] Indigo [Indigo]: "и дома еще"
+
+Disconnecting: PlayerID: 76561198368128006 Name: Aibek Character: Aibek [A.S.D]
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198369248070 Name: Ali Character: Ali Ping: 144
+PlayerID: 76561198165822970 Name: Indigo Character: Indigo Ping: 35
+PlayerID: 76561198328119181 Name: Fex Character: Fex Ping: 66
+PlayerID: 76561198114070067 Name: Super iGeroy Character: Samurai Ping: 39
+PlayerID: 76561198351213164 Name: _АхМеД_ Character: Виндяй Вечеслав Ping: 113
+PlayerID: 76561198363828451 Name: Ничоси Character: Кеша Ping: 42
+PlayerID: 76561198334346242 Name: мареонетка Character: [Кровавые]хмурый Ping: 97
+PlayerID: 76561198381173735 Name: ingener_spring Character: ingener_spring Ping: 144
+PlayerID: 76561198361426439 Name: YouTube-kotik_killer Character: YouTube-kotik_killer Ping: 132
+PlayerID: 76561198193423317 Name: Bandit Character: Bandit Ping: 70
+PlayerID: 76561198190614569 Name: ___Ru$$ian BaNDit___ Character: Argus Ping: 66
+PlayerID: 76561198392163437 Name: Unlocker Character: Unlocker Ping: 109
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 123123
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 31022923
+PlayerID: 123
+JudgeID: 0
+Reason: durila Duration: 4000 Remaining: 4294458717
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294487090
+
+END with Bans:
+[World] Indigo [Indigo]: "есть"
+
+[World] Samurai [Super iGeroy]: "спальник готов"
+
+[World] Indigo [Indigo]: "патроны"
+
+[World] Indigo [Indigo]: "на пукалк"
+
+[World] Indigo [Indigo]: "пукалку"
+
+TimerTerminateCommand.Enabled with Players:
+Client has executed command "players"
+Players:
+PlayerID: 76561198369248070 Name: Ali Character: Ali Ping: 148
+PlayerID: 76561198165822970 Name: Indigo Character: Indigo Ping: 39
+PlayerID: 76561198328119181 Name: Fex Character: Fex Ping: 58
+PlayerID: 76561198114070067 Name: Super iGeroy Character: Samurai Ping: 54
+PlayerID: 76561198351213164 Name: _АхМеД_ Character: Виндяй Вечеслав Ping: 101
+PlayerID: 76561198363828451 Name: Ничоси Character: Кеша Ping: 39
+PlayerID: 76561198334346242 Name: мареонетка Character: [Кровавые]хмурый Ping: 101
+PlayerID: 76561198381173735 Name: ingener_spring Character: ingener_spring Ping: 148
+PlayerID: 76561198361426439 Name: YouTube-kotik_killer Character: YouTube-kotik_killer Ping: 148
+PlayerID: 76561198193423317 Name: Bandit Character: Bandit Ping: 70
+PlayerID: 76561198190614569 Name: ___Ru$$ian BaNDit___ Character: Argus Ping: 70
+PlayerID: 76561198392163437 Name: Unlocker Character: Unlocker Ping: 105
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 123123
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 31022903
+PlayerID: 123
+JudgeID: 0
+Reason: durila Duration: 4000 Remaining: 4294458697
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294487070
+
+END with Bans:
+[World] Samurai [Super iGeroy]: "/kit hgm 1"
+
+[World] Samurai [Super iGeroy]: "/kit hgm1"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198369248070 Name: Ali Character: Ali Ping: 148
+PlayerID: 76561198165822970 Name: Indigo Character: Indigo Ping: 62
+PlayerID: 76561198328119181 Name: Fex Character: Fex Ping: 46
+PlayerID: 76561198114070067 Name: Super iGeroy Character: Samurai Ping: 46
+PlayerID: 76561198351213164 Name: _АхМеД_ Character: Виндяй Вечеслав Ping: 164
+PlayerID: 76561198363828451 Name: Ничоси Character: Кеша Ping: 39
+PlayerID: 76561198334346242 Name: мареонетка Character: [Кровавые]хмурый Ping: 101
+PlayerID: 76561198381173735 Name: ingener_spring Character: ingener_spring Ping: 167
+PlayerID: 76561198361426439 Name: YouTube-kotik_killer Character: YouTube-kotik_killer Ping: 140
+PlayerID: 76561198193423317 Name: Bandit Character: Bandit Ping: 66
+PlayerID: 76561198190614569 Name: ___Ru$$ian BaNDit___ Character: Argus Ping: 70
+PlayerID: 76561198392163437 Name: Unlocker Character: Unlocker Ping: 109
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 123123
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 31022883
+PlayerID: 123
+JudgeID: 0
+Reason: durila Duration: 4000 Remaining: 4294458677
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294487050
+
+END with Bans:
+[World] Indigo [Indigo]: "/kit hgm 2"
+
+Не обработано: MessageAnnouncer >> Broadcast: Используйте /report [ник], чтобы отправить жалобу на игрока
+MessageAnnouncer >> Broadcast: Используйте /report [ник], чтобы отправить жалобу на игрока
+
+Не обработано: MessageAnnouncer >> Используйте /report [ник], чтобы отправить жалобу на игрока
+MessageAnnouncer >> Используйте /report [ник], чтобы отправить жалобу на игрока
+
+[World] Indigo [Indigo]: "/kit hgm 1"
+
+TimerTerminateCommand.Enabled with Players:
+Client has executed command "players"
+Players:
+PlayerID: 76561198369248070 Name: Ali Character: Ali Ping: 152
+PlayerID: 76561198165822970 Name: Indigo Character: Indigo Ping: 62
+PlayerID: 76561198328119181 Name: Fex Character: Fex Ping: 54
+PlayerID: 76561198114070067 Name: Super iGeroy Character: Samurai Ping: 175
+PlayerID: 76561198351213164 Name: _АхМеД_ Character: Виндяй Вечеслав Ping: 136
+PlayerID: 76561198363828451 Name: Ничоси Character: Кеша Ping: 42
+PlayerID: 76561198334346242 Name: мареонетка Character: [Кровавые]хмурый Ping: 128
+PlayerID: 76561198381173735 Name: ingener_spring Character: ingener_spring Ping: 148
+PlayerID: 76561198361426439 Name: YouTube-kotik_killer Character: YouTube-kotik_killer Ping: 144
+PlayerID: 76561198193423317 Name: Bandit Character: Bandit Ping: 62
+PlayerID: 76561198190614569 Name: ___Ru$$ian BaNDit___ Character: Argus Ping: 82
+PlayerID: 76561198392163437 Name: Unlocker Character: Unlocker Ping: 117
+
+TimerTerminateCommand.Enabled with Players:
+[World] [Кровавые]хмурый [мареонетка]: "/report кеша"
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 123123
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 31022861
+PlayerID: 123
+JudgeID: 0
+Reason: durila Duration: 4000 Remaining: 4294458655
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294487028
+
+END with Bans:
+[World] [Кровавые]хмурый [мареонетка]: "/report кеша"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198369248070 Name: Ali Character: Ali Ping: 148
+PlayerID: 76561198165822970 Name: Indigo Character: Indigo Ping: 50
+PlayerID: 76561198328119181 Name: Fex Character: Fex Ping: 66
+PlayerID: 76561198114070067 Name: Super iGeroy Character: Samurai Ping: 50
+PlayerID: 76561198351213164 Name: _АхМеД_ Character: Виндяй Вечеслав Ping: 171
+PlayerID: 76561198363828451 Name: Ничоси Character: Кеша Ping: 35
+PlayerID: 76561198334346242 Name: мареонетка Character: [Кровавые]хмурый Ping: 117
+PlayerID: 76561198381173735 Name: ingener_spring Character: ingener_spring Ping: 160
+PlayerID: 76561198361426439 Name: YouTube-kotik_killer Character: YouTube-kotik_killer Ping: 121
+PlayerID: 76561198193423317 Name: Bandit Character: Bandit Ping: 78
+PlayerID: 76561198190614569 Name: ___Ru$$ian BaNDit___ Character: Argus Ping: 101
+PlayerID: 76561198392163437 Name: Unlocker Character: Unlocker Ping: 117
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 123123
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 31022843
+PlayerID: 123
+JudgeID: 0
+Reason: durila Duration: 4000 Remaining: 4294458637
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294487010
+
+END with Bans:
+Connecting: PlayerID: 76561198368128006 Name: Aibek Character: Aibek [A.S.D]
+
+[Area] Кеша [Ничоси]: "/report мареонетка"
+
+[World] Samurai [Super iGeroy]: "индиго идём"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198369248070 Name: Ali Character: Ali Ping: 148
+PlayerID: 76561198165822970 Name: Indigo Character: Indigo Ping: 50
+PlayerID: 76561198328119181 Name: Fex Character: Fex Ping: 62
+PlayerID: 76561198114070067 Name: Super iGeroy Character: Samurai Ping: 46
+PlayerID: 76561198351213164 Name: _АхМеД_ Character: Виндяй Вечеслав Ping: 121
+PlayerID: 76561198363828451 Name: Ничоси Character: Кеша Ping: 42
+PlayerID: 76561198334346242 Name: мареонетка Character: [Кровавые]хмурый Ping: 113
+PlayerID: 76561198381173735 Name: ingener_spring Character: ingener_spring Ping: 164
+PlayerID: 76561198361426439 Name: YouTube-kotik_killer Character: YouTube-kotik_killer Ping: 136
+PlayerID: 76561198193423317 Name: Bandit Character: Bandit Ping: 70
+PlayerID: 76561198190614569 Name: ___Ru$$ian BaNDit___ Character: Argus Ping: 82
+PlayerID: 76561198392163437 Name: Unlocker Character: Unlocker Ping: 117
+PlayerID: 76561198368128006 Name: Aibek Character: Aibek [A.S.D] Ping: 101
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 123123
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 31022823
+PlayerID: 123
+JudgeID: 0
+Reason: durila Duration: 4000 Remaining: 4294458617
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294486990
+
+END with Bans:
+[World] ingener_spring [ingener_spring]: "го я машину возьму"
+
+[World] Samurai [Super iGeroy]: "не"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198369248070 Name: Ali Character: Ali Ping: 140
+PlayerID: 76561198165822970 Name: Indigo Character: Indigo Ping: 39
+PlayerID: 76561198328119181 Name: Fex Character: Fex Ping: 58
+PlayerID: 76561198114070067 Name: Super iGeroy Character: Samurai Ping: 39
+PlayerID: 76561198351213164 Name: _АхМеД_ Character: Виндяй Вечеслав Ping: 82
+PlayerID: 76561198363828451 Name: Ничоси Character: Кеша Ping: 39
+PlayerID: 76561198334346242 Name: мареонетка Character: [Кровавые]хмурый Ping: 101
+PlayerID: 76561198381173735 Name: ingener_spring Character: ingener_spring Ping: 140
+PlayerID: 76561198361426439 Name: YouTube-kotik_killer Character: YouTube-kotik_killer Ping: 140
+PlayerID: 76561198193423317 Name: Bandit Character: Bandit Ping: 78
+PlayerID: 76561198190614569 Name: ___Ru$$ian BaNDit___ Character: Argus Ping: 82
+PlayerID: 76561198392163437 Name: Unlocker Character: Unlocker Ping: 105
+PlayerID: 76561198368128006 Name: Aibek Character: Aibek [A.S.D] Ping: 101
+
+END with Players:
+TimerTerminateCommand.Enabled with Bans:
+Client has executed command "bans"
+Bans:
+PlayerID: 123123
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 31022803
+PlayerID: 123
+JudgeID: 0
+Reason: durila Duration: 4000 Remaining: 4294458597
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294486970
+
+END with Bans:
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198369248070 Name: Ali Character: Ali Ping: 156
+PlayerID: 76561198165822970 Name: Indigo Character: Indigo Ping: 35
+PlayerID: 76561198328119181 Name: Fex Character: Fex Ping: 62
+PlayerID: 76561198114070067 Name: Super iGeroy Character: Samurai Ping: 42
+PlayerID: 76561198351213164 Name: _АхМеД_ Character: Виндяй Вечеслав Ping: 97
+PlayerID: 76561198363828451 Name: Ничоси Character: Кеша Ping: 39
+PlayerID: 76561198334346242 Name: мареонетка Character: [Кровавые]хмурый Ping: 121
+PlayerID: 76561198381173735 Name: ingener_spring Character: ingener_spring Ping: 156
+PlayerID: 76561198361426439 Name: YouTube-kotik_killer Character: YouTube-kotik_killer Ping: 136
+PlayerID: 76561198193423317 Name: Bandit Character: Bandit Ping: 70
+PlayerID: 76561198190614569 Name: ___Ru$$ian BaNDit___ Character: Argus Ping: 74
+PlayerID: 76561198392163437 Name: Unlocker Character: Unlocker Ping: 109
+PlayerID: 76561198368128006 Name: Aibek Character: Aibek [A.S.D] Ping: 101
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 123123
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 31022783
+PlayerID: 123
+JudgeID: 0
+Reason: durila Duration: 4000 Remaining: 4294458577
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294486950
+
+END with Bans:
+[World] ingener_spring [ingener_spring]: "/tpa Samurai"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198369248070 Name: Ali Character: Ali Ping: 152
+PlayerID: 76561198165822970 Name: Indigo Character: Indigo Ping: 39
+PlayerID: 76561198328119181 Name: Fex Character: Fex Ping: 42
+PlayerID: 76561198114070067 Name: Super iGeroy Character: Samurai Ping: 42
+PlayerID: 76561198351213164 Name: _АхМеД_ Character: Виндяй Вечеслав Ping: 82
+PlayerID: 76561198363828451 Name: Ничоси Character: Кеша Ping: 35
+PlayerID: 76561198334346242 Name: мареонетка Character: [Кровавые]хмурый Ping: 121
+PlayerID: 76561198381173735 Name: ingener_spring Character: ingener_spring Ping: 148
+PlayerID: 76561198361426439 Name: YouTube-kotik_killer Character: YouTube-kotik_killer Ping: 132
+PlayerID: 76561198193423317 Name: Bandit Character: Bandit Ping: 70
+PlayerID: 76561198190614569 Name: ___Ru$$ian BaNDit___ Character: Argus Ping: 62
+PlayerID: 76561198392163437 Name: Unlocker Character: Unlocker Ping: 121
+PlayerID: 76561198368128006 Name: Aibek Character: Aibek [A.S.D] Ping: 93
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 123123
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 31022763
+PlayerID: 123
+JudgeID: 0
+Reason: durila Duration: 4000 Remaining: 4294458557
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294486930
+
+TimerTerminateCommand.Enabled with Bans:
+[World] Bandit [Bandit]: "kit"
+
+END with Bans:
+Не обработано: MessageAnnouncer >> Broadcast: Наберите /rules (/r) для просмотра правил
+MessageAnnouncer >> Broadcast: Наберите /rules (/r) для просмотра правил
+
+Не обработано: MessageAnnouncer >> Наберите /rules (/r) для просмотра правил
+MessageAnnouncer >> Наберите /rules (/r) для просмотра правил
+
+[World] ingener_spring [ingener_spring]: "прими"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198369248070 Name: Ali Character: Ali Ping: 148
+PlayerID: 76561198165822970 Name: Indigo Character: Indigo Ping: 50
+PlayerID: 76561198328119181 Name: Fex Character: Fex Ping: 46
+PlayerID: 76561198114070067 Name: Super iGeroy Character: Samurai Ping: 39
+PlayerID: 76561198351213164 Name: _АхМеД_ Character: Виндяй Вечеслав Ping: 78
+PlayerID: 76561198363828451 Name: Ничоси Character: Кеша Ping: 39
+PlayerID: 76561198334346242 Name: мареонетка Character: [Кровавые]хмурый Ping: 78
+PlayerID: 76561198381173735 Name: ingener_spring Character: ingener_spring Ping: 156
+PlayerID: 76561198361426439 Name: YouTube-kotik_killer Character: YouTube-kotik_killer Ping: 128
+PlayerID: 76561198193423317 Name: Bandit Character: Bandit Ping: 66
+PlayerID: 76561198190614569 Name: ___Ru$$ian BaNDit___ Character: Argus Ping: 70
+PlayerID: 76561198392163437 Name: Unlocker Character: Unlocker Ping: 105
+PlayerID: 76561198368128006 Name: Aibek Character: Aibek [A.S.D] Ping: 97
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 123123
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 31022743
+PlayerID: 123
+JudgeID: 0
+Reason: durila Duration: 4000 Remaining: 4294458537
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294486910
+
+TimerTerminateCommand.Enabled with Bans:
+[World] Unlocker [Unlocker]: "/p"
+
+TimerTerminateCommand.Enabled with Bans:
+[Area] Кеша [Ничоси]: "/рщьу"
+
+END with Bans:
+[Area] Кеша [Ничоси]: "/home"
+
+[World] ingener_spring [ingener_spring]: "/home"
+
+Не обработано: ingener_spring moved x:927.0328 y:81.21822(+42.54088) z:512.3831 in the last second (0.2379227)
+ingener_spring moved x:927.0328 y:81.21822(+42.54088) z:512.3831 in the last second (0.2379227)
+
+[World] Samurai [Super iGeroy]: "/tpa a"
+
+Не обработано: Кеша moved x:48.66975 y:60.5026(+36.16257) z:-47.25995 in the last second (0.1000023)
+Кеша moved x:48.66975 y:60.5026(+36.16257) z:-47.25995 in the last second (0.1000023)
+
+[World] Unlocker [Unlocker]: "/kits"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198369248070 Name: Ali Character: Ali Ping: 152
+PlayerID: 76561198165822970 Name: Indigo Character: Indigo Ping: 39
+PlayerID: 76561198328119181 Name: Fex Character: Fex Ping: 46
+PlayerID: 76561198114070067 Name: Super iGeroy Character: Samurai Ping: 42
+PlayerID: 76561198351213164 Name: _АхМеД_ Character: Виндяй Вечеслав Ping: 117
+PlayerID: 76561198363828451 Name: Ничоси Character: Кеша Ping: 31
+PlayerID: 76561198334346242 Name: мареонетка Character: [Кровавые]хмурый Ping: 140
+PlayerID: 76561198381173735 Name: ingener_spring Character: ingener_spring Ping: 148
+PlayerID: 76561198361426439 Name: YouTube-kotik_killer Character: YouTube-kotik_killer Ping: 125
+PlayerID: 76561198193423317 Name: Bandit Character: Bandit Ping: 78
+PlayerID: 76561198190614569 Name: ___Ru$$ian BaNDit___ Character: Argus Ping: 82
+PlayerID: 76561198392163437 Name: Unlocker Character: Unlocker Ping: 117
+PlayerID: 76561198368128006 Name: Aibek Character: Aibek [A.S.D] Ping: 97
+
+TimerTerminateCommand.Enabled with Players:
+[World] Unlocker [Unlocker]: "/kit hgm"
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 123123
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 31022721
+PlayerID: 123
+JudgeID: 0
+Reason: durila Duration: 4000 Remaining: 4294458515
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294486888
+
+END with Bans:
+[World] Unlocker [Unlocker]: "/kit hgm1"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198369248070 Name: Ali Character: Ali Ping: 171
+PlayerID: 76561198165822970 Name: Indigo Character: Indigo Ping: 42
+PlayerID: 76561198328119181 Name: Fex Character: Fex Ping: 42
+PlayerID: 76561198114070067 Name: Super iGeroy Character: Samurai Ping: 46
+PlayerID: 76561198351213164 Name: _АхМеД_ Character: Виндяй Вечеслав Ping: 132
+PlayerID: 76561198363828451 Name: Ничоси Character: Кеша Ping: 39
+PlayerID: 76561198334346242 Name: мареонетка Character: [Кровавые]хмурый Ping: 113
+PlayerID: 76561198381173735 Name: ingener_spring Character: ingener_spring Ping: 160
+PlayerID: 76561198361426439 Name: YouTube-kotik_killer Character: YouTube-kotik_killer Ping: 136
+PlayerID: 76561198193423317 Name: Bandit Character: Bandit Ping: 70
+PlayerID: 76561198190614569 Name: ___Ru$$ian BaNDit___ Character: Argus Ping: 70
+PlayerID: 76561198392163437 Name: Unlocker Character: Unlocker Ping: 109
+PlayerID: 76561198368128006 Name: Aibek Character: Aibek [A.S.D] Ping: 101
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 123123
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 31022703
+PlayerID: 123
+JudgeID: 0
+Reason: durila Duration: 4000 Remaining: 4294458497
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294486870
+
+END with Bans:
+[World] Samurai [Super iGeroy]: "нужны патроны на автомат?"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198369248070 Name: Ali Character: Ali Ping: 140
+PlayerID: 76561198165822970 Name: Indigo Character: Indigo Ping: 35
+PlayerID: 76561198328119181 Name: Fex Character: Fex Ping: 70
+PlayerID: 76561198114070067 Name: Super iGeroy Character: Samurai Ping: 46
+PlayerID: 76561198351213164 Name: _АхМеД_ Character: Виндяй Вечеслав Ping: 85
+PlayerID: 76561198363828451 Name: Ничоси Character: Кеша Ping: 39
+PlayerID: 76561198334346242 Name: мареонетка Character: [Кровавые]хмурый Ping: 117
+PlayerID: 76561198381173735 Name: ingener_spring Character: ingener_spring Ping: 152
+PlayerID: 76561198361426439 Name: YouTube-kotik_killer Character: YouTube-kotik_killer Ping: 125
+PlayerID: 76561198193423317 Name: Bandit Character: Bandit Ping: 70
+PlayerID: 76561198190614569 Name: ___Ru$$ian BaNDit___ Character: Argus Ping: 82
+PlayerID: 76561198392163437 Name: Unlocker Character: Unlocker Ping: 113
+PlayerID: 76561198368128006 Name: Aibek Character: Aibek [A.S.D] Ping: 101
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 123123
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 31022683
+PlayerID: 123
+JudgeID: 0
+Reason: durila Duration: 4000 Remaining: 4294458477
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294486850
+
+END with Bans:
+[World] Samurai [Super iGeroy]: "индиго"
+
+[World] Виндяй Вечеслав [_АхМеД_]: "/home"
+
+[World] Indigo [Indigo]: "да"
+
+[World] Samurai [Super iGeroy]: "давай магазин"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198369248070 Name: Ali Character: Ali Ping: 152
+PlayerID: 76561198165822970 Name: Indigo Character: Indigo Ping: 46
+PlayerID: 76561198328119181 Name: Fex Character: Fex Ping: 58
+PlayerID: 76561198114070067 Name: Super iGeroy Character: Samurai Ping: 39
+PlayerID: 76561198351213164 Name: _АхМеД_ Character: Виндяй Вечеслав Ping: 136
+PlayerID: 76561198363828451 Name: Ничоси Character: Кеша Ping: 35
+PlayerID: 76561198334346242 Name: мареонетка Character: [Кровавые]хмурый Ping: 101
+PlayerID: 76561198381173735 Name: ingener_spring Character: ingener_spring Ping: 156
+PlayerID: 76561198361426439 Name: YouTube-kotik_killer Character: YouTube-kotik_killer Ping: 140
+PlayerID: 76561198193423317 Name: Bandit Character: Bandit Ping: 70
+PlayerID: 76561198190614569 Name: ___Ru$$ian BaNDit___ Character: Argus Ping: 74
+PlayerID: 76561198392163437 Name: Unlocker Character: Unlocker Ping: 113
+PlayerID: 76561198368128006 Name: Aibek Character: Aibek [A.S.D] Ping: 97
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 123123
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 31022663
+PlayerID: 123
+JudgeID: 0
+Reason: durila Duration: 4000 Remaining: 4294458457
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294486830
+
+TimerTerminateCommand.Enabled with Bans:
+[World] Fex [Fex]: "/KIT START"
+
+END with Bans:

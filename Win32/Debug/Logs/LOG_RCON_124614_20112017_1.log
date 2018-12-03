@@ -1,0 +1,525 @@
+20.11.2017 12:46:15: RocketRcon v2.4.8.0
+
+20.11.2017 12:46:15: login aVIPs22031994
+20.11.2017 12:46:15: players
+20.11.2017 12:46:16: Client has executed command "players"
+Players:
+PlayerID: 76561198245870076 Name: 0|TheGangstar|0 Character: Nyan Bread Ping: 116
+
+20.11.2017 12:46:17: Client has executed command "bans"
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 28265190
+PlayerID: 76561198336969313
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 380423
+PlayerID: 76561198212486347
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 380754
+PlayerID: 76561198391097237
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 543241
+
+20.11.2017 12:46:17: END
+20.11.2017 12:46:19: MessageAnnouncer >> Broadcast: Наберите /kit start, чтобы получить стартовый набор (еда, вода, топор)
+MessageAnnouncer >> Наберите /kit start, чтобы получить стартовый набор (еда, вода, топор)
+
+20.11.2017 12:46:21: END
+20.11.2017 12:46:25: Client has executed command "players"
+
+20.11.2017 12:46:25: Players:
+
+20.11.2017 12:46:27: PlayerID: 76561198245870076 Name: 0|TheGangstar|0 Character: Nyan Bread Ping: 119
+
+20.11.2017 12:46:27: Client has executed command "bans"
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 28265181
+PlayerID: 76561198336969313
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 380414
+PlayerID: 76561198212486347
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 380745
+PlayerID: 76561198391097237
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 543232
+
+20.11.2017 12:46:27: END
+20.11.2017 12:46:28: END
+20.11.2017 12:46:45: Client has executed command "players"
+
+20.11.2017 12:46:45: Players:
+PlayerID: 76561198245870076 Name: 0|TheGangstar|0 Character: Nyan Bread Ping: 117
+
+20.11.2017 12:46:47: Client has executed command "bans"
+
+20.11.2017 12:46:47: Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 28265161
+PlayerID: 76561198336969313
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 380394
+PlayerID: 76561198212486347
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 380725
+PlayerID: 76561198391097237
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 543212
+
+20.11.2017 12:46:47: END
+20.11.2017 12:46:48: END
+20.11.2017 12:47:05: Client has executed command "players"
+
+20.11.2017 12:47:05: Players:
+PlayerID: 76561198245870076 Name: 0|TheGangstar|0 Character: Nyan Bread Ping: 121
+
+20.11.2017 12:47:07: Client has executed command "bans"
+
+20.11.2017 12:47:07: Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 28265141
+PlayerID: 76561198336969313
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 380374
+PlayerID: 76561198212486347
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 380705
+PlayerID: 76561198391097237
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 543192
+
+20.11.2017 12:47:07: END
+20.11.2017 12:47:08: END
+20.11.2017 12:47:18: MessageAnnouncer >> Broadcast: Внимание! PvP-режим по субботам! PvP-режим!!!
+
+20.11.2017 12:47:18: MessageAnnouncer >> Внимание! PvP-режим по субботам! PvP-режим!!!
+
+20.11.2017 12:47:25: Client has executed command "players"
+
+20.11.2017 12:47:25: Players:
+PlayerID: 76561198245870076 Name: 0|TheGangstar|0 Character: Nyan Bread Ping: 119
+
+20.11.2017 12:47:27: Client has executed command "bans"
+
+20.11.2017 12:47:27: Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 28265121
+PlayerID: 76561198336969313
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 380354
+PlayerID: 76561198212486347
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 380685
+PlayerID: 76561198391097237
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 543172
+
+20.11.2017 12:47:27: END
+20.11.2017 12:47:28: END
+20.11.2017 12:47:45: Client has executed command "players"
+
+20.11.2017 12:47:45: Players:
+PlayerID: 76561198245870076 Name: 0|TheGangstar|0 Character: Nyan Bread Ping: 124
+
+20.11.2017 12:47:47: Client has executed command "bans"
+
+20.11.2017 12:47:47: Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 28265101
+PlayerID: 76561198336969313
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 380334
+PlayerID: 76561198212486347
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 380665
+PlayerID: 76561198391097237
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 543152
+
+20.11.2017 12:47:47: END
+20.11.2017 12:47:48: END
+20.11.2017 12:48:05: Client has executed command "players"
+
+20.11.2017 12:48:05: Players:
+PlayerID: 76561198245870076 Name: 0|TheGangstar|0 Character: Nyan Bread Ping: 121
+
+20.11.2017 12:48:07: Client has executed command "bans"
+
+20.11.2017 12:48:07: Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 28265081
+PlayerID: 76561198336969313
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 380314
+PlayerID: 76561198212486347
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 380645
+PlayerID: 76561198391097237
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 543132
+
+20.11.2017 12:48:07: END
+20.11.2017 12:48:08: END
+20.11.2017 12:48:18: MessageAnnouncer >> Broadcast: vk.com/unturned_hgm - группа сервера ВК, уникальный кит в записи!
+
+20.11.2017 12:48:18: MessageAnnouncer >> vk.com/unturned_hgm - группа сервера ВК, уникальный кит в записи!
+
+20.11.2017 12:48:25: Client has executed command "players"
+
+20.11.2017 12:48:25: Players:
+PlayerID: 76561198245870076 Name: 0|TheGangstar|0 Character: Nyan Bread Ping: 125
+
+20.11.2017 12:48:27: Client has executed command "bans"
+
+20.11.2017 12:48:27: Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 28265061
+PlayerID: 76561198336969313
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 380294
+PlayerID: 76561198212486347
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 380625
+PlayerID: 76561198391097237
+JudgeID: 0
+
+20.11.2017 12:48:27: END
+20.11.2017 12:48:27: Reason: reid Duration: 604800 Remaining: 543112
+
+20.11.2017 12:48:28: [World] Nyan Bread [0|TheGangstar|0]: "/kit help"
+
+20.11.2017 12:48:29: END
+20.11.2017 12:48:45: Client has executed command "players"
+
+20.11.2017 12:48:45: Players:
+
+20.11.2017 12:48:47: PlayerID: 76561198245870076 Name: 0|TheGangstar|0 Character: Nyan Bread Ping: 119
+
+20.11.2017 12:48:47: Client has executed command "bans"
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 28265041
+PlayerID: 76561198336969313
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 380274
+PlayerID: 76561198212486347
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 380605
+PlayerID: 76561198391097237
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 543092
+
+20.11.2017 12:48:47: END
+20.11.2017 12:48:48: END
+20.11.2017 12:49:05: Client has executed command "players"
+
+20.11.2017 12:49:05: Players:
+PlayerID: 76561198245870076 Name: 0|TheGangstar|0 Character: Nyan Bread Ping: 130
+
+20.11.2017 12:49:07: Client has executed command "bans"
+
+20.11.2017 12:49:07: Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 28265021
+PlayerID: 76561198336969313
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 380254
+PlayerID: 76561198212486347
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 380585
+PlayerID: 76561198391097237
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 543072
+
+20.11.2017 12:49:07: END
+20.11.2017 12:49:08: END
+20.11.2017 12:49:18: MessageAnnouncer >> Broadcast: Посетите наш сайт. Вы будете удивлены! unturned.hemulgm.ru
+
+20.11.2017 12:49:18: MessageAnnouncer >> Посетите наш сайт. Вы будете удивлены! unturned.hemulgm.ru
+
+20.11.2017 12:49:25: Client has executed command "players"
+
+20.11.2017 12:49:25: Players:
+PlayerID: 76561198245870076 Name: 0|TheGangstar|0 Character: Nyan Bread Ping: 120
+
+20.11.2017 12:49:27: Client has executed command "bans"
+
+20.11.2017 12:49:27: Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 28265001
+PlayerID: 76561198336969313
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 380234
+PlayerID: 76561198212486347
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 380565
+PlayerID: 76561198391097237
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 543052
+
+20.11.2017 12:49:27: END
+20.11.2017 12:49:28: END
+20.11.2017 12:49:45: Client has executed command "players"
+
+20.11.2017 12:49:45: Players:
+PlayerID: 76561198245870076 Name: 0|TheGangstar|0 Character: Nyan Bread Ping: 117
+
+20.11.2017 12:49:47: Client has executed command "bans"
+
+20.11.2017 12:49:47: Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 28264981
+PlayerID: 76561198336969313
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 380214
+PlayerID: 76561198212486347
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 380545
+PlayerID: 76561198391097237
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 543032
+
+20.11.2017 12:49:47: END
+20.11.2017 12:49:48: END
+20.11.2017 12:50:05: Client has executed command "players"
+
+20.11.2017 12:50:05: Players:
+
+20.11.2017 12:50:07: PlayerID: 76561198245870076 Name: 0|TheGangstar|0 Character: Nyan Bread Ping: 116
+
+20.11.2017 12:50:07: Client has executed command "bans"
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 28264961
+PlayerID: 76561198336969313
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 380194
+PlayerID: 76561198212486347
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 380525
+PlayerID: 76561198391097237
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 543012
+
+20.11.2017 12:50:07: END
+20.11.2017 12:50:08: END
+20.11.2017 12:50:15: Client has executed command "cchat "/33/09/17/04/17/15/16 /24/05/17/05/08 2 /24. 10 /13. " 255 255 0"
+
+20.11.2017 12:50:15: ServerControl >> Broadcast: Аирдроп через 2 ч. 10 м.
+
+20.11.2017 12:50:15: Не обработано: ServerControl >> Broadcast: Аирдроп через 2 ч. 10 м.
+20.11.2017 12:50:18: MessageAnnouncer >> Broadcast: Наберите /kit help, чтобы получить первую мед. помощь (бинты, таблетки, еда)
+
+20.11.2017 12:50:18: MessageAnnouncer >> Наберите /kit help, чтобы получить первую мед. помощь (бинты, таблетки, еда)
+
+20.11.2017 12:50:25: Client has executed command "players"
+
+20.11.2017 12:50:25: Players:
+PlayerID: 76561198245870076 Name: 0|TheGangstar|0 Character: Nyan Bread Ping: 118
+
+20.11.2017 12:50:27: Client has executed command "bans"
+
+20.11.2017 12:50:27: Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 28264941
+PlayerID: 76561198336969313
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 380174
+PlayerID: 76561198212486347
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 380505
+PlayerID: 76561198391097237
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 542992
+
+20.11.2017 12:50:27: END
+20.11.2017 12:50:28: END
+20.11.2017 12:50:45: Client has executed command "players"
+
+20.11.2017 12:50:45: Players:
+PlayerID: 76561198245870076 Name: 0|TheGangstar|0 Character: Nyan Bread Ping: 126
+
+20.11.2017 12:50:47: Client has executed command "bans"
+
+20.11.2017 12:50:47: Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 28264921
+PlayerID: 76561198336969313
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 380154
+PlayerID: 76561198212486347
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 380485
+PlayerID: 76561198391097237
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 542972
+
+20.11.2017 12:50:47: END
+20.11.2017 12:50:48: END
+20.11.2017 12:51:05: Client has executed command "players"
+
+20.11.2017 12:51:05: Players:
+PlayerID: 76561198245870076 Name: 0|TheGangstar|0 Character: Nyan Bread Ping: 116
+
+20.11.2017 12:51:07: Client has executed command "bans"
+
+20.11.2017 12:51:07: Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 28264901
+PlayerID: 76561198336969313
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 380134
+PlayerID: 76561198212486347
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 380465
+PlayerID: 76561198391097237
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 542952
+
+20.11.2017 12:51:07: END
+20.11.2017 12:51:08: END
+20.11.2017 12:51:18: MessageAnnouncer >> Broadcast: vk.com/unturned_hgm - цены на премиум, VIP и другие услуги смотрите в группе!
+
+20.11.2017 12:51:18: MessageAnnouncer >> vk.com/unturned_hgm - цены на премиум, VIP и другие услуги смотрите в группе!
+
+20.11.2017 12:51:25: Client has executed command "players"
+
+20.11.2017 12:51:25: Players:
+PlayerID: 76561198245870076 Name: 0|TheGangstar|0 Character: Nyan Bread Ping: 118
+
+20.11.2017 12:51:27: Client has executed command "bans"
+
+20.11.2017 12:51:27: Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 28264881
+PlayerID: 76561198336969313
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 380114
+PlayerID: 76561198212486347
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 380445
+PlayerID: 76561198391097237
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 542932
+
+20.11.2017 12:51:27: END
+20.11.2017 12:51:28: END
+20.11.2017 12:51:45: Client has executed command "players"
+
+20.11.2017 12:51:45: Players:
+PlayerID: 76561198245870076 Name: 0|TheGangstar|0 Character: Nyan Bread Ping: 125
+
+20.11.2017 12:51:47: Client has executed command "bans"
+
+20.11.2017 12:51:47: Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 28264861
+PlayerID: 76561198336969313
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 380094
+PlayerID: 76561198212486347
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 380425
+PlayerID: 76561198391097237
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 542912
+
+20.11.2017 12:51:47: END
+20.11.2017 12:51:48: END
+20.11.2017 12:51:52: [World] Nyan Bread [0|TheGangstar|0]: "/cost bar"
+
+20.11.2017 12:52:00: [World] Nyan Bread [0|TheGangstar|0]: "/buy chocolate"
+
+20.11.2017 12:52:05: Client has executed command "players"
+
+20.11.2017 12:52:05: Players:
+PlayerID: 76561198245870076 Name: 0|TheGangstar|0 Character: Nyan Bread Ping: 128
+
+20.11.2017 12:52:07: Client has executed command "bans"
+
+20.11.2017 12:52:07: Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 28264841
+PlayerID: 76561198336969313
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 380074
+PlayerID: 76561198212486347
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 380405
+PlayerID: 76561198391097237
+JudgeID: 0
+
+20.11.2017 12:52:07: END
+20.11.2017 12:52:08: END
+20.11.2017 12:52:18: Reason: reid Duration: 604800 Remaining: 542892
+
+20.11.2017 12:52:18: Не обработано: Reason: reid Duration: 604800 Remaining: 542892
+20.11.2017 12:52:18: MessageAnnouncer >> Broadcast: Наберите /kit claim, чтобы получить Claim Flag
+
+20.11.2017 12:52:25: MessageAnnouncer >> Наберите /kit claim, чтобы получить Claim Flag
+
+20.11.2017 12:52:25: Client has executed command "players"
+Players:
+PlayerID: 76561198245870076 Name: 0|TheGangstar|0 Character: Nyan Bread Ping: 126
+
+20.11.2017 12:52:27: Client has executed command "bans"
+
+20.11.2017 12:52:27: Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 28264821
+PlayerID: 76561198336969313
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 380054
+PlayerID: 76561198212486347
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 380385
+PlayerID: 76561198391097237
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 542872
+
+20.11.2017 12:52:27: END
+20.11.2017 12:52:28: END
+20.11.2017 12:52:45: Client has executed command "players"
+
+20.11.2017 12:52:45: Players:
+
+20.11.2017 12:52:47: PlayerID: 76561198245870076 Name: 0|TheGangstar|0 Character: Nyan Bread Ping: 123
+
+20.11.2017 12:52:47: Client has executed command "bans"
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 28264801
+PlayerID: 76561198336969313
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 380034
+PlayerID: 76561198212486347
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 380365
+PlayerID: 76561198391097237
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 542852
+
+20.11.2017 12:52:47: END
+20.11.2017 12:52:50: END

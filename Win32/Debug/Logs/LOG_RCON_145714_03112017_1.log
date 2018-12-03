@@ -1,0 +1,40 @@
+03.11.2017 14:57:36: Не обработано: Денис Котов moved x:534.4288 y:57.26458(+18.51757) z:289.6038 in the last second (0.1062546)
+03.11.2017 14:57:42: Не обработано: krokodil gena moved x:530.2076 y:56.56948(+17.89213) z:285.1654 in the last second (0.1058578)
+03.11.2017 14:57:48: Не обработано: Ewok moved x:-793.607 y:77.3173(+17.03497) z:237.9187 in the last second (0.6000137)
+03.11.2017 14:59:39: Не обработано: ServerControl >> Broadcast: Тащер, ты че с модема сидишь?!
+03.11.2017 14:59:47: Не обработано: Боря_тёмный moved x:-739.0277 y:108.9504(+75.50293) z:355.9146 in the last second (0.2379227)
+03.11.2017 15:00:02: Не обработано: ServerControl >> Broadcast: Нет
+03.11.2017 15:00:07: Не обработано: ServerControl >> Broadcast: Беспроводной модем
+03.11.2017 15:00:14: Не обработано: ServerControl >> Broadcast: Аирдроп через 1 ч.
+03.11.2017 15:00:31: Не обработано: ServerControl >> Broadcast: Нет. Беспроводной модем  не wifi
+03.11.2017 15:00:39: Не обработано: Комнатный Даун [Комнатный Даун] bled to death!
+03.11.2017 15:00:40: Не обработано: Денис Котов moved x:406.1996 y:54.8844(+16.20704) z:-339.7231 in the last second (1)
+03.11.2017 15:00:43: Не обработано: krokodil gena moved x:402.6118 y:54.47446(+15.79708) z:-343.687 in the last second (0.08053589)
+03.11.2017 15:01:26: Не обработано: An error occured while executing cchat [/34/05/18/16/17/15/02/15/04/14/15/10 /13/15/04/05/13 - /30/19/15, /21/12/05/25/11/00, /18, /18/09/13-/11/00/17/19/15/10]: System.FormatException: Input string was not in the correct format
+03.11.2017 15:01:26: Не обработано:   at System.Int32.Parse (System.String s) [0x00000] in <filename unknown>:0 
+03.11.2017 15:01:26: Не обработано:   at System.Convert.ToInt32 (System.String value) [0x00000] in <filename unknown>:0 
+03.11.2017 15:01:26: Не обработано:   at HGM.ServerControl.CommandChatConsole.Execute (IRocketPlayer caller, System.String[] command) [0x00000] in <filename unknown>:0 
+03.11.2017 15:01:26: Не обработано:   at Rocket.Core.Commands.RocketCommandManager+RegisteredRocketCommand.Execute (IRocketPlayer caller, System.String[] command) [0x00000] in <filename unknown>:0 
+03.11.2017 15:01:26: Не обработано:   at Rocket.Core.Commands.RocketCommandManager.Execute (IRocketPlayer player, System.String command) [0x00000] in <filename unknown>:0 
+03.11.2017 15:01:33: Не обработано: ServerControl >> Broadcast: Как правило
+03.11.2017 15:02:33: Не обработано: ТАЩЕР ЯЩЕР  :)s p_perm: sell, p, rules, r, donat, vk, home(60), tpa.*, kit, kit.start, kit.help, kit.claim, kit.hgm1, kits, report, balance, buy, cost, exchange, pm, reply, pay, checkowner
+03.11.2017 15:02:35: Не обработано: zolotovlos p_perm: sell, p, rules, r, donat, vk, home(60), tpa.*, kit, kit.start, kit.help, kit.claim, kit.hgm1, kits, report, balance, buy, cost, exchange, pm, reply, pay, checkowner
+03.11.2017 15:02:36: Не обработано: Комнатный Даунs p_perm: sell, p, rules, r, donat, vk, home(60), tpa.*, kit, kit.start, kit.help, kit.claim, kit.hgm1, kits, report, balance, buy, cost, exchange, pm, reply, pay, checkowner
+03.11.2017 15:02:38: Не обработано: Ewoks p_perm: sell, p, rules, r, donat, vk, home(60), tpa.*, kit, kit.start, kit.help, kit.claim, kit.hgm1, kits, report, balance, buy, cost, exchange, pm, reply, pay, checkowner
+03.11.2017 15:02:39: Не обработано: AndroidFromTheFutures p_perm: sell, p, rules, r, donat, vk, home(60), tpa.*, kit, kit.start, kit.help, kit.claim, kit.hgm1, kits, report, balance, buy, cost, exchange, pm, reply, pay, checkowner
+03.11.2017 15:02:40: Не обработано: I'M Phenomenals p_perm: w, kill, kick, ban, wreck, wreck.*, w.*, tp(20), heal(60), tphere, god, i(30), v(100), day(3000), night(3000), give(30), vehicle(60), vanish, mute(120), unmute, sell, p, rules, r, donat, vk, home(60), tpa.*, kit, kit.start, kit.help, kit.claim, kit.hgm1, kits, report, balance, buy, cost, exchange, pm, reply, pay, checkowner
+03.11.2017 15:02:43: Не обработано: NEGRs p_perm: sell, p, rules, r, donat, vk, home(60), tpa.*, kit, kit.start, kit.help, kit.claim, kit.hgm1, kits, report, balance, buy, cost, exchange, pm, reply, pay, checkowner
+03.11.2017 15:02:44: Не обработано: Боря_тёмныйs p_perm: sell, p, rules, r, donat, vk, home(60), tpa.*, kit, kit.start, kit.help, kit.claim, kit.hgm1, kits, report, balance, buy, cost, exchange, pm, reply, pay, checkowner
+03.11.2017 15:02:45: Не обработано: Neekolas p_perm: sell, p, rules, r, donat, vk, home(60), tpa.*, kit, kit.start, kit.help, kit.claim, kit.hgm1, kits, report, balance, buy, cost, exchange, pm, reply, pay, checkowner
+03.11.2017 15:02:47: Не обработано: smerts p_perm: sell, p, rules, r, donat, vk, home(60), tpa.*, kit, kit.start, kit.help, kit.claim, kit.hgm1, kits, report, balance, buy, cost, exchange, pm, reply, pay, checkowner
+03.11.2017 15:02:48: Не обработано: Данил_Шевченкоs p_perm: sell, p, rules, r, donat, vk, home(60), tpa.*, kit, kit.start, kit.help, kit.claim, kit.hgm1, kits, report, balance, buy, cost, exchange, pm, reply, pay, checkowner
+03.11.2017 15:02:50: Не обработано: Александр Микитюкs p_perm: sell, p, rules, r, donat, vk, home(60), tpa.*, kit, kit.start, kit.help, kit.claim, kit.hgm1, kits, report, balance, buy, cost, exchange, pm, reply, pay, checkowner
+03.11.2017 15:02:51: Не обработано: krokodil genas p_perm: sell, p, rules, r, donat, vk, home(60), tpa.*, kit, kit.start, kit.help, kit.claim, kit.hgm1, kits, report, balance, buy, cost, exchange, pm, reply, pay, checkowner
+03.11.2017 15:02:53: Не обработано: Лесникs p_perm: sell, p, rules, r, donat, vk, home(60), tpa.*, kit, kit.start, kit.help, kit.claim, kit.hgm1, kits, report, balance, buy, cost, exchange, pm, reply, pay, checkowner
+03.11.2017 15:02:54: Не обработано: Денис Котовs p_perm: sell, p, rules, r, donat, vk, home(60), tpa.*, kit, kit.start, kit.help, kit.claim, kit.hgm1, kits, report, balance, buy, cost, exchange, pm, reply, pay, checkowner
+03.11.2017 15:04:03: Не обработано: I'M Phenomenal телепортирован к Neekola
+03.11.2017 15:06:07: Не обработано: Данил_Шевченко moved x:484.2376 y:69.81055(+21.2912) z:729.7867 in the last second (0.09999847)
+03.11.2017 15:07:17: EventProcEcho
+03.11.2017 15:07:17: Не обработано: ServerControl >> Broadcast: Аирдроп через 1 ч. 50 м.
+03.11.2017 15:08:06: Не обработано: smert [sahapetrovka30] is calling a vote to kick Ewok [Ewok_Blu]
+03.11.2017 15:08:16: Не обработано: Vote failed!

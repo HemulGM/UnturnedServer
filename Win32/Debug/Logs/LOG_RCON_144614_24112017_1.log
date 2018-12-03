@@ -1,0 +1,181 @@
+RocketRcon v2.4.8.0
+
+login aVIPs22031994
+players
+Client has executed command "players"
+Players:
+PlayerID: 76561198444494613 Name: vladkrigin Character: дима васильев Ping: 156
+PlayerID: 76561198423084997 Name: lovemariina Character: Rendy Ping: 136
+PlayerID: 76561198290750582 Name: FlipLOOT.Farm Character: Shinobi Ping: 46
+PlayerID: 76561198152645913 Name: jon Character: jon Ping: 144
+
+Client has executed command "bans"
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27912426
+PlayerID: 76561198336969313
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 27659
+PlayerID: 76561198212486347
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 27990
+PlayerID: 76561198391097237
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 190477
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30792704
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30792720
+
+END
+Client has executed command "GET NOW"
+ServerControl >> VALUE NOW [1] [0] [87]
+
+END
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198444494613 Name: vladkrigin Character: дима васильев Ping: 156
+PlayerID: 76561198423084997 Name: lovemariina Character: Rendy Ping: 128
+PlayerID: 76561198290750582 Name: FlipLOOT.Farm Character: Shinobi Ping: 66
+PlayerID: 76561198152645913 Name: jon Character: jon Ping: 50
+
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27912419
+PlayerID: 76561198336969313
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 27652
+PlayerID: 76561198212486347
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 27983
+PlayerID: 76561198391097237
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 190470
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30792697
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30792713
+
+END
+END
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [97]
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [97]
+
+[World] Shinobi [FlipLOOT.Farm]: "&&"
+
+[World] Shinobi [FlipLOOT.Farm]: "??"
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [107]
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [107]
+
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198444494613 Name: vladkrigin Character: дима васильев Ping: 152
+PlayerID: 76561198423084997 Name: lovemariina Character: Rendy Ping: 125
+PlayerID: 76561198290750582 Name: FlipLOOT.Farm Character: Shinobi Ping: 62
+PlayerID: 76561198152645913 Name: jon Character: jon Ping: 46
+
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27912399
+PlayerID: 76561198336969313
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 27632
+PlayerID: 76561198212486347
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 27963
+PlayerID: 76561198391097237
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 190450
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30792677
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30792693
+
+END
+END
+MessageAnnouncer >> Broadcast: Добро пожаловать на HGM. Тут рады вам больше, чем на любом другом сервере!
+
+MessageAnnouncer >> Добро пожаловать на HGM. Тут рады вам больше, чем на любом другом сервере!
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [117]
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [117]
+
+[World] дима васильев [vladkrigin]: "/tpa ren"
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [127]
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [127]
+
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198444494613 Name: vladkrigin Character: дима васильев Ping: 156
+PlayerID: 76561198423084997 Name: lovemariina Character: Rendy Ping: 117
+PlayerID: 76561198290750582 Name: FlipLOOT.Farm Character: Shinobi Ping: 58
+PlayerID: 76561198152645913 Name: jon Character: jon Ping: 50
+
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27912379
+PlayerID: 76561198336969313
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 27612
+PlayerID: 76561198212486347
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 27943
+PlayerID: 76561198391097237
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 190430
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30792657
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30792673
+
+END
+[World] Rendy [lovemariina]: "/tpa accept"
+
+END

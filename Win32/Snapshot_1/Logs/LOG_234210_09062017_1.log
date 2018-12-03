@@ -1,0 +1,77 @@
+Не обработано: RocketRcon v2.4.8.0
+RocketRcon v2.4.8.0
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198278360341 Name: AcademeG Character: AcademeG Ping: 78
+PlayerID: 76561198391815543 Name: dinorendulic03 Character: dinorendulic03 Ping: 216
+PlayerID: 76561198326929390 Name: kuki Character: soliclukas Ping: 109
+PlayerID: 76561198254435217 Name: MKN Character: MKN Ping: 112
+PlayerID: 76561198360396058 Name: SoSi PeSoS Character: НеИзВеСтНыЙ Ping: 43
+PlayerID: 76561198152466685 Name: Blaster006 Character: Blaster006 Ping: 65
+PlayerID: 76561198349678079 Name: kuba_janiec Character: kuba_janiec Ping: 141
+PlayerID: 76561198354953801 Name: торвей Character: торвей Ping: 144
+PlayerID: 76561198165822970 Name: Indigo Character: Indigo Ping: 61
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294115277
+
+END with Bans:
+[World] AcademeG [AcademeG]: "/home"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198278360341 Name: AcademeG Character: AcademeG Ping: 75
+PlayerID: 76561198391815543 Name: dinorendulic03 Character: dinorendulic03 Ping: 158
+PlayerID: 76561198326929390 Name: kuki Character: soliclukas Ping: 102
+PlayerID: 76561198254435217 Name: MKN Character: MKN Ping: 108
+PlayerID: 76561198360396058 Name: SoSi PeSoS Character: НеИзВеСтНыЙ Ping: 48
+PlayerID: 76561198152466685 Name: Blaster006 Character: Blaster006 Ping: 55
+PlayerID: 76561198349678079 Name: kuba_janiec Character: kuba_janiec Ping: 141
+PlayerID: 76561198354953801 Name: торвей Character: торвей Ping: 178
+PlayerID: 76561198165822970 Name: Indigo Character: Indigo Ping: 67
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294115257
+
+END with Bans:
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198278360341 Name: AcademeG Character: AcademeG Ping: 89
+PlayerID: 76561198391815543 Name: dinorendulic03 Character: dinorendulic03 Ping: 135
+PlayerID: 76561198326929390 Name: kuki Character: soliclukas Ping: 109
+PlayerID: 76561198254435217 Name: MKN Character: MKN Ping: 113
+PlayerID: 76561198360396058 Name: SoSi PeSoS Character: НеИзВеСтНыЙ Ping: 46
+PlayerID: 76561198152466685 Name: Blaster006 Character: Blaster006 Ping: 66
+PlayerID: 76561198349678079 Name: kuba_janiec Character: kuba_janiec Ping: 154
+PlayerID: 76561198354953801 Name: торвей Character: торвей Ping: 172
+PlayerID: 76561198165822970 Name: Indigo Character: Indigo Ping: 63
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294115237
+
+END with Bans:

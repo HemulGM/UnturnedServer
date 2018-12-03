@@ -1,0 +1,62 @@
+17.11.2017 14:27:53: RocketRcon v2.4.8.0
+
+17.11.2017 14:27:54: Client has executed command "players"
+Players:
+PlayerID: 76561198433157396 Name: malukzaka.xer Character: LitleGay Ping: 91
+PlayerID: 76561198397967376 Name: НеИзВеСтНыЙ Character: Вадим Стефейкин Ping: 40
+PlayerID: 76561198263148425 Name: __EHoT Character: zohan Ping: 37
+PlayerID: 76561198408019916 Name: slava.fan555 Character: Славик Cухоруков Ping: 69
+
+17.11.2017 14:27:55: Client has executed command "bans"
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 28518302
+PlayerID: 76561198395511982
+JudgeID: 0
+Reason: 999999 Duration: 31536000 Remaining: 30073054
+PlayerID: 76561198331180787
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30421272
+PlayerID: 76561198172502147
+JudgeID: 76561198237123262
+Reason: 3600 Duration: 31536000 Remaining: 30424666
+PlayerID: 76561198331252339
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30436999
+PlayerID: 76561198434258763
+JudgeID: 0
+Reason: reid Duration: 608400 Remaining: 203546
+
+17.11.2017 14:27:55: END
+17.11.2017 14:27:55: Client has executed command "bans"
+
+17.11.2017 14:27:58: Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 28518302
+PlayerID: 76561198395511982
+JudgeID: 0
+Reason: 999999 Duration: 31536000 Remaining: 30073054
+PlayerID: 76561198331180787
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30421272
+PlayerID: 76561198172502147
+JudgeID: 76561198237123262
+Reason: 3600 Duration: 31536000 Remaining: 30424666
+PlayerID: 76561198331252339
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30436999
+PlayerID: 76561198434258763
+JudgeID: 0
+Reason: reid Duration: 608400 Remaining: 203546
+Client has executed command "players"
+
+17.11.2017 14:27:58: END
+17.11.2017 14:27:58: Players:
+PlayerID: 76561198433157396 Name: malukzaka.xer Character: LitleGay Ping: 80
+PlayerID: 76561198397967376 Name: НеИзВеСтНыЙ Character: Вадим Стефейкин Ping: 33
+PlayerID: 76561198263148425 Name: __EHoT Character: zohan Ping: 38
+PlayerID: 76561198408019916 Name: slava.fan555 Character: Славик Cухоруков Ping: 322
+
+17.11.2017 14:27:58: END

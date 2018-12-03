@@ -1,0 +1,60 @@
+﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+    <PropertyGroup>
+        <ProjectGuid>{58697103-52C7-4DC4-80B3-04EBFB37A316}</ProjectGuid>
+    </PropertyGroup>
+    <ItemGroup>
+        <Projects Include="D:\Мультимедиа\Проекты\UnturnedServer\UServer.dproj">
+            <Dependencies/>
+        </Projects>
+        <Projects Include="D:\Мультимедиа\Проекты\Unturned Explorer\UExplorer.dproj">
+            <Dependencies/>
+        </Projects>
+        <Projects Include="D:\Мультимедиа\Проекты\UnturnedServer\UServerManager.dproj">
+            <Dependencies/>
+        </Projects>
+    </ItemGroup>
+    <ProjectExtensions>
+        <Borland.Personality>Default.Personality.12</Borland.Personality>
+        <Borland.ProjectType/>
+        <BorlandProject>
+            <Default.Personality/>
+        </BorlandProject>
+    </ProjectExtensions>
+    <Target Name="UServer">
+        <MSBuild Projects="D:\Мультимедиа\Проекты\UnturnedServer\UServer.dproj"/>
+    </Target>
+    <Target Name="UServer:Clean">
+        <MSBuild Projects="D:\Мультимедиа\Проекты\UnturnedServer\UServer.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="UServer:Make">
+        <MSBuild Projects="D:\Мультимедиа\Проекты\UnturnedServer\UServer.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="UExplorer">
+        <MSBuild Projects="D:\Мультимедиа\Проекты\Unturned Explorer\UExplorer.dproj"/>
+    </Target>
+    <Target Name="UExplorer:Clean">
+        <MSBuild Projects="D:\Мультимедиа\Проекты\Unturned Explorer\UExplorer.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="UExplorer:Make">
+        <MSBuild Projects="D:\Мультимедиа\Проекты\Unturned Explorer\UExplorer.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="UServerManager">
+        <MSBuild Projects="D:\Мультимедиа\Проекты\UnturnedServer\UServerManager.dproj"/>
+    </Target>
+    <Target Name="UServerManager:Clean">
+        <MSBuild Projects="D:\Мультимедиа\Проекты\UnturnedServer\UServerManager.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="UServerManager:Make">
+        <MSBuild Projects="D:\Мультимедиа\Проекты\UnturnedServer\UServerManager.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="Build">
+        <CallTarget Targets="UServer;UExplorer;UServerManager"/>
+    </Target>
+    <Target Name="Clean">
+        <CallTarget Targets="UServer:Clean;UExplorer:Clean;UServerManager:Clean"/>
+    </Target>
+    <Target Name="Make">
+        <CallTarget Targets="UServer:Make;UExplorer:Make;UServerManager:Make"/>
+    </Target>
+    <Import Project="$(BDS)\Bin\CodeGear.Group.Targets" Condition="Exists('$(BDS)\Bin\CodeGear.Group.Targets')"/>
+</Project>

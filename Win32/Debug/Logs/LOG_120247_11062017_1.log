@@ -1,0 +1,65 @@
+Не обработано: RocketRcon v2.4.8.0
+RocketRcon v2.4.8.0
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 37
+PlayerID: 76561198152563082 Name: Drakon Character: Stanat Ping: 139
+PlayerID: 76561198262878051 Name: Kolder Character: Kolder Ping: 60
+PlayerID: 76561198292543416 Name: Mr_GiladKing Character: GiladKing Ping: 64
+PlayerID: 76561198235802198 Name: Bodya Character: Bodya Ping: 132
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 167
+PlayerID: 76561198368930526 Name: LLlaxuD Character: LLlaxuD Ping: 147
+PlayerID: 76561198123840535 Name: ?????? Character: top Ping: 135
+PlayerID: 76561198009738148 Name: valera_zazhuev Character: серёжа Ping: 41
+PlayerID: 76561198314703200 Name: Farmskins.com Character: PavLico Ping: 117
+PlayerID: 76561198323972058 Name: PulDar Character: зомби Ping: 69
+PlayerID: 76561198289556960 Name: доширак Character: artiom$KI Ping: 302
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4293984439
+
+END with Bans:
+[World] серёжа [valera_zazhuev]: "идём"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 39
+PlayerID: 76561198152563082 Name: Drakon Character: Stanat Ping: 138
+PlayerID: 76561198262878051 Name: Kolder Character: Kolder Ping: 55
+PlayerID: 76561198292543416 Name: Mr_GiladKing Character: GiladKing Ping: 58
+PlayerID: 76561198235802198 Name: Bodya Character: Bodya Ping: 135
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 171
+PlayerID: 76561198368930526 Name: LLlaxuD Character: LLlaxuD Ping: 148
+PlayerID: 76561198123840535 Name: ?????? Character: top Ping: 87
+PlayerID: 76561198009738148 Name: valera_zazhuev Character: серёжа Ping: 42
+PlayerID: 76561198314703200 Name: Farmskins.com Character: PavLico Ping: 117
+PlayerID: 76561198323972058 Name: PulDar Character: зомби Ping: 72
+PlayerID: 76561198289556960 Name: доширак Character: artiom$KI Ping: 267
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4293984419
+
+END with Bans:
+Не обработано: MessageAnnouncer >> Broadcast: Внимание! PvP-режим по субботам! PvP-режим!!!
+MessageAnnouncer >> Broadcast: Внимание! PvP-режим по субботам! PvP-режим!!!
+
+Не обработано: MessageAnnouncer >> Внимание! PvP-режим по субботам! PvP-режим!!!
+MessageAnnouncer >> Внимание! PvP-режим по субботам! PvP-режим!!!
+

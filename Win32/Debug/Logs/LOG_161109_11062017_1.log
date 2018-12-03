@@ -1,0 +1,173 @@
+Не обработано: RocketRcon v2.4.8.0
+RocketRcon v2.4.8.0
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198177412437 Name: korak Character: korak Ping: 172
+PlayerID: 76561198363739022 Name: fsuprun Character: fsuprun Ping: 86
+PlayerID: 76561198262878051 Name: Kolder Character: Kolder Ping: 61
+PlayerID: 76561198147477828 Name: galbatsovmikail Character: galbatsovmikail Ping: 70
+PlayerID: 76561198389158573 Name: zolotov.ilya2018 Character: Zadura Ping: 443
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 38
+PlayerID: 76561198381173735 Name: ingener_spring Character: ingener_spring Ping: 61
+PlayerID: 76561198165822970 Name: Indigo Character: Indigo Ping: 50
+PlayerID: 76561198152466685 Name: Blaster006 Character: Blaster006 Ping: 63
+PlayerID: 76561198177243258 Name: garfield2016 Character: rubi Ping: 91
+PlayerID: 76561198388803679 Name: nikanorova2 Character: nikanorova2 Ping: 84
+PlayerID: 76561198174080767 Name: Jagdkommando Character: Jagdkommando Ping: 67
+
+TimerTerminateCommand.Enabled with Players:
+[Area] Blaster006 [Blaster006]: "/tpa indi"
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4293969536
+
+TimerTerminateCommand.Enabled with Bans:
+[World] Indigo [Indigo]: "/tp a"
+
+TimerTerminateCommand.Enabled with Bans:
+Disconnecting: PlayerID: 76561198177412437 Name: korak Character: korak
+
+TimerTerminateCommand.Enabled with Bans:
+[World] Indigo [Indigo]: "/tpa a"
+
+END with Bans:
+Не обработано: MessageAnnouncer >> Broadcast: vk.com/unturned_hgm - цены на премиум, VIP и другие услуги смотрите в группе!
+MessageAnnouncer >> Broadcast: vk.com/unturned_hgm - цены на премиум, VIP и другие услуги смотрите в группе!
+
+Не обработано: MessageAnnouncer >> vk.com/unturned_hgm - цены на премиум, VIP и другие услуги смотрите в группе!
+MessageAnnouncer >> vk.com/unturned_hgm - цены на премиум, VIP и другие услуги смотрите в группе!
+[World] nikanorova2 [nikanorova2]: "он шмот с моего генератора забрал"
+
+[World] nikanorova2 [nikanorova2]: "и мой шмот тоже"
+
+[World] Indigo [Indigo]: "ии? в правилах нету"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198363739022 Name: fsuprun Character: fsuprun Ping: 102
+PlayerID: 76561198262878051 Name: Kolder Character: Kolder Ping: 61
+PlayerID: 76561198147477828 Name: galbatsovmikail Character: galbatsovmikail Ping: 68
+PlayerID: 76561198389158573 Name: zolotov.ilya2018 Character: Zadura Ping: 117
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 42
+PlayerID: 76561198381173735 Name: ingener_spring Character: ingener_spring Ping: 113
+PlayerID: 76561198165822970 Name: Indigo Character: Indigo Ping: 70
+PlayerID: 76561198152466685 Name: Blaster006 Character: Blaster006 Ping: 68
+PlayerID: 76561198177243258 Name: garfield2016 Character: rubi Ping: 91
+PlayerID: 76561198388803679 Name: nikanorova2 Character: nikanorova2 Ping: 79
+PlayerID: 76561198174080767 Name: Jagdkommando Character: Jagdkommando Ping: 80
+
+TimerTerminateCommand.Enabled with Players:
+[World] Indigo [Indigo]: "такого"
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4293969517
+
+TimerTerminateCommand.Enabled with Bans:
+[World] Indigo [Indigo]: "что если тебя убили"
+
+END with Bans:
+[World] Indigo [Indigo]: "ой"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198363739022 Name: fsuprun Character: fsuprun Ping: 95
+PlayerID: 76561198262878051 Name: Kolder Character: Kolder Ping: 55
+PlayerID: 76561198147477828 Name: galbatsovmikail Character: galbatsovmikail Ping: 47
+PlayerID: 76561198389158573 Name: zolotov.ilya2018 Character: Zadura Ping: 136
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 45
+PlayerID: 76561198381173735 Name: ingener_spring Character: ingener_spring Ping: 83
+PlayerID: 76561198165822970 Name: Indigo Character: Indigo Ping: 51
+PlayerID: 76561198152466685 Name: Blaster006 Character: Blaster006 Ping: 57
+PlayerID: 76561198177243258 Name: garfield2016 Character: rubi Ping: 83
+PlayerID: 76561198388803679 Name: nikanorova2 Character: nikanorova2 Ping: 97
+PlayerID: 76561198174080767 Name: Jagdkommando Character: Jagdkommando Ping: 78
+
+TimerTerminateCommand.Enabled with Players:
+[World] nikanorova2 [nikanorova2]: "ну меня убили зомби"
+
+TimerTerminateCommand.Enabled with Players:
+[World] Indigo [Indigo]: "что нужно отдовать шмот"
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4293969495
+
+END with Bans:
+[World] Indigo [Indigo]: "ии?"
+
+[World] Indigo [Indigo]: "а он забрал"
+
+[World] Kolder [Kolder]: "botantyy i dam alespak"
+
+[World] Indigo [Indigo]: "вещи"
+
+[World] nikanorova2 [nikanorova2]: "но шмот с генератора мой"
+
+[World] ingener_spring [ingener_spring]: "пока алекс"
+
+[World] ingener_spring [ingener_spring]: "/home"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198363739022 Name: fsuprun Character: fsuprun Ping: 87
+PlayerID: 76561198262878051 Name: Kolder Character: Kolder Ping: 60
+PlayerID: 76561198147477828 Name: galbatsovmikail Character: galbatsovmikail Ping: 83
+PlayerID: 76561198389158573 Name: zolotov.ilya2018 Character: Zadura Ping: 480
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 44
+PlayerID: 76561198381173735 Name: ingener_spring Character: ingener_spring Ping: 61
+PlayerID: 76561198165822970 Name: Indigo Character: Indigo Ping: 44
+PlayerID: 76561198152466685 Name: Blaster006 Character: Blaster006 Ping: 61
+PlayerID: 76561198177243258 Name: garfield2016 Character: rubi Ping: 92
+PlayerID: 76561198388803679 Name: nikanorova2 Character: nikanorova2 Ping: 81
+PlayerID: 76561198174080767 Name: Jagdkommando Character: Jagdkommando Ping: 112
+
+TimerTerminateCommand.Enabled with Players:
+[Area] 7_AleX_3 [7_AleX_3]: "пока"
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4293969476
+
+END with Bans:
+[World] Indigo [Indigo]: "в правилах нету такого чтоон должен отдавать тебе вещи"
+
+[World] Indigo [Indigo]: "/vehicle 109"
+Successfully gave Indigo 109!
+
+[World] galbatsovmikail [galbatsovmikail]: "ingeneer возьми"
+
+[Area] 7_AleX_3 [7_AleX_3]: "/tpa in"
+
+[World] nikanorova2 [nikanorova2]: "я всё тошто нужно"
+

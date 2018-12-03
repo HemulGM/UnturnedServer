@@ -1,0 +1,60 @@
+RocketRcon v2.4.8.0
+
+login aVIPs22031994
+players
+Client has executed command "players"
+Failed to find any players.
+Client has executed command "GET NOW"
+ServerControl >> VALUE NOW [1] [0] [1547]
+
+Client has executed command "cchat "/33/09/17/04/17/15/16 /24/05/17/05/08 1 /24. 10 /13. " 255 255 0"
+
+ServerControl >> Broadcast: Аирдроп через 1 ч. 10 м.
+
+Не обработано: ServerControl >> Broadcast: Аирдроп через 1 ч. 10 м.
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [1557]
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [1558]
+
+Client has executed command "players"
+Failed to find any players.
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [1567]
+
+GET NOW
+Client has executed command "GET NOW"
+ServerControl >> VALUE NOW [1] [0] [1569]
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [1577]
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [1579]
+
+MessageAnnouncer >> Broadcast: Наберите /kit claim, чтобы получить Claim Flag
+
+MessageAnnouncer >> Наберите /kit claim, чтобы получить Claim Flag
+
+Client has executed command "players"
+
+Failed to find any players.
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [1587]
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [1589]
+

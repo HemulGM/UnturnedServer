@@ -1,0 +1,80 @@
+RocketRcon v2.4.8.0
+
+login aVIPs22031994
+players
+Client has executed command "players"
+Players:
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 202
+PlayerID: 76561198385149949 Name: GoDNooB Character: GoDNooB Ping: 117
+PlayerID: 76561198315561906 Name: MaXiMuS Character: valuxa1984 Ping: 53
+PlayerID: 76561198430964141 Name: tolikoleshki Character: tolik Ping: 112
+PlayerID: 76561198265247601 Name: BisonbonasusPlay Character: Dmitriy Ping: 83
+PlayerID: 76561198384139999 Name: agat84 Character: Mr.Shadou Ping: 96
+PlayerID: 76561198186345581 Name: kvbruyaka Character: kvbruyaka Ping: 221
+[World] Expert1337 [Expert13372284200]: "не"
+
+Client has executed command "bans"
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 28076669
+PlayerID: 76561198336969313
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 191902
+PlayerID: 76561198212486347
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 192233
+PlayerID: 76561198391097237
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 354720
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30956947
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30956963
+
+END
+END
+[World] GoDNooB [GoDNooB]: "это один аир был"
+
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 218
+PlayerID: 76561198385149949 Name: GoDNooB Character: GoDNooB Ping: 139
+PlayerID: 76561198315561906 Name: MaXiMuS Character: valuxa1984 Ping: 50
+PlayerID: 76561198430964141 Name: tolikoleshki Character: tolik Ping: 93
+PlayerID: 76561198265247601 Name: BisonbonasusPlay Character: Dmitriy Ping: 90
+PlayerID: 76561198384139999 Name: agat84 Character: Mr.Shadou Ping: 91
+PlayerID: 76561198186345581 Name: kvbruyaka Character: kvbruyaka Ping: 41
+
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 28076663
+PlayerID: 76561198336969313
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 191896
+PlayerID: 76561198212486347
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 192227
+PlayerID: 76561198391097237
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 354714
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30956941
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30956957
+
+END
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [2295]
+
+[World] tolik [tolikoleshki]: "отдать"
+

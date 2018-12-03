@@ -1,0 +1,800 @@
+Не обработано: RocketRcon v2.4.8.0
+RocketRcon v2.4.8.0
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198292543416 Name: Mr_GiladKing Character: GiladKing Ping: 60
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 58
+PlayerID: 76561198030393730 Name: heavy198 Character: heavy198 Ping: 139
+PlayerID: 76561198289556960 Name: доширак Character: artiom$KI Ping: 172
+PlayerID: 76561198009738148 Name: valera_zazhuev Character: серёжа Ping: 43
+PlayerID: 76561198095089210 Name: //UndeR?ake? Character: //Mr.GoodM?n.RU. Ping: 52
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4293987268
+
+TimerTerminateCommand.Enabled with Bans:
+Connecting: PlayerID: 76561198252999221 Name: Trever Character: Trever
+
+END with Bans:
+[Group] серёжа [valera_zazhuev]: "нетрогай"
+
+Connecting: PlayerID: 76561198381270023 Name: QWERTY STAIN Character: *IGODCREW*
+
+[Group] серёжа [valera_zazhuev]: "это немой дом"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198292543416 Name: Mr_GiladKing Character: GiladKing Ping: 63
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 43
+PlayerID: 76561198030393730 Name: heavy198 Character: heavy198 Ping: 143
+PlayerID: 76561198289556960 Name: доширак Character: artiom$KI Ping: 214
+PlayerID: 76561198009738148 Name: valera_zazhuev Character: серёжа Ping: 45
+PlayerID: 76561198095089210 Name: //UndeR?ake? Character: //Mr.GoodM?n.RU. Ping: 68
+PlayerID: 76561198252999221 Name: Trever Character: Trever Ping: 131
+PlayerID: 76561198381270023 Name: QWERTY STAIN Character: *IGODCREW* Ping: 438
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4293987248
+
+TimerTerminateCommand.Enabled with Bans:
+[World] Trever [Trever]: "/kits"
+
+END with Bans:
+[Group] серёжа [valera_zazhuev]: "положи таморез"
+
+[World] *IGODCREW* [QWERTY STAIN]: "art"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198292543416 Name: Mr_GiladKing Character: GiladKing Ping: 62
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 50
+PlayerID: 76561198030393730 Name: heavy198 Character: heavy198 Ping: 139
+PlayerID: 76561198289556960 Name: доширак Character: artiom$KI Ping: 207
+PlayerID: 76561198009738148 Name: valera_zazhuev Character: серёжа Ping: 41
+PlayerID: 76561198095089210 Name: //UndeR?ake? Character: //Mr.GoodM?n.RU. Ping: 62
+PlayerID: 76561198252999221 Name: Trever Character: Trever Ping: 166
+PlayerID: 76561198381270023 Name: QWERTY STAIN Character: *IGODCREW* Ping: 439
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4293987228
+
+TimerTerminateCommand.Enabled with Bans:
+[Group] серёжа [valera_zazhuev]: "положи томорез"
+[World] Trever [Trever]: "/kit claim"
+[World] 7_AleX_3 [7_AleX_3]: "/tpa ar"
+[World] artiom$KI [доширак]: "/tpa a"
+[World] *IGODCREW* [QWERTY STAIN]: "artion"
+
+TimerTerminateCommand.Enabled with Bans:
+Client has executed command "players"
+
+END with Bans:
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198292543416 Name: Mr_GiladKing Character: GiladKing Ping: 59
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 47
+PlayerID: 76561198030393730 Name: heavy198 Character: heavy198 Ping: 141
+PlayerID: 76561198289556960 Name: доширак Character: artiom$KI Ping: 164
+PlayerID: 76561198009738148 Name: valera_zazhuev Character: серёжа Ping: 43
+PlayerID: 76561198095089210 Name: //UndeR?ake? Character: //Mr.GoodM?n.RU. Ping: 57
+PlayerID: 76561198252999221 Name: Trever Character: Trever Ping: 124
+PlayerID: 76561198381270023 Name: QWERTY STAIN Character: *IGODCREW* Ping: 448
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4293987195
+
+END with Bans:
+[Group] серёжа [valera_zazhuev]: "дай мой томорез"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198292543416 Name: Mr_GiladKing Character: GiladKing Ping: 59
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 44
+PlayerID: 76561198030393730 Name: heavy198 Character: heavy198 Ping: 142
+PlayerID: 76561198289556960 Name: доширак Character: artiom$KI Ping: 170
+PlayerID: 76561198009738148 Name: valera_zazhuev Character: серёжа Ping: 44
+PlayerID: 76561198095089210 Name: //UndeR?ake? Character: //Mr.GoodM?n.RU. Ping: 57
+PlayerID: 76561198252999221 Name: Trever Character: Trever Ping: 95
+PlayerID: 76561198381270023 Name: QWERTY STAIN Character: *IGODCREW* Ping: 432
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4293987175
+
+END with Bans:
+Не обработано: MessageAnnouncer >> Broadcast: Наберите /kit start, чтобы получить стартовый набор (еда, вода, топор)
+MessageAnnouncer >> Broadcast: Наберите /kit start, чтобы получить стартовый набор (еда, вода, топор)
+
+Не обработано: MessageAnnouncer >> Наберите /kit start, чтобы получить стартовый набор (еда, вода, топор)
+MessageAnnouncer >> Наберите /kit start, чтобы получить стартовый набор (еда, вода, топор)
+
+[Group] серёжа [valera_zazhuev]: "гани"
+
+Disconnecting: PlayerID: 76561198252999221 Name: Trever Character: Trever
+
+[Group] серёжа [valera_zazhuev]: "нет"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198292543416 Name: Mr_GiladKing Character: GiladKing Ping: 83
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 49
+PlayerID: 76561198030393730 Name: heavy198 Character: heavy198 Ping: 136
+PlayerID: 76561198289556960 Name: доширак Character: artiom$KI Ping: 189
+PlayerID: 76561198009738148 Name: valera_zazhuev Character: серёжа Ping: 44
+PlayerID: 76561198095089210 Name: //UndeR?ake? Character: //Mr.GoodM?n.RU. Ping: 65
+PlayerID: 76561198381270023 Name: QWERTY STAIN Character: *IGODCREW* Ping: 436
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4293987155
+
+TimerTerminateCommand.Enabled with Bans:
+Disconnecting: PlayerID: 76561198381270023 Name: QWERTY STAIN Character: *IGODCREW*
+
+END with Bans:
+[Group] серёжа [valera_zazhuev]: "нет"
+
+[World] GiladKing [Mr_GiladKing]: "/tpa 7_"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198292543416 Name: Mr_GiladKing Character: GiladKing Ping: 68
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 48
+PlayerID: 76561198030393730 Name: heavy198 Character: heavy198 Ping: 138
+PlayerID: 76561198289556960 Name: доширак Character: artiom$KI Ping: 199
+PlayerID: 76561198009738148 Name: valera_zazhuev Character: серёжа Ping: 45
+PlayerID: 76561198095089210 Name: //UndeR?ake? Character: //Mr.GoodM?n.RU. Ping: 53
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4293987135
+
+END with Bans:
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198292543416 Name: Mr_GiladKing Character: GiladKing Ping: 65
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 40
+PlayerID: 76561198030393730 Name: heavy198 Character: heavy198 Ping: 141
+PlayerID: 76561198289556960 Name: доширак Character: artiom$KI Ping: 185
+PlayerID: 76561198009738148 Name: valera_zazhuev Character: серёжа Ping: 41
+PlayerID: 76561198095089210 Name: //UndeR?ake? Character: //Mr.GoodM?n.RU. Ping: 61
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4293987115
+
+END with Bans:
+[World] 7_AleX_3 [7_AleX_3]: "/tpa accept"
+
+[Group] серёжа [valera_zazhuev]: "хуй"
+
+Disconnecting: PlayerID: 76561198292543416 Name: Mr_GiladKing Character: GiladKing
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 42
+PlayerID: 76561198030393730 Name: heavy198 Character: heavy198 Ping: 138
+PlayerID: 76561198289556960 Name: доширак Character: artiom$KI Ping: 176
+PlayerID: 76561198009738148 Name: valera_zazhuev Character: серёжа Ping: 41
+PlayerID: 76561198095089210 Name: //UndeR?ake? Character: //Mr.GoodM?n.RU. Ping: 52
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4293987095
+
+END with Bans:
+Connecting: PlayerID: 76561198152563082 Name: Drakon Character: Stanat
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 64
+PlayerID: 76561198030393730 Name: heavy198 Character: heavy198 Ping: 139
+PlayerID: 76561198289556960 Name: доширак Character: artiom$KI Ping: 232
+PlayerID: 76561198009738148 Name: valera_zazhuev Character: серёжа Ping: 43
+PlayerID: 76561198095089210 Name: //UndeR?ake? Character: //Mr.GoodM?n.RU. Ping: 63
+PlayerID: 76561198152563082 Name: Drakon Character: Stanat Ping: 0
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4293987075
+
+END with Bans:
+[Group] серёжа [valera_zazhuev]: "это не мой дом"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 52
+PlayerID: 76561198030393730 Name: heavy198 Character: heavy198 Ping: 137
+PlayerID: 76561198289556960 Name: доширак Character: artiom$KI Ping: 307
+PlayerID: 76561198009738148 Name: valera_zazhuev Character: серёжа Ping: 41
+PlayerID: 76561198095089210 Name: //UndeR?ake? Character: //Mr.GoodM?n.RU. Ping: 58
+PlayerID: 76561198152563082 Name: Drakon Character: Stanat Ping: 128
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4293987055
+
+END with Bans:
+[Group] серёжа [valera_zazhuev]: "сука"
+
+Не обработано: MessageAnnouncer >> Broadcast: Внимание! PvP-режим по субботам! PvP-режим!!!
+MessageAnnouncer >> Broadcast: Внимание! PvP-режим по субботам! PvP-режим!!!
+
+Не обработано: MessageAnnouncer >> Внимание! PvP-режим по субботам! PvP-режим!!!
+MessageAnnouncer >> Внимание! PvP-режим по субботам! PvP-режим!!!
+
+[Group] серёжа [valera_zazhuev]: "это немой вертик"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 47
+PlayerID: 76561198030393730 Name: heavy198 Character: heavy198 Ping: 142
+PlayerID: 76561198289556960 Name: доширак Character: artiom$KI Ping: 178
+PlayerID: 76561198009738148 Name: valera_zazhuev Character: серёжа Ping: 43
+PlayerID: 76561198095089210 Name: //UndeR?ake? Character: //Mr.GoodM?n.RU. Ping: 60
+PlayerID: 76561198152563082 Name: Drakon Character: Stanat Ping: 126
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4293987035
+
+END with Bans:
+[Group] серёжа [valera_zazhuev]: "рейд бан"
+
+[World] 7_AleX_3 [7_AleX_3]: "стой тут"
+
+[World] 7_AleX_3 [7_AleX_3]: "не ломай"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 43
+PlayerID: 76561198030393730 Name: heavy198 Character: heavy198 Ping: 143
+PlayerID: 76561198289556960 Name: доширак Character: artiom$KI Ping: 220
+PlayerID: 76561198009738148 Name: valera_zazhuev Character: серёжа Ping: 41
+PlayerID: 76561198095089210 Name: //UndeR?ake? Character: //Mr.GoodM?n.RU. Ping: 58
+PlayerID: 76561198152563082 Name: Drakon Character: Stanat Ping: 129
+
+TimerTerminateCommand.Enabled with Players:
+Connecting: PlayerID: 76561198364340964 Name: agunggautama149 Character: Kartly
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4293987015
+
+TimerTerminateCommand.Enabled with Bans:
+[World] 7_AleX_3 [7_AleX_3]: "/home"
+
+Не обработано: 7_AleX_3 moved x:-664.8975 y:82.011(+43.53368) z:357.0413 in the last second (0.05000305)
+TimerTerminateCommand.Enabled with Bans:
+7_AleX_3 moved x:-664.8975 y:82.011(+43.53368) z:357.0413 in the last second (0.05000305)
+
+END with Bans:
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 49
+PlayerID: 76561198030393730 Name: heavy198 Character: heavy198 Ping: 139
+PlayerID: 76561198289556960 Name: доширак Character: artiom$KI Ping: 200
+PlayerID: 76561198009738148 Name: valera_zazhuev Character: серёжа Ping: 43
+PlayerID: 76561198095089210 Name: //UndeR?ake? Character: //Mr.GoodM?n.RU. Ping: 69
+PlayerID: 76561198152563082 Name: Drakon Character: Stanat Ping: 129
+PlayerID: 76561198364340964 Name: agunggautama149 Character: Kartly Ping: 284
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4293986995
+
+END with Bans:
+[World] Stanat [Drakon]: "/god"
+
+Не обработано: Stanat включен Godmode
+Stanat включен Godmode
+
+[World] Kartly [agunggautama149]: "/p"
+
+[Group] серёжа [valera_zazhuev]: "это верт админа"
+
+[World] 7_AleX_3 [7_AleX_3]: "/tpa ar"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 55
+PlayerID: 76561198030393730 Name: heavy198 Character: heavy198 Ping: 140
+PlayerID: 76561198289556960 Name: доширак Character: artiom$KI Ping: 168
+PlayerID: 76561198009738148 Name: valera_zazhuev Character: серёжа Ping: 43
+PlayerID: 76561198095089210 Name: //UndeR?ake? Character: //Mr.GoodM?n.RU. Ping: 58
+PlayerID: 76561198152563082 Name: Drakon Character: Stanat Ping: 138
+PlayerID: 76561198364340964 Name: agunggautama149 Character: Kartly Ping: 295
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4293986975
+
+TimerTerminateCommand.Enabled with Bans:
+[World] Kartly [agunggautama149]: "/kit.start"
+
+TimerTerminateCommand.Enabled with Bans:
+[Group] серёжа [valera_zazhuev]: "нетрогай"
+
+END with Bans:
+Connecting: PlayerID: 76561198262878051 Name: Kolder Character: Kolder
+
+[World] Kartly [agunggautama149]: "/kit noob"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 44
+PlayerID: 76561198030393730 Name: heavy198 Character: heavy198 Ping: 137
+PlayerID: 76561198289556960 Name: доширак Character: artiom$KI Ping: 197
+PlayerID: 76561198009738148 Name: valera_zazhuev Character: серёжа Ping: 41
+PlayerID: 76561198095089210 Name: //UndeR?ake? Character: //Mr.GoodM?n.RU. Ping: 50
+PlayerID: 76561198152563082 Name: Drakon Character: Stanat Ping: 135
+PlayerID: 76561198364340964 Name: agunggautama149 Character: Kartly Ping: 284
+PlayerID: 76561198262878051 Name: Kolder Character: Kolder Ping: 60
+
+TimerTerminateCommand.Enabled with Players:
+[World] artiom$KI [доширак]: "/tpa a"
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4293986955
+
+END with Bans:
+[World] Kartly [agunggautama149]: "@kit noob"
+
+[Group] серёжа [valera_zazhuev]: "прив"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 36
+PlayerID: 76561198030393730 Name: heavy198 Character: heavy198 Ping: 136
+PlayerID: 76561198289556960 Name: доширак Character: artiom$KI Ping: 192
+PlayerID: 76561198009738148 Name: valera_zazhuev Character: серёжа Ping: 43
+PlayerID: 76561198095089210 Name: //UndeR?ake? Character: //Mr.GoodM?n.RU. Ping: 44
+PlayerID: 76561198152563082 Name: Drakon Character: Stanat Ping: 139
+PlayerID: 76561198364340964 Name: agunggautama149 Character: Kartly Ping: 296
+PlayerID: 76561198262878051 Name: Kolder Character: Kolder Ping: 59
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4293986935
+
+END with Bans:
+Не обработано: MessageAnnouncer >> Broadcast: vk.com/unturned_hgm - группа сервера ВК, уникальный кит в записи!
+MessageAnnouncer >> Broadcast: vk.com/unturned_hgm - группа сервера ВК, уникальный кит в записи!
+
+Не обработано: MessageAnnouncer >> vk.com/unturned_hgm - группа сервера ВК, уникальный кит в записи!
+MessageAnnouncer >> vk.com/unturned_hgm - группа сервера ВК, уникальный кит в записи!
+
+[World] Stanat [Drakon]: "откуда миниган"
+
+[World] artiom$KI [доширак]: "дай я поведу"
+
+[World] 7_AleX_3 [7_AleX_3]: "нет"
+
+[World] 7_AleX_3 [7_AleX_3]: "я коплю"
+
+[World] Stanat [Drakon]: "понятно"
+
+[World] Kolder [Kolder]: "/tpa stanat"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 38
+PlayerID: 76561198030393730 Name: heavy198 Character: heavy198 Ping: 138
+PlayerID: 76561198289556960 Name: доширак Character: artiom$KI Ping: 196
+PlayerID: 76561198009738148 Name: valera_zazhuev Character: серёжа Ping: 41
+PlayerID: 76561198095089210 Name: //UndeR?ake? Character: //Mr.GoodM?n.RU. Ping: 55
+PlayerID: 76561198152563082 Name: Drakon Character: Stanat Ping: 137
+PlayerID: 76561198364340964 Name: agunggautama149 Character: Kartly Ping: 302
+PlayerID: 76561198262878051 Name: Kolder Character: Kolder Ping: 53
+
+TimerTerminateCommand.Enabled with Players:
+[World] 7_AleX_3 [7_AleX_3]: "модео"
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4293986915
+
+TimerTerminateCommand.Enabled with Bans:
+[World] artiom$KI [доширак]: "я летать уиею"
+
+TimerTerminateCommand.Enabled with Bans:
+[World] 7_AleX_3 [7_AleX_3]: "модер"
+
+END with Bans:
+[World] 7_AleX_3 [7_AleX_3]: "инвент давай"
+
+[World] artiom$KI [доширак]: "пр"
+
+[World] 7_AleX_3 [7_AleX_3]: "с замбаками может"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 49
+PlayerID: 76561198030393730 Name: heavy198 Character: heavy198 Ping: 141
+PlayerID: 76561198289556960 Name: доширак Character: artiom$KI Ping: 192
+PlayerID: 76561198009738148 Name: valera_zazhuev Character: серёжа Ping: 44
+PlayerID: 76561198095089210 Name: //UndeR?ake? Character: //Mr.GoodM?n.RU. Ping: 61
+PlayerID: 76561198152563082 Name: Drakon Character: Stanat Ping: 125
+PlayerID: 76561198364340964 Name: agunggautama149 Character: Kartly Ping: 298
+PlayerID: 76561198262878051 Name: Kolder Character: Kolder Ping: 58
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4293986895
+
+END with Bans:
+[World] Stanat [Drakon]: "нехочу яя"
+
+[World] Stanat [Drakon]: "щас"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 50
+PlayerID: 76561198030393730 Name: heavy198 Character: heavy198 Ping: 146
+PlayerID: 76561198289556960 Name: доширак Character: artiom$KI Ping: 166
+PlayerID: 76561198009738148 Name: valera_zazhuev Character: серёжа Ping: 41
+PlayerID: 76561198095089210 Name: //UndeR?ake? Character: //Mr.GoodM?n.RU. Ping: 69
+PlayerID: 76561198152563082 Name: Drakon Character: Stanat Ping: 132
+PlayerID: 76561198364340964 Name: agunggautama149 Character: Kartly Ping: 294
+PlayerID: 76561198262878051 Name: Kolder Character: Kolder Ping: 55
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4293986875
+
+END with Bans:
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 43
+PlayerID: 76561198030393730 Name: heavy198 Character: heavy198 Ping: 144
+PlayerID: 76561198289556960 Name: доширак Character: artiom$KI Ping: 170
+PlayerID: 76561198009738148 Name: valera_zazhuev Character: серёжа Ping: 43
+PlayerID: 76561198095089210 Name: //UndeR?ake? Character: //Mr.GoodM?n.RU. Ping: 74
+PlayerID: 76561198152563082 Name: Drakon Character: Stanat Ping: 135
+PlayerID: 76561198364340964 Name: agunggautama149 Character: Kartly Ping: 291
+PlayerID: 76561198262878051 Name: Kolder Character: Kolder Ping: 56
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4293986855
+
+END with Bans:
+Не обработано: DeathMessagesRemastered >> Broadcast: //Mr.GoodM?n.RU. был съеден зомби! 
+DeathMessagesRemastered >> Broadcast: //Mr.GoodM?n.RU. был съеден зомби! 
+
+Не обработано: DropManager >> 3
+DropManager >> 3
+
+Не обработано: //Mr.GoodM?n.RU. [//UndeR?ake?] was mauled by a zombie!
+//Mr.GoodM?n.RU. [//UndeR?ake?] was mauled by a zombie!
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 43
+PlayerID: 76561198030393730 Name: heavy198 Character: heavy198 Ping: 167
+PlayerID: 76561198289556960 Name: доширак Character: artiom$KI Ping: 171
+PlayerID: 76561198009738148 Name: valera_zazhuev Character: серёжа Ping: 47
+PlayerID: 76561198095089210 Name: //UndeR?ake? Character: //Mr.GoodM?n.RU. Ping: 143
+PlayerID: 76561198152563082 Name: Drakon Character: Stanat Ping: 143
+PlayerID: 76561198364340964 Name: agunggautama149 Character: Kartly Ping: 309
+PlayerID: 76561198262878051 Name: Kolder Character: Kolder Ping: 69
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4293986835
+
+END with Bans:
+Не обработано: Saving server
+Saving server
+
+Connecting: PlayerID: 76561198292543416 Name: Mr_GiladKing Character: GiladKing
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 54
+PlayerID: 76561198030393730 Name: heavy198 Character: heavy198 Ping: 143
+PlayerID: 76561198289556960 Name: доширак Character: artiom$KI Ping: 162
+PlayerID: 76561198009738148 Name: valera_zazhuev Character: серёжа Ping: 95
+PlayerID: 76561198095089210 Name: //UndeR?ake? Character: //Mr.GoodM?n.RU. Ping: 73
+PlayerID: 76561198152563082 Name: Drakon Character: Stanat Ping: 130
+PlayerID: 76561198364340964 Name: agunggautama149 Character: Kartly Ping: 289
+PlayerID: 76561198262878051 Name: Kolder Character: Kolder Ping: 61
+PlayerID: 76561198292543416 Name: Mr_GiladKing Character: GiladKing Ping: 235
+
+TimerTerminateCommand.Enabled with Players:
+[World] Stanat [Drakon]: "я знаю"
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4293986815
+
+END with Bans:
+Не обработано: MessageAnnouncer >> Broadcast: Наберите /kit help, чтобы получить первую мед. помощь (бинты, таблетки, еда)
+MessageAnnouncer >> Broadcast: Наберите /kit help, чтобы получить первую мед. помощь (бинты, таблетки, еда)
+
+Не обработано: MessageAnnouncer >> Наберите /kit help, чтобы получить первую мед. помощь (бинты, таблетки, еда)
+MessageAnnouncer >> Наберите /kit help, чтобы получить первую мед. помощь (бинты, таблетки, еда)
+
+Не обработано: 7_AleX_3 moved x:-665.7029 y:85.36104(+46.88372) z:324.7889 in the last second (0.1000061)
+7_AleX_3 moved x:-665.7029 y:85.36104(+46.88372) z:324.7889 in the last second (0.1000061)
+
+[World] Stanat [Drakon]: "/i 1443"
+
+Не обработано: Дал Stanat вещь 1443:1
+Дал Stanat вещь 1443:1
+
+[Group] серёжа [valera_zazhuev]: "чё за бушка"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 33
+PlayerID: 76561198030393730 Name: heavy198 Character: heavy198 Ping: 141
+PlayerID: 76561198289556960 Name: доширак Character: artiom$KI Ping: 167
+PlayerID: 76561198009738148 Name: valera_zazhuev Character: серёжа Ping: 44
+PlayerID: 76561198095089210 Name: //UndeR?ake? Character: //Mr.GoodM?n.RU. Ping: 39
+PlayerID: 76561198152563082 Name: Drakon Character: Stanat Ping: 132
+PlayerID: 76561198364340964 Name: agunggautama149 Character: Kartly Ping: 297
+PlayerID: 76561198262878051 Name: Kolder Character: Kolder Ping: 61
+PlayerID: 76561198292543416 Name: Mr_GiladKing Character: GiladKing Ping: 57
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4293986794
+
+TimerTerminateCommand.Enabled with Bans:
+[World] GiladKing [Mr_GiladKing]: "/tpa st"
+
+END with Bans:
+[World] Stanat [Drakon]: "сталкер 2"
+
+[World] Stanat [Drakon]: "выдать ток можно"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 41
+PlayerID: 76561198030393730 Name: heavy198 Character: heavy198 Ping: 139
+PlayerID: 76561198289556960 Name: доширак Character: artiom$KI Ping: 185
+PlayerID: 76561198009738148 Name: valera_zazhuev Character: серёжа Ping: 42
+PlayerID: 76561198095089210 Name: //UndeR?ake? Character: //Mr.GoodM?n.RU. Ping: 45
+PlayerID: 76561198152563082 Name: Drakon Character: Stanat Ping: 131
+PlayerID: 76561198364340964 Name: agunggautama149 Character: Kartly Ping: 291
+PlayerID: 76561198262878051 Name: Kolder Character: Kolder Ping: 53
+PlayerID: 76561198292543416 Name: Mr_GiladKing Character: GiladKing Ping: 58
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4293986774
+
+TimerTerminateCommand.Enabled with Bans:
+[World] 7_AleX_3 [7_AleX_3]: "что ты там делаеш"
+
+TimerTerminateCommand.Enabled with Bans:
+[World] 7_AleX_3 [7_AleX_3]: "модер"
+
+TimerTerminateCommand.Enabled with Bans:
+[Group] серёжа [valera_zazhuev]: "/kit stalker 2"
+
+END with Bans:
+[World] Stanat [Drakon]: "да"
+
+[World] Stanat [Drakon]: "могу"
+
+[Group] серёжа [valera_zazhuev]: "/kit сталкер"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 44
+PlayerID: 76561198030393730 Name: heavy198 Character: heavy198 Ping: 137
+PlayerID: 76561198289556960 Name: доширак Character: artiom$KI Ping: 181
+PlayerID: 76561198009738148 Name: valera_zazhuev Character: серёжа Ping: 41
+PlayerID: 76561198095089210 Name: //UndeR?ake? Character: //Mr.GoodM?n.RU. Ping: 55
+PlayerID: 76561198152563082 Name: Drakon Character: Stanat Ping: 137
+PlayerID: 76561198364340964 Name: agunggautama149 Character: Kartly Ping: 287
+PlayerID: 76561198262878051 Name: Kolder Character: Kolder Ping: 56
+PlayerID: 76561198292543416 Name: Mr_GiladKing Character: GiladKing Ping: 66
+
+TimerTerminateCommand.Enabled with Players:
+[World] GiladKing [Mr_GiladKing]: "прими стана"
+
+TimerTerminateCommand.Enabled with Players:
+[World] Stanat [Drakon]: "ток обмен"
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4293986752
+
+TimerTerminateCommand.Enabled with Bans:
+[Group] серёжа [valera_zazhuev]: "умоляю и я"
+
+TimerTerminateCommand.Enabled with Bans:
+[World] Stanat [Drakon]: "не щас"
+
+TimerTerminateCommand.Enabled with Bans:
+[World] Stanat [Drakon]: "квадрик"
+

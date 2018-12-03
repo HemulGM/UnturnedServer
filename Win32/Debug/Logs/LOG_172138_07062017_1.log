@@ -1,0 +1,32 @@
+Не обработано: RocketRcon v2.4.8.0
+RocketRcon v2.4.8.0
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198309008539 Name: NOOO-SENPAI... Character: Сенпай Ping: 31
+PlayerID: 76561198151655003 Name: HemulGM Character: HemulGM Ping: 0
+PlayerID: 76561198297629847 Name: VeZuN4iK Character: DeN Ping: 39
+PlayerID: 76561198147477828 Name: galbatsovmikail Character: galbatsovmikail Ping: 46
+PlayerID: 76561198390219785 Name: emokacper110 Character: emokacper110 Ping: 132
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 132
+PlayerID: 76561198376416045 Name: xitrfaratez Character: xitrfaratez Ping: 93
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 31
+
+TimerTerminateCommand.Enabled with Players:
+Client has executed command "say "??????????""
+
+TimerTerminateCommand.Enabled with Players:
+[World] Expert1337 [Expert13372284200]: "я уже 3 лишился"
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294310904
+
+END with Bans:

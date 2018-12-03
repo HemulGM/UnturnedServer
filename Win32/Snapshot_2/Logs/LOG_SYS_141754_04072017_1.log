@@ -1,0 +1,47 @@
+04.07.2017 14:17:54: ClientSocketLookup
+04.07.2017 14:17:54: ClientSocketConnecting
+04.07.2017 14:17:55: ClientSocketConnect
+04.07.2017 14:17:55: ClientSocketWrite
+06.07.2017 21:29:46: ClientSocketError Соединение прервано
+06.07.2017 21:29:46: ClientSocketError eeSend
+06.07.2017 21:29:46: ClientSocketDisconnect
+07.07.2017 13:42:28: ClientSocketLookup
+07.07.2017 13:42:28: ClientSocketConnecting
+07.07.2017 13:42:28: ClientSocketConnect
+07.07.2017 13:42:28: ClientSocketWrite
+08.07.2017 12:46:35: ClientSocketError Соединение прервано
+08.07.2017 12:46:54: ClientSocketError eeSend
+08.07.2017 12:46:54: ClientSocketDisconnect
+08.07.2017 12:48:46: ClientSocketLookup
+08.07.2017 12:48:46: ClientSocketConnecting
+08.07.2017 12:48:46: ClientSocketConnect
+08.07.2017 12:48:46: ClientSocketWrite
+09.07.2017 10:16:47: ClientSocketError Соединение прервано
+09.07.2017 10:16:49: ClientSocketError eeSend
+09.07.2017 10:16:49: ClientSocketDisconnect
+09.07.2017 10:17:28: ClientSocketLookup
+09.07.2017 10:17:28: ClientSocketConnecting
+09.07.2017 10:17:28: ClientSocketConnect
+09.07.2017 10:17:28: ClientSocketWrite
+09.07.2017 13:00:21: ClientSocketError Соединение прервано
+09.07.2017 13:00:32: ClientSocketError eeSend
+09.07.2017 13:00:32: ClientSocketDisconnect
+09.07.2017 13:05:42: ClientSocketLookup
+09.07.2017 13:05:42: ClientSocketConnecting
+09.07.2017 13:05:42: ClientSocketConnect
+09.07.2017 13:05:42: ClientSocketWrite
+09.07.2017 13:05:57: ClientSocketManagerLookup
+09.07.2017 13:05:57: ClientSocketManagerConnecting
+09.07.2017 13:05:57: ClientSocketManagerWrite
+09.07.2017 13:05:57: ClientSocketManagerRead
+09.07.2017 13:06:02: ClientSocketManagerRead
+09.07.2017 13:06:02: ClientSocketManagerRead
+09.07.2017 13:06:02: ClientSocketManagerRead
+09.07.2017 13:06:02: ClientSocketManagerRead
+10.07.2017 4:00:01: ClientSocketError Соединение прервано
+10.07.2017 4:00:01: ClientSocketError eeSend
+10.07.2017 4:00:01: ClientSocketDisconnect
+10.07.2017 8:58:22: ClientSocketLookup
+10.07.2017 8:58:22: ClientSocketConnecting
+10.07.2017 8:58:22: ClientSocketConnect
+10.07.2017 8:58:22: ClientSocketWrite

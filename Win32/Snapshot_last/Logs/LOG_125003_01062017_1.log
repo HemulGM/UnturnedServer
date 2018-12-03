@@ -1,0 +1,601 @@
+Не обработано: RocketRcon v2.4.8.0
+RocketRcon v2.4.8.0
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198200101595 Name: Deus vult Character: Nevalyasha4 Ping: 121
+PlayerID: 76561198391121800 Name: Джеимс Вурхиз Character: Джеимс Вурхиз Ping: 50
+PlayerID: 76561198303283372 Name: PeR4IK Character: данил Ping: 74
+PlayerID: 76561198295801599 Name: Lo[x] Character: Lo[x] Ping: 58
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 160
+PlayerID: 76561198176817369 Name: ?. Character: GlodiS Ping: 82
+PlayerID: 76561198292543416 Name: Mr_GiladKing Character: GamerYT Ping: 62
+PlayerID: 76561198324996335 Name: Mуждей щи Мамалыга Character: []Max[] Ping: 89
+PlayerID: 76561198269033799 Name: Genadi_Gena Character: Шалунтик2000 Ping: 82
+PlayerID: 76561198356323691 Name: Alex Vine Character: alex Ping: 62
+PlayerID: 76561198177243258 Name: garfield2016 Character: rubi Ping: 101
+
+TimerTerminateCommand.Enabled with Players:
+Client has executed command "bans"
+
+END with Players:
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 123123
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 31381433
+PlayerID: 123
+JudgeID: 0
+Reason: durila Duration: 4000 Remaining: 4294817227
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294845600
+
+TimerTerminateCommand.Enabled with Bans:
+[World] Lo[x] [Lo[x]]: "/home"
+
+TimerTerminateCommand.Enabled with Bans:
+Connecting: PlayerID: 76561198218213812 Name: nipeka Character: nipeka 
+
+END with Bans:
+[Area] alex [Alex Vine]: "/tpa Nevalyasha4"
+
+[World] данил [PeR4IK]: "/kit help"
+
+[World] Nevalyasha4 [Deus vult]: "/tpa a"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198200101595 Name: Deus vult Character: Nevalyasha4 Ping: 113
+PlayerID: 76561198391121800 Name: Джеимс Вурхиз Character: Джеимс Вурхиз Ping: 50
+PlayerID: 76561198303283372 Name: PeR4IK Character: данил Ping: 105
+PlayerID: 76561198295801599 Name: Lo[x] Character: Lo[x] Ping: 58
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 156
+PlayerID: 76561198176817369 Name: ?. Character: GlodiS Ping: 82
+PlayerID: 76561198292543416 Name: Mr_GiladKing Character: GamerYT Ping: 70
+PlayerID: 76561198324996335 Name: Mуждей щи Мамалыга Character: []Max[] Ping: 101
+PlayerID: 76561198269033799 Name: Genadi_Gena Character: Шалунтик2000 Ping: 78
+PlayerID: 76561198356323691 Name: Alex Vine Character: alex Ping: 214
+PlayerID: 76561198177243258 Name: garfield2016 Character: rubi Ping: 89
+PlayerID: 76561198218213812 Name: nipeka Character: nipeka  Ping: 54
+
+END with Players:
+[World] данил [PeR4IK]: "fff"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198200101595 Name: Deus vult Character: Nevalyasha4 Ping: 113
+PlayerID: 76561198391121800 Name: Джеимс Вурхиз Character: Джеимс Вурхиз Ping: 58
+PlayerID: 76561198303283372 Name: PeR4IK Character: данил Ping: 105
+PlayerID: 76561198295801599 Name: Lo[x] Character: Lo[x] Ping: 58
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 152
+PlayerID: 76561198176817369 Name: ?. Character: GlodiS Ping: 74
+PlayerID: 76561198292543416 Name: Mr_GiladKing Character: GamerYT Ping: 58
+PlayerID: 76561198324996335 Name: Mуждей щи Мамалыга Character: []Max[] Ping: 105
+PlayerID: 76561198269033799 Name: Genadi_Gena Character: Шалунтик2000 Ping: 85
+PlayerID: 76561198356323691 Name: Alex Vine Character: alex Ping: 85
+PlayerID: 76561198177243258 Name: garfield2016 Character: rubi Ping: 105
+PlayerID: 76561198218213812 Name: nipeka Character: nipeka  Ping: 58
+
+END with Players:
+[World] Nevalyasha4 [Deus vult]: "Куплю алиспак"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198200101595 Name: Deus vult Character: Nevalyasha4 Ping: 121
+PlayerID: 76561198391121800 Name: Джеимс Вурхиз Character: Джеимс Вурхиз Ping: 54
+PlayerID: 76561198303283372 Name: PeR4IK Character: данил Ping: 117
+PlayerID: 76561198295801599 Name: Lo[x] Character: Lo[x] Ping: 66
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 148
+PlayerID: 76561198176817369 Name: ?. Character: GlodiS Ping: 78
+PlayerID: 76561198292543416 Name: Mr_GiladKing Character: GamerYT Ping: 54
+PlayerID: 76561198324996335 Name: Mуждей щи Мамалыга Character: []Max[] Ping: 89
+PlayerID: 76561198269033799 Name: Genadi_Gena Character: Шалунтик2000 Ping: 82
+PlayerID: 76561198356323691 Name: Alex Vine Character: alex Ping: 74
+PlayerID: 76561198177243258 Name: garfield2016 Character: rubi Ping: 101
+PlayerID: 76561198218213812 Name: nipeka Character: nipeka  Ping: 46
+
+END with Players:
+[Area] nipeka  [nipeka]: "кто дружить"
+
+[World] Nevalyasha4 [Deus vult]: "/home"
+
+Не обработано: Nevalyasha4 moved x:-957.4163 y:76.01778(+37.54047) z:902.3574 in the last second (0.09999847)
+Nevalyasha4 moved x:-957.4163 y:76.01778(+37.54047) z:902.3574 in the last second (0.09999847)
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198200101595 Name: Deus vult Character: Nevalyasha4 Ping: 105
+PlayerID: 76561198391121800 Name: Джеимс Вурхиз Character: Джеимс Вурхиз Ping: 54
+PlayerID: 76561198303283372 Name: PeR4IK Character: данил Ping: 101
+PlayerID: 76561198295801599 Name: Lo[x] Character: Lo[x] Ping: 50
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 144
+PlayerID: 76561198176817369 Name: ?. Character: GlodiS Ping: 66
+PlayerID: 76561198292543416 Name: Mr_GiladKing Character: GamerYT Ping: 50
+PlayerID: 76561198324996335 Name: Mуждей щи Мамалыга Character: []Max[] Ping: 89
+PlayerID: 76561198269033799 Name: Genadi_Gena Character: Шалунтик2000 Ping: 85
+PlayerID: 76561198356323691 Name: Alex Vine Character: alex Ping: 82
+PlayerID: 76561198177243258 Name: garfield2016 Character: rubi Ping: 78
+PlayerID: 76561198218213812 Name: nipeka Character: nipeka  Ping: 50
+
+TimerTerminateCommand.Enabled with Players:
+[World] Nevalyasha4 [Deus vult]: "/kit start"
+
+TimerTerminateCommand.Enabled with Players:
+[World] Nevalyasha4 [Deus vult]: "/kit help"
+
+END with Players:
+[World] Expert1337 [Expert13372284200]: "я ща"
+
+Не обработано: DeathMessagesRemastered >> Broadcast: Шалунтик2000 has been mauled by a zombie! 
+DeathMessagesRemastered >> Broadcast: Шалунтик2000 has been mauled by a zombie! 
+
+Не обработано: Шалунтик2000 [Genadi_Gena] was mauled by a zombie!
+Шалунтик2000 [Genadi_Gena] was mauled by a zombie!
+
+[World] Expert1337 [Expert13372284200]: "5 мин"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198200101595 Name: Deus vult Character: Nevalyasha4 Ping: 109
+PlayerID: 76561198391121800 Name: Джеимс Вурхиз Character: Джеимс Вурхиз Ping: 62
+PlayerID: 76561198303283372 Name: PeR4IK Character: данил Ping: 82
+PlayerID: 76561198295801599 Name: Lo[x] Character: Lo[x] Ping: 54
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 160
+PlayerID: 76561198176817369 Name: ?. Character: GlodiS Ping: 82
+PlayerID: 76561198292543416 Name: Mr_GiladKing Character: GamerYT Ping: 66
+PlayerID: 76561198324996335 Name: Mуждей щи Мамалыга Character: []Max[] Ping: 85
+PlayerID: 76561198269033799 Name: Genadi_Gena Character: Шалунтик2000 Ping: 78
+PlayerID: 76561198356323691 Name: Alex Vine Character: alex Ping: 78
+PlayerID: 76561198177243258 Name: garfield2016 Character: rubi Ping: 85
+PlayerID: 76561198218213812 Name: nipeka Character: nipeka  Ping: 54
+
+END with Players:
+Не обработано: MessageAnnouncer >> Broadcast: Наберите /rules (/r) для просмотра правил
+MessageAnnouncer >> Broadcast: Наберите /rules (/r) для просмотра правил
+
+Не обработано: MessageAnnouncer >> Наберите /rules (/r) для просмотра правил
+MessageAnnouncer >> Наберите /rules (/r) для просмотра правил
+
+Disconnecting: PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337
+
+[Area] nipeka  [nipeka]: "кто дружить"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198200101595 Name: Deus vult Character: Nevalyasha4 Ping: 113
+PlayerID: 76561198391121800 Name: Джеимс Вурхиз Character: Джеимс Вурхиз Ping: 58
+PlayerID: 76561198303283372 Name: PeR4IK Character: данил Ping: 101
+PlayerID: 76561198295801599 Name: Lo[x] Character: Lo[x] Ping: 62
+PlayerID: 76561198176817369 Name: ?. Character: GlodiS Ping: 82
+PlayerID: 76561198292543416 Name: Mr_GiladKing Character: GamerYT Ping: 74
+PlayerID: 76561198324996335 Name: Mуждей щи Мамалыга Character: []Max[] Ping: 93
+PlayerID: 76561198269033799 Name: Genadi_Gena Character: Шалунтик2000 Ping: 74
+PlayerID: 76561198356323691 Name: Alex Vine Character: alex Ping: 62
+PlayerID: 76561198177243258 Name: garfield2016 Character: rubi Ping: 85
+PlayerID: 76561198218213812 Name: nipeka Character: nipeka  Ping: 50
+
+TimerTerminateCommand.Enabled with Players:
+Disconnecting: PlayerID: 76561198269033799 Name: Genadi_Gena Character: Шалунтик2000
+
+TimerTerminateCommand.Enabled with Players:
+[Area] nipeka  [nipeka]: "! кто дружить"
+
+END with Players:
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198200101595 Name: Deus vult Character: Nevalyasha4 Ping: 109
+PlayerID: 76561198391121800 Name: Джеимс Вурхиз Character: Джеимс Вурхиз Ping: 62
+PlayerID: 76561198303283372 Name: PeR4IK Character: данил Ping: 97
+PlayerID: 76561198295801599 Name: Lo[x] Character: Lo[x] Ping: 62
+PlayerID: 76561198176817369 Name: ?. Character: GlodiS Ping: 113
+PlayerID: 76561198292543416 Name: Mr_GiladKing Character: GamerYT Ping: 62
+PlayerID: 76561198324996335 Name: Mуждей щи Мамалыга Character: []Max[] Ping: 93
+PlayerID: 76561198356323691 Name: Alex Vine Character: alex Ping: 82
+PlayerID: 76561198177243258 Name: garfield2016 Character: rubi Ping: 101
+PlayerID: 76561198218213812 Name: nipeka Character: nipeka  Ping: 50
+
+END with Players:
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198200101595 Name: Deus vult Character: Nevalyasha4 Ping: 105
+PlayerID: 76561198391121800 Name: Джеимс Вурхиз Character: Джеимс Вурхиз Ping: 46
+PlayerID: 76561198303283372 Name: PeR4IK Character: данил Ping: 93
+PlayerID: 76561198295801599 Name: Lo[x] Character: Lo[x] Ping: 50
+PlayerID: 76561198176817369 Name: ?. Character: GlodiS Ping: 78
+PlayerID: 76561198292543416 Name: Mr_GiladKing Character: GamerYT Ping: 54
+PlayerID: 76561198324996335 Name: Mуждей щи Мамалыга Character: []Max[] Ping: 82
+PlayerID: 76561198356323691 Name: Alex Vine Character: alex Ping: 132
+PlayerID: 76561198177243258 Name: garfield2016 Character: rubi Ping: 97
+PlayerID: 76561198218213812 Name: nipeka Character: nipeka  Ping: 46
+
+END with Players:
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198200101595 Name: Deus vult Character: Nevalyasha4 Ping: 109
+PlayerID: 76561198391121800 Name: Джеимс Вурхиз Character: Джеимс Вурхиз Ping: 46
+PlayerID: 76561198303283372 Name: PeR4IK Character: данил Ping: 222
+PlayerID: 76561198295801599 Name: Lo[x] Character: Lo[x] Ping: 46
+PlayerID: 76561198176817369 Name: ?. Character: GlodiS Ping: 97
+PlayerID: 76561198292543416 Name: Mr_GiladKing Character: GamerYT Ping: 62
+PlayerID: 76561198324996335 Name: Mуждей щи Мамалыга Character: []Max[] Ping: 89
+PlayerID: 76561198356323691 Name: Alex Vine Character: alex Ping: 74
+PlayerID: 76561198177243258 Name: garfield2016 Character: rubi Ping: 85
+PlayerID: 76561198218213812 Name: nipeka Character: nipeka  Ping: 46
+
+END with Players:
+[World] Nevalyasha4 [Deus vult]: "У кого есть Slacar?"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198200101595 Name: Deus vult Character: Nevalyasha4 Ping: 113
+PlayerID: 76561198391121800 Name: Джеимс Вурхиз Character: Джеимс Вурхиз Ping: 54
+PlayerID: 76561198303283372 Name: PeR4IK Character: данил Ping: 97
+PlayerID: 76561198295801599 Name: Lo[x] Character: Lo[x] Ping: 62
+PlayerID: 76561198176817369 Name: ?. Character: GlodiS Ping: 82
+PlayerID: 76561198292543416 Name: Mr_GiladKing Character: GamerYT Ping: 58
+PlayerID: 76561198324996335 Name: Mуждей щи Мамалыга Character: []Max[] Ping: 78
+PlayerID: 76561198356323691 Name: Alex Vine Character: alex Ping: 105
+PlayerID: 76561198177243258 Name: garfield2016 Character: rubi Ping: 85
+PlayerID: 76561198218213812 Name: nipeka Character: nipeka  Ping: 54
+
+END with Players:
+[World] Nevalyasha4 [Deus vult]: "У меня есть 2 обоймы на него"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198200101595 Name: Deus vult Character: Nevalyasha4 Ping: 113
+PlayerID: 76561198391121800 Name: Джеимс Вурхиз Character: Джеимс Вурхиз Ping: 62
+PlayerID: 76561198303283372 Name: PeR4IK Character: данил Ping: 117
+PlayerID: 76561198295801599 Name: Lo[x] Character: Lo[x] Ping: 58
+PlayerID: 76561198176817369 Name: ?. Character: GlodiS Ping: 62
+PlayerID: 76561198292543416 Name: Mr_GiladKing Character: GamerYT Ping: 58
+PlayerID: 76561198324996335 Name: Mуждей щи Мамалыга Character: []Max[] Ping: 101
+PlayerID: 76561198356323691 Name: Alex Vine Character: alex Ping: 105
+PlayerID: 76561198177243258 Name: garfield2016 Character: rubi Ping: 78
+PlayerID: 76561198218213812 Name: nipeka Character: nipeka  Ping: 50
+
+END with Players:
+Не обработано: MessageAnnouncer >> Broadcast: Добро пожаловать на HEMULGM.RU. Тут рады вам больше, чем на любом другом сервере!
+MessageAnnouncer >> Broadcast: Добро пожаловать на HEMULGM.RU. Тут рады вам больше, чем на любом другом сервере!
+
+Не обработано: MessageAnnouncer >> Добро пожаловать на HEMULGM.RU. Тут рады вам больше, чем на любом другом сервере!
+MessageAnnouncer >> Добро пожаловать на HEMULGM.RU. Тут рады вам больше, чем на любом другом сервере!
+
+[World] данил [PeR4IK]: "У МЕНЯ ЕСТЬ"
+
+Connecting: PlayerID: 76561198368971411 Name: kswonnjh Character: kswonnjh
+
+[World] Nevalyasha4 [Deus vult]: "/tpa данил"
+
+Не обработано: DeathMessagesRemastered >> Broadcast: nipeka  has been mauled by a zombie! 
+DeathMessagesRemastered >> Broadcast: nipeka  has been mauled by a zombie! 
+
+Не обработано: nipeka  [nipeka] was mauled by a zombie!
+nipeka  [nipeka] was mauled by a zombie!
+
+[World] данил [PeR4IK]: "/TPA A"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198200101595 Name: Deus vult Character: Nevalyasha4 Ping: 121
+PlayerID: 76561198391121800 Name: Джеимс Вурхиз Character: Джеимс Вурхиз Ping: 54
+PlayerID: 76561198303283372 Name: PeR4IK Character: данил Ping: 105
+PlayerID: 76561198295801599 Name: Lo[x] Character: Lo[x] Ping: 66
+PlayerID: 76561198176817369 Name: ?. Character: GlodiS Ping: 70
+PlayerID: 76561198292543416 Name: Mr_GiladKing Character: GamerYT Ping: 58
+PlayerID: 76561198324996335 Name: Mуждей щи Мамалыга Character: []Max[] Ping: 156
+PlayerID: 76561198356323691 Name: Alex Vine Character: alex Ping: 85
+PlayerID: 76561198177243258 Name: garfield2016 Character: rubi Ping: 97
+PlayerID: 76561198218213812 Name: nipeka Character: nipeka  Ping: 54
+PlayerID: 76561198368971411 Name: kswonnjh Character: kswonnjh Ping: 472
+
+TimerTerminateCommand.Enabled with Players:
+Connecting: PlayerID: 76561198231434180 Name: Mr.Catison Character: Mr.Catison
+
+END with Players:
+[World] kswonnjh [kswonnjh]: "/kits"
+
+[World] kswonnjh [kswonnjh]: "/kit start"
+
+[World] данил [PeR4IK]: "меняю на эхо"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198200101595 Name: Deus vult Character: Nevalyasha4 Ping: 109
+PlayerID: 76561198391121800 Name: Джеимс Вурхиз Character: Джеимс Вурхиз Ping: 46
+PlayerID: 76561198303283372 Name: PeR4IK Character: данил Ping: 93
+PlayerID: 76561198295801599 Name: Lo[x] Character: Lo[x] Ping: 58
+PlayerID: 76561198176817369 Name: ?. Character: GlodiS Ping: 74
+PlayerID: 76561198292543416 Name: Mr_GiladKing Character: GamerYT Ping: 54
+PlayerID: 76561198324996335 Name: Mуждей щи Мамалыга Character: []Max[] Ping: 89
+PlayerID: 76561198356323691 Name: Alex Vine Character: alex Ping: 82
+PlayerID: 76561198177243258 Name: garfield2016 Character: rubi Ping: 78
+PlayerID: 76561198218213812 Name: nipeka Character: nipeka  Ping: 46
+PlayerID: 76561198368971411 Name: kswonnjh Character: kswonnjh Ping: 11
+PlayerID: 76561198231434180 Name: Mr.Catison Character: Mr.Catison Ping: 42
+
+END with Players:
+[World] данил [PeR4IK]: "13 патрон"
+
+[World] данил [PeR4IK]: "аа"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198200101595 Name: Deus vult Character: Nevalyasha4 Ping: 121
+PlayerID: 76561198391121800 Name: Джеимс Вурхиз Character: Джеимс Вурхиз Ping: 62
+PlayerID: 76561198303283372 Name: PeR4IK Character: данил Ping: 125
+PlayerID: 76561198295801599 Name: Lo[x] Character: Lo[x] Ping: 50
+PlayerID: 76561198176817369 Name: ?. Character: GlodiS Ping: 82
+PlayerID: 76561198292543416 Name: Mr_GiladKing Character: GamerYT Ping: 62
+PlayerID: 76561198324996335 Name: Mуждей щи Мамалыга Character: []Max[] Ping: 97
+PlayerID: 76561198356323691 Name: Alex Vine Character: alex Ping: 62
+PlayerID: 76561198177243258 Name: garfield2016 Character: rubi Ping: 85
+PlayerID: 76561198218213812 Name: nipeka Character: nipeka  Ping: 50
+PlayerID: 76561198368971411 Name: kswonnjh Character: kswonnjh Ping: 19
+PlayerID: 76561198231434180 Name: Mr.Catison Character: Mr.Catison Ping: 58
+
+TimerTerminateCommand.Enabled with Players:
+Connecting: PlayerID: 76561198233917696 Name: Lucker Character: Lucker
+
+END with Players:
+[World] данил [PeR4IK]: "хочу 40"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198200101595 Name: Deus vult Character: Nevalyasha4 Ping: 144
+PlayerID: 76561198391121800 Name: Джеимс Вурхиз Character: Джеимс Вурхиз Ping: 50
+PlayerID: 76561198303283372 Name: PeR4IK Character: данил Ping: 113
+PlayerID: 76561198295801599 Name: Lo[x] Character: Lo[x] Ping: 66
+PlayerID: 76561198176817369 Name: ?. Character: GlodiS Ping: 58
+PlayerID: 76561198292543416 Name: Mr_GiladKing Character: GamerYT Ping: 54
+PlayerID: 76561198324996335 Name: Mуждей щи Мамалыга Character: []Max[] Ping: 89
+PlayerID: 76561198356323691 Name: Alex Vine Character: alex Ping: 89
+PlayerID: 76561198177243258 Name: garfield2016 Character: rubi Ping: 89
+PlayerID: 76561198218213812 Name: nipeka Character: nipeka  Ping: 93
+PlayerID: 76561198368971411 Name: kswonnjh Character: kswonnjh Ping: 27
+PlayerID: 76561198231434180 Name: Mr.Catison Character: Mr.Catison Ping: 54
+PlayerID: 76561198233917696 Name: Lucker Character: Lucker Ping: 207
+
+END with Players:
+[World] данил [PeR4IK]: "эй"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198200101595 Name: Deus vult Character: Nevalyasha4 Ping: 113
+PlayerID: 76561198391121800 Name: Джеимс Вурхиз Character: Джеимс Вурхиз Ping: 66
+PlayerID: 76561198303283372 Name: PeR4IK Character: данил Ping: 109
+PlayerID: 76561198295801599 Name: Lo[x] Character: Lo[x] Ping: 54
+PlayerID: 76561198176817369 Name: ?. Character: GlodiS Ping: 66
+PlayerID: 76561198292543416 Name: Mr_GiladKing Character: GamerYT Ping: 66
+PlayerID: 76561198324996335 Name: Mуждей щи Мамалыга Character: []Max[] Ping: 316
+PlayerID: 76561198356323691 Name: Alex Vine Character: alex Ping: 82
+PlayerID: 76561198177243258 Name: garfield2016 Character: rubi Ping: 82
+PlayerID: 76561198218213812 Name: nipeka Character: nipeka  Ping: 46
+PlayerID: 76561198368971411 Name: kswonnjh Character: kswonnjh Ping: 19
+PlayerID: 76561198231434180 Name: Mr.Catison Character: Mr.Catison Ping: 50
+PlayerID: 76561198233917696 Name: Lucker Character: Lucker Ping: 78
+
+TimerTerminateCommand.Enabled with Players:
+[World] данил [PeR4IK]: "есть милитари коробка"
+
+TimerTerminateCommand.Enabled with Players:
+[World] Lucker [Lucker]: "/kit start"
+
+TimerTerminateCommand.Enabled with Players:
+Disconnecting: PlayerID: 76561198292543416 Name: Mr_GiladKing Character: GamerYT
+
+END with Players:
+Connecting: PlayerID: 76561198236643472 Name: mohapx64 Character: mohapx64
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198200101595 Name: Deus vult Character: Nevalyasha4 Ping: 105
+PlayerID: 76561198391121800 Name: Джеимс Вурхиз Character: Джеимс Вурхиз Ping: 50
+PlayerID: 76561198303283372 Name: PeR4IK Character: данил Ping: 101
+PlayerID: 76561198295801599 Name: Lo[x] Character: Lo[x] Ping: 50
+PlayerID: 76561198176817369 Name: ?. Character: GlodiS Ping: 62
+PlayerID: 76561198324996335 Name: Mуждей щи Мамалыга Character: []Max[] Ping: 89
+PlayerID: 76561198356323691 Name: Alex Vine Character: alex Ping: 89
+PlayerID: 76561198177243258 Name: garfield2016 Character: rubi Ping: 89
+PlayerID: 76561198218213812 Name: nipeka Character: nipeka  Ping: 46
+PlayerID: 76561198368971411 Name: kswonnjh Character: kswonnjh Ping: 19
+PlayerID: 76561198231434180 Name: Mr.Catison Character: Mr.Catison Ping: 42
+PlayerID: 76561198233917696 Name: Lucker Character: Lucker Ping: 50
+PlayerID: 76561198236643472 Name: mohapx64 Character: mohapx64 Ping: 121
+
+END with Players:
+Не обработано: MessageAnnouncer >> Broadcast: Наберите /kit start, чтобы получить стартовый набор (еда, вода, топор)
+MessageAnnouncer >> Broadcast: Наберите /kit start, чтобы получить стартовый набор (еда, вода, топор)
+
+Не обработано: MessageAnnouncer >> Наберите /kit start, чтобы получить стартовый набор (еда, вода, топор)
+MessageAnnouncer >> Наберите /kit start, чтобы получить стартовый набор (еда, вода, топор)
+
+Не обработано: DeathMessagesRemastered >> Broadcast: Mr.Catison has bled to death!
+DeathMessagesRemastered >> Broadcast: Mr.Catison has bled to death!
+
+Не обработано: Mr.Catison [Mr.Catison] bled to death!
+Mr.Catison [Mr.Catison] bled to death!
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198200101595 Name: Deus vult Character: Nevalyasha4 Ping: 109
+PlayerID: 76561198391121800 Name: Джеимс Вурхиз Character: Джеимс Вурхиз Ping: 54
+PlayerID: 76561198303283372 Name: PeR4IK Character: данил Ping: 82
+PlayerID: 76561198295801599 Name: Lo[x] Character: Lo[x] Ping: 54
+PlayerID: 76561198176817369 Name: ?. Character: GlodiS Ping: 82
+PlayerID: 76561198324996335 Name: Mуждей щи Мамалыга Character: []Max[] Ping: 89
+PlayerID: 76561198356323691 Name: Alex Vine Character: alex Ping: 117
+PlayerID: 76561198177243258 Name: garfield2016 Character: rubi Ping: 82
+PlayerID: 76561198218213812 Name: nipeka Character: nipeka  Ping: 50
+PlayerID: 76561198368971411 Name: kswonnjh Character: kswonnjh Ping: 19
+PlayerID: 76561198231434180 Name: Mr.Catison Character: Mr.Catison Ping: 226
+PlayerID: 76561198233917696 Name: Lucker Character: Lucker Ping: 62
+PlayerID: 76561198236643472 Name: mohapx64 Character: mohapx64 Ping: 125
+
+TimerTerminateCommand.Enabled with Players:
+[World] данил [PeR4IK]: "нужны"
+
+END with Players:
+[World] данил [PeR4IK]: "патроны"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198200101595 Name: Deus vult Character: Nevalyasha4 Ping: 105
+PlayerID: 76561198391121800 Name: Джеимс Вурхиз Character: Джеимс Вурхиз Ping: 58
+PlayerID: 76561198303283372 Name: PeR4IK Character: данил Ping: 89
+PlayerID: 76561198295801599 Name: Lo[x] Character: Lo[x] Ping: 50
+PlayerID: 76561198176817369 Name: ?. Character: GlodiS Ping: 70
+PlayerID: 76561198324996335 Name: Mуждей щи Мамалыга Character: []Max[] Ping: 101
+PlayerID: 76561198356323691 Name: Alex Vine Character: alex Ping: 70
+PlayerID: 76561198177243258 Name: garfield2016 Character: rubi Ping: 85
+PlayerID: 76561198218213812 Name: nipeka Character: nipeka  Ping: 50
+PlayerID: 76561198368971411 Name: kswonnjh Character: kswonnjh Ping: 11
+PlayerID: 76561198231434180 Name: Mr.Catison Character: Mr.Catison Ping: 46
+PlayerID: 76561198233917696 Name: Lucker Character: Lucker Ping: 42
+PlayerID: 76561198236643472 Name: mohapx64 Character: mohapx64 Ping: 117
+
+END with Players:
+[World] kswonnjh [kswonnjh]: "/p"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198200101595 Name: Deus vult Character: Nevalyasha4 Ping: 109
+PlayerID: 76561198391121800 Name: Джеимс Вурхиз Character: Джеимс Вурхиз Ping: 58
+PlayerID: 76561198303283372 Name: PeR4IK Character: данил Ping: 78
+PlayerID: 76561198295801599 Name: Lo[x] Character: Lo[x] Ping: 58
+PlayerID: 76561198176817369 Name: ?. Character: GlodiS Ping: 58
+PlayerID: 76561198324996335 Name: Mуждей щи Мамалыга Character: []Max[] Ping: 89
+PlayerID: 76561198356323691 Name: Alex Vine Character: alex Ping: 93
+PlayerID: 76561198177243258 Name: garfield2016 Character: rubi Ping: 78
+PlayerID: 76561198218213812 Name: nipeka Character: nipeka  Ping: 42
+PlayerID: 76561198368971411 Name: kswonnjh Character: kswonnjh Ping: 15
+PlayerID: 76561198231434180 Name: Mr.Catison Character: Mr.Catison Ping: 54
+PlayerID: 76561198233917696 Name: Lucker Character: Lucker Ping: 39
+PlayerID: 76561198236643472 Name: mohapx64 Character: mohapx64 Ping: 117
+
+TimerTerminateCommand.Enabled with Players:
+[World] данил [PeR4IK]: "мне не нужны эти патронв"
+
+TimerTerminateCommand.Enabled with Players:
+[World] kswonnjh [kswonnjh]: "/kit hgm1"
+
+END with Players:
+Disconnecting: PlayerID: 76561198236643472 Name: mohapx64 Character: mohapx64
+
+Disconnecting: PlayerID: 76561198233917696 Name: Lucker Character: Lucker
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198200101595 Name: Deus vult Character: Nevalyasha4 Ping: 105
+PlayerID: 76561198391121800 Name: Джеимс Вурхиз Character: Джеимс Вурхиз Ping: 50
+PlayerID: 76561198303283372 Name: PeR4IK Character: данил Ping: 89
+PlayerID: 76561198295801599 Name: Lo[x] Character: Lo[x] Ping: 54
+PlayerID: 76561198176817369 Name: ?. Character: GlodiS Ping: 62
+PlayerID: 76561198324996335 Name: Mуждей щи Мамалыга Character: []Max[] Ping: 82
+PlayerID: 76561198356323691 Name: Alex Vine Character: alex Ping: 54
+PlayerID: 76561198177243258 Name: garfield2016 Character: rubi Ping: 97
+PlayerID: 76561198218213812 Name: nipeka Character: nipeka  Ping: 46
+PlayerID: 76561198368971411 Name: kswonnjh Character: kswonnjh Ping: 19
+PlayerID: 76561198231434180 Name: Mr.Catison Character: Mr.Catison Ping: 50
+
+TimerTerminateCommand.Enabled with Players:
+[World] данил [PeR4IK]: "дай скалар"
+
+END with Players:
+Disconnecting: PlayerID: 76561198368971411 Name: kswonnjh Character: kswonnjh
+
+Disconnecting: PlayerID: 76561198231434180 Name: Mr.Catison Character: Mr.Catison
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198200101595 Name: Deus vult Character: Nevalyasha4 Ping: 113
+PlayerID: 76561198391121800 Name: Джеимс Вурхиз Character: Джеимс Вурхиз Ping: 58
+PlayerID: 76561198303283372 Name: PeR4IK Character: данил Ping: 97
+PlayerID: 76561198295801599 Name: Lo[x] Character: Lo[x] Ping: 58
+PlayerID: 76561198176817369 Name: ?. Character: GlodiS Ping: 62
+PlayerID: 76561198324996335 Name: Mуждей щи Мамалыга Character: []Max[] Ping: 85
+PlayerID: 76561198356323691 Name: Alex Vine Character: alex Ping: 70
+PlayerID: 76561198177243258 Name: garfield2016 Character: rubi Ping: 89
+PlayerID: 76561198218213812 Name: nipeka Character: nipeka  Ping: 54
+
+END with Players:
+Disconnecting: PlayerID: 76561198356323691 Name: Alex Vine Character: alex
+
+[World] данил [PeR4IK]: "адал"
+
+[World] данил [PeR4IK]: "я на тебя жалобу напишу"
+
+Не обработано: PlayerInfoLib >> No expired player info records found for this batch.
+PlayerInfoLib >> No expired player info records found for this batch.
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198200101595 Name: Deus vult Character: Nevalyasha4 Ping: 113
+PlayerID: 76561198391121800 Name: Джеимс Вурхиз Character: Джеимс Вурхиз Ping: 54
+PlayerID: 76561198303283372 Name: PeR4IK Character: данил Ping: 89
+PlayerID: 76561198295801599 Name: Lo[x] Character: Lo[x] Ping: 54
+PlayerID: 76561198176817369 Name: ?. Character: GlodiS Ping: 62
+PlayerID: 76561198324996335 Name: Mуждей щи Мамалыга Character: []Max[] Ping: 82
+PlayerID: 76561198177243258 Name: garfield2016 Character: rubi Ping: 93
+PlayerID: 76561198218213812 Name: nipeka Character: nipeka  Ping: 50
+
+END with Players:
+Connecting: PlayerID: 76561198292543416 Name: Mr_GiladKing Character: GamerYT
+
+Не обработано: MessageAnnouncer >> Broadcast: Внимание! PvP-режим по субботам! PvP-режим!!!
+MessageAnnouncer >> Broadcast: Внимание! PvP-режим по субботам! PvP-режим!!!
+
+Не обработано: MessageAnnouncer >> Внимание! PvP-режим по субботам! PvP-режим!!!
+MessageAnnouncer >> Внимание! PvP-режим по субботам! PvP-режим!!!
+
+[World] данил [PeR4IK]: "иди нахуй"
+

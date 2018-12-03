@@ -1,0 +1,53 @@
+17.11.2017 12:14:07: ClientSocketLookup
+17.11.2017 12:14:07: ClientSocketConnecting
+17.11.2017 12:14:07: ClientSocketConnect
+17.11.2017 12:14:07: ClientSocketWrite
+17.11.2017 12:14:09: Can't connect to MySQL server on '127.0.0.1' (10061)
+17.11.2017 12:14:11: except UpdateBansTable rec: 5 Out of range value for column 'Duration' at row 1
+17.11.2017 12:14:11: except UpdateBansTable rec: 6 Out of range value for column 'Duration' at row 1
+17.11.2017 12:14:13: except UpdateBansTable rec: 5 Out of range value for column 'Duration' at row 1
+17.11.2017 12:14:13: except UpdateBansTable rec: 6 Out of range value for column 'Duration' at row 1
+17.11.2017 12:14:19: except UpdateBansTable rec: 5 Out of range value for column 'Duration' at row 1
+17.11.2017 12:14:19: except UpdateBansTable rec: 6 Out of range value for column 'Duration' at row 1
+17.11.2017 12:14:21: except UpdateBansTable rec: 5 Out of range value for column 'Duration' at row 1
+17.11.2017 12:14:21: except UpdateBansTable rec: 6 Out of range value for column 'Duration' at row 1
+17.11.2017 12:14:39: except UpdateBansTable rec: 5 Out of range value for column 'Duration' at row 1
+17.11.2017 12:14:39: except UpdateBansTable rec: 6 Out of range value for column 'Duration' at row 1
+17.11.2017 12:14:40: except UpdateBansTable rec: 5 Out of range value for column 'Duration' at row 1
+17.11.2017 12:14:40: except UpdateBansTable rec: 6 Out of range value for column 'Duration' at row 1
+17.11.2017 12:14:59: except UpdateBansTable rec: 5 Out of range value for column 'Duration' at row 1
+17.11.2017 12:14:59: except UpdateBansTable rec: 6 Out of range value for column 'Duration' at row 1
+17.11.2017 12:15:00: except UpdateBansTable rec: 5 Out of range value for column 'Duration' at row 1
+17.11.2017 12:15:00: except UpdateBansTable rec: 6 Out of range value for column 'Duration' at row 1
+17.11.2017 12:15:19: except UpdateBansTable rec: 5 Out of range value for column 'Duration' at row 1
+17.11.2017 12:15:19: except UpdateBansTable rec: 6 Out of range value for column 'Duration' at row 1
+17.11.2017 12:15:21: except UpdateBansTable rec: 5 Out of range value for column 'Duration' at row 1
+17.11.2017 12:15:21: except UpdateBansTable rec: 6 Out of range value for column 'Duration' at row 1
+17.11.2017 12:15:39: except UpdateBansTable rec: 5 Out of range value for column 'Duration' at row 1
+17.11.2017 12:15:39: except UpdateBansTable rec: 6 Out of range value for column 'Duration' at row 1
+17.11.2017 12:15:40: except UpdateBansTable rec: 5 Out of range value for column 'Duration' at row 1
+17.11.2017 12:15:41: except UpdateBansTable rec: 6 Out of range value for column 'Duration' at row 1
+17.11.2017 12:15:59: except UpdateBansTable rec: 5 Out of range value for column 'Duration' at row 1
+17.11.2017 12:15:59: except UpdateBansTable rec: 6 Out of range value for column 'Duration' at row 1
+17.11.2017 12:16:01: except UpdateBansTable rec: 5 Out of range value for column 'Duration' at row 1
+17.11.2017 12:16:01: except UpdateBansTable rec: 6 Out of range value for column 'Duration' at row 1
+17.11.2017 12:16:19: except UpdateBansTable rec: 5 Out of range value for column 'Duration' at row 1
+17.11.2017 12:16:19: except UpdateBansTable rec: 6 Out of range value for column 'Duration' at row 1
+17.11.2017 12:16:20: except UpdateBansTable rec: 5 Out of range value for column 'Duration' at row 1
+17.11.2017 12:16:20: except UpdateBansTable rec: 6 Out of range value for column 'Duration' at row 1
+17.11.2017 12:16:39: except UpdateBansTable rec: 5 Out of range value for column 'Duration' at row 1
+17.11.2017 12:16:39: except UpdateBansTable rec: 6 Out of range value for column 'Duration' at row 1
+17.11.2017 12:16:41: except UpdateBansTable rec: 5 Out of range value for column 'Duration' at row 1
+17.11.2017 12:16:41: except UpdateBansTable rec: 6 Out of range value for column 'Duration' at row 1
+17.11.2017 12:16:59: except UpdateBansTable rec: 5 Out of range value for column 'Duration' at row 1
+17.11.2017 12:16:59: except UpdateBansTable rec: 6 Out of range value for column 'Duration' at row 1
+17.11.2017 12:17:01: except UpdateBansTable rec: 5 Out of range value for column 'Duration' at row 1
+17.11.2017 12:17:02: except UpdateBansTable rec: 6 Out of range value for column 'Duration' at row 1
+17.11.2017 12:17:19: except UpdateBansTable rec: 5 Out of range value for column 'Duration' at row 1
+17.11.2017 12:17:19: except UpdateBansTable rec: 6 Out of range value for column 'Duration' at row 1
+17.11.2017 12:17:21: except UpdateBansTable rec: 5 Out of range value for column 'Duration' at row 1
+17.11.2017 12:17:21: except UpdateBansTable rec: 6 Out of range value for column 'Duration' at row 1
+17.11.2017 12:17:39: except UpdateBansTable rec: 5 Out of range value for column 'Duration' at row 1
+17.11.2017 12:17:39: except UpdateBansTable rec: 6 Out of range value for column 'Duration' at row 1
+17.11.2017 12:17:40: except UpdateBansTable rec: 5 Out of range value for column 'Duration' at row 1
+17.11.2017 12:17:40: except UpdateBansTable rec: 6 Out of range value for column 'Duration' at row 1

@@ -1,0 +1,1046 @@
+Не обработано: RocketRcon v2.4.8.0
+RocketRcon v2.4.8.0
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198151655003 Name: HemulGM Character: HemulGM Ping: 17
+PlayerID: 76561198277046351 Name: Stemax Character: Stemax Ping: 77
+PlayerID: 76561198318420959 Name: MAJOR Character: MAJOR Ping: 68
+PlayerID: 76561198336822099 Name: #Strike »NumbeR ???« Character: EinzOulGaun Ping: 42
+PlayerID: 76561198094358885 Name: Bendecs Character: Bendecs Ping: 64
+PlayerID: 76561198393639621 Name: EgorDor Character: EgorDor Ping: 107
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294052943
+
+END with Bans:
+[World] EgorDor [EgorDor]: "/kit help"
+
+[World] Bendecs [Bendecs]: "/tpa Egordor"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198151655003 Name: HemulGM Character: HemulGM Ping: 22
+PlayerID: 76561198277046351 Name: Stemax Character: Stemax Ping: 91
+PlayerID: 76561198318420959 Name: MAJOR Character: MAJOR Ping: 74
+PlayerID: 76561198336822099 Name: #Strike »NumbeR ???« Character: EinzOulGaun Ping: 42
+PlayerID: 76561198094358885 Name: Bendecs Character: Bendecs Ping: 55
+PlayerID: 76561198393639621 Name: EgorDor Character: EgorDor Ping: 124
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294052923
+
+END with Bans:
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198151655003 Name: HemulGM Character: HemulGM Ping: 17
+PlayerID: 76561198277046351 Name: Stemax Character: Stemax Ping: 95
+PlayerID: 76561198318420959 Name: MAJOR Character: MAJOR Ping: 74
+PlayerID: 76561198336822099 Name: #Strike »NumbeR ???« Character: EinzOulGaun Ping: 38
+PlayerID: 76561198094358885 Name: Bendecs Character: Bendecs Ping: 57
+PlayerID: 76561198393639621 Name: EgorDor Character: EgorDor Ping: 146
+
+TimerTerminateCommand.Enabled with Players:
+[World] EgorDor [EgorDor]: "/tpa accept"
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294052901
+
+END with Bans:
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198151655003 Name: HemulGM Character: HemulGM Ping: 12
+PlayerID: 76561198277046351 Name: Stemax Character: Stemax Ping: 79
+PlayerID: 76561198318420959 Name: MAJOR Character: MAJOR Ping: 67
+PlayerID: 76561198336822099 Name: #Strike »NumbeR ???« Character: EinzOulGaun Ping: 44
+PlayerID: 76561198094358885 Name: Bendecs Character: Bendecs Ping: 54
+PlayerID: 76561198393639621 Name: EgorDor Character: EgorDor Ping: 109
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294052883
+
+END with Bans:
+Не обработано: MessageAnnouncer >> Broadcast: vk.com/unturned_hgm - цены на премиум, VIP и другие услуги смотрите в группе!
+MessageAnnouncer >> Broadcast: vk.com/unturned_hgm - цены на премиум, VIP и другие услуги смотрите в группе!
+
+Не обработано: MessageAnnouncer >> vk.com/unturned_hgm - цены на премиум, VIP и другие услуги смотрите в группе!
+MessageAnnouncer >> vk.com/unturned_hgm - цены на премиум, VIP и другие услуги смотрите в группе!
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198151655003 Name: HemulGM Character: HemulGM Ping: 19
+PlayerID: 76561198277046351 Name: Stemax Character: Stemax Ping: 83
+PlayerID: 76561198318420959 Name: MAJOR Character: MAJOR Ping: 70
+PlayerID: 76561198336822099 Name: #Strike »NumbeR ???« Character: EinzOulGaun Ping: 47
+PlayerID: 76561198094358885 Name: Bendecs Character: Bendecs Ping: 67
+PlayerID: 76561198393639621 Name: EgorDor Character: EgorDor Ping: 118
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294052863
+
+Не обработано: DeathMessagesRemastered >> Broadcast: Stemax сгорел!
+TimerTerminateCommand.Enabled with Bans:
+DeathMessagesRemastered >> Broadcast: Stemax сгорел!
+
+Не обработано: DropManager >> 3
+Не обработано: Stemax [Stemax] was burned by a zombie!
+Не обработано: NullReferenceException - SDG.Unturned.UseableMelee.fire ()
+Не обработано: SDG.Unturned.UseableMelee.simulate (UInt32 simulation, Boolean inputSteady)
+Не обработано: SDG.Unturned.PlayerEquipment.simulate (UInt32 simulation, Boolean inputPrimary, Boolean inputSecondary, Boolean inputSteady)
+Не обработано: SDG.Unturned.PlayerInput.FixedUpdate ()
+TimerTerminateCommand.Enabled with Bans:
+DropManager >> 3
+Stemax [Stemax] was burned by a zombie!
+NullReferenceException - SDG.Unturned.UseableMelee.fire ()
+SDG.Unturned.UseableMelee.simulate (UInt32 simulation, Boolean inputSteady)
+SDG.Unturned.PlayerEquipment.simulate (UInt32 simulation, Boolean inputPrimary, Boolean inputSecondary, Boolean inputSteady)
+SDG.Unturned.PlayerInput.FixedUpdate ()
+
+END with Bans:
+[World] Stemax [Stemax]: "tpa major"
+
+[World] Stemax [Stemax]: "/tpa major"
+
+[World] MAJOR [MAJOR]: "/tpa a"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198151655003 Name: HemulGM Character: HemulGM Ping: 22
+PlayerID: 76561198277046351 Name: Stemax Character: Stemax Ping: 83
+PlayerID: 76561198318420959 Name: MAJOR Character: MAJOR Ping: 67
+PlayerID: 76561198336822099 Name: #Strike »NumbeR ???« Character: EinzOulGaun Ping: 48
+PlayerID: 76561198094358885 Name: Bendecs Character: Bendecs Ping: 53
+PlayerID: 76561198393639621 Name: EgorDor Character: EgorDor Ping: 109
+
+Не обработано: Stemax moved x:-842.1042 y:82.42748(+24.65822) z:281.0569 in the last second (0.1101303)
+TimerTerminateCommand.Enabled with Players:
+Stemax moved x:-842.1042 y:82.42748(+24.65822) z:281.0569 in the last second (0.1101303)
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294052843
+
+END with Bans:
+Не обработано: DeathMessagesRemastered >> Broadcast: EinzOulGaun истёк кровью!
+DeathMessagesRemastered >> Broadcast: EinzOulGaun истёк кровью!
+
+Не обработано: DropManager >> 3
+Не обработано: EinzOulGaun [#Strike »NumbeR ???«] bled to death!
+DropManager >> 3
+EinzOulGaun [#Strike »NumbeR ???«] bled to death!
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198151655003 Name: HemulGM Character: HemulGM Ping: 14
+PlayerID: 76561198277046351 Name: Stemax Character: Stemax Ping: 73
+PlayerID: 76561198318420959 Name: MAJOR Character: MAJOR Ping: 62
+PlayerID: 76561198336822099 Name: #Strike »NumbeR ???« Character: EinzOulGaun Ping: 46
+PlayerID: 76561198094358885 Name: Bendecs Character: Bendecs Ping: 63
+PlayerID: 76561198393639621 Name: EgorDor Character: EgorDor Ping: 115
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294052823
+
+END with Bans:
+[Area] EinzOulGaun [#Strike »NumbeR ???«]: "/kit start"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198151655003 Name: HemulGM Character: HemulGM Ping: 18
+PlayerID: 76561198277046351 Name: Stemax Character: Stemax Ping: 82
+PlayerID: 76561198318420959 Name: MAJOR Character: MAJOR Ping: 71
+PlayerID: 76561198336822099 Name: #Strike »NumbeR ???« Character: EinzOulGaun Ping: 46
+PlayerID: 76561198094358885 Name: Bendecs Character: Bendecs Ping: 48
+PlayerID: 76561198393639621 Name: EgorDor Character: EgorDor Ping: 110
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294052803
+
+END with Bans:
+Не обработано: Saving server
+Saving server
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198151655003 Name: HemulGM Character: HemulGM Ping: 15
+PlayerID: 76561198277046351 Name: Stemax Character: Stemax Ping: 87
+PlayerID: 76561198318420959 Name: MAJOR Character: MAJOR Ping: 62
+PlayerID: 76561198336822099 Name: #Strike »NumbeR ???« Character: EinzOulGaun Ping: 46
+PlayerID: 76561198094358885 Name: Bendecs Character: Bendecs Ping: 61
+PlayerID: 76561198393639621 Name: EgorDor Character: EgorDor Ping: 119
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294052783
+
+END with Bans:
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198151655003 Name: HemulGM Character: HemulGM Ping: 12
+PlayerID: 76561198277046351 Name: Stemax Character: Stemax Ping: 76
+PlayerID: 76561198318420959 Name: MAJOR Character: MAJOR Ping: 69
+PlayerID: 76561198336822099 Name: #Strike »NumbeR ???« Character: EinzOulGaun Ping: 45
+PlayerID: 76561198094358885 Name: Bendecs Character: Bendecs Ping: 63
+
+TimerTerminateCommand.Enabled with Players:
+PlayerID: 76561198393639621 Name: EgorDor Character: EgorDor Ping: 100
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294052763
+
+END with Bans:
+Не обработано: MessageAnnouncer >> Broadcast: Наберите /kit claim, чтобы получить Claim Flag
+MessageAnnouncer >> Broadcast: Наберите /kit claim, чтобы получить Claim Flag
+
+Не обработано: MessageAnnouncer >> Наберите /kit claim, чтобы получить Claim Flag
+MessageAnnouncer >> Наберите /kit claim, чтобы получить Claim Flag
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198151655003 Name: HemulGM Character: HemulGM Ping: 25
+PlayerID: 76561198277046351 Name: Stemax Character: Stemax Ping: 94
+PlayerID: 76561198318420959 Name: MAJOR Character: MAJOR Ping: 77
+PlayerID: 76561198336822099 Name: #Strike »NumbeR ???« Character: EinzOulGaun Ping: 45
+PlayerID: 76561198094358885 Name: Bendecs Character: Bendecs Ping: 64
+PlayerID: 76561198393639621 Name: EgorDor Character: EgorDor Ping: 107
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294052743
+
+END with Bans:
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198151655003 Name: HemulGM Character: HemulGM Ping: 34
+PlayerID: 76561198277046351 Name: Stemax Character: Stemax Ping: 80
+PlayerID: 76561198318420959 Name: MAJOR Character: MAJOR Ping: 74
+PlayerID: 76561198336822099 Name: #Strike »NumbeR ???« Character: EinzOulGaun Ping: 52
+PlayerID: 76561198094358885 Name: Bendecs Character: Bendecs Ping: 60
+PlayerID: 76561198393639621 Name: EgorDor Character: EgorDor Ping: 115
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294052723
+
+TimerTerminateCommand.Enabled with Bans:
+[Area] EinzOulGaun [#Strike »NumbeR ???«]: "/kit claim"
+
+END with Bans:
+Disconnecting: PlayerID: 76561198318420959 Name: MAJOR Character: MAJOR
+
+Disconnecting: PlayerID: 76561198277046351 Name: Stemax Character: Stemax
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198151655003 Name: HemulGM Character: HemulGM Ping: 19
+PlayerID: 76561198336822099 Name: #Strike »NumbeR ???« Character: EinzOulGaun Ping: 45
+PlayerID: 76561198094358885 Name: Bendecs Character: Bendecs Ping: 57
+PlayerID: 76561198393639621 Name: EgorDor Character: EgorDor Ping: 107
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294052703
+
+TimerTerminateCommand.Enabled with Bans:
+Connecting: PlayerID: 76561198312765417 Name: Penguin Thief Character: БУСТЕР
+
+END with Bans:
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198151655003 Name: HemulGM Character: HemulGM Ping: 14
+PlayerID: 76561198336822099 Name: #Strike »NumbeR ???« Character: EinzOulGaun Ping: 44
+PlayerID: 76561198094358885 Name: Bendecs Character: Bendecs Ping: 61
+PlayerID: 76561198393639621 Name: EgorDor Character: EgorDor Ping: 111
+PlayerID: 76561198312765417 Name: Penguin Thief Character: БУСТЕР Ping: 86
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294052683
+
+END with Bans:
+[World] БУСТЕР [Penguin Thief]: "/kit"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198151655003 Name: HemulGM Character: HemulGM Ping: 16
+PlayerID: 76561198336822099 Name: #Strike »NumbeR ???« Character: EinzOulGaun Ping: 46
+PlayerID: 76561198094358885 Name: Bendecs Character: Bendecs Ping: 62
+PlayerID: 76561198393639621 Name: EgorDor Character: EgorDor Ping: 113
+PlayerID: 76561198312765417 Name: Penguin Thief Character: БУСТЕР Ping: 74
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294052663
+
+TimerTerminateCommand.Enabled with Bans:
+[World] БУСТЕР [Penguin Thief]: "/kit start"
+
+END with Bans:
+Вызван массовый Airdrop (x10)
+Client has executed command "airdrop"
+Successfully set airdrop!
+
+Client has executed command "airdrop"
+
+Successfully set airdrop!
+
+Client has executed command "airdrop"
+Successfully set airdrop!
+
+Client has executed command "airdrop"
+
+Successfully set airdrop!
+
+Client has executed command "airdrop"
+
+Successfully set airdrop!
+
+Client has executed command "airdrop"
+
+Successfully set airdrop!
+
+Client has executed command "airdrop"
+Successfully set airdrop!
+
+Client has executed command "airdrop"
+
+Successfully set airdrop!
+
+Client has executed command "airdrop"
+
+Successfully set airdrop!
+
+Client has executed command "airdrop"
+Successfully set airdrop!
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198151655003 Name: HemulGM Character: HemulGM Ping: 20
+PlayerID: 76561198336822099 Name: #Strike »NumbeR ???« Character: EinzOulGaun Ping: 45
+PlayerID: 76561198094358885 Name: Bendecs Character: Bendecs Ping: 68
+PlayerID: 76561198393639621 Name: EgorDor Character: EgorDor Ping: 112
+PlayerID: 76561198312765417 Name: Penguin Thief Character: БУСТЕР Ping: 75
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294052643
+
+END with Bans:
+Не обработано: MessageAnnouncer >> Broadcast: Если модератор ведёт себя неподобающе, пишите в группу или ЛС (vk.com/unturned_hgm, vk.com/hemulgm)
+MessageAnnouncer >> Broadcast: Если модератор ведёт себя неподобающе, пишите в группу или ЛС (vk.com/unturned_hgm, vk.com/hemulgm)
+
+Не обработано: MessageAnnouncer >> Если модератор ведёт себя неподобающе, пишите в группу или ЛС (vk.com/unturned_hgm, vk.com/hemulgm)
+MessageAnnouncer >> Если модератор ведёт себя неподобающе, пишите в группу или ЛС (vk.com/unturned_hgm, vk.com/hemulgm)
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198151655003 Name: HemulGM Character: HemulGM Ping: 19
+PlayerID: 76561198336822099 Name: #Strike »NumbeR ???« Character: EinzOulGaun Ping: 43
+PlayerID: 76561198094358885 Name: Bendecs Character: Bendecs Ping: 66
+PlayerID: 76561198393639621 Name: EgorDor Character: EgorDor Ping: 163
+PlayerID: 76561198312765417 Name: Penguin Thief Character: БУСТЕР Ping: 71
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294052623
+
+END with Bans:
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198151655003 Name: HemulGM Character: HemulGM Ping: 35
+PlayerID: 76561198336822099 Name: #Strike »NumbeR ???« Character: EinzOulGaun Ping: 53
+PlayerID: 76561198094358885 Name: Bendecs Character: Bendecs Ping: 59
+PlayerID: 76561198393639621 Name: EgorDor Character: EgorDor Ping: 109
+PlayerID: 76561198312765417 Name: Penguin Thief Character: БУСТЕР Ping: 95
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294052603
+
+END with Bans:
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198151655003 Name: HemulGM Character: HemulGM Ping: 19
+PlayerID: 76561198336822099 Name: #Strike »NumbeR ???« Character: EinzOulGaun Ping: 43
+PlayerID: 76561198094358885 Name: Bendecs Character: Bendecs Ping: 56
+PlayerID: 76561198393639621 Name: EgorDor Character: EgorDor Ping: 119
+PlayerID: 76561198312765417 Name: Penguin Thief Character: БУСТЕР Ping: 77
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294052583
+
+END with Bans:
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198151655003 Name: HemulGM Character: HemulGM Ping: 22
+PlayerID: 76561198336822099 Name: #Strike »NumbeR ???« Character: EinzOulGaun Ping: 44
+PlayerID: 76561198094358885 Name: Bendecs Character: Bendecs Ping: 66
+PlayerID: 76561198393639621 Name: EgorDor Character: EgorDor Ping: 118
+PlayerID: 76561198312765417 Name: Penguin Thief Character: БУСТЕР Ping: 77
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294052563
+
+END with Bans:
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198151655003 Name: HemulGM Character: HemulGM Ping: 12
+PlayerID: 76561198336822099 Name: #Strike »NumbeR ???« Character: EinzOulGaun Ping: 43
+PlayerID: 76561198094358885 Name: Bendecs Character: Bendecs Ping: 56
+PlayerID: 76561198393639621 Name: EgorDor Character: EgorDor Ping: 119
+PlayerID: 76561198312765417 Name: Penguin Thief Character: БУСТЕР Ping: 100
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294052543
+
+END with Bans:
+[World] БУСТЕР [Penguin Thief]: "lol"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198151655003 Name: HemulGM Character: HemulGM Ping: 20
+PlayerID: 76561198336822099 Name: #Strike »NumbeR ???« Character: EinzOulGaun Ping: 41
+PlayerID: 76561198094358885 Name: Bendecs Character: Bendecs Ping: 52
+PlayerID: 76561198393639621 Name: EgorDor Character: EgorDor Ping: 114
+PlayerID: 76561198312765417 Name: Penguin Thief Character: БУСТЕР Ping: 101
+
+TimerTerminateCommand.Enabled with Players:
+[Area] EinzOulGaun [#Strike »NumbeR ???«]: "мля ночю нифига не видно"
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294052522
+
+END with Bans:
+Не обработано: MessageAnnouncer >> Broadcast: vk.com/hemulgm - ЕДИНСТВЕННЫЙ администратор сервера
+MessageAnnouncer >> Broadcast: vk.com/hemulgm - ЕДИНСТВЕННЫЙ администратор сервера
+
+Не обработано: MessageAnnouncer >> vk.com/hemulgm - ЕДИНСТВЕННЫЙ администратор сервера
+MessageAnnouncer >> vk.com/hemulgm - ЕДИНСТВЕННЫЙ администратор сервера
+
+[Area] EinzOulGaun [#Strike »NumbeR ???«]: "кто мне поможет?"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198151655003 Name: HemulGM Character: HemulGM Ping: 20
+PlayerID: 76561198336822099 Name: #Strike »NumbeR ???« Character: EinzOulGaun Ping: 41
+PlayerID: 76561198094358885 Name: Bendecs Character: Bendecs Ping: 52
+PlayerID: 76561198393639621 Name: EgorDor Character: EgorDor Ping: 114
+PlayerID: 76561198312765417 Name: Penguin Thief Character: БУСТЕР Ping: 107
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294052503
+
+END with Bans:
+[World] HemulGM [HemulGM]: "Че"
+
+Не обработано: EinzOulGaun [#Strike »NumbeR ???«] is calling a vote to kick Bendecs [Bendecs]
+EinzOulGaun [#Strike »NumbeR ???«] is calling a vote to kick Bendecs [Bendecs]
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198151655003 Name: HemulGM Character: HemulGM Ping: 22
+PlayerID: 76561198336822099 Name: #Strike »NumbeR ???« Character: EinzOulGaun Ping: 45
+PlayerID: 76561198094358885 Name: Bendecs Character: Bendecs Ping: 54
+PlayerID: 76561198393639621 Name: EgorDor Character: EgorDor Ping: 127
+PlayerID: 76561198312765417 Name: Penguin Thief Character: БУСТЕР Ping: 72
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294052483
+
+END with Bans:
+Не обработано: Vote failed!
+Vote failed!
+
+Connecting: PlayerID: 76561198364637089 Name: sin_orange_ Character: sin_orange_
+
+Connecting: PlayerID: 76561198278360341 Name: AcademeG Character: AcademeG
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198151655003 Name: HemulGM Character: HemulGM Ping: 19
+PlayerID: 76561198336822099 Name: #Strike »NumbeR ???« Character: EinzOulGaun Ping: 43
+PlayerID: 76561198094358885 Name: Bendecs Character: Bendecs Ping: 63
+PlayerID: 76561198393639621 Name: EgorDor Character: EgorDor Ping: 110
+PlayerID: 76561198312765417 Name: Penguin Thief Character: БУСТЕР Ping: 82
+PlayerID: 76561198364637089 Name: sin_orange_ Character: sin_orange_ Ping: 0
+PlayerID: 76561198278360341 Name: AcademeG Character: AcademeG Ping: 45
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294052463
+
+END with Bans:
+[Area] EinzOulGaun [#Strike »NumbeR ???«]: "помогите я ослеп!!!!"
+
+Disconnecting: PlayerID: 76561198364637089 Name: sin_orange_ Character: sin_orange_
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198151655003 Name: HemulGM Character: HemulGM Ping: 106
+
+TimerTerminateCommand.Enabled with Players:
+PlayerID: 76561198336822099 Name: #Strike »NumbeR ???« Character: EinzOulGaun Ping: 47
+PlayerID: 76561198094358885 Name: Bendecs Character: Bendecs Ping: 55
+PlayerID: 76561198393639621 Name: EgorDor Character: EgorDor Ping: 139
+PlayerID: 76561198312765417 Name: Penguin Thief Character: БУСТЕР Ping: 86
+PlayerID: 76561198278360341 Name: AcademeG Character: AcademeG Ping: 86
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294052443
+
+END with Bans:
+[Area] EinzOulGaun [#Strike »NumbeR ???«]: "@day"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198151655003 Name: HemulGM Character: HemulGM Ping: 22
+PlayerID: 76561198336822099 Name: #Strike »NumbeR ???« Character: EinzOulGaun Ping: 45
+PlayerID: 76561198094358885 Name: Bendecs Character: Bendecs Ping: 61
+PlayerID: 76561198393639621 Name: EgorDor Character: EgorDor Ping: 136
+PlayerID: 76561198312765417 Name: Penguin Thief Character: БУСТЕР Ping: 73
+PlayerID: 76561198278360341 Name: AcademeG Character: AcademeG Ping: 82
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294052423
+
+END with Bans:
+[World] EinzOulGaun [#Strike »NumbeR ???«]: "помогите я ослеп!!!((( нечё не вижу"
+
+[World] AcademeG [AcademeG]: "Хемуль ГМ ты Одмен?"
+
+[World] HemulGM [HemulGM]: "Да"
+
+[World] AcademeG [AcademeG]: "Мм"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198151655003 Name: HemulGM Character: HemulGM Ping: 25
+PlayerID: 76561198336822099 Name: #Strike »NumbeR ???« Character: EinzOulGaun Ping: 42
+PlayerID: 76561198094358885 Name: Bendecs Character: Bendecs Ping: 66
+PlayerID: 76561198393639621 Name: EgorDor Character: EgorDor Ping: 116
+PlayerID: 76561198312765417 Name: Penguin Thief Character: БУСТЕР Ping: 69
+PlayerID: 76561198278360341 Name: AcademeG Character: AcademeG Ping: 78
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294052403
+
+END with Bans:
+Не обработано: MessageAnnouncer >> Broadcast: Используйте /report [ник], чтобы отправить жалобу на игрока
+MessageAnnouncer >> Broadcast: Используйте /report [ник], чтобы отправить жалобу на игрока
+
+Не обработано: MessageAnnouncer >> Используйте /report [ник], чтобы отправить жалобу на игрока
+MessageAnnouncer >> Используйте /report [ник], чтобы отправить жалобу на игрока
+
+[World] AcademeG [AcademeG]: "До сколько будет ПВП?"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198151655003 Name: HemulGM Character: HemulGM Ping: 20
+PlayerID: 76561198336822099 Name: #Strike »NumbeR ???« Character: EinzOulGaun Ping: 46
+PlayerID: 76561198094358885 Name: Bendecs Character: Bendecs Ping: 59
+PlayerID: 76561198393639621 Name: EgorDor Character: EgorDor Ping: 165
+PlayerID: 76561198312765417 Name: Penguin Thief Character: БУСТЕР Ping: 66
+PlayerID: 76561198278360341 Name: AcademeG Character: AcademeG Ping: 85
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294052383
+
+TimerTerminateCommand.Enabled with Bans:
+[World] HemulGM [HemulGM]: "Да 00.00 по ЕКБ"
+
+TimerTerminateCommand.Enabled with Bans:
+[World] EinzOulGaun [#Strike »NumbeR ???«]: "сделай день админ пойжалуста!!"
+
+END with Bans:
+[World] HemulGM [HemulGM]: "Нет"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198151655003 Name: HemulGM Character: HemulGM Ping: 18
+PlayerID: 76561198336822099 Name: #Strike »NumbeR ???« Character: EinzOulGaun Ping: 43
+PlayerID: 76561198094358885 Name: Bendecs Character: Bendecs Ping: 59
+PlayerID: 76561198393639621 Name: EgorDor Character: EgorDor Ping: 102
+PlayerID: 76561198312765417 Name: Penguin Thief Character: БУСТЕР Ping: 72
+PlayerID: 76561198278360341 Name: AcademeG Character: AcademeG Ping: 80
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294052363
+
+TimerTerminateCommand.Enabled with Bans:
+[World] EinzOulGaun [#Strike »NumbeR ???«]: "(("
+
+TimerTerminateCommand.Enabled with Bans:
+[World] AcademeG [AcademeG]: "А по МСК это сколько? xD"
+
+END with Bans:
+[World] HemulGM [HemulGM]: "22.00"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198151655003 Name: HemulGM Character: HemulGM Ping: 19
+PlayerID: 76561198336822099 Name: #Strike »NumbeR ???« Character: EinzOulGaun Ping: 46
+PlayerID: 76561198094358885 Name: Bendecs Character: Bendecs Ping: 66
+PlayerID: 76561198393639621 Name: EgorDor Character: EgorDor Ping: 112
+PlayerID: 76561198312765417 Name: Penguin Thief Character: БУСТЕР Ping: 79
+PlayerID: 76561198278360341 Name: AcademeG Character: AcademeG Ping: 121
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294052343
+
+END with Bans:
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198151655003 Name: HemulGM Character: HemulGM Ping: 19
+PlayerID: 76561198336822099 Name: #Strike »NumbeR ???« Character: EinzOulGaun Ping: 43
+PlayerID: 76561198094358885 Name: Bendecs Character: Bendecs Ping: 65
+PlayerID: 76561198393639621 Name: EgorDor Character: EgorDor Ping: 111
+PlayerID: 76561198312765417 Name: Penguin Thief Character: БУСТЕР Ping: 167
+PlayerID: 76561198278360341 Name: AcademeG Character: AcademeG Ping: 83
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294052323
+
+TimerTerminateCommand.Enabled with Bans:
+[World] AcademeG [AcademeG]: "О, хоть так)"
+
+END with Bans:
+Disconnecting: PlayerID: 76561198336822099 Name: #Strike »NumbeR ???« Character: EinzOulGaun
+
+[World] AcademeG [AcademeG]: "Просто я в пвп"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198151655003 Name: HemulGM Character: HemulGM Ping: 29
+PlayerID: 76561198094358885 Name: Bendecs Character: Bendecs Ping: 63
+PlayerID: 76561198393639621 Name: EgorDor Character: EgorDor Ping: 103
+PlayerID: 76561198312765417 Name: Penguin Thief Character: БУСТЕР Ping: 72
+PlayerID: 76561198278360341 Name: AcademeG Character: AcademeG Ping: 77
+
+TimerTerminateCommand.Enabled with Players:
+[World] AcademeG [AcademeG]: "Ну вот знаешь когда ты пьян и пытаешься попасть в толчек?"
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294052301
+
+END with Bans:
+[World] AcademeG [AcademeG]: "Вот примерно так я стреляю"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198151655003 Name: HemulGM Character: HemulGM Ping: 17
+PlayerID: 76561198094358885 Name: Bendecs Character: Bendecs Ping: 128
+PlayerID: 76561198393639621 Name: EgorDor Character: EgorDor Ping: 106
+PlayerID: 76561198312765417 Name: Penguin Thief Character: БУСТЕР Ping: 78
+PlayerID: 76561198278360341 Name: AcademeG Character: AcademeG Ping: 103
+
+TimerTerminateCommand.Enabled with Players:
+Client has executed command "say "Da tut polovina takikh" 0 0 0"
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294052281
+
+END with Bans:
+Connecting: PlayerID: 76561198364637089 Name: sin_orange_ Character: sin_orange_
+
+Не обработано: MessageAnnouncer >> Broadcast: Наберите /rules (/r) для просмотра правил
+MessageAnnouncer >> Broadcast: Наберите /rules (/r) для просмотра правил
+
+Не обработано: MessageAnnouncer >> Наберите /rules (/r) для просмотра правил
+MessageAnnouncer >> Наберите /rules (/r) для просмотра правил
+
+[World] AcademeG [AcademeG]: "xD"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198151655003 Name: HemulGM Character: HemulGM Ping: 27
+PlayerID: 76561198094358885 Name: Bendecs Character: Bendecs Ping: 61
+PlayerID: 76561198393639621 Name: EgorDor Character: EgorDor Ping: 115
+PlayerID: 76561198312765417 Name: Penguin Thief Character: БУСТЕР Ping: 70
+PlayerID: 76561198278360341 Name: AcademeG Character: AcademeG Ping: 91
+PlayerID: 76561198364637089 Name: sin_orange_ Character: sin_orange_ Ping: 385
+
+TimerTerminateCommand.Enabled with Players:
+[World] AcademeG [AcademeG]: "Пиши лучше красным"
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294052262
+
+TimerTerminateCommand.Enabled with Bans:
+[World] AcademeG [AcademeG]: "А то не видно"
+
+END with Bans:
+Client has executed command "say "OK" 255 0 0"
+
+Не обработано: DeathMessagesRemastered >> Broadcast: БУСТЕР истёк кровью!
+Не обработано: DropManager >> 3
+Не обработано: БУСТЕР [Penguin Thief] bled to death!
+DeathMessagesRemastered >> Broadcast: БУСТЕР истёк кровью!
+DropManager >> 3
+БУСТЕР [Penguin Thief] bled to death!
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198151655003 Name: HemulGM Character: HemulGM Ping: 19
+PlayerID: 76561198094358885 Name: Bendecs Character: Bendecs Ping: 57
+PlayerID: 76561198393639621 Name: EgorDor Character: EgorDor Ping: 109
+PlayerID: 76561198312765417 Name: Penguin Thief Character: БУСТЕР Ping: 73
+PlayerID: 76561198278360341 Name: AcademeG Character: AcademeG Ping: 104
+PlayerID: 76561198364637089 Name: sin_orange_ Character: sin_orange_ Ping: 390
+
+Не обработано: БУСТЕР moved x:-720.9009 y:59.51276(+20.84042) z:150.1289 in the last second (1.003479)
+TimerTerminateCommand.Enabled with Players:
+БУСТЕР moved x:-720.9009 y:59.51276(+20.84042) z:150.1289 in the last second (1.003479)
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294052242
+
+END with Bans:
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198151655003 Name: HemulGM Character: HemulGM Ping: 32
+PlayerID: 76561198094358885 Name: Bendecs Character: Bendecs Ping: 55
+PlayerID: 76561198393639621 Name: EgorDor Character: EgorDor Ping: 111
+PlayerID: 76561198312765417 Name: Penguin Thief Character: БУСТЕР Ping: 67
+PlayerID: 76561198278360341 Name: AcademeG Character: AcademeG Ping: 96
+PlayerID: 76561198364637089 Name: sin_orange_ Character: sin_orange_ Ping: 381
+
+TimerTerminateCommand.Enabled with Players:
+[World] БУСТЕР [Penguin Thief]: "/kit start"
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294052221
+
+END with Bans:
+Client has executed command "say "A tak?" 192 192 192"
+
+[World] AcademeG [AcademeG]: "Красным лучше)"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198151655003 Name: HemulGM Character: HemulGM Ping: 29
+PlayerID: 76561198094358885 Name: Bendecs Character: Bendecs Ping: 55
+PlayerID: 76561198393639621 Name: EgorDor Character: EgorDor Ping: 124
+PlayerID: 76561198312765417 Name: Penguin Thief Character: БУСТЕР Ping: 76
+PlayerID: 76561198278360341 Name: AcademeG Character: AcademeG Ping: 101
+PlayerID: 76561198364637089 Name: sin_orange_ Character: sin_orange_ Ping: 383
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294052203
+
+END with Bans:
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198151655003 Name: HemulGM Character: HemulGM Ping: 24
+PlayerID: 76561198094358885 Name: Bendecs Character: Bendecs Ping: 56
+PlayerID: 76561198393639621 Name: EgorDor Character: EgorDor Ping: 124
+PlayerID: 76561198312765417 Name: Penguin Thief Character: БУСТЕР Ping: 69
+PlayerID: 76561198278360341 Name: AcademeG Character: AcademeG Ping: 89
+PlayerID: 76561198364637089 Name: sin_orange_ Character: sin_orange_ Ping: 377
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294052183
+
+END with Bans:
+Disconnecting: PlayerID: 76561198364637089 Name: sin_orange_ Character: sin_orange_
+

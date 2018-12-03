@@ -1,0 +1,27 @@
+01.11.2017 10:55:12: Не обработано: Парагон moved x:-699.4329 y:56.89758(+17.43102) z:-778.5538 in the last second (1)
+01.11.2017 11:01:52: Не обработано: SqlNullValueException: Data is Null. This method or property cannot be called on Null values. - MySql.Data.MySqlClient.MySqlDataReader.GetFieldValue (Int32 index, Boolean checkNull)
+01.11.2017 11:01:52: Не обработано: MySql.Data.MySqlClient.MySqlDataReader.GetString (Int32 i)
+01.11.2017 11:01:52: Не обработано: MySql.Data.MySqlClient.MySqlDataReader.GetString (System.String column)
+01.11.2017 11:01:52: Не обработано: (wrapper remoting-invoke-with-check) MySql.Data.MySqlClient.MySqlDataReader:GetString (string)
+01.11.2017 11:01:52: Не обработано: PlayerInfoLibrary.DatabaseManager.PrecessExpiredPInfo ()
+01.11.2017 11:01:52: Не обработано: PlayerInfoLibrary.PlayerInfoLib.FixedUpdate ()
+01.11.2017 11:01:53: Сохранение сервера
+01.11.2017 11:05:06: EventProcEcho
+01.11.2017 11:06:36: Не обработано: Anarem телепортирован к Парагон
+01.11.2017 11:06:36: Не обработано: Anarem moved x:-701.7097 y:57.24506(+18.89198) z:-781.0416 in the last second (0.609314)
+01.11.2017 11:07:40: Не обработано: Anarem получил транспорт 123
+01.11.2017 11:10:42: Не обработано: Дал Anarem вещь 33334:1
+01.11.2017 11:14:41: Не обработано: Anarem получил транспорт 140
+01.11.2017 11:14:53: Не обработано: Anarem включен Godmode
+01.11.2017 11:15:06: EventProcEcho
+01.11.2017 11:16:12: Не обработано: Парагон был телепортирован к Anarem
+01.11.2017 11:16:13: Не обработано: Парагон moved x:-238.992 y:326.4303(+265.4921) z:-879.2026 in the last second (288.053)
+01.11.2017 11:18:30: Не обработано: NullReferenceException: Object reference not set to an instance of an object - SDG.Unturned.Zombie.tick ()
+01.11.2017 11:18:30: Не обработано: SDG.Unturned.ZombieManager.Update ()
+01.11.2017 11:18:30: Не обработано: NullReferenceException: Object reference not set to an instance of an object - SDG.Unturned.Zombie.tick ()
+01.11.2017 11:18:30: Не обработано: SDG.Unturned.ZombieManager.Update ()
+01.11.2017 11:18:30: Не обработано: nadya_gorycheva [nadya_gorycheva] was mauled by a zombie!
+01.11.2017 11:23:36: Не обработано: Anarem получил транспорт 93
+01.11.2017 11:24:51: Не обработано: Парагон moved x:-596.6389 y:92.69164(+54.21432) z:-194.821 in the last second (40.73217)
+01.11.2017 11:25:06: EventProcEcho
+01.11.2017 11:25:16: Не обработано: Anarem moved x:-563.697 y:55.03664(+16.25927) z:82.90152 in the last second (4.56044)

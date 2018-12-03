@@ -1,0 +1,2471 @@
+Не обработано: RocketRcon v2.4.8.0
+RocketRcon v2.4.8.0
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198151655003 Name: HemulGM Character: HemulGM Ping: 16
+PlayerID: 76561198280617288 Name: Незнаю какой придумать Character: Пипр Ping: 90
+PlayerID: 76561198218503413 Name: Petia Character: Petia Ping: 81
+PlayerID: 76561198318420959 Name: MAJOR Character: MAJOR Ping: 79
+PlayerID: 76561198277046351 Name: Stemax Character: Stemax Ping: 88
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294055958
+
+END with Bans:
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198151655003 Name: HemulGM Character: HemulGM Ping: 19
+PlayerID: 76561198280617288 Name: Незнаю какой придумать Character: Пипр Ping: 48
+PlayerID: 76561198218503413 Name: Petia Character: Petia Ping: 94
+PlayerID: 76561198318420959 Name: MAJOR Character: MAJOR Ping: 72
+PlayerID: 76561198277046351 Name: Stemax Character: Stemax Ping: 83
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294055938
+
+END with Bans:
+Установлена/убрана пасмурная погода
+Client has executed command "storm"
+
+Successfully set storm!
+
+Не обработано: MessageAnnouncer >> Broadcast: vk.com/unturned_hgm - группа сервера ВК, уникальный кит в записи!
+MessageAnnouncer >> Broadcast: vk.com/unturned_hgm - группа сервера ВК, уникальный кит в записи!
+
+Не обработано: MessageAnnouncer >> vk.com/unturned_hgm - группа сервера ВК, уникальный кит в записи!
+MessageAnnouncer >> vk.com/unturned_hgm - группа сервера ВК, уникальный кит в записи!
+
+[World] Пипр [Незнаю какой придумать]: "/kit start"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198151655003 Name: HemulGM Character: HemulGM Ping: 16
+PlayerID: 76561198280617288 Name: Незнаю какой придумать Character: Пипр Ping: 62
+PlayerID: 76561198218503413 Name: Petia Character: Petia Ping: 81
+PlayerID: 76561198318420959 Name: MAJOR Character: MAJOR Ping: 64
+PlayerID: 76561198277046351 Name: Stemax Character: Stemax Ping: 97
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294055918
+
+END with Bans:
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198151655003 Name: HemulGM Character: HemulGM Ping: 14
+PlayerID: 76561198280617288 Name: Незнаю какой придумать Character: Пипр Ping: 62
+PlayerID: 76561198218503413 Name: Petia Character: Petia Ping: 76
+PlayerID: 76561198318420959 Name: MAJOR Character: MAJOR Ping: 72
+PlayerID: 76561198277046351 Name: Stemax Character: Stemax Ping: 72
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294055898
+
+END with Bans:
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198151655003 Name: HemulGM Character: HemulGM Ping: 10
+PlayerID: 76561198280617288 Name: Незнаю какой придумать Character: Пипр Ping: 73
+PlayerID: 76561198218503413 Name: Petia Character: Petia Ping: 95
+PlayerID: 76561198318420959 Name: MAJOR Character: MAJOR Ping: 67
+PlayerID: 76561198277046351 Name: Stemax Character: Stemax Ping: 81
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294055878
+
+END with Bans:
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198151655003 Name: HemulGM Character: HemulGM Ping: 15
+PlayerID: 76561198280617288 Name: Незнаю какой придумать Character: Пипр Ping: 56
+PlayerID: 76561198218503413 Name: Petia Character: Petia Ping: 121
+PlayerID: 76561198318420959 Name: MAJOR Character: MAJOR Ping: 72
+PlayerID: 76561198277046351 Name: Stemax Character: Stemax Ping: 89
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294055858
+
+END with Bans:
+Disconnecting: PlayerID: 76561198280617288 Name: Незнаю какой придумать Character: Пипр
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198151655003 Name: HemulGM Character: HemulGM Ping: 11
+PlayerID: 76561198218503413 Name: Petia Character: Petia Ping: 96
+PlayerID: 76561198318420959 Name: MAJOR Character: MAJOR Ping: 75
+PlayerID: 76561198277046351 Name: Stemax Character: Stemax Ping: 89
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294055838
+
+END with Bans:
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198151655003 Name: HemulGM Character: HemulGM Ping: 14
+PlayerID: 76561198218503413 Name: Petia Character: Petia Ping: 94
+PlayerID: 76561198318420959 Name: MAJOR Character: MAJOR Ping: 143
+PlayerID: 76561198277046351 Name: Stemax Character: Stemax Ping: 97
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294055818
+
+END with Bans:
+Не обработано: MessageAnnouncer >> Broadcast: Наберите /kit help, чтобы получить первую мед. помощь (бинты, таблетки, еда)
+MessageAnnouncer >> Broadcast: Наберите /kit help, чтобы получить первую мед. помощь (бинты, таблетки, еда)
+
+Не обработано: MessageAnnouncer >> Наберите /kit help, чтобы получить первую мед. помощь (бинты, таблетки, еда)
+MessageAnnouncer >> Наберите /kit help, чтобы получить первую мед. помощь (бинты, таблетки, еда)
+
+Connecting: PlayerID: 76561198262878051 Name: Kolder Character: Kolder
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198151655003 Name: HemulGM Character: HemulGM Ping: 13
+PlayerID: 76561198218503413 Name: Petia Character: Petia Ping: 105
+PlayerID: 76561198318420959 Name: MAJOR Character: MAJOR Ping: 70
+PlayerID: 76561198277046351 Name: Stemax Character: Stemax Ping: 80
+PlayerID: 76561198262878051 Name: Kolder Character: Kolder Ping: 279
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294055798
+
+END with Bans:
+[World] Kolder [Kolder]: "/tpa major"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198151655003 Name: HemulGM Character: HemulGM Ping: 20
+PlayerID: 76561198218503413 Name: Petia Character: Petia Ping: 80
+PlayerID: 76561198318420959 Name: MAJOR Character: MAJOR Ping: 168
+PlayerID: 76561198277046351 Name: Stemax Character: Stemax Ping: 91
+PlayerID: 76561198262878051 Name: Kolder Character: Kolder Ping: 52
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294055778
+
+END with Bans:
+[World] MAJOR [MAJOR]: "/tpa a"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198151655003 Name: HemulGM Character: HemulGM Ping: 27
+PlayerID: 76561198218503413 Name: Petia Character: Petia Ping: 95
+PlayerID: 76561198318420959 Name: MAJOR Character: MAJOR Ping: 76
+PlayerID: 76561198277046351 Name: Stemax Character: Stemax Ping: 94
+PlayerID: 76561198262878051 Name: Kolder Character: Kolder Ping: 185
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294055758
+
+END with Bans:
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198151655003 Name: HemulGM Character: HemulGM Ping: 19
+PlayerID: 76561198218503413 Name: Petia Character: Petia Ping: 95
+PlayerID: 76561198318420959 Name: MAJOR Character: MAJOR Ping: 61
+PlayerID: 76561198277046351 Name: Stemax Character: Stemax Ping: 74
+PlayerID: 76561198262878051 Name: Kolder Character: Kolder Ping: 53
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294055738
+
+END with Bans:
+Disconnecting: PlayerID: 76561198218503413 Name: Petia Character: Petia
+
+Не обработано: DeathMessagesRemastered >> Broadcast: Stemax has bled to death!
+DeathMessagesRemastered >> Broadcast: Stemax has bled to death!
+
+Не обработано: DropManager >> 3
+Не обработано: Stemax [Stemax] bled to death!
+DropManager >> 3
+Stemax [Stemax] bled to death!
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198151655003 Name: HemulGM Character: HemulGM Ping: 19
+PlayerID: 76561198318420959 Name: MAJOR Character: MAJOR Ping: 69
+PlayerID: 76561198277046351 Name: Stemax Character: Stemax Ping: 73
+PlayerID: 76561198262878051 Name: Kolder Character: Kolder Ping: 53
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294055718
+
+TimerTerminateCommand.Enabled with Bans:
+[World] Stemax [Stemax]: "/tpa major"
+
+END with Bans:
+[World] Kolder [Kolder]: "/kit start"
+
+[World] MAJOR [MAJOR]: "/tpa a"
+
+Не обработано: DeathMessagesRemastered >> Broadcast: MAJOR has bled to death!
+DeathMessagesRemastered >> Broadcast: MAJOR has bled to death!
+
+Не обработано: DropManager >> 3
+Не обработано: MAJOR [MAJOR] bled to death!
+DropManager >> 3
+MAJOR [MAJOR] bled to death!
+
+[World] Kolder [Kolder]: "/kit hgm1"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198151655003 Name: HemulGM Character: HemulGM Ping: 20
+PlayerID: 76561198318420959 Name: MAJOR Character: MAJOR Ping: 121
+PlayerID: 76561198277046351 Name: Stemax Character: Stemax Ping: 80
+PlayerID: 76561198262878051 Name: Kolder Character: Kolder Ping: 57
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294055698
+
+END with Bans:
+Не обработано: MessageAnnouncer >> Broadcast: vk.com/unturned_hgm - цены на премиум, VIP и другие услуги смотрите в группе!
+MessageAnnouncer >> Broadcast: vk.com/unturned_hgm - цены на премиум, VIP и другие услуги смотрите в группе!
+
+Не обработано: MessageAnnouncer >> vk.com/unturned_hgm - цены на премиум, VIP и другие услуги смотрите в группе!
+MessageAnnouncer >> vk.com/unturned_hgm - цены на премиум, VIP и другие услуги смотрите в группе!
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198151655003 Name: HemulGM Character: HemulGM Ping: 15
+PlayerID: 76561198318420959 Name: MAJOR Character: MAJOR Ping: 68
+PlayerID: 76561198277046351 Name: Stemax Character: Stemax Ping: 190
+PlayerID: 76561198262878051 Name: Kolder Character: Kolder Ping: 49
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294055678
+
+END with Bans:
+[World] Stemax [Stemax]: "/tpa major"
+
+[World] HemulGM [HemulGM]: "/moon"
+
+Не обработано: DeathMessagesRemastered >> Broadcast: Stemax was punched in the head by, Kolder, HP: 17%!
+DeathMessagesRemastered >> Broadcast: Stemax was punched in the head by, Kolder, HP: 17%!
+
+Не обработано: DropManager >> 3
+Не обработано: Stemax [Stemax] was punched in the head by Kolder [Kolder]!
+DropManager >> 3
+Stemax [Stemax] was punched in the head by Kolder [Kolder]!
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198151655003 Name: HemulGM Character: HemulGM Ping: 14
+PlayerID: 76561198318420959 Name: MAJOR Character: MAJOR Ping: 78
+PlayerID: 76561198277046351 Name: Stemax Character: Stemax Ping: 87
+PlayerID: 76561198262878051 Name: Kolder Character: Kolder Ping: 139
+
+TimerTerminateCommand.Enabled with Players:
+[World] MAJOR [MAJOR]: "/tpa a"
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294055657
+
+TimerTerminateCommand.Enabled with Bans:
+[World] MAJOR [MAJOR]: "/tpa a"
+
+END with Bans:
+[World] Stemax [Stemax]: "/tpa major"
+
+TimerTerminateCommand.Enabled with Players:
+Client has executed command "players"
+Players:
+PlayerID: 76561198151655003 Name: HemulGM Character: HemulGM Ping: 23
+PlayerID: 76561198318420959 Name: MAJOR Character: MAJOR Ping: 66
+PlayerID: 76561198277046351 Name: Stemax Character: Stemax Ping: 67
+PlayerID: 76561198262878051 Name: Kolder Character: Kolder Ping: 59
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294055638
+
+END with Bans:
+[World] Stemax [Stemax]: "/tpa major"
+
+[World] MAJOR [MAJOR]: "/tpa a"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198151655003 Name: HemulGM Character: HemulGM Ping: 26
+PlayerID: 76561198318420959 Name: MAJOR Character: MAJOR Ping: 69
+PlayerID: 76561198277046351 Name: Stemax Character: Stemax Ping: 85
+PlayerID: 76561198262878051 Name: Kolder Character: Kolder Ping: 170
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294055618
+
+END with Bans:
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198151655003 Name: HemulGM Character: HemulGM Ping: 26
+PlayerID: 76561198318420959 Name: MAJOR Character: MAJOR Ping: 70
+PlayerID: 76561198277046351 Name: Stemax Character: Stemax Ping: 72
+PlayerID: 76561198262878051 Name: Kolder Character: Kolder Ping: 52
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294055598
+
+END with Bans:
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198151655003 Name: HemulGM Character: HemulGM Ping: 23
+PlayerID: 76561198318420959 Name: MAJOR Character: MAJOR Ping: 67
+PlayerID: 76561198277046351 Name: Stemax Character: Stemax Ping: 65
+PlayerID: 76561198262878051 Name: Kolder Character: Kolder Ping: 49
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294055578
+
+Не обработано: MessageAnnouncer >> Broadcast: Наберите /kit claim, чтобы получить Claim Flag
+Не обработано: MessageAnnouncer >> Наберите /kit claim, чтобы получить Claim Flag
+TimerTerminateCommand.Enabled with Bans:
+MessageAnnouncer >> Broadcast: Наберите /kit claim, чтобы получить Claim Flag
+MessageAnnouncer >> Наберите /kit claim, чтобы получить Claim Flag
+
+END with Bans:
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198151655003 Name: HemulGM Character: HemulGM Ping: 13
+PlayerID: 76561198318420959 Name: MAJOR Character: MAJOR Ping: 73
+PlayerID: 76561198277046351 Name: Stemax Character: Stemax Ping: 80
+PlayerID: 76561198262878051 Name: Kolder Character: Kolder Ping: 58
+
+Не обработано: DeathMessagesRemastered >> Broadcast: Stemax was killed by fire!
+TimerTerminateCommand.Enabled with Players:
+DeathMessagesRemastered >> Broadcast: Stemax was killed by fire!
+
+Не обработано: DropManager >> 3
+Не обработано: Stemax [Stemax] was burned by a zombie!
+Не обработано: NullReferenceException - SDG.Unturned.UseableMelee.fire ()
+Не обработано: SDG.Unturned.UseableMelee.simulate (UInt32 simulation, Boolean inputSteady)
+Не обработано: SDG.Unturned.PlayerEquipment.simulate (UInt32 simulation, Boolean inputPrimary, Boolean inputSecondary, Boolean inputSteady)
+Не обработано: SDG.Unturned.PlayerInput.FixedUpdate ()
+TimerTerminateCommand.Enabled with Players:
+DropManager >> 3
+Stemax [Stemax] was burned by a zombie!
+NullReferenceException - SDG.Unturned.UseableMelee.fire ()
+SDG.Unturned.UseableMelee.simulate (UInt32 simulation, Boolean inputSteady)
+SDG.Unturned.PlayerEquipment.simulate (UInt32 simulation, Boolean inputPrimary, Boolean inputSecondary, Boolean inputSteady)
+SDG.Unturned.PlayerInput.FixedUpdate ()
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294055557
+
+END with Bans:
+[World] Stemax [Stemax]: "/tpa major"
+
+[World] Kolder [Kolder]: "/tpa major"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198151655003 Name: HemulGM Character: HemulGM Ping: 11
+PlayerID: 76561198318420959 Name: MAJOR Character: MAJOR Ping: 64
+PlayerID: 76561198277046351 Name: Stemax Character: Stemax Ping: 67
+PlayerID: 76561198262878051 Name: Kolder Character: Kolder Ping: 51
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294055538
+
+END with Bans:
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198151655003 Name: HemulGM Character: HemulGM Ping: 18
+PlayerID: 76561198318420959 Name: MAJOR Character: MAJOR Ping: 74
+PlayerID: 76561198277046351 Name: Stemax Character: Stemax Ping: 67
+PlayerID: 76561198262878051 Name: Kolder Character: Kolder Ping: 55
+
+Не обработано: DeathMessagesRemastered >> Broadcast: Stemax has been mauled by a zombie! 
+TimerTerminateCommand.Enabled with Players:
+DeathMessagesRemastered >> Broadcast: Stemax has been mauled by a zombie! 
+
+Не обработано: DropManager >> 3
+Не обработано: Stemax [Stemax] was mauled by a zombie!
+TimerTerminateCommand.Enabled with Players:
+DropManager >> 3
+Stemax [Stemax] was mauled by a zombie!
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294055516
+
+END with Bans:
+Connecting: PlayerID: 76561198354953801 Name: торвей Character: торвей
+
+[World] Stemax [Stemax]: "/tpa major"
+
+[World] MAJOR [MAJOR]: "/tpa a"
+
+Не обработано: Stemax moved x:-947.5204 y:50.25079(+18.99732) z:-157.9325 in the last second (0.0560379)
+Stemax moved x:-947.5204 y:50.25079(+18.99732) z:-157.9325 in the last second (0.0560379)
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198151655003 Name: HemulGM Character: HemulGM Ping: 11
+PlayerID: 76561198318420959 Name: MAJOR Character: MAJOR Ping: 66
+PlayerID: 76561198277046351 Name: Stemax Character: Stemax Ping: 81
+PlayerID: 76561198262878051 Name: Kolder Character: Kolder Ping: 55
+PlayerID: 76561198354953801 Name: торвей Character: торвей Ping: 75
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294055498
+
+END with Bans:
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198151655003 Name: HemulGM Character: HemulGM Ping: 14
+PlayerID: 76561198318420959 Name: MAJOR Character: MAJOR Ping: 68
+PlayerID: 76561198277046351 Name: Stemax Character: Stemax Ping: 77
+PlayerID: 76561198262878051 Name: Kolder Character: Kolder Ping: 60
+PlayerID: 76561198354953801 Name: торвей Character: торвей Ping: 70
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294055478
+
+END with Bans:
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198151655003 Name: HemulGM Character: HemulGM Ping: 8
+PlayerID: 76561198318420959 Name: MAJOR Character: MAJOR Ping: 69
+PlayerID: 76561198277046351 Name: Stemax Character: Stemax Ping: 76
+PlayerID: 76561198262878051 Name: Kolder Character: Kolder Ping: 56
+PlayerID: 76561198354953801 Name: торвей Character: торвей Ping: 69
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294055458
+
+END with Bans:
+Не обработано: MessageAnnouncer >> Broadcast: Если модератор ведёт себя неподобающе, пишите в группу или ЛС (vk.com/unturned_hgm, vk.com/hemulgm)
+MessageAnnouncer >> Broadcast: Если модератор ведёт себя неподобающе, пишите в группу или ЛС (vk.com/unturned_hgm, vk.com/hemulgm)
+
+Не обработано: MessageAnnouncer >> Если модератор ведёт себя неподобающе, пишите в группу или ЛС (vk.com/unturned_hgm, vk.com/hemulgm)
+MessageAnnouncer >> Если модератор ведёт себя неподобающе, пишите в группу или ЛС (vk.com/unturned_hgm, vk.com/hemulgm)
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198151655003 Name: HemulGM Character: HemulGM Ping: 19
+PlayerID: 76561198318420959 Name: MAJOR Character: MAJOR Ping: 77
+PlayerID: 76561198277046351 Name: Stemax Character: Stemax Ping: 69
+PlayerID: 76561198262878051 Name: Kolder Character: Kolder Ping: 74
+PlayerID: 76561198354953801 Name: торвей Character: торвей Ping: 74
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294055438
+
+END with Bans:
+[World] Kolder [Kolder]: "/tpa hegumgm"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198151655003 Name: HemulGM Character: HemulGM Ping: 14
+PlayerID: 76561198318420959 Name: MAJOR Character: MAJOR Ping: 78
+PlayerID: 76561198277046351 Name: Stemax Character: Stemax Ping: 83
+PlayerID: 76561198262878051 Name: Kolder Character: Kolder Ping: 57
+PlayerID: 76561198354953801 Name: торвей Character: торвей Ping: 123
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294055417
+
+TimerTerminateCommand.Enabled with Bans:
+[World] Kolder [Kolder]: "/tpa gm"
+
+END with Bans:
+Connecting: PlayerID: 76561198218503413 Name: Petia Character: Petia
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198151655003 Name: HemulGM Character: HemulGM Ping: 22
+PlayerID: 76561198318420959 Name: MAJOR Character: MAJOR Ping: 66
+PlayerID: 76561198277046351 Name: Stemax Character: Stemax Ping: 99
+PlayerID: 76561198262878051 Name: Kolder Character: Kolder Ping: 57
+PlayerID: 76561198354953801 Name: торвей Character: торвей Ping: 116
+PlayerID: 76561198218503413 Name: Petia Character: Petia Ping: 90
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294055398
+
+END with Bans:
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198151655003 Name: HemulGM Character: HemulGM Ping: 17
+PlayerID: 76561198318420959 Name: MAJOR Character: MAJOR Ping: 67
+PlayerID: 76561198277046351 Name: Stemax Character: Stemax Ping: 76
+PlayerID: 76561198262878051 Name: Kolder Character: Kolder Ping: 52
+PlayerID: 76561198354953801 Name: торвей Character: торвей Ping: 71
+PlayerID: 76561198218503413 Name: Petia Character: Petia Ping: 83
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294055377
+
+END with Bans:
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198151655003 Name: HemulGM Character: HemulGM Ping: 22
+PlayerID: 76561198318420959 Name: MAJOR Character: MAJOR Ping: 62
+PlayerID: 76561198277046351 Name: Stemax Character: Stemax Ping: 71
+PlayerID: 76561198262878051 Name: Kolder Character: Kolder Ping: 56
+PlayerID: 76561198354953801 Name: торвей Character: торвей Ping: 72
+PlayerID: 76561198218503413 Name: Petia Character: Petia Ping: 84
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294055358
+
+END with Bans:
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198151655003 Name: HemulGM Character: HemulGM Ping: 15
+PlayerID: 76561198318420959 Name: MAJOR Character: MAJOR Ping: 62
+PlayerID: 76561198277046351 Name: Stemax Character: Stemax Ping: 59
+PlayerID: 76561198262878051 Name: Kolder Character: Kolder Ping: 53
+PlayerID: 76561198354953801 Name: торвей Character: торвей Ping: 72
+PlayerID: 76561198218503413 Name: Petia Character: Petia Ping: 120
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294055338
+
+Не обработано: DeathMessagesRemastered >> Broadcast: MAJOR has been mauled by a zombie! 
+TimerTerminateCommand.Enabled with Bans:
+DeathMessagesRemastered >> Broadcast: MAJOR has been mauled by a zombie! 
+
+Не обработано: DropManager >> 3
+Не обработано: MAJOR [MAJOR] was mauled by a zombie!
+TimerTerminateCommand.Enabled with Bans:
+DropManager >> 3
+MAJOR [MAJOR] was mauled by a zombie!
+
+Не обработано: DeathMessagesRemastered >> Broadcast: Stemax has been mauled by a zombie! 
+TimerTerminateCommand.Enabled with Bans:
+DeathMessagesRemastered >> Broadcast: Stemax has been mauled by a zombie! 
+
+Не обработано: DropManager >> 3
+Не обработано: Stemax [Stemax] was mauled by a zombie!
+TimerTerminateCommand.Enabled with Bans:
+DropManager >> 3
+Stemax [Stemax] was mauled by a zombie!
+
+END with Bans:
+Не обработано: MessageAnnouncer >> Broadcast: vk.com/hemulgm - ЕДИНСТВЕННЫЙ администратор сервера
+MessageAnnouncer >> Broadcast: vk.com/hemulgm - ЕДИНСТВЕННЫЙ администратор сервера
+
+Не обработано: MessageAnnouncer >> vk.com/hemulgm - ЕДИНСТВЕННЫЙ администратор сервера
+MessageAnnouncer >> vk.com/hemulgm - ЕДИНСТВЕННЫЙ администратор сервера
+
+Не обработано: DeathMessagesRemastered >> Broadcast: Petia, was slashed in the head by, Stemax, HP: 100%, using a Hammer !
+DeathMessagesRemastered >> Broadcast: Petia, was slashed in the head by, Stemax, HP: 100%, using a Hammer !
+
+Не обработано: DropManager >> 3
+Не обработано: Petia [Petia] was chopped in the head by Stemax [Stemax]!
+DropManager >> 3
+Petia [Petia] was chopped in the head by Stemax [Stemax]!
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198151655003 Name: HemulGM Character: HemulGM Ping: 19
+PlayerID: 76561198318420959 Name: MAJOR Character: MAJOR Ping: 78
+PlayerID: 76561198277046351 Name: Stemax Character: Stemax Ping: 68
+PlayerID: 76561198262878051 Name: Kolder Character: Kolder Ping: 52
+PlayerID: 76561198354953801 Name: торвей Character: торвей Ping: 69
+PlayerID: 76561198218503413 Name: Petia Character: Petia Ping: 97
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294055318
+
+END with Bans:
+[World] Kolder [Kolder]: "/tpa petia"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198151655003 Name: HemulGM Character: HemulGM Ping: 21
+PlayerID: 76561198318420959 Name: MAJOR Character: MAJOR Ping: 73
+PlayerID: 76561198277046351 Name: Stemax Character: Stemax Ping: 68
+PlayerID: 76561198262878051 Name: Kolder Character: Kolder Ping: 54
+PlayerID: 76561198354953801 Name: торвей Character: торвей Ping: 62
+PlayerID: 76561198218503413 Name: Petia Character: Petia Ping: 92
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294055297
+
+TimerTerminateCommand.Enabled with Bans:
+[World] Stemax [Stemax]: "/tpa major"
+
+TimerTerminateCommand.Enabled with Bans:
+[World] MAJOR [MAJOR]: "/tpa a"
+
+END with Bans:
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198151655003 Name: HemulGM Character: HemulGM Ping: 22
+PlayerID: 76561198318420959 Name: MAJOR Character: MAJOR Ping: 63
+PlayerID: 76561198277046351 Name: Stemax Character: Stemax Ping: 190
+PlayerID: 76561198262878051 Name: Kolder Character: Kolder Ping: 69
+PlayerID: 76561198354953801 Name: торвей Character: торвей Ping: 65
+PlayerID: 76561198218503413 Name: Petia Character: Petia Ping: 112
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294055278
+
+END with Bans:
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198151655003 Name: HemulGM Character: HemulGM Ping: 11
+PlayerID: 76561198318420959 Name: MAJOR Character: MAJOR Ping: 72
+PlayerID: 76561198277046351 Name: Stemax Character: Stemax Ping: 86
+PlayerID: 76561198262878051 Name: Kolder Character: Kolder Ping: 60
+PlayerID: 76561198354953801 Name: торвей Character: торвей Ping: 67
+PlayerID: 76561198218503413 Name: Petia Character: Petia Ping: 134
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294055258
+
+END with Bans:
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198151655003 Name: HemulGM Character: HemulGM Ping: 22
+PlayerID: 76561198318420959 Name: MAJOR Character: MAJOR Ping: 67
+PlayerID: 76561198277046351 Name: Stemax Character: Stemax Ping: 82
+PlayerID: 76561198262878051 Name: Kolder Character: Kolder Ping: 56
+PlayerID: 76561198354953801 Name: торвей Character: торвей Ping: 73
+PlayerID: 76561198218503413 Name: Petia Character: Petia Ping: 94
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294055238
+
+END with Bans:
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198151655003 Name: HemulGM Character: HemulGM Ping: 19
+PlayerID: 76561198318420959 Name: MAJOR Character: MAJOR Ping: 63
+PlayerID: 76561198277046351 Name: Stemax Character: Stemax Ping: 80
+PlayerID: 76561198262878051 Name: Kolder Character: Kolder Ping: 61
+PlayerID: 76561198354953801 Name: торвей Character: торвей Ping: 133
+PlayerID: 76561198218503413 Name: Petia Character: Petia Ping: 112
+
+TimerTerminateCommand.Enabled with Players:
+[World] Kolder [Kolder]: "/tpa xteamax"
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294055217
+
+END with Bans:
+Не обработано: MessageAnnouncer >> Broadcast: Используйте /report [ник], чтобы отправить жалобу на игрока
+MessageAnnouncer >> Broadcast: Используйте /report [ник], чтобы отправить жалобу на игрока
+
+Не обработано: MessageAnnouncer >> Используйте /report [ник], чтобы отправить жалобу на игрока
+MessageAnnouncer >> Используйте /report [ник], чтобы отправить жалобу на игрока
+
+[World] Kolder [Kolder]: "/tpf max"
+
+[World] Kolder [Kolder]: "/tpa max"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198151655003 Name: HemulGM Character: HemulGM Ping: 15
+PlayerID: 76561198318420959 Name: MAJOR Character: MAJOR Ping: 66
+PlayerID: 76561198277046351 Name: Stemax Character: Stemax Ping: 77
+PlayerID: 76561198262878051 Name: Kolder Character: Kolder Ping: 55
+PlayerID: 76561198354953801 Name: торвей Character: торвей Ping: 131
+PlayerID: 76561198218503413 Name: Petia Character: Petia Ping: 112
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294055198
+
+END with Bans:
+Disconnecting: PlayerID: 76561198218503413 Name: Petia Character: Petia
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198151655003 Name: HemulGM Character: HemulGM Ping: 24
+PlayerID: 76561198318420959 Name: MAJOR Character: MAJOR Ping: 72
+PlayerID: 76561198277046351 Name: Stemax Character: Stemax Ping: 74
+PlayerID: 76561198262878051 Name: Kolder Character: Kolder Ping: 59
+PlayerID: 76561198354953801 Name: торвей Character: торвей Ping: 144
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294055177
+
+END with Bans:
+Не обработано: VehicleEvents >> Broadcast: Брошенный квадроцикл в Kennewick Farm! Найди его и он твой!
+VehicleEvents >> Broadcast: Брошенный квадроцикл в Kennewick Farm! Найди его и он твой!
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198151655003 Name: HemulGM Character: HemulGM Ping: 12
+PlayerID: 76561198318420959 Name: MAJOR Character: MAJOR Ping: 65
+PlayerID: 76561198277046351 Name: Stemax Character: Stemax Ping: 101
+PlayerID: 76561198262878051 Name: Kolder Character: Kolder Ping: 52
+PlayerID: 76561198354953801 Name: торвей Character: торвей Ping: 120
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294055157
+
+END with Bans:
+[World] Kolder [Kolder]: "/home"
+
+Не обработано: Kolder moved x:485.2741 y:71.47736(+16.86696) z:-832.8241 in the last second (0.2379227)
+Kolder moved x:485.2741 y:71.47736(+16.86696) z:-832.8241 in the last second (0.2379227)
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198151655003 Name: HemulGM Character: HemulGM Ping: 20
+PlayerID: 76561198318420959 Name: MAJOR Character: MAJOR Ping: 66
+PlayerID: 76561198277046351 Name: Stemax Character: Stemax Ping: 81
+PlayerID: 76561198262878051 Name: Kolder Character: Kolder Ping: 57
+PlayerID: 76561198354953801 Name: торвей Character: торвей Ping: 121
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294055137
+
+END with Bans:
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198151655003 Name: HemulGM Character: HemulGM Ping: 27
+PlayerID: 76561198318420959 Name: MAJOR Character: MAJOR Ping: 70
+PlayerID: 76561198277046351 Name: Stemax Character: Stemax Ping: 76
+PlayerID: 76561198262878051 Name: Kolder Character: Kolder Ping: 52
+PlayerID: 76561198354953801 Name: торвей Character: торвей Ping: 67
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294055117
+
+END with Bans:
+[World] торвей [торвей]: "/kit help"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198151655003 Name: HemulGM Character: HemulGM Ping: 23
+PlayerID: 76561198318420959 Name: MAJOR Character: MAJOR Ping: 66
+PlayerID: 76561198277046351 Name: Stemax Character: Stemax Ping: 75
+PlayerID: 76561198262878051 Name: Kolder Character: Kolder Ping: 50
+PlayerID: 76561198354953801 Name: торвей Character: торвей Ping: 62
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294055097
+
+Не обработано: DeathMessagesRemastered >> Broadcast: Stemax has been mauled by a zombie! 
+TimerTerminateCommand.Enabled with Bans:
+DeathMessagesRemastered >> Broadcast: Stemax has been mauled by a zombie! 
+
+Не обработано: DropManager >> 3
+Не обработано: Stemax [Stemax] was mauled by a zombie!
+TimerTerminateCommand.Enabled with Bans:
+DropManager >> 3
+Stemax [Stemax] was mauled by a zombie!
+
+END with Bans:
+Не обработано: MessageAnnouncer >> Broadcast: Наберите /rules (/r) для просмотра правил
+MessageAnnouncer >> Broadcast: Наберите /rules (/r) для просмотра правил
+
+Не обработано: MessageAnnouncer >> Наберите /rules (/r) для просмотра правил
+MessageAnnouncer >> Наберите /rules (/r) для просмотра правил
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198151655003 Name: HemulGM Character: HemulGM Ping: 24
+PlayerID: 76561198318420959 Name: MAJOR Character: MAJOR Ping: 70
+PlayerID: 76561198277046351 Name: Stemax Character: Stemax Ping: 92
+PlayerID: 76561198262878051 Name: Kolder Character: Kolder Ping: 55
+PlayerID: 76561198354953801 Name: торвей Character: торвей Ping: 71
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294055075
+
+END with Bans:
+[World] Kolder [Kolder]: "/tpa торвей"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198151655003 Name: HemulGM Character: HemulGM Ping: 26
+PlayerID: 76561198318420959 Name: MAJOR Character: MAJOR Ping: 72
+PlayerID: 76561198277046351 Name: Stemax Character: Stemax Ping: 84
+PlayerID: 76561198262878051 Name: Kolder Character: Kolder Ping: 53
+PlayerID: 76561198354953801 Name: торвей Character: торвей Ping: 69
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294055055
+
+END with Bans:
+[World] MAJOR [MAJOR]: "/tpa ste"
+
+[World] Stemax [Stemax]: "/tpa a"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198151655003 Name: HemulGM Character: HemulGM Ping: 13
+PlayerID: 76561198318420959 Name: MAJOR Character: MAJOR Ping: 246
+PlayerID: 76561198277046351 Name: Stemax Character: Stemax Ping: 74
+PlayerID: 76561198262878051 Name: Kolder Character: Kolder Ping: 52
+PlayerID: 76561198354953801 Name: торвей Character: торвей Ping: 71
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294055035
+
+END with Bans:
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198151655003 Name: HemulGM Character: HemulGM Ping: 15
+PlayerID: 76561198318420959 Name: MAJOR Character: MAJOR Ping: 62
+PlayerID: 76561198277046351 Name: Stemax Character: Stemax Ping: 76
+PlayerID: 76561198262878051 Name: Kolder Character: Kolder Ping: 51
+PlayerID: 76561198354953801 Name: торвей Character: торвей Ping: 101
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294055015
+
+END with Bans:
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198151655003 Name: HemulGM Character: HemulGM Ping: 18
+PlayerID: 76561198318420959 Name: MAJOR Character: MAJOR Ping: 71
+PlayerID: 76561198277046351 Name: Stemax Character: Stemax Ping: 69
+PlayerID: 76561198262878051 Name: Kolder Character: Kolder Ping: 51
+PlayerID: 76561198354953801 Name: торвей Character: торвей Ping: 107
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294054995
+
+END with Bans:
+Не обработано: Перезагрузка Rocket
+Перезагрузка Rocket
+
+Не обработано: 
+Не обработано: [unloading] VehicleEvents
+Не обработано: [unloading] Uconomy
+Не обработано: [unloading] RocketMod_TPA
+Не обработано: [unloading] PrivateMessages
+Не обработано: [unloading] PlayerInfoLib
+Не обработано: [unloading] MessageAnnouncerMessageAnnouncer >> Unload
+Не обработано: 
+Не обработано: [unloading] LeeIzaZombie.ItemRestrictions
+Не обработано: [unloading] Kits
+Не обработано: [unloading] JoinLeaveMessages
+Не обработано: [unloading] DropManager
+Не обработано: [unloading] DeathMessagesRemastered
+Не обработано: [unloading] DeathManager
+
+[unloading] VehicleEvents
+[unloading] Uconomy
+[unloading] RocketMod_TPA
+[unloading] PrivateMessages
+[unloading] PlayerInfoLib
+[unloading] MessageAnnouncerMessageAnnouncer >> Unload
+
+[unloading] LeeIzaZombie.ItemRestrictions
+[unloading] Kits
+[unloading] JoinLeaveMessages
+[unloading] DropManager
+[unloading] DeathMessagesRemastered
+[unloading] DeathManager
+Не обработано: Loading DeathManager from C:\Program Files (x86)\Steam\steamapps\common\Unturned\Servers\Russia_HGM\Rocket\Plugins\DeathManager.dll
+Не обработано: Loading DeathMessagesRemastered from C:\Program Files (x86)\Steam\steamapps\common\Unturned\Servers\Russia_HGM\Rocket\Plugins\DeathMessagesRemastered.dll
+Не обработано: Loading DropManager from C:\Program Files (x86)\Steam\steamapps\common\Unturned\Servers\Russia_HGM\Rocket\Plugins\DropManager.dll
+Не обработано: Loading JoinLeaveMessages from C:\Program Files (x86)\Steam\steamapps\common\Unturned\Servers\Russia_HGM\Rocket\Plugins\JoinLeaveMessages.dll
+Не обработано: Loading Kits from C:\Program Files (x86)\Steam\steamapps\common\Unturned\Servers\Russia_HGM\Rocket\Plugins\Kits.dll
+Не обработано: Loading LeeIzaZombie.ItemRestrictions from C:\Program Files (x86)\Steam\steamapps\common\Unturned\Servers\Russia_HGM\Rocket\Plugins\LeeIzaZombie.ItemRestrictions.dll
+Не обработано: Loading MessageAnnouncer from C:\Program Files (x86)\Steam\steamapps\common\Unturned\Servers\Russia_HGM\Rocket\Plugins\MessageAnnouncer.dll
+Не обработано: Loading PlayerInfoLib from C:\Program Files (x86)\Steam\steamapps\common\Unturned\Servers\Russia_HGM\Rocket\Plugins\PlayerInfoLib.dll
+Не обработано: Loading PrivateMessages from C:\Program Files (x86)\Steam\steamapps\common\Unturned\Servers\Russia_HGM\Rocket\Plugins\PrivateMessages.dll
+Не обработано: Loading RocketMod_TPA from C:\Program Files (x86)\Steam\steamapps\common\Unturned\Servers\Russia_HGM\Rocket\Plugins\RocketMod_TPA.dll
+Не обработано: Loading Uconomy from C:\Program Files (x86)\Steam\steamapps\common\Unturned\Servers\Russia_HGM\Rocket\Plugins\Uconomy.dll
+Не обработано: Loading VehicleEvents from C:\Program Files (x86)\Steam\steamapps\common\Unturned\Servers\Russia_HGM\Rocket\Plugins\VehicleEvents.dll
+Не обработано: 
+Не обработано: [loading] DeathManager
+Не обработано: [loading] DeathMessagesRemasteredDeathMessagesRemastered >> Death Messages Remastered has been loaded!
+Не обработано: --
+Не обработано: Suicide messages are enabled!
+Не обработано: Health warning messages are enabled!
+Не обработано: Uconomy is enabled!
+Не обработано: Experience is enabled!
+Не обработано: --
+Не обработано: 
+Не обработано: [loading] DropManager
+Не обработано: [loading] JoinLeaveMessages
+Не обработано: [loading] Kits[registered] /kit (fr34kyn01535.Kits.CommandKit/kit)
+Не обработано: Kits >> Optional dependency Uconomy is not present.
+Не обработано: 
+Не обработано: [loading] LeeIzaZombie.ItemRestrictionsSetting up Item Restrictions by LeeIzaZombie. v2.0
+Не обработано: --
+Не обработано: Black listed items found: 8
+Не обработано: --
+Не обработано: Item Restrictions is ready!
+Не обработано: 
+Не обработано: [loading] MessageAnnouncerMessageAnnouncer >> Load
+Не обработано: [registered] /rules (fr34kyn01535.MessageAnnouncer.RocketTextCommand/rules)
+Не обработано: [registered] /kits (fr34kyn01535.MessageAnnouncer.RocketTextCommand/kits)
+Не обработано: 
+Не обработано: [loading] PlayerInfoLib[registered] /delint (PlayerInfoLibrary.CommandDelInstance/delint)
+Не обработано: [registered] /rnint (PlayerInfoLibrary.CommandRnInstance/rnint)
+Не обработано: [registered] /investigate (PlayerInfoLibrary.CommandInvestigate/investigate)
+Не обработано: PlayerInfoLib >> PlayerInfoLib plugin has been loaded, Server Instance ID is: 1
+Не обработано: Adding UnturnedPlayerComponent: PlayerInfoLibPComponent
+Не обработано: 
+Не обработано: [loading] PrivateMessages[registered] /pm (Teyhota.PrivateMessages.Command_Msg/pm)
+Не обработано: [registered] /msg (Teyhota.PrivateMessages.Command_Msg/msg)
+Не обработано: [registered] /dm (Teyhota.PrivateMessages.Command_Msg/dm)
+Не обработано: [registered] /w (Teyhota.PrivateMessages.Command_Msg/w)
+Не обработано: [registered] /whipser (Teyhota.PrivateMessages.Command_Msg/whipser)
+Не обработано: [registered] /reply (Teyhota.PrivateMessages.Command_Reply/reply)
+Не обработано: [registered] /r (Teyhota.PrivateMessages.Command_Reply/r)
+Не обработано:  
+Не обработано: Plugin by: LjMjollnir & Teyhota
+Не обработано: Plugin version: 1.2
+Не обработано: Made for Unturned version: 3.18.4.1
+Не обработано: Made for RocketMod version: 4.9.3.0
+Не обработано: Support: Plugins.4Unturned.tk
+Не обработано:  
+Не обработано: ------
+Не обработано: PrivateMessages is up to date!
+Не обработано: ------
+Не обработано: 
+Не обработано: [loading] RocketMod_TPA[registered] /tpa (RocketMod_TPA.CommandTPA/tpa)
+Не обработано: TPA by LeeIzaZombie, Version 1.7.0.2
+Не обработано: ...
+Не обработано: Current configuration:
+Не обработано: ...
+Не обработано: Cooldown TPA requests: enabled, Seconds: 90
+Не обработано: Delay teleporting: disabled, Seconds: 10
+Не обработано: Cancel teleport if bleeding: disabled
+Не обработано: NinjaTP: disabled, EffectID: 45
+Не обработано: [Delay] Cancel teleport if hurt: disabled
+Не обработано: ...
+Не обработано: Checking for problems:
+Не обработано: No errors have been found!
+Не обработано: ...
+Не обработано: Always welcome to suggestions! If you find a bug, please report it!
+Loading DeathManager from C:\Program Files (x86)\Steam\steamapps\common\Unturned\Servers\Russia_HGM\Rocket\Plugins\DeathManager.dll
+Loading DeathMessagesRemastered from C:\Program Files (x86)\Steam\steamapps\common\Unturned\Servers\Russia_HGM\Rocket\Plugins\DeathMessagesRemastered.dll
+Loading DropManager from C:\Program Files (x86)\Steam\steamapps\common\Unturned\Servers\Russia_HGM\Rocket\Plugins\DropManager.dll
+Loading JoinLeaveMessages from C:\Program Files (x86)\Steam\steamapps\common\Unturned\Servers\Russia_HGM\Rocket\Plugins\JoinLeaveMessages.dll
+Loading Kits from C:\Program Files (x86)\Steam\steamapps\common\Unturned\Servers\Russia_HGM\Rocket\Plugins\Kits.dll
+Loading LeeIzaZombie.ItemRestrictions from C:\Program Files (x86)\Steam\steamapps\common\Unturned\Servers\Russia_HGM\Rocket\Plugins\LeeIzaZombie.ItemRestrictions.dll
+Loading MessageAnnouncer from C:\Program Files (x86)\Steam\steamapps\common\Unturned\Servers\Russia_HGM\Rocket\Plugins\MessageAnnouncer.dll
+Loading PlayerInfoLib from C:\Program Files (x86)\Steam\steamapps\common\Unturned\Servers\Russia_HGM\Rocket\Plugins\PlayerInfoLib.dll
+Loading PrivateMessages from C:\Program Files (x86)\Steam\steamapps\common\Unturned\Servers\Russia_HGM\Rocket\Plugins\PrivateMessages.dll
+Loading RocketMod_TPA from C:\Program Files (x86)\Steam\steamapps\common\Unturned\Servers\Russia_HGM\Rocket\Plugins\RocketMod_TPA.dll
+Loading Uconomy from C:\Program Files (x86)\Steam\steamapps\common\Unturned\Servers\Russia_HGM\Rocket\Plugins\Uconomy.dll
+Loading VehicleEvents from C:\Program Files (x86)\Steam\steamapps\common\Unturned\Servers\Russia_HGM\Rocket\Plugins\VehicleEvents.dll
+
+[loading] DeathManager
+[loading] DeathMessagesRemasteredDeathMessagesRemastered >> Death Messages Remastered has been loaded!
+--
+Suicide messages are enabled!
+Health warning messages are enabled!
+Uconomy is enabled!
+Experience is enabled!
+--
+
+[loading] DropManager
+[loading] JoinLeaveMessages
+[loading] Kits[registered] /kit (fr34kyn01535.Kits.CommandKit/kit)
+Kits >> Optional dependency Uconomy is not present.
+
+[loading] LeeIzaZombie.ItemRestrictionsSetting up Item Restrictions by LeeIzaZombie. v2.0
+--
+Black listed items found: 8
+--
+Item Restrictions is ready!
+
+[loading] MessageAnnouncerMessageAnnouncer >> Load
+[registered] /rules (fr34kyn01535.MessageAnnouncer.RocketTextCommand/rules)
+[registered] /kits (fr34kyn01535.MessageAnnouncer.RocketTextCommand/kits)
+
+[loading] PlayerInfoLib[registered] /delint (PlayerInfoLibrary.CommandDelInstance/delint)
+[registered] /rnint (PlayerInfoLibrary.CommandRnInstance/rnint)
+[registered] /investigate (PlayerInfoLibrary.CommandInvestigate/investigate)
+PlayerInfoLib >> PlayerInfoLib plugin has been loaded, Server Instance ID is: 1
+Adding UnturnedPlayerComponent: PlayerInfoLibPComponent
+
+[loading] PrivateMessages[registered] /pm (Teyhota.PrivateMessages.Command_Msg/pm)
+[registered] /msg (Teyhota.PrivateMessages.Command_Msg/msg)
+[registered] /dm (Teyhota.PrivateMessages.Command_Msg/dm)
+[registered] /w (Teyhota.PrivateMessages.Command_Msg/w)
+[registered] /whipser (Teyhota.PrivateMessages.Command_Msg/whipser)
+[registered] /reply (Teyhota.PrivateMessages.Command_Reply/reply)
+[registered] /r (Teyhota.PrivateMessages.Command_Reply/r)
+ 
+Plugin by: LjMjollnir & Teyhota
+Plugin version: 1.2
+Made for Unturned version: 3.18.4.1
+Made for RocketMod version: 4.9.3.0
+Support: Plugins.4Unturned.tk
+ 
+------
+PrivateMessages is up to date!
+------
+
+[loading] RocketMod_TPA[registered] /tpa (RocketMod_TPA.CommandTPA/tpa)
+TPA by LeeIzaZombie, Version 1.7.0.2
+...
+Current configuration:
+...
+Cooldown TPA requests: enabled, Seconds: 90
+Delay teleporting: disabled, Seconds: 10
+Cancel teleport if bleeding: disabled
+NinjaTP: disabled, EffectID: 45
+[Delay] Cancel teleport if hurt: disabled
+...
+Checking for problems:
+No errors have been found!
+...
+Always welcome to suggestions! If you find a bug, please report it!
+
+Не обработано: 
+Не обработано: [loading] Uconomy[registered] /balance (fr34kyn01535.Uconomy.CommandBalance/balance)
+Не обработано: [registered] /pay (fr34kyn01535.Uconomy.CommandPay/pay)
+Не обработано: 
+Не обработано: [loading] VehicleEventsVehicle Events by CryTheSly has been loaded!
+Не обработано: MessageAnnouncer >> Broadcast: Добро пожаловать на HEMULGM.RU. Тут рады вам больше, чем на любом другом сервере!
+Не обработано: MessageAnnouncer >> Добро пожаловать на HEMULGM.RU. Тут рады вам больше, чем на любом другом сервере!
+Не обработано: VehicleEvents >> Broadcast: Брошенный джип в Shelton Farm! Найди его и он твой!
+
+[loading] Uconomy[registered] /balance (fr34kyn01535.Uconomy.CommandBalance/balance)
+[registered] /pay (fr34kyn01535.Uconomy.CommandPay/pay)
+
+[loading] VehicleEventsVehicle Events by CryTheSly has been loaded!
+MessageAnnouncer >> Broadcast: Добро пожаловать на HEMULGM.RU. Тут рады вам больше, чем на любом другом сервере!
+MessageAnnouncer >> Добро пожаловать на HEMULGM.RU. Тут рады вам больше, чем на любом другом сервере!
+VehicleEvents >> Broadcast: Брошенный джип в Shelton Farm! Найди его и он твой!
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198151655003 Name: HemulGM Character: HemulGM Ping: 12
+PlayerID: 76561198318420959 Name: MAJOR Character: MAJOR Ping: 66
+PlayerID: 76561198277046351 Name: Stemax Character: Stemax Ping: 89
+PlayerID: 76561198262878051 Name: Kolder Character: Kolder Ping: 53
+PlayerID: 76561198354953801 Name: торвей Character: торвей Ping: 104
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294054975
+
+END with Bans:
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198151655003 Name: HemulGM Character: HemulGM Ping: 13
+PlayerID: 76561198318420959 Name: MAJOR Character: MAJOR Ping: 65
+PlayerID: 76561198277046351 Name: Stemax Character: Stemax Ping: 83
+PlayerID: 76561198262878051 Name: Kolder Character: Kolder Ping: 52
+PlayerID: 76561198354953801 Name: торвей Character: торвей Ping: 95
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294054955
+
+END with Bans:
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198151655003 Name: HemulGM Character: HemulGM Ping: 11
+PlayerID: 76561198318420959 Name: MAJOR Character: MAJOR Ping: 71
+PlayerID: 76561198277046351 Name: Stemax Character: Stemax Ping: 98
+PlayerID: 76561198262878051 Name: Kolder Character: Kolder Ping: 50
+PlayerID: 76561198354953801 Name: торвей Character: торвей Ping: 68
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294054935
+
+END with Bans:
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198151655003 Name: HemulGM Character: HemulGM Ping: 24
+PlayerID: 76561198318420959 Name: MAJOR Character: MAJOR Ping: 69
+PlayerID: 76561198277046351 Name: Stemax Character: Stemax Ping: 69
+PlayerID: 76561198262878051 Name: Kolder Character: Kolder Ping: 55
+PlayerID: 76561198354953801 Name: торвей Character: торвей Ping: 81
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294054915
+
+END with Bans:
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198151655003 Name: HemulGM Character: HemulGM Ping: 25
+PlayerID: 76561198318420959 Name: MAJOR Character: MAJOR Ping: 73
+PlayerID: 76561198277046351 Name: Stemax Character: Stemax Ping: 96
+PlayerID: 76561198262878051 Name: Kolder Character: Kolder Ping: 51
+PlayerID: 76561198354953801 Name: торвей Character: торвей Ping: 67
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294054895
+
+END with Bans:
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198151655003 Name: HemulGM Character: HemulGM Ping: 10
+PlayerID: 76561198318420959 Name: MAJOR Character: MAJOR Ping: 69
+PlayerID: 76561198277046351 Name: Stemax Character: Stemax Ping: 61
+PlayerID: 76561198262878051 Name: Kolder Character: Kolder Ping: 53
+PlayerID: 76561198354953801 Name: торвей Character: торвей Ping: 87
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294054875
+
+END with Bans:
+Не обработано: MessageAnnouncer >> Broadcast: Наберите /kit start, чтобы получить стартовый набор (еда, вода, топор)
+Не обработано: MessageAnnouncer >> Наберите /kit start, чтобы получить стартовый набор (еда, вода, топор)
+MessageAnnouncer >> Broadcast: Наберите /kit start, чтобы получить стартовый набор (еда, вода, топор)
+MessageAnnouncer >> Наберите /kit start, чтобы получить стартовый набор (еда, вода, топор)
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198151655003 Name: HemulGM Character: HemulGM Ping: 14
+PlayerID: 76561198318420959 Name: MAJOR Character: MAJOR Ping: 69
+PlayerID: 76561198277046351 Name: Stemax Character: Stemax Ping: 72
+PlayerID: 76561198262878051 Name: Kolder Character: Kolder Ping: 53
+PlayerID: 76561198354953801 Name: торвей Character: торвей Ping: 94
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294054855
+
+END with Bans:
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198151655003 Name: HemulGM Character: HemulGM Ping: 8
+PlayerID: 76561198318420959 Name: MAJOR Character: MAJOR Ping: 69
+PlayerID: 76561198277046351 Name: Stemax Character: Stemax Ping: 82
+PlayerID: 76561198262878051 Name: Kolder Character: Kolder Ping: 54
+PlayerID: 76561198354953801 Name: торвей Character: торвей Ping: 98
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294054835
+
+END with Bans:
+Не обработано: DeathMessagesRemastered >> Broadcast: MAJOR истёк кровью!
+DeathMessagesRemastered >> Broadcast: MAJOR истёк кровью!
+
+Не обработано: DropManager >> 3
+Не обработано: MAJOR [MAJOR] bled to death!
+DropManager >> 3
+MAJOR [MAJOR] bled to death!
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198151655003 Name: HemulGM Character: HemulGM Ping: 21
+PlayerID: 76561198318420959 Name: MAJOR Character: MAJOR Ping: 85
+PlayerID: 76561198277046351 Name: Stemax Character: Stemax Ping: 90
+PlayerID: 76561198262878051 Name: Kolder Character: Kolder Ping: 60
+PlayerID: 76561198354953801 Name: торвей Character: торвей Ping: 95
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294054815
+
+END with Bans:
+[World] MAJOR [MAJOR]: "/tpa ste"
+
+[World] Stemax [Stemax]: "/tpa a"
+
+Не обработано: MAJOR moved x:-842.5205 y:82.4892(+54.34428) z:266.606 in the last second (0.411644)
+MAJOR moved x:-842.5205 y:82.4892(+54.34428) z:266.606 in the last second (0.411644)
+
+Не обработано: DeathMessagesRemastered >> Broadcast: торвей был съеден зомби! 
+DeathMessagesRemastered >> Broadcast: торвей был съеден зомби! 
+
+Не обработано: DropManager >> 3
+DropManager >> 3
+
+Не обработано: торвей [торвей] was mauled by a zombie!
+торвей [торвей] was mauled by a zombie!
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198151655003 Name: HemulGM Character: HemulGM Ping: 16
+PlayerID: 76561198318420959 Name: MAJOR Character: MAJOR Ping: 70
+PlayerID: 76561198277046351 Name: Stemax Character: Stemax Ping: 79
+PlayerID: 76561198262878051 Name: Kolder Character: Kolder Ping: 51
+PlayerID: 76561198354953801 Name: торвей Character: торвей Ping: 69
+
+Не обработано: Перезагрузка Rocket
+TimerTerminateCommand.Enabled with Players:
+Перезагрузка Rocket
+
+Не обработано: 
+Не обработано: [unloading] VehicleEvents
+Не обработано: [unloading] Uconomy
+Не обработано: [unloading] RocketMod_TPA
+Не обработано: [unloading] PrivateMessages
+Не обработано: [unloading] PlayerInfoLib
+Не обработано: [unloading] MessageAnnouncerMessageAnnouncer >> Unload
+Не обработано: 
+Не обработано: [unloading] LeeIzaZombie.ItemRestrictions
+Не обработано: [unloading] Kits
+Не обработано: [unloading] JoinLeaveMessages
+Не обработано: [unloading] DropManager
+Не обработано: [unloading] DeathMessagesRemastered
+Не обработано: [unloading] DeathManager
+TimerTerminateCommand.Enabled with Players:
+
+[unloading] VehicleEvents
+[unloading] Uconomy
+[unloading] RocketMod_TPA
+[unloading] PrivateMessages
+[unloading] PlayerInfoLib
+[unloading] MessageAnnouncerMessageAnnouncer >> Unload
+
+[unloading] LeeIzaZombie.ItemRestrictions
+[unloading] Kits
+[unloading] JoinLeaveMessages
+[unloading] DropManager
+[unloading] DeathMessagesRemastered
+[unloading] DeathManager
+Не обработано: Loading DeathManager from C:\Program Files (x86)\Steam\steamapps\common\Unturned\Servers\Russia_HGM\Rocket\Plugins\DeathManager.dll
+Не обработано: Loading DeathMessagesRemastered from C:\Program Files (x86)\Steam\steamapps\common\Unturned\Servers\Russia_HGM\Rocket\Plugins\DeathMessagesRemastered.dll
+Не обработано: Loading DropManager from C:\Program Files (x86)\Steam\steamapps\common\Unturned\Servers\Russia_HGM\Rocket\Plugins\DropManager.dll
+Не обработано: Loading JoinLeaveMessages from C:\Program Files (x86)\Steam\steamapps\common\Unturned\Servers\Russia_HGM\Rocket\Plugins\JoinLeaveMessages.dll
+Не обработано: Loading Kits from C:\Program Files (x86)\Steam\steamapps\common\Unturned\Servers\Russia_HGM\Rocket\Plugins\Kits.dll
+Не обработано: Loading LeeIzaZombie.ItemRestrictions from C:\Program Files (x86)\Steam\steamapps\common\Unturned\Servers\Russia_HGM\Rocket\Plugins\LeeIzaZombie.ItemRestrictions.dll
+Не обработано: Loading MessageAnnouncer from C:\Program Files (x86)\Steam\steamapps\common\Unturned\Servers\Russia_HGM\Rocket\Plugins\MessageAnnouncer.dll
+Не обработано: Loading PlayerInfoLib from C:\Program Files (x86)\Steam\steamapps\common\Unturned\Servers\Russia_HGM\Rocket\Plugins\PlayerInfoLib.dll
+Не обработано: Loading PrivateMessages from C:\Program Files (x86)\Steam\steamapps\common\Unturned\Servers\Russia_HGM\Rocket\Plugins\PrivateMessages.dll
+Не обработано: Loading RocketMod_TPA from C:\Program Files (x86)\Steam\steamapps\common\Unturned\Servers\Russia_HGM\Rocket\Plugins\RocketMod_TPA.dll
+Не обработано: Loading Uconomy from C:\Program Files (x86)\Steam\steamapps\common\Unturned\Servers\Russia_HGM\Rocket\Plugins\Uconomy.dll
+Не обработано: Loading VehicleEvents from C:\Program Files (x86)\Steam\steamapps\common\Unturned\Servers\Russia_HGM\Rocket\Plugins\VehicleEvents.dll
+Не обработано: 
+Не обработано: [loading] DeathManager
+Не обработано: [loading] DeathMessagesRemasteredDeathMessagesRemastered >> Death Messages Remastered has been loaded!
+Не обработано: --
+Не обработано: Suicide messages are enabled!
+Не обработано: Health warning messages are enabled!
+Не обработано: Uconomy is enabled!
+Не обработано: Experience is enabled!
+Не обработано: --
+Не обработано: 
+Не обработано: [loading] DropManager
+Не обработано: [loading] JoinLeaveMessages
+Не обработано: [loading] Kits[registered] /kit (fr34kyn01535.Kits.CommandKit/kit)
+Не обработано: Kits >> Optional dependency Uconomy is not present.
+Не обработано: 
+Не обработано: [loading] LeeIzaZombie.ItemRestrictionsSetting up Item Restrictions by LeeIzaZombie. v2.0
+Не обработано: --
+Не обработано: Black listed items found: 8
+Не обработано: --
+Не обработано: Item Restrictions is ready!
+Не обработано: 
+Не обработано: [loading] MessageAnnouncerMessageAnnouncer >> Load
+Не обработано: [registered] /rules (fr34kyn01535.MessageAnnouncer.RocketTextCommand/rules)
+Не обработано: [registered] /kits (fr34kyn01535.MessageAnnouncer.RocketTextCommand/kits)
+TimerTerminateCommand.Enabled with Players:
+Loading DeathManager from C:\Program Files (x86)\Steam\steamapps\common\Unturned\Servers\Russia_HGM\Rocket\Plugins\DeathManager.dll
+Loading DeathMessagesRemastered from C:\Program Files (x86)\Steam\steamapps\common\Unturned\Servers\Russia_HGM\Rocket\Plugins\DeathMessagesRemastered.dll
+Loading DropManager from C:\Program Files (x86)\Steam\steamapps\common\Unturned\Servers\Russia_HGM\Rocket\Plugins\DropManager.dll
+Loading JoinLeaveMessages from C:\Program Files (x86)\Steam\steamapps\common\Unturned\Servers\Russia_HGM\Rocket\Plugins\JoinLeaveMessages.dll
+Loading Kits from C:\Program Files (x86)\Steam\steamapps\common\Unturned\Servers\Russia_HGM\Rocket\Plugins\Kits.dll
+Loading LeeIzaZombie.ItemRestrictions from C:\Program Files (x86)\Steam\steamapps\common\Unturned\Servers\Russia_HGM\Rocket\Plugins\LeeIzaZombie.ItemRestrictions.dll
+Loading MessageAnnouncer from C:\Program Files (x86)\Steam\steamapps\common\Unturned\Servers\Russia_HGM\Rocket\Plugins\MessageAnnouncer.dll
+Loading PlayerInfoLib from C:\Program Files (x86)\Steam\steamapps\common\Unturned\Servers\Russia_HGM\Rocket\Plugins\PlayerInfoLib.dll
+Loading PrivateMessages from C:\Program Files (x86)\Steam\steamapps\common\Unturned\Servers\Russia_HGM\Rocket\Plugins\PrivateMessages.dll
+Loading RocketMod_TPA from C:\Program Files (x86)\Steam\steamapps\common\Unturned\Servers\Russia_HGM\Rocket\Plugins\RocketMod_TPA.dll
+Loading Uconomy from C:\Program Files (x86)\Steam\steamapps\common\Unturned\Servers\Russia_HGM\Rocket\Plugins\Uconomy.dll
+Loading VehicleEvents from C:\Program Files (x86)\Steam\steamapps\common\Unturned\Servers\Russia_HGM\Rocket\Plugins\VehicleEvents.dll
+
+[loading] DeathManager
+[loading] DeathMessagesRemasteredDeathMessagesRemastered >> Death Messages Remastered has been loaded!
+--
+Suicide messages are enabled!
+Health warning messages are enabled!
+Uconomy is enabled!
+Experience is enabled!
+--
+
+[loading] DropManager
+[loading] JoinLeaveMessages
+[loading] Kits[registered] /kit (fr34kyn01535.Kits.CommandKit/kit)
+Kits >> Optional dependency Uconomy is not present.
+
+[loading] LeeIzaZombie.ItemRestrictionsSetting up Item Restrictions by LeeIzaZombie. v2.0
+--
+Black listed items found: 8
+--
+Item Restrictions is ready!
+
+[loading] MessageAnnouncerMessageAnnouncer >> Load
+[registered] /rules (fr34kyn01535.MessageAnnouncer.RocketTextCommand/rules)
+[registered] /kits (fr34kyn01535.MessageAnnouncer.RocketTextCommand/kits)
+
+Не обработано: 
+Не обработано: [loading] PlayerInfoLib[registered] /delint (PlayerInfoLibrary.CommandDelInstance/delint)
+Не обработано: [registered] /rnint (PlayerInfoLibrary.CommandRnInstance/rnint)
+Не обработано: [registered] /investigate (PlayerInfoLibrary.CommandInvestigate/investigate)
+Не обработано: PlayerInfoLib >> PlayerInfoLib plugin has been loaded, Server Instance ID is: 1
+Не обработано: Adding UnturnedPlayerComponent: PlayerInfoLibPComponent
+Не обработано: 
+Не обработано: [loading] PrivateMessages[registered] /pm (Teyhota.PrivateMessages.Command_Msg/pm)
+Не обработано: [registered] /msg (Teyhota.PrivateMessages.Command_Msg/msg)
+Не обработано: [registered] /dm (Teyhota.PrivateMessages.Command_Msg/dm)
+Не обработано: [registered] /w (Teyhota.PrivateMessages.Command_Msg/w)
+Не обработано: [registered] /whipser (Teyhota.PrivateMessages.Command_Msg/whipser)
+Не обработано: [registered] /reply (Teyhota.PrivateMessages.Command_Reply/reply)
+Не обработано: [registered] /r (Teyhota.PrivateMessages.Command_Reply/r)
+Не обработано:  
+Не обработано: Plugin by: LjMjollnir & Teyhota
+Не обработано: Plugin version: 1.2
+Не обработано: Made for Unturned version: 3.18.4.1
+Не обработано: Made for RocketMod version: 4.9.3.0
+Не обработано: Support: Plugins.4Unturned.tk
+Не обработано:  
+Не обработано: ------
+Не обработано: PrivateMessages is up to date!
+Не обработано: ------
+Не обработано: 
+Не обработано: [loading] RocketMod_TPA[registered] /tpa (RocketMod_TPA.CommandTPA/tpa)
+Не обработано: TPA by LeeIzaZombie, Version 1.7.0.2
+Не обработано: ...
+Не обработано: Current configuration:
+Не обработано: ...
+Не обработано: Cooldown TPA requests: enabled, Seconds: 90
+Не обработано: Delay teleporting: disabled, Seconds: 10
+Не обработано: Cancel teleport if bleeding: disabled
+Не обработано: NinjaTP: disabled, EffectID: 45
+Не обработано: [Delay] Cancel teleport if hurt: disabled
+Не обработано: ...
+Не обработано: Checking for problems:
+Не обработано: No errors have been found!
+Не обработано: ...
+Не обработано: Always welcome to suggestions! If you find a bug, please report it!
+Не обработано: 
+Не обработано: [loading] Uconomy[registered] /balance (fr34kyn01535.Uconomy.CommandBalance/balance)
+Не обработано: [registered] /pay (fr34kyn01535.Uconomy.CommandPay/pay)
+Не обработано: 
+Не обработано: [loading] VehicleEventsVehicle Events by CryTheSly has been loaded!
+Не обработано: MessageAnnouncer >> Broadcast: Добро пожаловать на HEMULGM.RU. Тут рады вам больше, чем на любом другом сервере!
+Не обработано: MessageAnnouncer >> Добро пожаловать на HEMULGM.RU. Тут рады вам больше, чем на любом другом сервере!
+Не обработано: VehicleEvents >> Broadcast: Брошенный Phantom в Everett! Найди его и он твой!
+TimerTerminateCommand.Enabled with Players:
+
+[loading] PlayerInfoLib[registered] /delint (PlayerInfoLibrary.CommandDelInstance/delint)
+[registered] /rnint (PlayerInfoLibrary.CommandRnInstance/rnint)
+[registered] /investigate (PlayerInfoLibrary.CommandInvestigate/investigate)
+PlayerInfoLib >> PlayerInfoLib plugin has been loaded, Server Instance ID is: 1
+Adding UnturnedPlayerComponent: PlayerInfoLibPComponent
+
+[loading] PrivateMessages[registered] /pm (Teyhota.PrivateMessages.Command_Msg/pm)
+[registered] /msg (Teyhota.PrivateMessages.Command_Msg/msg)
+[registered] /dm (Teyhota.PrivateMessages.Command_Msg/dm)
+[registered] /w (Teyhota.PrivateMessages.Command_Msg/w)
+[registered] /whipser (Teyhota.PrivateMessages.Command_Msg/whipser)
+[registered] /reply (Teyhota.PrivateMessages.Command_Reply/reply)
+[registered] /r (Teyhota.PrivateMessages.Command_Reply/r)
+ 
+Plugin by: LjMjollnir & Teyhota
+Plugin version: 1.2
+Made for Unturned version: 3.18.4.1
+Made for RocketMod version: 4.9.3.0
+Support: Plugins.4Unturned.tk
+ 
+------
+PrivateMessages is up to date!
+------
+
+[loading] RocketMod_TPA[registered] /tpa (RocketMod_TPA.CommandTPA/tpa)
+TPA by LeeIzaZombie, Version 1.7.0.2
+...
+Current configuration:
+...
+Cooldown TPA requests: enabled, Seconds: 90
+Delay teleporting: disabled, Seconds: 10
+Cancel teleport if bleeding: disabled
+NinjaTP: disabled, EffectID: 45
+[Delay] Cancel teleport if hurt: disabled
+...
+Checking for problems:
+No errors have been found!
+...
+Always welcome to suggestions! If you find a bug, please report it!
+
+[loading] Uconomy[registered] /balance (fr34kyn01535.Uconomy.CommandBalance/balance)
+[registered] /pay (fr34kyn01535.Uconomy.CommandPay/pay)
+
+[loading] VehicleEventsVehicle Events by CryTheSly has been loaded!
+MessageAnnouncer >> Broadcast: Добро пожаловать на HEMULGM.RU. Тут рады вам больше, чем на любом другом сервере!
+MessageAnnouncer >> Добро пожаловать на HEMULGM.RU. Тут рады вам больше, чем на любом другом сервере!
+VehicleEvents >> Broadcast: Брошенный Phantom в Everett! Найди его и он твой!
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294054792
+
+END with Bans:
+[World] торвей [торвей]: "/home"
+
+Не обработано: торвей moved x:560.7155 y:71.22818(+32.74351) z:885.9635 in the last second (0.2379227)
+торвей moved x:560.7155 y:71.22818(+32.74351) z:885.9635 in the last second (0.2379227)
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198151655003 Name: HemulGM Character: HemulGM Ping: 12
+PlayerID: 76561198318420959 Name: MAJOR Character: MAJOR Ping: 63
+PlayerID: 76561198277046351 Name: Stemax Character: Stemax Ping: 90
+PlayerID: 76561198262878051 Name: Kolder Character: Kolder Ping: 51
+PlayerID: 76561198354953801 Name: торвей Character: торвей Ping: 132
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294054775
+
+END with Bans:
+TimerTerminateCommand.Enabled with Players:
+Client has executed command "players"
+Players:
+PlayerID: 76561198151655003 Name: HemulGM Character: HemulGM Ping: 17
+PlayerID: 76561198318420959 Name: MAJOR Character: MAJOR Ping: 65
+PlayerID: 76561198277046351 Name: Stemax Character: Stemax Ping: 89
+PlayerID: 76561198262878051 Name: Kolder Character: Kolder Ping: 54
+PlayerID: 76561198354953801 Name: торвей Character: торвей Ping: 76
+
+END with Players:
+TimerTerminateCommand.Enabled with Bans:
+Client has executed command "bans"
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294054751
+
+END with Bans:
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198151655003 Name: HemulGM Character: HemulGM Ping: 14
+PlayerID: 76561198318420959 Name: MAJOR Character: MAJOR Ping: 81
+PlayerID: 76561198277046351 Name: Stemax Character: Stemax Ping: 83
+PlayerID: 76561198262878051 Name: Kolder Character: Kolder Ping: 57
+PlayerID: 76561198354953801 Name: торвей Character: торвей Ping: 65
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294054733
+
+END with Bans:
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198151655003 Name: HemulGM Character: HemulGM Ping: 17
+PlayerID: 76561198318420959 Name: MAJOR Character: MAJOR Ping: 74
+PlayerID: 76561198277046351 Name: Stemax Character: Stemax Ping: 87
+PlayerID: 76561198262878051 Name: Kolder Character: Kolder Ping: 66
+PlayerID: 76561198354953801 Name: торвей Character: торвей Ping: 80
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294054713
+
+END with Bans:
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198151655003 Name: HemulGM Character: HemulGM Ping: 16
+PlayerID: 76561198318420959 Name: MAJOR Character: MAJOR Ping: 73
+PlayerID: 76561198277046351 Name: Stemax Character: Stemax Ping: 74
+PlayerID: 76561198262878051 Name: Kolder Character: Kolder Ping: 57
+PlayerID: 76561198354953801 Name: торвей Character: торвей Ping: 78
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294054693
+
+END with Bans:
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198151655003 Name: HemulGM Character: HemulGM Ping: 19
+PlayerID: 76561198318420959 Name: MAJOR Character: MAJOR Ping: 74
+PlayerID: 76561198277046351 Name: Stemax Character: Stemax Ping: 66
+PlayerID: 76561198262878051 Name: Kolder Character: Kolder Ping: 56
+PlayerID: 76561198354953801 Name: торвей Character: торвей Ping: 90
+
+Не обработано: MessageAnnouncer >> Broadcast: Наберите /kit start, чтобы получить стартовый набор (еда, вода, топор)
+TimerTerminateCommand.Enabled with Players:
+MessageAnnouncer >> Broadcast: Наберите /kit start, чтобы получить стартовый набор (еда, вода, топор)
+
+Не обработано: MessageAnnouncer >> Наберите /kit start, чтобы получить стартовый набор (еда, вода, топор)
+TimerTerminateCommand.Enabled with Players:
+MessageAnnouncer >> Наберите /kit start, чтобы получить стартовый набор (еда, вода, топор)
+
+END with Players:
+Client has executed command "bans"
+
+Не обработано: DeathMessagesRemastered >> Broadcast: торвей истёк кровью!
+Не обработано: DropManager >> 3
+Не обработано: торвей [торвей] bled to death!
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294054673
+DeathMessagesRemastered >> Broadcast: торвей истёк кровью!
+DropManager >> 3
+торвей [торвей] bled to death!
+
+END with Bans:
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198151655003 Name: HemulGM Character: HemulGM Ping: 21
+PlayerID: 76561198318420959 Name: MAJOR Character: MAJOR Ping: 72
+PlayerID: 76561198277046351 Name: Stemax Character: Stemax Ping: 83
+PlayerID: 76561198262878051 Name: Kolder Character: Kolder Ping: 57
+PlayerID: 76561198354953801 Name: торвей Character: торвей Ping: 86
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294054653
+
+TimerTerminateCommand.Enabled with Bans:
+[World] Kolder [Kolder]: ".рщьу"
+
+END with Bans:
+[World] Kolder [Kolder]: "/home"
+
+Не обработано: Kolder moved x:485.2741 y:71.47736(+19.17127) z:-832.8241 in the last second (0.2379227)
+Kolder moved x:485.2741 y:71.47736(+19.17127) z:-832.8241 in the last second (0.2379227)
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198151655003 Name: HemulGM Character: HemulGM Ping: 22
+PlayerID: 76561198318420959 Name: MAJOR Character: MAJOR Ping: 67
+PlayerID: 76561198277046351 Name: Stemax Character: Stemax Ping: 88
+PlayerID: 76561198262878051 Name: Kolder Character: Kolder Ping: 53
+PlayerID: 76561198354953801 Name: торвей Character: торвей Ping: 77
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294054633
+
+END with Bans:
+Disconnecting: PlayerID: 76561198262878051 Name: Kolder Character: Kolder
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198151655003 Name: HemulGM Character: HemulGM Ping: 18
+PlayerID: 76561198318420959 Name: MAJOR Character: MAJOR Ping: 72
+PlayerID: 76561198277046351 Name: Stemax Character: Stemax Ping: 81
+PlayerID: 76561198354953801 Name: торвей Character: торвей Ping: 80
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294054613
+
+END with Bans:
+[World] HemulGM [HemulGM]: "/v 70"
+
+Не обработано: HemulGM получил транспорт 70
+HemulGM получил транспорт 70
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198151655003 Name: HemulGM Character: HemulGM Ping: 16
+PlayerID: 76561198318420959 Name: MAJOR Character: MAJOR Ping: 69
+PlayerID: 76561198277046351 Name: Stemax Character: Stemax Ping: 74
+PlayerID: 76561198354953801 Name: торвей Character: торвей Ping: 68
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294054593
+
+END with Bans:
+Не обработано: Saving server
+Saving server
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198151655003 Name: HemulGM Character: HemulGM Ping: 50
+PlayerID: 76561198318420959 Name: MAJOR Character: MAJOR Ping: 71
+PlayerID: 76561198277046351 Name: Stemax Character: Stemax Ping: 77
+PlayerID: 76561198354953801 Name: торвей Character: торвей Ping: 84
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294054573
+
+END with Bans:
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198151655003 Name: HemulGM Character: HemulGM Ping: 27
+PlayerID: 76561198318420959 Name: MAJOR Character: MAJOR Ping: 79
+PlayerID: 76561198277046351 Name: Stemax Character: Stemax Ping: 85
+PlayerID: 76561198354953801 Name: торвей Character: торвей Ping: 68
+
+Не обработано: MessageAnnouncer >> Broadcast: Внимание! PvP-режим по субботам! PvP-режим!!!
+TimerTerminateCommand.Enabled with Players:
+MessageAnnouncer >> Broadcast: Внимание! PvP-режим по субботам! PvP-режим!!!
+
+Не обработано: MessageAnnouncer >> Внимание! PvP-режим по субботам! PvP-режим!!!
+TimerTerminateCommand.Enabled with Players:
+MessageAnnouncer >> Внимание! PvP-режим по субботам! PvP-режим!!!
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294054553
+
+END with Bans:
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198151655003 Name: HemulGM Character: HemulGM Ping: 20
+PlayerID: 76561198318420959 Name: MAJOR Character: MAJOR Ping: 77
+PlayerID: 76561198277046351 Name: Stemax Character: Stemax Ping: 75
+PlayerID: 76561198354953801 Name: торвей Character: торвей Ping: 75
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294054533
+
+END with Bans:
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198151655003 Name: HemulGM Character: HemulGM Ping: 12
+PlayerID: 76561198318420959 Name: MAJOR Character: MAJOR Ping: 75
+PlayerID: 76561198277046351 Name: Stemax Character: Stemax Ping: 79
+PlayerID: 76561198354953801 Name: торвей Character: торвей Ping: 90
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294054513
+
+END with Bans:
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198151655003 Name: HemulGM Character: HemulGM Ping: 21
+PlayerID: 76561198318420959 Name: MAJOR Character: MAJOR Ping: 73
+PlayerID: 76561198277046351 Name: Stemax Character: Stemax Ping: 72
+PlayerID: 76561198354953801 Name: торвей Character: торвей Ping: 83
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294054493
+
+END with Bans:
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198151655003 Name: HemulGM Character: HemulGM Ping: 25
+PlayerID: 76561198318420959 Name: MAJOR Character: MAJOR Ping: 62
+PlayerID: 76561198277046351 Name: Stemax Character: Stemax Ping: 66
+PlayerID: 76561198354953801 Name: торвей Character: торвей Ping: 68
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294054473
+
+END with Bans:
+[World] торвей [торвей]: "/home"
+
+Не обработано: торвей moved x:560.7155 y:71.22818(+32.42085) z:885.9635 in the last second (0.2379227)
+торвей moved x:560.7155 y:71.22818(+32.42085) z:885.9635 in the last second (0.2379227)
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198151655003 Name: HemulGM Character: HemulGM Ping: 22
+PlayerID: 76561198318420959 Name: MAJOR Character: MAJOR Ping: 62
+PlayerID: 76561198277046351 Name: Stemax Character: Stemax Ping: 70
+PlayerID: 76561198354953801 Name: торвей Character: торвей Ping: 75
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294054453
+
+END with Bans:
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198151655003 Name: HemulGM Character: HemulGM Ping: 23
+PlayerID: 76561198318420959 Name: MAJOR Character: MAJOR Ping: 68
+PlayerID: 76561198277046351 Name: Stemax Character: Stemax Ping: 76
+PlayerID: 76561198354953801 Name: торвей Character: торвей Ping: 63
+
+Не обработано: MessageAnnouncer >> Broadcast: vk.com/unturned_hgm - группа сервера ВК, уникальный кит в записи!
+TimerTerminateCommand.Enabled with Players:
+MessageAnnouncer >> Broadcast: vk.com/unturned_hgm - группа сервера ВК, уникальный кит в записи!
+
+Не обработано: MessageAnnouncer >> vk.com/unturned_hgm - группа сервера ВК, уникальный кит в записи!
+TimerTerminateCommand.Enabled with Players:
+MessageAnnouncer >> vk.com/unturned_hgm - группа сервера ВК, уникальный кит в записи!
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294054433
+
+END with Bans:
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198151655003 Name: HemulGM Character: HemulGM Ping: 36
+PlayerID: 76561198318420959 Name: MAJOR Character: MAJOR Ping: 72
+PlayerID: 76561198277046351 Name: Stemax Character: Stemax Ping: 79
+PlayerID: 76561198354953801 Name: торвей Character: торвей Ping: 66
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294054413
+
+END with Bans:
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198151655003 Name: HemulGM Character: HemulGM Ping: 55
+PlayerID: 76561198318420959 Name: MAJOR Character: MAJOR Ping: 67
+PlayerID: 76561198277046351 Name: Stemax Character: Stemax Ping: 80
+PlayerID: 76561198354953801 Name: торвей Character: торвей Ping: 60
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294054393
+
+END with Bans:
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198151655003 Name: HemulGM Character: HemulGM Ping: 89
+PlayerID: 76561198318420959 Name: MAJOR Character: MAJOR Ping: 73
+PlayerID: 76561198277046351 Name: Stemax Character: Stemax Ping: 129
+PlayerID: 76561198354953801 Name: торвей Character: торвей Ping: 66
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294054373
+
+END with Bans:
+Не обработано: DeathMessagesRemastered >> Broadcast: Stemax был съеден зомби! 
+DeathMessagesRemastered >> Broadcast: Stemax был съеден зомби! 
+
+Не обработано: DropManager >> 3
+Не обработано: Stemax [Stemax] was mauled by a zombie!
+DropManager >> 3
+Stemax [Stemax] was mauled by a zombie!
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198151655003 Name: HemulGM Character: HemulGM Ping: 47
+PlayerID: 76561198318420959 Name: MAJOR Character: MAJOR Ping: 70
+PlayerID: 76561198277046351 Name: Stemax Character: Stemax Ping: 71
+PlayerID: 76561198354953801 Name: торвей Character: торвей Ping: 75
+
+TimerTerminateCommand.Enabled with Players:
+Connecting: PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294054352
+
+END with Bans:
+[World] Stemax [Stemax]: "/tpa major"
+
+[World] Expert1337 [Expert13372284200]: "/god"
+
+Не обработано: Expert1337 включен Godmode
+Expert1337 включен Godmode
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198151655003 Name: HemulGM Character: HemulGM Ping: 13
+PlayerID: 76561198318420959 Name: MAJOR Character: MAJOR Ping: 74
+PlayerID: 76561198277046351 Name: Stemax Character: Stemax Ping: 89
+PlayerID: 76561198354953801 Name: торвей Character: торвей Ping: 67
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 171
+
+TimerTerminateCommand.Enabled with Players:
+[World] MAJOR [MAJOR]: "/tpa a"
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294054332
+
+END with Bans:
+[World] Expert1337 [Expert13372284200]: "привет всем"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198151655003 Name: HemulGM Character: HemulGM Ping: 19
+PlayerID: 76561198318420959 Name: MAJOR Character: MAJOR Ping: 67
+PlayerID: 76561198277046351 Name: Stemax Character: Stemax Ping: 71
+PlayerID: 76561198354953801 Name: торвей Character: торвей Ping: 91
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 179
+
+Не обработано: MessageAnnouncer >> Broadcast: Наберите /kit help, чтобы получить первую мед. помощь (бинты, таблетки, еда)
+TimerTerminateCommand.Enabled with Players:
+MessageAnnouncer >> Broadcast: Наберите /kit help, чтобы получить первую мед. помощь (бинты, таблетки, еда)
+
+Не обработано: MessageAnnouncer >> Наберите /kit help, чтобы получить первую мед. помощь (бинты, таблетки, еда)
+TimerTerminateCommand.Enabled with Players:
+MessageAnnouncer >> Наберите /kit help, чтобы получить первую мед. помощь (бинты, таблетки, еда)
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294054313
+
+END with Bans:
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198151655003 Name: HemulGM Character: HemulGM Ping: 16
+PlayerID: 76561198318420959 Name: MAJOR Character: MAJOR Ping: 65
+PlayerID: 76561198277046351 Name: Stemax Character: Stemax Ping: 72
+PlayerID: 76561198354953801 Name: торвей Character: торвей Ping: 92
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 174
+
+Не обработано: VehicleEvents >> Vehicle has been despawned
+TimerTerminateCommand.Enabled with Players:
+VehicleEvents >> Vehicle has been despawned
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294054293
+
+END with Bans:
+[World] Expert1337 [Expert13372284200]: "/tp ste"
+
+Не обработано: Expert1337 телепортирован к Stemax
+Expert1337 телепортирован к Stemax
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198151655003 Name: HemulGM Character: HemulGM Ping: 19
+PlayerID: 76561198318420959 Name: MAJOR Character: MAJOR Ping: 85
+PlayerID: 76561198277046351 Name: Stemax Character: Stemax Ping: 78
+PlayerID: 76561198354953801 Name: торвей Character: торвей Ping: 111
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 180
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294054273
+
+END with Bans:
+Disconnecting: PlayerID: 76561198318420959 Name: MAJOR Character: MAJOR
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198151655003 Name: HemulGM Character: HemulGM Ping: 22
+PlayerID: 76561198277046351 Name: Stemax Character: Stemax Ping: 71
+PlayerID: 76561198354953801 Name: торвей Character: торвей Ping: 69
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 181
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294054253
+
+END with Bans:

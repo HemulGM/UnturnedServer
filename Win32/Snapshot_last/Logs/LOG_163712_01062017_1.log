@@ -1,0 +1,2099 @@
+Не обработано: RocketRcon v2.4.8.0
+RocketRcon v2.4.8.0
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198157563744 Name: Jason Voorhees Character: Jason Voorhees Ping: 78
+PlayerID: 76561198119414469 Name: Postman Pat Character: Postman Pat Ping: 70
+PlayerID: 76561198391626023 Name: roman.sagitov.2017 Character: Roma Sagitow Ping: 54
+PlayerID: 76561198295801599 Name: Lo[x] Character: Lo[x] Ping: 39
+PlayerID: 76561198176817369 Name: ?. Character: GlodiS Ping: 70
+PlayerID: 76561198280617288 Name: Незнаю какой придумать Character: Пипр Ping: 54
+PlayerID: 76561198123982483 Name: Mr. Noizy Character: mslvn Ping: 39
+PlayerID: 76561198354476455 Name: Unturned Character: данил лари Ping: 31
+PlayerID: 76561198327628144 Name: Planeset 25 Character: Planeset 25 Ping: 31
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 46
+PlayerID: 76561198292543416 Name: Mr_GiladKing Character: GamerYT Ping: 54
+PlayerID: 76561198358778621 Name: d.dalabaev Character: MRE Ping: 125
+
+TimerTerminateCommand.Enabled with Players:
+Client has executed command "bans"
+
+END with Players:
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 123123
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 31367775
+PlayerID: 123
+JudgeID: 0
+Reason: durila Duration: 4000 Remaining: 4294803569
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294831942
+
+END with Bans:
+[World] mslvn [Mr. Noizy]: "/tpa accept"
+
+Connecting: PlayerID: 76561198212068624 Name: Omega Character: MrOmega
+
+[World] Planeset 25 [Planeset 25]: "/tpa mrlvn"
+
+Не обработано: MessageAnnouncer >> Broadcast: Внимание! PvP-режим по субботам! PvP-режим!!!
+MessageAnnouncer >> Broadcast: Внимание! PvP-режим по субботам! PvP-режим!!!
+
+Не обработано: MessageAnnouncer >> Внимание! PvP-режим по субботам! PvP-режим!!!
+MessageAnnouncer >> Внимание! PvP-режим по субботам! PvP-режим!!!
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198157563744 Name: Jason Voorhees Character: Jason Voorhees Ping: 62
+PlayerID: 76561198119414469 Name: Postman Pat Character: Postman Pat Ping: 62
+PlayerID: 76561198391626023 Name: roman.sagitov.2017 Character: Roma Sagitow Ping: 39
+PlayerID: 76561198295801599 Name: Lo[x] Character: Lo[x] Ping: 54
+PlayerID: 76561198176817369 Name: ?. Character: GlodiS Ping: 70
+PlayerID: 76561198280617288 Name: Незнаю какой придумать Character: Пипр Ping: 39
+PlayerID: 76561198123982483 Name: Mr. Noizy Character: mslvn Ping: 54
+PlayerID: 76561198354476455 Name: Unturned Character: данил лари Ping: 31
+PlayerID: 76561198327628144 Name: Planeset 25 Character: Planeset 25 Ping: 31
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 39
+PlayerID: 76561198292543416 Name: Mr_GiladKing Character: GamerYT Ping: 62
+PlayerID: 76561198358778621 Name: d.dalabaev Character: MRE Ping: 117
+PlayerID: 76561198212068624 Name: Omega Character: MrOmega Ping: 85
+
+END with Players:
+[World] Planeset 25 [Planeset 25]: "/tpa mslvn"
+
+[Area] 7_AleX_3 [7_AleX_3]: "го на военку"
+
+Client has executed command "say "narod""
+
+[World] MrOmega [Omega]: "/kits"
+
+[World] mslvn [Mr. Noizy]: "/tpa accept"
+
+[World] MrOmega [Omega]: "/kit start"
+
+[Area] Пипр [Незнаю какой придумать]: "Что адм?"
+
+[World] Postman Pat [Postman Pat]: "Шта?"
+
+[World] Пипр [Незнаю какой придумать]: "ЧТо адм?"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198157563744 Name: Jason Voorhees Character: Jason Voorhees Ping: 70
+PlayerID: 76561198119414469 Name: Postman Pat Character: Postman Pat Ping: 62
+PlayerID: 76561198391626023 Name: roman.sagitov.2017 Character: Roma Sagitow Ping: 31
+PlayerID: 76561198295801599 Name: Lo[x] Character: Lo[x] Ping: 46
+PlayerID: 76561198176817369 Name: ?. Character: GlodiS Ping: 78
+PlayerID: 76561198280617288 Name: Незнаю какой придумать Character: Пипр Ping: 78
+PlayerID: 76561198123982483 Name: Mr. Noizy Character: mslvn Ping: 54
+PlayerID: 76561198354476455 Name: Unturned Character: данил лари Ping: 31
+PlayerID: 76561198327628144 Name: Planeset 25 Character: Planeset 25 Ping: 31
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 31
+PlayerID: 76561198292543416 Name: Mr_GiladKing Character: GamerYT Ping: 62
+PlayerID: 76561198358778621 Name: d.dalabaev Character: MRE Ping: 125
+PlayerID: 76561198212068624 Name: Omega Character: MrOmega Ping: 78
+
+END with Players:
+[Area] 7_AleX_3 [7_AleX_3]: "что"
+
+[World] MrOmega [Omega]: "/kit help"
+
+Client has executed command "say "vashu perepisku teper' vido na saite))""
+
+[World] MrOmega [Omega]: "/kit claim"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198157563744 Name: Jason Voorhees Character: Jason Voorhees Ping: 62
+PlayerID: 76561198119414469 Name: Postman Pat Character: Postman Pat Ping: 78
+PlayerID: 76561198391626023 Name: roman.sagitov.2017 Character: Roma Sagitow Ping: 31
+PlayerID: 76561198295801599 Name: Lo[x] Character: Lo[x] Ping: 54
+PlayerID: 76561198176817369 Name: ?. Character: GlodiS Ping: 70
+PlayerID: 76561198280617288 Name: Незнаю какой придумать Character: Пипр Ping: 54
+PlayerID: 76561198123982483 Name: Mr. Noizy Character: mslvn Ping: 46
+PlayerID: 76561198354476455 Name: Unturned Character: данил лари Ping: 31
+PlayerID: 76561198327628144 Name: Planeset 25 Character: Planeset 25 Ping: 31
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 31
+PlayerID: 76561198292543416 Name: Mr_GiladKing Character: GamerYT Ping: 39
+PlayerID: 76561198358778621 Name: d.dalabaev Character: MRE Ping: 109
+PlayerID: 76561198212068624 Name: Omega Character: MrOmega Ping: 140
+
+TimerTerminateCommand.Enabled with Players:
+[World] Postman Pat [Postman Pat]: "там про рейдусы?"
+
+TimerTerminateCommand.Enabled with Players:
+[World] Пипр [Незнаю какой придумать]: "Круто"
+
+TimerTerminateCommand.Enabled with Players:
+Client has executed command "say "esli ona v World napisana""
+
+END with Players:
+[World] Postman Pat [Postman Pat]: "а не"
+
+Client has executed command "say "net""
+
+[World] GlodiS [?.]: "а чё у меня safezone generator пропал?"
+
+[World] Postman Pat [Postman Pat]: "я думал арея и группа"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198157563744 Name: Jason Voorhees Character: Jason Voorhees Ping: 70
+PlayerID: 76561198119414469 Name: Postman Pat Character: Postman Pat Ping: 39
+PlayerID: 76561198391626023 Name: roman.sagitov.2017 Character: Roma Sagitow Ping: 31
+PlayerID: 76561198295801599 Name: Lo[x] Character: Lo[x] Ping: 46
+PlayerID: 76561198176817369 Name: ?. Character: GlodiS Ping: 54
+PlayerID: 76561198280617288 Name: Незнаю какой придумать Character: Пипр Ping: 93
+PlayerID: 76561198123982483 Name: Mr. Noizy Character: mslvn Ping: 85
+PlayerID: 76561198354476455 Name: Unturned Character: данил лари Ping: 31
+PlayerID: 76561198327628144 Name: Planeset 25 Character: Planeset 25 Ping: 31
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 31
+PlayerID: 76561198292543416 Name: Mr_GiladKing Character: GamerYT Ping: 54
+PlayerID: 76561198358778621 Name: d.dalabaev Character: MRE Ping: 109
+PlayerID: 76561198212068624 Name: Omega Character: MrOmega Ping: 187
+
+TimerTerminateCommand.Enabled with Players:
+[World] GlodiS [?.]: "он что запрещён?"
+
+END with Players:
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198157563744 Name: Jason Voorhees Character: Jason Voorhees Ping: 70
+PlayerID: 76561198119414469 Name: Postman Pat Character: Postman Pat Ping: 46
+PlayerID: 76561198391626023 Name: roman.sagitov.2017 Character: Roma Sagitow Ping: 39
+PlayerID: 76561198295801599 Name: Lo[x] Character: Lo[x] Ping: 54
+PlayerID: 76561198176817369 Name: ?. Character: GlodiS Ping: 85
+PlayerID: 76561198280617288 Name: Незнаю какой придумать Character: Пипр Ping: 46
+PlayerID: 76561198123982483 Name: Mr. Noizy Character: mslvn Ping: 70
+PlayerID: 76561198354476455 Name: Unturned Character: данил лари Ping: 39
+PlayerID: 76561198327628144 Name: Planeset 25 Character: Planeset 25 Ping: 31
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 31
+PlayerID: 76561198292543416 Name: Mr_GiladKing Character: GamerYT Ping: 46
+PlayerID: 76561198358778621 Name: d.dalabaev Character: MRE Ping: 125
+PlayerID: 76561198212068624 Name: Omega Character: MrOmega Ping: 85
+
+TimerTerminateCommand.Enabled with Players:
+[Area] 7_AleX_3 [7_AleX_3]: "го"
+
+END with Players:
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198157563744 Name: Jason Voorhees Character: Jason Voorhees Ping: 70
+PlayerID: 76561198119414469 Name: Postman Pat Character: Postman Pat Ping: 62
+PlayerID: 76561198391626023 Name: roman.sagitov.2017 Character: Roma Sagitow Ping: 31
+PlayerID: 76561198295801599 Name: Lo[x] Character: Lo[x] Ping: 46
+PlayerID: 76561198176817369 Name: ?. Character: GlodiS Ping: 70
+PlayerID: 76561198280617288 Name: Незнаю какой придумать Character: Пипр Ping: 39
+PlayerID: 76561198123982483 Name: Mr. Noizy Character: mslvn Ping: 46
+PlayerID: 76561198354476455 Name: Unturned Character: данил лари Ping: 39
+PlayerID: 76561198327628144 Name: Planeset 25 Character: Planeset 25 Ping: 31
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 39
+PlayerID: 76561198292543416 Name: Mr_GiladKing Character: GamerYT Ping: 46
+PlayerID: 76561198358778621 Name: d.dalabaev Character: MRE Ping: 125
+PlayerID: 76561198212068624 Name: Omega Character: MrOmega Ping: 78
+
+END with Players:
+[Area] Пипр [Незнаю какой придумать]: "иди я притивогаз хочу выбить"
+
+Не обработано: MessageAnnouncer >> Broadcast: vk.com/unturned_hgm - группа сервера ВК, уникальный кит в записи!
+MessageAnnouncer >> Broadcast: vk.com/unturned_hgm - группа сервера ВК, уникальный кит в записи!
+
+Не обработано: MessageAnnouncer >> vk.com/unturned_hgm - группа сервера ВК, уникальный кит в записи!
+MessageAnnouncer >> vk.com/unturned_hgm - группа сервера ВК, уникальный кит в записи!
+
+[Area] Пипр [Незнаю какой придумать]: "вода есть?"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198157563744 Name: Jason Voorhees Character: Jason Voorhees Ping: 62
+PlayerID: 76561198119414469 Name: Postman Pat Character: Postman Pat Ping: 54
+PlayerID: 76561198391626023 Name: roman.sagitov.2017 Character: Roma Sagitow Ping: 31
+PlayerID: 76561198295801599 Name: Lo[x] Character: Lo[x] Ping: 39
+PlayerID: 76561198176817369 Name: ?. Character: GlodiS Ping: 62
+PlayerID: 76561198280617288 Name: Незнаю какой придумать Character: Пипр Ping: 39
+PlayerID: 76561198123982483 Name: Mr. Noizy Character: mslvn Ping: 78
+PlayerID: 76561198354476455 Name: Unturned Character: данил лари Ping: 39
+PlayerID: 76561198327628144 Name: Planeset 25 Character: Planeset 25 Ping: 31
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 31
+PlayerID: 76561198292543416 Name: Mr_GiladKing Character: GamerYT Ping: 39
+PlayerID: 76561198358778621 Name: d.dalabaev Character: MRE Ping: 125
+PlayerID: 76561198212068624 Name: Omega Character: MrOmega Ping: 78
+
+END with Players:
+Не обработано: Postman Pat moved x:895.3415 y:84.49724(+45.81042) z:888.6433 in the last second (0.28965)
+Postman Pat moved x:895.3415 y:84.49724(+45.81042) z:888.6433 in the last second (0.28965)
+
+[Area] Пипр [Незнаю какой придумать]: "Спасибо"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198157563744 Name: Jason Voorhees Character: Jason Voorhees Ping: 62
+PlayerID: 76561198119414469 Name: Postman Pat Character: Postman Pat Ping: 85
+PlayerID: 76561198391626023 Name: roman.sagitov.2017 Character: Roma Sagitow Ping: 39
+PlayerID: 76561198295801599 Name: Lo[x] Character: Lo[x] Ping: 46
+PlayerID: 76561198176817369 Name: ?. Character: GlodiS Ping: 85
+PlayerID: 76561198280617288 Name: Незнаю какой придумать Character: Пипр Ping: 62
+PlayerID: 76561198123982483 Name: Mr. Noizy Character: mslvn Ping: 70
+PlayerID: 76561198354476455 Name: Unturned Character: данил лари Ping: 39
+PlayerID: 76561198327628144 Name: Planeset 25 Character: Planeset 25 Ping: 31
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 31
+PlayerID: 76561198292543416 Name: Mr_GiladKing Character: GamerYT Ping: 54
+PlayerID: 76561198358778621 Name: d.dalabaev Character: MRE Ping: 132
+PlayerID: 76561198212068624 Name: Omega Character: MrOmega Ping: 70
+
+END with Players:
+[Area] 7_AleX_3 [7_AleX_3]: "го на военку"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198157563744 Name: Jason Voorhees Character: Jason Voorhees Ping: 62
+PlayerID: 76561198119414469 Name: Postman Pat Character: Postman Pat Ping: 54
+PlayerID: 76561198391626023 Name: roman.sagitov.2017 Character: Roma Sagitow Ping: 62
+PlayerID: 76561198295801599 Name: Lo[x] Character: Lo[x] Ping: 62
+PlayerID: 76561198176817369 Name: ?. Character: GlodiS Ping: 62
+PlayerID: 76561198280617288 Name: Незнаю какой придумать Character: Пипр Ping: 39
+PlayerID: 76561198123982483 Name: Mr. Noizy Character: mslvn Ping: 85
+PlayerID: 76561198354476455 Name: Unturned Character: данил лари Ping: 46
+PlayerID: 76561198327628144 Name: Planeset 25 Character: Planeset 25 Ping: 23
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 31
+PlayerID: 76561198292543416 Name: Mr_GiladKing Character: GamerYT Ping: 46
+PlayerID: 76561198358778621 Name: d.dalabaev Character: MRE Ping: 117
+PlayerID: 76561198212068624 Name: Omega Character: MrOmega Ping: 78
+
+TimerTerminateCommand.Enabled with Players:
+Connecting: PlayerID: 76561198322926275 Name: kirill Character: kirill
+
+TimerTerminateCommand.Enabled with Players:
+[Area] 7_AleX_3 [7_AleX_3]: "го нет"
+
+END with Players:
+[Area] Пипр [Незнаю какой придумать]: "ну го"
+
+[Area] Пипр [Незнаю какой придумать]: "тп"
+
+[Group] kirill [kirill]: "/kits"
+
+[Area] 7_AleX_3 [7_AleX_3]: "куда"
+
+[Area] Пипр [Незнаю какой придумать]: "/home"
+
+Не обработано: Пипр moved x:-695.5986 y:82.72859(+44.25127) z:324.784 in the last second (0.2379227)
+Пипр moved x:-695.5986 y:82.72859(+44.25127) z:324.784 in the last second (0.2379227)
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198157563744 Name: Jason Voorhees Character: Jason Voorhees Ping: 54
+PlayerID: 76561198119414469 Name: Postman Pat Character: Postman Pat Ping: 70
+PlayerID: 76561198391626023 Name: roman.sagitov.2017 Character: Roma Sagitow Ping: 39
+PlayerID: 76561198295801599 Name: Lo[x] Character: Lo[x] Ping: 46
+PlayerID: 76561198176817369 Name: ?. Character: GlodiS Ping: 85
+PlayerID: 76561198280617288 Name: Незнаю какой придумать Character: Пипр Ping: 70
+PlayerID: 76561198123982483 Name: Mr. Noizy Character: mslvn Ping: 85
+PlayerID: 76561198354476455 Name: Unturned Character: данил лари Ping: 39
+PlayerID: 76561198327628144 Name: Planeset 25 Character: Planeset 25 Ping: 31
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 23
+PlayerID: 76561198292543416 Name: Mr_GiladKing Character: GamerYT Ping: 62
+PlayerID: 76561198358778621 Name: d.dalabaev Character: MRE Ping: 117
+PlayerID: 76561198212068624 Name: Omega Character: MrOmega Ping: 93
+PlayerID: 76561198322926275 Name: kirill Character: kirill Ping: 125
+
+END with Players:
+[Area] 7_AleX_3 [7_AleX_3]: "/tpa пипр"
+
+[Area] Пипр [Незнаю какой придумать]: "/tpa a"
+
+Не обработано: 7_AleX_3 moved x:-694.9067 y:77.89697(+39.41965) z:331.4145 in the last second (0.1183701)
+7_AleX_3 moved x:-694.9067 y:77.89697(+39.41965) z:331.4145 in the last second (0.1183701)
+
+[Group] kirill [kirill]: "/kit start"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198157563744 Name: Jason Voorhees Character: Jason Voorhees Ping: 70
+PlayerID: 76561198119414469 Name: Postman Pat Character: Postman Pat Ping: 70
+PlayerID: 76561198391626023 Name: roman.sagitov.2017 Character: Roma Sagitow Ping: 46
+PlayerID: 76561198295801599 Name: Lo[x] Character: Lo[x] Ping: 54
+PlayerID: 76561198176817369 Name: ?. Character: GlodiS Ping: 70
+PlayerID: 76561198280617288 Name: Незнаю какой придумать Character: Пипр Ping: 85
+PlayerID: 76561198123982483 Name: Mr. Noizy Character: mslvn Ping: 78
+PlayerID: 76561198354476455 Name: Unturned Character: данил лари Ping: 39
+PlayerID: 76561198327628144 Name: Planeset 25 Character: Planeset 25 Ping: 31
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 31
+PlayerID: 76561198292543416 Name: Mr_GiladKing Character: GamerYT Ping: 54
+PlayerID: 76561198358778621 Name: d.dalabaev Character: MRE Ping: 125
+PlayerID: 76561198212068624 Name: Omega Character: MrOmega Ping: 78
+PlayerID: 76561198322926275 Name: kirill Character: kirill Ping: 132
+
+TimerTerminateCommand.Enabled with Players:
+[Group] kirill [kirill]: "/kit help"
+
+END with Players:
+[Group] kirill [kirill]: "/kit claim"
+
+[World] Roma Sagitow [roman.sagitov.2017]: "/kit start"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198157563744 Name: Jason Voorhees Character: Jason Voorhees Ping: 70
+PlayerID: 76561198119414469 Name: Postman Pat Character: Postman Pat Ping: 62
+PlayerID: 76561198391626023 Name: roman.sagitov.2017 Character: Roma Sagitow Ping: 62
+PlayerID: 76561198295801599 Name: Lo[x] Character: Lo[x] Ping: 62
+PlayerID: 76561198176817369 Name: ?. Character: GlodiS Ping: 62
+PlayerID: 76561198280617288 Name: Незнаю какой придумать Character: Пипр Ping: 62
+PlayerID: 76561198123982483 Name: Mr. Noizy Character: mslvn Ping: 70
+PlayerID: 76561198354476455 Name: Unturned Character: данил лари Ping: 39
+PlayerID: 76561198327628144 Name: Planeset 25 Character: Planeset 25 Ping: 31
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 46
+PlayerID: 76561198292543416 Name: Mr_GiladKing Character: GamerYT Ping: 62
+PlayerID: 76561198358778621 Name: d.dalabaev Character: MRE Ping: 125
+PlayerID: 76561198212068624 Name: Omega Character: MrOmega Ping: 85
+PlayerID: 76561198322926275 Name: kirill Character: kirill Ping: 125
+
+END with Players:
+Не обработано: MessageAnnouncer >> Broadcast: Наберите /kit help, чтобы получить первую мед. помощь (бинты, таблетки, еда)
+MessageAnnouncer >> Broadcast: Наберите /kit help, чтобы получить первую мед. помощь (бинты, таблетки, еда)
+
+Не обработано: MessageAnnouncer >> Наберите /kit help, чтобы получить первую мед. помощь (бинты, таблетки, еда)
+MessageAnnouncer >> Наберите /kit help, чтобы получить первую мед. помощь (бинты, таблетки, еда)
+
+[Area] Пипр [Незнаю какой придумать]: "ты где?"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198157563744 Name: Jason Voorhees Character: Jason Voorhees Ping: 70
+PlayerID: 76561198119414469 Name: Postman Pat Character: Postman Pat Ping: 54
+PlayerID: 76561198391626023 Name: roman.sagitov.2017 Character: Roma Sagitow Ping: 46
+PlayerID: 76561198295801599 Name: Lo[x] Character: Lo[x] Ping: 46
+PlayerID: 76561198176817369 Name: ?. Character: GlodiS Ping: 62
+PlayerID: 76561198280617288 Name: Незнаю какой придумать Character: Пипр Ping: 85
+PlayerID: 76561198123982483 Name: Mr. Noizy Character: mslvn Ping: 62
+PlayerID: 76561198354476455 Name: Unturned Character: данил лари Ping: 39
+PlayerID: 76561198327628144 Name: Planeset 25 Character: Planeset 25 Ping: 31
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 46
+PlayerID: 76561198292543416 Name: Mr_GiladKing Character: GamerYT Ping: 78
+PlayerID: 76561198358778621 Name: d.dalabaev Character: MRE Ping: 125
+PlayerID: 76561198212068624 Name: Omega Character: MrOmega Ping: 78
+PlayerID: 76561198322926275 Name: kirill Character: kirill Ping: 125
+
+END with Players:
+[World] MRE [d.dalabaev]: "/kit hgm1"
+
+[World] Пипр [Незнаю какой придумать]: "АЛекс ті где?"
+
+[Area] 7_AleX_3 [7_AleX_3]: "сюда"
+
+[Area] 7_AleX_3 [7_AleX_3]: "тп"
+
+[Group] kirill [kirill]: "!кто тим будет"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198157563744 Name: Jason Voorhees Character: Jason Voorhees Ping: 70
+PlayerID: 76561198119414469 Name: Postman Pat Character: Postman Pat Ping: 54
+PlayerID: 76561198391626023 Name: roman.sagitov.2017 Character: Roma Sagitow Ping: 54
+PlayerID: 76561198295801599 Name: Lo[x] Character: Lo[x] Ping: 54
+PlayerID: 76561198176817369 Name: ?. Character: GlodiS Ping: 78
+PlayerID: 76561198280617288 Name: Незнаю какой придумать Character: Пипр Ping: 70
+PlayerID: 76561198123982483 Name: Mr. Noizy Character: mslvn Ping: 62
+PlayerID: 76561198354476455 Name: Unturned Character: данил лари Ping: 46
+PlayerID: 76561198327628144 Name: Planeset 25 Character: Planeset 25 Ping: 31
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 31
+PlayerID: 76561198292543416 Name: Mr_GiladKing Character: GamerYT Ping: 62
+PlayerID: 76561198358778621 Name: d.dalabaev Character: MRE Ping: 125
+PlayerID: 76561198212068624 Name: Omega Character: MrOmega Ping: 62
+PlayerID: 76561198322926275 Name: kirill Character: kirill Ping: 132
+
+END with Players:
+[Area] Пипр [Незнаю какой придумать]: "я тут был"
+
+[World] kirill [kirill]: "кто тим будит"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198157563744 Name: Jason Voorhees Character: Jason Voorhees Ping: 62
+PlayerID: 76561198119414469 Name: Postman Pat Character: Postman Pat Ping: 46
+PlayerID: 76561198391626023 Name: roman.sagitov.2017 Character: Roma Sagitow Ping: 62
+PlayerID: 76561198295801599 Name: Lo[x] Character: Lo[x] Ping: 54
+PlayerID: 76561198176817369 Name: ?. Character: GlodiS Ping: 70
+PlayerID: 76561198280617288 Name: Незнаю какой придумать Character: Пипр Ping: 46
+PlayerID: 76561198123982483 Name: Mr. Noizy Character: mslvn Ping: 70
+PlayerID: 76561198354476455 Name: Unturned Character: данил лари Ping: 31
+PlayerID: 76561198327628144 Name: Planeset 25 Character: Planeset 25 Ping: 31
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 39
+PlayerID: 76561198292543416 Name: Mr_GiladKing Character: GamerYT Ping: 62
+PlayerID: 76561198358778621 Name: d.dalabaev Character: MRE Ping: 117
+PlayerID: 76561198212068624 Name: Omega Character: MrOmega Ping: 78
+PlayerID: 76561198322926275 Name: kirill Character: kirill Ping: 117
+
+END with Players:
+[Area] Пипр [Незнаю какой придумать]: "сюда зайди"
+
+Не обработано: DeathMessagesRemastered >> Broadcast: Planeset 25 has been mauled by a zombie! 
+DeathMessagesRemastered >> Broadcast: Planeset 25 has been mauled by a zombie! 
+
+Не обработано: Planeset 25 [Planeset 25] was mauled by a zombie!
+Planeset 25 [Planeset 25] was mauled by a zombie!
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198157563744 Name: Jason Voorhees Character: Jason Voorhees Ping: 62
+PlayerID: 76561198119414469 Name: Postman Pat Character: Postman Pat Ping: 62
+PlayerID: 76561198391626023 Name: roman.sagitov.2017 Character: Roma Sagitow Ping: 62
+PlayerID: 76561198295801599 Name: Lo[x] Character: Lo[x] Ping: 54
+PlayerID: 76561198176817369 Name: ?. Character: GlodiS Ping: 70
+PlayerID: 76561198280617288 Name: Незнаю какой придумать Character: Пипр Ping: 54
+PlayerID: 76561198123982483 Name: Mr. Noizy Character: mslvn Ping: 46
+PlayerID: 76561198354476455 Name: Unturned Character: данил лари Ping: 39
+PlayerID: 76561198327628144 Name: Planeset 25 Character: Planeset 25 Ping: 31
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 46
+PlayerID: 76561198292543416 Name: Mr_GiladKing Character: GamerYT Ping: 85
+PlayerID: 76561198358778621 Name: d.dalabaev Character: MRE Ping: 125
+PlayerID: 76561198212068624 Name: Omega Character: MrOmega Ping: 78
+PlayerID: 76561198322926275 Name: kirill Character: kirill Ping: 117
+
+END with Players:
+[World] Planeset 25 [Planeset 25]: "/tpa mslvn"
+
+[World] mslvn [Mr. Noizy]: "/tpa accept"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198157563744 Name: Jason Voorhees Character: Jason Voorhees Ping: 78
+PlayerID: 76561198119414469 Name: Postman Pat Character: Postman Pat Ping: 62
+PlayerID: 76561198391626023 Name: roman.sagitov.2017 Character: Roma Sagitow Ping: 46
+PlayerID: 76561198295801599 Name: Lo[x] Character: Lo[x] Ping: 54
+PlayerID: 76561198176817369 Name: ?. Character: GlodiS Ping: 78
+PlayerID: 76561198280617288 Name: Незнаю какой придумать Character: Пипр Ping: 46
+PlayerID: 76561198123982483 Name: Mr. Noizy Character: mslvn Ping: 85
+PlayerID: 76561198354476455 Name: Unturned Character: данил лари Ping: 31
+PlayerID: 76561198327628144 Name: Planeset 25 Character: Planeset 25 Ping: 31
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 23
+PlayerID: 76561198292543416 Name: Mr_GiladKing Character: GamerYT Ping: 70
+PlayerID: 76561198358778621 Name: d.dalabaev Character: MRE Ping: 117
+PlayerID: 76561198212068624 Name: Omega Character: MrOmega Ping: 93
+PlayerID: 76561198322926275 Name: kirill Character: kirill Ping: 132
+
+END with Players:
+[World] GamerYT [Mr_GiladKing]: "/home"
+
+Не обработано: GamerYT moved x:-644.1776 y:76.35297(+24.0185) z:254.6572 in the last second (0.2379227)
+GamerYT moved x:-644.1776 y:76.35297(+24.0185) z:254.6572 in the last second (0.2379227)
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198157563744 Name: Jason Voorhees Character: Jason Voorhees Ping: 62
+PlayerID: 76561198119414469 Name: Postman Pat Character: Postman Pat Ping: 62
+PlayerID: 76561198391626023 Name: roman.sagitov.2017 Character: Roma Sagitow Ping: 46
+PlayerID: 76561198295801599 Name: Lo[x] Character: Lo[x] Ping: 46
+PlayerID: 76561198176817369 Name: ?. Character: GlodiS Ping: 70
+PlayerID: 76561198280617288 Name: Незнаю какой придумать Character: Пипр Ping: 46
+PlayerID: 76561198123982483 Name: Mr. Noizy Character: mslvn Ping: 70
+PlayerID: 76561198354476455 Name: Unturned Character: данил лари Ping: 31
+PlayerID: 76561198327628144 Name: Planeset 25 Character: Planeset 25 Ping: 31
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 31
+PlayerID: 76561198292543416 Name: Mr_GiladKing Character: GamerYT Ping: 54
+PlayerID: 76561198358778621 Name: d.dalabaev Character: MRE Ping: 109
+PlayerID: 76561198212068624 Name: Omega Character: MrOmega Ping: 101
+PlayerID: 76561198322926275 Name: kirill Character: kirill Ping: 101
+
+END with Players:
+Не обработано: MessageAnnouncer >> Broadcast: vk.com/unturned_hgm - цены на премиум, VIP и другие услуги смотрите в группе!
+MessageAnnouncer >> Broadcast: vk.com/unturned_hgm - цены на премиум, VIP и другие услуги смотрите в группе!
+
+Не обработано: MessageAnnouncer >> vk.com/unturned_hgm - цены на премиум, VIP и другие услуги смотрите в группе!
+MessageAnnouncer >> vk.com/unturned_hgm - цены на премиум, VIP и другие услуги смотрите в группе!
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198157563744 Name: Jason Voorhees Character: Jason Voorhees Ping: 54
+PlayerID: 76561198119414469 Name: Postman Pat Character: Postman Pat Ping: 54
+PlayerID: 76561198391626023 Name: roman.sagitov.2017 Character: Roma Sagitow Ping: 39
+PlayerID: 76561198295801599 Name: Lo[x] Character: Lo[x] Ping: 46
+PlayerID: 76561198176817369 Name: ?. Character: GlodiS Ping: 85
+PlayerID: 76561198280617288 Name: Незнаю какой придумать Character: Пипр Ping: 62
+PlayerID: 76561198123982483 Name: Mr. Noizy Character: mslvn Ping: 78
+PlayerID: 76561198354476455 Name: Unturned Character: данил лари Ping: 31
+PlayerID: 76561198327628144 Name: Planeset 25 Character: Planeset 25 Ping: 31
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 31
+PlayerID: 76561198292543416 Name: Mr_GiladKing Character: GamerYT Ping: 54
+PlayerID: 76561198358778621 Name: d.dalabaev Character: MRE Ping: 125
+PlayerID: 76561198212068624 Name: Omega Character: MrOmega Ping: 93
+PlayerID: 76561198322926275 Name: kirill Character: kirill Ping: 117
+
+END with Players:
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198157563744 Name: Jason Voorhees Character: Jason Voorhees Ping: 62
+PlayerID: 76561198119414469 Name: Postman Pat Character: Postman Pat Ping: 62
+PlayerID: 76561198391626023 Name: roman.sagitov.2017 Character: Roma Sagitow Ping: 31
+PlayerID: 76561198295801599 Name: Lo[x] Character: Lo[x] Ping: 54
+PlayerID: 76561198176817369 Name: ?. Character: GlodiS Ping: 70
+PlayerID: 76561198280617288 Name: Незнаю какой придумать Character: Пипр Ping: 46
+PlayerID: 76561198123982483 Name: Mr. Noizy Character: mslvn Ping: 78
+PlayerID: 76561198354476455 Name: Unturned Character: данил лари Ping: 54
+PlayerID: 76561198327628144 Name: Planeset 25 Character: Planeset 25 Ping: 39
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 46
+PlayerID: 76561198292543416 Name: Mr_GiladKing Character: GamerYT Ping: 54
+PlayerID: 76561198358778621 Name: d.dalabaev Character: MRE Ping: 117
+PlayerID: 76561198212068624 Name: Omega Character: MrOmega Ping: 93
+PlayerID: 76561198322926275 Name: kirill Character: kirill Ping: 148
+
+END with Players:
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198157563744 Name: Jason Voorhees Character: Jason Voorhees Ping: 62
+PlayerID: 76561198119414469 Name: Postman Pat Character: Postman Pat Ping: 46
+PlayerID: 76561198391626023 Name: roman.sagitov.2017 Character: Roma Sagitow Ping: 39
+PlayerID: 76561198295801599 Name: Lo[x] Character: Lo[x] Ping: 62
+PlayerID: 76561198176817369 Name: ?. Character: GlodiS Ping: 62
+PlayerID: 76561198280617288 Name: Незнаю какой придумать Character: Пипр Ping: 54
+PlayerID: 76561198123982483 Name: Mr. Noizy Character: mslvn Ping: 85
+PlayerID: 76561198354476455 Name: Unturned Character: данил лари Ping: 39
+PlayerID: 76561198327628144 Name: Planeset 25 Character: Planeset 25 Ping: 31
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 31
+PlayerID: 76561198292543416 Name: Mr_GiladKing Character: GamerYT Ping: 70
+PlayerID: 76561198358778621 Name: d.dalabaev Character: MRE Ping: 117
+PlayerID: 76561198212068624 Name: Omega Character: MrOmega Ping: 70
+PlayerID: 76561198322926275 Name: kirill Character: kirill Ping: 132
+
+END with Players:
+[Area] 7_AleX_3 [7_AleX_3]: "адай колесо"
+
+Не обработано: VehicleEvents >> Broadcast: Брошенный квадроцикл в Everett! Найди его и он твой!
+VehicleEvents >> Broadcast: Брошенный квадроцикл в Everett! Найди его и он твой!
+
+Connecting: PlayerID: 76561198324996335 Name: Mуждей щи Мамалыга Character: []Max[]
+
+[Area] 7_AleX_3 [7_AleX_3]: "адай"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198157563744 Name: Jason Voorhees Character: Jason Voorhees Ping: 78
+PlayerID: 76561198119414469 Name: Postman Pat Character: Postman Pat Ping: 62
+PlayerID: 76561198391626023 Name: roman.sagitov.2017 Character: Roma Sagitow Ping: 39
+PlayerID: 76561198295801599 Name: Lo[x] Character: Lo[x] Ping: 54
+PlayerID: 76561198176817369 Name: ?. Character: GlodiS Ping: 78
+PlayerID: 76561198280617288 Name: Незнаю какой придумать Character: Пипр Ping: 54
+PlayerID: 76561198123982483 Name: Mr. Noizy Character: mslvn Ping: 62
+PlayerID: 76561198354476455 Name: Unturned Character: данил лари Ping: 46
+PlayerID: 76561198327628144 Name: Planeset 25 Character: Planeset 25 Ping: 31
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 31
+PlayerID: 76561198292543416 Name: Mr_GiladKing Character: GamerYT Ping: 54
+PlayerID: 76561198358778621 Name: d.dalabaev Character: MRE Ping: 125
+PlayerID: 76561198212068624 Name: Omega Character: MrOmega Ping: 156
+PlayerID: 76561198322926275 Name: kirill Character: kirill Ping: 117
+PlayerID: 76561198324996335 Name: Mуждей щи Мамалыга Character: []Max[] Ping: 375
+
+TimerTerminateCommand.Enabled with Players:
+[World] Lo[x] [Lo[x]]: "/home"
+
+TimerTerminateCommand.Enabled with Players:
+[Area] Пипр [Незнаю какой придумать]: "я положил тпм"
+
+END with Players:
+[Area] Пипр [Незнаю какой придумать]: "вот оно"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198157563744 Name: Jason Voorhees Character: Jason Voorhees Ping: 70
+PlayerID: 76561198119414469 Name: Postman Pat Character: Postman Pat Ping: 54
+PlayerID: 76561198391626023 Name: roman.sagitov.2017 Character: Roma Sagitow Ping: 46
+PlayerID: 76561198295801599 Name: Lo[x] Character: Lo[x] Ping: 54
+PlayerID: 76561198176817369 Name: ?. Character: GlodiS Ping: 70
+PlayerID: 76561198280617288 Name: Незнаю какой придумать Character: Пипр Ping: 62
+PlayerID: 76561198123982483 Name: Mr. Noizy Character: mslvn Ping: 70
+PlayerID: 76561198354476455 Name: Unturned Character: данил лари Ping: 31
+PlayerID: 76561198327628144 Name: Planeset 25 Character: Planeset 25 Ping: 31
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 31
+PlayerID: 76561198292543416 Name: Mr_GiladKing Character: GamerYT Ping: 54
+PlayerID: 76561198358778621 Name: d.dalabaev Character: MRE Ping: 140
+PlayerID: 76561198212068624 Name: Omega Character: MrOmega Ping: 78
+PlayerID: 76561198322926275 Name: kirill Character: kirill Ping: 109
+PlayerID: 76561198324996335 Name: Mуждей щи Мамалыга Character: []Max[] Ping: 101
+
+TimerTerminateCommand.Enabled with Players:
+[World] GamerYT [Mr_GiladKing]: "/tpa да"
+
+END with Players:
+[World] данил лари [Unturned]: "/tpa a"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198157563744 Name: Jason Voorhees Character: Jason Voorhees Ping: 54
+PlayerID: 76561198119414469 Name: Postman Pat Character: Postman Pat Ping: 70
+PlayerID: 76561198391626023 Name: roman.sagitov.2017 Character: Roma Sagitow Ping: 31
+PlayerID: 76561198295801599 Name: Lo[x] Character: Lo[x] Ping: 46
+PlayerID: 76561198176817369 Name: ?. Character: GlodiS Ping: 70
+PlayerID: 76561198280617288 Name: Незнаю какой придумать Character: Пипр Ping: 70
+PlayerID: 76561198123982483 Name: Mr. Noizy Character: mslvn Ping: 78
+PlayerID: 76561198354476455 Name: Unturned Character: данил лари Ping: 31
+PlayerID: 76561198327628144 Name: Planeset 25 Character: Planeset 25 Ping: 31
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 31
+PlayerID: 76561198292543416 Name: Mr_GiladKing Character: GamerYT Ping: 39
+PlayerID: 76561198358778621 Name: d.dalabaev Character: MRE Ping: 132
+PlayerID: 76561198212068624 Name: Omega Character: MrOmega Ping: 70
+PlayerID: 76561198322926275 Name: kirill Character: kirill Ping: 101
+PlayerID: 76561198324996335 Name: Mуждей щи Мамалыга Character: []Max[] Ping: 289
+
+END with Players:
+[Area] 7_AleX_3 [7_AleX_3]: "есь машина"
+
+Не обработано: MessageAnnouncer >> Broadcast: Наберите /kit claim, чтобы получить Claim Flag
+MessageAnnouncer >> Broadcast: Наберите /kit claim, чтобы получить Claim Flag
+
+Не обработано: MessageAnnouncer >> Наберите /kit claim, чтобы получить Claim Flag
+MessageAnnouncer >> Наберите /kit claim, чтобы получить Claim Flag
+
+Не обработано: Postman Pat moved x:805.8104 y:67.59582(+27.33372) z:150.3564 in the last second (0.1751022)
+Postman Pat moved x:805.8104 y:67.59582(+27.33372) z:150.3564 in the last second (0.1751022)
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198157563744 Name: Jason Voorhees Character: Jason Voorhees Ping: 62
+PlayerID: 76561198119414469 Name: Postman Pat Character: Postman Pat Ping: 62
+PlayerID: 76561198391626023 Name: roman.sagitov.2017 Character: Roma Sagitow Ping: 62
+PlayerID: 76561198295801599 Name: Lo[x] Character: Lo[x] Ping: 62
+PlayerID: 76561198176817369 Name: ?. Character: GlodiS Ping: 70
+PlayerID: 76561198280617288 Name: Незнаю какой придумать Character: Пипр Ping: 46
+PlayerID: 76561198123982483 Name: Mr. Noizy Character: mslvn Ping: 39
+PlayerID: 76561198354476455 Name: Unturned Character: данил лари Ping: 54
+PlayerID: 76561198327628144 Name: Planeset 25 Character: Planeset 25 Ping: 31
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 31
+PlayerID: 76561198292543416 Name: Mr_GiladKing Character: GamerYT Ping: 85
+PlayerID: 76561198358778621 Name: d.dalabaev Character: MRE Ping: 117
+PlayerID: 76561198212068624 Name: Omega Character: MrOmega Ping: 148
+PlayerID: 76561198322926275 Name: kirill Character: kirill Ping: 101
+PlayerID: 76561198324996335 Name: Mуждей щи Мамалыга Character: []Max[] Ping: 70
+
+END with Players:
+[Area] 7_AleX_3 [7_AleX_3]: "можно поведу"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198157563744 Name: Jason Voorhees Character: Jason Voorhees Ping: 62
+PlayerID: 76561198119414469 Name: Postman Pat Character: Postman Pat Ping: 70
+PlayerID: 76561198391626023 Name: roman.sagitov.2017 Character: Roma Sagitow Ping: 39
+PlayerID: 76561198295801599 Name: Lo[x] Character: Lo[x] Ping: 54
+PlayerID: 76561198176817369 Name: ?. Character: GlodiS Ping: 70
+PlayerID: 76561198280617288 Name: Незнаю какой придумать Character: Пипр Ping: 62
+PlayerID: 76561198123982483 Name: Mr. Noizy Character: mslvn Ping: 54
+PlayerID: 76561198354476455 Name: Unturned Character: данил лари Ping: 31
+PlayerID: 76561198327628144 Name: Planeset 25 Character: Planeset 25 Ping: 39
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 39
+PlayerID: 76561198292543416 Name: Mr_GiladKing Character: GamerYT Ping: 78
+PlayerID: 76561198358778621 Name: d.dalabaev Character: MRE Ping: 125
+PlayerID: 76561198212068624 Name: Omega Character: MrOmega Ping: 85
+PlayerID: 76561198322926275 Name: kirill Character: kirill Ping: 125
+PlayerID: 76561198324996335 Name: Mуждей щи Мамалыга Character: []Max[] Ping: 78
+
+END with Players:
+[World] данил лари [Unturned]: "/kit claim"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198157563744 Name: Jason Voorhees Character: Jason Voorhees Ping: 70
+PlayerID: 76561198119414469 Name: Postman Pat Character: Postman Pat Ping: 54
+PlayerID: 76561198391626023 Name: roman.sagitov.2017 Character: Roma Sagitow Ping: 54
+PlayerID: 76561198295801599 Name: Lo[x] Character: Lo[x] Ping: 54
+PlayerID: 76561198176817369 Name: ?. Character: GlodiS Ping: 62
+PlayerID: 76561198280617288 Name: Незнаю какой придумать Character: Пипр Ping: 70
+PlayerID: 76561198123982483 Name: Mr. Noizy Character: mslvn Ping: 54
+PlayerID: 76561198354476455 Name: Unturned Character: данил лари Ping: 39
+PlayerID: 76561198327628144 Name: Planeset 25 Character: Planeset 25 Ping: 31
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 39
+PlayerID: 76561198292543416 Name: Mr_GiladKing Character: GamerYT Ping: 46
+PlayerID: 76561198358778621 Name: d.dalabaev Character: MRE Ping: 125
+PlayerID: 76561198212068624 Name: Omega Character: MrOmega Ping: 85
+PlayerID: 76561198322926275 Name: kirill Character: kirill Ping: 109
+PlayerID: 76561198324996335 Name: Mуждей щи Мамалыга Character: []Max[] Ping: 85
+
+END with Players:
+[World] Roma Sagitow [roman.sagitov.2017]: "/kit hgm2"
+
+Connecting: PlayerID: 76561198334402481 Name: Личико Character: Ярослав Турушев
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198157563744 Name: Jason Voorhees Character: Jason Voorhees Ping: 62
+PlayerID: 76561198119414469 Name: Postman Pat Character: Postman Pat Ping: 46
+PlayerID: 76561198391626023 Name: roman.sagitov.2017 Character: Roma Sagitow Ping: 31
+PlayerID: 76561198295801599 Name: Lo[x] Character: Lo[x] Ping: 62
+PlayerID: 76561198176817369 Name: ?. Character: GlodiS Ping: 70
+PlayerID: 76561198280617288 Name: Незнаю какой придумать Character: Пипр Ping: 54
+PlayerID: 76561198123982483 Name: Mr. Noizy Character: mslvn Ping: 54
+PlayerID: 76561198354476455 Name: Unturned Character: данил лари Ping: 39
+PlayerID: 76561198327628144 Name: Planeset 25 Character: Planeset 25 Ping: 54
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 31
+PlayerID: 76561198292543416 Name: Mr_GiladKing Character: GamerYT Ping: 62
+PlayerID: 76561198358778621 Name: d.dalabaev Character: MRE Ping: 117
+PlayerID: 76561198212068624 Name: Omega Character: MrOmega Ping: 78
+PlayerID: 76561198322926275 Name: kirill Character: kirill Ping: 148
+PlayerID: 76561198324996335 Name: Mуждей щи Мамалыга Character: []Max[] Ping: 78
+PlayerID: 76561198334402481 Name: Личико Character: Ярослав Турушев Ping: 132
+
+END with Players:
+[World] Ярослав Турушев [Личико]: "кто в скайп"
+
+[World] Ярослав Турушев [Личико]: "/kit start"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198157563744 Name: Jason Voorhees Character: Jason Voorhees Ping: 54
+PlayerID: 76561198119414469 Name: Postman Pat Character: Postman Pat Ping: 54
+PlayerID: 76561198391626023 Name: roman.sagitov.2017 Character: Roma Sagitow Ping: 54
+PlayerID: 76561198295801599 Name: Lo[x] Character: Lo[x] Ping: 54
+PlayerID: 76561198176817369 Name: ?. Character: GlodiS Ping: 78
+PlayerID: 76561198280617288 Name: Незнаю какой придумать Character: Пипр Ping: 62
+PlayerID: 76561198123982483 Name: Mr. Noizy Character: mslvn Ping: 46
+PlayerID: 76561198354476455 Name: Unturned Character: данил лари Ping: 39
+PlayerID: 76561198327628144 Name: Planeset 25 Character: Planeset 25 Ping: 31
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 39
+PlayerID: 76561198292543416 Name: Mr_GiladKing Character: GamerYT Ping: 62
+PlayerID: 76561198358778621 Name: d.dalabaev Character: MRE Ping: 117
+PlayerID: 76561198212068624 Name: Omega Character: MrOmega Ping: 78
+PlayerID: 76561198322926275 Name: kirill Character: kirill Ping: 109
+PlayerID: 76561198324996335 Name: Mуждей щи Мамалыга Character: []Max[] Ping: 78
+PlayerID: 76561198334402481 Name: Личико Character: Ярослав Турушев Ping: 62
+
+TimerTerminateCommand.Enabled with Players:
+[World] kirill [kirill]: "я в скайп"
+
+END with Players:
+[World] GamerYT [Mr_GiladKing]: "/home"
+
+Не обработано: GamerYT moved x:-644.1776 y:76.2149(+26.26664) z:254.6572 in the last second (0.09986115)
+GamerYT moved x:-644.1776 y:76.2149(+26.26664) z:254.6572 in the last second (0.09986115)
+
+[World] Ярослав Турушев [Личико]: "звони bengo00031"
+
+[World] GamerYT [Mr_GiladKing]: "/tpa a"
+
+[World] данил лари [Unturned]: "/tpa  g"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198157563744 Name: Jason Voorhees Character: Jason Voorhees Ping: 62
+PlayerID: 76561198119414469 Name: Postman Pat Character: Postman Pat Ping: 70
+PlayerID: 76561198391626023 Name: roman.sagitov.2017 Character: Roma Sagitow Ping: 39
+PlayerID: 76561198295801599 Name: Lo[x] Character: Lo[x] Ping: 46
+PlayerID: 76561198176817369 Name: ?. Character: GlodiS Ping: 62
+PlayerID: 76561198280617288 Name: Незнаю какой придумать Character: Пипр Ping: 46
+PlayerID: 76561198123982483 Name: Mr. Noizy Character: mslvn Ping: 46
+PlayerID: 76561198354476455 Name: Unturned Character: данил лари Ping: 39
+PlayerID: 76561198327628144 Name: Planeset 25 Character: Planeset 25 Ping: 31
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 31
+PlayerID: 76561198292543416 Name: Mr_GiladKing Character: GamerYT Ping: 39
+PlayerID: 76561198358778621 Name: d.dalabaev Character: MRE Ping: 117
+PlayerID: 76561198212068624 Name: Omega Character: MrOmega Ping: 62
+PlayerID: 76561198322926275 Name: kirill Character: kirill Ping: 117
+PlayerID: 76561198324996335 Name: Mуждей щи Мамалыга Character: []Max[] Ping: 70
+PlayerID: 76561198334402481 Name: Личико Character: Ярослав Турушев Ping: 62
+
+END with Players:
+Не обработано: MessageAnnouncer >> Broadcast: Если модератор ведёт себя неподобающе, пишите в группу или ЛС (vk.com/unturned_hgm, vk.com/hemulgm)
+MessageAnnouncer >> Broadcast: Если модератор ведёт себя неподобающе, пишите в группу или ЛС (vk.com/unturned_hgm, vk.com/hemulgm)
+
+Не обработано: MessageAnnouncer >> Если модератор ведёт себя неподобающе, пишите в группу или ЛС (vk.com/unturned_hgm, vk.com/hemulgm)
+MessageAnnouncer >> Если модератор ведёт себя неподобающе, пишите в группу или ЛС (vk.com/unturned_hgm, vk.com/hemulgm)
+
+[World] GamerYT [Mr_GiladKing]: "/tpa a"
+
+[World] данил лари [Unturned]: "/tpa ga"
+
+[World] Jason Voorhees [Jason Voorhees]: "/kit claim"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198157563744 Name: Jason Voorhees Character: Jason Voorhees Ping: 62
+PlayerID: 76561198119414469 Name: Postman Pat Character: Postman Pat Ping: 54
+PlayerID: 76561198391626023 Name: roman.sagitov.2017 Character: Roma Sagitow Ping: 54
+PlayerID: 76561198295801599 Name: Lo[x] Character: Lo[x] Ping: 46
+PlayerID: 76561198176817369 Name: ?. Character: GlodiS Ping: 46
+PlayerID: 76561198280617288 Name: Незнаю какой придумать Character: Пипр Ping: 54
+PlayerID: 76561198123982483 Name: Mr. Noizy Character: mslvn Ping: 39
+PlayerID: 76561198354476455 Name: Unturned Character: данил лари Ping: 39
+PlayerID: 76561198327628144 Name: Planeset 25 Character: Planeset 25 Ping: 23
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 31
+PlayerID: 76561198292543416 Name: Mr_GiladKing Character: GamerYT Ping: 78
+PlayerID: 76561198358778621 Name: d.dalabaev Character: MRE Ping: 117
+PlayerID: 76561198212068624 Name: Omega Character: MrOmega Ping: 78
+PlayerID: 76561198322926275 Name: kirill Character: kirill Ping: 117
+PlayerID: 76561198324996335 Name: Mуждей щи Мамалыга Character: []Max[] Ping: 70
+PlayerID: 76561198334402481 Name: Личико Character: Ярослав Турушев Ping: 62
+
+TimerTerminateCommand.Enabled with Players:
+[World] GamerYT [Mr_GiladKing]: "ну кидай"
+
+TimerTerminateCommand.Enabled with Players:
+[World] Lo[x] [Lo[x]]: "Кто-то квадрика закрывал?"
+
+END with Players:
+[World] данил лари [Unturned]: "жди"
+
+[World] GamerYT [Mr_GiladKing]: "ок"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198157563744 Name: Jason Voorhees Character: Jason Voorhees Ping: 78
+PlayerID: 76561198119414469 Name: Postman Pat Character: Postman Pat Ping: 46
+PlayerID: 76561198391626023 Name: roman.sagitov.2017 Character: Roma Sagitow Ping: 39
+PlayerID: 76561198295801599 Name: Lo[x] Character: Lo[x] Ping: 39
+PlayerID: 76561198176817369 Name: ?. Character: GlodiS Ping: 62
+PlayerID: 76561198280617288 Name: Незнаю какой придумать Character: Пипр Ping: 31
+PlayerID: 76561198123982483 Name: Mr. Noizy Character: mslvn Ping: 54
+PlayerID: 76561198354476455 Name: Unturned Character: данил лари Ping: 31
+PlayerID: 76561198327628144 Name: Planeset 25 Character: Planeset 25 Ping: 31
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 31
+PlayerID: 76561198292543416 Name: Mr_GiladKing Character: GamerYT Ping: 46
+PlayerID: 76561198358778621 Name: d.dalabaev Character: MRE Ping: 109
+PlayerID: 76561198212068624 Name: Omega Character: MrOmega Ping: 78
+PlayerID: 76561198322926275 Name: kirill Character: kirill Ping: 156
+PlayerID: 76561198324996335 Name: Mуждей щи Мамалыга Character: []Max[] Ping: 85
+PlayerID: 76561198334402481 Name: Личико Character: Ярослав Турушев Ping: 62
+
+END with Players:
+Connecting: PlayerID: 76561198298465178 Name: Единорожег THRASHER Character: LoRd-PaRkEr
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198157563744 Name: Jason Voorhees Character: Jason Voorhees Ping: 54
+PlayerID: 76561198119414469 Name: Postman Pat Character: Postman Pat Ping: 62
+PlayerID: 76561198391626023 Name: roman.sagitov.2017 Character: Roma Sagitow Ping: 46
+PlayerID: 76561198295801599 Name: Lo[x] Character: Lo[x] Ping: 62
+PlayerID: 76561198176817369 Name: ?. Character: GlodiS Ping: 70
+PlayerID: 76561198280617288 Name: Незнаю какой придумать Character: Пипр Ping: 54
+PlayerID: 76561198123982483 Name: Mr. Noizy Character: mslvn Ping: 39
+PlayerID: 76561198354476455 Name: Unturned Character: данил лари Ping: 31
+PlayerID: 76561198327628144 Name: Planeset 25 Character: Planeset 25 Ping: 23
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 31
+PlayerID: 76561198292543416 Name: Mr_GiladKing Character: GamerYT Ping: 39
+PlayerID: 76561198358778621 Name: d.dalabaev Character: MRE Ping: 117
+PlayerID: 76561198212068624 Name: Omega Character: MrOmega Ping: 117
+PlayerID: 76561198322926275 Name: kirill Character: kirill Ping: 140
+PlayerID: 76561198324996335 Name: Mуждей щи Мамалыга Character: []Max[] Ping: 70
+PlayerID: 76561198334402481 Name: Личико Character: Ярослав Турушев Ping: 62
+PlayerID: 76561198298465178 Name: Единорожег THRASHER Character: LoRd-PaRkEr Ping: 187
+
+END with Players:
+[World] LoRd-PaRkEr [Единорожег THRASHER]: "/kits"
+
+[World] Roma Sagitow [roman.sagitov.2017]: "/home"
+
+[World] данил лари [Unturned]: "/tpa Game"
+
+[World] Lo[x] [Lo[x]]: "/home"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198157563744 Name: Jason Voorhees Character: Jason Voorhees Ping: 85
+PlayerID: 76561198119414469 Name: Postman Pat Character: Postman Pat Ping: 70
+PlayerID: 76561198391626023 Name: roman.sagitov.2017 Character: Roma Sagitow Ping: 46
+PlayerID: 76561198295801599 Name: Lo[x] Character: Lo[x] Ping: 70
+PlayerID: 76561198176817369 Name: ?. Character: GlodiS Ping: 78
+PlayerID: 76561198280617288 Name: Незнаю какой придумать Character: Пипр Ping: 62
+PlayerID: 76561198123982483 Name: Mr. Noizy Character: mslvn Ping: 62
+PlayerID: 76561198354476455 Name: Unturned Character: данил лари Ping: 39
+PlayerID: 76561198327628144 Name: Planeset 25 Character: Planeset 25 Ping: 31
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 31
+PlayerID: 76561198292543416 Name: Mr_GiladKing Character: GamerYT Ping: 54
+PlayerID: 76561198358778621 Name: d.dalabaev Character: MRE Ping: 132
+PlayerID: 76561198212068624 Name: Omega Character: MrOmega Ping: 117
+PlayerID: 76561198322926275 Name: kirill Character: kirill Ping: 156
+PlayerID: 76561198324996335 Name: Mуждей щи Мамалыга Character: []Max[] Ping: 93
+PlayerID: 76561198334402481 Name: Личико Character: Ярослав Турушев Ping: 62
+PlayerID: 76561198298465178 Name: Единорожег THRASHER Character: LoRd-PaRkEr Ping: 54
+
+TimerTerminateCommand.Enabled with Players:
+[Area] 7_AleX_3 [7_AleX_3]: "дай"
+
+END with Players:
+[World] LoRd-PaRkEr [Единорожег THRASHER]: "/kit claim"
+
+[World] данил лари [Unturned]: "/tpa game"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198157563744 Name: Jason Voorhees Character: Jason Voorhees Ping: 70
+PlayerID: 76561198119414469 Name: Postman Pat Character: Postman Pat Ping: 70
+PlayerID: 76561198391626023 Name: roman.sagitov.2017 Character: Roma Sagitow Ping: 39
+PlayerID: 76561198295801599 Name: Lo[x] Character: Lo[x] Ping: 62
+PlayerID: 76561198176817369 Name: ?. Character: GlodiS Ping: 62
+PlayerID: 76561198280617288 Name: Незнаю какой придумать Character: Пипр Ping: 62
+PlayerID: 76561198123982483 Name: Mr. Noizy Character: mslvn Ping: 46
+PlayerID: 76561198354476455 Name: Unturned Character: данил лари Ping: 46
+PlayerID: 76561198327628144 Name: Planeset 25 Character: Planeset 25 Ping: 31
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 31
+PlayerID: 76561198292543416 Name: Mr_GiladKing Character: GamerYT Ping: 62
+PlayerID: 76561198358778621 Name: d.dalabaev Character: MRE Ping: 125
+PlayerID: 76561198212068624 Name: Omega Character: MrOmega Ping: 70
+PlayerID: 76561198322926275 Name: kirill Character: kirill Ping: 234
+PlayerID: 76561198324996335 Name: Mуждей щи Мамалыга Character: []Max[] Ping: 93
+PlayerID: 76561198334402481 Name: Личико Character: Ярослав Турушев Ping: 78
+PlayerID: 76561198298465178 Name: Единорожег THRASHER Character: LoRd-PaRkEr Ping: 54
+
+END with Players:
+[World] GamerYT [Mr_GiladKing]: "/tpa a"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198157563744 Name: Jason Voorhees Character: Jason Voorhees Ping: 62
+PlayerID: 76561198119414469 Name: Postman Pat Character: Postman Pat Ping: 70
+PlayerID: 76561198391626023 Name: roman.sagitov.2017 Character: Roma Sagitow Ping: 39
+PlayerID: 76561198295801599 Name: Lo[x] Character: Lo[x] Ping: 54
+PlayerID: 76561198176817369 Name: ?. Character: GlodiS Ping: 70
+PlayerID: 76561198280617288 Name: Незнаю какой придумать Character: Пипр Ping: 46
+PlayerID: 76561198123982483 Name: Mr. Noizy Character: mslvn Ping: 46
+PlayerID: 76561198354476455 Name: Unturned Character: данил лари Ping: 39
+PlayerID: 76561198327628144 Name: Planeset 25 Character: Planeset 25 Ping: 31
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 31
+PlayerID: 76561198292543416 Name: Mr_GiladKing Character: GamerYT Ping: 54
+PlayerID: 76561198358778621 Name: d.dalabaev Character: MRE Ping: 148
+PlayerID: 76561198212068624 Name: Omega Character: MrOmega Ping: 109
+PlayerID: 76561198322926275 Name: kirill Character: kirill Ping: 171
+PlayerID: 76561198324996335 Name: Mуждей щи Мамалыга Character: []Max[] Ping: 70
+PlayerID: 76561198334402481 Name: Личико Character: Ярослав Турушев Ping: 78
+PlayerID: 76561198298465178 Name: Единорожег THRASHER Character: LoRd-PaRkEr Ping: 54
+
+END with Players:
+Не обработано: MessageAnnouncer >> Broadcast: vk.com/hemulgm - ЕДИНСТВЕННЫЙ администратор сервера
+MessageAnnouncer >> Broadcast: vk.com/hemulgm - ЕДИНСТВЕННЫЙ администратор сервера
+
+Не обработано: MessageAnnouncer >> vk.com/hemulgm - ЕДИНСТВЕННЫЙ администратор сервера
+MessageAnnouncer >> vk.com/hemulgm - ЕДИНСТВЕННЫЙ администратор сервера
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198157563744 Name: Jason Voorhees Character: Jason Voorhees Ping: 93
+PlayerID: 76561198119414469 Name: Postman Pat Character: Postman Pat Ping: 70
+PlayerID: 76561198391626023 Name: roman.sagitov.2017 Character: Roma Sagitow Ping: 31
+PlayerID: 76561198295801599 Name: Lo[x] Character: Lo[x] Ping: 62
+PlayerID: 76561198176817369 Name: ?. Character: GlodiS Ping: 85
+PlayerID: 76561198280617288 Name: Незнаю какой придумать Character: Пипр Ping: 62
+PlayerID: 76561198123982483 Name: Mr. Noizy Character: mslvn Ping: 54
+PlayerID: 76561198354476455 Name: Unturned Character: данил лари Ping: 39
+PlayerID: 76561198327628144 Name: Planeset 25 Character: Planeset 25 Ping: 31
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 31
+PlayerID: 76561198292543416 Name: Mr_GiladKing Character: GamerYT Ping: 46
+PlayerID: 76561198358778621 Name: d.dalabaev Character: MRE Ping: 125
+PlayerID: 76561198212068624 Name: Omega Character: MrOmega Ping: 78
+PlayerID: 76561198322926275 Name: kirill Character: kirill Ping: 203
+PlayerID: 76561198324996335 Name: Mуждей щи Мамалыга Character: []Max[] Ping: 78
+PlayerID: 76561198334402481 Name: Личико Character: Ярослав Турушев Ping: 78
+PlayerID: 76561198298465178 Name: Единорожег THRASHER Character: LoRd-PaRkEr Ping: 46
+
+END with Players:
+Disconnecting: PlayerID: 76561198298465178 Name: Единорожег THRASHER Character: LoRd-PaRkEr
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198157563744 Name: Jason Voorhees Character: Jason Voorhees Ping: 70
+PlayerID: 76561198119414469 Name: Postman Pat Character: Postman Pat Ping: 78
+PlayerID: 76561198391626023 Name: roman.sagitov.2017 Character: Roma Sagitow Ping: 46
+PlayerID: 76561198295801599 Name: Lo[x] Character: Lo[x] Ping: 62
+PlayerID: 76561198176817369 Name: ?. Character: GlodiS Ping: 70
+PlayerID: 76561198280617288 Name: Незнаю какой придумать Character: Пипр Ping: 62
+PlayerID: 76561198123982483 Name: Mr. Noizy Character: mslvn Ping: 70
+PlayerID: 76561198354476455 Name: Unturned Character: данил лари Ping: 46
+PlayerID: 76561198327628144 Name: Planeset 25 Character: Planeset 25 Ping: 31
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 31
+PlayerID: 76561198292543416 Name: Mr_GiladKing Character: GamerYT Ping: 70
+PlayerID: 76561198358778621 Name: d.dalabaev Character: MRE Ping: 125
+PlayerID: 76561198212068624 Name: Omega Character: MrOmega Ping: 101
+PlayerID: 76561198322926275 Name: kirill Character: kirill Ping: 156
+PlayerID: 76561198324996335 Name: Mуждей щи Мамалыга Character: []Max[] Ping: 78
+PlayerID: 76561198334402481 Name: Личико Character: Ярослав Турушев Ping: 70
+
+TimerTerminateCommand.Enabled with Players:
+[World] Ярослав Турушев [Личико]: "кто в скайп"
+
+END with Players:
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198157563744 Name: Jason Voorhees Character: Jason Voorhees Ping: 78
+PlayerID: 76561198119414469 Name: Postman Pat Character: Postman Pat Ping: 39
+PlayerID: 76561198391626023 Name: roman.sagitov.2017 Character: Roma Sagitow Ping: 46
+PlayerID: 76561198295801599 Name: Lo[x] Character: Lo[x] Ping: 46
+PlayerID: 76561198176817369 Name: ?. Character: GlodiS Ping: 62
+PlayerID: 76561198280617288 Name: Незнаю какой придумать Character: Пипр Ping: 54
+PlayerID: 76561198123982483 Name: Mr. Noizy Character: mslvn Ping: 78
+PlayerID: 76561198354476455 Name: Unturned Character: данил лари Ping: 31
+PlayerID: 76561198327628144 Name: Planeset 25 Character: Planeset 25 Ping: 31
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 31
+PlayerID: 76561198292543416 Name: Mr_GiladKing Character: GamerYT Ping: 62
+PlayerID: 76561198358778621 Name: d.dalabaev Character: MRE Ping: 148
+PlayerID: 76561198212068624 Name: Omega Character: MrOmega Ping: 132
+PlayerID: 76561198322926275 Name: kirill Character: kirill Ping: 125
+PlayerID: 76561198324996335 Name: Mуждей щи Мамалыга Character: []Max[] Ping: 70
+PlayerID: 76561198334402481 Name: Личико Character: Ярослав Турушев Ping: 70
+
+END with Players:
+[Area] Пипр [Незнаю какой придумать]: "у меня отмычка есть"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198157563744 Name: Jason Voorhees Character: Jason Voorhees Ping: 78
+PlayerID: 76561198119414469 Name: Postman Pat Character: Postman Pat Ping: 101
+PlayerID: 76561198391626023 Name: roman.sagitov.2017 Character: Roma Sagitow Ping: 39
+PlayerID: 76561198295801599 Name: Lo[x] Character: Lo[x] Ping: 62
+PlayerID: 76561198176817369 Name: ?. Character: GlodiS Ping: 101
+PlayerID: 76561198280617288 Name: Незнаю какой придумать Character: Пипр Ping: 101
+PlayerID: 76561198123982483 Name: Mr. Noizy Character: mslvn Ping: 85
+PlayerID: 76561198354476455 Name: Unturned Character: данил лари Ping: 62
+PlayerID: 76561198327628144 Name: Planeset 25 Character: Planeset 25 Ping: 39
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 46
+PlayerID: 76561198292543416 Name: Mr_GiladKing Character: GamerYT Ping: 62
+PlayerID: 76561198358778621 Name: d.dalabaev Character: MRE Ping: 132
+PlayerID: 76561198212068624 Name: Omega Character: MrOmega Ping: 78
+PlayerID: 76561198322926275 Name: kirill Character: kirill Ping: 164
+PlayerID: 76561198324996335 Name: Mуждей щи Мамалыга Character: []Max[] Ping: 85
+PlayerID: 76561198334402481 Name: Личико Character: Ярослав Турушев Ping: 70
+
+TimerTerminateCommand.Enabled with Players:
+[Area] 7_AleX_3 [7_AleX_3]: "откуда"
+
+END with Players:
+[Area] Пипр [Незнаю какой придумать]: "ща"
+
+[Area] Пипр [Незнаю какой придумать]: "/home"
+
+Не обработано: Пипр moved x:-695.5986 y:82.72859(+43.05544) z:324.784 in the last second (0.2379227)
+Пипр moved x:-695.5986 y:82.72859(+43.05544) z:324.784 in the last second (0.2379227)
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198157563744 Name: Jason Voorhees Character: Jason Voorhees Ping: 62
+PlayerID: 76561198119414469 Name: Postman Pat Character: Postman Pat Ping: 62
+PlayerID: 76561198391626023 Name: roman.sagitov.2017 Character: Roma Sagitow Ping: 46
+PlayerID: 76561198295801599 Name: Lo[x] Character: Lo[x] Ping: 46
+PlayerID: 76561198176817369 Name: ?. Character: GlodiS Ping: 85
+PlayerID: 76561198280617288 Name: Незнаю какой придумать Character: Пипр Ping: 54
+PlayerID: 76561198123982483 Name: Mr. Noizy Character: mslvn Ping: 62
+PlayerID: 76561198354476455 Name: Unturned Character: данил лари Ping: 31
+PlayerID: 76561198327628144 Name: Planeset 25 Character: Planeset 25 Ping: 31
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 31
+PlayerID: 76561198292543416 Name: Mr_GiladKing Character: GamerYT Ping: 46
+PlayerID: 76561198358778621 Name: d.dalabaev Character: MRE Ping: 109
+PlayerID: 76561198212068624 Name: Omega Character: MrOmega Ping: 85
+PlayerID: 76561198322926275 Name: kirill Character: kirill Ping: 195
+PlayerID: 76561198324996335 Name: Mуждей щи Мамалыга Character: []Max[] Ping: 93
+PlayerID: 76561198334402481 Name: Личико Character: Ярослав Турушев Ping: 62
+
+END with Players:
+[Area] Пипр [Незнаю какой придумать]: "/tpa ale"
+
+[Area] 7_AleX_3 [7_AleX_3]: "/tpa accept"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198157563744 Name: Jason Voorhees Character: Jason Voorhees Ping: 78
+PlayerID: 76561198119414469 Name: Postman Pat Character: Postman Pat Ping: 62
+PlayerID: 76561198391626023 Name: roman.sagitov.2017 Character: Roma Sagitow Ping: 39
+PlayerID: 76561198295801599 Name: Lo[x] Character: Lo[x] Ping: 62
+PlayerID: 76561198176817369 Name: ?. Character: GlodiS Ping: 62
+PlayerID: 76561198280617288 Name: Незнаю какой придумать Character: Пипр Ping: 54
+PlayerID: 76561198123982483 Name: Mr. Noizy Character: mslvn Ping: 54
+PlayerID: 76561198354476455 Name: Unturned Character: данил лари Ping: 46
+PlayerID: 76561198327628144 Name: Planeset 25 Character: Planeset 25 Ping: 31
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 39
+PlayerID: 76561198292543416 Name: Mr_GiladKing Character: GamerYT Ping: 46
+PlayerID: 76561198358778621 Name: d.dalabaev Character: MRE Ping: 125
+PlayerID: 76561198212068624 Name: Omega Character: MrOmega Ping: 62
+PlayerID: 76561198322926275 Name: kirill Character: kirill Ping: 164
+PlayerID: 76561198324996335 Name: Mуждей щи Мамалыга Character: []Max[] Ping: 78
+PlayerID: 76561198334402481 Name: Личико Character: Ярослав Турушев Ping: 62
+
+END with Players:
+Не обработано: MessageAnnouncer >> Broadcast: Используйте /report [ник], чтобы отправить жалобу на игрока
+MessageAnnouncer >> Broadcast: Используйте /report [ник], чтобы отправить жалобу на игрока
+
+Не обработано: MessageAnnouncer >> Используйте /report [ник], чтобы отправить жалобу на игрока
+MessageAnnouncer >> Используйте /report [ник], чтобы отправить жалобу на игрока
+
+[Area] 7_AleX_3 [7_AleX_3]: "оо"
+
+[Area] 7_AleX_3 [7_AleX_3]: "жди"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198157563744 Name: Jason Voorhees Character: Jason Voorhees Ping: 62
+PlayerID: 76561198119414469 Name: Postman Pat Character: Postman Pat Ping: 54
+PlayerID: 76561198391626023 Name: roman.sagitov.2017 Character: Roma Sagitow Ping: 31
+PlayerID: 76561198295801599 Name: Lo[x] Character: Lo[x] Ping: 46
+PlayerID: 76561198176817369 Name: ?. Character: GlodiS Ping: 62
+PlayerID: 76561198280617288 Name: Незнаю какой придумать Character: Пипр Ping: 46
+PlayerID: 76561198123982483 Name: Mr. Noizy Character: mslvn Ping: 46
+PlayerID: 76561198354476455 Name: Unturned Character: данил лари Ping: 46
+PlayerID: 76561198327628144 Name: Planeset 25 Character: Planeset 25 Ping: 31
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 31
+PlayerID: 76561198292543416 Name: Mr_GiladKing Character: GamerYT Ping: 54
+PlayerID: 76561198358778621 Name: d.dalabaev Character: MRE Ping: 125
+PlayerID: 76561198212068624 Name: Omega Character: MrOmega Ping: 78
+PlayerID: 76561198322926275 Name: kirill Character: kirill Ping: 171
+PlayerID: 76561198324996335 Name: Mуждей щи Мамалыга Character: []Max[] Ping: 93
+PlayerID: 76561198334402481 Name: Личико Character: Ярослав Турушев Ping: 62
+
+TimerTerminateCommand.Enabled with Players:
+[Area] 7_AleX_3 [7_AleX_3]: "/home"
+
+TimerTerminateCommand.Enabled with Players:
+[Area] Пипр [Незнаю какой придумать]: "ДАй мне его"
+
+TimerTerminateCommand.Enabled with Players:
+[Area] 7_AleX_3 [7_AleX_3]: "/home"
+
+END with Players:
+[Area] Пипр [Незнаю какой придумать]: "Я те машину"
+
+[Area] 7_AleX_3 [7_AleX_3]: "я тп не могу"
+
+[Area] 7_AleX_3 [7_AleX_3]: "давай"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198157563744 Name: Jason Voorhees Character: Jason Voorhees Ping: 62
+PlayerID: 76561198119414469 Name: Postman Pat Character: Postman Pat Ping: 54
+PlayerID: 76561198391626023 Name: roman.sagitov.2017 Character: Roma Sagitow Ping: 31
+PlayerID: 76561198295801599 Name: Lo[x] Character: Lo[x] Ping: 54
+PlayerID: 76561198176817369 Name: ?. Character: GlodiS Ping: 54
+PlayerID: 76561198280617288 Name: Незнаю какой придумать Character: Пипр Ping: 78
+PlayerID: 76561198123982483 Name: Mr. Noizy Character: mslvn Ping: 54
+PlayerID: 76561198354476455 Name: Unturned Character: данил лари Ping: 39
+PlayerID: 76561198327628144 Name: Planeset 25 Character: Planeset 25 Ping: 31
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 39
+PlayerID: 76561198292543416 Name: Mr_GiladKing Character: GamerYT Ping: 62
+PlayerID: 76561198358778621 Name: d.dalabaev Character: MRE Ping: 125
+PlayerID: 76561198212068624 Name: Omega Character: MrOmega Ping: 78
+PlayerID: 76561198322926275 Name: kirill Character: kirill Ping: 125
+PlayerID: 76561198324996335 Name: Mуждей щи Мамалыга Character: []Max[] Ping: 78
+PlayerID: 76561198334402481 Name: Личико Character: Ярослав Турушев Ping: 62
+
+END with Players:
+[Area] 7_AleX_3 [7_AleX_3]: "я щас"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198157563744 Name: Jason Voorhees Character: Jason Voorhees Ping: 70
+PlayerID: 76561198119414469 Name: Postman Pat Character: Postman Pat Ping: 62
+PlayerID: 76561198391626023 Name: roman.sagitov.2017 Character: Roma Sagitow Ping: 39
+PlayerID: 76561198295801599 Name: Lo[x] Character: Lo[x] Ping: 54
+PlayerID: 76561198176817369 Name: ?. Character: GlodiS Ping: 78
+PlayerID: 76561198280617288 Name: Незнаю какой придумать Character: Пипр Ping: 70
+PlayerID: 76561198123982483 Name: Mr. Noizy Character: mslvn Ping: 70
+PlayerID: 76561198354476455 Name: Unturned Character: данил лари Ping: 39
+PlayerID: 76561198327628144 Name: Planeset 25 Character: Planeset 25 Ping: 31
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 31
+PlayerID: 76561198292543416 Name: Mr_GiladKing Character: GamerYT Ping: 46
+PlayerID: 76561198358778621 Name: d.dalabaev Character: MRE Ping: 132
+PlayerID: 76561198212068624 Name: Omega Character: MrOmega Ping: 78
+PlayerID: 76561198322926275 Name: kirill Character: kirill Ping: 156
+PlayerID: 76561198324996335 Name: Mуждей щи Мамалыга Character: []Max[] Ping: 85
+PlayerID: 76561198334402481 Name: Личико Character: Ярослав Турушев Ping: 62
+
+END with Players:
+Не обработано: DeathMessagesRemastered >> Broadcast: Planeset 25 has bled to death!
+DeathMessagesRemastered >> Broadcast: Planeset 25 has bled to death!
+
+Не обработано: Planeset 25 [Planeset 25] bled to death!
+Planeset 25 [Planeset 25] bled to death!
+
+[World] Пипр [Незнаю какой придумать]: "У кого есть акамулятор?"
+
+[Area] GlodiS [?.]: "/home"
+
+[World] Postman Pat [Postman Pat]: "+"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198157563744 Name: Jason Voorhees Character: Jason Voorhees Ping: 62
+PlayerID: 76561198119414469 Name: Postman Pat Character: Postman Pat Ping: 62
+PlayerID: 76561198391626023 Name: roman.sagitov.2017 Character: Roma Sagitow Ping: 39
+PlayerID: 76561198295801599 Name: Lo[x] Character: Lo[x] Ping: 54
+PlayerID: 76561198176817369 Name: ?. Character: GlodiS Ping: 54
+PlayerID: 76561198280617288 Name: Незнаю какой придумать Character: Пипр Ping: 54
+PlayerID: 76561198123982483 Name: Mr. Noizy Character: mslvn Ping: 54
+PlayerID: 76561198354476455 Name: Unturned Character: данил лари Ping: 39
+PlayerID: 76561198327628144 Name: Planeset 25 Character: Planeset 25 Ping: 31
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 39
+PlayerID: 76561198292543416 Name: Mr_GiladKing Character: GamerYT Ping: 46
+PlayerID: 76561198358778621 Name: d.dalabaev Character: MRE Ping: 117
+PlayerID: 76561198212068624 Name: Omega Character: MrOmega Ping: 78
+PlayerID: 76561198322926275 Name: kirill Character: kirill Ping: 125
+PlayerID: 76561198324996335 Name: Mуждей щи Мамалыга Character: []Max[] Ping: 93
+PlayerID: 76561198334402481 Name: Личико Character: Ярослав Турушев Ping: 70
+
+END with Players:
+Не обработано: Postman Pat moved x:829.1933 y:63.92378(+29.50921) z:-121.1371 in the last second (0.03115082)
+Postman Pat moved x:829.1933 y:63.92378(+29.50921) z:-121.1371 in the last second (0.03115082)
+
+[World] GlodiS [?.]: "кто может дать канистру?"
+
+[World] Пипр [Незнаю какой придумать]: "Дашь?"
+
+Не обработано: VehicleEvents >> Vehicle has been despawned
+VehicleEvents >> Vehicle has been despawned
+
+[World] Postman Pat [Postman Pat]: "За просто нет"
+
+Не обработано: DeathMessagesRemastered >> Broadcast: Roma Sagitow has killed himself!
+DeathMessagesRemastered >> Broadcast: Roma Sagitow has killed himself!
+
+Не обработано: Roma Sagitow [roman.sagitov.2017] killed themself.
+Roma Sagitow [roman.sagitov.2017] killed themself.
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198157563744 Name: Jason Voorhees Character: Jason Voorhees Ping: 62
+PlayerID: 76561198119414469 Name: Postman Pat Character: Postman Pat Ping: 54
+PlayerID: 76561198391626023 Name: roman.sagitov.2017 Character: Roma Sagitow Ping: 46
+PlayerID: 76561198295801599 Name: Lo[x] Character: Lo[x] Ping: 54
+PlayerID: 76561198176817369 Name: ?. Character: GlodiS Ping: 54
+PlayerID: 76561198280617288 Name: Незнаю какой придумать Character: Пипр Ping: 93
+PlayerID: 76561198123982483 Name: Mr. Noizy Character: mslvn Ping: 46
+PlayerID: 76561198354476455 Name: Unturned Character: данил лари Ping: 46
+PlayerID: 76561198327628144 Name: Planeset 25 Character: Planeset 25 Ping: 31
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 39
+PlayerID: 76561198292543416 Name: Mr_GiladKing Character: GamerYT Ping: 46
+PlayerID: 76561198358778621 Name: d.dalabaev Character: MRE Ping: 117
+PlayerID: 76561198212068624 Name: Omega Character: MrOmega Ping: 70
+PlayerID: 76561198322926275 Name: kirill Character: kirill Ping: 117
+PlayerID: 76561198324996335 Name: Mуждей щи Мамалыга Character: []Max[] Ping: 93
+PlayerID: 76561198334402481 Name: Личико Character: Ярослав Турушев Ping: 62
+
+TimerTerminateCommand.Enabled with Players:
+[World] Пипр [Незнаю какой придумать]: "Ненадо уже"
+
+END with Players:
+[World] Пипр [Незнаю какой придумать]: "АДМин"
+
+[World] GlodiS [?.]: "Кто даст канистру?"
+
+Connecting: PlayerID: 76561198390364391 Name: glowinski Character: kamil;]
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198157563744 Name: Jason Voorhees Character: Jason Voorhees Ping: 70
+PlayerID: 76561198119414469 Name: Postman Pat Character: Postman Pat Ping: 62
+PlayerID: 76561198391626023 Name: roman.sagitov.2017 Character: Roma Sagitow Ping: 39
+PlayerID: 76561198295801599 Name: Lo[x] Character: Lo[x] Ping: 62
+PlayerID: 76561198176817369 Name: ?. Character: GlodiS Ping: 70
+PlayerID: 76561198280617288 Name: Незнаю какой придумать Character: Пипр Ping: 70
+PlayerID: 76561198123982483 Name: Mr. Noizy Character: mslvn Ping: 46
+PlayerID: 76561198354476455 Name: Unturned Character: данил лари Ping: 54
+PlayerID: 76561198327628144 Name: Planeset 25 Character: Planeset 25 Ping: 31
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 31
+PlayerID: 76561198292543416 Name: Mr_GiladKing Character: GamerYT Ping: 62
+PlayerID: 76561198358778621 Name: d.dalabaev Character: MRE Ping: 117
+PlayerID: 76561198212068624 Name: Omega Character: MrOmega Ping: 70
+PlayerID: 76561198322926275 Name: kirill Character: kirill Ping: 109
+PlayerID: 76561198324996335 Name: Mуждей щи Мамалыга Character: []Max[] Ping: 93
+PlayerID: 76561198334402481 Name: Личико Character: Ярослав Турушев Ping: 62
+PlayerID: 76561198390364391 Name: glowinski Character: kamil;] Ping: 179
+
+TimerTerminateCommand.Enabled with Players:
+[World] Пипр [Незнаю какой придумать]: "ТЫ тут?"
+
+TimerTerminateCommand.Enabled with Players:
+[World] данил лари [Unturned]: "/tpa game"
+
+END with Players:
+Не обработано: MessageAnnouncer >> Broadcast: Наберите /rules (/r) для просмотра правил
+MessageAnnouncer >> Broadcast: Наберите /rules (/r) для просмотра правил
+
+Не обработано: MessageAnnouncer >> Наберите /rules (/r) для просмотра правил
+MessageAnnouncer >> Наберите /rules (/r) для просмотра правил
+
+[World] GamerYT [Mr_GiladKing]: "/tpa a"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198157563744 Name: Jason Voorhees Character: Jason Voorhees Ping: 62
+PlayerID: 76561198119414469 Name: Postman Pat Character: Postman Pat Ping: 62
+PlayerID: 76561198391626023 Name: roman.sagitov.2017 Character: Roma Sagitow Ping: 46
+PlayerID: 76561198295801599 Name: Lo[x] Character: Lo[x] Ping: 62
+PlayerID: 76561198176817369 Name: ?. Character: GlodiS Ping: 85
+PlayerID: 76561198280617288 Name: Незнаю какой придумать Character: Пипр Ping: 46
+PlayerID: 76561198123982483 Name: Mr. Noizy Character: mslvn Ping: 54
+PlayerID: 76561198354476455 Name: Unturned Character: данил лари Ping: 39
+PlayerID: 76561198327628144 Name: Planeset 25 Character: Planeset 25 Ping: 31
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 46
+PlayerID: 76561198292543416 Name: Mr_GiladKing Character: GamerYT Ping: 70
+PlayerID: 76561198358778621 Name: d.dalabaev Character: MRE Ping: 125
+PlayerID: 76561198212068624 Name: Omega Character: MrOmega Ping: 93
+PlayerID: 76561198322926275 Name: kirill Character: kirill Ping: 117
+PlayerID: 76561198324996335 Name: Mуждей щи Мамалыга Character: []Max[] Ping: 78
+PlayerID: 76561198334402481 Name: Личико Character: Ярослав Турушев Ping: 62
+PlayerID: 76561198390364391 Name: glowinski Character: kamil;] Ping: 156
+
+END with Players:
+[World] Пипр [Незнаю какой придумать]: "У меня каким-то образом квадрик взорвался"
+
+[Area] Postman Pat [Postman Pat]: "он типо мой был"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198157563744 Name: Jason Voorhees Character: Jason Voorhees Ping: 54
+PlayerID: 76561198119414469 Name: Postman Pat Character: Postman Pat Ping: 62
+PlayerID: 76561198391626023 Name: roman.sagitov.2017 Character: Roma Sagitow Ping: 46
+PlayerID: 76561198295801599 Name: Lo[x] Character: Lo[x] Ping: 54
+PlayerID: 76561198176817369 Name: ?. Character: GlodiS Ping: 62
+PlayerID: 76561198280617288 Name: Незнаю какой придумать Character: Пипр Ping: 62
+PlayerID: 76561198123982483 Name: Mr. Noizy Character: mslvn Ping: 54
+PlayerID: 76561198354476455 Name: Unturned Character: данил лари Ping: 46
+PlayerID: 76561198327628144 Name: Planeset 25 Character: Planeset 25 Ping: 39
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 39
+PlayerID: 76561198292543416 Name: Mr_GiladKing Character: GamerYT Ping: 46
+PlayerID: 76561198358778621 Name: d.dalabaev Character: MRE Ping: 132
+PlayerID: 76561198212068624 Name: Omega Character: MrOmega Ping: 93
+PlayerID: 76561198322926275 Name: kirill Character: kirill Ping: 117
+PlayerID: 76561198324996335 Name: Mуждей щи Мамалыга Character: []Max[] Ping: 93
+PlayerID: 76561198334402481 Name: Личико Character: Ярослав Турушев Ping: 62
+PlayerID: 76561198390364391 Name: glowinski Character: kamil;] Ping: 156
+
+TimerTerminateCommand.Enabled with Players:
+[Area] Postman Pat [Postman Pat]: "ну ладно"
+
+TimerTerminateCommand.Enabled with Players:
+[World] Пипр [Незнаю какой придумать]: "Я типо отмычку использовал"
+
+END with Players:
+[Area] 7_AleX_3 [7_AleX_3]: "и что"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198157563744 Name: Jason Voorhees Character: Jason Voorhees Ping: 70
+PlayerID: 76561198119414469 Name: Postman Pat Character: Postman Pat Ping: 70
+PlayerID: 76561198391626023 Name: roman.sagitov.2017 Character: Roma Sagitow Ping: 39
+PlayerID: 76561198295801599 Name: Lo[x] Character: Lo[x] Ping: 62
+PlayerID: 76561198176817369 Name: ?. Character: GlodiS Ping: 85
+PlayerID: 76561198280617288 Name: Незнаю какой придумать Character: Пипр Ping: 54
+PlayerID: 76561198123982483 Name: Mr. Noizy Character: mslvn Ping: 70
+PlayerID: 76561198354476455 Name: Unturned Character: данил лари Ping: 39
+PlayerID: 76561198327628144 Name: Planeset 25 Character: Planeset 25 Ping: 31
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 39
+PlayerID: 76561198292543416 Name: Mr_GiladKing Character: GamerYT Ping: 31
+PlayerID: 76561198358778621 Name: d.dalabaev Character: MRE Ping: 117
+PlayerID: 76561198212068624 Name: Omega Character: MrOmega Ping: 78
+PlayerID: 76561198322926275 Name: kirill Character: kirill Ping: 140
+PlayerID: 76561198324996335 Name: Mуждей щи Мамалыга Character: []Max[] Ping: 93
+PlayerID: 76561198334402481 Name: Личико Character: Ярослав Турушев Ping: 70
+PlayerID: 76561198390364391 Name: glowinski Character: kamil;] Ping: 132
+
+TimerTerminateCommand.Enabled with Players:
+Connecting: PlayerID: 76561198147534293 Name: свегер Character: [franцus]Swagger
+
+TimerTerminateCommand.Enabled with Players:
+[World] Пипр [Незнаю какой придумать]: "Ну лан"
+
+END with Players:
+[World] Postman Pat [Postman Pat]: "не зря я аккум взял x)"
+
+[World] Пипр [Незнаю какой придумать]: "/home"
+
+Не обработано: Пипр moved x:-695.5986 y:82.72859(+44.21297) z:324.784 in the last second (0.2379227)
+Пипр moved x:-695.5986 y:82.72859(+44.21297) z:324.784 in the last second (0.2379227)
+
+[World] [franцus]Swagger [свегер]: "/kits"
+
+[Area] 7_AleX_3 [7_AleX_3]: "да"
+
+[World] Пипр [Незнаю какой придумать]: "Вот поршивец"
+
+[World] Planeset 25 [Planeset 25]: "/tpa mslvn"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198157563744 Name: Jason Voorhees Character: Jason Voorhees Ping: 85
+PlayerID: 76561198119414469 Name: Postman Pat Character: Postman Pat Ping: 54
+PlayerID: 76561198391626023 Name: roman.sagitov.2017 Character: Roma Sagitow Ping: 31
+PlayerID: 76561198295801599 Name: Lo[x] Character: Lo[x] Ping: 54
+PlayerID: 76561198176817369 Name: ?. Character: GlodiS Ping: 54
+PlayerID: 76561198280617288 Name: Незнаю какой придумать Character: Пипр Ping: 78
+PlayerID: 76561198123982483 Name: Mr. Noizy Character: mslvn Ping: 46
+PlayerID: 76561198354476455 Name: Unturned Character: данил лари Ping: 39
+PlayerID: 76561198327628144 Name: Planeset 25 Character: Planeset 25 Ping: 31
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 39
+PlayerID: 76561198292543416 Name: Mr_GiladKing Character: GamerYT Ping: 54
+PlayerID: 76561198358778621 Name: d.dalabaev Character: MRE Ping: 125
+PlayerID: 76561198212068624 Name: Omega Character: MrOmega Ping: 78
+PlayerID: 76561198322926275 Name: kirill Character: kirill Ping: 156
+PlayerID: 76561198324996335 Name: Mуждей щи Мамалыга Character: []Max[] Ping: 93
+PlayerID: 76561198334402481 Name: Личико Character: Ярослав Турушев Ping: 70
+PlayerID: 76561198390364391 Name: glowinski Character: kamil;] Ping: 125
+PlayerID: 76561198147534293 Name: свегер Character: [franцus]Swagger Ping: 62
+
+END with Players:
+[World] Roma Sagitow [roman.sagitov.2017]: "каму медецинскую сумку за 5 железа?"
+
+[World] mslvn [Mr. Noizy]: "/tpa accept"
+
+[World] [franцus]Swagger [свегер]: "/kit claim"
+
+Не обработано: DeathMessagesRemastered >> Broadcast: Ярослав Турушев has been mauled by a zombie! 
+DeathMessagesRemastered >> Broadcast: Ярослав Турушев has been mauled by a zombie! 
+
+Не обработано: Ярослав Турушев [Личико] was mauled by a zombie!
+Ярослав Турушев [Личико] was mauled by a zombie!
+
+Disconnecting: PlayerID: 76561198334402481 Name: Личико Character: Ярослав Турушев
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198157563744 Name: Jason Voorhees Character: Jason Voorhees Ping: 62
+PlayerID: 76561198119414469 Name: Postman Pat Character: Postman Pat Ping: 46
+PlayerID: 76561198391626023 Name: roman.sagitov.2017 Character: Roma Sagitow Ping: 39
+PlayerID: 76561198295801599 Name: Lo[x] Character: Lo[x] Ping: 54
+PlayerID: 76561198176817369 Name: ?. Character: GlodiS Ping: 70
+PlayerID: 76561198280617288 Name: Незнаю какой придумать Character: Пипр Ping: 54
+PlayerID: 76561198123982483 Name: Mr. Noizy Character: mslvn Ping: 54
+PlayerID: 76561198354476455 Name: Unturned Character: данил лари Ping: 31
+PlayerID: 76561198327628144 Name: Planeset 25 Character: Planeset 25 Ping: 31
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 31
+PlayerID: 76561198292543416 Name: Mr_GiladKing Character: GamerYT Ping: 39
+PlayerID: 76561198358778621 Name: d.dalabaev Character: MRE Ping: 117
+PlayerID: 76561198212068624 Name: Omega Character: MrOmega Ping: 101
+PlayerID: 76561198322926275 Name: kirill Character: kirill Ping: 117
+PlayerID: 76561198324996335 Name: Mуждей щи Мамалыга Character: []Max[] Ping: 70
+PlayerID: 76561198390364391 Name: glowinski Character: kamil;] Ping: 156
+PlayerID: 76561198147534293 Name: свегер Character: [franцus]Swagger Ping: 70
+
+END with Players:
+[World] GlodiS [?.]: "Кто даст канистру ПЖ"
+
+[World] Roma Sagitow [roman.sagitov.2017]: "я могу"
+
+Не обработано: Postman Pat moved x:893.5159 y:83.91779(+42.73107) z:891.6411 in the last second (1.773369)
+Postman Pat moved x:893.5159 y:83.91779(+42.73107) z:891.6411 in the last second (1.773369)
+
+[World] Roma Sagitow [roman.sagitov.2017]: "но с тебя 10 железа"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198157563744 Name: Jason Voorhees Character: Jason Voorhees Ping: 78
+PlayerID: 76561198119414469 Name: Postman Pat Character: Postman Pat Ping: 62
+PlayerID: 76561198391626023 Name: roman.sagitov.2017 Character: Roma Sagitow Ping: 46
+PlayerID: 76561198295801599 Name: Lo[x] Character: Lo[x] Ping: 54
+PlayerID: 76561198176817369 Name: ?. Character: GlodiS Ping: 70
+PlayerID: 76561198280617288 Name: Незнаю какой придумать Character: Пипр Ping: 54
+PlayerID: 76561198123982483 Name: Mr. Noizy Character: mslvn Ping: 46
+PlayerID: 76561198354476455 Name: Unturned Character: данил лари Ping: 39
+PlayerID: 76561198327628144 Name: Planeset 25 Character: Planeset 25 Ping: 31
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 39
+PlayerID: 76561198292543416 Name: Mr_GiladKing Character: GamerYT Ping: 54
+PlayerID: 76561198358778621 Name: d.dalabaev Character: MRE Ping: 117
+PlayerID: 76561198212068624 Name: Omega Character: MrOmega Ping: 109
+PlayerID: 76561198322926275 Name: kirill Character: kirill Ping: 187
+PlayerID: 76561198324996335 Name: Mуждей щи Мамалыга Character: []Max[] Ping: 78
+PlayerID: 76561198390364391 Name: glowinski Character: kamil;] Ping: 156
+PlayerID: 76561198147534293 Name: свегер Character: [franцus]Swagger Ping: 78
+
+END with Players:
+Не обработано: MessageAnnouncer >> Broadcast: Добро пожаловать на HEMULGM.RU. Тут рады вам больше, чем на любом другом сервере!
+MessageAnnouncer >> Broadcast: Добро пожаловать на HEMULGM.RU. Тут рады вам больше, чем на любом другом сервере!
+
+Не обработано: MessageAnnouncer >> Добро пожаловать на HEMULGM.RU. Тут рады вам больше, чем на любом другом сервере!
+MessageAnnouncer >> Добро пожаловать на HEMULGM.RU. Тут рады вам больше, чем на любом другом сервере!
+
+[Area] 7_AleX_3 [7_AleX_3]: "да"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198157563744 Name: Jason Voorhees Character: Jason Voorhees Ping: 85
+PlayerID: 76561198119414469 Name: Postman Pat Character: Postman Pat Ping: 85
+PlayerID: 76561198391626023 Name: roman.sagitov.2017 Character: Roma Sagitow Ping: 70
+PlayerID: 76561198295801599 Name: Lo[x] Character: Lo[x] Ping: 78
+PlayerID: 76561198176817369 Name: ?. Character: GlodiS Ping: 93
+PlayerID: 76561198280617288 Name: Незнаю какой придумать Character: Пипр Ping: 85
+PlayerID: 76561198123982483 Name: Mr. Noizy Character: mslvn Ping: 93
+PlayerID: 76561198354476455 Name: Unturned Character: данил лари Ping: 70
+PlayerID: 76561198327628144 Name: Planeset 25 Character: Planeset 25 Ping: 31
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 23
+PlayerID: 76561198292543416 Name: Mr_GiladKing Character: GamerYT Ping: 70
+PlayerID: 76561198358778621 Name: d.dalabaev Character: MRE Ping: 125
+PlayerID: 76561198212068624 Name: Omega Character: MrOmega Ping: 101
+PlayerID: 76561198322926275 Name: kirill Character: kirill Ping: 125
+PlayerID: 76561198324996335 Name: Mуждей щи Мамалыга Character: []Max[] Ping: 93
+PlayerID: 76561198390364391 Name: glowinski Character: kamil;] Ping: 164
+PlayerID: 76561198147534293 Name: свегер Character: [franцus]Swagger Ping: 85
+
+END with Players:
+[Area] 7_AleX_3 [7_AleX_3]: "в чат пиши"
+
+[World] Roma Sagitow [roman.sagitov.2017]: "?tpa GlodaS"
+
+[Area] 7_AleX_3 [7_AleX_3]: "в чат пиши"
+
+[World] Roma Sagitow [roman.sagitov.2017]: "/tpa GlodiS"
+
+[World] Postman Pat [Postman Pat]: "Продам Honeybadger"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198157563744 Name: Jason Voorhees Character: Jason Voorhees Ping: 62
+PlayerID: 76561198119414469 Name: Postman Pat Character: Postman Pat Ping: 85
+PlayerID: 76561198391626023 Name: roman.sagitov.2017 Character: Roma Sagitow Ping: 46
+PlayerID: 76561198295801599 Name: Lo[x] Character: Lo[x] Ping: 54
+PlayerID: 76561198176817369 Name: ?. Character: GlodiS Ping: 70
+PlayerID: 76561198280617288 Name: Незнаю какой придумать Character: Пипр Ping: 78
+PlayerID: 76561198123982483 Name: Mr. Noizy Character: mslvn Ping: 101
+PlayerID: 76561198354476455 Name: Unturned Character: данил лари Ping: 46
+PlayerID: 76561198327628144 Name: Planeset 25 Character: Planeset 25 Ping: 31
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 39
+PlayerID: 76561198292543416 Name: Mr_GiladKing Character: GamerYT Ping: 54
+PlayerID: 76561198358778621 Name: d.dalabaev Character: MRE Ping: 125
+PlayerID: 76561198212068624 Name: Omega Character: MrOmega Ping: 93
+PlayerID: 76561198322926275 Name: kirill Character: kirill Ping: 148
+PlayerID: 76561198324996335 Name: Mуждей щи Мамалыга Character: []Max[] Ping: 70
+PlayerID: 76561198390364391 Name: glowinski Character: kamil;] Ping: 140
+PlayerID: 76561198147534293 Name: свегер Character: [franцus]Swagger Ping: 62
+
+TimerTerminateCommand.Enabled with Players:
+[World] kirill [kirill]: "кто тим по скайпу"
+
+END with Players:
+[World] Пипр [Незнаю какой придумать]: "Пат цена"
+
+[Area] GlodiS [?.]: "/home"
+
+[World] Roma Sagitow [roman.sagitov.2017]: "прими тп"
+
+[World] Postman Pat [Postman Pat]: "2 коробки милитари патрон полных"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198157563744 Name: Jason Voorhees Character: Jason Voorhees Ping: 54
+PlayerID: 76561198119414469 Name: Postman Pat Character: Postman Pat Ping: 62
+PlayerID: 76561198391626023 Name: roman.sagitov.2017 Character: Roma Sagitow Ping: 39
+PlayerID: 76561198295801599 Name: Lo[x] Character: Lo[x] Ping: 46
+PlayerID: 76561198176817369 Name: ?. Character: GlodiS Ping: 70
+PlayerID: 76561198280617288 Name: Незнаю какой придумать Character: Пипр Ping: 31
+PlayerID: 76561198123982483 Name: Mr. Noizy Character: mslvn Ping: 62
+PlayerID: 76561198354476455 Name: Unturned Character: данил лари Ping: 39
+PlayerID: 76561198327628144 Name: Planeset 25 Character: Planeset 25 Ping: 31
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 31
+PlayerID: 76561198292543416 Name: Mr_GiladKing Character: GamerYT Ping: 54
+PlayerID: 76561198358778621 Name: d.dalabaev Character: MRE Ping: 117
+PlayerID: 76561198212068624 Name: Omega Character: MrOmega Ping: 109
+PlayerID: 76561198322926275 Name: kirill Character: kirill Ping: 125
+PlayerID: 76561198324996335 Name: Mуждей щи Мамалыга Character: []Max[] Ping: 117
+PlayerID: 76561198390364391 Name: glowinski Character: kamil;] Ping: 164
+PlayerID: 76561198147534293 Name: свегер Character: [franцus]Swagger Ping: 70
+
+END with Players:
+[World] Postman Pat [Postman Pat]: "80 крч ящиками"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198157563744 Name: Jason Voorhees Character: Jason Voorhees Ping: 78
+PlayerID: 76561198119414469 Name: Postman Pat Character: Postman Pat Ping: 62
+PlayerID: 76561198391626023 Name: roman.sagitov.2017 Character: Roma Sagitow Ping: 46
+PlayerID: 76561198295801599 Name: Lo[x] Character: Lo[x] Ping: 54
+PlayerID: 76561198176817369 Name: ?. Character: GlodiS Ping: 70
+PlayerID: 76561198280617288 Name: Незнаю какой придумать Character: Пипр Ping: 54
+PlayerID: 76561198123982483 Name: Mr. Noizy Character: mslvn Ping: 31
+PlayerID: 76561198354476455 Name: Unturned Character: данил лари Ping: 31
+PlayerID: 76561198327628144 Name: Planeset 25 Character: Planeset 25 Ping: 31
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 31
+PlayerID: 76561198292543416 Name: Mr_GiladKing Character: GamerYT Ping: 54
+PlayerID: 76561198358778621 Name: d.dalabaev Character: MRE Ping: 117
+PlayerID: 76561198212068624 Name: Omega Character: MrOmega Ping: 93
+PlayerID: 76561198322926275 Name: kirill Character: kirill Ping: 109
+PlayerID: 76561198324996335 Name: Mуждей щи Мамалыга Character: []Max[] Ping: 109
+PlayerID: 76561198390364391 Name: glowinski Character: kamil;] Ping: 140
+PlayerID: 76561198147534293 Name: свегер Character: [franцus]Swagger Ping: 62
+
+END with Players:
+[World] Roma Sagitow [roman.sagitov.2017]: "GlodiS прими тп"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198157563744 Name: Jason Voorhees Character: Jason Voorhees Ping: 70
+PlayerID: 76561198119414469 Name: Postman Pat Character: Postman Pat Ping: 70
+PlayerID: 76561198391626023 Name: roman.sagitov.2017 Character: Roma Sagitow Ping: 46
+PlayerID: 76561198295801599 Name: Lo[x] Character: Lo[x] Ping: 54
+PlayerID: 76561198176817369 Name: ?. Character: GlodiS Ping: 54
+PlayerID: 76561198280617288 Name: Незнаю какой придумать Character: Пипр Ping: 62
+PlayerID: 76561198123982483 Name: Mr. Noizy Character: mslvn Ping: 70
+PlayerID: 76561198354476455 Name: Unturned Character: данил лари Ping: 46
+PlayerID: 76561198327628144 Name: Planeset 25 Character: Planeset 25 Ping: 39
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 39
+PlayerID: 76561198292543416 Name: Mr_GiladKing Character: GamerYT Ping: 62
+PlayerID: 76561198358778621 Name: d.dalabaev Character: MRE Ping: 125
+PlayerID: 76561198212068624 Name: Omega Character: MrOmega Ping: 101
+PlayerID: 76561198322926275 Name: kirill Character: kirill Ping: 156
+PlayerID: 76561198324996335 Name: Mуждей щи Мамалыга Character: []Max[] Ping: 78
+PlayerID: 76561198390364391 Name: glowinski Character: kamil;] Ping: 171
+PlayerID: 76561198147534293 Name: свегер Character: [franцus]Swagger Ping: 70
+
+END with Players:
+[World] GlodiS [?.]: "/tpa accept"
+
+[Area] 7_AleX_3 [7_AleX_3]: "пипр"
+
+[World] GamerYT [Mr_GiladKing]: "/home"
+
+Не обработано: GamerYT moved x:-644.1776 y:76.35297(+37.87565) z:254.6572 in the last second (0.2379227)
+GamerYT moved x:-644.1776 y:76.35297(+37.87565) z:254.6572 in the last second (0.2379227)
+
+[Area] 7_AleX_3 [7_AleX_3]: "тп"
+
+Не обработано: PlayerInfoLib >> No expired player info records found for this batch.
+PlayerInfoLib >> No expired player info records found for this batch.
+
+[World] GamerYT [Mr_GiladKing]: "/tpa a"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198157563744 Name: Jason Voorhees Character: Jason Voorhees Ping: 70
+PlayerID: 76561198119414469 Name: Postman Pat Character: Postman Pat Ping: 62
+PlayerID: 76561198391626023 Name: roman.sagitov.2017 Character: Roma Sagitow Ping: 46
+PlayerID: 76561198295801599 Name: Lo[x] Character: Lo[x] Ping: 54
+PlayerID: 76561198176817369 Name: ?. Character: GlodiS Ping: 70
+PlayerID: 76561198280617288 Name: Незнаю какой придумать Character: Пипр Ping: 54
+PlayerID: 76561198123982483 Name: Mr. Noizy Character: mslvn Ping: 46
+PlayerID: 76561198354476455 Name: Unturned Character: данил лари Ping: 39
+PlayerID: 76561198327628144 Name: Planeset 25 Character: Planeset 25 Ping: 31
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 31
+PlayerID: 76561198292543416 Name: Mr_GiladKing Character: GamerYT Ping: 54
+PlayerID: 76561198358778621 Name: d.dalabaev Character: MRE Ping: 125
+PlayerID: 76561198212068624 Name: Omega Character: MrOmega Ping: 117
+PlayerID: 76561198322926275 Name: kirill Character: kirill Ping: 132
+PlayerID: 76561198324996335 Name: Mуждей щи Мамалыга Character: []Max[] Ping: 70
+PlayerID: 76561198390364391 Name: glowinski Character: kamil;] Ping: 164
+PlayerID: 76561198147534293 Name: свегер Character: [franцus]Swagger Ping: 54
+
+TimerTerminateCommand.Enabled with Players:
+[World] данил лари [Unturned]: "/tpa game"
+
+TimerTerminateCommand.Enabled with Players:
+[World] GamerYT [Mr_GiladKing]: "/tpa a"
+
+Не обработано: данил лари moved x:-662.199 y:76.94402(+38.4667) z:239.6069 in the last second (0.6165009)
+TimerTerminateCommand.Enabled with Players:
+данил лари moved x:-662.199 y:76.94402(+38.4667) z:239.6069 in the last second (0.6165009)
+
+END with Players:
+[World] [franцus]Swagger [свегер]: "/kits"
+
+[World] Postman Pat [Postman Pat]: "ну или можешь дать мне ствол в обмен"
+
+Не обработано: MessageAnnouncer >> Broadcast: Наберите /kit start, чтобы получить стартовый набор (еда, вода, топор)
+MessageAnnouncer >> Broadcast: Наберите /kit start, чтобы получить стартовый набор (еда, вода, топор)
+
+Не обработано: MessageAnnouncer >> Наберите /kit start, чтобы получить стартовый набор (еда, вода, топор)
+MessageAnnouncer >> Наберите /kit start, чтобы получить стартовый набор (еда, вода, топор)
+
+[World] Postman Pat [Postman Pat]: "augewerh или maplestrike"
+
+[World] [franцus]Swagger [свегер]: "/kit help"
+
+[World] Пипр [Незнаю какой придумать]: "Какой?"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198157563744 Name: Jason Voorhees Character: Jason Voorhees Ping: 62
+PlayerID: 76561198119414469 Name: Postman Pat Character: Postman Pat Ping: 54
+PlayerID: 76561198391626023 Name: roman.sagitov.2017 Character: Roma Sagitow Ping: 39
+PlayerID: 76561198295801599 Name: Lo[x] Character: Lo[x] Ping: 54
+PlayerID: 76561198176817369 Name: ?. Character: GlodiS Ping: 70
+PlayerID: 76561198280617288 Name: Незнаю какой придумать Character: Пипр Ping: 46
+PlayerID: 76561198123982483 Name: Mr. Noizy Character: mslvn Ping: 54
+PlayerID: 76561198354476455 Name: Unturned Character: данил лари Ping: 39
+PlayerID: 76561198327628144 Name: Planeset 25 Character: Planeset 25 Ping: 31
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 31
+PlayerID: 76561198292543416 Name: Mr_GiladKing Character: GamerYT Ping: 54
+PlayerID: 76561198358778621 Name: d.dalabaev Character: MRE Ping: 117
+PlayerID: 76561198212068624 Name: Omega Character: MrOmega Ping: 93
+PlayerID: 76561198322926275 Name: kirill Character: kirill Ping: 140
+PlayerID: 76561198324996335 Name: Mуждей щи Мамалыга Character: []Max[] Ping: 70
+PlayerID: 76561198390364391 Name: glowinski Character: kamil;] Ping: 171
+PlayerID: 76561198147534293 Name: свегер Character: [franцus]Swagger Ping: 93
+
+END with Players:
+[World] Postman Pat [Postman Pat]: "они только с аирдропов"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198157563744 Name: Jason Voorhees Character: Jason Voorhees Ping: 62
+PlayerID: 76561198119414469 Name: Postman Pat Character: Postman Pat Ping: 85
+PlayerID: 76561198391626023 Name: roman.sagitov.2017 Character: Roma Sagitow Ping: 54
+PlayerID: 76561198295801599 Name: Lo[x] Character: Lo[x] Ping: 62
+PlayerID: 76561198176817369 Name: ?. Character: GlodiS Ping: 70
+PlayerID: 76561198280617288 Name: Незнаю какой придумать Character: Пипр Ping: 62
+PlayerID: 76561198123982483 Name: Mr. Noizy Character: mslvn Ping: 39
+PlayerID: 76561198354476455 Name: Unturned Character: данил лари Ping: 54
+PlayerID: 76561198327628144 Name: Planeset 25 Character: Planeset 25 Ping: 39
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 46
+PlayerID: 76561198292543416 Name: Mr_GiladKing Character: GamerYT Ping: 62
+PlayerID: 76561198358778621 Name: d.dalabaev Character: MRE Ping: 125
+PlayerID: 76561198212068624 Name: Omega Character: MrOmega Ping: 78
+PlayerID: 76561198322926275 Name: kirill Character: kirill Ping: 148
+PlayerID: 76561198324996335 Name: Mуждей щи Мамалыга Character: []Max[] Ping: 85
+PlayerID: 76561198390364391 Name: glowinski Character: kamil;] Ping: 148
+PlayerID: 76561198147534293 Name: свегер Character: [franцus]Swagger Ping: 78
+
+TimerTerminateCommand.Enabled with Players:
+[World] Пипр [Незнаю какой придумать]: "Я 2 аира поднял"
+
+END with Players:
+[World] Postman Pat [Postman Pat]: "и шо там было?"
+
+[World] Пипр [Незнаю какой придумать]: "щас гляну в сейф"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198157563744 Name: Jason Voorhees Character: Jason Voorhees Ping: 70
+PlayerID: 76561198119414469 Name: Postman Pat Character: Postman Pat Ping: 70
+PlayerID: 76561198391626023 Name: roman.sagitov.2017 Character: Roma Sagitow Ping: 39
+PlayerID: 76561198295801599 Name: Lo[x] Character: Lo[x] Ping: 62
+PlayerID: 76561198176817369 Name: ?. Character: GlodiS Ping: 62
+PlayerID: 76561198280617288 Name: Незнаю какой придумать Character: Пипр Ping: 46
+PlayerID: 76561198123982483 Name: Mr. Noizy Character: mslvn Ping: 62
+PlayerID: 76561198354476455 Name: Unturned Character: данил лари Ping: 46
+PlayerID: 76561198327628144 Name: Planeset 25 Character: Planeset 25 Ping: 23
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 39
+PlayerID: 76561198292543416 Name: Mr_GiladKing Character: GamerYT Ping: 70
+PlayerID: 76561198358778621 Name: d.dalabaev Character: MRE Ping: 125
+PlayerID: 76561198212068624 Name: Omega Character: MrOmega Ping: 70
+PlayerID: 76561198322926275 Name: kirill Character: kirill Ping: 148
+PlayerID: 76561198324996335 Name: Mуждей щи Мамалыга Character: []Max[] Ping: 85
+PlayerID: 76561198390364391 Name: glowinski Character: kamil;] Ping: 164
+PlayerID: 76561198147534293 Name: свегер Character: [franцus]Swagger Ping: 62
+
+END with Players:
+[World] Пипр [Незнаю какой придумать]: ".рщьу"
+
+[World] Пипр [Незнаю какой придумать]: "/home"
+
+Не обработано: Пипр moved x:-695.5986 y:82.59067(+45.55724) z:324.784 in the last second (0.09999847)
+Пипр moved x:-695.5986 y:82.59067(+45.55724) z:324.784 in the last second (0.09999847)
+
+[Area] GlodiS [?.]: "/home"
+
+[World] Roma Sagitow [roman.sagitov.2017]: "/home"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198157563744 Name: Jason Voorhees Character: Jason Voorhees Ping: 62
+PlayerID: 76561198119414469 Name: Postman Pat Character: Postman Pat Ping: 54
+PlayerID: 76561198391626023 Name: roman.sagitov.2017 Character: Roma Sagitow Ping: 39
+PlayerID: 76561198295801599 Name: Lo[x] Character: Lo[x] Ping: 54
+PlayerID: 76561198176817369 Name: ?. Character: GlodiS Ping: 62
+PlayerID: 76561198280617288 Name: Незнаю какой придумать Character: Пипр Ping: 46
+PlayerID: 76561198123982483 Name: Mr. Noizy Character: mslvn Ping: 85
+PlayerID: 76561198354476455 Name: Unturned Character: данил лари Ping: 46
+PlayerID: 76561198327628144 Name: Planeset 25 Character: Planeset 25 Ping: 23
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 39
+PlayerID: 76561198292543416 Name: Mr_GiladKing Character: GamerYT Ping: 54
+PlayerID: 76561198358778621 Name: d.dalabaev Character: MRE Ping: 117
+PlayerID: 76561198212068624 Name: Omega Character: MrOmega Ping: 62
+PlayerID: 76561198322926275 Name: kirill Character: kirill Ping: 125
+PlayerID: 76561198324996335 Name: Mуждей щи Мамалыга Character: []Max[] Ping: 85
+PlayerID: 76561198390364391 Name: glowinski Character: kamil;] Ping: 164
+PlayerID: 76561198147534293 Name: свегер Character: [franцus]Swagger Ping: 62
+
+TimerTerminateCommand.Enabled with Players:
+Connecting: PlayerID: 76561198167413206 Name: Doktor Whoo Character: Doktor Whoo
+
+END with Players:
+Не обработано: DeathMessagesRemastered >> Broadcast: Planeset 25 has bled to death!
+DeathMessagesRemastered >> Broadcast: Planeset 25 has bled to death!
+
+Не обработано: Planeset 25 [Planeset 25] bled to death!
+Planeset 25 [Planeset 25] bled to death!
+
+[World] Пипр [Незнаю какой придумать]: "Calling Card"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198157563744 Name: Jason Voorhees Character: Jason Voorhees Ping: 54
+PlayerID: 76561198119414469 Name: Postman Pat Character: Postman Pat Ping: 54
+PlayerID: 76561198391626023 Name: roman.sagitov.2017 Character: Roma Sagitow Ping: 39
+PlayerID: 76561198295801599 Name: Lo[x] Character: Lo[x] Ping: 46
+PlayerID: 76561198176817369 Name: ?. Character: GlodiS Ping: 70
+PlayerID: 76561198280617288 Name: Незнаю какой придумать Character: Пипр Ping: 31
+PlayerID: 76561198123982483 Name: Mr. Noizy Character: mslvn Ping: 46
+PlayerID: 76561198354476455 Name: Unturned Character: данил лари Ping: 31
+PlayerID: 76561198327628144 Name: Planeset 25 Character: Planeset 25 Ping: 31
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 31
+PlayerID: 76561198292543416 Name: Mr_GiladKing Character: GamerYT Ping: 31
+PlayerID: 76561198358778621 Name: d.dalabaev Character: MRE Ping: 117
+PlayerID: 76561198212068624 Name: Omega Character: MrOmega Ping: 78
+PlayerID: 76561198322926275 Name: kirill Character: kirill Ping: 132
+PlayerID: 76561198324996335 Name: Mуждей щи Мамалыга Character: []Max[] Ping: 78
+PlayerID: 76561198390364391 Name: glowinski Character: kamil;] Ping: 140
+PlayerID: 76561198147534293 Name: свегер Character: [franцus]Swagger Ping: 62
+PlayerID: 76561198167413206 Name: Doktor Whoo Character: Doktor Whoo Ping: 31
+
+END with Players:
+[World] Planeset 25 [Planeset 25]: "/tpa mslvn"
+
+[World] mslvn [Mr. Noizy]: "/tpa accept"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198157563744 Name: Jason Voorhees Character: Jason Voorhees Ping: 62
+PlayerID: 76561198119414469 Name: Postman Pat Character: Postman Pat Ping: 70
+PlayerID: 76561198391626023 Name: roman.sagitov.2017 Character: Roma Sagitow Ping: 31
+PlayerID: 76561198295801599 Name: Lo[x] Character: Lo[x] Ping: 54
+PlayerID: 76561198176817369 Name: ?. Character: GlodiS Ping: 70
+PlayerID: 76561198280617288 Name: Незнаю какой придумать Character: Пипр Ping: 54
+PlayerID: 76561198123982483 Name: Mr. Noizy Character: mslvn Ping: 46
+PlayerID: 76561198354476455 Name: Unturned Character: данил лари Ping: 31
+PlayerID: 76561198327628144 Name: Planeset 25 Character: Planeset 25 Ping: 31
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 31
+PlayerID: 76561198292543416 Name: Mr_GiladKing Character: GamerYT Ping: 70
+PlayerID: 76561198358778621 Name: d.dalabaev Character: MRE Ping: 109
+PlayerID: 76561198212068624 Name: Omega Character: MrOmega Ping: 85
+PlayerID: 76561198322926275 Name: kirill Character: kirill Ping: 140
+PlayerID: 76561198324996335 Name: Mуждей щи Мамалыга Character: []Max[] Ping: 117
+PlayerID: 76561198390364391 Name: glowinski Character: kamil;] Ping: 164
+PlayerID: 76561198147534293 Name: свегер Character: [franцus]Swagger Ping: 62
+PlayerID: 76561198167413206 Name: Doktor Whoo Character: Doktor Whoo Ping: 46
+
+TimerTerminateCommand.Enabled with Players:
+[World] [franцus]Swagger [свегер]: "/kits"
+
+END with Players:
+Не обработано: MessageAnnouncer >> Broadcast: Внимание! PvP-режим по субботам! PvP-режим!!!
+MessageAnnouncer >> Broadcast: Внимание! PvP-режим по субботам! PvP-режим!!!
+
+Не обработано: MessageAnnouncer >> Внимание! PvP-режим по субботам! PvP-режим!!!
+MessageAnnouncer >> Внимание! PvP-режим по субботам! PvP-режим!!!
+
+[World] [franцus]Swagger [свегер]: "/kit start"
+
+[Area] 7_AleX_3 [7_AleX_3]: "/kit help"
+
+[World] Пипр [Незнаю какой придумать]: "Timberwolf"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198157563744 Name: Jason Voorhees Character: Jason Voorhees Ping: 78
+PlayerID: 76561198119414469 Name: Postman Pat Character: Postman Pat Ping: 62
+PlayerID: 76561198391626023 Name: roman.sagitov.2017 Character: Roma Sagitow Ping: 46
+PlayerID: 76561198295801599 Name: Lo[x] Character: Lo[x] Ping: 70
+PlayerID: 76561198176817369 Name: ?. Character: GlodiS Ping: 101
+PlayerID: 76561198280617288 Name: Незнаю какой придумать Character: Пипр Ping: 78
+PlayerID: 76561198123982483 Name: Mr. Noizy Character: mslvn Ping: 46
+PlayerID: 76561198354476455 Name: Unturned Character: данил лари Ping: 39
+PlayerID: 76561198327628144 Name: Planeset 25 Character: Planeset 25 Ping: 39
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 39
+PlayerID: 76561198292543416 Name: Mr_GiladKing Character: GamerYT Ping: 78
+PlayerID: 76561198358778621 Name: d.dalabaev Character: MRE Ping: 117
+PlayerID: 76561198212068624 Name: Omega Character: MrOmega Ping: 85
+PlayerID: 76561198322926275 Name: kirill Character: kirill Ping: 148
+PlayerID: 76561198324996335 Name: Mуждей щи Мамалыга Character: []Max[] Ping: 85
+PlayerID: 76561198390364391 Name: glowinski Character: kamil;] Ping: 156
+PlayerID: 76561198147534293 Name: свегер Character: [franцus]Swagger Ping: 78
+PlayerID: 76561198167413206 Name: Doktor Whoo Character: Doktor Whoo Ping: 46
+
+END with Players:
+[World] Пипр [Незнаю какой придумать]: "Fusilaut"
+
+[World] Пипр [Незнаю какой придумать]: "Teklowka"
+
+[World] Roma Sagitow [roman.sagitov.2017]: "продам конистру за 10 железа осталось 2"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198157563744 Name: Jason Voorhees Character: Jason Voorhees Ping: 62
+PlayerID: 76561198119414469 Name: Postman Pat Character: Postman Pat Ping: 70
+PlayerID: 76561198391626023 Name: roman.sagitov.2017 Character: Roma Sagitow Ping: 46
+PlayerID: 76561198295801599 Name: Lo[x] Character: Lo[x] Ping: 54
+PlayerID: 76561198176817369 Name: ?. Character: GlodiS Ping: 109
+PlayerID: 76561198280617288 Name: Незнаю какой придумать Character: Пипр Ping: 70
+PlayerID: 76561198123982483 Name: Mr. Noizy Character: mslvn Ping: 46
+PlayerID: 76561198354476455 Name: Unturned Character: данил лари Ping: 46
+PlayerID: 76561198327628144 Name: Planeset 25 Character: Planeset 25 Ping: 31
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 31
+PlayerID: 76561198292543416 Name: Mr_GiladKing Character: GamerYT Ping: 54
+PlayerID: 76561198358778621 Name: d.dalabaev Character: MRE Ping: 125
+PlayerID: 76561198212068624 Name: Omega Character: MrOmega Ping: 85
+PlayerID: 76561198322926275 Name: kirill Character: kirill Ping: 156
+PlayerID: 76561198324996335 Name: Mуждей щи Мамалыга Character: []Max[] Ping: 78
+PlayerID: 76561198390364391 Name: glowinski Character: kamil;] Ping: 179
+PlayerID: 76561198147534293 Name: свегер Character: [franцus]Swagger Ping: 62
+PlayerID: 76561198167413206 Name: Doktor Whoo Character: Doktor Whoo Ping: 54
+
+Не обработано: Saving server
+TimerTerminateCommand.Enabled with Players:
+Saving server
+
+TimerTerminateCommand.Enabled with Players:
+[World] Пипр [Незнаю какой придумать]: "Vonya"
+
+END with Players:
+[World] MrOmega [Omega]: "/kit help"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198157563744 Name: Jason Voorhees Character: Jason Voorhees Ping: 70
+PlayerID: 76561198119414469 Name: Postman Pat Character: Postman Pat Ping: 54
+PlayerID: 76561198391626023 Name: roman.sagitov.2017 Character: Roma Sagitow Ping: 39
+PlayerID: 76561198295801599 Name: Lo[x] Character: Lo[x] Ping: 46
+PlayerID: 76561198176817369 Name: ?. Character: GlodiS Ping: 101
+PlayerID: 76561198280617288 Name: Незнаю какой придумать Character: Пипр Ping: 70
+PlayerID: 76561198123982483 Name: Mr. Noizy Character: mslvn Ping: 62
+PlayerID: 76561198354476455 Name: Unturned Character: данил лари Ping: 39
+PlayerID: 76561198327628144 Name: Planeset 25 Character: Planeset 25 Ping: 31
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 31
+PlayerID: 76561198292543416 Name: Mr_GiladKing Character: GamerYT Ping: 46
+PlayerID: 76561198358778621 Name: d.dalabaev Character: MRE Ping: 125
+PlayerID: 76561198212068624 Name: Omega Character: MrOmega Ping: 78
+PlayerID: 76561198322926275 Name: kirill Character: kirill Ping: 101
+PlayerID: 76561198324996335 Name: Mуждей щи Мамалыга Character: []Max[] Ping: 78
+PlayerID: 76561198390364391 Name: glowinski Character: kamil;] Ping: 187
+PlayerID: 76561198147534293 Name: свегер Character: [franцus]Swagger Ping: 70
+PlayerID: 76561198167413206 Name: Doktor Whoo Character: Doktor Whoo Ping: 46
+
+TimerTerminateCommand.Enabled with Players:
+[World] Пипр [Незнаю какой придумать]: "И все"
+
+END with Players:
+[World] Postman Pat [Postman Pat]: "мдэ"
+
+Client has executed command "players"
+

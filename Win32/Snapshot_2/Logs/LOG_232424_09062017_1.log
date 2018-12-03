@@ -1,0 +1,43 @@
+Не обработано: RocketRcon v2.4.8.0
+RocketRcon v2.4.8.0
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198278360341 Name: AcademeG Character: AcademeG Ping: 80
+PlayerID: 76561198268161521 Name: DOMIK Character: Listiger_wolf2 Ping: 53
+PlayerID: 76561198391815543 Name: dinorendulic03 Character: dinorendulic03 Ping: 163
+PlayerID: 76561198326929390 Name: kuki Character: soliclukas Ping: 101
+PlayerID: 76561198205361612 Name: RedVelvetRaven Character: RedVelvetRaven Ping: 195
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294116343
+
+END with Bans:
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198278360341 Name: AcademeG Character: AcademeG Ping: 94
+PlayerID: 76561198268161521 Name: DOMIK Character: Listiger_wolf2 Ping: 52
+PlayerID: 76561198391815543 Name: dinorendulic03 Character: dinorendulic03 Ping: 193
+PlayerID: 76561198326929390 Name: kuki Character: soliclukas Ping: 117
+PlayerID: 76561198205361612 Name: RedVelvetRaven Character: RedVelvetRaven Ping: 193
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294116323
+
+END with Bans:

@@ -1,0 +1,25 @@
+Не обработано: RocketRcon v2.4.8.0
+RocketRcon v2.4.8.0
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198177412437 Name: korak Character: korak Ping: 148
+PlayerID: 76561198322333587 Name: andryusha.markin.05 Character: Андрей_Маркин Ping: 23
+PlayerID: 76561198323972058 Name: PulDar Character: зомби Ping: 70
+PlayerID: 76561198137518896 Name: fitman Character: fitman Ping: 31
+PlayerID: 76561198381173735 Name: ingener_spring Character: ingener_spring Ping: 54
+PlayerID: 76561198389821444 Name: vlados262006 Character: Гриша Мацканец Ping: 23
+PlayerID: 76561198299269413 Name: FedeN Character: FedeN Ping: 39
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294292115
+
+END with Bans:

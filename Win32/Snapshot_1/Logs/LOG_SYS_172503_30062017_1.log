@@ -1,0 +1,42 @@
+30.06.2017 17:25:03: ClientSocketLookup
+30.06.2017 17:25:03: ClientSocketConnecting
+30.06.2017 17:25:04: ClientSocketConnect
+30.06.2017 17:25:04: ClientSocketWrite
+30.06.2017 17:25:19: ClientSocketManagerLookup
+30.06.2017 17:25:19: ClientSocketManagerConnecting
+30.06.2017 17:25:19: ClientSocketManagerWrite
+30.06.2017 17:25:19: ClientSocketManagerRead
+30.06.2017 17:25:23: ClientSocketManagerRead
+01.07.2017 6:59:06: ClientSocketError Соединение прервано
+01.07.2017 6:59:06: ClientSocketError eeSend
+01.07.2017 6:59:06: ClientSocketDisconnect
+01.07.2017 7:01:32: ClientSocketLookup
+01.07.2017 7:01:32: ClientSocketConnecting
+01.07.2017 7:01:32: ClientSocketConnect
+01.07.2017 7:01:32: ClientSocketWrite
+01.07.2017 7:01:37: ClientSocketManagerRead
+02.07.2017 12:04:01: ClientSocketError Соединение прервано
+02.07.2017 12:04:15: ClientSocketError eeSend
+02.07.2017 12:04:15: ClientSocketDisconnect
+02.07.2017 12:05:59: ClientSocketLookup
+02.07.2017 12:05:59: ClientSocketConnecting
+02.07.2017 12:05:59: ClientSocketConnect
+02.07.2017 12:05:59: ClientSocketWrite
+02.07.2017 12:06:21: ClientSocketManagerError Соединение прервано
+02.07.2017 12:06:29: ClientSocketManagerDisconnect
+02.07.2017 12:06:29: ClientSocketManagerLookup
+02.07.2017 12:06:29: ClientSocketManagerConnecting
+02.07.2017 12:06:29: ClientSocketManagerWrite
+02.07.2017 12:06:55: ClientSocketManagerDisconnect
+02.07.2017 12:06:59: ClientSocketManagerLookup
+02.07.2017 12:06:59: ClientSocketManagerConnecting
+02.07.2017 12:06:59: ClientSocketManagerWrite
+02.07.2017 12:06:59: ClientSocketManagerRead
+02.07.2017 12:07:01: ClientSocketManagerRead
+02.07.2017 17:07:47: ClientSocketError Соединение прервано
+02.07.2017 17:07:48: ClientSocketError eeSend
+02.07.2017 17:07:48: ClientSocketDisconnect
+03.07.2017 8:45:27: ClientSocketLookup
+03.07.2017 8:45:27: ClientSocketConnecting
+03.07.2017 8:45:27: ClientSocketConnect
+03.07.2017 8:45:27: ClientSocketWrite

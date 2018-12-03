@@ -1,0 +1,979 @@
+20.11.2017 13:55:16: RocketRcon v2.4.8.0
+
+20.11.2017 13:55:16: login aVIPs22031994
+20.11.2017 13:55:16: players
+20.11.2017 13:55:17: Client has executed command "players"
+Players:
+PlayerID: 76561198245870076 Name: 0|TheGangstar|0 Character: Nyan Bread Ping: 119
+PlayerID: 76561198301131571 Name: PogChamp Character: Тише Будь! Ping: 136
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 171
+PlayerID: 76561198358818955 Name: Limur4iK Character: Limur4iK Ping: 119
+PlayerID: 76561198106869292 Name: roman146rus Character: roman146rus Ping: 42
+PlayerID: 76561198141222762 Name: oldoge csgoloto.com Character: CoolMeEddy Ping: 60
+PlayerID: 76561198391307428 Name: bendi Character: zuhalsakin Ping: 173
+
+20.11.2017 13:55:18: [World] Nyan Bread [0|TheGangstar|0]: "/sell calling"
+[World] Expert1337 [Expert13372284200]: "я убил"
+
+20.11.2017 13:55:20: MessageAnnouncer >> Broadcast: Наберите /kit help, чтобы получить первую мед. помощь (бинты, таблетки, еда)
+MessageAnnouncer >> Наберите /kit help, чтобы получить первую мед. помощь (бинты, таблетки, еда)
+
+20.11.2017 13:55:21: Client has executed command "bans"
+
+20.11.2017 13:55:21: Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 28261047
+PlayerID: 76561198336969313
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 376280
+PlayerID: 76561198212486347
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 376611
+PlayerID: 76561198391097237
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 539098
+
+20.11.2017 13:55:21: END
+20.11.2017 13:55:22: END
+20.11.2017 13:55:26: Client has executed command "players"
+
+20.11.2017 13:55:26: Players:
+PlayerID: 76561198245870076 Name: 0|TheGangstar|0 Character: Nyan Bread Ping: 125
+PlayerID: 76561198301131571 Name: PogChamp Character: Тише Будь! Ping: 138
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 156
+PlayerID: 76561198358818955 Name: Limur4iK Character: Limur4iK Ping: 126
+PlayerID: 76561198106869292 Name: roman146rus Character: roman146rus Ping: 56
+PlayerID: 76561198141222762 Name: oldoge csgoloto.com Character: CoolMeEddy Ping: 52
+PlayerID: 76561198391307428 Name: bendi Character: zuhalsakin Ping: 113
+
+20.11.2017 13:55:27: Client has executed command "bans"
+
+20.11.2017 13:55:27: Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 28261040
+PlayerID: 76561198336969313
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 376273
+PlayerID: 76561198212486347
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 376604
+PlayerID: 76561198391097237
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 539091
+
+20.11.2017 13:55:27: END
+20.11.2017 13:55:29: END
+20.11.2017 13:55:34: cchat "/48/01/00 /14/00" 255 0 0
+20.11.2017 13:55:34: Client has executed command "cchat "/48/01/00 /14/00" 255 0 0"
+
+20.11.2017 13:55:34: ServerControl >> Broadcast: Оба на
+
+20.11.2017 13:55:34: Не обработано: ServerControl >> Broadcast: Оба на
+20.11.2017 13:55:36: cchat "/63/11/18/16/05/17/19" 255 0 0
+20.11.2017 13:55:36: Client has executed command "cchat "/63/11/18/16/05/17/19" 255 0 0"
+
+20.11.2017 13:55:36: ServerControl >> Broadcast: Эксперт
+
+20.11.2017 13:55:36: Не обработано: ServerControl >> Broadcast: Эксперт
+20.11.2017 13:55:40: [World] Expert1337 [Expert13372284200]: "прив"
+
+20.11.2017 13:55:43: [World] Тише Будь! [PogChamp]: "/i 1229 20"
+
+20.11.2017 13:55:43: Дал Тише Будь! вещь 1229:20
+
+20.11.2017 13:55:43: Не обработано: Дал Тише Будь! вещь 1229:20
+20.11.2017 13:55:44: [World] CoolMeEddy [oldoge csgoloto.com]: "/home"
+
+20.11.2017 13:55:44: CoolMeEddy moved x:-94.91373 y:59.53361(+22.07027) z:552.024 in the last second (0.2379189)
+
+20.11.2017 13:55:44: Не обработано: CoolMeEddy moved x:-94.91373 y:59.53361(+22.07027) z:552.024 in the last second (0.2379189)
+20.11.2017 13:55:44: cchat "/51/11/15/12/29/11/15 /12/05/19, /18/11/15/12/29/11/15 /08/09/13" 255 0 0
+20.11.2017 13:55:44: Client has executed command "cchat "/51/11/15/12/29/11/15 /12/05/19, /18/11/15/12/29/11/15 /08/09/13" 255 0 0"
+
+20.11.2017 13:55:44: ServerControl >> Broadcast: Сколько лет, сколько зим
+
+20.11.2017 13:55:44: Не обработано: ServerControl >> Broadcast: Сколько лет, сколько зим
+20.11.2017 13:55:46: Client has executed command "players"
+
+20.11.2017 13:55:46: Players:
+PlayerID: 76561198245870076 Name: 0|TheGangstar|0 Character: Nyan Bread Ping: 119
+PlayerID: 76561198301131571 Name: PogChamp Character: Тише Будь! Ping: 138
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 156
+PlayerID: 76561198358818955 Name: Limur4iK Character: Limur4iK Ping: 197
+PlayerID: 76561198106869292 Name: roman146rus Character: roman146rus Ping: 62
+PlayerID: 76561198141222762 Name: oldoge csgoloto.com Character: CoolMeEddy Ping: 64
+PlayerID: 76561198391307428 Name: bendi Character: zuhalsakin Ping: 113
+
+20.11.2017 13:55:47: Client has executed command "bans"
+
+20.11.2017 13:55:47: Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 28261020
+PlayerID: 76561198336969313
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 376253
+PlayerID: 76561198212486347
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 376584
+PlayerID: 76561198391097237
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 539071
+
+20.11.2017 13:55:47: END
+20.11.2017 13:55:48: DeathMessagesRemastered >> Broadcast: CoolMeEddy истёк кровью!
+
+20.11.2017 13:55:48: CoolMeEddy [oldoge csgoloto.com] bled to death!
+
+20.11.2017 13:55:48: Не обработано: CoolMeEddy [oldoge csgoloto.com] bled to death!
+20.11.2017 13:55:49: END
+20.11.2017 13:55:53: [World] CoolMeEddy [oldoge csgoloto.com]: "/home"
+
+20.11.2017 13:56:03: [World] Expert1337 [Expert13372284200]: "я тут модерку купить хочу"
+
+20.11.2017 13:56:06: Client has executed command "players"
+
+20.11.2017 13:56:06: Players:
+PlayerID: 76561198245870076 Name: 0|TheGangstar|0 Character: Nyan Bread Ping: 117
+PlayerID: 76561198301131571 Name: PogChamp Character: Тише Будь! Ping: 136
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 144
+PlayerID: 76561198358818955 Name: Limur4iK Character: Limur4iK Ping: 123
+PlayerID: 76561198106869292 Name: roman146rus Character: roman146rus Ping: 54
+PlayerID: 76561198141222762 Name: oldoge csgoloto.com Character: CoolMeEddy Ping: 62
+PlayerID: 76561198391307428 Name: bendi Character: zuhalsakin Ping: 117
+
+20.11.2017 13:56:06: [World] Тише Будь! [PogChamp]: "А мне ты так не говорил админ)"
+
+20.11.2017 13:56:08: END
+20.11.2017 13:56:08: Client has executed command "bans"
+
+20.11.2017 13:56:08: Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 28260999
+PlayerID: 76561198336969313
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 376232
+PlayerID: 76561198212486347
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 376563
+PlayerID: 76561198391097237
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 539050
+
+20.11.2017 13:56:10: END
+20.11.2017 13:56:16: cchat "/37/00 /01/05/08 /16/17/15/01/12/05/13" 255 0 0
+20.11.2017 13:56:16: Client has executed command "cchat "/37/00 /01/05/08 /16/17/15/01/12/05/13" 255 0 0"
+
+20.11.2017 13:56:16: ServerControl >> Broadcast: Да без проблем
+
+20.11.2017 13:56:16: Не обработано: ServerControl >> Broadcast: Да без проблем
+20.11.2017 13:56:19: MessageAnnouncer >> Broadcast: vk.com/unturned_hgm - цены на премиум, VIP и другие услуги смотрите в группе!
+
+20.11.2017 13:56:19: MessageAnnouncer >> vk.com/unturned_hgm - цены на премиум, VIP и другие услуги смотрите в группе!
+
+20.11.2017 13:56:23: [World] Expert1337 [Expert13372284200]: "ок ща куплю"
+
+20.11.2017 13:56:26: Client has executed command "players"
+
+20.11.2017 13:56:26: Players:
+PlayerID: 76561198245870076 Name: 0|TheGangstar|0 Character: Nyan Bread Ping: 113
+PlayerID: 76561198301131571 Name: PogChamp Character: Тише Будь! Ping: 140
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 156
+PlayerID: 76561198358818955 Name: Limur4iK Character: Limur4iK Ping: 162
+PlayerID: 76561198106869292 Name: roman146rus Character: roman146rus Ping: 48
+PlayerID: 76561198141222762 Name: oldoge csgoloto.com Character: CoolMeEddy Ping: 62
+PlayerID: 76561198391307428 Name: bendi Character: zuhalsakin Ping: 115
+
+20.11.2017 13:56:27: Client has executed command "bans"
+
+20.11.2017 13:56:27: Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 28260980
+PlayerID: 76561198336969313
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 376213
+PlayerID: 76561198212486347
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 376544
+PlayerID: 76561198391097237
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 539031
+
+20.11.2017 13:56:27: END
+20.11.2017 13:56:29: END
+20.11.2017 13:56:40: cchat "/33 /19/28 /14/09/11 /16/15/13/05/14/32/12, /32 /19/05/01/32 /14/05 /16/15/13/14/31)" 255 0 0
+20.11.2017 13:56:40: Client has executed command "cchat "/33 /19/28 /14/09/11 /16/15/13/05/14/32/12, /32 /19/05/01/32 /14/05 /16/15/13/14/31)" 255 0 0"
+
+20.11.2017 13:56:40: ServerControl >> Broadcast: А ты ник поменял, я тебя не помню)
+
+20.11.2017 13:56:40: Не обработано: ServerControl >> Broadcast: А ты ник поменял, я тебя не помню)
+20.11.2017 13:56:44: [World] Тише Будь! [PogChamp]: "Отгони\"
+
+20.11.2017 13:56:46: Client has executed command "players"
+
+20.11.2017 13:56:46: Players:
+PlayerID: 76561198245870076 Name: 0|TheGangstar|0 Character: Nyan Bread Ping: 128
+PlayerID: 76561198301131571 Name: PogChamp Character: Тише Будь! Ping: 134
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 158
+PlayerID: 76561198358818955 Name: Limur4iK Character: Limur4iK Ping: 136
+PlayerID: 76561198106869292 Name: roman146rus Character: roman146rus Ping: 50
+PlayerID: 76561198141222762 Name: oldoge csgoloto.com Character: CoolMeEddy Ping: 66
+PlayerID: 76561198391307428 Name: bendi Character: zuhalsakin Ping: 123
+
+20.11.2017 13:56:47: Client has executed command "bans"
+
+20.11.2017 13:56:47: Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 28260960
+PlayerID: 76561198336969313
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 376193
+PlayerID: 76561198212486347
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 376524
+PlayerID: 76561198391097237
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 539011
+
+20.11.2017 13:56:47: END
+20.11.2017 13:56:49: [World] Expert1337 [Expert13372284200]: "у меня с компом проблемы были"
+
+20.11.2017 13:56:49: cchat "/38/18/12/09 /19/28 /04/00/02/14/15 /14/05 /08/00/22/15/04/09/12" 255 0 0
+20.11.2017 13:56:49: Client has executed command "cchat "/38/18/12/09 /19/28 /04/00/02/14/15 /14/05 /08/00/22/15/04/09/12" 255 0 0"
+
+20.11.2017 13:56:49: ServerControl >> Broadcast: Если ты давно не заходил
+
+20.11.2017 13:56:49: Не обработано: ServerControl >> Broadcast: Если ты давно не заходил
+20.11.2017 13:56:50: [World] Тише Будь! [PogChamp]: "Анарем"
+
+20.11.2017 13:56:51: END
+20.11.2017 13:56:59: [World] Expert1337 [Expert13372284200]: "он сгорел"
+
+20.11.2017 13:57:00: [World] Тише Будь! [PogChamp]: "Эй блед убери"
+
+20.11.2017 13:57:03: Disconnecting: PlayerID: 76561198141222762 Name: oldoge csgoloto.com Character: CoolMeEddy
+
+20.11.2017 13:57:06: Client has executed command "players"
+
+20.11.2017 13:57:06: Players:
+PlayerID: 76561198245870076 Name: 0|TheGangstar|0 Character: Nyan Bread Ping: 119
+PlayerID: 76561198301131571 Name: PogChamp Character: Тише Будь! Ping: 140
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 173
+PlayerID: 76561198358818955 Name: Limur4iK Character: Limur4iK Ping: 123
+PlayerID: 76561198106869292 Name: roman146rus Character: roman146rus Ping: 48
+PlayerID: 76561198391307428 Name: bendi Character: zuhalsakin Ping: 115
+
+20.11.2017 13:57:07: Client has executed command "bans"
+
+20.11.2017 13:57:07: Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 28260940
+PlayerID: 76561198336969313
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 376173
+PlayerID: 76561198212486347
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 376504
+PlayerID: 76561198391097237
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 538991
+
+20.11.2017 13:57:07: END
+20.11.2017 13:57:09: END
+20.11.2017 13:57:10: cchat "/52/00/11 /30/05/11/18/16/05/17/19 /18/11/15/12/29/11/15 /02/17/05/13/05/14/09 /14/05 /08/00/22/15/04/09/12, /00 /19/28-/19/15 /16/15/18/19/15/32/14/14/15" 255 0 0
+20.11.2017 13:57:10: Client has executed command "cchat "/52/00/11 /30/05/11/18/16/05/17/19 /18/11/15/12/29/11/15 /02/17/05/13/05/14/09 /14/05 /08/00/22/15/04/09/12, /00 /19/28-/19/15 /16/15/18/19/15/32/14/14/15" 255 0 0"
+
+20.11.2017 13:57:10: ServerControl >> Broadcast: Так эексперт сколько времени не заходил, а ты-то постоянно
+
+20.11.2017 13:57:10: Не обработано: ServerControl >> Broadcast: Так эексперт сколько времени не заходил, а ты-то постоянно
+20.11.2017 13:57:17: Connecting: PlayerID: 76561198141222762 Name: oldoge csgoloto.com Character: CoolMeEddy
+
+20.11.2017 13:57:17: CoolMeEddy connected with IP 87.110.53.49
+
+20.11.2017 13:57:19: MessageAnnouncer >> Broadcast: Наберите /kit claim, чтобы получить Claim Flag
+
+20.11.2017 13:57:19: MessageAnnouncer >> Наберите /kit claim, чтобы получить Claim Flag
+
+20.11.2017 13:57:20: [World] Тише Будь! [PogChamp]: "Я постоянно)?"
+
+20.11.2017 13:57:22: [World] CoolMeEddy [oldoge csgoloto.com]: "/home"
+
+20.11.2017 13:57:22: CoolMeEddy moved x:-94.91373 y:59.53361(+20.64355) z:552.024 in the last second (0.2379189)
+
+20.11.2017 13:57:22: Не обработано: CoolMeEddy moved x:-94.91373 y:59.53361(+20.64355) z:552.024 in the last second (0.2379189)
+20.11.2017 13:57:26: Client has executed command "players"
+
+20.11.2017 13:57:26: Players:
+PlayerID: 76561198245870076 Name: 0|TheGangstar|0 Character: Nyan Bread Ping: 117
+PlayerID: 76561198301131571 Name: PogChamp Character: Тише Будь! Ping: 130
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 154
+PlayerID: 76561198358818955 Name: Limur4iK Character: Limur4iK Ping: 132
+PlayerID: 76561198106869292 Name: roman146rus Character: roman146rus Ping: 54
+PlayerID: 76561198391307428 Name: bendi Character: zuhalsakin Ping: 111
+PlayerID: 76561198141222762 Name: oldoge csgoloto.com Character: CoolMeEddy Ping: 66
+
+20.11.2017 13:57:27: Client has executed command "bans"
+
+20.11.2017 13:57:27: Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 28260920
+PlayerID: 76561198336969313
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 376153
+PlayerID: 76561198212486347
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 376484
+PlayerID: 76561198391097237
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 538971
+
+20.11.2017 13:57:27: END
+20.11.2017 13:57:29: END
+20.11.2017 13:57:29: [World] Тише Будь! [PogChamp]: "Я с России не заходил месяцов 4"
+
+20.11.2017 13:57:43: cchat "/47/20 /16/15 /11/17/00/10/14/05/10 /13/05/17/05, /02 /18/17/00/02/14/05/14/09/09 /18 /63/11/18/16/05/17/19/15/13" 255 0 0
+20.11.2017 13:57:44: Client has executed command "cchat "/47/20 /16/15 /11/17/00/10/14/05/10 /13/05/17/05, /02 /18/17/00/02/14/05/14/09/09 /18 /63/11/18/16/05/17/19/15/13" 255 0 0"
+
+20.11.2017 13:57:44: ServerControl >> Broadcast: Ну по крайней мере, в сравнении с Экспертом
+
+20.11.2017 13:57:44: Не обработано: ServerControl >> Broadcast: Ну по крайней мере, в сравнении с Экспертом
+20.11.2017 13:57:46: Client has executed command "players"
+
+20.11.2017 13:57:46: Players:
+PlayerID: 76561198245870076 Name: 0|TheGangstar|0 Character: Nyan Bread Ping: 126
+PlayerID: 76561198301131571 Name: PogChamp Character: Тише Будь! Ping: 134
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 154
+PlayerID: 76561198358818955 Name: Limur4iK Character: Limur4iK Ping: 173
+PlayerID: 76561198106869292 Name: roman146rus Character: roman146rus Ping: 82
+PlayerID: 76561198391307428 Name: bendi Character: zuhalsakin Ping: 117
+PlayerID: 76561198141222762 Name: oldoge csgoloto.com Character: CoolMeEddy Ping: 50
+
+20.11.2017 13:57:47: Client has executed command "bans"
+
+20.11.2017 13:57:47: Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 28260900
+PlayerID: 76561198336969313
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 376133
+PlayerID: 76561198212486347
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 376464
+PlayerID: 76561198391097237
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 538951
+
+20.11.2017 13:57:47: END
+20.11.2017 13:57:49: [World] Тише Будь! [PogChamp]: "Нез"
+
+20.11.2017 13:57:51: END
+20.11.2017 13:57:56: [World] Тише Будь! [PogChamp]: "Оптикор Тоже самое)"
+
+20.11.2017 13:58:04: [World] Тише Будь! [PogChamp]: "Не заходил и появился"
+
+20.11.2017 13:58:06: Client has executed command "players"
+
+20.11.2017 13:58:06: Players:
+PlayerID: 76561198245870076 Name: 0|TheGangstar|0 Character: Nyan Bread Ping: 119
+PlayerID: 76561198301131571 Name: PogChamp Character: Тише Будь! Ping: 138
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 154
+PlayerID: 76561198358818955 Name: Limur4iK Character: Limur4iK Ping: 191
+PlayerID: 76561198106869292 Name: roman146rus Character: roman146rus Ping: 48
+PlayerID: 76561198391307428 Name: bendi Character: zuhalsakin Ping: 117
+PlayerID: 76561198141222762 Name: oldoge csgoloto.com Character: CoolMeEddy Ping: 48
+
+20.11.2017 13:58:07: Client has executed command "bans"
+
+20.11.2017 13:58:07: Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 28260880
+PlayerID: 76561198336969313
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 376113
+PlayerID: 76561198212486347
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 376444
+PlayerID: 76561198391097237
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 538931
+
+20.11.2017 13:58:07: END
+20.11.2017 13:58:09: END
+20.11.2017 13:58:12: cchat "/33/00, /19/15/03/04/00, /11/15/03/04/00 /02/05/17/14/20/12/18/32" 255 0 0
+20.11.2017 13:58:12: Client has executed command "cchat "/33/00, /19/15/03/04/00, /11/15/03/04/00 /02/05/17/14/20/12/18/32" 255 0 0"
+
+20.11.2017 13:58:12: ServerControl >> Broadcast: Аа, тогда, когда вернулся
+
+20.11.2017 13:58:12: Не обработано: ServerControl >> Broadcast: Аа, тогда, когда вернулся
+20.11.2017 13:58:19: MessageAnnouncer >> Broadcast: Если модератор ведёт себя неподобающе, пишите в группу или ЛС (vk.com/unturned_hgm, vk.com/hemulgm)
+
+20.11.2017 13:58:19: MessageAnnouncer >> Если модератор ведёт себя неподобающе, пишите в группу или ЛС (vk.com/unturned_hgm, vk.com/hemulgm)
+
+20.11.2017 13:58:22: [World] Nyan Bread [0|TheGangstar|0]: "/cost turret"
+
+20.11.2017 13:58:26: Client has executed command "players"
+
+20.11.2017 13:58:26: Players:
+PlayerID: 76561198245870076 Name: 0|TheGangstar|0 Character: Nyan Bread Ping: 132
+PlayerID: 76561198301131571 Name: PogChamp Character: Тише Будь! Ping: 132
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 150
+PlayerID: 76561198358818955 Name: Limur4iK Character: Limur4iK Ping: 128
+PlayerID: 76561198106869292 Name: roman146rus Character: roman146rus Ping: 56
+PlayerID: 76561198391307428 Name: bendi Character: zuhalsakin Ping: 115
+PlayerID: 76561198141222762 Name: oldoge csgoloto.com Character: CoolMeEddy Ping: 50
+
+20.11.2017 13:58:27: cchat "/47/20 /19/00/11 /01/12/09/14, /02/18/05/22 /14/05 /20/16/15/13/14/09/25/29. /33 /18 /30/11/18/16/05/17/19/15/13 /13/28 /05/26/06 /18 /49/38/42 /09/03/17/00/05/13" 255 0 0
+20.11.2017 13:58:27: Client has executed command "cchat "/47/20 /19/00/11 /01/12/09/14, /02/18/05/22 /14/05 /20/16/15/13/14/09/25/29. /33 /18 /30/11/18/16/05/17/19/15/13 /13/28 /05/26/06 /18 /49/38/42 /09/03/17/00/05/13" 255 0 0"
+
+20.11.2017 13:58:27: ServerControl >> Broadcast: Ну так блин, всех не упомнишь. А с экспертом мы ещё с ПЕИ играем
+
+20.11.2017 13:58:27: Не обработано: ServerControl >> Broadcast: Ну так блин, всех не упомнишь. А с экспертом мы ещё с ПЕИ играем
+20.11.2017 13:58:28: [World] Тише Будь! [PogChamp]: "/i 328"
+
+20.11.2017 13:58:28: Дал Тише Будь! вещь 328:1
+
+20.11.2017 13:58:28: Не обработано: Дал Тише Будь! вещь 328:1
+20.11.2017 13:58:29: Client has executed command "bans"
+
+20.11.2017 13:58:29: Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 28260858
+PlayerID: 76561198336969313
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 376091
+PlayerID: 76561198212486347
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 376422
+PlayerID: 76561198391097237
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 538909
+
+20.11.2017 13:58:29: END
+20.11.2017 13:58:31: END
+20.11.2017 13:58:38: [World] Expert1337 [Expert13372284200]: "всётаки униформу добавили расдел)"
+
+20.11.2017 13:58:46: Client has executed command "players"
+
+20.11.2017 13:58:46: Players:
+PlayerID: 76561198245870076 Name: 0|TheGangstar|0 Character: Nyan Bread Ping: 125
+PlayerID: 76561198301131571 Name: PogChamp Character: Тише Будь! Ping: 144
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 152
+PlayerID: 76561198358818955 Name: Limur4iK Character: Limur4iK Ping: 126
+PlayerID: 76561198106869292 Name: roman146rus Character: roman146rus Ping: 56
+PlayerID: 76561198391307428 Name: bendi Character: zuhalsakin Ping: 109
+PlayerID: 76561198141222762 Name: oldoge csgoloto.com Character: CoolMeEddy Ping: 56
+
+20.11.2017 13:58:47: Client has executed command "bans"
+
+20.11.2017 13:58:47: Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 28260840
+PlayerID: 76561198336969313
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 376073
+PlayerID: 76561198212486347
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 376404
+PlayerID: 76561198391097237
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 538891
+
+20.11.2017 13:58:47: END
+20.11.2017 13:58:49: END
+20.11.2017 13:58:51: cchat "/00/03/00)" 255 0 0
+20.11.2017 13:58:51: Client has executed command "cchat "/00/03/00)" 255 0 0"
+
+20.11.2017 13:58:51: ServerControl >> Broadcast: ага)
+
+20.11.2017 13:58:51: Не обработано: ServerControl >> Broadcast: ага)
+20.11.2017 13:58:52: [World] Тише Будь! [PogChamp]: "Rf;bcm z nt gjvy. Trcgthn"
+
+20.11.2017 13:59:00: [World] Тише Будь! [PogChamp]: "Кажись я помню те Эксперт"
+
+20.11.2017 13:59:01: Broadcast: [ZOMBIE] zuhalsakin был съеден зомби! 
+
+20.11.2017 13:59:01: Не обработано: Broadcast: [ZOMBIE] zuhalsakin был съеден зомби! 
+20.11.2017 13:59:01: zuhalsakin [bendi] was mauled by a zombie!
+
+20.11.2017 13:59:01: Не обработано: zuhalsakin [bendi] was mauled by a zombie!
+20.11.2017 13:59:03: cchat "/63/11/18/16/05/17/19 /19/20/19 /13/14/15/03/15/05 /09/08/13/05/14/09/12/15/18/29)" 255 0 0
+20.11.2017 13:59:03: Client has executed command "cchat "/63/11/18/16/05/17/19 /19/20/19 /13/14/15/03/15/05 /09/08/13/05/14/09/12/15/18/29)" 255 0 0"
+
+20.11.2017 13:59:03: ServerControl >> Broadcast: Эксперт тут многое изменилось)
+
+20.11.2017 13:59:03: Не обработано: ServerControl >> Broadcast: Эксперт тут многое изменилось)
+20.11.2017 13:59:06: Client has executed command "players"
+
+20.11.2017 13:59:06: Players:
+PlayerID: 76561198245870076 Name: 0|TheGangstar|0 Character: Nyan Bread Ping: 119
+PlayerID: 76561198301131571 Name: PogChamp Character: Тише Будь! Ping: 132
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 154
+PlayerID: 76561198358818955 Name: Limur4iK Character: Limur4iK Ping: 113
+PlayerID: 76561198106869292 Name: roman146rus Character: roman146rus Ping: 44
+PlayerID: 76561198391307428 Name: bendi Character: zuhalsakin Ping: 115
+PlayerID: 76561198141222762 Name: oldoge csgoloto.com Character: CoolMeEddy Ping: 46
+
+20.11.2017 13:59:07: [World] CoolMeEddy [oldoge csgoloto.com]: "/cost bandage"
+
+20.11.2017 13:59:08: END
+20.11.2017 13:59:08: Client has executed command "bans"
+
+20.11.2017 13:59:08: Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 28260819
+PlayerID: 76561198336969313
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 376052
+PlayerID: 76561198212486347
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 376383
+PlayerID: 76561198391097237
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 538870
+
+20.11.2017 13:59:10: END
+20.11.2017 13:59:12: [World] CoolMeEddy [oldoge csgoloto.com]: "/balance"
+
+20.11.2017 13:59:16: [World] CoolMeEddy [oldoge csgoloto.com]: "/cost 15"
+
+20.11.2017 13:59:19: MessageAnnouncer >> Broadcast: Посетите наш сайт. Вы будете удивлены! unturned.hemulgm.ru
+
+20.11.2017 13:59:19: MessageAnnouncer >> Посетите наш сайт. Вы будете удивлены! unturned.hemulgm.ru
+
+20.11.2017 13:59:26: Client has executed command "players"
+
+20.11.2017 13:59:26: Players:
+PlayerID: 76561198245870076 Name: 0|TheGangstar|0 Character: Nyan Bread Ping: 121
+PlayerID: 76561198301131571 Name: PogChamp Character: Тише Будь! Ping: 142
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 166
+PlayerID: 76561198358818955 Name: Limur4iK Character: Limur4iK Ping: 130
+PlayerID: 76561198106869292 Name: roman146rus Character: roman146rus Ping: 48
+PlayerID: 76561198391307428 Name: bendi Character: zuhalsakin Ping: 109
+PlayerID: 76561198141222762 Name: oldoge csgoloto.com Character: CoolMeEddy Ping: 44
+
+20.11.2017 13:59:27: [World] Expert1337 [Expert13372284200]: "да вижу)"
+
+20.11.2017 13:59:29: END
+20.11.2017 13:59:29: Client has executed command "bans"
+
+20.11.2017 13:59:29: Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 28260798
+PlayerID: 76561198336969313
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 376031
+PlayerID: 76561198212486347
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 376362
+PlayerID: 76561198391097237
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 538849
+
+20.11.2017 13:59:30: END
+20.11.2017 13:59:31: [World] Тише Будь! [PogChamp]: "/i 1331 200"
+
+20.11.2017 13:59:31: Дал Тише Будь! вещь 1331:200
+
+20.11.2017 13:59:31: Не обработано: Дал Тише Будь! вещь 1331:200
+20.11.2017 13:59:36: [World] Тише Будь! [PogChamp]: "Бл"
+
+20.11.2017 13:59:46: Client has executed command "players"
+
+20.11.2017 13:59:46: Players:
+PlayerID: 76561198245870076 Name: 0|TheGangstar|0 Character: Nyan Bread Ping: 132
+PlayerID: 76561198301131571 Name: PogChamp Character: Тише Будь! Ping: 142
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 150
+PlayerID: 76561198358818955 Name: Limur4iK Character: Limur4iK Ping: 134
+PlayerID: 76561198106869292 Name: roman146rus Character: roman146rus Ping: 54
+PlayerID: 76561198391307428 Name: bendi Character: zuhalsakin Ping: 113
+PlayerID: 76561198141222762 Name: oldoge csgoloto.com Character: CoolMeEddy Ping: 52
+
+20.11.2017 13:59:47: Client has executed command "bans"
+
+20.11.2017 13:59:47: Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 28260780
+PlayerID: 76561198336969313
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 376013
+PlayerID: 76561198212486347
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 376344
+PlayerID: 76561198391097237
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 538831
+
+20.11.2017 13:59:48: END
+20.11.2017 13:59:49: END
+20.11.2017 14:00:06: Client has executed command "players"
+
+20.11.2017 14:00:06: Players:
+PlayerID: 76561198245870076 Name: 0|TheGangstar|0 Character: Nyan Bread Ping: 111
+PlayerID: 76561198301131571 Name: PogChamp Character: Тише Будь! Ping: 134
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 150
+PlayerID: 76561198358818955 Name: Limur4iK Character: Limur4iK Ping: 115
+PlayerID: 76561198106869292 Name: roman146rus Character: roman146rus Ping: 66
+PlayerID: 76561198391307428 Name: bendi Character: zuhalsakin Ping: 109
+PlayerID: 76561198141222762 Name: oldoge csgoloto.com Character: CoolMeEddy Ping: 52
+
+20.11.2017 14:00:07: Client has executed command "bans"
+
+20.11.2017 14:00:07: Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 28260760
+PlayerID: 76561198336969313
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 375993
+PlayerID: 76561198212486347
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 376324
+PlayerID: 76561198391097237
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 538811
+
+20.11.2017 14:00:08: END
+20.11.2017 14:00:09: END
+20.11.2017 14:00:13: [World] Nyan Bread [0|TheGangstar|0]: "/cost 1244"
+
+20.11.2017 14:00:19: MessageAnnouncer >> Broadcast: vk.com/hemulgm - ЕДИНСТВЕННЫЙ администратор сервера
+
+20.11.2017 14:00:19: MessageAnnouncer >> vk.com/hemulgm - ЕДИНСТВЕННЫЙ администратор сервера
+
+20.11.2017 14:00:20: Client has executed command "cchat "/33/09/17/04/17/15/16 /24/05/17/05/08 1 /24. " 255 255 0"
+
+20.11.2017 14:00:20: ServerControl >> Broadcast: Аирдроп через 1 ч.
+
+20.11.2017 14:00:20: Не обработано: ServerControl >> Broadcast: Аирдроп через 1 ч.
+20.11.2017 14:00:26: cchat "/13/28 /18/13/05/14/09/12/09 /18/09/18/19/05/13/20 /17/05/10/19/09/14/03/00" 255 0 0
+20.11.2017 14:00:26: Client has executed command "cchat "/13/28 /18/13/05/14/09/12/09 /18/09/18/19/05/13/20 /17/05/10/19/09/14/03/00" 255 0 0"
+
+20.11.2017 14:00:26: ServerControl >> Broadcast: мы сменили систему рейтинга
+
+20.11.2017 14:00:26: Не обработано: ServerControl >> Broadcast: мы сменили систему рейтинга
+20.11.2017 14:00:26: Client has executed command "players"
+
+20.11.2017 14:00:26: Players:
+PlayerID: 76561198245870076 Name: 0|TheGangstar|0 Character: Nyan Bread Ping: 121
+PlayerID: 76561198301131571 Name: PogChamp Character: Тише Будь! Ping: 130
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 173
+PlayerID: 76561198358818955 Name: Limur4iK Character: Limur4iK Ping: 142
+PlayerID: 76561198106869292 Name: roman146rus Character: roman146rus Ping: 50
+PlayerID: 76561198391307428 Name: bendi Character: zuhalsakin Ping: 105
+PlayerID: 76561198141222762 Name: oldoge csgoloto.com Character: CoolMeEddy Ping: 50
+
+20.11.2017 14:00:27: Client has executed command "bans"
+
+20.11.2017 14:00:27: Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 28260740
+PlayerID: 76561198336969313
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 375973
+PlayerID: 76561198212486347
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 376304
+PlayerID: 76561198391097237
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 538791
+
+20.11.2017 14:00:28: END
+20.11.2017 14:00:29: END
+20.11.2017 14:00:32: [World] Тише Будь! [PogChamp]: "/i 1131 200"
+
+20.11.2017 14:00:32: Дал Тише Будь! вещь 1131:200
+
+20.11.2017 14:00:32: Не обработано: Дал Тише Будь! вещь 1131:200
+20.11.2017 14:00:46: Client has executed command "players"
+
+20.11.2017 14:00:46: Players:
+PlayerID: 76561198245870076 Name: 0|TheGangstar|0 Character: Nyan Bread Ping: 119
+PlayerID: 76561198301131571 Name: PogChamp Character: Тише Будь! Ping: 136
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 162
+PlayerID: 76561198358818955 Name: Limur4iK Character: Limur4iK Ping: 113
+PlayerID: 76561198106869292 Name: roman146rus Character: roman146rus Ping: 56
+PlayerID: 76561198391307428 Name: bendi Character: zuhalsakin Ping: 119
+PlayerID: 76561198141222762 Name: oldoge csgoloto.com Character: CoolMeEddy Ping: 54
+
+20.11.2017 14:00:47: Client has executed command "bans"
+
+20.11.2017 14:00:47: Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 28260720
+PlayerID: 76561198336969313
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 375953
+PlayerID: 76561198212486347
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 376284
+PlayerID: 76561198391097237
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 538771
+
+20.11.2017 14:00:48: END
+20.11.2017 14:00:49: END
+20.11.2017 14:00:50: cchat "/19/05/16/05/17/29 /16/15 /18/24/05/19/20 /20/01/09/10/18/19/02, /09 /16/15/22/04/20 /19/05/01/05 /19/32/07/05/15 /01/20/04/05/19 /02 /19/15/16 /16/17/15/01/09/17/00/19/29/18/32)" 255 0 0
+20.11.2017 14:00:50: Client has executed command "cchat "/19/05/16/05/17/29 /16/15 /18/24/05/19/20 /20/01/09/10/18/19/02, /09 /16/15/22/04/20 /19/05/01/05 /19/32/07/05/15 /01/20/04/05/19 /02 /19/15/16 /16/17/15/01/09/17/00/19/29/18/32)" 255 0 0"
+
+20.11.2017 14:00:50: ServerControl >> Broadcast: теперь по счету убийств, и похду тебе тяжео будет в топ пробираться)
+
+20.11.2017 14:00:50: Не обработано: ServerControl >> Broadcast: теперь по счету убийств, и похду тебе тяжео будет в топ пробираться)
+20.11.2017 14:01:05: Connecting: PlayerID: 76561198336500708 Name: AlexBro Character: AlexBro
+
+20.11.2017 14:01:05: AlexBro connected with IP 185.57.29.63
+
+20.11.2017 14:01:06: Client has executed command "players"
+
+20.11.2017 14:01:06: Players:
+PlayerID: 76561198245870076 Name: 0|TheGangstar|0 Character: Nyan Bread Ping: 126
+PlayerID: 76561198301131571 Name: PogChamp Character: Тише Будь! Ping: 134
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 181
+PlayerID: 76561198358818955 Name: Limur4iK Character: Limur4iK Ping: 162
+PlayerID: 76561198106869292 Name: roman146rus Character: roman146rus Ping: 50
+PlayerID: 76561198391307428 Name: bendi Character: zuhalsakin Ping: 115
+PlayerID: 76561198141222762 Name: oldoge csgoloto.com Character: CoolMeEddy Ping: 54
+PlayerID: 76561198336500708 Name: AlexBro Character: AlexBro Ping: 0
+
+20.11.2017 14:01:07: END
+20.11.2017 14:01:08: Client has executed command "bans"
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 28260700
+PlayerID: 76561198336969313
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 375933
+PlayerID: 76561198212486347
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 376264
+PlayerID: 76561198391097237
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 538751
+
+20.11.2017 14:01:09: END
+20.11.2017 14:01:10: [World] Expert1337 [Expert13372284200]: "да я мирный стата крутая)"
+
+20.11.2017 14:01:16: cchat "/47/05 /09/03/17/15/11/15/02" 255 0 0
+20.11.2017 14:01:16: Client has executed command "cchat "/47/05 /09/03/17/15/11/15/02" 255 0 0"
+
+20.11.2017 14:01:16: ServerControl >> Broadcast: Не игроков
+
+20.11.2017 14:01:16: Не обработано: ServerControl >> Broadcast: Не игроков
+20.11.2017 14:01:19: cchat "/33 /08/15/13/01/09" 255 0 0
+20.11.2017 14:01:19: Client has executed command "cchat "/33 /08/15/13/01/09" 255 0 0"
+
+20.11.2017 14:01:19: ServerControl >> Broadcast: А зомби
+
+20.11.2017 14:01:19: Не обработано: ServerControl >> Broadcast: А зомби
+20.11.2017 14:01:19: MessageAnnouncer >> Broadcast: Используйте /report [ник], чтобы отправить жалобу на игрока
+
+20.11.2017 14:01:19: MessageAnnouncer >> Используйте /report [ник], чтобы отправить жалобу на игрока
+
+20.11.2017 14:01:20: Disconnecting: PlayerID: 76561198336500708 Name: AlexBro Character: AlexBro
+
+20.11.2017 14:01:26: Client has executed command "players"
+
+20.11.2017 14:01:26: Players:
+PlayerID: 76561198245870076 Name: 0|TheGangstar|0 Character: Nyan Bread Ping: 121
+PlayerID: 76561198301131571 Name: PogChamp Character: Тише Будь! Ping: 136
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 195
+PlayerID: 76561198358818955 Name: Limur4iK Character: Limur4iK Ping: 123
+PlayerID: 76561198106869292 Name: roman146rus Character: roman146rus Ping: 52
+PlayerID: 76561198391307428 Name: bendi Character: zuhalsakin Ping: 113
+PlayerID: 76561198141222762 Name: oldoge csgoloto.com Character: CoolMeEddy Ping: 54
+
+20.11.2017 14:01:27: cchat "/41/00 /09/03/17/15/11/15/02 /14/05 /09/04/06/19 /18/24/05/19)" 255 0 0
+20.11.2017 14:01:27: Client has executed command "cchat "/41/00 /09/03/17/15/11/15/02 /14/05 /09/04/06/19 /18/24/05/19)" 255 0 0"
+
+20.11.2017 14:01:27: ServerControl >> Broadcast: За игроков не идёт счет)
+
+20.11.2017 14:01:27: Не обработано: ServerControl >> Broadcast: За игроков не идёт счет)
+20.11.2017 14:01:29: Client has executed command "bans"
+
+20.11.2017 14:01:29: Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 28260679
+PlayerID: 76561198336969313
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 375912
+PlayerID: 76561198212486347
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 376243
+PlayerID: 76561198391097237
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 538730
+
+20.11.2017 14:01:29: END
+20.11.2017 14:01:30: END
+20.11.2017 14:01:46: Client has executed command "players"
+
+20.11.2017 14:01:46: Players:
+PlayerID: 76561198245870076 Name: 0|TheGangstar|0 Character: Nyan Bread Ping: 123
+PlayerID: 76561198301131571 Name: PogChamp Character: Тише Будь! Ping: 134
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 148
+PlayerID: 76561198358818955 Name: Limur4iK Character: Limur4iK Ping: 128
+PlayerID: 76561198106869292 Name: roman146rus Character: roman146rus Ping: 50
+PlayerID: 76561198391307428 Name: bendi Character: zuhalsakin Ping: 117
+PlayerID: 76561198141222762 Name: oldoge csgoloto.com Character: CoolMeEddy Ping: 54
+
+20.11.2017 14:01:47: Client has executed command "bans"
+
+20.11.2017 14:01:48: Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 28260660
+PlayerID: 76561198336969313
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 375893
+PlayerID: 76561198212486347
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 376224
+PlayerID: 76561198391097237
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 538711
+
+20.11.2017 14:01:48: END
+20.11.2017 14:01:49: END
+20.11.2017 14:02:06: Client has executed command "players"
+
+20.11.2017 14:02:06: Players:
+PlayerID: 76561198245870076 Name: 0|TheGangstar|0 Character: Nyan Bread Ping: 128
+PlayerID: 76561198301131571 Name: PogChamp Character: Тише Будь! Ping: 140
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 138
+PlayerID: 76561198358818955 Name: Limur4iK Character: Limur4iK Ping: 117
+PlayerID: 76561198106869292 Name: roman146rus Character: roman146rus Ping: 54
+PlayerID: 76561198391307428 Name: bendi Character: zuhalsakin Ping: 107
+PlayerID: 76561198141222762 Name: oldoge csgoloto.com Character: CoolMeEddy Ping: 56
+
+20.11.2017 14:02:07: Client has executed command "bans"
+
+20.11.2017 14:02:08: Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 28260640
+PlayerID: 76561198336969313
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 375873
+PlayerID: 76561198212486347
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 376204
+PlayerID: 76561198391097237
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 538691
+
+20.11.2017 14:02:08: END
+20.11.2017 14:02:09: END
+20.11.2017 14:02:19: MessageAnnouncer >> Broadcast: Наберите /rules (/r) для просмотра правил
+
+20.11.2017 14:02:19: MessageAnnouncer >> Наберите /rules (/r) для просмотра правил
+
+20.11.2017 14:02:26: Client has executed command "players"
+
+20.11.2017 14:02:26: Players:
+PlayerID: 76561198245870076 Name: 0|TheGangstar|0 Character: Nyan Bread Ping: 119
+PlayerID: 76561198301131571 Name: PogChamp Character: Тише Будь! Ping: 134
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 148
+PlayerID: 76561198358818955 Name: Limur4iK Character: Limur4iK Ping: 123
+PlayerID: 76561198106869292 Name: roman146rus Character: roman146rus Ping: 60
+PlayerID: 76561198391307428 Name: bendi Character: zuhalsakin Ping: 134
+PlayerID: 76561198141222762 Name: oldoge csgoloto.com Character: CoolMeEddy Ping: 58
+
+20.11.2017 14:02:27: Client has executed command "bans"
+
+20.11.2017 14:02:28: Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 28260620
+PlayerID: 76561198336969313
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 375853
+PlayerID: 76561198212486347
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 376184
+PlayerID: 76561198391097237
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 538671
+
+20.11.2017 14:02:28: END
+20.11.2017 14:02:29: END
+20.11.2017 14:02:40: [World] CoolMeEddy [oldoge csgoloto.com]: "/site"
+
+20.11.2017 14:02:46: Client has executed command "players"
+
+20.11.2017 14:02:46: Players:
+PlayerID: 76561198245870076 Name: 0|TheGangstar|0 Character: Nyan Bread Ping: 115
+PlayerID: 76561198301131571 Name: PogChamp Character: Тише Будь! Ping: 128
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 164
+PlayerID: 76561198358818955 Name: Limur4iK Character: Limur4iK Ping: 117
+PlayerID: 76561198106869292 Name: roman146rus Character: roman146rus Ping: 50
+PlayerID: 76561198391307428 Name: bendi Character: zuhalsakin Ping: 113
+PlayerID: 76561198141222762 Name: oldoge csgoloto.com Character: CoolMeEddy Ping: 56
+
+20.11.2017 14:02:47: Client has executed command "bans"
+
+20.11.2017 14:02:48: Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 28260600
+PlayerID: 76561198336969313
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 375833
+PlayerID: 76561198212486347
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 376164
+PlayerID: 76561198391097237
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 538651
+
+20.11.2017 14:02:48: END
+20.11.2017 14:02:49: END
+20.11.2017 14:02:51: [World] Тише Будь! [PogChamp]: "/i 1090"
+
+20.11.2017 14:02:52: Дал Тише Будь! вещь 1090:1
+
+20.11.2017 14:02:52: Не обработано: Дал Тише Будь! вещь 1090:1
+20.11.2017 14:03:06: Client has executed command "players"
+
+20.11.2017 14:03:06: Players:
+PlayerID: 76561198245870076 Name: 0|TheGangstar|0 Character: Nyan Bread Ping: 126
+PlayerID: 76561198301131571 Name: PogChamp Character: Тише Будь! Ping: 132
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 146
+PlayerID: 76561198358818955 Name: Limur4iK Character: Limur4iK Ping: 121
+PlayerID: 76561198106869292 Name: roman146rus Character: roman146rus Ping: 46
+PlayerID: 76561198391307428 Name: bendi Character: zuhalsakin Ping: 117
+PlayerID: 76561198141222762 Name: oldoge csgoloto.com Character: CoolMeEddy Ping: 52
+
+20.11.2017 14:03:07: Client has executed command "bans"
+
+20.11.2017 14:03:08: Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 28260580
+PlayerID: 76561198336969313
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 375813
+PlayerID: 76561198212486347
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 376144
+PlayerID: 76561198391097237
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 538631
+
+20.11.2017 14:03:08: END

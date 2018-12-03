@@ -1,0 +1,33 @@
+Не обработано: RocketRcon v2.4.8.0
+RocketRcon v2.4.8.0
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198278360341 Name: AcademeG Character: AcademeG Ping: 78
+PlayerID: 76561198268161521 Name: DOMIK Character: Listiger_wolf2 Ping: 58
+PlayerID: 76561198391815543 Name: dinorendulic03 Character: dinorendulic03 Ping: 135
+PlayerID: 76561198326929390 Name: kuki Character: soliclukas Ping: 102
+PlayerID: 76561198282144710 Name: Max_Prom Character: Max_Prom Ping: 179
+PlayerID: 76561198152412351 Name: superCDHC Character: superCDHC Ping: 62
+PlayerID: 76561198254435217 Name: MKN Character: MKN Ping: 102
+
+Не обработано: DeathMessagesRemastered >> Broadcast: soliclukas has bled to death!
+TimerTerminateCommand.Enabled with Players:
+DeathMessagesRemastered >> Broadcast: soliclukas has bled to death!
+
+Не обработано: soliclukas [kuki] bled to death!
+TimerTerminateCommand.Enabled with Players:
+soliclukas [kuki] bled to death!
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294116124
+
+END with Bans:

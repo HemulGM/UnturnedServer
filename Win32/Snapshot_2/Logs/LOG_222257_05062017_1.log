@@ -1,0 +1,39 @@
+Не обработано: RocketRcon v2.4.8.0
+RocketRcon v2.4.8.0
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198363828451 Name: Ничоси Character: Кеша Ping: 39
+PlayerID: 76561198305732269 Name: Owl Character: Owl Ping: 74
+PlayerID: 76561198334346242 Name: мареонетка Character: [Кровавые]хмурый Ping: 167
+PlayerID: 76561198126311468 Name: top pocik Character: Logic Ping: 74
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 123123
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 31001459
+PlayerID: 123
+JudgeID: 0
+Reason: durila Duration: 4000 Remaining: 4294437253
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294465626
+
+END with Bans:
+[Group] Logic [top pocik]: "/kit xp"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198363828451 Name: Ничоси Character: Кеша Ping: 39
+PlayerID: 76561198305732269 Name: Owl Character: Owl Ping: 78
+PlayerID: 76561198334346242 Name: мареонетка Character: [Кровавые]хмурый Ping: 179
+PlayerID: 76561198126311468 Name: top pocik Character: Logic Ping: 78
+

@@ -1,0 +1,63 @@
+Не обработано: RocketRcon v2.4.8.0
+RocketRcon v2.4.8.0
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 27
+PlayerID: 76561198287257345 Name: TheHard27 Character: TheHard27 Ping: 183
+PlayerID: 76561198272573142 Name: Bloody СУП Character: СУП Ping: 46
+PlayerID: 76561198351213164 Name: _АхМеД_ Character: Виндяй Вечеслав Ping: 117
+PlayerID: 76561198300812301 Name: KiLeR00707 Character: KiLeR00707 Ping: 35
+PlayerID: 76561198346009739 Name: СпЕкТоР Character: [Зам.Гл.Мафии]Николай Белый Ping: 35
+PlayerID: 76561198314638573 Name: UDODMEN Character: udodmen Ping: 78
+PlayerID: 76561198295801599 Name: Lo[x] Character: Lo[x] Ping: 62
+PlayerID: 76561198262878051 Name: Kolder Character: Kolder Ping: 50
+PlayerID: 76561198358164867 Name: aisyahf06 Character: aisyahf06 Ping: 339
+
+TimerTerminateCommand.Enabled with Players:
+Client has executed command "bans"
+
+END with Players:
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 123123
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 31454822
+PlayerID: 123
+JudgeID: 0
+Reason: durila Duration: 4000 Remaining: 4294890616
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294918989
+
+END with Bans:
+Client has executed command "say """
+
+Не обработано: Failed to find parameters in format [Text]/[R]/[G]/[B].
+Failed to find parameters in format [Text]/[R]/[G]/[B].
+
+Client has executed command "say """
+
+Не обработано: Failed to find parameters in format [Text]/[R]/[G]/[B].
+Failed to find parameters in format [Text]/[R]/[G]/[B].
+
+[World] Kolder [Kolder]: "/tpa kiler"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 46
+PlayerID: 76561198287257345 Name: TheHard27 Character: TheHard27 Ping: 195
+PlayerID: 76561198272573142 Name: Bloody СУП Character: СУП Ping: 46
+PlayerID: 76561198351213164 Name: _АхМеД_ Character: Виндяй Вечеслав Ping: 125
+PlayerID: 76561198300812301 Name: KiLeR00707 Character: KiLeR00707 Ping: 54
+PlayerID: 76561198346009739 Name: СпЕкТоР Character: [Зам.Гл.Мафии]Николай Белый Ping: 42
+PlayerID: 76561198314638573 Name: UDODMEN Character: udodmen Ping: 70
+PlayerID: 76561198295801599 Name: Lo[x] Character: Lo[x] Ping: 62
+PlayerID: 76561198262878051 Name: Kolder Character: Kolder Ping: 50
+PlayerID: 76561198358164867 Name: aisyahf06 Character: aisyahf06 Ping: 507
+
+END with Players:

@@ -1,0 +1,342 @@
+RocketRcon v2.4.8.0
+
+login aVIPs22031994
+players
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198205863883 Name: Крокодил Гена Character: krokodil gena Ping: 46
+PlayerID: 76561198317172157 Name: ?           ???  ??? Character: (Охотник)Добрый Рома Ping: 46
+
+Client has executed command "bans"
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 26977606
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 29857884
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 29857900
+PlayerID: 76561198408019916
+JudgeID: 76561198237123262
+Reason: raid Duration: 604800 Remaining: 210231
+PlayerID: 76561198366284525
+JudgeID: 76561198237123262
+Reason: REKLAMA Duration: 604800 Remaining: 388400
+
+END
+END
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [1] [2984]
+
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198205863883 Name: Крокодил Гена Character: krokodil gena Ping: 54
+PlayerID: 76561198317172157 Name: ?           ???  ??? Character: (Охотник)Добрый Рома Ping: 46
+
+MessageAnnouncer >> Broadcast: Добро пожаловать на HGM. Тут рады вам больше, чем на любом другом сервере!
+
+MessageAnnouncer >> Добро пожаловать на HGM. Тут рады вам больше, чем на любом другом сервере!
+
+Client has executed command "bans"
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 26977595
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 29857873
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 29857889
+PlayerID: 76561198408019916
+JudgeID: 76561198237123262
+Reason: raid Duration: 604800 Remaining: 210220
+PlayerID: 76561198366284525
+JudgeID: 76561198237123262
+
+END
+GET NOW
+Reason: REKLAMA Duration: 604800 Remaining: 388389
+
+Client has executed command "GET NOW"
+ServerControl >> VALUE NOW [0] [1] [2989]
+
+END
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [1] [2994]
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [1] [3000]
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [1] [3004]
+
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198205863883 Name: Крокодил Гена Character: krokodil gena Ping: 54
+PlayerID: 76561198317172157 Name: ?           ???  ??? Character: (Охотник)Добрый Рома Ping: 50
+
+END
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 26977575
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 29857853
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 29857869
+PlayerID: 76561198408019916
+JudgeID: 76561198237123262
+Reason: raid Duration: 604800 Remaining: 210200
+PlayerID: 76561198366284525
+JudgeID: 76561198237123262
+Reason: REKLAMA Duration: 604800 Remaining: 388369
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [1] [3010]
+
+END
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [1] [3014]
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [1] [3021]
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [1] [3024]
+
+EventProcMassAirdrop
+airdrop
+airdrop
+airdrop
+airdrop
+airdrop
+airdrop
+airdrop
+airdrop
+airdrop
+airdrop
+Client has executed command "airdrop"
+Successfully set airdrop!
+Client has executed command "airdrop"
+Successfully set airdrop!
+
+Client has executed command "airdrop"
+Successfully set airdrop!
+
+Client has executed command "airdrop"
+
+Successfully set airdrop!
+
+Client has executed command "airdrop"
+
+Successfully set airdrop!
+
+Client has executed command "airdrop"
+
+Successfully set airdrop!
+
+Client has executed command "airdrop"
+Successfully set airdrop!
+
+Client has executed command "airdrop"
+
+Successfully set airdrop!
+
+Client has executed command "airdrop"
+Successfully set airdrop!
+
+Client has executed command "airdrop"
+
+Successfully set airdrop!
+
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198205863883 Name: Крокодил Гена Character: krokodil gena Ping: 58
+PlayerID: 76561198317172157 Name: ?           ???  ??? Character: (Охотник)Добрый Рома Ping: 54
+
+[World] (Охотник)Добрый Рома [?           ???  ???]: "/buy 1373 4"
+
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 26977554
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 29857832
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 29857848
+PlayerID: 76561198408019916
+JudgeID: 76561198237123262
+Reason: raid Duration: 604800 Remaining: 210179
+PlayerID: 76561198366284525
+JudgeID: 76561198237123262
+Reason: REKLAMA Duration: 604800 Remaining: 388348
+
+END
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [1] [3031]
+
+END
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [1] [3034]
+
+[World] krokodil gena [Крокодил Гена]: "/buy 1132 20"
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [1] [3042]
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [1] [3044]
+
+MessageAnnouncer >> Broadcast: Наберите /kit start, чтобы получить стартовый набор (еда, вода, топор)
+
+MessageAnnouncer >> Наберите /kit start, чтобы получить стартовый набор (еда, вода, топор)
+
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198205863883 Name: Крокодил Гена Character: krokodil gena Ping: 39
+PlayerID: 76561198317172157 Name: ?           ???  ??? Character: (Охотник)Добрый Рома Ping: 46
+
+END
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 26977534
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 29857812
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 29857828
+PlayerID: 76561198408019916
+JudgeID: 76561198237123262
+Reason: raid Duration: 604800 Remaining: 210159
+PlayerID: 76561198366284525
+JudgeID: 76561198237123262
+Reason: REKLAMA Duration: 604800 Remaining: 388328
+
+END
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [1] [3052]
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [1] [3054]
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [1] [3063]
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [1] [3064]
+
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198205863883 Name: Крокодил Гена Character: krokodil gena Ping: 46
+PlayerID: 76561198317172157 Name: ?           ???  ??? Character: (Охотник)Добрый Рома Ping: 50
+
+END
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 26977513
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 29857791
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 29857807
+PlayerID: 76561198408019916
+JudgeID: 76561198237123262
+Reason: raid Duration: 604800 Remaining: 210138
+PlayerID: 76561198366284525
+JudgeID: 76561198237123262
+Reason: REKLAMA Duration: 604800 Remaining: 388307
+
+END
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [1] [3073]
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [1] [3074]
+
+[World] (Охотник)Добрый Рома [?           ???  ???]: "/home"
+
+GET NOW
+Client has executed command "GET NOW"
+ServerControl >> VALUE NOW [0] [1] [3084]
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [1] [3084]
+
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198205863883 Name: Крокодил Гена Character: krokodil gena Ping: 50
+PlayerID: 76561198317172157 Name: ?           ???  ??? Character: (Охотник)Добрый Рома Ping: 46
+
+END
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 26977493
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 29857771
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 29857787
+PlayerID: 76561198408019916
+JudgeID: 76561198237123262
+Reason: raid Duration: 604800 Remaining: 210118
+PlayerID: 76561198366284525
+JudgeID: 76561198237123262
+
+END

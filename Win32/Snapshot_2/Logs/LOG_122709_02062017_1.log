@@ -1,0 +1,86 @@
+Не обработано: RocketRcon v2.4.8.0
+RocketRcon v2.4.8.0
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198280617288 Name: Незнаю какой придумать Character: Пипр Ping: 39
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 31
+PlayerID: 76561198303283372 Name: PeR4IK Character: данил Ping: 70
+PlayerID: 76561198341672556 Name: st.vladir Character: st.vladir Ping: 132
+PlayerID: 76561198084181376 Name: я слижу завами Character: H0MYak Ping: 0
+PlayerID: 76561198198481426 Name: JasonVH Character: JasonVH Ping: 78
+PlayerID: 76561198314638573 Name: UDODMEN Character: udodmen Ping: 62
+PlayerID: 76561198123840535 Name: ?????? Character: top Ping: 140
+
+TimerTerminateCommand.Enabled with Players:
+Client has executed command "bans"
+
+END with Players:
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 123123
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 31296407
+PlayerID: 123
+JudgeID: 0
+Reason: durila Duration: 4000 Remaining: 4294732201
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294760574
+
+TimerTerminateCommand.Enabled with Bans:
+[World] данил [PeR4IK]: "/tpa alex"
+
+??M??
+??Ma???w
+TimerTerminateCommand.Enabled with Bans:
+[World] данил [PeR4IK]: "прими"
+??M????w
+??MQ???w
+??M??
+END with Bans:
+??M??
+??M1???w
+??M1???w
+??M??
+[World] 7_AleX_3 [7_AleX_3]: "добався"
+??M????w
+??MA???w
+??MQ???w
+??M????w
+??Mq???w
+Disconnecting: PlayerID: 76561198280617288 Name: Незнаю какой придумать Character: Пипр
+??MA???w
+[World] top [??????]: "едь"
+??M???w
+??M????w
+??MQ???w
+??M? ???w
+[World] 7_AleX_3 [7_AleX_3]: "/tpa accept"
+??M???w
+Client has executed command "players"
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 39
+PlayerID: 76561198303283372 Name: PeR4IK Character: данил Ping: 62
+PlayerID: 76561198341672556 Name: st.vladir Character: st.vladir Ping: 148
+PlayerID: 76561198084181376 Name: я слижу завами Character: H0MYak Ping: 23
+PlayerID: 76561198198481426 Name: JasonVH Character: JasonVH Ping: 70
+PlayerID: 76561198314638573 Name: UDODMEN Character: udodmen Ping: 62
+PlayerID: 76561198123840535 Name: ?????? Character: top Ping: 109
+
+Не обработано: данил moved x:889.6672 y:90.70786(+51.9183) z:-482.5456 in the last second (0.5999985)
+TimerTerminateCommand.Enabled with Players:
+данил moved x:889.6672 y:90.70786(+51.9183) z:-482.5456 in the last second (0.5999985)
+
+??M????w
+TimerTerminateCommand.Enabled with Players:
+[World] 7_AleX_3 [7_AleX_3]: "убери"
+??M????w
+??M????w
+??M????w
+END with Players:
+??M????w
+??M????w

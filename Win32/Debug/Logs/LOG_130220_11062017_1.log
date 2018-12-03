@@ -1,0 +1,188 @@
+Не обработано: RocketRcon v2.4.8.0
+RocketRcon v2.4.8.0
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 49
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 150
+PlayerID: 76561198368930526 Name: LLlaxuD Character: LLlaxuD Ping: 146
+PlayerID: 76561198123840535 Name: ?????? Character: top Ping: 124
+PlayerID: 76561198030393730 Name: heavy198 Character: heavy198 Ping: 136
+PlayerID: 76561198152563082 Name: Drakon Character: Stanat Ping: 140
+PlayerID: 76561198238255690 Name: SWAG Character: AimBooT #NiceShot Ping: 105
+PlayerID: 76561198278360341 Name: AcademeG Character: AcademeG Ping: 79
+PlayerID: 76561198388803679 Name: nikanorova2 Character: nikanorova2 Ping: 94
+PlayerID: 76561198327184590 Name: super jay Character: Super Jay Ping: 50
+PlayerID: 76561198272268592 Name: FiVs CandyForce #AWP Character: FiVs CandyForce #AWP Ping: 110
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4293980866
+
+END with Bans:
+[World] top [??????]: "дибил"
+
+[World] 7_AleX_3 [7_AleX_3]: "эксперт"
+
+[Group] Expert1337 [Expert13372284200]: "/vehicle 89"
+Successfully gave Expert13372284200 89!
+
+[World] 7_AleX_3 [7_AleX_3]: "прими тп"
+
+[Group] Expert1337 [Expert13372284200]: "/tpa a"
+
+Не обработано: DeathMessagesRemastered >> Broadcast: AcademeG был съеден зомби! 
+DeathMessagesRemastered >> Broadcast: AcademeG был съеден зомби! 
+
+Не обработано: DropManager >> 3
+DropManager >> 3
+
+Не обработано: AcademeG [AcademeG] was mauled by a zombie!
+TimerTerminateCommand.Enabled with Players:
+AcademeG [AcademeG] was mauled by a zombie!
+Client has executed command "players"
+Players:
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 52
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 157
+PlayerID: 76561198368930526 Name: LLlaxuD Character: LLlaxuD Ping: 151
+PlayerID: 76561198123840535 Name: ?????? Character: top Ping: 150
+PlayerID: 76561198030393730 Name: heavy198 Character: heavy198 Ping: 141
+PlayerID: 76561198152563082 Name: Drakon Character: Stanat Ping: 151
+PlayerID: 76561198238255690 Name: SWAG Character: AimBooT #NiceShot Ping: 101
+PlayerID: 76561198278360341 Name: AcademeG Character: AcademeG Ping: 101
+PlayerID: 76561198388803679 Name: nikanorova2 Character: nikanorova2 Ping: 115
+PlayerID: 76561198327184590 Name: super jay Character: Super Jay Ping: 48
+PlayerID: 76561198272268592 Name: FiVs CandyForce #AWP Character: FiVs CandyForce #AWP Ping: 129
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4293980846
+
+TimerTerminateCommand.Enabled with Bans:
+[Group] Expert1337 [Expert13372284200]: "/tpa a"
+
+END with Bans:
+[World] 7_AleX_3 [7_AleX_3]: "ещё раз"
+
+[World] 7_AleX_3 [7_AleX_3]: "/tpa expe"
+
+[Group] Expert1337 [Expert13372284200]: "/tphere alex"
+
+Не обработано: 7_AleX_3 был телепортирован к Expert1337
+7_AleX_3 был телепортирован к Expert1337
+
+[World] 7_AleX_3 [7_AleX_3]: "извини"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 44
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 150
+PlayerID: 76561198368930526 Name: LLlaxuD Character: LLlaxuD Ping: 143
+PlayerID: 76561198123840535 Name: ?????? Character: top Ping: 97
+
+TimerTerminateCommand.Enabled with Players:
+PlayerID: 76561198030393730 Name: heavy198 Character: heavy198 Ping: 138
+PlayerID: 76561198152563082 Name: Drakon Character: Stanat Ping: 148
+PlayerID: 76561198238255690 Name: SWAG Character: AimBooT #NiceShot Ping: 106
+PlayerID: 76561198278360341 Name: AcademeG Character: AcademeG Ping: 81
+PlayerID: 76561198388803679 Name: nikanorova2 Character: nikanorova2 Ping: 83
+PlayerID: 76561198327184590 Name: super jay Character: Super Jay Ping: 52
+PlayerID: 76561198272268592 Name: FiVs CandyForce #AWP Character: FiVs CandyForce #AWP Ping: 118
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4293980826
+
+END with Bans:
+[World] 7_AleX_3 [7_AleX_3]: "злюсь"
+
+[World] 7_AleX_3 [7_AleX_3]: "я хз почему"
+
+[Group] Expert1337 [Expert13372284200]: "/give 67/200"
+
+Successfully gave Expert13372284200 67 x200!
+
+Disconnecting: PlayerID: 76561198030393730 Name: heavy198 Character: heavy198
+
+Не обработано: MessageAnnouncer >> Broadcast: Наберите /rules (/r) для просмотра правил
+MessageAnnouncer >> Broadcast: Наберите /rules (/r) для просмотра правил
+
+Не обработано: MessageAnnouncer >> Наберите /rules (/r) для просмотра правил
+MessageAnnouncer >> Наберите /rules (/r) для просмотра правил
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 35
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 175
+PlayerID: 76561198368930526 Name: LLlaxuD Character: LLlaxuD Ping: 142
+PlayerID: 76561198123840535 Name: ?????? Character: top Ping: 358
+PlayerID: 76561198152563082 Name: Drakon Character: Stanat Ping: 140
+PlayerID: 76561198238255690 Name: SWAG Character: AimBooT #NiceShot Ping: 94
+PlayerID: 76561198278360341 Name: AcademeG Character: AcademeG Ping: 123
+PlayerID: 76561198388803679 Name: nikanorova2 Character: nikanorova2 Ping: 101
+PlayerID: 76561198327184590 Name: super jay Character: Super Jay Ping: 48
+PlayerID: 76561198272268592 Name: FiVs CandyForce #AWP Character: FiVs CandyForce #AWP Ping: 111
+
+TimerTerminateCommand.Enabled with Players:
+[World] FiVs CandyForce #AWP [FiVs CandyForce #AWP]: "/kits"
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4293980804
+
+END with Bans:
+[World] FiVs CandyForce #AWP [FiVs CandyForce #AWP]: "/kit start"
+
+[World] top [??????]: "/kit hgm1"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 39
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 156
+PlayerID: 76561198368930526 Name: LLlaxuD Character: LLlaxuD Ping: 139
+PlayerID: 76561198123840535 Name: ?????? Character: top Ping: 353
+PlayerID: 76561198152563082 Name: Drakon Character: Stanat Ping: 145
+PlayerID: 76561198238255690 Name: SWAG Character: AimBooT #NiceShot Ping: 99
+PlayerID: 76561198278360341 Name: AcademeG Character: AcademeG Ping: 79
+PlayerID: 76561198388803679 Name: nikanorova2 Character: nikanorova2 Ping: 89
+PlayerID: 76561198327184590 Name: super jay Character: Super Jay Ping: 53
+PlayerID: 76561198272268592 Name: FiVs CandyForce #AWP Character: FiVs CandyForce #AWP Ping: 96
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4293980786
+
+END with Bans:

@@ -1,0 +1,45 @@
+Не обработано: RocketRcon v2.4.8.0
+RocketRcon v2.4.8.0
+
+Не обработано: Error: You have not logged in yet!
+Error: You have not logged in yet!
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 128
+PlayerID: 76561198200101595 Name: NEVALYASHA Character: NEVALYASHA Ping: 109
+PlayerID: 76561198262994976 Name: XxX_ARMAЗ_XxX Character: shilyaev710 Ping: 70
+PlayerID: 76561198303283372 Name: PeR4IK Character: данил Ping: 82
+PlayerID: 76561198123840535 Name: ?????? Character: top Ping: 105
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 27
+PlayerID: 76561198292543416 Name: Mr_GiladKing Character: GamerYT Ping: 58
+PlayerID: 76561198295801599 Name: Lo[x] Character: Lo[x] Ping: 66
+PlayerID: 76561198314140913 Name: DireHick Character: JeffRee Ping: 39
+PlayerID: 76561198314638573 Name: UDODMEN Character: udodmen Ping: 82
+PlayerID: 76561198176817369 Name: ?. Character: GlodiS Ping: 85
+PlayerID: 76561198241901342 Name: Podarochek Character: Игорь Петрович Ping: 101
+PlayerID: 76561198343512987 Name: HappyYerik Character: TheHappyWolf N Ping: 62
+PlayerID: 76561198280617288 Name: Незнаю какой придумать Character: Пипр Ping: 58
+PlayerID: 76561198276840558 Name: Котик ^-^ Character: kennys Ping: 101
+PlayerID: 76561198357648706 Name: lessik1210 Character: Griman18 Ping: 58
+
+TimerTerminateCommand.Enabled with Bans:
+Client has executed command "bans"
+Bans:
+PlayerID: 123123
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 31469931
+PlayerID: 123
+JudgeID: 0
+Reason: durila Duration: 4000 Remaining: 4294905725
+
+TimerTerminateCommand.Enabled with Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294934098
+
+TimerTerminateCommand.Enabled with Bans:
+[World] 7_AleX_3 [7_AleX_3]: "где"
+

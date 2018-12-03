@@ -1,0 +1,115 @@
+Не обработано: RocketRcon v2.4.8.0
+RocketRcon v2.4.8.0
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198292543416 Name: Mr_GiladKing Character: GiladKing Ping: 55
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 36
+PlayerID: 76561198030393730 Name: heavy198 Character: heavy198 Ping: 136
+PlayerID: 76561198289556960 Name: доширак Character: artiom$KI Ping: 175
+PlayerID: 76561198391121800 Name: Джеимс Вурхиз Character: Джеимс Вурхиз Ping: 52
+PlayerID: 76561198009738148 Name: valera_zazhuev Character: серёжа Ping: 41
+
+TimerTerminateCommand.Enabled with Players:
+[World] 7_AleX_3 [7_AleX_3]: "одиночный верт"
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4293987572
+
+TimerTerminateCommand.Enabled with Bans:
+[Area] heavy198 [heavy198]: "/tpa серёжа"
+
+TimerTerminateCommand.Enabled with Bans:
+[World] artiom$KI [доширак]: "у каго есть патроны не тимбервульф"
+
+Не обработано: Rocket.CoreException in Rocket.Core: System.IO.IOException: Write failure ---> System.Net.Sockets.SocketException: Удаленный хост принудительно разорвал существующее подключение.
+Не обработано: 
+Не обработано:   at System.Net.Sockets.Socket.Send (System.Byte[] buf, Int32 offset, Int32 size, SocketFlags flags) [0x00000] in <filename unknown>:0 
+Не обработано:   at System.Net.Sockets.NetworkStream.Write (System.Byte[] buffer, Int32 offset, Int32 size) [0x00000] in <filename unknown>:0 
+Не обработано:   --- End of inner exception stack trace ---
+Не обработано:   at System.Net.Sockets.NetworkStream.Write (System.Byte[] buffer, Int32 offset, Int32 size) [0x00000] in <filename unknown>:0 
+Не обработано:   at Rocket.Core.RCON.RCONServer.Send (System.Net.Sockets.TcpClient client, System.String text) [0x00000] in <filename unknown>:0 
+Не обработано:   at Rocket.Core.RCON.RCONConnection.Send (System.String command, Boolean nonewline) [0x00000] in <filename unknown>:0 
+Не обработано:   at Rocket.Core.RCON.RCONServer.handleConnection (System.Object obj) [0x00000] in <filename unknown>:0 
+TimerTerminateCommand.Enabled with Bans:
+Rocket.CoreException in Rocket.Core: System.IO.IOException: Write failure ---> System.Net.Sockets.SocketException: Удаленный хост принудительно разорвал существующее подключение.
+
+  at System.Net.Sockets.Socket.Send (System.Byte[] buf, Int32 offset, Int32 size, SocketFlags flags) [0x00000] in <filename unknown>:0 
+  at System.Net.Sockets.NetworkStream.Write (System.Byte[] buffer, Int32 offset, Int32 size) [0x00000] in <filename unknown>:0 
+  --- End of inner exception stack trace ---
+  at System.Net.Sockets.NetworkStream.Write (System.Byte[] buffer, Int32 offset, Int32 size) [0x00000] in <filename unknown>:0 
+  at Rocket.Core.RCON.RCONServer.Send (System.Net.Sockets.TcpClient client, System.String text) [0x00000] in <filename unknown>:0 
+  at Rocket.Core.RCON.RCONConnection.Send (System.String command, Boolean nonewline) [0x00000] in <filename unknown>:0 
+  at Rocket.Core.RCON.RCONServer.handleConnection (System.Object obj) [0x00000] in <filename unknown>:0 
+END with Bans:
+[World] серёжа [valera_zazhuev]: "/tpa acept"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198292543416 Name: Mr_GiladKing Character: GiladKing Ping: 106
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 48
+PlayerID: 76561198030393730 Name: heavy198 Character: heavy198 Ping: 139
+PlayerID: 76561198289556960 Name: доширак Character: artiom$KI Ping: 172
+PlayerID: 76561198391121800 Name: Джеимс Вурхиз Character: Джеимс Вурхиз Ping: 48
+PlayerID: 76561198009738148 Name: valera_zazhuev Character: серёжа Ping: 46
+
+TimerTerminateCommand.Enabled with Players:
+[World] серёжа [valera_zazhuev]: "/tpa accept"
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4293987551
+
+END with Bans:
+[World] серёжа [valera_zazhuev]: "ghbd"
+
+[World] серёжа [valera_zazhuev]: "прив"
+
+[World] серёжа [valera_zazhuev]: "нуичё"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198292543416 Name: Mr_GiladKing Character: GiladKing Ping: 72
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 45
+PlayerID: 76561198030393730 Name: heavy198 Character: heavy198 Ping: 142
+PlayerID: 76561198289556960 Name: доширак Character: artiom$KI Ping: 192
+PlayerID: 76561198391121800 Name: Джеимс Вурхиз Character: Джеимс Вурхиз Ping: 102
+PlayerID: 76561198009738148 Name: valera_zazhuev Character: серёжа Ping: 43
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4293987533
+
+Не обработано: MessageAnnouncer >> Broadcast: Используйте /report [ник], чтобы отправить жалобу на игрока
+TimerTerminateCommand.Enabled with Bans:
+MessageAnnouncer >> Broadcast: Используйте /report [ник], чтобы отправить жалобу на игрока
+
+Не обработано: MessageAnnouncer >> Используйте /report [ник], чтобы отправить жалобу на игрока
+TimerTerminateCommand.Enabled with Bans:
+MessageAnnouncer >> Используйте /report [ник], чтобы отправить жалобу на игрока
+
+END with Bans:
+[World] серёжа [valera_zazhuev]: "круто"
+

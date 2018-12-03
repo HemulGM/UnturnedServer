@@ -1,0 +1,90 @@
+Ќе обработано: RocketRcon v2.4.8.0
+RocketRcon v2.4.8.0
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198262878051 Name: Kolder Character: Kolder Ping: 46
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 123123
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 30963920
+PlayerID: 123
+JudgeID: 0
+Reason: durila Duration: 4000 Remaining: 4294399714
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294428087
+
+END with Bans:
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198262878051 Name: Kolder Character: Kolder Ping: 46
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 123123
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 30963900
+PlayerID: 123
+JudgeID: 0
+Reason: durila Duration: 4000 Remaining: 4294399694
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294428067
+
+END with Bans:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 123123
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 30963894
+PlayerID: 123
+JudgeID: 0
+Reason: durila Duration: 4000 Remaining: 4294399688
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294428061
+
+END with Bans:
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198262878051 Name: Kolder Character: Kolder Ping: 54
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 123123
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 30963880
+PlayerID: 123
+JudgeID: 0
+Reason: durila Duration: 4000 Remaining: 4294399674
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294428047
+
+END with Bans:
+Ќе обработано: MessageAnnouncer >> Broadcast: Ќаберите /kit start, чтобы получить стартовый набор (еда, вода, топор)
+MessageAnnouncer >> Broadcast: Ќаберите /kit start, чтобы получить стартовый набор (еда, вода, топор)
+
+Ќе обработано: MessageAnnouncer >> Ќаберите /kit start, чтобы получить стартовый набор (еда, вода, топор)
+MessageAnnouncer >> Ќаберите /kit start, чтобы получить стартовый набор (еда, вода, топор)
+

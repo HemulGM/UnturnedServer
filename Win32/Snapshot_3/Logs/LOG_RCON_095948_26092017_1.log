@@ -1,0 +1,16 @@
+26.09.2017 10:00:08: Не обработано: Rocket.Core >> Exception in Read: System.IO.IOException: Read failure ---> System.Net.Sockets.SocketException: Попытка установить соединение была безуспешной, т.к. от другого компьютера за требуемое время не получен нужный отклик, или было разорвано уже установленное соединение из-за неверного отклика уже подключенного компьютера.
+26.09.2017 10:00:08: Не обработано: 
+26.09.2017 10:00:08: Не обработано:   at System.Net.Sockets.Socket.Receive (System.Byte[] buffer, Int32 offset, Int32 size, SocketFlags flags) [0x00000] in <filename unknown>:0 
+26.09.2017 10:00:08: Не обработано:   at System.Net.Sockets.NetworkStream.Read (System.Byte[] buffer, Int32 offset, Int32 size) [0x00000] in <filename unknown>:0 
+26.09.2017 10:00:08: Не обработано:   --- End of inner exception stack trace ---
+26.09.2017 10:00:08: Не обработано:   at System.Net.Sockets.NetworkStream.Read (System.Byte[] buffer, Int32 offset, Int32 size) [0x00000] in <filename unknown>:0 
+26.09.2017 10:00:08: Не обработано:   at Rocket.Core.RCON.RCONServer.Read (System.Net.Sockets.TcpClient client) [0x00000] in <filename unknown>:0 
+26.09.2017 10:00:08: Не обработано: Rocket.CoreException in Rocket.Core: System.IO.IOException: Write failure ---> System.Net.Sockets.SocketException: Удаленный хост принудительно разорвал существующее подключение.
+26.09.2017 10:00:08: Не обработано: 
+26.09.2017 10:00:08: Не обработано:   at System.Net.Sockets.Socket.Send (System.Byte[] buf, Int32 offset, Int32 size, SocketFlags flags) [0x00000] in <filename unknown>:0 
+26.09.2017 10:00:08: Не обработано:   at System.Net.Sockets.NetworkStream.Write (System.Byte[] buffer, Int32 offset, Int32 size) [0x00000] in <filename unknown>:0 
+26.09.2017 10:00:08: Не обработано:   --- End of inner exception stack trace ---
+26.09.2017 10:00:08: Не обработано:   at System.Net.Sockets.NetworkStream.Write (System.Byte[] buffer, Int32 offset, Int32 size) [0x00000] in <filename unknown>:0 
+26.09.2017 10:00:08: Не обработано:   at Rocket.Core.RCON.RCONServer.Send (System.Net.Sockets.TcpClient client, System.String text) [0x00000] in <filename unknown>:0 
+26.09.2017 10:00:08: Не обработано:   at Rocket.Core.RCON.RCONConnection.Send (System.String command, Boolean nonewline) [0x00000] in <filename unknown>:0 
+26.09.2017 10:00:08: Не обработано:   at Rocket.Core.RCON.RCONServer.handleConnection (System.Object obj) [0x00000] in <filename unknown>:0 

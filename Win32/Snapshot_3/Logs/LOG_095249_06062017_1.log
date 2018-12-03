@@ -1,0 +1,2759 @@
+Не обработано: RocketRcon v2.4.8.0
+RocketRcon v2.4.8.0
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 140
+PlayerID: 76561198152563082 Name: Drakon Character: [MODER]Stanat Ping: 39
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 46
+PlayerID: 76561198280617288 Name: Незнаю какой придумать Character: Пипр Ping: 50
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 123123
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 30960068
+PlayerID: 123
+JudgeID: 0
+Reason: durila Duration: 4000 Remaining: 4294395862
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294424235
+
+END with Bans:
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 140
+PlayerID: 76561198152563082 Name: Drakon Character: [MODER]Stanat Ping: 46
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 35
+PlayerID: 76561198280617288 Name: Незнаю какой придумать Character: Пипр Ping: 58
+
+TimerTerminateCommand.Enabled with Players:
+[World] [MODER]Stanat [Drakon]: "/i 380"
+
+Не обработано: Дал [MODER]Stanat вещь 380:1
+TimerTerminateCommand.Enabled with Players:
+Дал [MODER]Stanat вещь 380:1
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 123123
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 30960047
+PlayerID: 123
+JudgeID: 0
+Reason: durila Duration: 4000 Remaining: 4294395841
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294424214
+
+END with Bans:
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 160
+PlayerID: 76561198152563082 Name: Drakon Character: [MODER]Stanat Ping: 42
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 42
+PlayerID: 76561198280617288 Name: Незнаю какой придумать Character: Пипр Ping: 58
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 123123
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 30960028
+PlayerID: 123
+JudgeID: 0
+Reason: durila Duration: 4000 Remaining: 4294395822
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294424195
+
+Не обработано: MessageAnnouncer >> Broadcast: Добро пожаловать на HEMULGM.RU. Тут рады вам больше, чем на любом другом сервере!
+TimerTerminateCommand.Enabled with Bans:
+MessageAnnouncer >> Broadcast: Добро пожаловать на HEMULGM.RU. Тут рады вам больше, чем на любом другом сервере!
+
+Не обработано: MessageAnnouncer >> Добро пожаловать на HEMULGM.RU. Тут рады вам больше, чем на любом другом сервере!
+TimerTerminateCommand.Enabled with Bans:
+MessageAnnouncer >> Добро пожаловать на HEMULGM.RU. Тут рады вам больше, чем на любом другом сервере!
+
+END with Bans:
+[World] [MODER]Stanat [Drakon]: "/day"
+
+Не обработано: Successfully set time to day!
+Successfully set time to day!
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 148
+PlayerID: 76561198152563082 Name: Drakon Character: [MODER]Stanat Ping: 54
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 39
+PlayerID: 76561198280617288 Name: Незнаю какой придумать Character: Пипр Ping: 42
+
+TimerTerminateCommand.Enabled with Players:
+[World] 7_AleX_3 [7_AleX_3]: "что за"
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 123123
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 30960007
+PlayerID: 123
+JudgeID: 0
+Reason: durila Duration: 4000 Remaining: 4294395801
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294424174
+
+END with Bans:
+[World] 7_AleX_3 [7_AleX_3]: "как"
+
+[World] Expert1337 [Expert13372284200]: "модер можеш противогаз дать за фильтр"
+
+[World] Пипр [Незнаю какой придумать]: "Я типо ночи хотел, товарищь модреатор"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 140
+PlayerID: 76561198152563082 Name: Drakon Character: [MODER]Stanat Ping: 39
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 35
+PlayerID: 76561198280617288 Name: Незнаю какой придумать Character: Пипр Ping: 66
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 123123
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 30959988
+PlayerID: 123
+JudgeID: 0
+Reason: durila Duration: 4000 Remaining: 4294395782
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294424155
+
+END with Bans:
+[World] [MODER]Stanat [Drakon]: "ахаха"
+
+Не обработано: 7_AleX_3 moved x:-599.4828 y:71.47937(+32.80703) z:172.5068 in the last second (1)
+7_AleX_3 moved x:-599.4828 y:71.47937(+32.80703) z:172.5068 in the last second (1)
+
+Не обработано: Expert1337 moved x:-595.6647 y:70.37798(+31.90066) z:176.3841 in the last second (0.1030731)
+Expert1337 moved x:-595.6647 y:70.37798(+31.90066) z:176.3841 in the last second (0.1030731)
+
+[World] [MODER]Stanat [Drakon]: "/night"
+
+Не обработано: Successfully set time to night!
+Successfully set time to night!
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 144
+PlayerID: 76561198152563082 Name: Drakon Character: [MODER]Stanat Ping: 35
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 35
+PlayerID: 76561198280617288 Name: Незнаю какой придумать Character: Пипр Ping: 46
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 123123
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 30959968
+PlayerID: 123
+JudgeID: 0
+Reason: durila Duration: 4000 Remaining: 4294395762
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294424135
+
+TimerTerminateCommand.Enabled with Bans:
+[World] Пипр [Незнаю какой придумать]: "Кто рейдит щас"
+
+END with Bans:
+[World] [MODER]Stanat [Drakon]: "нет за 2 фильтра"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 136
+PlayerID: 76561198152563082 Name: Drakon Character: [MODER]Stanat Ping: 35
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 58
+PlayerID: 76561198280617288 Name: Незнаю какой придумать Character: Пипр Ping: 50
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 123123
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 30959948
+PlayerID: 123
+JudgeID: 0
+Reason: durila Duration: 4000 Remaining: 4294395742
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294424115
+
+TimerTerminateCommand.Enabled with Bans:
+[World] Expert1337 [Expert13372284200]: "1 фильтр и флешку"
+
+END with Bans:
+[World] [MODER]Stanat [Drakon]: "2 фильтра"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 160
+PlayerID: 76561198152563082 Name: Drakon Character: [MODER]Stanat Ping: 46
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 42
+PlayerID: 76561198280617288 Name: Незнаю какой придумать Character: Пипр Ping: 58
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 123123
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 30959928
+PlayerID: 123
+JudgeID: 0
+Reason: durila Duration: 4000 Remaining: 4294395722
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294424095
+
+TimerTerminateCommand.Enabled with Bans:
+[World] Пипр [Незнаю какой придумать]: "Я слышу кто-то щас с Shadowstalker стрелял"
+
+TimerTerminateCommand.Enabled with Bans:
+[World] 7_AleX_3 [7_AleX_3]: "я добавлю"
+
+END with Bans:
+[World] Expert1337 [Expert13372284200]: "а если 1 фильтр и 3 вакцины"
+
+[World] 7_AleX_3 [7_AleX_3]: "эксперт"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 144
+PlayerID: 76561198152563082 Name: Drakon Character: [MODER]Stanat Ping: 46
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 39
+PlayerID: 76561198280617288 Name: Незнаю какой придумать Character: Пипр Ping: 179
+
+TimerTerminateCommand.Enabled with Players:
+[World] 7_AleX_3 [7_AleX_3]: "я добавлю"
+
+TimerTerminateCommand.Enabled with Players:
+[World] Expert1337 [Expert13372284200]: "у меня ток 1 фильтр"
+
+Не обработано: MessageAnnouncer >> Broadcast: Наберите /kit start, чтобы получить стартовый набор (еда, вода, топор)
+TimerTerminateCommand.Enabled with Players:
+MessageAnnouncer >> Broadcast: Наберите /kit start, чтобы получить стартовый набор (еда, вода, топор)
+
+Не обработано: MessageAnnouncer >> Наберите /kit start, чтобы получить стартовый набор (еда, вода, топор)
+TimerTerminateCommand.Enabled with Players:
+MessageAnnouncer >> Наберите /kit start, чтобы получить стартовый набор (еда, вода, топор)
+
+TimerTerminateCommand.Enabled with Players:
+[World] Пипр [Незнаю какой придумать]: "/home"
+
+TimerTerminateCommand.Enabled with Players:
+[World] 7_AleX_3 [7_AleX_3]: "садись"
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 123123
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 30959903
+PlayerID: 123
+JudgeID: 0
+Reason: durila Duration: 4000 Remaining: 4294395697
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294424070
+
+END with Bans:
+[World] Пипр [Незнаю какой придумать]: "Алекс ты дома?"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 148
+PlayerID: 76561198152563082 Name: Drakon Character: [MODER]Stanat Ping: 35
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 39
+PlayerID: 76561198280617288 Name: Незнаю какой придумать Character: Пипр Ping: 50
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 123123
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 30959888
+PlayerID: 123
+JudgeID: 0
+Reason: durila Duration: 4000 Remaining: 4294395682
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294424055
+
+END with Bans:
+[World] 7_AleX_3 [7_AleX_3]: "еду"
+
+[World] Expert1337 [Expert13372284200]: "мы на военке"
+
+[World] [MODER]Stanat [Drakon]: "/tp 1337"
+
+Не обработано: [MODER]Stanat телепортирован к Expert1337
+[MODER]Stanat телепортирован к Expert1337
+
+[World] Пипр [Незнаю какой придумать]: "/tpa alex"
+
+Не обработано: [MODER]Stanat moved x:-686.6497 y:76.81917(+58.81447) z:225.3667 in the last second (0.6040802)
+[MODER]Stanat moved x:-686.6497 y:76.81917(+58.81447) z:225.3667 in the last second (0.6040802)
+
+[World] 7_AleX_3 [7_AleX_3]: "видимого 0"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 136
+PlayerID: 76561198152563082 Name: Drakon Character: [MODER]Stanat Ping: 179
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 42
+PlayerID: 76561198280617288 Name: Незнаю какой придумать Character: Пипр Ping: 50
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 123123
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 30959868
+PlayerID: 123
+JudgeID: 0
+Reason: durila Duration: 4000 Remaining: 4294395662
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294424035
+
+END with Bans:
+[World] 7_AleX_3 [7_AleX_3]: "/tpa accept"
+
+Не обработано: Пипр moved x:-786.3639 y:77.4716(+35.95664) z:253.8865 in the last second (1.043625)
+Пипр moved x:-786.3639 y:77.4716(+35.95664) z:253.8865 in the last second (1.043625)
+
+[World] Expert1337 [Expert13372284200]: "модер пж"
+
+[World] 7_AleX_3 [7_AleX_3]: "эксперт"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 140
+PlayerID: 76561198152563082 Name: Drakon Character: [MODER]Stanat Ping: 42
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 54
+PlayerID: 76561198280617288 Name: Незнаю какой придумать Character: Пипр Ping: 46
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 123123
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 30959847
+PlayerID: 123
+JudgeID: 0
+Reason: durila Duration: 4000 Remaining: 4294395641
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294424014
+
+TimerTerminateCommand.Enabled with Bans:
+[World] 7_AleX_3 [7_AleX_3]: "я добавлю свой"
+
+END with Bans:
+[World] Expert1337 [Expert13372284200]: "тогда 2 надо противогаза"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 136
+PlayerID: 76561198152563082 Name: Drakon Character: [MODER]Stanat Ping: 46
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 42
+PlayerID: 76561198280617288 Name: Незнаю какой придумать Character: Пипр Ping: 46
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 123123
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 30959827
+PlayerID: 123
+JudgeID: 0
+Reason: durila Duration: 4000 Remaining: 4294395621
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294423994
+
+END with Bans:
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 136
+PlayerID: 76561198152563082 Name: Drakon Character: [MODER]Stanat Ping: 35
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 54
+PlayerID: 76561198280617288 Name: Незнаю какой придумать Character: Пипр Ping: 54
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 123123
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 30959807
+PlayerID: 123
+JudgeID: 0
+Reason: durila Duration: 4000 Remaining: 4294395601
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294423974
+
+END with Bans:
+[World] [MODER]Stanat [Drakon]: "а зачем"
+
+[World] [MODER]Stanat [Drakon]: "они вам"
+
+[World] 7_AleX_3 [7_AleX_3]: "мне тоже"
+
+Не обработано: PlayerInfoLib >> No expired player info records found for this batch.
+PlayerInfoLib >> No expired player info records found for this batch.
+
+[World] Expert1337 [Expert13372284200]: "нло"
+
+[World] 7_AleX_3 [7_AleX_3]: "1"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 136
+PlayerID: 76561198152563082 Name: Drakon Character: [MODER]Stanat Ping: 42
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 39
+PlayerID: 76561198280617288 Name: Незнаю какой придумать Character: Пипр Ping: 58
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 123123
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 30959787
+PlayerID: 123
+JudgeID: 0
+Reason: durila Duration: 4000 Remaining: 4294395581
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294423954
+[World] [MODER]Stanat [Drakon]: "там ниче"
+
+Не обработано: MessageAnnouncer >> Broadcast: Внимание! PvP-режим по субботам! PvP-режим!!!
+TimerTerminateCommand.Enabled with Bans:
+MessageAnnouncer >> Broadcast: Внимание! PvP-режим по субботам! PvP-режим!!!
+
+Не обработано: MessageAnnouncer >> Внимание! PvP-режим по субботам! PvP-режим!!!
+TimerTerminateCommand.Enabled with Bans:
+MessageAnnouncer >> Внимание! PvP-режим по субботам! PvP-режим!!!
+
+TimerTerminateCommand.Enabled with Bans:
+[World] [MODER]Stanat [Drakon]: "нет"
+
+END with Bans:
+[World] Пипр [Незнаю какой придумать]: "хахахахаах"
+
+[World] Пипр [Незнаю какой придумать]: "Меня зарейдили"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 148
+PlayerID: 76561198152563082 Name: Drakon Character: [MODER]Stanat Ping: 46
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 35
+PlayerID: 76561198280617288 Name: Незнаю какой придумать Character: Пипр Ping: 54
+
+TimerTerminateCommand.Enabled with Players:
+[World] Expert1337 [Expert13372284200]: "за шадов сталкер даш"
+
+Не обработано: 7_AleX_3 moved x:-689.3048 y:86.73022(+16.52) z:355.7147 in the last second (1)
+TimerTerminateCommand.Enabled with Players:
+7_AleX_3 moved x:-689.3048 y:86.73022(+16.52) z:355.7147 in the last second (1)
+
+TimerTerminateCommand.Enabled with Players:
+[World] [MODER]Stanat [Drakon]: "/tp пипр"
+
+Не обработано: [MODER]Stanat телепортирован к Пипр
+TimerTerminateCommand.Enabled with Players:
+[MODER]Stanat телепортирован к Пипр
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 123123
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 30959764
+PlayerID: 123
+JudgeID: 0
+Reason: durila Duration: 4000 Remaining: 4294395558
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294423931
+
+TimerTerminateCommand.Enabled with Bans:
+[World] 7_AleX_3 [7_AleX_3]: "алё"
+
+END with Bans:
+[World] Expert1337 [Expert13372284200]: "/home"
+
+Не обработано: Expert1337 moved x:927.7156 y:81.21822(+40.28957) z:507.623 in the last second (0.2379227)
+Expert1337 moved x:927.7156 y:81.21822(+40.28957) z:507.623 in the last second (0.2379227)
+
+[World] 7_AleX_3 [7_AleX_3]: "чё за"
+
+[World] Пипр [Незнаю какой придумать]: "можешь по убирать?"
+
+Connecting: PlayerID: 76561198263636845 Name: matic Character: matic
+
+[World] 7_AleX_3 [7_AleX_3]: "пипр"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 148
+PlayerID: 76561198152563082 Name: Drakon Character: [MODER]Stanat Ping: 42
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 46
+PlayerID: 76561198280617288 Name: Незнаю какой придумать Character: Пипр Ping: 62
+PlayerID: 76561198263636845 Name: matic Character: matic Ping: 82
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 123123
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 30959747
+PlayerID: 123
+JudgeID: 0
+Reason: durila Duration: 4000 Remaining: 4294395541
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294423914
+
+TimerTerminateCommand.Enabled with Bans:
+[World] Пипр [Незнаю какой придумать]: "что?"
+
+TimerTerminateCommand.Enabled with Bans:
+[World] 7_AleX_3 [7_AleX_3]: "как чё за"
+
+END with Bans:
+[World] 7_AleX_3 [7_AleX_3]: "мне то помоги"
+
+[World] Пипр [Незнаю какой придумать]: "Через крышу"
+
+[World] 7_AleX_3 [7_AleX_3]: "ага"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 152
+PlayerID: 76561198152563082 Name: Drakon Character: [MODER]Stanat Ping: 42
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 50
+PlayerID: 76561198280617288 Name: Незнаю какой придумать Character: Пипр Ping: 54
+PlayerID: 76561198263636845 Name: matic Character: matic Ping: 97
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 123123
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 30959727
+PlayerID: 123
+JudgeID: 0
+Reason: durila Duration: 4000 Remaining: 4294395521
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294423894
+
+TimerTerminateCommand.Enabled with Bans:
+[World] 7_AleX_3 [7_AleX_3]: "у меня закрыто"
+
+END with Bans:
+[World] 7_AleX_3 [7_AleX_3]: "там"
+
+[World] Expert1337 [Expert13372284200]: "модер а за шадов сталкер сойдёт"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 148
+PlayerID: 76561198152563082 Name: Drakon Character: [MODER]Stanat Ping: 46
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 50
+PlayerID: 76561198280617288 Name: Незнаю какой придумать Character: Пипр Ping: 54
+PlayerID: 76561198263636845 Name: matic Character: matic Ping: 97
+
+TimerTerminateCommand.Enabled with Players:
+[World] [MODER]Stanat [Drakon]: "да"
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 123123
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 30959705
+PlayerID: 123
+JudgeID: 0
+Reason: durila Duration: 4000 Remaining: 4294395499
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294423872
+[World] [MODER]Stanat [Drakon]: "ток поже"
+
+END with Bans:
+[World] Expert1337 [Expert13372284200]: "тп"
+
+[World] 7_AleX_3 [7_AleX_3]: "от меня к те"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 156
+PlayerID: 76561198152563082 Name: Drakon Character: [MODER]Stanat Ping: 42
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 46
+PlayerID: 76561198280617288 Name: Незнаю какой придумать Character: Пипр Ping: 54
+PlayerID: 76561198263636845 Name: matic Character: matic Ping: 93
+
+TimerTerminateCommand.Enabled with Players:
+[World] Пипр [Незнаю какой придумать]: "Я ящик"
+
+TimerTerminateCommand.Enabled with Players:
+[World] matic [matic]: "/kit"
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 123123
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 30959686
+PlayerID: 123
+JudgeID: 0
+Reason: durila Duration: 4000 Remaining: 4294395480
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294423853
+
+END with Bans:
+Не обработано: VehicleEvents >> Broadcast: Брошенный автобус в Kennewick Farm! Найди его и он твой!
+VehicleEvents >> Broadcast: Брошенный автобус в Kennewick Farm! Найди его и он твой!
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 160
+PlayerID: 76561198152563082 Name: Drakon Character: [MODER]Stanat Ping: 46
+
+TimerTerminateCommand.Enabled with Players:
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 39
+PlayerID: 76561198280617288 Name: Незнаю какой придумать Character: Пипр Ping: 42
+PlayerID: 76561198263636845 Name: matic Character: matic Ping: 89
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 123123
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 30959667
+PlayerID: 123
+JudgeID: 0
+Reason: durila Duration: 4000 Remaining: 4294395461
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294423834
+
+Не обработано: MessageAnnouncer >> Broadcast: vk.com/unturned_hgm - группа сервера ВК, уникальный кит в записи!
+TimerTerminateCommand.Enabled with Bans:
+MessageAnnouncer >> Broadcast: vk.com/unturned_hgm - группа сервера ВК, уникальный кит в записи!
+
+Не обработано: MessageAnnouncer >> vk.com/unturned_hgm - группа сервера ВК, уникальный кит в записи!
+TimerTerminateCommand.Enabled with Bans:
+MessageAnnouncer >> vk.com/unturned_hgm - группа сервера ВК, уникальный кит в записи!
+
+END with Bans:
+[World] Expert1337 [Expert13372284200]: "/tpa alex"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 148
+PlayerID: 76561198152563082 Name: Drakon Character: [MODER]Stanat Ping: 35
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 27
+PlayerID: 76561198280617288 Name: Незнаю какой придумать Character: Пипр Ping: 50
+PlayerID: 76561198263636845 Name: matic Character: matic Ping: 89
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 123123
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 30959647
+PlayerID: 123
+JudgeID: 0
+Reason: durila Duration: 4000 Remaining: 4294395441
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294423814
+
+END with Bans:
+[World] 7_AleX_3 [7_AleX_3]: "/tpa accept"
+
+[World] 7_AleX_3 [7_AleX_3]: "нас чуть не зарейдили"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 148
+PlayerID: 76561198152563082 Name: Drakon Character: [MODER]Stanat Ping: 39
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 31
+PlayerID: 76561198280617288 Name: Незнаю какой придумать Character: Пипр Ping: 46
+PlayerID: 76561198263636845 Name: matic Character: matic Ping: 93
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 123123
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 30959627
+PlayerID: 123
+JudgeID: 0
+Reason: durila Duration: 4000 Remaining: 4294395421
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294423794
+
+TimerTerminateCommand.Enabled with Bans:
+[World] [MODER]Stanat [Drakon]: "/tp 7"
+
+Не обработано: [MODER]Stanat телепортирован к Expert1337
+TimerTerminateCommand.Enabled with Bans:
+[MODER]Stanat телепортирован к Expert1337
+
+TimerTerminateCommand.Enabled with Bans:
+[World] 7_AleX_3 [7_AleX_3]: "пипр"
+
+END with Bans:
+[World] Пипр [Незнаю какой придумать]: "?"
+
+[World] Expert1337 [Expert13372284200]: "у меня уже есть автобус"
+
+[World] 7_AleX_3 [7_AleX_3]: "укреплять надо"
+
+[World] Пипр [Незнаю какой придумать]: "Не успел"
+
+[World] Expert1337 [Expert13372284200]: "ща тп ко мне домой"
+
+[World] 7_AleX_3 [7_AleX_3]: "ага"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 144
+PlayerID: 76561198152563082 Name: Drakon Character: [MODER]Stanat Ping: 39
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 39
+PlayerID: 76561198280617288 Name: Незнаю какой придумать Character: Пипр Ping: 50
+PlayerID: 76561198263636845 Name: matic Character: matic Ping: 85
+
+TimerTerminateCommand.Enabled with Players:
+[World] Expert1337 [Expert13372284200]: "/home"
+
+TimerTerminateCommand.Enabled with Players:
+[World] 7_AleX_3 [7_AleX_3]: "через крышу"
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 123123
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 30959606
+PlayerID: 123
+JudgeID: 0
+Reason: durila Duration: 4000 Remaining: 4294395400
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294423773
+
+TimerTerminateCommand.Enabled with Bans:
+[World] [MODER]Stanat [Drakon]: "/tp 1337"
+
+Не обработано: [MODER]Stanat телепортирован к Expert1337
+TimerTerminateCommand.Enabled with Bans:
+[MODER]Stanat телепортирован к Expert1337
+
+END with Bans:
+[World] Пипр [Незнаю какой придумать]: "ДЖип че открыт?"
+
+Не обработано: 7_AleX_3 moved x:-700.0463 y:87.0014(+15.08775) z:343.0067 in the last second (0.3317261)
+7_AleX_3 moved x:-700.0463 y:87.0014(+15.08775) z:343.0067 in the last second (0.3317261)
+
+TimerTerminateCommand.Enabled with Players:
+Client has executed command "players"
+Players:
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 152
+PlayerID: 76561198152563082 Name: Drakon Character: [MODER]Stanat Ping: 35
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 31
+PlayerID: 76561198280617288 Name: Незнаю какой придумать Character: Пипр Ping: 50
+PlayerID: 76561198263636845 Name: matic Character: matic Ping: 89
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 123123
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 30959585
+PlayerID: 123
+JudgeID: 0
+Reason: durila Duration: 4000 Remaining: 4294395379
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294423752
+
+END with Bans:
+[World] Пипр [Незнаю какой придумать]: "буду заново завиваться"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 164
+PlayerID: 76561198152563082 Name: Drakon Character: [MODER]Stanat Ping: 42
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 35
+PlayerID: 76561198280617288 Name: Незнаю какой придумать Character: Пипр Ping: 62
+PlayerID: 76561198263636845 Name: matic Character: matic Ping: 93
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 123123
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 30959565
+PlayerID: 123
+JudgeID: 0
+Reason: durila Duration: 4000 Remaining: 4294395359
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294423732
+
+TimerTerminateCommand.Enabled with Bans:
+[World] 7_AleX_3 [7_AleX_3]: "давай я те метал буду носить"
+
+END with Bans:
+[World] 7_AleX_3 [7_AleX_3]: "как"
+
+[World] Пипр [Незнаю какой придумать]: "У меня не много есть"
+
+[World] 7_AleX_3 [7_AleX_3]: "у тя своровали всё"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 164
+PlayerID: 76561198152563082 Name: Drakon Character: [MODER]Stanat Ping: 46
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 31
+PlayerID: 76561198280617288 Name: Незнаю какой придумать Character: Пипр Ping: 42
+PlayerID: 76561198263636845 Name: matic Character: matic Ping: 93
+
+Не обработано: MessageAnnouncer >> Broadcast: Наберите /kit help, чтобы получить первую мед. помощь (бинты, таблетки, еда)
+TimerTerminateCommand.Enabled with Players:
+MessageAnnouncer >> Broadcast: Наберите /kit help, чтобы получить первую мед. помощь (бинты, таблетки, еда)
+
+Не обработано: MessageAnnouncer >> Наберите /kit help, чтобы получить первую мед. помощь (бинты, таблетки, еда)
+TimerTerminateCommand.Enabled with Players:
+MessageAnnouncer >> Наберите /kit help, чтобы получить первую мед. помощь (бинты, таблетки, еда)
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 123123
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 30959544
+PlayerID: 123
+JudgeID: 0
+Reason: durila Duration: 4000 Remaining: 4294395338
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294423711
+
+END with Bans:
+[World] 7_AleX_3 [7_AleX_3]: "чтоли"
+
+[World] Пипр [Незнаю какой придумать]: "Да"
+
+[World] [MODER]Stanat [Drakon]: "/i 1270"
+
+Не обработано: Дал [MODER]Stanat вещь 1270:1
+Дал [MODER]Stanat вещь 1270:1
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 156
+PlayerID: 76561198152563082 Name: Drakon Character: [MODER]Stanat Ping: 50
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 42
+PlayerID: 76561198280617288 Name: Незнаю какой придумать Character: Пипр Ping: 62
+PlayerID: 76561198263636845 Name: matic Character: matic Ping: 93
+
+TimerTerminateCommand.Enabled with Players:
+[World] 7_AleX_3 [7_AleX_3]: "у меня не смогли закрыто всё"
+
+TimerTerminateCommand.Enabled with Players:
+[World] Пипр [Незнаю какой придумать]: "Кроме того что в инвентаре"
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 123123
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 30959523
+PlayerID: 123
+JudgeID: 0
+Reason: durila Duration: 4000 Remaining: 4294395317
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294423690
+
+TimerTerminateCommand.Enabled with Bans:
+[World] Expert1337 [Expert13372284200]: "2 шадов сталкера на мк2"
+
+END with Bans:
+[World] Expert1337 [Expert13372284200]: "можно"
+
+[World] [MODER]Stanat [Drakon]: "ytn"
+
+[World] Expert1337 [Expert13372284200]: "или 2 дезерта ещё"
+
+[World] [MODER]Stanat [Drakon]: "нет"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 156
+PlayerID: 76561198152563082 Name: Drakon Character: [MODER]Stanat Ping: 42
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 42
+PlayerID: 76561198280617288 Name: Незнаю какой придумать Character: Пипр Ping: 50
+PlayerID: 76561198263636845 Name: matic Character: matic Ping: 89
+
+TimerTerminateCommand.Enabled with Players:
+[World] [MODER]Stanat [Drakon]: "не"
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 123123
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 30959504
+PlayerID: 123
+JudgeID: 0
+Reason: durila Duration: 4000 Remaining: 4294395298
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294423671
+
+TimerTerminateCommand.Enabled with Bans:
+[World] [MODER]Stanat [Drakon]: "необменяю"
+
+TimerTerminateCommand.Enabled with Bans:
+[World] Expert1337 [Expert13372284200]: "а за что"
+
+END with Bans:
+[World] [MODER]Stanat [Drakon]: "необменяю этот тавар"
+
+[World] Expert1337 [Expert13372284200]: "ок"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 164
+PlayerID: 76561198152563082 Name: Drakon Character: [MODER]Stanat Ping: 50
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 39
+PlayerID: 76561198280617288 Name: Незнаю какой придумать Character: Пипр Ping: 50
+PlayerID: 76561198263636845 Name: matic Character: matic Ping: 89
+
+TimerTerminateCommand.Enabled with Players:
+[World] 7_AleX_3 [7_AleX_3]: "пипр поможеш укрепить дом железом"
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 123123
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 30959484
+PlayerID: 123
+JudgeID: 0
+Reason: durila Duration: 4000 Remaining: 4294395278
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294423651
+
+END with Bans:
+[World] [MODER]Stanat [Drakon]: "/tp 7"
+
+Не обработано: [MODER]Stanat телепортирован к Expert1337
+[MODER]Stanat телепортирован к Expert1337
+
+TimerTerminateCommand.Enabled with Players:
+Client has executed command "players"
+Players:
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 140
+PlayerID: 76561198152563082 Name: Drakon Character: [MODER]Stanat Ping: 50
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 54
+PlayerID: 76561198280617288 Name: Незнаю какой придумать Character: Пипр Ping: 74
+PlayerID: 76561198263636845 Name: matic Character: matic Ping: 89
+
+TimerTerminateCommand.Enabled with Players:
+[World] Пипр [Незнаю какой придумать]: "Как я помогу?"
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 123123
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 30959464
+PlayerID: 123
+JudgeID: 0
+Reason: durila Duration: 4000 Remaining: 4294395258
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294423631
+
+END with Bans:
+[World] [MODER]Stanat [Drakon]: "у пипра такая же была"
+
+[World] Expert1337 [Expert13372284200]: "я их нахожу"
+
+[World] Пипр [Незнаю какой придумать]: "Что такая же была?"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 156
+PlayerID: 76561198152563082 Name: Drakon Character: [MODER]Stanat Ping: 35
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 39
+PlayerID: 76561198280617288 Name: Незнаю какой придумать Character: Пипр Ping: 62
+PlayerID: 76561198263636845 Name: matic Character: matic Ping: 89
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 123123
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 30959445
+PlayerID: 123
+JudgeID: 0
+Reason: durila Duration: 4000 Remaining: 4294395239
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294423612
+
+TimerTerminateCommand.Enabled with Bans:
+[World] [MODER]Stanat [Drakon]: "ну тачка"
+
+TimerTerminateCommand.Enabled with Bans:
+[World] matic [matic]: "/kit"
+
+TimerTerminateCommand.Enabled with Bans:
+[World] Expert1337 [Expert13372284200]: "гост на парадайс поинте заспавнился"
+
+TimerTerminateCommand.Enabled with Bans:
+[World] [MODER]Stanat [Drakon]: "мафии"
+
+END with Bans:
+[World] 7_AleX_3 [7_AleX_3]: "пипр"
+
+[World] Пипр [Незнаю какой придумать]: "Аа да"
+
+[World] matic [matic]: "/kit ha6op"
+
+[World] 7_AleX_3 [7_AleX_3]: "покажеш чё у тя"
+
+[World] Пипр [Незнаю какой придумать]: "Ее взорвали"
+
+[World] Пипр [Незнаю какой придумать]: "Да ?"
+
+[World] [MODER]Stanat [Drakon]: "хз"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 136
+PlayerID: 76561198152563082 Name: Drakon Character: [MODER]Stanat Ping: 46
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 39
+PlayerID: 76561198280617288 Name: Незнаю какой придумать Character: Пипр Ping: 54
+PlayerID: 76561198263636845 Name: matic Character: matic Ping: 89
+
+Не обработано: MessageAnnouncer >> Broadcast: vk.com/unturned_hgm - цены на премиум, VIP и другие услуги смотрите в группе!
+TimerTerminateCommand.Enabled with Players:
+MessageAnnouncer >> Broadcast: vk.com/unturned_hgm - цены на премиум, VIP и другие услуги смотрите в группе!
+
+Не обработано: MessageAnnouncer >> vk.com/unturned_hgm - цены на премиум, VIP и другие услуги смотрите в группе!
+TimerTerminateCommand.Enabled with Players:
+MessageAnnouncer >> vk.com/unturned_hgm - цены на премиум, VIP и другие услуги смотрите в группе!
+
+TimerTerminateCommand.Enabled with Players:
+[World] [MODER]Stanat [Drakon]: "/tp пипр"
+
+Не обработано: [MODER]Stanat телепортирован к Пипр
+TimerTerminateCommand.Enabled with Players:
+[MODER]Stanat телепортирован к Пипр
+[World] 7_AleX_3 [7_AleX_3]: "покажеш чё у тя там"
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 123123
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 30959422
+PlayerID: 123
+JudgeID: 0
+Reason: durila Duration: 4000 Remaining: 4294395216
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294423589
+
+TimerTerminateCommand.Enabled with Bans:
+[World] matic [matic]: "/kit start"
+
+END with Bans:
+[World] Пипр [Незнаю какой придумать]: "нету ее там"
+
+[World] Expert1337 [Expert13372284200]: "аааааааааааааааааааааааааааа"
+
+[World] 7_AleX_3 [7_AleX_3]: "открой"
+
+[World] matic [matic]: "/kit help"
+
+[World] Пипр [Незнаю какой придумать]: "Алекс есть спальник или кровать"
+
+[World] 7_AleX_3 [7_AleX_3]: "пипр"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 144
+PlayerID: 76561198152563082 Name: Drakon Character: [MODER]Stanat Ping: 39
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 35
+PlayerID: 76561198280617288 Name: Незнаю какой придумать Character: Пипр Ping: 46
+PlayerID: 76561198263636845 Name: matic Character: matic Ping: 89
+[World] [MODER]Stanat [Drakon]: "пипр"
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 123123
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 30959405
+PlayerID: 123
+JudgeID: 0
+Reason: durila Duration: 4000 Remaining: 4294395199
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294423572
+
+TimerTerminateCommand.Enabled with Bans:
+[World] 7_AleX_3 [7_AleX_3]: "есь"
+
+TimerTerminateCommand.Enabled with Bans:
+[World] Пипр [Незнаю какой придумать]: "Что"
+
+END with Bans:
+[World] 7_AleX_3 [7_AleX_3]: "есь"
+
+[World] Expert1337 [Expert13372284200]: "модер"
+
+[World] matic [matic]: "/kit claim"
+
+[World] [MODER]Stanat [Drakon]: "у тебя какой уровень крафт"
+
+[World] Expert1337 [Expert13372284200]: "помоги"
+
+[World] 7_AleX_3 [7_AleX_3]: "дать"
+
+[World] Expert1337 [Expert13372284200]: "ааааааааааааа"
+
+[World] 7_AleX_3 [7_AleX_3]: "пипр"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 167
+PlayerID: 76561198152563082 Name: Drakon Character: [MODER]Stanat Ping: 46
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 39
+PlayerID: 76561198280617288 Name: Незнаю какой придумать Character: Пипр Ping: 58
+PlayerID: 76561198263636845 Name: matic Character: matic Ping: 93
+
+TimerTerminateCommand.Enabled with Players:
+[World] 7_AleX_3 [7_AleX_3]: "дать спальник"
+
+TimerTerminateCommand.Enabled with Players:
+[World] matic [matic]: "/kit hgm1"
+
+TimerTerminateCommand.Enabled with Players:
+[World] Пипр [Незнаю какой придумать]: "у меня все прокачанно"
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 123123
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 30959382
+PlayerID: 123
+JudgeID: 0
+Reason: durila Duration: 4000 Remaining: 4294395176
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294423549
+
+TimerTerminateCommand.Enabled with Bans:
+[World] Пипр [Незнаю какой придумать]: "Я давно не умерал"
+
+END with Bans:
+[World] Expert1337 [Expert13372284200]: "ааааааааааааааааа"
+
+[World] 7_AleX_3 [7_AleX_3]: "а мне поможеш до метала"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 160
+PlayerID: 76561198152563082 Name: Drakon Character: [MODER]Stanat Ping: 35
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 46
+PlayerID: 76561198280617288 Name: Незнаю какой придумать Character: Пипр Ping: 66
+PlayerID: 76561198263636845 Name: matic Character: matic Ping: 93
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 123123
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 30959365
+PlayerID: 123
+JudgeID: 0
+Reason: durila Duration: 4000 Remaining: 4294395159
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294423532
+
+END with Bans:
+[World] Expert1337 [Expert13372284200]: "чёза фигня"
+
+[World] [MODER]Stanat [Drakon]: "/i 67 200"
+
+Не обработано: Дал [MODER]Stanat вещь 67:200
+Дал [MODER]Stanat вещь 67:200
+
+[World] 7_AleX_3 [7_AleX_3]: "пипр поможеш нет"
+
+[World] Пипр [Незнаю какой придумать]: "/kit claim"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 156
+PlayerID: 76561198152563082 Name: Drakon Character: [MODER]Stanat Ping: 42
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 39
+PlayerID: 76561198280617288 Name: Незнаю какой придумать Character: Пипр Ping: 62
+PlayerID: 76561198263636845 Name: matic Character: matic Ping: 89
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 123123
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 30959345
+PlayerID: 123
+JudgeID: 0
+Reason: durila Duration: 4000 Remaining: 4294395139
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294423512
+
+END with Bans:
+[Area] Пипр [Незнаю какой придумать]: "Yfabuf"
+
+[Area] Пипр [Незнаю какой придумать]: "Нафига"
+
+Connecting: PlayerID: 76561198368128006 Name: Aibek Character: Aibek
+
+[World] [MODER]Stanat [Drakon]: "cnhjq"
+
+[World] [MODER]Stanat [Drakon]: "строй"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 148
+PlayerID: 76561198152563082 Name: Drakon Character: [MODER]Stanat Ping: 46
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 35
+PlayerID: 76561198280617288 Name: Незнаю какой придумать Character: Пипр Ping: 50
+PlayerID: 76561198263636845 Name: matic Character: matic Ping: 85
+PlayerID: 76561198368128006 Name: Aibek Character: Aibek Ping: 66
+
+TimerTerminateCommand.Enabled with Players:
+[World] [MODER]Stanat [Drakon]: "из железа"
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 123123
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 30959320
+PlayerID: 123
+JudgeID: 0
+Reason: durila Duration: 4000 Remaining: 4294395114
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294423487
+
+TimerTerminateCommand.Enabled with Bans:
+[World] 7_AleX_3 [7_AleX_3]: "ну помоги пж"
+
+TimerTerminateCommand.Enabled with Bans:
+[World] Expert1337 [Expert13372284200]: "переверните автобус"
+
+END with Bans:
+[Area] Пипр [Незнаю какой придумать]: "Заходи"
+
+[World] 7_AleX_3 [7_AleX_3]: "сделай стены метал принесу"
+
+Не обработано: MessageAnnouncer >> Broadcast: Наберите /kit claim, чтобы получить Claim Flag
+Не обработано: MessageAnnouncer >> Наберите /kit claim, чтобы получить Claim Flag
+MessageAnnouncer >> Broadcast: Наберите /kit claim, чтобы получить Claim Flag
+MessageAnnouncer >> Наберите /kit claim, чтобы получить Claim Flag
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 152
+PlayerID: 76561198152563082 Name: Drakon Character: [MODER]Stanat Ping: 42
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 35
+PlayerID: 76561198280617288 Name: Незнаю какой придумать Character: Пипр Ping: 50
+PlayerID: 76561198263636845 Name: matic Character: matic Ping: 93
+PlayerID: 76561198368128006 Name: Aibek Character: Aibek Ping: 113
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 123123
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 30959304
+PlayerID: 123
+JudgeID: 0
+Reason: durila Duration: 4000 Remaining: 4294395098
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294423471
+
+END with Bans:
+[Area] Пипр [Незнаю какой придумать]: "А я думаю как они на крышу попали"
+
+[World] 7_AleX_3 [7_AleX_3]: "да"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 160
+PlayerID: 76561198152563082 Name: Drakon Character: [MODER]Stanat Ping: 39
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 42
+PlayerID: 76561198280617288 Name: Незнаю какой придумать Character: Пипр Ping: 50
+PlayerID: 76561198263636845 Name: matic Character: matic Ping: 97
+PlayerID: 76561198368128006 Name: Aibek Character: Aibek Ping: 101
+
+TimerTerminateCommand.Enabled with Players:
+[Area] Пипр [Незнаю какой придумать]: "Модер взорвеш?"
+
+TimerTerminateCommand.Enabled with Players:
+[World] [MODER]Stanat [Drakon]: "дак изи"
+
+TimerTerminateCommand.Enabled with Players:
+[World] 7_AleX_3 [7_AleX_3]: "а у меня прикинь закрыто"
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 123123
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 30959280
+PlayerID: 123
+JudgeID: 0
+Reason: durila Duration: 4000 Remaining: 4294395074
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294423447
+
+END with Bans:
+[World] 7_AleX_3 [7_AleX_3]: "полный капец"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 156
+PlayerID: 76561198152563082 Name: Drakon Character: [MODER]Stanat Ping: 39
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 70
+PlayerID: 76561198280617288 Name: Незнаю какой придумать Character: Пипр Ping: 54
+PlayerID: 76561198263636845 Name: matic Character: matic Ping: 93
+PlayerID: 76561198368128006 Name: Aibek Character: Aibek Ping: 101
+
+TimerTerminateCommand.Enabled with Players:
+[World] 7_AleX_3 [7_AleX_3]: "как"
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 123123
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 30959263
+PlayerID: 123
+JudgeID: 0
+Reason: durila Duration: 4000 Remaining: 4294395057
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294423430
+
+TimerTerminateCommand.Enabled with Bans:
+[Area] Пипр [Незнаю какой придумать]: "Вон глянь"
+
+TimerTerminateCommand.Enabled with Bans:
+Connecting: PlayerID: 76561198324142943 Name: GEEKBROS Character: ПОНЧЕК
+
+END with Bans:
+[World] 7_AleX_3 [7_AleX_3]: "тут же не возможно"
+
+[World] 7_AleX_3 [7_AleX_3]: "где всё у тя"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 152
+PlayerID: 76561198152563082 Name: Drakon Character: [MODER]Stanat Ping: 35
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 54
+PlayerID: 76561198280617288 Name: Незнаю какой придумать Character: Пипр Ping: 54
+PlayerID: 76561198263636845 Name: matic Character: matic Ping: 89
+PlayerID: 76561198368128006 Name: Aibek Character: Aibek Ping: 97
+PlayerID: 76561198324142943 Name: GEEKBROS Character: ПОНЧЕК Ping: 66
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 123123
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 30959244
+PlayerID: 123
+JudgeID: 0
+Reason: durila Duration: 4000 Remaining: 4294395038
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294423411
+
+END with Bans:
+[World] 7_AleX_3 [7_AleX_3]: "капец"
+
+[World] 7_AleX_3 [7_AleX_3]: "всё забрали"
+
+[World] Expert1337 [Expert13372284200]: "модер у меня автобус перевернулся в гараже както"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 152
+PlayerID: 76561198152563082 Name: Drakon Character: [MODER]Stanat Ping: 42
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 42
+PlayerID: 76561198280617288 Name: Незнаю какой придумать Character: Пипр Ping: 58
+PlayerID: 76561198263636845 Name: matic Character: matic Ping: 85
+PlayerID: 76561198368128006 Name: Aibek Character: Aibek Ping: 101
+PlayerID: 76561198324142943 Name: GEEKBROS Character: ПОНЧЕК Ping: 70
+
+TimerTerminateCommand.Enabled with Players:
+[World] [MODER]Stanat [Drakon]: "скрафти"
+
+TimerTerminateCommand.Enabled with Players:
+[World] [MODER]Stanat [Drakon]: "пж"
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 123123
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 30959222
+PlayerID: 123
+JudgeID: 0
+Reason: durila Duration: 4000 Remaining: 4294395016
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294423389
+
+TimerTerminateCommand.Enabled with Bans:
+[World] [MODER]Stanat [Drakon]: "мне"
+
+END with Bans:
+[World] [MODER]Stanat [Drakon]: "дробаш"
+
+[World] 7_AleX_3 [7_AleX_3]: "как"
+
+[World] [MODER]Stanat [Drakon]: "пипр"
+
+[Area] Пипр [Незнаю какой придумать]: "Зачем?"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 144
+PlayerID: 76561198152563082 Name: Drakon Character: [MODER]Stanat Ping: 46
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 42
+PlayerID: 76561198280617288 Name: Незнаю какой придумать Character: Пипр Ping: 66
+PlayerID: 76561198263636845 Name: matic Character: matic Ping: 85
+PlayerID: 76561198368128006 Name: Aibek Character: Aibek Ping: 93
+PlayerID: 76561198324142943 Name: GEEKBROS Character: ПОНЧЕК Ping: 74
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 123123
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 30959204
+PlayerID: 123
+JudgeID: 0
+Reason: durila Duration: 4000 Remaining: 4294394998
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294423371
+
+TimerTerminateCommand.Enabled with Bans:
+[World] [MODER]Stanat [Drakon]: "надо"
+
+TimerTerminateCommand.Enabled with Bans:
+[World] 7_AleX_3 [7_AleX_3]: "а как крафтится не пойму"
+
+END with Bans:
+[Area] Пипр [Незнаю какой придумать]: "Что не поймеш"
+
+[World] ПОНЧЕК [GEEKBROS]: "\p"
+
+[World] 7_AleX_3 [7_AleX_3]: "не чё уже"
+
+Не обработано: MessageAnnouncer >> Broadcast: Если модератор ведёт себя неподобающе, пишите в группу или ЛС (vk.com/unturned_hgm, vk.com/hemulgm)
+MessageAnnouncer >> Broadcast: Если модератор ведёт себя неподобающе, пишите в группу или ЛС (vk.com/unturned_hgm, vk.com/hemulgm)
+
+Не обработано: MessageAnnouncer >> Если модератор ведёт себя неподобающе, пишите в группу или ЛС (vk.com/unturned_hgm, vk.com/hemulgm)
+MessageAnnouncer >> Если модератор ведёт себя неподобающе, пишите в группу или ЛС (vk.com/unturned_hgm, vk.com/hemulgm)
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 148
+PlayerID: 76561198152563082 Name: Drakon Character: [MODER]Stanat Ping: 42
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 42
+PlayerID: 76561198280617288 Name: Незнаю какой придумать Character: Пипр Ping: 101
+PlayerID: 76561198263636845 Name: matic Character: matic Ping: 93
+PlayerID: 76561198368128006 Name: Aibek Character: Aibek Ping: 93
+PlayerID: 76561198324142943 Name: GEEKBROS Character: ПОНЧЕК Ping: 66
+
+TimerTerminateCommand.Enabled with Players:
+[World] ПОНЧЕК [GEEKBROS]: "/p"
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 123123
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 30959182
+PlayerID: 123
+JudgeID: 0
+Reason: durila Duration: 4000 Remaining: 4294394976
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294423349
+
+END with Bans:
+[World] 7_AleX_3 [7_AleX_3]: "а что прокачать чтоб стены делать"
+
+[World] [MODER]Stanat [Drakon]: "скрафти"
+
+[World] [MODER]Stanat [Drakon]: "я тебе рецепт дал?"
+
+[Area] Пипр [Незнаю какой придумать]: "что скрафтить"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 179
+PlayerID: 76561198152563082 Name: Drakon Character: [MODER]Stanat Ping: 50
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 66
+PlayerID: 76561198280617288 Name: Незнаю какой придумать Character: Пипр Ping: 42
+PlayerID: 76561198263636845 Name: matic Character: matic Ping: 93
+PlayerID: 76561198368128006 Name: Aibek Character: Aibek Ping: 101
+PlayerID: 76561198324142943 Name: GEEKBROS Character: ПОНЧЕК Ping: 74
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 123123
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 30959164
+PlayerID: 123
+JudgeID: 0
+Reason: durila Duration: 4000 Remaining: 4294394958
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294423331
+
+END with Bans:
+[World] 7_AleX_3 [7_AleX_3]: "что прокачать для железных стен"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 164
+PlayerID: 76561198152563082 Name: Drakon Character: [MODER]Stanat Ping: 46
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 46
+PlayerID: 76561198280617288 Name: Незнаю какой придумать Character: Пипр Ping: 70
+PlayerID: 76561198263636845 Name: matic Character: matic Ping: 93
+PlayerID: 76561198368128006 Name: Aibek Character: Aibek Ping: 105
+PlayerID: 76561198324142943 Name: GEEKBROS Character: ПОНЧЕК Ping: 70
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 123123
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 30959144
+PlayerID: 123
+JudgeID: 0
+Reason: durila Duration: 4000 Remaining: 4294394938
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294423311
+
+TimerTerminateCommand.Enabled with Bans:
+[World] [MODER]Stanat [Drakon]: "/i 1437 2"
+
+Не обработано: Дал [MODER]Stanat вещь 1437:2
+TimerTerminateCommand.Enabled with Bans:
+Дал [MODER]Stanat вещь 1437:2
+
+END with Bans:
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 156
+PlayerID: 76561198152563082 Name: Drakon Character: [MODER]Stanat Ping: 50
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 46
+PlayerID: 76561198280617288 Name: Незнаю какой придумать Character: Пипр Ping: 62
+PlayerID: 76561198263636845 Name: matic Character: matic Ping: 78
+PlayerID: 76561198368128006 Name: Aibek Character: Aibek Ping: 97
+PlayerID: 76561198324142943 Name: GEEKBROS Character: ПОНЧЕК Ping: 70
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 123123
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 30959124
+PlayerID: 123
+JudgeID: 0
+Reason: durila Duration: 4000 Remaining: 4294394918
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294423291
+
+END with Bans:
+[World] [MODER]Stanat [Drakon]: "нашел?"
+
+[Area] Пипр [Незнаю какой придумать]: "Там надо 5 метало пластин"
+
+[World] 7_AleX_3 [7_AleX_3]: "прокачать что"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 152
+PlayerID: 76561198152563082 Name: Drakon Character: [MODER]Stanat Ping: 42
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 66
+PlayerID: 76561198280617288 Name: Незнаю какой придумать Character: Пипр Ping: 58
+PlayerID: 76561198263636845 Name: matic Character: matic Ping: 85
+PlayerID: 76561198368128006 Name: Aibek Character: Aibek Ping: 113
+PlayerID: 76561198324142943 Name: GEEKBROS Character: ПОНЧЕК Ping: 70
+
+TimerTerminateCommand.Enabled with Players:
+[World] Expert1337 [Expert13372284200]: "ереверните мне автобус"
+
+TimerTerminateCommand.Enabled with Players:
+[World] [MODER]Stanat [Drakon]: "дай"
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 123123
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 30959102
+PlayerID: 123
+JudgeID: 0
+Reason: durila Duration: 4000 Remaining: 4294394896
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294423269
+
+END with Bans:
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 152
+PlayerID: 76561198152563082 Name: Drakon Character: [MODER]Stanat Ping: 42
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 62
+PlayerID: 76561198280617288 Name: Незнаю какой придумать Character: Пипр Ping: 66
+PlayerID: 76561198263636845 Name: matic Character: matic Ping: 89
+PlayerID: 76561198368128006 Name: Aibek Character: Aibek Ping: 101
+PlayerID: 76561198324142943 Name: GEEKBROS Character: ПОНЧЕК Ping: 66
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 123123
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 30959084
+PlayerID: 123
+JudgeID: 0
+Reason: durila Duration: 4000 Remaining: 4294394878
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294423251
+
+END with Bans:
+[World] ПОНЧЕК [GEEKBROS]: "/kit"
+
+[World] ПОНЧЕК [GEEKBROS]: "/kit start"
+
+Не обработано: MessageAnnouncer >> Broadcast: vk.com/hemulgm - ЕДИНСТВЕННЫЙ администратор сервера
+MessageAnnouncer >> Broadcast: vk.com/hemulgm - ЕДИНСТВЕННЫЙ администратор сервера
+
+Не обработано: MessageAnnouncer >> vk.com/hemulgm - ЕДИНСТВЕННЫЙ администратор сервера
+MessageAnnouncer >> vk.com/hemulgm - ЕДИНСТВЕННЫЙ администратор сервера
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 175
+PlayerID: 76561198152563082 Name: Drakon Character: [MODER]Stanat Ping: 50
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 35
+PlayerID: 76561198280617288 Name: Незнаю какой придумать Character: Пипр Ping: 66
+PlayerID: 76561198263636845 Name: matic Character: matic Ping: 97
+PlayerID: 76561198368128006 Name: Aibek Character: Aibek Ping: 109
+PlayerID: 76561198324142943 Name: GEEKBROS Character: ПОНЧЕК Ping: 74
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 123123
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 30959064
+PlayerID: 123
+JudgeID: 0
+Reason: durila Duration: 4000 Remaining: 4294394858
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294423231
+
+END with Bans:
+[World] ПОНЧЕК [GEEKBROS]: "/kit"
+
+[World] ПОНЧЕК [GEEKBROS]: "/kit help"
+
+[World] [MODER]Stanat [Drakon]: "ништяк"
+
+[World] Expert1337 [Expert13372284200]: "гребание баги"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 144
+
+TimerTerminateCommand.Enabled with Players:
+PlayerID: 76561198152563082 Name: Drakon Character: [MODER]Stanat Ping: 42
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 58
+PlayerID: 76561198280617288 Name: Незнаю какой придумать Character: Пипр Ping: 58
+PlayerID: 76561198263636845 Name: matic Character: matic Ping: 89
+PlayerID: 76561198368128006 Name: Aibek Character: Aibek Ping: 105
+PlayerID: 76561198324142943 Name: GEEKBROS Character: ПОНЧЕК Ping: 70
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 123123
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 30959044
+PlayerID: 123
+JudgeID: 0
+Reason: durila Duration: 4000 Remaining: 4294394838
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294423211
+
+END with Bans:
+[World] 7_AleX_3 [7_AleX_3]: "как стены сделать"
+
+[World] 7_AleX_3 [7_AleX_3]: "прокачать что"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 167
+PlayerID: 76561198152563082 Name: Drakon Character: [MODER]Stanat Ping: 39
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 50
+PlayerID: 76561198280617288 Name: Незнаю какой придумать Character: Пипр Ping: 46
+PlayerID: 76561198263636845 Name: matic Character: matic Ping: 85
+PlayerID: 76561198368128006 Name: Aibek Character: Aibek Ping: 105
+PlayerID: 76561198324142943 Name: GEEKBROS Character: ПОНЧЕК Ping: 70
+
+TimerTerminateCommand.Enabled with Players:
+[World] [MODER]Stanat [Drakon]: "из 5 пластин"
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 123123
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 30959023
+PlayerID: 123
+JudgeID: 0
+Reason: durila Duration: 4000 Remaining: 4294394817
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294423190
+
+TimerTerminateCommand.Enabled with Bans:
+[World] 7_AleX_3 [7_AleX_3]: "знаю"
+
+TimerTerminateCommand.Enabled with Bans:
+[World] [MODER]Stanat [Drakon]: "скил крафта"
+
+TimerTerminateCommand.Enabled with Bans:
+[Area] Пипр [Незнаю какой придумать]: "Надо 5 листов из металла"
+
+TimerTerminateCommand.Enabled with Bans:
+[World] 7_AleX_3 [7_AleX_3]: "а прокачать что"
+
+TimerTerminateCommand.Enabled with Bans:
+[World] [MODER]Stanat [Drakon]: "до 3"
+
+END with Bans:
+[World] 7_AleX_3 [7_AleX_3]: "что 3"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 152
+PlayerID: 76561198152563082 Name: Drakon Character: [MODER]Stanat Ping: 46
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 50
+PlayerID: 76561198280617288 Name: Незнаю какой придумать Character: Пипр Ping: 50
+PlayerID: 76561198263636845 Name: matic Character: matic Ping: 89
+PlayerID: 76561198368128006 Name: Aibek Character: Aibek Ping: 101
+PlayerID: 76561198324142943 Name: GEEKBROS Character: ПОНЧЕК Ping: 70
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 123123
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 30959004
+PlayerID: 123
+JudgeID: 0
+Reason: durila Duration: 4000 Remaining: 4294394798
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294423171
+
+TimerTerminateCommand.Enabled with Bans:
+[World] [MODER]Stanat [Drakon]: "crafting"
+
+END with Bans:
+[World] [MODER]Stanat [Drakon]: "выпусти"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 160
+PlayerID: 76561198152563082 Name: Drakon Character: [MODER]Stanat Ping: 39
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 54
+PlayerID: 76561198280617288 Name: Незнаю какой придумать Character: Пипр Ping: 62
+PlayerID: 76561198263636845 Name: matic Character: matic Ping: 82
+PlayerID: 76561198368128006 Name: Aibek Character: Aibek Ping: 101
+PlayerID: 76561198324142943 Name: GEEKBROS Character: ПОНЧЕК Ping: 70
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 123123
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 30958984
+PlayerID: 123
+JudgeID: 0
+Reason: durila Duration: 4000 Remaining: 4294394778
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294423151
+
+END with Bans:
+[World] 7_AleX_3 [7_AleX_3]: "не хватает"
+
+[World] Expert1337 [Expert13372284200]: "модер заспавни автобус я свой взарву"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 152
+PlayerID: 76561198152563082 Name: Drakon Character: [MODER]Stanat Ping: 39
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 46
+PlayerID: 76561198280617288 Name: Незнаю какой придумать Character: Пипр Ping: 50
+PlayerID: 76561198263636845 Name: matic Character: matic Ping: 93
+PlayerID: 76561198368128006 Name: Aibek Character: Aibek Ping: 113
+PlayerID: 76561198324142943 Name: GEEKBROS Character: ПОНЧЕК Ping: 70
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 123123
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 30958964
+PlayerID: 123
+JudgeID: 0
+Reason: durila Duration: 4000 Remaining: 4294394758
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294423131
+
+TimerTerminateCommand.Enabled with Bans:
+[World] [MODER]Stanat [Drakon]: "/tp 1337"
+
+Не обработано: [MODER]Stanat телепортирован к Expert1337
+TimerTerminateCommand.Enabled with Bans:
+[MODER]Stanat телепортирован к Expert1337
+
+END with Bans:
+Не обработано: DeathMessagesRemastered >> Broadcast: ПОНЧЕК has been mauled by a zombie! 
+DeathMessagesRemastered >> Broadcast: ПОНЧЕК has been mauled by a zombie! 
+
+Не обработано: ПОНЧЕК [GEEKBROS] was mauled by a zombie!
+ПОНЧЕК [GEEKBROS] was mauled by a zombie!
+
+[World] [MODER]Stanat [Drakon]: "взрывай"
+
+[World] 7_AleX_3 [7_AleX_3]: "мой забери"
+
+Не обработано: MessageAnnouncer >> Broadcast: Используйте /report [ник], чтобы отправить жалобу на игрока
+MessageAnnouncer >> Broadcast: Используйте /report [ник], чтобы отправить жалобу на игрока
+
+Не обработано: MessageAnnouncer >> Используйте /report [ник], чтобы отправить жалобу на игрока
+MessageAnnouncer >> Используйте /report [ник], чтобы отправить жалобу на игрока
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 175
+PlayerID: 76561198152563082 Name: Drakon Character: [MODER]Stanat Ping: 42
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 35
+PlayerID: 76561198280617288 Name: Незнаю какой придумать Character: Пипр Ping: 54
+PlayerID: 76561198263636845 Name: matic Character: matic Ping: 89
+PlayerID: 76561198368128006 Name: Aibek Character: Aibek Ping: 97
+PlayerID: 76561198324142943 Name: GEEKBROS Character: ПОНЧЕК Ping: 66
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 123123
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 30958944
+PlayerID: 123
+JudgeID: 0
+Reason: durila Duration: 4000 Remaining: 4294394738
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294423111
+
+END with Bans:
+[World] ПОНЧЕК [GEEKBROS]: "/kit start"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 156
+PlayerID: 76561198152563082 Name: Drakon Character: [MODER]Stanat Ping: 42
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 39
+PlayerID: 76561198280617288 Name: Незнаю какой придумать Character: Пипр Ping: 46
+PlayerID: 76561198263636845 Name: matic Character: matic Ping: 89
+PlayerID: 76561198368128006 Name: Aibek Character: Aibek Ping: 101
+PlayerID: 76561198324142943 Name: GEEKBROS Character: ПОНЧЕК Ping: 70
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 123123
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 30958924
+PlayerID: 123
+JudgeID: 0
+Reason: durila Duration: 4000 Remaining: 4294394718
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294423091
+
+END with Bans:
+[World] ПОНЧЕК [GEEKBROS]: "/p"
+
+[World] 7_AleX_3 [7_AleX_3]: "е"
+
+[World] 7_AleX_3 [7_AleX_3]: "я строить"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 160
+PlayerID: 76561198152563082 Name: Drakon Character: [MODER]Stanat Ping: 46
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 39
+PlayerID: 76561198280617288 Name: Незнаю какой придумать Character: Пипр Ping: 58
+PlayerID: 76561198263636845 Name: matic Character: matic Ping: 93
+PlayerID: 76561198368128006 Name: Aibek Character: Aibek Ping: 97
+PlayerID: 76561198324142943 Name: GEEKBROS Character: ПОНЧЕК Ping: 74
+
+TimerTerminateCommand.Enabled with Players:
+[World] ПОНЧЕК [GEEKBROS]: "/kit claim"
+
+TimerTerminateCommand.Enabled with Players:
+[World] 7_AleX_3 [7_AleX_3]: "улучшать"
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 123123
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 30958901
+PlayerID: 123
+JudgeID: 0
+Reason: durila Duration: 4000 Remaining: 4294394695
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294423068
+
+END with Bans:
+[World] 7_AleX_3 [7_AleX_3]: "/home"
+
+[World] ПОНЧЕК [GEEKBROS]: "/kit hqm1"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 164
+PlayerID: 76561198152563082 Name: Drakon Character: [MODER]Stanat Ping: 42
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 35
+PlayerID: 76561198280617288 Name: Незнаю какой придумать Character: Пипр Ping: 46
+PlayerID: 76561198263636845 Name: matic Character: matic Ping: 105
+PlayerID: 76561198368128006 Name: Aibek Character: Aibek Ping: 101
+PlayerID: 76561198324142943 Name: GEEKBROS Character: ПОНЧЕК Ping: 70
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 123123
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 30958884
+PlayerID: 123
+JudgeID: 0
+Reason: durila Duration: 4000 Remaining: 4294394678
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294423051
+
+END with Bans:
+[World] 7_AleX_3 [7_AleX_3]: "пипр я знаю как залезли"
+
+[World] ПОНЧЕК [GEEKBROS]: "/kit hjm1"
+
+[Area] Пипр [Незнаю какой придумать]: "Молодец что знаешь"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 148
+PlayerID: 76561198152563082 Name: Drakon Character: [MODER]Stanat Ping: 50
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 39
+PlayerID: 76561198280617288 Name: Незнаю какой придумать Character: Пипр Ping: 42
+PlayerID: 76561198263636845 Name: matic Character: matic Ping: 97
+PlayerID: 76561198368128006 Name: Aibek Character: Aibek Ping: 97
+PlayerID: 76561198324142943 Name: GEEKBROS Character: ПОНЧЕК Ping: 70
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 123123
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 30958864
+PlayerID: 123
+JudgeID: 0
+Reason: durila Duration: 4000 Remaining: 4294394658
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294423031
+
+TimerTerminateCommand.Enabled with Bans:
+[World] ПОНЧЕК [GEEKBROS]: "/kit hgm1"
+
+END with Bans:
+[World] 7_AleX_3 [7_AleX_3]: "у тя там открыто проём есь"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 148
+PlayerID: 76561198152563082 Name: Drakon Character: [MODER]Stanat Ping: 50
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 39
+PlayerID: 76561198280617288 Name: Незнаю какой придумать Character: Пипр Ping: 50
+PlayerID: 76561198263636845 Name: matic Character: matic Ping: 101
+PlayerID: 76561198368128006 Name: Aibek Character: Aibek Ping: 105
+PlayerID: 76561198324142943 Name: GEEKBROS Character: ПОНЧЕК Ping: 70
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 123123
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 30958844
+PlayerID: 123
+JudgeID: 0
+Reason: durila Duration: 4000 Remaining: 4294394638
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294423011
+
+END with Bans:
+[World] [MODER]Stanat [Drakon]: "/vehicle 86"
+
+Не обработано: Successfully gave Drakon 86!
+Successfully gave Drakon 86!
+
+Не обработано: MessageAnnouncer >> Broadcast: Наберите /rules (/r) для просмотра правил
+MessageAnnouncer >> Broadcast: Наберите /rules (/r) для просмотра правил
+
+Не обработано: MessageAnnouncer >> Наберите /rules (/r) для просмотра правил
+MessageAnnouncer >> Наберите /rules (/r) для просмотра правил
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 152
+PlayerID: 76561198152563082 Name: Drakon Character: [MODER]Stanat Ping: 46
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 54
+PlayerID: 76561198280617288 Name: Незнаю какой придумать Character: Пипр Ping: 58
+PlayerID: 76561198263636845 Name: matic Character: matic Ping: 101
+PlayerID: 76561198368128006 Name: Aibek Character: Aibek Ping: 93
+PlayerID: 76561198324142943 Name: GEEKBROS Character: ПОНЧЕК Ping: 70
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 123123
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 30958824
+PlayerID: 123
+JudgeID: 0
+Reason: durila Duration: 4000 Remaining: 4294394618
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294422991
+
+END with Bans:
+[World] Expert1337 [Expert13372284200]: "во всё"
+
+[World] 7_AleX_3 [7_AleX_3]: "я тя не рейдил меня самого хотели"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 144
+PlayerID: 76561198152563082 Name: Drakon Character: [MODER]Stanat Ping: 42
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 54
+PlayerID: 76561198280617288 Name: Незнаю какой придумать Character: Пипр Ping: 62
+PlayerID: 76561198263636845 Name: matic Character: matic Ping: 101
+PlayerID: 76561198368128006 Name: Aibek Character: Aibek Ping: 101
+PlayerID: 76561198324142943 Name: GEEKBROS Character: ПОНЧЕК Ping: 74
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 123123
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 30958804
+PlayerID: 123
+JudgeID: 0
+Reason: durila Duration: 4000 Remaining: 4294394598
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294422971
+
+END with Bans:
+Не обработано: Saving server
+Saving server
+
+[World] [MODER]Stanat [Drakon]: "/vehicle 135"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 152
+PlayerID: 76561198152563082 Name: Drakon Character: [MODER]Stanat Ping: 42
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 39
+PlayerID: 76561198280617288 Name: Незнаю какой придумать Character: Пипр Ping: 54
+PlayerID: 76561198263636845 Name: matic Character: matic Ping: 101
+PlayerID: 76561198368128006 Name: Aibek Character: Aibek Ping: 101
+PlayerID: 76561198324142943 Name: GEEKBROS Character: ПОНЧЕК Ping: 74
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 123123
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 30958784
+PlayerID: 123
+JudgeID: 0
+Reason: durila Duration: 4000 Remaining: 4294394578
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294422951
+
+END with Bans:
+[World] [MODER]Stanat [Drakon]: "/vehicle 135"
+
+Не обработано: Successfully gave Drakon 135!
+Successfully gave Drakon 135!
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 171
+PlayerID: 76561198152563082 Name: Drakon Character: [MODER]Stanat Ping: 42
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 42
+PlayerID: 76561198280617288 Name: Незнаю какой придумать Character: Пипр Ping: 50
+PlayerID: 76561198263636845 Name: matic Character: matic Ping: 105
+PlayerID: 76561198368128006 Name: Aibek Character: Aibek Ping: 105
+PlayerID: 76561198324142943 Name: GEEKBROS Character: ПОНЧЕК Ping: 78
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 123123
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 30958764
+PlayerID: 123
+JudgeID: 0
+Reason: durila Duration: 4000 Remaining: 4294394558
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294422931
+
+END with Bans:
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 152
+PlayerID: 76561198152563082 Name: Drakon Character: [MODER]Stanat Ping: 93
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 66
+PlayerID: 76561198280617288 Name: Незнаю какой придумать Character: Пипр Ping: 62
+PlayerID: 76561198263636845 Name: matic Character: matic Ping: 101
+PlayerID: 76561198368128006 Name: Aibek Character: Aibek Ping: 97
+PlayerID: 76561198324142943 Name: GEEKBROS Character: ПОНЧЕК Ping: 78
+
+TimerTerminateCommand.Enabled with Players:
+[World] 7_AleX_3 [7_AleX_3]: "главное не взорвали дом"
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 123123
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 30958742
+PlayerID: 123
+JudgeID: 0
+Reason: durila Duration: 4000 Remaining: 4294394536
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294422909
+
+TimerTerminateCommand.Enabled with Bans:
+[World] 7_AleX_3 [7_AleX_3]: "не чей"
+
+END with Bans:
+[World] Aibek [Aibek]: "/kit help"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 152
+PlayerID: 76561198152563082 Name: Drakon Character: [MODER]Stanat Ping: 46
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 42
+PlayerID: 76561198280617288 Name: Незнаю какой придумать Character: Пипр Ping: 54
+PlayerID: 76561198263636845 Name: matic Character: matic Ping: 171
+PlayerID: 76561198368128006 Name: Aibek Character: Aibek Ping: 105
+PlayerID: 76561198324142943 Name: GEEKBROS Character: ПОНЧЕК Ping: 70
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 123123
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 30958724
+PlayerID: 123
+JudgeID: 0
+Reason: durila Duration: 4000 Remaining: 4294394518
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294422891
+
+TimerTerminateCommand.Enabled with Bans:
+[World] 7_AleX_3 [7_AleX_3]: "ты поэтому звал"
+
+END with Bans:
+Не обработано: MessageAnnouncer >> Broadcast: Добро пожаловать на HEMULGM.RU. Тут рады вам больше, чем на любом другом сервере!
+MessageAnnouncer >> Broadcast: Добро пожаловать на HEMULGM.RU. Тут рады вам больше, чем на любом другом сервере!
+
+Не обработано: MessageAnnouncer >> Добро пожаловать на HEMULGM.RU. Тут рады вам больше, чем на любом другом сервере!
+MessageAnnouncer >> Добро пожаловать на HEMULGM.RU. Тут рады вам больше, чем на любом другом сервере!
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 156
+PlayerID: 76561198152563082 Name: Drakon Character: [MODER]Stanat Ping: 39
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 39
+PlayerID: 76561198280617288 Name: Незнаю какой придумать Character: Пипр Ping: 50
+PlayerID: 76561198263636845 Name: matic Character: matic Ping: 101
+PlayerID: 76561198368128006 Name: Aibek Character: Aibek Ping: 93
+PlayerID: 76561198324142943 Name: GEEKBROS Character: ПОНЧЕК Ping: 66
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 123123
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 30958704
+PlayerID: 123
+JudgeID: 0
+Reason: durila Duration: 4000 Remaining: 4294394498
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294422871
+
+END with Bans:
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 164
+PlayerID: 76561198152563082 Name: Drakon Character: [MODER]Stanat Ping: 54
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 42
+PlayerID: 76561198280617288 Name: Незнаю какой придумать Character: Пипр Ping: 58
+PlayerID: 76561198263636845 Name: matic Character: matic Ping: 89
+PlayerID: 76561198368128006 Name: Aibek Character: Aibek Ping: 101
+PlayerID: 76561198324142943 Name: GEEKBROS Character: ПОНЧЕК Ping: 78
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 123123
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 30958684
+PlayerID: 123
+JudgeID: 0
+Reason: durila Duration: 4000 Remaining: 4294394478
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294422851
+
+END with Bans:
+Не обработано: [MODER]Stanat moved x:421.0132 y:149.4802(+75.13141) z:867.5407 in the last second (111.3785)
+[MODER]Stanat moved x:421.0132 y:149.4802(+75.13141) z:867.5407 in the last second (111.3785)
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 195
+PlayerID: 76561198152563082 Name: Drakon Character: [MODER]Stanat Ping: 46
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 35
+PlayerID: 76561198280617288 Name: Незнаю какой придумать Character: Пипр Ping: 46
+PlayerID: 76561198263636845 Name: matic Character: matic Ping: 97
+PlayerID: 76561198368128006 Name: Aibek Character: Aibek Ping: 97
+PlayerID: 76561198324142943 Name: GEEKBROS Character: ПОНЧЕК Ping: 66
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 123123
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 30958664
+PlayerID: 123
+JudgeID: 0
+Reason: durila Duration: 4000 Remaining: 4294394458
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294422831
+
+END with Bans:
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 144
+PlayerID: 76561198152563082 Name: Drakon Character: [MODER]Stanat Ping: 42
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 31
+PlayerID: 76561198280617288 Name: Незнаю какой придумать Character: Пипр Ping: 62
+PlayerID: 76561198263636845 Name: matic Character: matic Ping: 105
+PlayerID: 76561198368128006 Name: Aibek Character: Aibek Ping: 101
+PlayerID: 76561198324142943 Name: GEEKBROS Character: ПОНЧЕК Ping: 74
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 123123
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 30958644
+PlayerID: 123
+JudgeID: 0
+Reason: durila Duration: 4000 Remaining: 4294394438
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294422811
+
+END with Bans:
+Connecting: PlayerID: 76561198042522283 Name: Ettychel Character: Артём Ряскин
+
+[World] [MODER]Stanat [Drakon]: "лад я выду на часик"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 148
+PlayerID: 76561198152563082 Name: Drakon Character: [MODER]Stanat Ping: 39
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 39
+PlayerID: 76561198280617288 Name: Незнаю какой придумать Character: Пипр Ping: 58
+PlayerID: 76561198263636845 Name: matic Character: matic Ping: 113
+PlayerID: 76561198368128006 Name: Aibek Character: Aibek Ping: 105
+PlayerID: 76561198324142943 Name: GEEKBROS Character: ПОНЧЕК Ping: 78
+PlayerID: 76561198042522283 Name: Ettychel Character: Артём Ряскин Ping: 378
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 123123
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 30958624
+PlayerID: 123
+JudgeID: 0
+Reason: durila Duration: 4000 Remaining: 4294394418
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294422791
+
+TimerTerminateCommand.Enabled with Bans:
+[Area] Пипр [Незнаю какой придумать]: "Удачи"
+
+TimerTerminateCommand.Enabled with Bans:
+[World] [MODER]Stanat [Drakon]: "потом зайду"
+
+END with Bans:
+[World] 7_AleX_3 [7_AleX_3]: "хорошо"
+
+[World] Артём Ряскин [Ettychel]: "/ikit start"
+
+[World] Артём Ряскин [Ettychel]: "/kits"
+
+[World] 7_AleX_3 [7_AleX_3]: "спасибо что подсказал"
+
+[World] Артём Ряскин [Ettychel]: "/kit тапор"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 156
+PlayerID: 76561198152563082 Name: Drakon Character: [MODER]Stanat Ping: 42
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 39
+PlayerID: 76561198280617288 Name: Незнаю какой придумать Character: Пипр Ping: 66
+PlayerID: 76561198263636845 Name: matic Character: matic Ping: 89
+PlayerID: 76561198368128006 Name: Aibek Character: Aibek Ping: 89
+PlayerID: 76561198324142943 Name: GEEKBROS Character: ПОНЧЕК Ping: 74
+PlayerID: 76561198042522283 Name: Ettychel Character: Артём Ряскин Ping: 62
+
+TimerTerminateCommand.Enabled with Players:
+Disconnecting: PlayerID: 76561198152563082 Name: Drakon Character: [MODER]Stanat
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 123123
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 30958602
+PlayerID: 123
+JudgeID: 0
+Reason: durila Duration: 4000 Remaining: 4294394396
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294422769
+
+END with Bans:
+[World] 7_AleX_3 [7_AleX_3]: "пипр"
+
+[World] Артём Ряскин [Ettychel]: "/kit start"
+
+[World] Expert1337 [Expert13372284200]: "алекс вам помощ нужна"
+
+[World] 7_AleX_3 [7_AleX_3]: "да"
+
+Не обработано: MessageAnnouncer >> Broadcast: Наберите /kit start, чтобы получить стартовый набор (еда, вода, топор)
+MessageAnnouncer >> Broadcast: Наберите /kit start, чтобы получить стартовый набор (еда, вода, топор)
+
+Не обработано: MessageAnnouncer >> Наберите /kit start, чтобы получить стартовый набор (еда, вода, топор)
+MessageAnnouncer >> Наберите /kit start, чтобы получить стартовый набор (еда, вода, топор)
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 171
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 31
+PlayerID: 76561198280617288 Name: Незнаю какой придумать Character: Пипр Ping: 54
+PlayerID: 76561198263636845 Name: matic Character: matic Ping: 89
+PlayerID: 76561198368128006 Name: Aibek Character: Aibek Ping: 97
+PlayerID: 76561198324142943 Name: GEEKBROS Character: ПОНЧЕК Ping: 70
+PlayerID: 76561198042522283 Name: Ettychel Character: Артём Ряскин Ping: 85
+
+TimerTerminateCommand.Enabled with Players:
+[World] 7_AleX_3 [7_AleX_3]: "с металом"
+

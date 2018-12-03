@@ -1,0 +1,510 @@
+RocketRcon v2.4.8.0
+
+login aVIPs22031994
+players
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198403731875 Name: Malav Character: Malav Ping: 35
+PlayerID: 76561198416514639 Name: Aulak Character: Aulak Ping: 58
+PlayerID: 76561198133535023 Name: Emil`) Character: Адель Гиниятулли Ping: 101
+Client has executed command "bans"
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27039401
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 29919679
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 29919695
+PlayerID: 76561198408019916
+JudgeID: 76561198237123262
+Reason: raid Duration: 604800 Remaining: 272026
+PlayerID: 76561198366284525
+JudgeID: 76561198237123262
+Reason: REKLAMA Duration: 604800 Remaining: 450195
+
+END
+END
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2387]
+
+Client has executed command "players"
+Players:
+PlayerID: 76561198403731875 Name: Malav Character: Malav Ping: 50
+PlayerID: 76561198416514639 Name: Aulak Character: Aulak Ping: 105
+PlayerID: 76561198133535023 Name: Emil`) Character: Адель Гиниятулли Ping: 105
+Client has executed command "GET NOW"
+ServerControl >> VALUE NOW [0] [0] [2397]
+Client has executed command "bans"
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27039385
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 29919663
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 29919679
+PlayerID: 76561198408019916
+JudgeID: 76561198237123262
+Reason: raid Duration: 604800 Remaining: 272010
+PlayerID: 76561198366284525
+JudgeID: 76561198237123262
+Reason: REKLAMA Duration: 604800 Remaining: 450179
+Client has executed command "GET NOW"
+ServerControl >> VALUE NOW [0] [0] [2407]
+Client has executed command "players"
+Players:
+PlayerID: 76561198403731875 Name: Malav Character: Malav Ping: 54
+PlayerID: 76561198416514639 Name: Aulak Character: Aulak Ping: 93
+PlayerID: 76561198133535023 Name: Emil`) Character: Адель Гиниятулли Ping: 117
+Client has executed command "GET NOW"
+ServerControl >> VALUE NOW [0] [0] [2417]
+Client has executed command "bans"
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27039365
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 29919643
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 29919659
+PlayerID: 76561198408019916
+JudgeID: 76561198237123262
+Reason: raid Duration: 604800 Remaining: 271990
+PlayerID: 76561198366284525
+JudgeID: 76561198237123262
+Reason: REKLAMA Duration: 604800 Remaining: 450159
+Client has executed command "GET NOW"
+ServerControl >> VALUE NOW [0] [0] [2427]
+MessageAnnouncer >> Broadcast: Используйте /report [ник], чтобы отправить жалобу на игрока
+MessageAnnouncer >> Используйте /report [ник], чтобы отправить жалобу на игрока
+Client has executed command "players"
+Players:
+PlayerID: 76561198403731875 Name: Malav Character: Malav Ping: 39
+PlayerID: 76561198416514639 Name: Aulak Character: Aulak Ping: 132
+PlayerID: 76561198133535023 Name: Emil`) Character: Адель Гиниятулли Ping: 101
+Client has executed command "GET NOW"
+ServerControl >> VALUE NOW [0] [0] [2437]
+Client has executed command "bans"
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27039345
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 29919623
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 29919639
+PlayerID: 76561198408019916
+JudgeID: 76561198237123262
+Reason: raid Duration: 604800 Remaining: 271970
+PlayerID: 76561198366284525
+JudgeID: 76561198237123262
+Reason: REKLAMA Duration: 604800 Remaining: 450139
+Client has executed command "GET NOW"
+ServerControl >> VALUE NOW [0] [0] [2447]
+PlayerInfoLib >> No expired player info records found for this batch.
+Saving server
+Client has executed command "players"
+Players:
+PlayerID: 76561198403731875 Name: Malav Character: Malav Ping: 50
+PlayerID: 76561198416514639 Name: Aulak Character: Aulak Ping: 58
+PlayerID: 76561198133535023 Name: Emil`) Character: Адель Гиниятулли Ping: 97
+Client has executed command "GET NOW"
+ServerControl >> VALUE NOW [0] [0] [2457]
+Client has executed command "bans"
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27039325
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 29919603
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 29919619
+PlayerID: 76561198408019916
+JudgeID: 76561198237123262
+Reason: raid Duration: 604800 Remaining: 271950
+PlayerID: 76561198366284525
+JudgeID: 76561198237123262
+Reason: REKLAMA Duration: 604800 Remaining: 450119
+
+END
+END
+END
+END
+END
+Сохранение сервера
+END
+END
+GET NOW
+Client has executed command "GET NOW"
+ServerControl >> VALUE NOW [0] [0] [2462]
+
+END
+Client has executed command "GET NOW"
+ServerControl >> VALUE NOW [0] [0] [2467]
+Client has executed command "players"
+Players:
+PlayerID: 76561198403731875 Name: Malav Character: Malav Ping: 58
+PlayerID: 76561198416514639 Name: Aulak Character: Aulak Ping: 58
+PlayerID: 76561198133535023 Name: Emil`) Character: Адель Гиниятулли Ping: 105
+Client has executed command "GET NOW"
+ServerControl >> VALUE NOW [0] [0] [2478]
+Client has executed command "bans"
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27039305
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 29919583
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 29919599
+PlayerID: 76561198408019916
+JudgeID: 76561198237123262
+Reason: raid Duration: 604800 Remaining: 271930
+PlayerID: 76561198366284525
+JudgeID: 76561198237123262
+Reason: REKLAMA Duration: 604800 Remaining: 450099
+Client has executed command "GET NOW"
+ServerControl >> VALUE NOW [0] [0] [2488]
+MessageAnnouncer >> Broadcast: Наберите /rules (/r) для просмотра правил
+MessageAnnouncer >> Наберите /rules (/r) для просмотра правил
+Client has executed command "players"
+Players:
+PlayerID: 76561198403731875 Name: Malav Character: Malav Ping: 42
+PlayerID: 76561198416514639 Name: Aulak Character: Aulak Ping: 70
+PlayerID: 76561198133535023 Name: Emil`) Character: Адель Гиниятулли Ping: 97
+Client has executed command "GET NOW"
+ServerControl >> VALUE NOW [0] [0] [2498]
+Client has executed command "bans"
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27039284
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 29919562
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 29919578
+PlayerID: 76561198408019916
+JudgeID: 76561198237123262
+Reason: raid Duration: 604800 Remaining: 271909
+PlayerID: 76561198366284525
+JudgeID: 76561198237123262
+Reason: REKLAMA Duration: 604800 Remaining: 450078
+Client has executed command "GET NOW"
+ServerControl >> VALUE NOW [0] [0] [2508]
+Client has executed command "GET NOW"
+ServerControl >> VALUE NOW [0] [0] [2518]
+Client has executed command "players"
+Players:
+PlayerID: 76561198403731875 Name: Malav Character: Malav Ping: 62
+PlayerID: 76561198416514639 Name: Aulak Character: Aulak Ping: 62
+PlayerID: 76561198133535023 Name: Emil`) Character: Адель Гиниятулли Ping: 101
+Client has executed command "bans"
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27039264
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 29919542
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 29919558
+PlayerID: 76561198408019916
+JudgeID: 76561198237123262
+Reason: raid Duration: 604800 Remaining: 271889
+PlayerID: 76561198366284525
+JudgeID: 76561198237123262
+Reason: REKLAMA Duration: 604800 Remaining: 450058
+Client has executed command "GET NOW"
+ServerControl >> VALUE NOW [0] [0] [2528]
+Disconnecting: PlayerID: 76561198416514639 Name: Aulak Character: Aulak
+Client has executed command "GET NOW"
+ServerControl >> VALUE NOW [0] [0] [2538]
+Client has executed command "players"
+Players:
+PlayerID: 76561198403731875 Name: Malav Character: Malav Ping: 54
+PlayerID: 76561198133535023 Name: Emil`) Character: Адель Гиниятулли Ping: 97
+Client has executed command "bans"
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27039243
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 29919521
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 29919537
+PlayerID: 76561198408019916
+JudgeID: 76561198237123262
+Reason: raid Duration: 604800 Remaining: 271868
+PlayerID: 76561198366284525
+JudgeID: 76561198237123262
+Reason: REKLAMA Duration: 604800 Remaining: 450037
+Client has executed command "GET NOW"
+ServerControl >> VALUE NOW [0] [0] [2548]
+MessageAnnouncer >> Broadcast: Добро пожаловать на HGM. Тут рады вам больше, чем на любом другом сервере!
+MessageAnnouncer >> Добро пожаловать на HGM. Тут рады вам больше, чем на любом другом сервере!
+
+END
+END
+END
+END
+END
+END
+END
+GET NOW
+Client has executed command "GET NOW"
+ServerControl >> VALUE NOW [0] [0] [2554]
+
+END
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2558]
+
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198403731875 Name: Malav Character: Malav Ping: 39
+PlayerID: 76561198133535023 Name: Emil`) Character: Адель Гиниятулли Ping: 109
+
+Client has executed command "bans"
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27039223
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 29919501
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 29919517
+PlayerID: 76561198408019916
+JudgeID: 76561198237123262
+Reason: raid Duration: 604800 Remaining: 271848
+PlayerID: 76561198366284525
+JudgeID: 76561198237123262
+Reason: REKLAMA Duration: 604800 Remaining: 450017
+Client has executed command "GET NOW"
+ServerControl >> VALUE NOW [0] [0] [2568]
+
+END
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2571]
+
+Connecting: PlayerID: 76561198416514639 Name: Aulak Character: Aulak
+
+Aulak connected with IP 176.56.5.209
+
+END
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2578]
+
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198403731875 Name: Malav Character: Malav Ping: 42
+PlayerID: 76561198133535023 Name: Emil`) Character: Адель Гиниятулли Ping: 101
+PlayerID: 76561198416514639 Name: Aulak Character: Aulak Ping: 50
+
+GET NOW
+END
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2581]
+
+Client has executed command "bans"
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27039201
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 29919479
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 29919495
+PlayerID: 76561198408019916
+JudgeID: 76561198237123262
+Reason: raid Duration: 604800 Remaining: 271826
+PlayerID: 76561198366284525
+JudgeID: 76561198237123262
+Reason: REKLAMA Duration: 604800 Remaining: 449995
+
+END
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2588]
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2591]
+
+Client has executed command "GET NOW"
+ServerControl >> VALUE NOW [0] [0] [2598]
+
+Client has executed command "players"
+Players:
+PlayerID: 76561198403731875 Name: Malav Character: Malav Ping: 54
+PlayerID: 76561198133535023 Name: Emil`) Character: Адель Гиниятулли Ping: 101
+PlayerID: 76561198416514639 Name: Aulak Character: Aulak Ping: 136
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2601]
+
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27039181
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 29919459
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 29919475
+PlayerID: 76561198408019916
+JudgeID: 76561198237123262
+Reason: raid Duration: 604800 Remaining: 271806
+PlayerID: 76561198366284525
+JudgeID: 76561198237123262
+Reason: REKLAMA Duration: 604800 Remaining: 449975
+
+END
+END
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2608]
+
+MessageAnnouncer >> Broadcast: Наберите /kit start, чтобы получить стартовый набор (еда, вода, топор)
+
+MessageAnnouncer >> Наберите /kit start, чтобы получить стартовый набор (еда, вода, топор)
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2611]
+
+Client has executed command "GET NOW"
+ServerControl >> VALUE NOW [0] [0] [2618]
+
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198403731875 Name: Malav Character: Malav Ping: 35
+PlayerID: 76561198133535023 Name: Emil`) Character: Адель Гиниятулли Ping: 93
+PlayerID: 76561198416514639 Name: Aulak Character: Aulak Ping: 97
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2621]
+
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27039161
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 29919439
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 29919455
+PlayerID: 76561198408019916
+JudgeID: 76561198237123262
+Reason: raid Duration: 604800 Remaining: 271786
+PlayerID: 76561198366284525
+JudgeID: 76561198237123262
+Reason: REKLAMA Duration: 604800 Remaining: 449955
+
+END
+END
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2628]
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2632]
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2638]
+
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198403731875 Name: Malav Character: Malav Ping: 50
+PlayerID: 76561198133535023 Name: Emil`) Character: Адель Гиниятулли Ping: 97
+PlayerID: 76561198416514639 Name: Aulak Character: Aulak Ping: 62
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2642]
+
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27039141
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 29919419
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 29919435
+PlayerID: 76561198408019916
+JudgeID: 76561198237123262
+Reason: raid Duration: 604800 Remaining: 271766
+PlayerID: 76561198366284525
+JudgeID: 76561198237123262
+Reason: REKLAMA Duration: 604800 Remaining: 449935
+
+END
+END
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2648]
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2652]
+
+Connecting: PlayerID: 76561198315561906 Name: MaXiMuS Character: MaXiMuS
+
+MaXiMuS connected with IP 95.29.82.9
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2658]
+

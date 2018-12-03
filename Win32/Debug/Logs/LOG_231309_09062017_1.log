@@ -1,0 +1,266 @@
+Не обработано: RocketRcon v2.4.8.0
+RocketRcon v2.4.8.0
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198329269141 Name: Iliyas Character: Iliyas Ping: 82
+PlayerID: 76561198278360341 Name: AcademeG Character: AcademeG Ping: 89
+PlayerID: 76561198268161521 Name: DOMIK Character: Listiger_wolf2 Ping: 54
+PlayerID: 76561198391815543 Name: dinorendulic03 Character: dinorendulic03 Ping: 133
+PlayerID: 76561198326929390 Name: kuki Character: soliclukas Ping: 100
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294117017
+
+END with Bans:
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198329269141 Name: Iliyas Character: Iliyas Ping: 89
+PlayerID: 76561198278360341 Name: AcademeG Character: AcademeG Ping: 86
+PlayerID: 76561198268161521 Name: DOMIK Character: Listiger_wolf2 Ping: 48
+PlayerID: 76561198391815543 Name: dinorendulic03 Character: dinorendulic03 Ping: 169
+PlayerID: 76561198326929390 Name: kuki Character: soliclukas Ping: 98
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294116997
+
+END with Bans:
+Connecting: PlayerID: 76561198328833823 Name: TacoRobot04 Character: TacoRobot04
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198329269141 Name: Iliyas Character: Iliyas Ping: 114
+PlayerID: 76561198278360341 Name: AcademeG Character: AcademeG Ping: 97
+PlayerID: 76561198268161521 Name: DOMIK Character: Listiger_wolf2 Ping: 55
+PlayerID: 76561198391815543 Name: dinorendulic03 Character: dinorendulic03 Ping: 160
+PlayerID: 76561198326929390 Name: kuki Character: soliclukas Ping: 96
+PlayerID: 76561198328833823 Name: TacoRobot04 Character: TacoRobot04 Ping: 48
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294116977
+
+END with Bans:
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198329269141 Name: Iliyas Character: Iliyas Ping: 92
+PlayerID: 76561198278360341 Name: AcademeG Character: AcademeG Ping: 84
+PlayerID: 76561198268161521 Name: DOMIK Character: Listiger_wolf2 Ping: 54
+PlayerID: 76561198391815543 Name: dinorendulic03 Character: dinorendulic03 Ping: 169
+PlayerID: 76561198326929390 Name: kuki Character: soliclukas Ping: 100
+PlayerID: 76561198328833823 Name: TacoRobot04 Character: TacoRobot04 Ping: 197
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294116957
+
+END with Bans:
+[Area] TacoRobot04 [TacoRobot04]: "@give tacorobot04/1481"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198329269141 Name: Iliyas Character: Iliyas Ping: 98
+PlayerID: 76561198278360341 Name: AcademeG Character: AcademeG Ping: 69
+PlayerID: 76561198268161521 Name: DOMIK Character: Listiger_wolf2 Ping: 53
+PlayerID: 76561198391815543 Name: dinorendulic03 Character: dinorendulic03 Ping: 144
+PlayerID: 76561198326929390 Name: kuki Character: soliclukas Ping: 102
+PlayerID: 76561198328833823 Name: TacoRobot04 Character: TacoRobot04 Ping: 210
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294116937
+
+END with Bans:
+[Group] TacoRobot04 [TacoRobot04]: "kolkj"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198329269141 Name: Iliyas Character: Iliyas Ping: 93
+PlayerID: 76561198278360341 Name: AcademeG Character: AcademeG Ping: 94
+PlayerID: 76561198268161521 Name: DOMIK Character: Listiger_wolf2 Ping: 54
+PlayerID: 76561198391815543 Name: dinorendulic03 Character: dinorendulic03 Ping: 146
+PlayerID: 76561198326929390 Name: kuki Character: soliclukas Ping: 99
+PlayerID: 76561198328833823 Name: TacoRobot04 Character: TacoRobot04 Ping: 203
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294116917
+
+END with Bans:
+Disconnecting: PlayerID: 76561198328833823 Name: TacoRobot04 Character: TacoRobot04
+
+Не обработано: PlayerInfoLib >> No expired player info records found for this batch.
+PlayerInfoLib >> No expired player info records found for this batch.
+
+Не обработано: Saving server
+Saving server
+
+Не обработано: MessageAnnouncer >> Broadcast: vk.com/hemulgm - ЕДИНСТВЕННЫЙ администратор сервера
+MessageAnnouncer >> Broadcast: vk.com/hemulgm - ЕДИНСТВЕННЫЙ администратор сервера
+
+Не обработано: MessageAnnouncer >> vk.com/hemulgm - ЕДИНСТВЕННЫЙ администратор сервера
+MessageAnnouncer >> vk.com/hemulgm - ЕДИНСТВЕННЫЙ администратор сервера
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198329269141 Name: Iliyas Character: Iliyas Ping: 85
+PlayerID: 76561198278360341 Name: AcademeG Character: AcademeG Ping: 85
+PlayerID: 76561198268161521 Name: DOMIK Character: Listiger_wolf2 Ping: 56
+PlayerID: 76561198391815543 Name: dinorendulic03 Character: dinorendulic03 Ping: 162
+PlayerID: 76561198326929390 Name: kuki Character: soliclukas Ping: 110
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294116897
+
+END with Bans:
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198329269141 Name: Iliyas Character: Iliyas Ping: 72
+PlayerID: 76561198278360341 Name: AcademeG Character: AcademeG Ping: 74
+PlayerID: 76561198268161521 Name: DOMIK Character: Listiger_wolf2 Ping: 61
+PlayerID: 76561198391815543 Name: dinorendulic03 Character: dinorendulic03 Ping: 161
+PlayerID: 76561198326929390 Name: kuki Character: soliclukas Ping: 103
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294116877
+
+END with Bans:
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198329269141 Name: Iliyas Character: Iliyas Ping: 104
+PlayerID: 76561198278360341 Name: AcademeG Character: AcademeG Ping: 90
+PlayerID: 76561198268161521 Name: DOMIK Character: Listiger_wolf2 Ping: 58
+PlayerID: 76561198391815543 Name: dinorendulic03 Character: dinorendulic03 Ping: 158
+PlayerID: 76561198326929390 Name: kuki Character: soliclukas Ping: 98
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294116857
+
+END with Bans:
+Disconnecting: PlayerID: 76561198329269141 Name: Iliyas Character: Iliyas
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198278360341 Name: AcademeG Character: AcademeG Ping: 90
+PlayerID: 76561198268161521 Name: DOMIK Character: Listiger_wolf2 Ping: 56
+PlayerID: 76561198391815543 Name: dinorendulic03 Character: dinorendulic03 Ping: 157
+PlayerID: 76561198326929390 Name: kuki Character: soliclukas Ping: 101
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294116837
+
+END with Bans:
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198278360341 Name: AcademeG Character: AcademeG Ping: 81
+PlayerID: 76561198268161521 Name: DOMIK Character: Listiger_wolf2 Ping: 53
+PlayerID: 76561198391815543 Name: dinorendulic03 Character: dinorendulic03 Ping: 145
+PlayerID: 76561198326929390 Name: kuki Character: soliclukas Ping: 134
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294116817
+
+END with Bans:
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198278360341 Name: AcademeG Character: AcademeG Ping: 80
+PlayerID: 76561198268161521 Name: DOMIK Character: Listiger_wolf2 Ping: 49
+PlayerID: 76561198391815543 Name: dinorendulic03 Character: dinorendulic03 Ping: 131
+PlayerID: 76561198326929390 Name: kuki Character: soliclukas Ping: 117
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294116797
+
+END with Bans:

@@ -1,0 +1,35 @@
+11.07.2017 15:30:08: ClientSocketLookup
+11.07.2017 15:30:08: ClientSocketConnecting
+11.07.2017 15:30:09: ClientSocketConnect
+11.07.2017 15:30:09: ClientSocketWrite
+13.07.2017 20:43:58: ClientSocketError Соединение прервано
+13.07.2017 20:43:58: ClientSocketError eeSend
+13.07.2017 20:43:58: ClientSocketDisconnect
+14.07.2017 7:54:11: ClientSocketLookup
+14.07.2017 7:54:11: ClientSocketConnecting
+14.07.2017 7:54:11: ClientSocketConnect
+14.07.2017 7:54:11: ClientSocketWrite
+15.07.2017 0:11:43: ClientSocketError Соединение прервано
+15.07.2017 0:11:48: ClientSocketError eeSend
+15.07.2017 0:11:48: ClientSocketDisconnect
+17.07.2017 9:05:10: ClientSocketLookup
+17.07.2017 9:05:10: ClientSocketConnecting
+17.07.2017 9:05:10: ClientSocketConnect
+17.07.2017 9:05:10: ClientSocketWrite
+18.07.2017 0:37:16: ClientSocketError Соединение прервано
+18.07.2017 0:37:16: ClientSocketError eeSend
+18.07.2017 0:37:16: ClientSocketDisconnect
+18.07.2017 16:21:05: ClientSocketLookup
+18.07.2017 16:21:05: ClientSocketConnecting
+18.07.2017 16:21:05: ClientSocketConnect
+18.07.2017 16:21:05: ClientSocketWrite
+18.07.2017 16:24:13: ClientSocketDisconnect
+18.07.2017 16:24:13: ClientSocketLookup
+18.07.2017 16:24:13: ClientSocketConnecting
+18.07.2017 16:24:13: ClientSocketConnect
+18.07.2017 16:24:13: ClientSocketWrite
+18.07.2017 16:24:34: ClientSocketDisconnect
+18.07.2017 16:24:34: ClientSocketLookup
+18.07.2017 16:24:34: ClientSocketConnecting
+18.07.2017 16:24:34: ClientSocketConnect
+18.07.2017 16:24:34: ClientSocketWrite

@@ -1,0 +1,17 @@
+16.11.2017 15:36:13: Не обработано: ServerControl >> Broadcast: Аирдроп через 1 ч. 40 м.
+16.11.2017 15:38:00: Не обработано: zohan moved x:-133.2594 y:66.26624(+27.78892) z:943.5764 in the last second (1)
+16.11.2017 15:46:13: Не обработано: ServerControl >> Broadcast: Аирдроп через 1 ч. 30 м.
+16.11.2017 15:47:12: Не обработано: zohan moved x:-122.9815 y:62.54863(+19.95251) z:940.1894 in the last second (0.1423759)
+16.11.2017 15:51:14: Не обработано: Позитив moved x:882.5487 y:75.47915(+36.39035) z:504.4428 in the last second (0.1058578)
+16.11.2017 15:53:44: Не обработано: Failed to convert heli into an ItemID.
+16.11.2017 15:54:18: Не обработано: Failed to convert heli into a VehicleID.
+16.11.2017 15:56:13: Не обработано: ServerControl >> Broadcast: Аирдроп через 1 ч. 20 м.
+16.11.2017 15:56:23: Не обработано: Nick_Hunter[RUS] moved x:-288.4317 y:54.90841(+16.13108) z:-299.8192 in the last second (0.09999466)
+16.11.2017 16:00:26: Не обработано: SqlNullValueException: Data is Null. This method or property cannot be called on Null values. - MySql.Data.MySqlClient.MySqlDataReader.GetFieldValue (Int32 index, Boolean checkNull)
+16.11.2017 16:00:26: Не обработано: MySql.Data.MySqlClient.MySqlDataReader.GetString (Int32 i)
+16.11.2017 16:00:26: Не обработано: MySql.Data.MySqlClient.MySqlDataReader.GetString (System.String column)
+16.11.2017 16:00:26: Не обработано: (wrapper remoting-invoke-with-check) MySql.Data.MySqlClient.MySqlDataReader:GetString (string)
+16.11.2017 16:00:26: Не обработано: PlayerInfoLibrary.DatabaseManager.PrecessExpiredPInfo ()
+16.11.2017 16:00:26: Не обработано: PlayerInfoLibrary.PlayerInfoLib.FixedUpdate ()
+16.11.2017 16:00:26: Сохранение сервера
+16.11.2017 16:00:37: Не обработано: He_TTpugyMaJl_Huk [He_TTpugyMaJl_Huk] was blown up by a vehicle!

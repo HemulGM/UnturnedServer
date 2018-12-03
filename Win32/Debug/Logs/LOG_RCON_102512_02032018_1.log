@@ -1,0 +1,74 @@
+RocketRcon v2.4.8.0
+
+login aVIPs22031994
+players
+Client has executed command "players"
+Players:
+PlayerID: 76561198423084997 Name: FACE Character: Элджей Ping: 125
+PlayerID: 76561198818151252 Name: vladimirtkacenko06 Character: Вова Ping: 148
+PlayerID: 76561198290478364 Name: Mr.Web56 Character: Webчик  Ping: 218
+PlayerID: 76561198360377554 Name: xiaohe_yezys Character: xiaohe_yezys Ping: 300
+Client has executed command "bans"
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 19460966
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 22341244
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 22341260
+PlayerID: 76561198441524917
+JudgeID: 76561198237123262
+Reason: 100000 Duration: 31536000 Remaining: 27432426
+PlayerID: 76561198446923945
+JudgeID: 76561198237123262
+Reason: 60000 Duration: 31536000 Remaining: 28007390
+
+END
+[World] Webчик  [Mr.Web56]: "/give 3506"
+
+END
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198423084997 Name: FACE Character: Элджей Ping: 125
+PlayerID: 76561198818151252 Name: vladimirtkacenko06 Character: Вова Ping: 136
+PlayerID: 76561198290478364 Name: Mr.Web56 Character: Webчик  Ping: 218
+PlayerID: 76561198360377554 Name: xiaohe_yezys Character: xiaohe_yezys Ping: 316
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [1123]
+
+END
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 19460960
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 22341238
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 22341254
+PlayerID: 76561198441524917
+JudgeID: 76561198237123262
+Reason: 100000 Duration: 31536000 Remaining: 27432420
+PlayerID: 76561198446923945
+JudgeID: 76561198237123262
+Reason: 60000 Duration: 31536000 Remaining: 28007384
+
+END
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [1130]
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [1133]
+

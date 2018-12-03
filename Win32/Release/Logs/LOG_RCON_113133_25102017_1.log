@@ -1,0 +1,20 @@
+25.10.2017 11:31:41: Не обработано: andre180305s p_perm: sell, p, rules, r, donat, vk, home(60), tpa.*, kit, kit.start, kit.help, kit.claim, kit.hgm1, kits, report, balance, buy, cost, exchange, pm, reply, pay, checkowner
+25.10.2017 11:31:44: Не обработано: Игрок andre180305 не был найден
+25.10.2017 11:31:46: Не обработано: andre180305s p_perm: sell, p, rules, r, donat, vk, home(60), tpa.*, kit, kit.start, kit.help, kit.claim, kit.hgm1, kits, report, balance, buy, cost, exchange, pm, reply, pay, checkowner
+25.10.2017 11:31:47: Не обработано: andre180305s p_perm: sell, p, rules, r, donat, vk, home(60), tpa.*, kit, kit.start, kit.help, kit.claim, kit.hgm1, kits, report, balance, buy, cost, exchange, pm, reply, pay, checkowner
+25.10.2017 11:31:47: Не обработано: andre180305s p_perm: sell, p, rules, r, donat, vk, home(60), tpa.*, kit, kit.start, kit.help, kit.claim, kit.hgm1, kits, report, balance, buy, cost, exchange, pm, reply, pay, checkowner
+25.10.2017 11:31:47: Не обработано: andre180305s p_perm: sell, p, rules, r, donat, vk, home(60), tpa.*, kit, kit.start, kit.help, kit.claim, kit.hgm1, kits, report, balance, buy, cost, exchange, pm, reply, pay, checkowner
+25.10.2017 11:31:48: Не обработано: andre180305s p_perm: sell, p, rules, r, donat, vk, home(60), tpa.*, kit, kit.start, kit.help, kit.claim, kit.hgm1, kits, report, balance, buy, cost, exchange, pm, reply, pay, checkowner
+25.10.2017 11:31:48: Не обработано: andre180305s p_perm: sell, p, rules, r, donat, vk, home(60), tpa.*, kit, kit.start, kit.help, kit.claim, kit.hgm1, kits, report, balance, buy, cost, exchange, pm, reply, pay, checkowner
+25.10.2017 11:31:48: Не обработано: andre180305s p_perm: sell, p, rules, r, donat, vk, home(60), tpa.*, kit, kit.start, kit.help, kit.claim, kit.hgm1, kits, report, balance, buy, cost, exchange, pm, reply, pay, checkowner
+25.10.2017 11:31:59: Не обработано: SqlNullValueException: Data is Null. This method or property cannot be called on Null values. - MySql.Data.MySqlClient.MySqlDataReader.GetFieldValue (Int32 index, Boolean checkNull)
+25.10.2017 11:31:59: Не обработано: MySql.Data.MySqlClient.MySqlDataReader.GetString (Int32 i)
+25.10.2017 11:31:59: Не обработано: MySql.Data.MySqlClient.MySqlDataReader.GetString (System.String column)
+25.10.2017 11:31:59: Не обработано: (wrapper remoting-invoke-with-check) MySql.Data.MySqlClient.MySqlDataReader:GetString (string)
+25.10.2017 11:31:59: Не обработано: PlayerInfoLibrary.DatabaseManager.PrecessExpiredPInfo ()
+25.10.2017 11:31:59: Не обработано: PlayerInfoLibrary.PlayerInfoLib.FixedUpdate ()
+25.10.2017 11:31:59: Не обработано: Игрок andre180305 не был найден
+25.10.2017 11:32:33: Не обработано: ChatControl >> Broadcast: Аирдроп через 3 ч. 30 м.
+25.10.2017 11:32:47: Не обработано: Игрок andre180305 не был найден
+25.10.2017 11:33:02: Не обработано: andre180305 был добавлен к группе moderators
+25.10.2017 11:33:14: Не обработано: andre180305 был удалён из группы moderators

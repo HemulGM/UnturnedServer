@@ -1,0 +1,65 @@
+Не обработано: RocketRcon v2.4.8.0
+RocketRcon v2.4.8.0
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198341997660 Name: Dimacvit1996 Character: Dimacvit1996 Ping: 78
+PlayerID: 76561198305732269 Name: Owl Character: Owl Ping: 78
+PlayerID: 76561198389415200 Name: Andrew Lavrinets Character: Andrew Ping: 125
+PlayerID: 76561198309008539 Name: NOOO-SENPAI... Character: Сенпай Ping: 39
+PlayerID: 76561198123840535 Name: ?????? Character: top Ping: 109
+PlayerID: 76561198151655003 Name: HemulGM Character: HemulGM Ping: 7
+PlayerID: 76561198297629847 Name: VeZuN4iK Character: DeN Ping: 78
+PlayerID: 76561198147477828 Name: galbatsovmikail Character: galbatsovmikail Ping: 62
+PlayerID: 76561198390219785 Name: emokacper110 Character: emokacper110 Ping: 125
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 54
+
+TimerTerminateCommand.Enabled with Players:
+Client has executed command "say "(""
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294312865
+
+END with Bans:
+[World] top [??????]: "/kit hgm1"
+
+Disconnecting: PlayerID: 76561198389415200 Name: Andrew Lavrinets Character: Andrew
+
+[World] top [??????]: "/kit start"
+
+[World] Dimacvit1996 [Dimacvit1996]: "/home"
+
+Client has executed command "players"
+
+Не обработано: Dimacvit1996 moved x:-925.2432 y:78.62634(+39.68122) z:-541.9616 in the last second (0.2379227)
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198341997660 Name: Dimacvit1996 Character: Dimacvit1996 Ping: 70
+PlayerID: 76561198305732269 Name: Owl Character: Owl Ping: 62
+PlayerID: 76561198309008539 Name: NOOO-SENPAI... Character: Сенпай Ping: 39
+PlayerID: 76561198123840535 Name: ?????? Character: top Ping: 156
+PlayerID: 76561198151655003 Name: HemulGM Character: HemulGM Ping: 15
+PlayerID: 76561198297629847 Name: VeZuN4iK Character: DeN Ping: 54
+PlayerID: 76561198147477828 Name: galbatsovmikail Character: galbatsovmikail Ping: 85
+PlayerID: 76561198390219785 Name: emokacper110 Character: emokacper110 Ping: 156
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 39
+Dimacvit1996 moved x:-925.2432 y:78.62634(+39.68122) z:-541.9616 in the last second (0.2379227)
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294312841
+
+END with Bans:

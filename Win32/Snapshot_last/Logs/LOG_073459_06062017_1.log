@@ -1,0 +1,399 @@
+Не обработано: RocketRcon v2.4.8.0
+RocketRcon v2.4.8.0
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198345092267 Name: demid3450 Character: [гл террористов] демид журавлёв Ping: 125
+PlayerID: 76561198262878051 Name: Kolder Character: Kolder Ping: 50
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 123123
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 30968337
+PlayerID: 123
+JudgeID: 0
+Reason: durila Duration: 4000 Remaining: 4294404131
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294432504
+
+END with Bans:
+Disconnecting: PlayerID: 76561198262878051 Name: Kolder Character: Kolder
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198345092267 Name: demid3450 Character: [гл террористов] демид журавлёв Ping: 117
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 123123
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 30968317
+PlayerID: 123
+JudgeID: 0
+Reason: durila Duration: 4000 Remaining: 4294404111
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294432484
+
+END with Bans:
+Не обработано: MessageAnnouncer >> Broadcast: vk.com/hemulgm - ЕДИНСТВЕННЫЙ администратор сервера
+MessageAnnouncer >> Broadcast: vk.com/hemulgm - ЕДИНСТВЕННЫЙ администратор сервера
+
+Не обработано: MessageAnnouncer >> vk.com/hemulgm - ЕДИНСТВЕННЫЙ администратор сервера
+MessageAnnouncer >> vk.com/hemulgm - ЕДИНСТВЕННЫЙ администратор сервера
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198345092267 Name: demid3450 Character: [гл террористов] демид журавлёв Ping: 140
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 123123
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 30968297
+PlayerID: 123
+JudgeID: 0
+Reason: durila Duration: 4000 Remaining: 4294404091
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294432464
+
+END with Bans:
+Client has executed command "heal 76561198345092267"
+
+Не обработано: [гл террористов] демид журавлёв был исцелён
+[гл террористов] демид журавлёв был исцелён
+
+[World] [гл террористов] демид журавлёв [demid3450]: "ааааааааааааааа"
+
+[World] [гл террористов] демид журавлёв [demid3450]: "тут чо консоль есть"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198345092267 Name: demid3450 Character: [гл террористов] демид журавлёв Ping: 136
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 123123
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 30968277
+PlayerID: 123
+JudgeID: 0
+Reason: durila Duration: 4000 Remaining: 4294404071
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294432444
+
+END with Bans:
+Client has executed command "say "Aga""
+
+[World] [гл террористов] демид журавлёв [demid3450]: "а я незнал"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198345092267 Name: demid3450 Character: [гл террористов] демид журавлёв Ping: 140
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 123123
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 30968257
+PlayerID: 123
+JudgeID: 0
+Reason: durila Duration: 4000 Remaining: 4294404051
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294432424
+
+END with Bans:
+[World] [гл террористов] демид журавлёв [demid3450]: "раз ты тут есть жалоьа"
+
+[World] [гл террористов] демид журавлёв [demid3450]: "меня зарейдили"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198345092267 Name: demid3450 Character: [гл террористов] демид журавлёв Ping: 140
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 123123
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 30968237
+PlayerID: 123
+JudgeID: 0
+Reason: durila Duration: 4000 Remaining: 4294404031
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294432404
+
+END with Bans:
+Client has executed command "say "Kto, znaesh'?""
+
+[World] [гл террористов] демид журавлёв [demid3450]: "сказать всё подробно"
+
+[World] [гл террористов] демид журавлёв [demid3450]: "я знаю кто"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198345092267 Name: demid3450 Character: [гл террористов] демид журавлёв Ping: 128
+
+TimerTerminateCommand.Enabled with Players:
+Client has executed command "say "Skriny est'?""
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 123123
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 30968216
+PlayerID: 123
+JudgeID: 0
+Reason: durila Duration: 4000 Remaining: 4294404010
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294432383
+
+END with Bans:
+[World] [гл террористов] демид журавлёв [demid3450]: "это kolder и expert"
+
+[World] [гл террористов] демид журавлёв [demid3450]: "скрины есть"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198345092267 Name: demid3450 Character: [гл террористов] демид журавлёв Ping: 121
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 123123
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 30968197
+PlayerID: 123
+JudgeID: 0
+Reason: durila Duration: 4000 Remaining: 4294403991
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294432364
+[World] [гл террористов] демид журавлёв [demid3450]: "я уже в группу кидал"
+
+TimerTerminateCommand.Enabled with Bans:
+Client has executed command "players"
+
+END with Bans:
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198345092267 Name: demid3450 Character: [гл террористов] демид журавлёв Ping: 125
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 123123
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 30968193
+PlayerID: 123
+JudgeID: 0
+Reason: durila Duration: 4000 Remaining: 4294403987
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294432360
+
+END with Bans:
+[World] [гл террористов] демид журавлёв [demid3450]: "вот уже 2 неделя идёт"
+
+Не обработано: MessageAnnouncer >> Broadcast: Используйте /report [ник], чтобы отправить жалобу на игрока
+MessageAnnouncer >> Broadcast: Используйте /report [ник], чтобы отправить жалобу на игрока
+
+Не обработано: MessageAnnouncer >> Используйте /report [ник], чтобы отправить жалобу на игрока
+MessageAnnouncer >> Используйте /report [ник], чтобы отправить жалобу на игрока
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198345092267 Name: demid3450 Character: [гл террористов] демид журавлёв Ping: 121
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 123123
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 30968177
+PlayerID: 123
+JudgeID: 0
+Reason: durila Duration: 4000 Remaining: 4294403971
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294432344
+
+TimerTerminateCommand.Enabled with Bans:
+[World] [гл террористов] демид журавлёв [demid3450]: "а ничего не произошло"
+
+END with Bans:
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198345092267 Name: demid3450 Character: [гл террористов] демид журавлёв Ping: 125
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 123123
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 30968157
+PlayerID: 123
+JudgeID: 0
+Reason: durila Duration: 4000 Remaining: 4294403951
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294432324
+
+END with Bans:
+[World] [гл террористов] демид журавлёв [demid3450]: "и опять я на серве один как всегда"
+
+[World] [гл террористов] демид журавлёв [demid3450]: "/tpa con"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198345092267 Name: demid3450 Character: [гл террористов] демид журавлёв Ping: 117
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 123123
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 30968137
+PlayerID: 123
+JudgeID: 0
+Reason: durila Duration: 4000 Remaining: 4294403931
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294432304
+
+END with Bans:
+[World] [гл террористов] демид журавлёв [demid3450]: "меня ещё на карте гаваи рейдили"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198345092267 Name: demid3450 Character: [гл террористов] демид журавлёв Ping: 128
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 123123
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 30968117
+PlayerID: 123
+JudgeID: 0
+Reason: durila Duration: 4000 Remaining: 4294403911
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294432284
+
+END with Bans:
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198345092267 Name: demid3450 Character: [гл террористов] демид журавлёв Ping: 117
+
+TimerTerminateCommand.Enabled with Players:
+Client has executed command "say "Esli est' skriny, to kiday""
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 123123
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 30968096
+PlayerID: 123
+JudgeID: 0
+Reason: durila Duration: 4000 Remaining: 4294403890
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294432263
+
+END with Bans:
+[World] [гл террористов] демид журавлёв [demid3450]: "я уже кинул 2 недели назад"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198345092267 Name: demid3450 Character: [гл террористов] демид журавлёв Ping: 121
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 123123
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 30968077
+PlayerID: 123
+JudgeID: 0
+Reason: durila Duration: 4000 Remaining: 4294403871
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294432244
+
+TimerTerminateCommand.Enabled with Bans:
+[World] [гл террористов] демид журавлёв [demid3450]: "жду ихнего бана"
+
+END with Bans:

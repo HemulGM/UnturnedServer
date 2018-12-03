@@ -1,0 +1,23 @@
+16.11.2017 10:20:11: Не обработано: ServerControl >> Broadcast: Аирдроп через 4 ч. 40 м.
+16.11.2017 10:26:01: Не обработано: ServerControl >> Broadcast: Я рад)
+16.11.2017 10:26:23: Не обработано: ServerControl >> Broadcast: Мафия
+16.11.2017 10:26:39: Не обработано: ServerControl >> Broadcast: А ты в курсе, что ты на него уже заходил
+16.11.2017 10:26:40: Не обработано: ServerControl >> Broadcast: Раньше
+16.11.2017 10:26:58: Не обработано: ServerControl >> Broadcast: Ага
+16.11.2017 10:27:07: Не обработано: ServerControl >> Broadcast: Минимум месяцев 5-6 назад
+16.11.2017 10:27:12: Не обработано: ServerControl >> Broadcast: А то и раньше
+16.11.2017 10:27:44: Не обработано: ServerControl >> Broadcast: И кстати. Этот сервер находится в ЕКБ
+16.11.2017 10:30:08: Не обработано: мафия   s p_perm: sell, p, rules, r, donat, site, vk, home(60), tpa.*, kit, kit.start, kit.map, kit.help, kit.claim, kit.hgm1, kits, report, balance, buy, cost, exchange, pm, reply, pay, checkowner
+16.11.2017 10:30:10: Не обработано: Egors p_perm: sell, p, rules, r, donat, site, vk, home(60), tpa.*, kit, kit.start, kit.map, kit.help, kit.claim, kit.hgm1, kits, report, balance, buy, cost, exchange, pm, reply, pay, checkowner
+16.11.2017 10:30:11: Не обработано: ServerControl >> Broadcast: Аирдроп через 4 ч. 30 м.
+16.11.2017 10:30:34: Не обработано: мафия   s p_perm: sell, p, rules, r, donat, site, vk, home(60), tpa.*, kit, kit.start, kit.map, kit.help, kit.claim, kit.hgm1, kits, report, balance, buy, cost, exchange, pm, reply, pay, checkowner
+16.11.2017 10:30:37: Не обработано: Egors p_perm: sell, p, rules, r, donat, site, vk, home(60), tpa.*, kit, kit.start, kit.map, kit.help, kit.claim, kit.hgm1, kits, report, balance, buy, cost, exchange, pm, reply, pay, checkowner
+16.11.2017 10:33:02: Не обработано: SqlNullValueException: Data is Null. This method or property cannot be called on Null values. - MySql.Data.MySqlClient.MySqlDataReader.GetFieldValue (Int32 index, Boolean checkNull)
+16.11.2017 10:33:02: Не обработано: MySql.Data.MySqlClient.MySqlDataReader.GetString (Int32 i)
+16.11.2017 10:33:02: Не обработано: MySql.Data.MySqlClient.MySqlDataReader.GetString (System.String column)
+16.11.2017 10:33:02: Не обработано: (wrapper remoting-invoke-with-check) MySql.Data.MySqlClient.MySqlDataReader:GetString (string)
+16.11.2017 10:33:02: Не обработано: PlayerInfoLibrary.DatabaseManager.PrecessExpiredPInfo ()
+16.11.2017 10:33:02: Не обработано: PlayerInfoLibrary.PlayerInfoLib.FixedUpdate ()
+16.11.2017 10:33:03: Сохранение сервера
+16.11.2017 10:40:11: Не обработано: ServerControl >> Broadcast: Аирдроп через 4 ч. 20 м.
+16.11.2017 10:47:04: Не обработано: мафия    moved x:-723.3873 y:50.40784(+19.91082) z:-492.1321 in the last second (1)

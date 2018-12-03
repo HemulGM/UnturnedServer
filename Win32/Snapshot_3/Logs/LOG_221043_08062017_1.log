@@ -1,0 +1,197 @@
+Не обработано: RocketRcon v2.4.8.0
+RocketRcon v2.4.8.0
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198114070067 Name: Маг1стрЙ0да- Character: Samurai Ping: 31
+PlayerID: 76561198305732269 Name: Owl Character: Owl Ping: 54
+PlayerID: 76561198152466685 Name: Blaster006 Character: Blaster006 Ping: 46
+PlayerID: 76561198261276323 Name: Phantom Character: Phantom Ping: 132
+PlayerID: 76561198199039913 Name: VirusShow Character: VirusShow Ping: 46
+PlayerID: 76561198261527485 Name: Shadovprise Character: Shadovprise Ping: 62
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 31
+PlayerID: 76561198165822970 Name: Indigo Character: Indigo Ping: 31
+PlayerID: 76561198128074009 Name: Barash-IQ(11) Character: Barash-IQ Ping: 117
+PlayerID: 76561198291118006 Name: Mord_Fustang Character: Tank Ping: 54
+PlayerID: 76561198304586110 Name: Ty Nik Character: Ty Nik Ping: 31
+PlayerID: 76561198219949308 Name: InterfaceGamer Character: Carlinhos Ping: 375
+PlayerID: 76561198177412437 Name: korak Character: korak Ping: 132
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294207160
+
+END with Bans:
+Не обработано: MessageAnnouncer >> Broadcast: Наберите /kit claim, чтобы получить Claim Flag
+MessageAnnouncer >> Broadcast: Наберите /kit claim, чтобы получить Claim Flag
+
+Не обработано: MessageAnnouncer >> Наберите /kit claim, чтобы получить Claim Flag
+MessageAnnouncer >> Наберите /kit claim, чтобы получить Claim Flag
+
+Client has executed command "say "Tekst krasnyy?" 255 0 0"
+
+[World] Indigo [Indigo]: "да"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198114070067 Name: Маг1стрЙ0да- Character: Samurai Ping: 39
+PlayerID: 76561198305732269 Name: Owl Character: Owl Ping: 62
+PlayerID: 76561198152466685 Name: Blaster006 Character: Blaster006 Ping: 62
+PlayerID: 76561198261276323 Name: Phantom Character: Phantom Ping: 171
+PlayerID: 76561198199039913 Name: VirusShow Character: VirusShow Ping: 46
+PlayerID: 76561198261527485 Name: Shadovprise Character: Shadovprise Ping: 85
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 31
+PlayerID: 76561198165822970 Name: Indigo Character: Indigo Ping: 39
+PlayerID: 76561198128074009 Name: Barash-IQ(11) Character: Barash-IQ Ping: 93
+PlayerID: 76561198291118006 Name: Mord_Fustang Character: Tank Ping: 78
+PlayerID: 76561198304586110 Name: Ty Nik Character: Ty Nik Ping: 62
+PlayerID: 76561198219949308 Name: InterfaceGamer Character: Carlinhos Ping: 390
+PlayerID: 76561198177412437 Name: korak Character: korak Ping: 132
+
+TimerTerminateCommand.Enabled with Players:
+Client has executed command "say "Sps" 255 0 0"
+
+TimerTerminateCommand.Enabled with Players:
+[World] Carlinhos [InterfaceGamer]: "/kit claim"
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294207139
+
+END with Bans:
+Client has executed command "heal 76561198165822970"
+
+Не обработано: Indigo был исцелён
+Indigo был исцелён
+
+[World] Carlinhos [InterfaceGamer]: "/shop"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198114070067 Name: Маг1стрЙ0да- Character: Samurai Ping: 46
+PlayerID: 76561198305732269 Name: Owl Character: Owl Ping: 54
+PlayerID: 76561198152466685 Name: Blaster006 Character: Blaster006 Ping: 54
+PlayerID: 76561198261276323 Name: Phantom Character: Phantom Ping: 179
+PlayerID: 76561198199039913 Name: VirusShow Character: VirusShow Ping: 31
+PlayerID: 76561198261527485 Name: Shadovprise Character: Shadovprise Ping: 125
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 46
+PlayerID: 76561198165822970 Name: Indigo Character: Indigo Ping: 78
+PlayerID: 76561198128074009 Name: Barash-IQ(11) Character: Barash-IQ Ping: 101
+PlayerID: 76561198291118006 Name: Mord_Fustang Character: Tank Ping: 320
+PlayerID: 76561198304586110 Name: Ty Nik Character: Ty Nik Ping: 46
+PlayerID: 76561198219949308 Name: InterfaceGamer Character: Carlinhos Ping: 328
+PlayerID: 76561198177412437 Name: korak Character: korak Ping: 156
+
+TimerTerminateCommand.Enabled with Players:
+[World] Samurai [Маг1стрЙ0да-]: "Я не смогу разговаривать по дискорду"
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294207119
+
+END with Bans:
+Connecting: PlayerID: 76561198388763132 Name: Andrei Character: Andreilol1
+
+Client has executed command "say "A seychas?" 0 255 0"
+
+[World] Blaster006 [Blaster006]: "зелёный"
+
+[World] Samurai [Маг1стрЙ0да-]: "Зелёный"
+
+Client has executed command "heal 76561198152466685"
+
+Не обработано: Blaster006 был исцелён
+Blaster006 был исцелён
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198114070067 Name: Маг1стрЙ0да- Character: Samurai Ping: 39
+PlayerID: 76561198305732269 Name: Owl Character: Owl Ping: 39
+PlayerID: 76561198152466685 Name: Blaster006 Character: Blaster006 Ping: 62
+PlayerID: 76561198261276323 Name: Phantom Character: Phantom Ping: 171
+PlayerID: 76561198199039913 Name: VirusShow Character: VirusShow Ping: 39
+PlayerID: 76561198261527485 Name: Shadovprise Character: Shadovprise Ping: 78
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 31
+PlayerID: 76561198165822970 Name: Indigo Character: Indigo Ping: 46
+PlayerID: 76561198128074009 Name: Barash-IQ(11) Character: Barash-IQ Ping: 101
+PlayerID: 76561198291118006 Name: Mord_Fustang Character: Tank Ping: 93
+PlayerID: 76561198304586110 Name: Ty Nik Character: Ty Nik Ping: 31
+PlayerID: 76561198219949308 Name: InterfaceGamer Character: Carlinhos Ping: 312
+PlayerID: 76561198177412437 Name: korak Character: korak Ping: 140
+PlayerID: 76561198388763132 Name: Andrei Character: Andreilol1 Ping: 93
+
+TimerTerminateCommand.Enabled with Players:
+Client has executed command "say "Sps" 0 255 0"
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294207098
+
+TimerTerminateCommand.Enabled with Bans:
+Client has executed command "heal 76561198152466685"
+
+Не обработано: Blaster006 был исцелён
+TimerTerminateCommand.Enabled with Bans:
+Blaster006 был исцелён
+
+END with Bans:
+Disconnecting: PlayerID: 76561198219949308 Name: InterfaceGamer Character: Carlinhos
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198114070067 Name: Маг1стрЙ0да- Character: Samurai Ping: 39
+PlayerID: 76561198305732269 Name: Owl Character: Owl Ping: 54
+PlayerID: 76561198152466685 Name: Blaster006 Character: Blaster006 Ping: 54
+PlayerID: 76561198261276323 Name: Phantom Character: Phantom Ping: 132
+PlayerID: 76561198199039913 Name: VirusShow Character: VirusShow Ping: 39
+PlayerID: 76561198261527485 Name: Shadovprise Character: Shadovprise Ping: 70
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 46
+PlayerID: 76561198165822970 Name: Indigo Character: Indigo Ping: 46
+PlayerID: 76561198128074009 Name: Barash-IQ(11) Character: Barash-IQ Ping: 85
+PlayerID: 76561198291118006 Name: Mord_Fustang Character: Tank Ping: 78
+PlayerID: 76561198304586110 Name: Ty Nik Character: Ty Nik Ping: 46
+PlayerID: 76561198177412437 Name: korak Character: korak Ping: 125
+PlayerID: 76561198388763132 Name: Andrei Character: Andreilol1 Ping: 93
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294207080
+
+END with Bans:
+Connecting: PlayerID: 76561198366152080 Name: Artemkot!ArtAnd Character: vladimir.andreev
+

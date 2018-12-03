@@ -1,0 +1,76 @@
+RocketRcon v2.4.8.0
+
+login aVIPs22031994
+players
+Reason: cheater Duration: 31104000 Remaining: 30973866
+Client has executed command "players"
+Players:
+PlayerID: 76561198366717561 Name: MAXIMUSSSSSSS Character: MAXIMUSSSSSSS Ping: 14
+PlayerID: 76561198301131571 Name: PogChamp Character: Тише Будь! Ping: 226
+PlayerID: 76561198418285364 Name: Sseak CSGOBlocks.Com Character: Maks_Fenlyandno Ping: 214
+PlayerID: 76561198245870076 Name: 0|TheGangstar|0 Character: Nyan Bread Ping: 89
+PlayerID: 76561198114166100 Name: Silence Character: Владимир Пустовой Ping: 76
+PlayerID: 76561198197448591 Name: Носок с ручкой Character: arleta Ping: 153
+
+Не обработано: Reason: cheater Duration: 31104000 Remaining: 30973866
+Client has executed command "bans"
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 28093563
+PlayerID: 76561198336969313
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 208796
+PlayerID: 76561198212486347
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 209127
+PlayerID: 76561198391097237
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 371614
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30973841
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30973857
+
+END
+END
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198366717561 Name: MAXIMUSSSSSSS Character: MAXIMUSSSSSSS Ping: 41
+PlayerID: 76561198301131571 Name: PogChamp Character: Тише Будь! Ping: 220
+PlayerID: 76561198418285364 Name: Sseak CSGOBlocks.Com Character: Maks_Fenlyandno Ping: 205
+PlayerID: 76561198245870076 Name: 0|TheGangstar|0 Character: Nyan Bread Ping: 86
+PlayerID: 76561198114166100 Name: Silence Character: Владимир Пустовой Ping: 75
+PlayerID: 76561198197448591 Name: Носок с ручкой Character: arleta Ping: 142
+
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 28093552
+PlayerID: 76561198336969313
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 208785
+PlayerID: 76561198212486347
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 209116
+PlayerID: 76561198391097237
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 371603
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30973830
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30973846
+
+END
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [1133]
+

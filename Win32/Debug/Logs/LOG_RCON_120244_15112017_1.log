@@ -1,0 +1,22 @@
+15.11.2017 12:02:47: Не обработано: xXMarsianinXx [xXMarsianinXx] bled to death!
+15.11.2017 12:02:54: Не обработано: Server State
+15.11.2017 12:02:54: Не обработано: 90111937229901824 188.234.213.65:27015
+15.11.2017 12:02:54: Не обработано: Bytes sent: 25049374B
+15.11.2017 12:02:54: Не обработано: Bytes received: 17815032B
+15.11.2017 12:02:54: Не обработано: Average bytes sent: 4635B
+15.11.2017 12:02:54: Не обработано: Average bytes received 3296B
+15.11.2017 12:02:54: Не обработано: Packets sent: 858180
+15.11.2017 12:02:54: Не обработано: Packets received: 365549
+15.11.2017 12:02:54: Не обработано: Average packets sent: 158
+15.11.2017 12:02:54: Не обработано: Average packets received: 67
+15.11.2017 12:02:54: Не обработано: Updates per second: 180%
+15.11.2017 12:02:54: Не обработано: Ticks per second: 98%
+15.11.2017 12:02:54: Не обработано: Active zombies: 4
+15.11.2017 12:02:54: Не обработано: Active animals: 3
+15.11.2017 12:03:02: Не обработано: SqlNullValueException: Data is Null. This method or property cannot be called on Null values. - MySql.Data.MySqlClient.MySqlDataReader.GetFieldValue (Int32 index, Boolean checkNull)
+15.11.2017 12:03:02: Не обработано: MySql.Data.MySqlClient.MySqlDataReader.GetString (Int32 i)
+15.11.2017 12:03:02: Не обработано: MySql.Data.MySqlClient.MySqlDataReader.GetString (System.String column)
+15.11.2017 12:03:02: Не обработано: (wrapper remoting-invoke-with-check) MySql.Data.MySqlClient.MySqlDataReader:GetString (string)
+15.11.2017 12:03:02: Не обработано: PlayerInfoLibrary.DatabaseManager.PrecessExpiredPInfo ()
+15.11.2017 12:03:02: Не обработано: PlayerInfoLibrary.PlayerInfoLib.FixedUpdate ()
+15.11.2017 12:03:03: Сохранение сервера

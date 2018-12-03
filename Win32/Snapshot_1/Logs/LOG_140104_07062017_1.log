@@ -1,0 +1,81 @@
+Не обработано: RocketRcon v2.4.8.0
+RocketRcon v2.4.8.0
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198178769943 Name: Agusha228 Character: Agusha228 Ping: 109
+PlayerID: 76561198144832045 Name: (БРО228)Агуша228 Character: (БРО228)Агуша228 Ping: 93
+PlayerID: 76561198351213164 Name: _АхМеД_ Character: Виндяй Вечеслав Ping: 132
+PlayerID: 76561198389415200 Name: Andrew Lavrinets Character: Andrew Ping: 335
+PlayerID: 76561198299808809 Name: Enderm0n Character: Enderm0nTV Ping: 101
+PlayerID: 76561198292543416 Name: Mr_GiladKing Character: GiladKing Ping: 39
+PlayerID: 76561198322193999 Name: ™_Game®_™ Character: Карл Иванович Ping: 39
+PlayerID: 76561198280617288 Name: Незнаю какой придумать Character: Пипр Ping: 46
+PlayerID: 76561198393528096 Name: BlahBlahBlah Character: BlahBlahBlah Ping: 453
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 125
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294322940
+PlayerID: 76561198341672556
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294888131
+
+TimerTerminateCommand.Enabled with Bans:
+Disconnecting: PlayerID: 76561198351213164 Name: _АхМеД_ Character: Виндяй Вечеслав
+
+END with Bans:
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198178769943 Name: Agusha228 Character: Agusha228 Ping: 117
+PlayerID: 76561198144832045 Name: (БРО228)Агуша228 Character: (БРО228)Агуша228 Ping: 109
+PlayerID: 76561198389415200 Name: Andrew Lavrinets Character: Andrew Ping: 460
+PlayerID: 76561198299808809 Name: Enderm0n Character: Enderm0nTV Ping: 109
+PlayerID: 76561198292543416 Name: Mr_GiladKing Character: GiladKing Ping: 54
+PlayerID: 76561198322193999 Name: ™_Game®_™ Character: Карл Иванович Ping: 54
+PlayerID: 76561198280617288 Name: Незнаю какой придумать Character: Пипр Ping: 39
+PlayerID: 76561198393528096 Name: BlahBlahBlah Character: BlahBlahBlah Ping: 468
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 132
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294322920
+PlayerID: 76561198341672556
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294888111
+
+END with Bans:
+Не обработано: DeathMessagesRemastered >> Broadcast: BlahBlahBlah has been mauled by a zombie! 
+DeathMessagesRemastered >> Broadcast: BlahBlahBlah has been mauled by a zombie! 
+
+Не обработано: BlahBlahBlah [BlahBlahBlah] was mauled by a zombie!
+BlahBlahBlah [BlahBlahBlah] was mauled by a zombie!
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198178769943 Name: Agusha228 Character: Agusha228 Ping: 117
+PlayerID: 76561198144832045 Name: (БРО228)Агуша228 Character: (БРО228)Агуша228 Ping: 101
+PlayerID: 76561198389415200 Name: Andrew Lavrinets Character: Andrew Ping: 203
+PlayerID: 76561198299808809 Name: Enderm0n Character: Enderm0nTV Ping: 117
+PlayerID: 76561198292543416 Name: Mr_GiladKing Character: GiladKing Ping: 46
+PlayerID: 76561198322193999 Name: ™_Game®_™ Character: Карл Иванович Ping: 46
+PlayerID: 76561198280617288 Name: Незнаю какой придумать Character: Пипр Ping: 39
+PlayerID: 76561198393528096 Name: BlahBlahBlah Character: BlahBlahBlah Ping: 515
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 125
+

@@ -1,0 +1,17 @@
+17.11.2017 12:08:55: ClientSocketLookup
+17.11.2017 12:08:55: ClientSocketConnecting
+17.11.2017 12:08:55: ClientSocketConnect
+17.11.2017 12:08:55: ClientSocketWrite
+17.11.2017 12:08:57: Can't connect to MySQL server on '127.0.0.1' (10061)
+17.11.2017 12:08:59: except UpdateBansTable rec: 5 Out of range value for column 'Duration' at row 1
+17.11.2017 12:08:59: except UpdateBansTable rec: 6 Out of range value for column 'Duration' at row 1
+17.11.2017 12:08:59: except UpdateBansTable rec: 5 Out of range value for column 'Duration' at row 1
+17.11.2017 12:08:59: except UpdateBansTable rec: 6 Out of range value for column 'Duration' at row 1
+17.11.2017 12:09:00: except UpdateBansTable rec: 5 Out of range value for column 'Duration' at row 1
+17.11.2017 12:09:00: except UpdateBansTable rec: 6 Out of range value for column 'Duration' at row 1
+17.11.2017 12:09:03: except UpdateBansTable rec: 5 Out of range value for column 'Duration' at row 1
+17.11.2017 12:09:03: except UpdateBansTable rec: 6 Out of range value for column 'Duration' at row 1
+17.11.2017 12:09:19: except UpdateBansTable rec: 5 Out of range value for column 'Duration' at row 1
+17.11.2017 12:09:19: except UpdateBansTable rec: 6 Out of range value for column 'Duration' at row 1
+17.11.2017 12:09:21: except UpdateBansTable rec: 5 Out of range value for column 'Duration' at row 1
+17.11.2017 12:09:21: except UpdateBansTable rec: 6 Out of range value for column 'Duration' at row 1

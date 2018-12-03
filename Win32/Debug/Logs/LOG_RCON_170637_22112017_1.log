@@ -1,0 +1,98 @@
+RocketRcon v2.4.8.0
+
+login aVIPs22031994
+players
+ServerControl >> VALUE NOW [1] [0] [2175]
+Client has executed command "players"
+Players:
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 212
+PlayerID: 76561198385149949 Name: GoDNooB Character: GoDNooB Ping: 123
+PlayerID: 76561198315561906 Name: MaXiMuS Character: valuxa1984 Ping: 53
+PlayerID: 76561198430964141 Name: tolikoleshki Character: tolik Ping: 91
+
+Client has executed command "bans"
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 28076779
+PlayerID: 76561198336969313
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 192012
+PlayerID: 76561198212486347
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 192343
+PlayerID: 76561198391097237
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 354830
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30957057
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30957073
+
+END
+Connecting: PlayerID: 76561198265247601 Name: BisonbonasusPlay Character: Dmitriy
+Dmitriy connected with IP 95.32.36.69
+
+END
+MessageAnnouncer >> Broadcast: Посетите наш сайт. Вы будете удивлены! unturned.hemulgm.ru
+
+MessageAnnouncer >> Посетите наш сайт. Вы будете удивлены! unturned.hemulgm.ru
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [2185]
+
+[World] Expert1337 [Expert13372284200]: "/i doublebed"
+
+Дал Expert1337 вещь 17628:1
+
+Не обработано: Дал Expert1337 вещь 17628:1
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [2191]
+
+Connecting: PlayerID: 76561198384139999 Name: agat84 Character: Mr.Shadou
+
+Mr.Shadou connected with IP 88.147.153.137
+
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 212
+PlayerID: 76561198385149949 Name: GoDNooB Character: GoDNooB Ping: 126
+PlayerID: 76561198315561906 Name: MaXiMuS Character: valuxa1984 Ping: 51
+PlayerID: 76561198430964141 Name: tolikoleshki Character: tolik Ping: 115
+PlayerID: 76561198265247601 Name: BisonbonasusPlay Character: Dmitriy Ping: 83
+PlayerID: 76561198384139999 Name: agat84 Character: Mr.Shadou Ping: 0
+
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 28076763
+PlayerID: 76561198336969313
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 191996
+PlayerID: 76561198212486347
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 192327
+PlayerID: 76561198391097237
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 354814
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30957041
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30957057
+
+END
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [2195]
+
+END

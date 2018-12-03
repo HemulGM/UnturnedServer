@@ -1,0 +1,71 @@
+17.11.2017 10:38:24: Сохранение сервера
+17.11.2017 10:38:35: Не обработано: An error occured while executing cchat [/11/19/15-/14/09/01/20/04/29 /14/00/16/09/25/09/19/05, /11/00/11/15/10, /09/04, /01/05/14/08/15/16/09/12/28, 255, 0, 0]: System.FormatException: Input string was not in the correct format
+17.11.2017 10:38:35: Не обработано:   at System.UInt64.Parse (System.String s, NumberStyles style, IFormatProvider provider) [0x00000] in <filename unknown>:0 
+17.11.2017 10:38:35: Не обработано:   at System.UInt64.Parse (System.String s) [0x00000] in <filename unknown>:0 
+17.11.2017 10:38:35: Не обработано:   at HGM.ServerControl.CommandChatConsole.Execute (IRocketPlayer caller, System.String[] command) [0x00000] in <filename unknown>:0 
+17.11.2017 10:38:35: Не обработано:   at Rocket.Core.Commands.RocketCommandManager+RegisteredRocketCommand.Execute (IRocketPlayer caller, System.String[] command) [0x00000] in <filename unknown>:0 
+17.11.2017 10:38:35: Не обработано:   at Rocket.Core.Commands.RocketCommandManager.Execute (IRocketPlayer player, System.String command) [0x00000] in <filename unknown>:0 
+17.11.2017 10:39:23: Не обработано: An error occured while executing cchat [/11/19/15-/14/09/01/20/04/29 /14/00/16/09/25/09/19/05, /11/00/11/15/10, /09/04, /01/05/14/08/15/16/09/12/28, 255, 0, 0]: System.FormatException: Input string was not in the correct format
+17.11.2017 10:39:23: Не обработано:   at System.UInt64.Parse (System.String s, NumberStyles style, IFormatProvider provider) [0x00000] in <filename unknown>:0 
+17.11.2017 10:39:23: Не обработано:   at System.UInt64.Parse (System.String s) [0x00000] in <filename unknown>:0 
+17.11.2017 10:39:23: Не обработано:   at HGM.ServerControl.CommandChatConsole.Execute (IRocketPlayer caller, System.String[] command) [0x00000] in <filename unknown>:0 
+17.11.2017 10:39:23: Не обработано:   at Rocket.Core.Commands.RocketCommandManager+RegisteredRocketCommand.Execute (IRocketPlayer caller, System.String[] command) [0x00000] in <filename unknown>:0 
+17.11.2017 10:39:23: Не обработано:   at Rocket.Core.Commands.RocketCommandManager.Execute (IRocketPlayer player, System.String command) [0x00000] in <filename unknown>:0 
+17.11.2017 10:39:24: Не обработано: ServerControl >> Broadcast: пж
+17.11.2017 10:39:40: Не обработано: ServerControl >> Broadcast: Ага
+17.11.2017 10:39:42: Не обработано: An error occured while executing cchat [/11/19/15-/14/09/01/20/04/29 /14/00/16/09/25/09/19/05, /11/00/11/15/10, /09/04, /01/05/14/08/15/16/09/12/28, 255, 0, 0]: System.FormatException: Input string was not in the correct format
+17.11.2017 10:39:42: Не обработано:   at System.UInt64.Parse (System.String s, NumberStyles style, IFormatProvider provider) [0x00000] in <filename unknown>:0 
+17.11.2017 10:39:42: Не обработано:   at System.UInt64.Parse (System.String s) [0x00000] in <filename unknown>:0 
+17.11.2017 10:39:42: Не обработано:   at HGM.ServerControl.CommandChatConsole.Execute (IRocketPlayer caller, System.String[] command) [0x00000] in <filename unknown>:0 
+17.11.2017 10:39:42: Не обработано:   at Rocket.Core.Commands.RocketCommandManager+RegisteredRocketCommand.Execute (IRocketPlayer caller, System.String[] command) [0x00000] in <filename unknown>:0 
+17.11.2017 10:39:42: Не обработано:   at Rocket.Core.Commands.RocketCommandManager.Execute (IRocketPlayer player, System.String command) [0x00000] in <filename unknown>:0 
+17.11.2017 10:40:03: Не обработано: ServerControl >> Broadcast: мафия
+17.11.2017 10:40:05: Не обработано: ServerControl >> Broadcast: Бл
+17.11.2017 10:40:06: Не обработано: ServerControl >> Broadcast: Аирдроп через 1 ч. 20 м.
+17.11.2017 10:40:16: Не обработано: ServerControl >> Broadcast: слоавми напиши, что что в кавычках
+17.11.2017 10:40:44: Не обработано: ServerControl >> Broadcast: Я пока занят
+17.11.2017 10:40:56: Не обработано: An error occured while executing cchat [/51/12/00/02/09/11, /14/00/16/09/25/09, /11/00/11/15/10, /09/04, /01/05/14/08/15/16/09/12/28, 255, 0, 0]: System.FormatException: Input string was not in the correct format
+17.11.2017 10:40:56: Не обработано:   at System.UInt64.Parse (System.String s, NumberStyles style, IFormatProvider provider) [0x00000] in <filename unknown>:0 
+17.11.2017 10:40:56: Не обработано:   at System.UInt64.Parse (System.String s) [0x00000] in <filename unknown>:0 
+17.11.2017 10:40:56: Не обработано:   at HGM.ServerControl.CommandChatConsole.Execute (IRocketPlayer caller, System.String[] command) [0x00000] in <filename unknown>:0 
+17.11.2017 10:40:56: Не обработано:   at Rocket.Core.Commands.RocketCommandManager+RegisteredRocketCommand.Execute (IRocketPlayer caller, System.String[] command) [0x00000] in <filename unknown>:0 
+17.11.2017 10:40:56: Не обработано:   at Rocket.Core.Commands.RocketCommandManager.Execute (IRocketPlayer player, System.String command) [0x00000] in <filename unknown>:0 
+17.11.2017 10:42:23: Не обработано: ServerControl >> Broadcast: Нет
+17.11.2017 10:43:19: Не обработано: ServerControl >> Broadcast: 666
+17.11.2017 10:44:09: Не обработано: An error occured while executing cchat [/14/00/16/09/25/09 /19/05/11/18/19, /11/00/11/15/10, /09/04, /01/05/14/08/15/16/09/12/28, 255, 0, 0]: System.FormatException: Input string was not in the correct format
+17.11.2017 10:44:09: Не обработано:   at System.UInt64.Parse (System.String s, NumberStyles style, IFormatProvider provider) [0x00000] in <filename unknown>:0 
+17.11.2017 10:44:09: Не обработано:   at System.UInt64.Parse (System.String s) [0x00000] in <filename unknown>:0 
+17.11.2017 10:44:09: Не обработано:   at HGM.ServerControl.CommandChatConsole.Execute (IRocketPlayer caller, System.String[] command) [0x00000] in <filename unknown>:0 
+17.11.2017 10:44:09: Не обработано:   at Rocket.Core.Commands.RocketCommandManager+RegisteredRocketCommand.Execute (IRocketPlayer caller, System.String[] command) [0x00000] in <filename unknown>:0 
+17.11.2017 10:44:10: Не обработано:   at Rocket.Core.Commands.RocketCommandManager.Execute (IRocketPlayer player, System.String command) [0x00000] in <filename unknown>:0 
+17.11.2017 10:44:17: Не обработано: ServerControl >> Broadcast: пж
+17.11.2017 10:44:44: Не обработано: An error occured while executing cchat [/14/00/16/09/25/09 /19/05/11/18/19, /11/00/11/15/10, /09/04, /01/05/14/08/15/16/09/12/28, 255, 0, 0]: System.FormatException: Input string was not in the correct format
+17.11.2017 10:44:44: Не обработано:   at System.UInt64.Parse (System.String s, NumberStyles style, IFormatProvider provider) [0x00000] in <filename unknown>:0 
+17.11.2017 10:44:44: Не обработано:   at System.UInt64.Parse (System.String s) [0x00000] in <filename unknown>:0 
+17.11.2017 10:44:44: Не обработано:   at HGM.ServerControl.CommandChatConsole.Execute (IRocketPlayer caller, System.String[] command) [0x00000] in <filename unknown>:0 
+17.11.2017 10:44:44: Не обработано:   at Rocket.Core.Commands.RocketCommandManager+RegisteredRocketCommand.Execute (IRocketPlayer caller, System.String[] command) [0x00000] in <filename unknown>:0 
+17.11.2017 10:44:44: Не обработано:   at Rocket.Core.Commands.RocketCommandManager.Execute (IRocketPlayer player, System.String command) [0x00000] in <filename unknown>:0 
+17.11.2017 10:50:19: Не обработано: ServerControl >> Broadcast: Аирдроп через 1 ч. 10 м.
+17.11.2017 10:59:31: Не обработано: An error occured while executing cchat [/13/00/21/09/32, /14/00/16/09/25/09 /19/05/11/18/19, /11/00/11/15/10, /09/04, /01/05/14/08/15/16/09/12/28, 255, 0, 0]: System.FormatException: Input string was not in the correct format
+17.11.2017 10:59:31: Не обработано:   at System.UInt64.Parse (System.String s, NumberStyles style, IFormatProvider provider) [0x00000] in <filename unknown>:0 
+17.11.2017 10:59:31: Не обработано:   at System.UInt64.Parse (System.String s) [0x00000] in <filename unknown>:0 
+17.11.2017 10:59:31: Не обработано:   at HGM.ServerControl.CommandChatConsole.Execute (IRocketPlayer caller, System.String[] command) [0x00000] in <filename unknown>:0 
+17.11.2017 10:59:31: Не обработано:   at Rocket.Core.Commands.RocketCommandManager+RegisteredRocketCommand.Execute (IRocketPlayer caller, System.String[] command) [0x00000] in <filename unknown>:0 
+17.11.2017 10:59:31: Не обработано:   at Rocket.Core.Commands.RocketCommandManager.Execute (IRocketPlayer player, System.String command) [0x00000] in <filename unknown>:0 
+17.11.2017 11:00:15: Не обработано: An error occured while executing cchat [/13/00/21/09/32, /14/00/16/09/25/09 /19/05/11/18/19, /11/00/11/15/10, /09/04, /01/05/14/08/15/16/09/12/28, 255, 0, 0]: System.FormatException: Input string was not in the correct format
+17.11.2017 11:00:15: Не обработано:   at System.UInt64.Parse (System.String s, NumberStyles style, IFormatProvider provider) [0x00000] in <filename unknown>:0 
+17.11.2017 11:00:15: Не обработано:   at System.UInt64.Parse (System.String s) [0x00000] in <filename unknown>:0 
+17.11.2017 11:00:15: Не обработано:   at HGM.ServerControl.CommandChatConsole.Execute (IRocketPlayer caller, System.String[] command) [0x00000] in <filename unknown>:0 
+17.11.2017 11:00:15: Не обработано:   at Rocket.Core.Commands.RocketCommandManager+RegisteredRocketCommand.Execute (IRocketPlayer caller, System.String[] command) [0x00000] in <filename unknown>:0 
+17.11.2017 11:00:15: Не обработано:   at Rocket.Core.Commands.RocketCommandManager.Execute (IRocketPlayer player, System.String command) [0x00000] in <filename unknown>:0 
+17.11.2017 11:00:16: Не обработано: An error occured while executing cchat [/13/00/21/09/32, /14/00/16/09/25/09 /19/05/11/18/19, /11/00/11/15/10, /09/04, /01/05/14/08/15/16/09/12/28, 255, 0, 0]: System.FormatException: Input string was not in the correct format
+17.11.2017 11:00:16: Не обработано:   at System.UInt64.Parse (System.String s, NumberStyles style, IFormatProvider provider) [0x00000] in <filename unknown>:0 
+17.11.2017 11:00:16: Не обработано:   at System.UInt64.Parse (System.String s) [0x00000] in <filename unknown>:0 
+17.11.2017 11:00:16: Не обработано:   at HGM.ServerControl.CommandChatConsole.Execute (IRocketPlayer caller, System.String[] command) [0x00000] in <filename unknown>:0 
+17.11.2017 11:00:16: Не обработано:   at Rocket.Core.Commands.RocketCommandManager+RegisteredRocketCommand.Execute (IRocketPlayer caller, System.String[] command) [0x00000] in <filename unknown>:0 
+17.11.2017 11:00:16: Не обработано:   at Rocket.Core.Commands.RocketCommandManager.Execute (IRocketPlayer player, System.String command) [0x00000] in <filename unknown>:0 
+17.11.2017 11:00:19: Не обработано: ServerControl >> Broadcast: Аирдроп через 1 ч.
+17.11.2017 11:08:24: Сохранение сервера
+17.11.2017 11:10:19: Не обработано: ServerControl >> Broadcast: Аирдроп через 50 м.
+17.11.2017 11:20:19: Не обработано: ServerControl >> Broadcast: Аирдроп через 40 м.
+17.11.2017 11:25:26: Не обработано: Reason: reid Duration: 608400 Remaining: 214502

@@ -1,0 +1,56 @@
+Не обработано: RocketRcon v2.4.8.0
+RocketRcon v2.4.8.0
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198151655003 Name: HemulGM Character: HemulGM Ping: 17
+PlayerID: 76561198278360341 Name: AcademeG Character: AcademeG Ping: 93
+PlayerID: 76561198280617288 Name: Незнаю какой придумать Character: Пипр Ping: 65
+PlayerID: 76561198218503413 Name: Petia Character: Petia Ping: 115
+PlayerID: 76561198318420959 Name: MAJOR Character: MAJOR Ping: 116
+PlayerID: 76561198277046351 Name: Stemax Character: Stemax Ping: 73
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294056020
+
+END with Bans:
+Disconnecting: PlayerID: 76561198278360341 Name: AcademeG Character: AcademeG
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198151655003 Name: HemulGM Character: HemulGM Ping: 13
+PlayerID: 76561198280617288 Name: Незнаю какой придумать Character: Пипр Ping: 49
+PlayerID: 76561198218503413 Name: Petia Character: Petia Ping: 85
+PlayerID: 76561198318420959 Name: MAJOR Character: MAJOR Ping: 100
+PlayerID: 76561198277046351 Name: Stemax Character: Stemax Ping: 67
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294056000
+
+END with Bans:
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198151655003 Name: HemulGM Character: HemulGM Ping: 11
+PlayerID: 76561198280617288 Name: Незнаю какой придумать Character: Пипр Ping: 52
+PlayerID: 76561198218503413 Name: Petia Character: Petia Ping: 88
+PlayerID: 76561198318420959 Name: MAJOR Character: MAJOR Ping: 90
+PlayerID: 76561198277046351 Name: Stemax Character: Stemax Ping: 81
+

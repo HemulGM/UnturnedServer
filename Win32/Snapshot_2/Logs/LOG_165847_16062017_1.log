@@ -1,0 +1,154 @@
+Не обработано: RocketRcon v2.4.8.0
+RocketRcon v2.4.8.0
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198398512684 Name: НеЗнаюКакой Character: Пипр Ping: 46
+PlayerID: 76561198394560596 Name: koldin1925 Character: Fresh Ping: 46
+PlayerID: 76561198203921497 Name: xom9k Character: Тугрик Ping: 187
+PlayerID: 76561198388803679 Name: nikanorova2 Character: nikanorova2 Ping: 85
+PlayerID: 76561198392750097 Name: mufteev.gleb Character: Глеб Муфтеев Ping: 85
+PlayerID: 76561198329269141 Name: Iliyas Character: Lazer228 Ping: 85
+PlayerID: 76561198323264908 Name: I AM YOUR GOD Character: blank  Ping: 46
+PlayerID: 76561198220593105 Name: Uranium147 Character: Uranium147 Ping: 171
+PlayerID: 76561198307872567 Name: Hi im Azok Character: wiktor600600 Ping: 93
+PlayerID: 76561198252992596 Name: skarpeta (hellcase.com) Character: mieszko0002 Ping: 93
+PlayerID: 76561198396485715 Name: vadimka.astakhov.00 Character: [полицей]Стас Сылкин [сержант] Ping: 78
+PlayerID: 76561198395371716 Name: ffffuuuas Character: ffffuuuas Ping: 70
+PlayerID: 76561198076319498 Name: a.bykov.ru Character:  (TR) лёша Ping: 7
+PlayerID: 76561198186140023 Name: Rolpex_Plus Character: Dmitriy_Ivan0v Ping: 31
+PlayerID: 76561198257298690 Name: DIAminerr Character: Dmitriy_Zelydev Ping: 156
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4293534678
+PlayerID: 76561198384007551
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 31363065
+PlayerID: 76561198371016652
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 31443479
+PlayerID: 76561198373930516
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294906499
+
+END with Bans:
+Connecting: PlayerID: 76561198147477828 Name: galbatsovmikail Character: galbatsovmikail
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198398512684 Name: НеЗнаюКакой Character: Пипр Ping: 54
+PlayerID: 76561198394560596 Name: koldin1925 Character: Fresh Ping: 39
+PlayerID: 76561198203921497 Name: xom9k Character: Тугрик Ping: 39
+PlayerID: 76561198388803679 Name: nikanorova2 Character: nikanorova2 Ping: 93
+PlayerID: 76561198392750097 Name: mufteev.gleb Character: Глеб Муфтеев Ping: 93
+PlayerID: 76561198329269141 Name: Iliyas Character: Lazer228 Ping: 101
+PlayerID: 76561198323264908 Name: I AM YOUR GOD Character: blank  Ping: 31
+PlayerID: 76561198220593105 Name: Uranium147 Character: Uranium147 Ping: 156
+PlayerID: 76561198307872567 Name: Hi im Azok Character: wiktor600600 Ping: 93
+PlayerID: 76561198252992596 Name: skarpeta (hellcase.com) Character: mieszko0002 Ping: 85
+PlayerID: 76561198396485715 Name: vadimka.astakhov.00 Character: [полицей]Стас Сылкин [сержант] Ping: 70
+PlayerID: 76561198395371716 Name: ffffuuuas Character: ffffuuuas Ping: 171
+PlayerID: 76561198076319498 Name: a.bykov.ru Character:  (TR) лёша Ping: 7
+PlayerID: 76561198186140023 Name: Rolpex_Plus Character: Dmitriy_Ivan0v Ping: 31
+PlayerID: 76561198257298690 Name: DIAminerr Character: Dmitriy_Zelydev Ping: 125
+PlayerID: 76561198147477828 Name: galbatsovmikail Character: galbatsovmikail Ping: 0
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4293534658
+PlayerID: 76561198384007551
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 31363045
+PlayerID: 76561198371016652
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 31443459
+PlayerID: 76561198373930516
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294906479
+
+TimerTerminateCommand.Enabled with Bans:
+[World] Глеб Муфтеев [mufteev.gleb]: "бланк дай алиспак пж"
+
+END with Bans:
+[World] Пипр [НеЗнаюКакой]: "Nika не голосование"
+
+[World] blank  [I AM YOUR GOD]: "У меня только 1"
+
+[World] Тугрик [xom9k]: "Есть пара магазинов на сайбер?"
+
+[World] Пипр [НеЗнаюКакой]: "А жалобу кинуть"
+
+[World] Dmitriy_Ivan0v [Rolpex_Plus]: "/buy bedroll"
+
+[World] Dmitriy_Zelydev [DIAminerr]: "/buy scrap 5"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+[World] nikanorova2 [nikanorova2]: "ну да"
+Players:
+PlayerID: 76561198398512684 Name: НеЗнаюКакой Character: Пипр Ping: 46
+PlayerID: 76561198394560596 Name: koldin1925 Character: Fresh Ping: 70
+PlayerID: 76561198203921497 Name: xom9k Character: Тугрик Ping: 54
+PlayerID: 76561198388803679 Name: nikanorova2 Character: nikanorova2 Ping: 109
+PlayerID: 76561198392750097 Name: mufteev.gleb Character: Глеб Муфтеев Ping: 93
+PlayerID: 76561198329269141 Name: Iliyas Character: Lazer228 Ping: 85
+PlayerID: 76561198323264908 Name: I AM YOUR GOD Character: blank  Ping: 39
+PlayerID: 76561198220593105 Name: Uranium147 Character: Uranium147 Ping: 164
+PlayerID: 76561198307872567 Name: Hi im Azok Character: wiktor600600 Ping: 85
+PlayerID: 76561198252992596 Name: skarpeta (hellcase.com) Character: mieszko0002 Ping: 70
+PlayerID: 76561198396485715 Name: vadimka.astakhov.00 Character: [полицей]Стас Сылкин [сержант] Ping: 70
+PlayerID: 76561198395371716 Name: ffffuuuas Character: ffffuuuas Ping: 242
+PlayerID: 76561198076319498 Name: a.bykov.ru Character:  (TR) лёша Ping: 7
+PlayerID: 76561198186140023 Name: Rolpex_Plus Character: Dmitriy_Ivan0v Ping: 39
+PlayerID: 76561198257298690 Name: DIAminerr Character: Dmitriy_Zelydev Ping: 140
+PlayerID: 76561198147477828 Name: galbatsovmikail Character: galbatsovmikail Ping: 46
+
+TimerTerminateCommand.Enabled with Players:
+[World] Lazer228 [Iliyas]: "Пипр,на кого?"
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4293534636
+PlayerID: 76561198384007551
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 31363023
+PlayerID: 76561198371016652
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 31443437
+PlayerID: 76561198373930516
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294906457
+
+TimerTerminateCommand.Enabled with Bans:
+[World] Dmitriy_Ivan0v [Rolpex_Plus]: "/shop"
+
+END with Bans:
+Не обработано: MessageAnnouncer >> Broadcast: Если модератор ведёт себя неподобающе, пишите в группу или ЛС (vk.com/unturned_hgm, vk.com/hemulgm)
+MessageAnnouncer >> Broadcast: Если модератор ведёт себя неподобающе, пишите в группу или ЛС (vk.com/unturned_hgm, vk.com/hemulgm)
+
+Не обработано: MessageAnnouncer >> Если модератор ведёт себя неподобающе, пишите в группу или ЛС (vk.com/unturned_hgm, vk.com/hemulgm)
+MessageAnnouncer >> Если модератор ведёт себя неподобающе, пишите в группу или ЛС (vk.com/unturned_hgm, vk.com/hemulgm)
+
+[World] blank  [I AM YOUR GOD]: "Убери это"
+

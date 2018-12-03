@@ -1,0 +1,99 @@
+Не обработано: RocketRcon v2.4.8.0
+RocketRcon v2.4.8.0
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198300812301 Name: KiLeR00707 Character: KiLeR00707 Ping: 15
+PlayerID: 76561198309800376 Name: polinazamlinskaya Character: Полина Замлынская Ping: 46
+PlayerID: 76561198351213164 Name: _АхМеД_ Character: Виндяй Вечеслав Ping: 132
+PlayerID: 76561198184777471 Name: -SkullMaker ?? ?? Character: sprokit1111 Ping: 7
+PlayerID: 76561198295801599 Name: Lo[x] Character: Lo[x] Ping: 46
+PlayerID: 76561198176817369 Name: ?. Character: GlodiS Ping: 54
+PlayerID: 76561198336842294 Name: (Мафия) Character: Ind2 Ping: 54
+PlayerID: 76561198341672556 Name: st.vladir Character: st.vladir Ping: 148
+PlayerID: 76561198349642857 Name: хлеб228 Character: хлеб228 Ping: 148
+PlayerID: 76561198375915396 Name: necto.mist Character: danila111223 Ping: 62
+PlayerID: 76561198056237987 Name: Calibrovshik Character: Calibrovshik Ping: 93
+PlayerID: 76561198256962041 Name: Omega orange Character: CLI Ping: 62
+
+TimerTerminateCommand.Enabled with Players:
+[World] CLI [Omega orange]: "у меня"
+
+Не обработано: DeathMessagesRemastered >> Broadcast: Полина Замлынская has been mauled by a zombie! 
+TimerTerminateCommand.Enabled with Players:
+DeathMessagesRemastered >> Broadcast: Полина Замлынская has been mauled by a zombie! 
+
+Не обработано: Полина Замлынская [polinazamlinskaya] was mauled by a zombie!
+TimerTerminateCommand.Enabled with Players:
+Полина Замлынская [polinazamlinskaya] was mauled by a zombie!
+
+TimerTerminateCommand.Enabled with Players:
+[Area] GlodiS [?.]: "/home"
+
+END with Players:
+[Area] Полина Замлынская [polinazamlinskaya]: "/KIT START"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198300812301 Name: KiLeR00707 Character: KiLeR00707 Ping: 23
+PlayerID: 76561198309800376 Name: polinazamlinskaya Character: Полина Замлынская Ping: 46
+PlayerID: 76561198351213164 Name: _АхМеД_ Character: Виндяй Вечеслав Ping: 85
+PlayerID: 76561198184777471 Name: -SkullMaker ?? ?? Character: sprokit1111 Ping: 7
+PlayerID: 76561198295801599 Name: Lo[x] Character: Lo[x] Ping: 46
+PlayerID: 76561198176817369 Name: ?. Character: GlodiS Ping: 62
+PlayerID: 76561198336842294 Name: (Мафия) Character: Ind2 Ping: 46
+PlayerID: 76561198341672556 Name: st.vladir Character: st.vladir Ping: 132
+PlayerID: 76561198349642857 Name: хлеб228 Character: хлеб228 Ping: 156
+PlayerID: 76561198375915396 Name: necto.mist Character: danila111223 Ping: 62
+PlayerID: 76561198056237987 Name: Calibrovshik Character: Calibrovshik Ping: 93
+PlayerID: 76561198256962041 Name: Omega orange Character: CLI Ping: 62
+
+END with Players:
+[World] KiLeR00707 [KiLeR00707]: "кто может дать машина на 1 день а в замен получит оружие"
+
+[World] CLI [Omega orange]: "какое оружие"
+
+[World] Lo[x] [Lo[x]]: "/home"
+
+[World] CLI [Omega orange]: "и нужен ли водитель"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198300812301 Name: KiLeR00707 Character: KiLeR00707 Ping: 39
+PlayerID: 76561198309800376 Name: polinazamlinskaya Character: Полина Замлынская Ping: 46
+PlayerID: 76561198351213164 Name: _АхМеД_ Character: Виндяй Вечеслав Ping: 85
+PlayerID: 76561198184777471 Name: -SkullMaker ?? ?? Character: sprokit1111 Ping: 7
+PlayerID: 76561198295801599 Name: Lo[x] Character: Lo[x] Ping: 78
+PlayerID: 76561198176817369 Name: ?. Character: GlodiS Ping: 70
+PlayerID: 76561198336842294 Name: (Мафия) Character: Ind2 Ping: 46
+PlayerID: 76561198341672556 Name: st.vladir Character: st.vladir Ping: 132
+PlayerID: 76561198349642857 Name: хлеб228 Character: хлеб228 Ping: 125
+PlayerID: 76561198375915396 Name: necto.mist Character: danila111223 Ping: 62
+PlayerID: 76561198056237987 Name: Calibrovshik Character: Calibrovshik Ping: 93
+PlayerID: 76561198256962041 Name: Omega orange Character: CLI Ping: 62
+
+TimerTerminateCommand.Enabled with Players:
+[World] KiLeR00707 [KiLeR00707]: "хз"
+
+TimerTerminateCommand.Enabled with Players:
+[World] Виндяй Вечеслав [_АхМеД_]: "/kit help"
+
+END with Players:
+Не обработано: DeathMessagesRemastered >> Broadcast: Полина Замлынская has been mauled by a zombie! 
+DeathMessagesRemastered >> Broadcast: Полина Замлынская has been mauled by a zombie! 
+
+Не обработано: Полина Замлынская [polinazamlinskaya] was mauled by a zombie!
+Полина Замлынская [polinazamlinskaya] was mauled by a zombie!
+
+Не обработано: MessageAnnouncer >> Broadcast: Наберите /kit start, чтобы получить стартовый набор (еда, вода, топор)
+MessageAnnouncer >> Broadcast: Наберите /kit start, чтобы получить стартовый набор (еда, вода, топор)
+
+Не обработано: MessageAnnouncer >> Наберите /kit start, чтобы получить стартовый набор (еда, вода, топор)
+MessageAnnouncer >> Наберите /kit start, чтобы получить стартовый набор (еда, вода, топор)
+

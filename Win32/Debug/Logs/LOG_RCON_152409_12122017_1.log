@@ -1,0 +1,82 @@
+RocketRcon v2.4.8.0
+
+login aVIPs22031994
+players
+Client has executed command "players"
+Players:
+PlayerID: 76561198345411458 Name: Judy :3 Character: JudyHopps Ping: 35
+Client has executed command "bans"
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 26354963
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 29235241
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 29235257
+
+END
+END
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198345411458 Name: Judy :3 Character: JudyHopps Ping: 52
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [355]
+
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 26354956
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 29235234
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 29235250
+
+END
+END
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [360]
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [365]
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [371]
+
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198345411458 Name: Judy :3 Character: JudyHopps Ping: 37
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [375]
+
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 26354936
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 29235214
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 29235230
+
+END

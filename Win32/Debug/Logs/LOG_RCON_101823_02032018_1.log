@@ -1,0 +1,251 @@
+RocketRcon v2.4.8.0
+
+login aVIPs22031994
+players
+Client has executed command "players"
+Players:
+PlayerID: 76561198423084997 Name: FACE Character: Элджей Ping: 113
+PlayerID: 76561198290478364 Name: Mr.Web56 Character: Webчик  Ping: 82
+PlayerID: 76561198818151252 Name: vladimirtkacenko06 Character: Вова Ping: 128
+Client has executed command "players"
+Players:
+PlayerID: 76561198423084997 Name: FACE Character: Элджей Ping: 113
+PlayerID: 76561198290478364 Name: Mr.Web56 Character: Webчик  Ping: 82
+PlayerID: 76561198818151252 Name: vladimirtkacenko06 Character: Вова Ping: 121
+Client has executed command "GET NOW"
+ServerControl >> VALUE NOW [1] [0] [710]
+Client has executed command "bans"
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 19461375
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 22341653
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 22341669
+PlayerID: 76561198441524917
+JudgeID: 76561198237123262
+Reason: 100000 Duration: 31536000 Remaining: 27432835
+PlayerID: 76561198446923945
+JudgeID: 76561198237123262
+Reason: 60000 Duration: 31536000 Remaining: 28007799
+Client has executed command "bans"
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 19461374
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 22341652
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 22341668
+PlayerID: 76561198441524917
+JudgeID: 76561198237123262
+Reason: 100000 Duration: 31536000 Remaining: 27432834
+PlayerID: 76561198446923945
+JudgeID: 76561198237123262
+Reason: 60000 Duration: 31536000 Remaining: 28007798
+
+END
+END
+END
+END
+Broadcast: Добро пожаловать на HGM. Тут рады вам больше, чем на любом другом сервере!
+
+Не обработано: Broadcast: Добро пожаловать на HGM. Тут рады вам больше, чем на любом другом сервере!
+MessageAnnouncer >> Добро пожаловать на HGM. Тут рады вам больше, чем на любом другом сервере!
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [721]
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [721]
+
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198423084997 Name: FACE Character: Элджей Ping: 125
+PlayerID: 76561198290478364 Name: Mr.Web56 Character: Webчик  Ping: 97
+PlayerID: 76561198818151252 Name: vladimirtkacenko06 Character: Вова Ping: 113
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [731]
+
+GET NOW
+Client has executed command "GET NOW"
+ServerControl >> VALUE NOW [1] [0] [732]
+
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 19461351
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 22341629
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 22341645
+PlayerID: 76561198441524917
+JudgeID: 76561198237123262
+Reason: 100000 Duration: 31536000 Remaining: 27432811
+PlayerID: 76561198446923945
+JudgeID: 76561198237123262
+Reason: 60000 Duration: 31536000 Remaining: 28007775
+
+END
+END
+[Group] Элджей [FACE]: "приодень меня ок"
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [741]
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [742]
+
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198423084997 Name: FACE Character: Элджей Ping: 125
+PlayerID: 76561198290478364 Name: Mr.Web56 Character: Webчик  Ping: 85
+PlayerID: 76561198818151252 Name: vladimirtkacenko06 Character: Вова Ping: 171
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [752]
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [752]
+
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 19461331
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 22341609
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 22341625
+PlayerID: 76561198441524917
+JudgeID: 76561198237123262
+Reason: 100000 Duration: 31536000 Remaining: 27432791
+PlayerID: 76561198446923945
+JudgeID: 76561198237123262
+Reason: 60000 Duration: 31536000 Remaining: 28007755
+
+END
+END
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [762]
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [762]
+
+[Group] Webчик  [Mr.Web56]: "ну ладно только айди нужно мы в греческой одежде"
+
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198423084997 Name: FACE Character: Элджей Ping: 113
+PlayerID: 76561198290478364 Name: Mr.Web56 Character: Webчик  Ping: 70
+PlayerID: 76561198818151252 Name: vladimirtkacenko06 Character: Вова Ping: 117
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [772]
+Client has executed command "GET NOW"
+ServerControl >> VALUE NOW [1] [0] [772]
+
+END
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 19461311
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 22341589
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 22341605
+PlayerID: 76561198441524917
+JudgeID: 76561198237123262
+Reason: 100000 Duration: 31536000 Remaining: 27432771
+PlayerID: 76561198446923945
+JudgeID: 76561198237123262
+Reason: 60000 Duration: 31536000 Remaining: 28007735
+
+END
+Broadcast: Наберите /kit start, чтобы получить стартовый набор (еда, вода, топор)
+
+Не обработано: Broadcast: Наберите /kit start, чтобы получить стартовый набор (еда, вода, топор)
+MessageAnnouncer >> Наберите /kit start, чтобы получить стартовый набор (еда, вода, топор)
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [782]
+
+Client has executed command "GET NOW"
+ServerControl >> VALUE NOW [1] [0] [783]
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [792]
+
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198423084997 Name: FACE Character: Элджей Ping: 125
+PlayerID: 76561198290478364 Name: Mr.Web56 Character: Webчик  Ping: 85
+PlayerID: 76561198818151252 Name: vladimirtkacenko06 Character: Вова Ping: 125
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [793]
+
+Client has executed command "cchat "" 0 0 0"
+
+END
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 19461290
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 22341568
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 22341584
+PlayerID: 76561198441524917
+JudgeID: 76561198237123262
+Reason: 100000 Duration: 31536000 Remaining: 27432750
+PlayerID: 76561198446923945
+JudgeID: 76561198237123262
+Reason: 60000 Duration: 31536000 Remaining: 28007714
+
+END

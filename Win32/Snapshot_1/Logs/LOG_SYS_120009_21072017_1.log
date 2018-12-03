@@ -1,0 +1,36 @@
+21.07.2017 12:00:09: ClientSocketLookup
+21.07.2017 12:00:10: ClientSocketConnecting
+21.07.2017 12:00:12: ClientSocketConnect
+21.07.2017 12:00:12: ClientSocketWrite
+22.07.2017 10:40:02: ClientSocketError Соединение прервано
+22.07.2017 10:40:09: ClientSocketError eeSend
+22.07.2017 10:40:09: ClientSocketDisconnect
+22.07.2017 10:42:17: ClientSocketLookup
+22.07.2017 10:42:17: ClientSocketConnecting
+22.07.2017 10:42:17: ClientSocketConnect
+22.07.2017 10:42:17: ClientSocketWrite
+23.07.2017 12:14:25: ClientSocketError Соединение прервано
+23.07.2017 12:14:35: ClientSocketError eeSend
+23.07.2017 12:14:35: ClientSocketDisconnect
+23.07.2017 14:05:32: ClientSocketLookup
+23.07.2017 14:05:32: ClientSocketConnecting
+23.07.2017 14:05:32: ClientSocketConnect
+23.07.2017 14:05:32: ClientSocketWrite
+24.07.2017 4:39:25: ClientSocketError Соединение прервано
+24.07.2017 4:39:25: ClientSocketError eeSend
+24.07.2017 4:39:25: ClientSocketDisconnect
+24.07.2017 16:51:12: ClientSocketLookup
+24.07.2017 16:51:12: ClientSocketConnecting
+24.07.2017 16:51:13: ClientSocketError Не смог подключиться
+24.07.2017 16:51:55: Can't connect to MySQL server on '188.234.213.65' (10060)
+24.07.2017 21:20:57: ClientSocketLookup
+24.07.2017 21:20:57: ClientSocketConnecting
+24.07.2017 21:20:57: ClientSocketConnect
+24.07.2017 21:20:57: ClientSocketWrite
+25.07.2017 7:33:49: ClientSocketError eeSend
+25.07.2017 7:33:49: ClientSocketDisconnect
+25.07.2017 7:33:49: ClientSocketError Соединение прервано
+25.07.2017 10:31:45: ClientSocketLookup
+25.07.2017 10:31:45: ClientSocketConnecting
+25.07.2017 10:31:45: ClientSocketConnect
+25.07.2017 10:31:45: ClientSocketWrite

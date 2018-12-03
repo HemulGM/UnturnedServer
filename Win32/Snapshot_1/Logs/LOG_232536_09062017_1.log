@@ -1,0 +1,25 @@
+Не обработано: RocketRcon v2.4.8.0
+RocketRcon v2.4.8.0
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198278360341 Name: AcademeG Character: AcademeG Ping: 89
+PlayerID: 76561198268161521 Name: DOMIK Character: Listiger_wolf2 Ping: 55
+PlayerID: 76561198391815543 Name: dinorendulic03 Character: dinorendulic03 Ping: 137
+PlayerID: 76561198326929390 Name: kuki Character: soliclukas Ping: 102
+
+TimerTerminateCommand.Enabled with Players:
+[World] AcademeG [AcademeG]: "У кого есть канистра?"
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294116269
+
+END with Bans:

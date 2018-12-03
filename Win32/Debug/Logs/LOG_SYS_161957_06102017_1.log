@@ -1,0 +1,29 @@
+06.10.2017 16:21:30: ClientSocketLookup
+06.10.2017 16:21:32: ClientSocketConnecting
+06.10.2017 16:21:34: ClientSocketError Не смог подключиться
+06.10.2017 16:21:36: ClientSocketLookup
+06.10.2017 16:21:38: ClientSocketConnecting
+06.10.2017 16:21:40: ClientSocketError Не смог подключиться
+06.10.2017 16:21:42: ClientSocketLookup
+06.10.2017 16:21:44: ClientSocketConnecting
+06.10.2017 16:21:46: ClientSocketError Не смог подключиться
+06.10.2017 16:21:48: ClientSocketLookup
+06.10.2017 16:21:50: ClientSocketConnecting
+06.10.2017 16:21:52: ClientSocketError Не смог подключиться
+06.10.2017 16:21:54: ClientSocketLookup
+06.10.2017 16:21:56: ClientSocketConnecting
+06.10.2017 16:21:58: ClientSocketError Не смог подключиться
+06.10.2017 16:22:00: ClientSocketLookup
+06.10.2017 16:22:02: ClientSocketConnecting
+06.10.2017 16:22:04: ClientSocketError Не смог подключиться
+06.10.2017 16:22:06: ClientSocketLookup
+06.10.2017 16:22:08: ClientSocketConnecting
+06.10.2017 16:22:10: ClientSocketError Не смог подключиться
+06.10.2017 16:22:12: ClientSocketLookup
+06.10.2017 16:22:14: ClientSocketConnecting
+06.10.2017 16:22:16: ClientSocketError Не смог подключиться
+06.10.2017 16:22:18: ClientSocketLookup
+06.10.2017 16:22:20: ClientSocketConnecting
+06.10.2017 16:22:22: ClientSocketConnect
+06.10.2017 16:22:22: ClientSocketWrite
+06.10.2017 16:22:42: ClientSocketError Соединение прервано

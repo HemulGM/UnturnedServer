@@ -1,0 +1,2207 @@
+17.11.2017 16:44:50: RocketRcon v2.4.8.0
+
+17.11.2017 16:44:50: login aVIPs22031994
+17.11.2017 16:44:50: players
+17.11.2017 16:44:51: Client has executed command "players"
+Players:
+PlayerID: 76561198170498361 Name: _Nick_Hunter_ Character: Nick_Hunter[RUS] Ping: 125
+PlayerID: 76561198423084997 Name: lovemariina Character: Rendy Ping: 153
+PlayerID: 76561198364621785 Name: Alexander A-K Character: AlexanderAGaming Ping: 212
+PlayerID: 76561198408019916 Name: slava.fan555 Character: Славик Cухоруков Ping: 120
+PlayerID: 76561198444494613 Name: vladkrigin Character: 666а Ping: 137
+PlayerID: 76561198106869292 Name: roman146rus Character: roman146rus Ping: 58
+
+17.11.2017 16:44:53: Client has executed command "bans"
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 28510086
+PlayerID: 76561198395511982
+JudgeID: 0
+Reason: 999999 Duration: 31536000 Remaining: 30064838
+PlayerID: 76561198331180787
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30413056
+PlayerID: 76561198172502147
+JudgeID: 76561198237123262
+Reason: 3600 Duration: 31536000 Remaining: 30416450
+PlayerID: 76561198331252339
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30428783
+PlayerID: 76561198434258763
+JudgeID: 0
+Reason: reid Duration: 608400 Remaining: 195330
+
+17.11.2017 16:44:53: END
+17.11.2017 16:44:55: END
+17.11.2017 16:44:57: cchat "/02/15/19 /18/05/10/24/00/18 /16/07" 255 0 0
+17.11.2017 16:44:58: Client has executed command "cchat "/02/15/19 /18/05/10/24/00/18 /16/07" 255 0 0"
+
+17.11.2017 16:44:58: ServerControl >> Broadcast: вот сейчас пж
+
+17.11.2017 16:44:58: Не обработано: ServerControl >> Broadcast: вот сейчас пж
+17.11.2017 16:44:58: Client has executed command "players"
+
+17.11.2017 16:44:58: Players:
+PlayerID: 76561198170498361 Name: _Nick_Hunter_ Character: Nick_Hunter[RUS] Ping: 125
+PlayerID: 76561198423084997 Name: lovemariina Character: Rendy Ping: 141
+PlayerID: 76561198364621785 Name: Alexander A-K Character: AlexanderAGaming Ping: 224
+PlayerID: 76561198408019916 Name: slava.fan555 Character: Славик Cухоруков Ping: 97
+PlayerID: 76561198444494613 Name: vladkrigin Character: 666а Ping: 142
+PlayerID: 76561198106869292 Name: roman146rus Character: roman146rus Ping: 58
+
+17.11.2017 16:44:59: Client has executed command "bans"
+
+17.11.2017 16:44:59: Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 28510078
+PlayerID: 76561198395511982
+JudgeID: 0
+Reason: 999999 Duration: 31536000 Remaining: 30064830
+PlayerID: 76561198331180787
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30413048
+PlayerID: 76561198172502147
+JudgeID: 76561198237123262
+Reason: 3600 Duration: 31536000 Remaining: 30416442
+PlayerID: 76561198331252339
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30428775
+PlayerID: 76561198434258763
+JudgeID: 0
+Reason: reid Duration: 608400 Remaining: 195322
+
+17.11.2017 16:44:59: END
+17.11.2017 16:45:01: END
+17.11.2017 16:45:02: [World] Nick_Hunter[RUS] [_Nick_Hunter_]: "ид пила"
+
+17.11.2017 16:45:02: cchat "	141" 255 0 0
+17.11.2017 16:45:02: Client has executed command "cchat "	141" 255 0 0"
+
+17.11.2017 16:45:02: ServerControl >> Broadcast: 141
+
+17.11.2017 16:45:02: Не обработано: ServerControl >> Broadcast: 141
+17.11.2017 16:45:02: cchat "/65 /08/14/00/31, /24/19/15 /08/00/05/01/00/12" 255 0 0
+17.11.2017 16:45:02: Client has executed command "cchat "/65 /08/14/00/31, /24/19/15 /08/00/05/01/00/12" 255 0 0"
+
+17.11.2017 16:45:02: ServerControl >> Broadcast: Я знаю, что заебал
+
+17.11.2017 16:45:03: Не обработано: ServerControl >> Broadcast: Я знаю, что заебал
+17.11.2017 16:45:04: [World] Славик Cухоруков [slava.fan555]: "видишь там большой дом"
+
+17.11.2017 16:45:07: cchat "/48)" 255 0 0
+17.11.2017 16:45:07: [World] Nick_Hunter[RUS] [_Nick_Hunter_]: "во"
+
+17.11.2017 16:45:07: Client has executed command "cchat "/48)" 255 0 0"
+
+17.11.2017 16:45:07: ServerControl >> Broadcast: О)
+
+17.11.2017 16:45:07: Не обработано: ServerControl >> Broadcast: О)
+17.11.2017 16:45:18: cchat "/13/15/07/05/25/29 /24/19/15 /20/03/15/04/14/15 /18/16/17/15/18/09/19/29" 255 0 0
+17.11.2017 16:45:18: Client has executed command "cchat "/13/15/07/05/25/29 /24/19/15 /20/03/15/04/14/15 /18/16/17/15/18/09/19/29" 255 0 0"
+
+17.11.2017 16:45:18: ServerControl >> Broadcast: можешь что угодно спросить
+
+17.11.2017 16:45:18: Не обработано: ServerControl >> Broadcast: можешь что угодно спросить
+17.11.2017 16:45:18: Client has executed command "players"
+
+17.11.2017 16:45:18: Players:
+PlayerID: 76561198170498361 Name: _Nick_Hunter_ Character: Nick_Hunter[RUS] Ping: 127
+PlayerID: 76561198423084997 Name: lovemariina Character: Rendy Ping: 145
+PlayerID: 76561198364621785 Name: Alexander A-K Character: AlexanderAGaming Ping: 165
+PlayerID: 76561198408019916 Name: slava.fan555 Character: Славик Cухоруков Ping: 78
+PlayerID: 76561198444494613 Name: vladkrigin Character: 666а Ping: 137
+PlayerID: 76561198106869292 Name: roman146rus Character: roman146rus Ping: 50
+
+17.11.2017 16:45:19: Client has executed command "bans"
+
+17.11.2017 16:45:19: Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 28510058
+PlayerID: 76561198395511982
+JudgeID: 0
+Reason: 999999 Duration: 31536000 Remaining: 30064810
+PlayerID: 76561198331180787
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30413028
+PlayerID: 76561198172502147
+JudgeID: 76561198237123262
+Reason: 3600 Duration: 31536000 Remaining: 30416422
+PlayerID: 76561198331252339
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30428755
+PlayerID: 76561198434258763
+JudgeID: 0
+Reason: reid Duration: 608400 Remaining: 195302
+
+17.11.2017 16:45:19: END
+17.11.2017 16:45:21: END
+17.11.2017 16:45:22: cchat "/16/15/24/19/09" 255 0 0
+17.11.2017 16:45:22: Client has executed command "cchat "/16/15/24/19/09" 255 0 0"
+
+17.11.2017 16:45:22: ServerControl >> Broadcast: почти
+
+17.11.2017 16:45:22: Не обработано: ServerControl >> Broadcast: почти
+17.11.2017 16:45:25: [World] Rendy [lovemariina]: "/kit start"
+
+17.11.2017 16:45:31: MessageAnnouncer >> Broadcast: Внимание! PvP-режим по субботам! PvP-режим!!!
+
+17.11.2017 16:45:31: MessageAnnouncer >> Внимание! PvP-режим по субботам! PvP-режим!!!
+
+17.11.2017 16:45:38: Client has executed command "players"
+
+17.11.2017 16:45:38: Players:
+PlayerID: 76561198170498361 Name: _Nick_Hunter_ Character: Nick_Hunter[RUS] Ping: 130
+PlayerID: 76561198423084997 Name: lovemariina Character: Rendy Ping: 129
+PlayerID: 76561198364621785 Name: Alexander A-K Character: AlexanderAGaming Ping: 158
+PlayerID: 76561198408019916 Name: slava.fan555 Character: Славик Cухоруков Ping: 94
+PlayerID: 76561198444494613 Name: vladkrigin Character: 666а Ping: 131
+PlayerID: 76561198106869292 Name: roman146rus Character: roman146rus Ping: 51
+
+17.11.2017 16:45:39: Client has executed command "bans"
+
+17.11.2017 16:45:39: Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 28510038
+PlayerID: 76561198395511982
+JudgeID: 0
+Reason: 999999 Duration: 31536000 Remaining: 30064790
+PlayerID: 76561198331180787
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30413008
+PlayerID: 76561198172502147
+JudgeID: 76561198237123262
+Reason: 3600 Duration: 31536000 Remaining: 30416402
+PlayerID: 76561198331252339
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30428735
+PlayerID: 76561198434258763
+JudgeID: 0
+Reason: reid Duration: 608400 Remaining: 195282
+
+17.11.2017 16:45:39: END
+17.11.2017 16:45:41: END
+17.11.2017 16:45:41: [World] Славик Cухоруков [slava.fan555]: "стоп ренди ето создатель сервера?"
+
+17.11.2017 16:45:46: [World] Nick_Hunter[RUS] [_Nick_Hunter_]: "ид военных патронов"
+
+17.11.2017 16:45:54: Disconnecting: PlayerID: 76561198408019916 Name: slava.fan555 Character: Славик Cухоруков
+
+17.11.2017 16:45:55: cchat "??" 255 0 0
+17.11.2017 16:45:55: Client has executed command "cchat "??" 255 0 0"
+
+17.11.2017 16:45:55: ServerControl >> Broadcast: ??
+
+17.11.2017 16:45:55: Не обработано: ServerControl >> Broadcast: ??
+17.11.2017 16:45:58: Client has executed command "players"
+
+17.11.2017 16:45:58: Players:
+PlayerID: 76561198170498361 Name: _Nick_Hunter_ Character: Nick_Hunter[RUS] Ping: 126
+PlayerID: 76561198423084997 Name: lovemariina Character: Rendy Ping: 149
+PlayerID: 76561198364621785 Name: Alexander A-K Character: AlexanderAGaming Ping: 167
+PlayerID: 76561198444494613 Name: vladkrigin Character: 666а Ping: 137
+PlayerID: 76561198106869292 Name: roman146rus Character: roman146rus Ping: 54
+
+17.11.2017 16:45:59: Client has executed command "bans"
+
+17.11.2017 16:45:59: Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 28510018
+PlayerID: 76561198395511982
+JudgeID: 0
+Reason: 999999 Duration: 31536000 Remaining: 30064770
+PlayerID: 76561198331180787
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30412988
+PlayerID: 76561198172502147
+JudgeID: 76561198237123262
+Reason: 3600 Duration: 31536000 Remaining: 30416382
+PlayerID: 76561198331252339
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30428715
+PlayerID: 76561198434258763
+JudgeID: 0
+Reason: reid Duration: 608400 Remaining: 195262
+
+17.11.2017 16:45:59: END
+17.11.2017 16:46:01: END
+17.11.2017 16:46:15: [World] Nick_Hunter[RUS] [_Nick_Hunter_]: "я не пмоню как точно называются военные патроны на военных базах"
+
+17.11.2017 16:46:15: cchat "/48/14/09 /16/15/04/17/20/03/15/13/20 /14/00/08/28/02/00/31/19/18/32 /02/17/15/04/05" 255 0 0
+17.11.2017 16:46:15: Client has executed command "cchat "/48/14/09 /16/15/04/17/20/03/15/13/20 /14/00/08/28/02/00/31/19/18/32 /02/17/15/04/05" 255 0 0"
+
+17.11.2017 16:46:15: ServerControl >> Broadcast: Они подругому называются вроде
+
+17.11.2017 16:46:15: Не обработано: ServerControl >> Broadcast: Они подругому называются вроде
+17.11.2017 16:46:18: cchat "/59/00 /18/05/11" 255 0 0
+17.11.2017 16:46:18: Client has executed command "cchat "/59/00 /18/05/11" 255 0 0"
+
+17.11.2017 16:46:18: ServerControl >> Broadcast: Ща сек
+
+17.11.2017 16:46:18: Не обработано: ServerControl >> Broadcast: Ща сек
+17.11.2017 16:46:18: Client has executed command "players"
+
+17.11.2017 16:46:18: Players:
+PlayerID: 76561198170498361 Name: _Nick_Hunter_ Character: Nick_Hunter[RUS] Ping: 126
+PlayerID: 76561198423084997 Name: lovemariina Character: Rendy Ping: 143
+PlayerID: 76561198364621785 Name: Alexander A-K Character: AlexanderAGaming Ping: 159
+PlayerID: 76561198444494613 Name: vladkrigin Character: 666а Ping: 125
+PlayerID: 76561198106869292 Name: roman146rus Character: roman146rus Ping: 59
+
+17.11.2017 16:46:19: Client has executed command "bans"
+
+17.11.2017 16:46:19: Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 28509998
+PlayerID: 76561198395511982
+JudgeID: 0
+Reason: 999999 Duration: 31536000 Remaining: 30064750
+PlayerID: 76561198331180787
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30412968
+PlayerID: 76561198172502147
+JudgeID: 76561198237123262
+Reason: 3600 Duration: 31536000 Remaining: 30416362
+PlayerID: 76561198331252339
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30428695
+PlayerID: 76561198434258763
+JudgeID: 0
+Reason: reid Duration: 608400 Remaining: 195242
+
+17.11.2017 16:46:19: END
+17.11.2017 16:46:21: END
+17.11.2017 16:46:25: Connecting: PlayerID: 76561198408019916 Name: slava.fan555 Character: Славик Cухоруков
+
+17.11.2017 16:46:25: Славик Cухоруков connected with IP 93.72.254.223
+
+17.11.2017 16:46:31: MessageAnnouncer >> Broadcast: vk.com/unturned_hgm - группа сервера ВК, уникальный кит в записи!
+
+17.11.2017 16:46:31: MessageAnnouncer >> vk.com/unturned_hgm - группа сервера ВК, уникальный кит в записи!
+
+17.11.2017 16:46:38: Client has executed command "players"
+
+17.11.2017 16:46:38: Players:
+PlayerID: 76561198170498361 Name: _Nick_Hunter_ Character: Nick_Hunter[RUS] Ping: 132
+PlayerID: 76561198423084997 Name: lovemariina Character: Rendy Ping: 136
+PlayerID: 76561198364621785 Name: Alexander A-K Character: AlexanderAGaming Ping: 150
+PlayerID: 76561198444494613 Name: vladkrigin Character: 666а Ping: 122
+PlayerID: 76561198106869292 Name: roman146rus Character: roman146rus Ping: 60
+PlayerID: 76561198408019916 Name: slava.fan555 Character: Славик Cухоруков Ping: 107
+
+17.11.2017 16:46:39: Client has executed command "bans"
+
+17.11.2017 16:46:39: Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 28509978
+PlayerID: 76561198395511982
+JudgeID: 0
+Reason: 999999 Duration: 31536000 Remaining: 30064730
+PlayerID: 76561198331180787
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30412948
+PlayerID: 76561198172502147
+JudgeID: 76561198237123262
+Reason: 3600 Duration: 31536000 Remaining: 30416342
+PlayerID: 76561198331252339
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30428675
+PlayerID: 76561198434258763
+JudgeID: 0
+Reason: reid Duration: 608400 Remaining: 195222
+
+17.11.2017 16:46:39: END
+17.11.2017 16:46:41: END
+17.11.2017 16:46:46: [World] Славик Cухоруков [slava.fan555]: "ладно пожалуй пойду домой"
+
+17.11.2017 16:46:53: cchat "/51/12/00/02/11/09" 255 0 0
+17.11.2017 16:46:53: Client has executed command "cchat "/51/12/00/02/11/09" 255 0 0"
+
+17.11.2017 16:46:53: ServerControl >> Broadcast: Славки
+
+17.11.2017 16:46:53: Не обработано: ServerControl >> Broadcast: Славки
+17.11.2017 16:46:58: Client has executed command "players"
+
+17.11.2017 16:46:58: Players:
+PlayerID: 76561198170498361 Name: _Nick_Hunter_ Character: Nick_Hunter[RUS] Ping: 129
+PlayerID: 76561198423084997 Name: lovemariina Character: Rendy Ping: 146
+PlayerID: 76561198364621785 Name: Alexander A-K Character: AlexanderAGaming Ping: 190
+PlayerID: 76561198444494613 Name: vladkrigin Character: 666а Ping: 189
+PlayerID: 76561198106869292 Name: roman146rus Character: roman146rus Ping: 62
+PlayerID: 76561198408019916 Name: slava.fan555 Character: Славик Cухоруков Ping: 102
+
+17.11.2017 16:46:59: Client has executed command "bans"
+
+17.11.2017 16:46:59: Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 28509958
+PlayerID: 76561198395511982
+JudgeID: 0
+Reason: 999999 Duration: 31536000 Remaining: 30064710
+PlayerID: 76561198331180787
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30412928
+PlayerID: 76561198172502147
+JudgeID: 76561198237123262
+Reason: 3600 Duration: 31536000 Remaining: 30416322
+PlayerID: 76561198331252339
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30428655
+PlayerID: 76561198434258763
+JudgeID: 0
+Reason: reid Duration: 608400 Remaining: 195202
+
+17.11.2017 16:46:59: END
+17.11.2017 16:47:01: cchat "/33/04/13/09/14 /18/05/17/02/05/17/00 HemulGM" 255 0 0
+17.11.2017 16:47:01: Client has executed command "cchat "/33/04/13/09/14 /18/05/17/02/05/17/00 HemulGM" 255 0 0"
+
+17.11.2017 16:47:01: ServerControl >> Broadcast: Админ сервера HemulGM
+
+17.11.2017 16:47:01: Не обработано: ServerControl >> Broadcast: Админ сервера HemulGM
+17.11.2017 16:47:01: [World] Славик Cухоруков [slava.fan555]: "что?"
+
+17.11.2017 16:47:03: END
+17.11.2017 16:47:11: [World] Славик Cухоруков [slava.fan555]: "ок"
+
+17.11.2017 16:47:18: Client has executed command "players"
+
+17.11.2017 16:47:18: Players:
+PlayerID: 76561198170498361 Name: _Nick_Hunter_ Character: Nick_Hunter[RUS] Ping: 132
+PlayerID: 76561198423084997 Name: lovemariina Character: Rendy Ping: 155
+PlayerID: 76561198364621785 Name: Alexander A-K Character: AlexanderAGaming Ping: 172
+PlayerID: 76561198444494613 Name: vladkrigin Character: 666а Ping: 145
+PlayerID: 76561198106869292 Name: roman146rus Character: roman146rus Ping: 62
+PlayerID: 76561198408019916 Name: slava.fan555 Character: Славик Cухоруков Ping: 240
+
+17.11.2017 16:47:19: Client has executed command "bans"
+
+17.11.2017 16:47:19: Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 28509938
+PlayerID: 76561198395511982
+JudgeID: 0
+Reason: 999999 Duration: 31536000 Remaining: 30064690
+PlayerID: 76561198331180787
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30412908
+PlayerID: 76561198172502147
+JudgeID: 76561198237123262
+Reason: 3600 Duration: 31536000 Remaining: 30416302
+PlayerID: 76561198331252339
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30428635
+PlayerID: 76561198434258763
+JudgeID: 0
+Reason: reid Duration: 608400 Remaining: 195182
+
+17.11.2017 16:47:19: END
+17.11.2017 16:47:21: END
+17.11.2017 16:47:25: cchat "/47/09/11, /16/09/25/09, /13/00/03/00/08/09/14 /04/12/32 (/14/00/08/02/00/14/09/05 /16/20/25/11/09 /14/00 /00/14/03/12)" 255 0 0
+17.11.2017 16:47:25: Client has executed command "cchat "/47/09/11, /16/09/25/09, /13/00/03/00/08/09/14 /04/12/32 (/14/00/08/02/00/14/09/05 /16/20/25/11/09 /14/00 /00/14/03/12)" 255 0 0"
+
+17.11.2017 16:47:25: ServerControl >> Broadcast: Ник, пиши, магазин для (название пушки на англ)
+
+17.11.2017 16:47:25: Не обработано: ServerControl >> Broadcast: Ник, пиши, магазин для (название пушки на англ)
+17.11.2017 16:47:31: MessageAnnouncer >> Broadcast: Посетите наш сайт. Вы будете удивлены! unturned.hemulgm.ru
+
+17.11.2017 16:47:31: MessageAnnouncer >> Посетите наш сайт. Вы будете удивлены! unturned.hemulgm.ru
+
+17.11.2017 16:47:31: cchat "/09/04 /13/00/03/00/08/09/14 /04/12/32 ug" 255 0 0
+17.11.2017 16:47:31: Client has executed command "cchat "/09/04 /13/00/03/00/08/09/14 /04/12/32 ug" 255 0 0"
+
+17.11.2017 16:47:31: ServerControl >> Broadcast: ид магазин для ug
+
+17.11.2017 16:47:31: Не обработано: ServerControl >> Broadcast: ид магазин для ug
+17.11.2017 16:47:34: cchat "/09/04 /13/00/03/00/08/09/14 /04/12/32 aug" 255 0 0
+17.11.2017 16:47:34: Client has executed command "cchat "/09/04 /13/00/03/00/08/09/14 /04/12/32 aug" 255 0 0"
+
+17.11.2017 16:47:35: ServerControl >> Broadcast: ид магазин для aug
+
+17.11.2017 16:47:35: Не обработано: ServerControl >> Broadcast: ид магазин для aug
+17.11.2017 16:47:38: Client has executed command "players"
+
+17.11.2017 16:47:38: Players:
+PlayerID: 76561198170498361 Name: _Nick_Hunter_ Character: Nick_Hunter[RUS] Ping: 125
+PlayerID: 76561198423084997 Name: lovemariina Character: Rendy Ping: 143
+PlayerID: 76561198364621785 Name: Alexander A-K Character: AlexanderAGaming Ping: 170
+PlayerID: 76561198444494613 Name: vladkrigin Character: 666а Ping: 128
+PlayerID: 76561198106869292 Name: roman146rus Character: roman146rus Ping: 53
+PlayerID: 76561198408019916 Name: slava.fan555 Character: Славик Cухоруков Ping: 79
+
+17.11.2017 16:47:39: Client has executed command "bans"
+
+17.11.2017 16:47:39: Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 28509918
+PlayerID: 76561198395511982
+JudgeID: 0
+Reason: 999999 Duration: 31536000 Remaining: 30064670
+PlayerID: 76561198331180787
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30412888
+PlayerID: 76561198172502147
+JudgeID: 76561198237123262
+Reason: 3600 Duration: 31536000 Remaining: 30416282
+PlayerID: 76561198331252339
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30428615
+PlayerID: 76561198434258763
+JudgeID: 0
+Reason: reid Duration: 608400 Remaining: 195162
+
+17.11.2017 16:47:39: END
+17.11.2017 16:47:41: END
+17.11.2017 16:47:45: cchat "/09/04 /13/00/03/00/08/09/14 /04/12/32 mamamorez" 255 0 0
+17.11.2017 16:47:45: Client has executed command "cchat "/09/04 /13/00/03/00/08/09/14 /04/12/32 mamamorez" 255 0 0"
+
+17.11.2017 16:47:46: ServerControl >> Broadcast: ид магазин для mamamorez
+
+17.11.2017 16:47:46: Не обработано: ServerControl >> Broadcast: ид магазин для mamamorez
+17.11.2017 16:47:46: [World] Nick_Hunter[RUS] [_Nick_Hunter_]: "ид магазин для aug"
+
+17.11.2017 16:47:50: [World] Rendy [lovemariina]: "aug"
+
+17.11.2017 16:47:50: [World] Славик Cухоруков [slava.fan555]: "у меня денег не хвотает"
+
+17.11.2017 16:47:50: cchat "/51/20/11" 255 0 0
+17.11.2017 16:47:50: Client has executed command "cchat "/51/20/11" 255 0 0"
+
+17.11.2017 16:47:51: ServerControl >> Broadcast: Сук
+
+17.11.2017 16:47:51: Не обработано: ServerControl >> Broadcast: Сук
+17.11.2017 16:47:58: Client has executed command "players"
+
+17.11.2017 16:47:58: Players:
+PlayerID: 76561198170498361 Name: _Nick_Hunter_ Character: Nick_Hunter[RUS] Ping: 133
+PlayerID: 76561198423084997 Name: lovemariina Character: Rendy Ping: 145
+PlayerID: 76561198364621785 Name: Alexander A-K Character: AlexanderAGaming Ping: 187
+PlayerID: 76561198444494613 Name: vladkrigin Character: 666а Ping: 152
+PlayerID: 76561198106869292 Name: roman146rus Character: roman146rus Ping: 48
+PlayerID: 76561198408019916 Name: slava.fan555 Character: Славик Cухоруков Ping: 80
+
+17.11.2017 16:47:59: Client has executed command "bans"
+
+17.11.2017 16:47:59: Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 28509898
+PlayerID: 76561198395511982
+JudgeID: 0
+Reason: 999999 Duration: 31536000 Remaining: 30064650
+PlayerID: 76561198331180787
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30412868
+PlayerID: 76561198172502147
+JudgeID: 76561198237123262
+Reason: 3600 Duration: 31536000 Remaining: 30416262
+PlayerID: 76561198331252339
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30428595
+PlayerID: 76561198434258763
+JudgeID: 0
+Reason: reid Duration: 608400 Remaining: 195142
+
+17.11.2017 16:47:59: END
+17.11.2017 16:48:01: END
+17.11.2017 16:48:18: Client has executed command "players"
+
+17.11.2017 16:48:18: Players:
+PlayerID: 76561198170498361 Name: _Nick_Hunter_ Character: Nick_Hunter[RUS] Ping: 127
+PlayerID: 76561198423084997 Name: lovemariina Character: Rendy Ping: 137
+PlayerID: 76561198364621785 Name: Alexander A-K Character: AlexanderAGaming Ping: 218
+PlayerID: 76561198444494613 Name: vladkrigin Character: 666а Ping: 145
+PlayerID: 76561198106869292 Name: roman146rus Character: roman146rus Ping: 55
+PlayerID: 76561198408019916 Name: slava.fan555 Character: Славик Cухоруков Ping: 80
+
+17.11.2017 16:48:19: Client has executed command "bans"
+
+17.11.2017 16:48:19: Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 28509878
+PlayerID: 76561198395511982
+JudgeID: 0
+Reason: 999999 Duration: 31536000 Remaining: 30064630
+PlayerID: 76561198331180787
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30412848
+PlayerID: 76561198172502147
+JudgeID: 76561198237123262
+Reason: 3600 Duration: 31536000 Remaining: 30416242
+PlayerID: 76561198331252339
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30428575
+PlayerID: 76561198434258763
+JudgeID: 0
+Reason: reid Duration: 608400 Remaining: 195122
+
+17.11.2017 16:48:19: END
+17.11.2017 16:48:21: END
+17.11.2017 16:48:23: cchat "/34/12/32, /14/05 /04/12/32 Aug, /20 /14/05/03/15 /15/01/28/24/14/28/05" 255 0 0
+17.11.2017 16:48:23: Client has executed command "cchat "/34/12/32, /14/05 /04/12/32 Aug, /20 /14/05/03/15 /15/01/28/24/14/28/05" 255 0 0"
+
+17.11.2017 16:48:23: ServerControl >> Broadcast: Бля, не для Aug, у него обычные
+
+17.11.2017 16:48:23: Не обработано: ServerControl >> Broadcast: Бля, не для Aug, у него обычные
+17.11.2017 16:48:31: MessageAnnouncer >> Broadcast: Наберите /kit help, чтобы получить первую мед. помощь (бинты, таблетки, еда)
+
+17.11.2017 16:48:31: MessageAnnouncer >> Наберите /kit help, чтобы получить первую мед. помощь (бинты, таблетки, еда)
+
+17.11.2017 16:48:38: Client has executed command "players"
+
+17.11.2017 16:48:38: Players:
+PlayerID: 76561198170498361 Name: _Nick_Hunter_ Character: Nick_Hunter[RUS] Ping: 129
+PlayerID: 76561198423084997 Name: lovemariina Character: Rendy Ping: 138
+PlayerID: 76561198364621785 Name: Alexander A-K Character: AlexanderAGaming Ping: 163
+PlayerID: 76561198444494613 Name: vladkrigin Character: 666а Ping: 148
+PlayerID: 76561198106869292 Name: roman146rus Character: roman146rus Ping: 64
+PlayerID: 76561198408019916 Name: slava.fan555 Character: Славик Cухоруков Ping: 81
+
+17.11.2017 16:48:39: Client has executed command "bans"
+
+17.11.2017 16:48:39: Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 28509858
+PlayerID: 76561198395511982
+JudgeID: 0
+Reason: 999999 Duration: 31536000 Remaining: 30064610
+PlayerID: 76561198331180787
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30412828
+PlayerID: 76561198172502147
+JudgeID: 76561198237123262
+Reason: 3600 Duration: 31536000 Remaining: 30416222
+PlayerID: 76561198331252339
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30428555
+PlayerID: 76561198434258763
+JudgeID: 0
+Reason: reid Duration: 608400 Remaining: 195102
+
+17.11.2017 16:48:39: END
+17.11.2017 16:48:41: END
+17.11.2017 16:48:58: Client has executed command "players"
+
+17.11.2017 16:48:58: Players:
+PlayerID: 76561198170498361 Name: _Nick_Hunter_ Character: Nick_Hunter[RUS] Ping: 130
+PlayerID: 76561198423084997 Name: lovemariina Character: Rendy Ping: 133
+PlayerID: 76561198364621785 Name: Alexander A-K Character: AlexanderAGaming Ping: 167
+PlayerID: 76561198444494613 Name: vladkrigin Character: 666а Ping: 144
+PlayerID: 76561198106869292 Name: roman146rus Character: roman146rus Ping: 55
+PlayerID: 76561198408019916 Name: slava.fan555 Character: Славик Cухоруков Ping: 99
+
+17.11.2017 16:48:59: Client has executed command "bans"
+
+17.11.2017 16:48:59: Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 28509838
+PlayerID: 76561198395511982
+JudgeID: 0
+Reason: 999999 Duration: 31536000 Remaining: 30064590
+PlayerID: 76561198331180787
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30412808
+PlayerID: 76561198172502147
+JudgeID: 76561198237123262
+Reason: 3600 Duration: 31536000 Remaining: 30416202
+PlayerID: 76561198331252339
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30428535
+PlayerID: 76561198434258763
+JudgeID: 0
+Reason: reid Duration: 608400 Remaining: 195082
+
+17.11.2017 16:48:59: END
+17.11.2017 16:49:01: END
+17.11.2017 16:49:18: Client has executed command "players"
+
+17.11.2017 16:49:18: Players:
+PlayerID: 76561198170498361 Name: _Nick_Hunter_ Character: Nick_Hunter[RUS] Ping: 133
+PlayerID: 76561198423084997 Name: lovemariina Character: Rendy Ping: 146
+PlayerID: 76561198364621785 Name: Alexander A-K Character: AlexanderAGaming Ping: 170
+PlayerID: 76561198444494613 Name: vladkrigin Character: 666а Ping: 129
+PlayerID: 76561198106869292 Name: roman146rus Character: roman146rus Ping: 52
+PlayerID: 76561198408019916 Name: slava.fan555 Character: Славик Cухоруков Ping: 101
+
+17.11.2017 16:49:19: Client has executed command "bans"
+
+17.11.2017 16:49:19: Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 28509818
+PlayerID: 76561198395511982
+JudgeID: 0
+Reason: 999999 Duration: 31536000 Remaining: 30064570
+PlayerID: 76561198331180787
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30412788
+PlayerID: 76561198172502147
+JudgeID: 76561198237123262
+Reason: 3600 Duration: 31536000 Remaining: 30416182
+PlayerID: 76561198331252339
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30428515
+PlayerID: 76561198434258763
+JudgeID: 0
+Reason: reid Duration: 608400 Remaining: 195062
+
+17.11.2017 16:49:19: END
+17.11.2017 16:49:21: END
+17.11.2017 16:49:31: MessageAnnouncer >> Broadcast: vk.com/unturned_hgm - цены на премиум, VIP и другие услуги смотрите в группе!
+
+17.11.2017 16:49:31: MessageAnnouncer >> vk.com/unturned_hgm - цены на премиум, VIP и другие услуги смотрите в группе!
+
+17.11.2017 16:49:38: Client has executed command "players"
+
+17.11.2017 16:49:38: Players:
+PlayerID: 76561198170498361 Name: _Nick_Hunter_ Character: Nick_Hunter[RUS] Ping: 122
+PlayerID: 76561198423084997 Name: lovemariina Character: Rendy Ping: 126
+PlayerID: 76561198364621785 Name: Alexander A-K Character: AlexanderAGaming Ping: 170
+PlayerID: 76561198444494613 Name: vladkrigin Character: 666а Ping: 127
+PlayerID: 76561198106869292 Name: roman146rus Character: roman146rus Ping: 46
+PlayerID: 76561198408019916 Name: slava.fan555 Character: Славик Cухоруков Ping: 92
+
+17.11.2017 16:49:39: cchat "/47/09/11, /19/00/13 /00/17/13/05/10/18/11/09/10 /13/00/03/00/08/09/14" 255 0 0
+17.11.2017 16:49:39: Client has executed command "cchat "/47/09/11, /19/00/13 /00/17/13/05/10/18/11/09/10 /13/00/03/00/08/09/14" 255 0 0"
+
+17.11.2017 16:49:39: ServerControl >> Broadcast: Ник, там армейский магазин
+
+17.11.2017 16:49:39: Не обработано: ServerControl >> Broadcast: Ник, там армейский магазин
+17.11.2017 16:49:41: Client has executed command "bans"
+
+17.11.2017 16:49:41: Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 28509796
+PlayerID: 76561198395511982
+JudgeID: 0
+Reason: 999999 Duration: 31536000 Remaining: 30064548
+PlayerID: 76561198331180787
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30412766
+PlayerID: 76561198172502147
+JudgeID: 76561198237123262
+Reason: 3600 Duration: 31536000 Remaining: 30416160
+PlayerID: 76561198331252339
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30428493
+PlayerID: 76561198434258763
+JudgeID: 0
+Reason: reid Duration: 608400 Remaining: 195040
+
+17.11.2017 16:49:41: END
+17.11.2017 16:49:42: END
+17.11.2017 16:49:45: cchat "/09/04 /00/17/13/05/10/18/11/09/10 /13/00/03/00/08/09/14" 255 0 0
+17.11.2017 16:49:45: Client has executed command "cchat "/09/04 /00/17/13/05/10/18/11/09/10 /13/00/03/00/08/09/14" 255 0 0"
+
+17.11.2017 16:49:45: ServerControl >> Broadcast: ид армейский магазин
+
+17.11.2017 16:49:45: Не обработано: ServerControl >> Broadcast: ид армейский магазин
+17.11.2017 16:49:55: [World] Nick_Hunter[RUS] [_Nick_Hunter_]: "bl fhvtqcrbq vfufpby"
+
+17.11.2017 16:49:58: Client has executed command "players"
+
+17.11.2017 16:49:58: Players:
+PlayerID: 76561198170498361 Name: _Nick_Hunter_ Character: Nick_Hunter[RUS] Ping: 123
+PlayerID: 76561198423084997 Name: lovemariina Character: Rendy Ping: 142
+PlayerID: 76561198364621785 Name: Alexander A-K Character: AlexanderAGaming Ping: 166
+PlayerID: 76561198444494613 Name: vladkrigin Character: 666а Ping: 162
+PlayerID: 76561198106869292 Name: roman146rus Character: roman146rus Ping: 54
+PlayerID: 76561198408019916 Name: slava.fan555 Character: Славик Cухоруков Ping: 82
+
+17.11.2017 16:49:58: cchat "=)" 255 0 0
+17.11.2017 16:49:58: Client has executed command "cchat "=)" 255 0 0"
+
+17.11.2017 16:49:58: ServerControl >> Broadcast: =)
+
+17.11.2017 16:49:58: Не обработано: ServerControl >> Broadcast: =)
+17.11.2017 16:49:59: [World] Славик Cухоруков [slava.fan555]: ".6"
+
+17.11.2017 16:50:00: END
+17.11.2017 16:50:01: Client has executed command "bans"
+
+17.11.2017 16:50:01: Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 28509777
+PlayerID: 76561198395511982
+JudgeID: 0
+Reason: 999999 Duration: 31536000 Remaining: 30064529
+PlayerID: 76561198331180787
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30412747
+PlayerID: 76561198172502147
+JudgeID: 76561198237123262
+Reason: 3600 Duration: 31536000 Remaining: 30416141
+PlayerID: 76561198331252339
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30428474
+PlayerID: 76561198434258763
+JudgeID: 0
+Reason: reid Duration: 608400 Remaining: 195021
+
+17.11.2017 16:50:02: END
+17.11.2017 16:50:03: [World] Nick_Hunter[RUS] [_Nick_Hunter_]: "ид армейский магазин"
+
+17.11.2017 16:50:10: cchat "/37/00 /24/05 /08 /14/00/22" 255 0 0
+17.11.2017 16:50:10: Client has executed command "cchat "/37/00 /24/05 /08 /14/00/22" 255 0 0"
+
+17.11.2017 16:50:10: ServerControl >> Broadcast: Да че з нах
+
+17.11.2017 16:50:10: Не обработано: ServerControl >> Broadcast: Да че з нах
+17.11.2017 16:50:18: Client has executed command "players"
+
+17.11.2017 16:50:18: Players:
+PlayerID: 76561198170498361 Name: _Nick_Hunter_ Character: Nick_Hunter[RUS] Ping: 130
+PlayerID: 76561198423084997 Name: lovemariina Character: Rendy Ping: 154
+PlayerID: 76561198364621785 Name: Alexander A-K Character: AlexanderAGaming Ping: 178
+PlayerID: 76561198444494613 Name: vladkrigin Character: 666а Ping: 156
+PlayerID: 76561198106869292 Name: roman146rus Character: roman146rus Ping: 48
+PlayerID: 76561198408019916 Name: slava.fan555 Character: Славик Cухоруков Ping: 67
+
+17.11.2017 16:50:19: Client has executed command "bans"
+
+17.11.2017 16:50:19: Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 28509758
+PlayerID: 76561198395511982
+JudgeID: 0
+Reason: 999999 Duration: 31536000 Remaining: 30064510
+PlayerID: 76561198331180787
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30412728
+PlayerID: 76561198172502147
+JudgeID: 76561198237123262
+Reason: 3600 Duration: 31536000 Remaining: 30416122
+PlayerID: 76561198331252339
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30428455
+PlayerID: 76561198434258763
+JudgeID: 0
+Reason: reid Duration: 608400 Remaining: 195002
+
+17.11.2017 16:50:19: END
+17.11.2017 16:50:21: END
+17.11.2017 16:50:23: Client has executed command "cchat "/33/09/17/04/17/15/16 /24/05/17/05/08 1 /24. 10 /13. " 255 255 0"
+
+17.11.2017 16:50:23: ServerControl >> Broadcast: Аирдроп через 1 ч. 10 м.
+
+17.11.2017 16:50:23: Не обработано: ServerControl >> Broadcast: Аирдроп через 1 ч. 10 м.
+17.11.2017 16:50:31: MessageAnnouncer >> Broadcast: Наберите /kit claim, чтобы получить Claim Flag
+
+17.11.2017 16:50:31: MessageAnnouncer >> Наберите /kit claim, чтобы получить Claim Flag
+
+17.11.2017 16:50:38: Client has executed command "players"
+
+17.11.2017 16:50:38: Players:
+PlayerID: 76561198170498361 Name: _Nick_Hunter_ Character: Nick_Hunter[RUS] Ping: 143
+PlayerID: 76561198423084997 Name: lovemariina Character: Rendy Ping: 147
+PlayerID: 76561198364621785 Name: Alexander A-K Character: AlexanderAGaming Ping: 164
+PlayerID: 76561198444494613 Name: vladkrigin Character: 666а Ping: 150
+PlayerID: 76561198106869292 Name: roman146rus Character: roman146rus Ping: 58
+PlayerID: 76561198408019916 Name: slava.fan555 Character: Славик Cухоруков Ping: 86
+
+17.11.2017 16:50:39: Client has executed command "bans"
+
+17.11.2017 16:50:39: Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 28509738
+PlayerID: 76561198395511982
+JudgeID: 0
+Reason: 999999 Duration: 31536000 Remaining: 30064490
+PlayerID: 76561198331180787
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30412708
+PlayerID: 76561198172502147
+JudgeID: 76561198237123262
+Reason: 3600 Duration: 31536000 Remaining: 30416102
+PlayerID: 76561198331252339
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30428435
+PlayerID: 76561198434258763
+JudgeID: 0
+Reason: reid Duration: 608400 Remaining: 194982
+
+17.11.2017 16:50:39: END
+17.11.2017 16:50:41: END
+17.11.2017 16:50:58: Client has executed command "players"
+
+17.11.2017 16:50:58: Players:
+PlayerID: 76561198170498361 Name: _Nick_Hunter_ Character: Nick_Hunter[RUS] Ping: 125
+PlayerID: 76561198423084997 Name: lovemariina Character: Rendy Ping: 143
+PlayerID: 76561198364621785 Name: Alexander A-K Character: AlexanderAGaming Ping: 175
+PlayerID: 76561198444494613 Name: vladkrigin Character: 666а Ping: 126
+PlayerID: 76561198106869292 Name: roman146rus Character: roman146rus Ping: 47
+PlayerID: 76561198408019916 Name: slava.fan555 Character: Славик Cухоруков Ping: 94
+
+17.11.2017 16:50:59: Client has executed command "bans"
+
+17.11.2017 16:50:59: Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 28509718
+PlayerID: 76561198395511982
+JudgeID: 0
+Reason: 999999 Duration: 31536000 Remaining: 30064470
+PlayerID: 76561198331180787
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30412688
+PlayerID: 76561198172502147
+JudgeID: 76561198237123262
+Reason: 3600 Duration: 31536000 Remaining: 30416082
+PlayerID: 76561198331252339
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30428415
+PlayerID: 76561198434258763
+JudgeID: 0
+Reason: reid Duration: 608400 Remaining: 194962
+
+17.11.2017 16:50:59: END
+17.11.2017 16:51:01: END
+17.11.2017 16:51:08: cchat "/45/15/12, /00/17/13/05/10/18/11/15/03/15 /13/00/03/00/08/09/14/00 /14/05/19 /02 /18/16/09/18/11/05" 255 0 0
+17.11.2017 16:51:08: Client has executed command "cchat "/45/15/12, /00/17/13/05/10/18/11/15/03/15 /13/00/03/00/08/09/14/00 /14/05/19 /02 /18/16/09/18/11/05" 255 0 0"
+
+17.11.2017 16:51:08: ServerControl >> Broadcast: Лол, армейского магазина нет в списке
+
+17.11.2017 16:51:08: Не обработано: ServerControl >> Broadcast: Лол, армейского магазина нет в списке
+17.11.2017 16:51:18: Client has executed command "players"
+
+17.11.2017 16:51:18: Players:
+PlayerID: 76561198170498361 Name: _Nick_Hunter_ Character: Nick_Hunter[RUS] Ping: 128
+PlayerID: 76561198423084997 Name: lovemariina Character: Rendy Ping: 134
+PlayerID: 76561198364621785 Name: Alexander A-K Character: AlexanderAGaming Ping: 157
+PlayerID: 76561198444494613 Name: vladkrigin Character: 666а Ping: 122
+PlayerID: 76561198106869292 Name: roman146rus Character: roman146rus Ping: 72
+PlayerID: 76561198408019916 Name: slava.fan555 Character: Славик Cухоруков Ping: 74
+
+17.11.2017 16:51:19: Client has executed command "bans"
+
+17.11.2017 16:51:19: Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 28509698
+PlayerID: 76561198395511982
+JudgeID: 0
+Reason: 999999 Duration: 31536000 Remaining: 30064450
+PlayerID: 76561198331180787
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30412668
+PlayerID: 76561198172502147
+JudgeID: 76561198237123262
+Reason: 3600 Duration: 31536000 Remaining: 30416062
+PlayerID: 76561198331252339
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30428395
+PlayerID: 76561198434258763
+JudgeID: 0
+Reason: reid Duration: 608400 Remaining: 194942
+
+17.11.2017 16:51:19: END
+17.11.2017 16:51:21: END
+17.11.2017 16:51:23: [World] Славик Cухоруков [slava.fan555]: "100 gfnhjybr bl17"
+
+17.11.2017 16:51:31: MessageAnnouncer >> Broadcast: Если модератор ведёт себя неподобающе, пишите в группу или ЛС (vk.com/unturned_hgm, vk.com/hemulgm)
+
+17.11.2017 16:51:31: MessageAnnouncer >> Если модератор ведёт себя неподобающе, пишите в группу или ЛС (vk.com/unturned_hgm, vk.com/hemulgm)
+[World] Славик Cухоруков [slava.fan555]: "100 патроник ид 17"
+
+17.11.2017 16:51:31: [World] Nick_Hunter[RUS] [_Nick_Hunter_]: "да уж, бывает такое"
+
+17.11.2017 16:51:38: Client has executed command "players"
+
+17.11.2017 16:51:38: Players:
+PlayerID: 76561198170498361 Name: _Nick_Hunter_ Character: Nick_Hunter[RUS] Ping: 124
+PlayerID: 76561198423084997 Name: lovemariina Character: Rendy Ping: 133
+PlayerID: 76561198364621785 Name: Alexander A-K Character: AlexanderAGaming Ping: 163
+PlayerID: 76561198444494613 Name: vladkrigin Character: 666а Ping: 117
+PlayerID: 76561198106869292 Name: roman146rus Character: roman146rus Ping: 59
+PlayerID: 76561198408019916 Name: slava.fan555 Character: Славик Cухоруков Ping: 81
+
+17.11.2017 16:51:39: Client has executed command "bans"
+
+17.11.2017 16:51:39: Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 28509678
+PlayerID: 76561198395511982
+JudgeID: 0
+Reason: 999999 Duration: 31536000 Remaining: 30064430
+PlayerID: 76561198331180787
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30412648
+PlayerID: 76561198172502147
+JudgeID: 76561198237123262
+Reason: 3600 Duration: 31536000 Remaining: 30416042
+PlayerID: 76561198331252339
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30428375
+PlayerID: 76561198434258763
+JudgeID: 0
+Reason: reid Duration: 608400 Remaining: 194922
+
+17.11.2017 16:51:39: END
+17.11.2017 16:51:41: END
+17.11.2017 16:51:58: Client has executed command "players"
+
+17.11.2017 16:51:58: Players:
+PlayerID: 76561198170498361 Name: _Nick_Hunter_ Character: Nick_Hunter[RUS] Ping: 119
+PlayerID: 76561198423084997 Name: lovemariina Character: Rendy Ping: 137
+PlayerID: 76561198364621785 Name: Alexander A-K Character: AlexanderAGaming Ping: 171
+PlayerID: 76561198444494613 Name: vladkrigin Character: 666а Ping: 129
+PlayerID: 76561198106869292 Name: roman146rus Character: roman146rus Ping: 47
+PlayerID: 76561198408019916 Name: slava.fan555 Character: Славик Cухоруков Ping: 110
+
+17.11.2017 16:51:59: Client has executed command "bans"
+
+17.11.2017 16:51:59: Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 28509658
+PlayerID: 76561198395511982
+JudgeID: 0
+Reason: 999999 Duration: 31536000 Remaining: 30064410
+PlayerID: 76561198331180787
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30412628
+PlayerID: 76561198172502147
+JudgeID: 76561198237123262
+Reason: 3600 Duration: 31536000 Remaining: 30416022
+PlayerID: 76561198331252339
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30428355
+PlayerID: 76561198434258763
+JudgeID: 0
+Reason: reid Duration: 608400 Remaining: 194902
+
+17.11.2017 16:51:59: END
+17.11.2017 16:52:01: END
+17.11.2017 16:52:12: [World] roman146rus [roman146rus]: "/home"
+
+17.11.2017 16:52:18: Client has executed command "players"
+
+17.11.2017 16:52:18: Players:
+PlayerID: 76561198170498361 Name: _Nick_Hunter_ Character: Nick_Hunter[RUS] Ping: 140
+PlayerID: 76561198423084997 Name: lovemariina Character: Rendy Ping: 146
+PlayerID: 76561198364621785 Name: Alexander A-K Character: AlexanderAGaming Ping: 176
+PlayerID: 76561198444494613 Name: vladkrigin Character: 666а Ping: 135
+PlayerID: 76561198106869292 Name: roman146rus Character: roman146rus Ping: 64
+PlayerID: 76561198408019916 Name: slava.fan555 Character: Славик Cухоруков Ping: 98
+
+17.11.2017 16:52:19: Client has executed command "bans"
+
+17.11.2017 16:52:19: Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 28509638
+PlayerID: 76561198395511982
+JudgeID: 0
+Reason: 999999 Duration: 31536000 Remaining: 30064390
+PlayerID: 76561198331180787
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30412608
+PlayerID: 76561198172502147
+JudgeID: 76561198237123262
+Reason: 3600 Duration: 31536000 Remaining: 30416002
+PlayerID: 76561198331252339
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30428335
+PlayerID: 76561198434258763
+JudgeID: 0
+Reason: reid Duration: 608400 Remaining: 194882
+
+17.11.2017 16:52:19: END
+17.11.2017 16:52:21: END
+17.11.2017 16:52:31: MessageAnnouncer >> Broadcast: Посетите наш сайт. Вы будете удивлены! unturned.hemulgm.ru
+
+17.11.2017 16:52:31: MessageAnnouncer >> Посетите наш сайт. Вы будете удивлены! unturned.hemulgm.ru
+
+17.11.2017 16:52:38: Client has executed command "players"
+
+17.11.2017 16:52:38: Players:
+PlayerID: 76561198170498361 Name: _Nick_Hunter_ Character: Nick_Hunter[RUS] Ping: 123
+PlayerID: 76561198423084997 Name: lovemariina Character: Rendy Ping: 133
+PlayerID: 76561198364621785 Name: Alexander A-K Character: AlexanderAGaming Ping: 175
+PlayerID: 76561198444494613 Name: vladkrigin Character: 666а Ping: 131
+PlayerID: 76561198106869292 Name: roman146rus Character: roman146rus Ping: 67
+PlayerID: 76561198408019916 Name: slava.fan555 Character: Славик Cухоруков Ping: 85
+
+17.11.2017 16:52:39: Client has executed command "bans"
+
+17.11.2017 16:52:39: Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 28509618
+PlayerID: 76561198395511982
+JudgeID: 0
+Reason: 999999 Duration: 31536000 Remaining: 30064370
+PlayerID: 76561198331180787
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30412588
+PlayerID: 76561198172502147
+JudgeID: 76561198237123262
+Reason: 3600 Duration: 31536000 Remaining: 30415982
+PlayerID: 76561198331252339
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30428315
+PlayerID: 76561198434258763
+JudgeID: 0
+Reason: reid Duration: 608400 Remaining: 194862
+
+17.11.2017 16:52:39: END
+17.11.2017 16:52:41: END
+17.11.2017 16:52:49: cchat "/51/12/00/02/09/11" 255 0 0
+17.11.2017 16:52:49: Client has executed command "cchat "/51/12/00/02/09/11" 255 0 0"
+
+17.11.2017 16:52:49: ServerControl >> Broadcast: Славик
+
+17.11.2017 16:52:49: Не обработано: ServerControl >> Broadcast: Славик
+17.11.2017 16:52:58: Client has executed command "players"
+
+17.11.2017 16:52:58: Players:
+PlayerID: 76561198170498361 Name: _Nick_Hunter_ Character: Nick_Hunter[RUS] Ping: 125
+PlayerID: 76561198423084997 Name: lovemariina Character: Rendy Ping: 132
+PlayerID: 76561198364621785 Name: Alexander A-K Character: AlexanderAGaming Ping: 166
+PlayerID: 76561198444494613 Name: vladkrigin Character: 666а Ping: 131
+PlayerID: 76561198106869292 Name: roman146rus Character: roman146rus Ping: 55
+PlayerID: 76561198408019916 Name: slava.fan555 Character: Славик Cухоруков Ping: 75
+
+17.11.2017 16:52:59: Client has executed command "bans"
+
+17.11.2017 16:52:59: Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 28509598
+PlayerID: 76561198395511982
+JudgeID: 0
+Reason: 999999 Duration: 31536000 Remaining: 30064350
+PlayerID: 76561198331180787
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30412568
+PlayerID: 76561198172502147
+JudgeID: 76561198237123262
+Reason: 3600 Duration: 31536000 Remaining: 30415962
+PlayerID: 76561198331252339
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30428295
+PlayerID: 76561198434258763
+JudgeID: 0
+Reason: reid Duration: 608400 Remaining: 194842
+
+17.11.2017 16:52:59: END
+17.11.2017 16:53:01: END
+17.11.2017 16:53:01: cchat "/65 /04/05/12/00/31 /19/00/11, /24/19/15/01 /11/15/14/18/15/12/29 /19/05/01/05 /16/15/04/18/11/00/08/00/12/00 /09/04" 255 0 0
+17.11.2017 16:53:01: Client has executed command "cchat "/65 /04/05/12/00/31 /19/00/11, /24/19/15/01 /11/15/14/18/15/12/29 /19/05/01/05 /16/15/04/18/11/00/08/00/12/00 /09/04" 255 0 0"
+
+17.11.2017 16:53:01: ServerControl >> Broadcast: Я делаю так, чтоб консоль тебе подсказала ид
+
+17.11.2017 16:53:01: Не обработано: ServerControl >> Broadcast: Я делаю так, чтоб консоль тебе подсказала ид
+17.11.2017 16:53:18: Client has executed command "players"
+
+17.11.2017 16:53:18: Players:
+PlayerID: 76561198170498361 Name: _Nick_Hunter_ Character: Nick_Hunter[RUS] Ping: 134
+PlayerID: 76561198423084997 Name: lovemariina Character: Rendy Ping: 138
+PlayerID: 76561198364621785 Name: Alexander A-K Character: AlexanderAGaming Ping: 163
+PlayerID: 76561198444494613 Name: vladkrigin Character: 666а Ping: 179
+PlayerID: 76561198106869292 Name: roman146rus Character: roman146rus Ping: 50
+PlayerID: 76561198408019916 Name: slava.fan555 Character: Славик Cухоруков Ping: 120
+
+17.11.2017 16:53:19: Client has executed command "bans"
+
+17.11.2017 16:53:19: Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 28509578
+PlayerID: 76561198395511982
+JudgeID: 0
+Reason: 999999 Duration: 31536000 Remaining: 30064330
+PlayerID: 76561198331180787
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30412548
+PlayerID: 76561198172502147
+JudgeID: 76561198237123262
+Reason: 3600 Duration: 31536000 Remaining: 30415942
+PlayerID: 76561198331252339
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30428275
+PlayerID: 76561198434258763
+JudgeID: 0
+Reason: reid Duration: 608400 Remaining: 194822
+
+17.11.2017 16:53:19: END
+17.11.2017 16:53:21: END
+17.11.2017 16:53:31: MessageAnnouncer >> Broadcast: vk.com/hemulgm - ЕДИНСТВЕННЫЙ администратор сервера
+
+17.11.2017 16:53:31: MessageAnnouncer >> vk.com/hemulgm - ЕДИНСТВЕННЫЙ администратор сервера
+
+17.11.2017 16:53:34: cchat "/51/16/17/15/18/09 /14/00/16/17/09/13/05/17: /09/04 /00/20/03" 255 0 0
+17.11.2017 16:53:34: Client has executed command "cchat "/51/16/17/15/18/09 /14/00/16/17/09/13/05/17: /09/04 /00/20/03" 255 0 0"
+
+17.11.2017 16:53:34: ServerControl >> Broadcast: Спроси например: ид ауг
+
+17.11.2017 16:53:34: Не обработано: ServerControl >> Broadcast: Спроси например: ид ауг
+17.11.2017 16:53:38: Client has executed command "players"
+
+17.11.2017 16:53:38: Players:
+PlayerID: 76561198170498361 Name: _Nick_Hunter_ Character: Nick_Hunter[RUS] Ping: 127
+PlayerID: 76561198423084997 Name: lovemariina Character: Rendy Ping: 131
+PlayerID: 76561198364621785 Name: Alexander A-K Character: AlexanderAGaming Ping: 153
+PlayerID: 76561198444494613 Name: vladkrigin Character: 666а Ping: 161
+PlayerID: 76561198106869292 Name: roman146rus Character: roman146rus Ping: 52
+PlayerID: 76561198408019916 Name: slava.fan555 Character: Славик Cухоруков Ping: 83
+
+17.11.2017 16:53:39: Client has executed command "bans"
+
+17.11.2017 16:53:39: Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 28509558
+PlayerID: 76561198395511982
+JudgeID: 0
+Reason: 999999 Duration: 31536000 Remaining: 30064310
+PlayerID: 76561198331180787
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30412528
+PlayerID: 76561198172502147
+JudgeID: 76561198237123262
+Reason: 3600 Duration: 31536000 Remaining: 30415922
+PlayerID: 76561198331252339
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30428255
+PlayerID: 76561198434258763
+JudgeID: 0
+Reason: reid Duration: 608400 Remaining: 194802
+
+17.11.2017 16:53:39: END
+17.11.2017 16:53:41: END
+17.11.2017 16:53:58: Client has executed command "players"
+
+17.11.2017 16:53:58: Players:
+PlayerID: 76561198170498361 Name: _Nick_Hunter_ Character: Nick_Hunter[RUS] Ping: 132
+PlayerID: 76561198423084997 Name: lovemariina Character: Rendy Ping: 136
+PlayerID: 76561198364621785 Name: Alexander A-K Character: AlexanderAGaming Ping: 175
+PlayerID: 76561198444494613 Name: vladkrigin Character: 666а Ping: 127
+PlayerID: 76561198106869292 Name: roman146rus Character: roman146rus Ping: 52
+PlayerID: 76561198408019916 Name: slava.fan555 Character: Славик Cухоруков Ping: 78
+
+17.11.2017 16:53:59: Client has executed command "bans"
+
+17.11.2017 16:53:59: Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 28509538
+PlayerID: 76561198395511982
+JudgeID: 0
+Reason: 999999 Duration: 31536000 Remaining: 30064290
+PlayerID: 76561198331180787
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30412508
+PlayerID: 76561198172502147
+JudgeID: 76561198237123262
+Reason: 3600 Duration: 31536000 Remaining: 30415902
+PlayerID: 76561198331252339
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30428235
+PlayerID: 76561198434258763
+JudgeID: 0
+Reason: reid Duration: 608400 Remaining: 194782
+
+17.11.2017 16:53:59: END
+17.11.2017 16:54:01: END
+17.11.2017 16:54:03: [World] Славик Cухоруков [slava.fan555]: "ид айг 1352"
+
+17.11.2017 16:54:13: [World] Славик Cухоруков [slava.fan555]: "ауг"
+
+17.11.2017 16:54:16: cchat "/09/04 /11/17/09/11/00" 255 0 0
+17.11.2017 16:54:16: Client has executed command "cchat "/09/04 /11/17/09/11/00" 255 0 0"
+
+17.11.2017 16:54:16: ServerControl >> Broadcast: ид крика
+
+17.11.2017 16:54:16: Не обработано: ServerControl >> Broadcast: ид крика
+17.11.2017 16:54:18: Client has executed command "players"
+
+17.11.2017 16:54:18: Players:
+PlayerID: 76561198170498361 Name: _Nick_Hunter_ Character: Nick_Hunter[RUS] Ping: 129
+PlayerID: 76561198423084997 Name: lovemariina Character: Rendy Ping: 129
+PlayerID: 76561198364621785 Name: Alexander A-K Character: AlexanderAGaming Ping: 162
+PlayerID: 76561198444494613 Name: vladkrigin Character: 666а Ping: 118
+PlayerID: 76561198106869292 Name: roman146rus Character: roman146rus Ping: 54
+PlayerID: 76561198408019916 Name: slava.fan555 Character: Славик Cухоруков Ping: 90
+
+17.11.2017 16:54:19: cchat "/09/04 /19/15/16/15/17" 255 0 0
+17.11.2017 16:54:19: Client has executed command "cchat "/09/04 /19/15/16/15/17" 255 0 0"
+
+17.11.2017 16:54:19: ServerControl >> Broadcast: ид топор
+
+17.11.2017 16:54:19: Не обработано: ServerControl >> Broadcast: ид топор
+17.11.2017 16:54:20: Client has executed command "bans"
+
+17.11.2017 16:54:20: Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 28509517
+PlayerID: 76561198395511982
+JudgeID: 0
+Reason: 999999 Duration: 31536000 Remaining: 30064269
+PlayerID: 76561198331180787
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30412487
+PlayerID: 76561198172502147
+JudgeID: 76561198237123262
+Reason: 3600 Duration: 31536000 Remaining: 30415881
+PlayerID: 76561198331252339
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30428214
+PlayerID: 76561198434258763
+JudgeID: 0
+Reason: reid Duration: 608400 Remaining: 194761
+
+17.11.2017 16:54:20: END
+17.11.2017 16:54:22: cchat "/09/04 /11/12/05/10" 255 0 0
+17.11.2017 16:54:22: Client has executed command "cchat "/09/04 /11/12/05/10" 255 0 0"
+
+17.11.2017 16:54:22: ServerControl >> Broadcast: ид клей
+
+17.11.2017 16:54:22: Не обработано: ServerControl >> Broadcast: ид клей
+17.11.2017 16:54:23: END
+17.11.2017 16:54:31: MessageAnnouncer >> Broadcast: Используйте /report [ник], чтобы отправить жалобу на игрока
+
+17.11.2017 16:54:31: MessageAnnouncer >> Используйте /report [ник], чтобы отправить жалобу на игрока
+
+17.11.2017 16:54:31: [World] Nick_Hunter[RUS] [_Nick_Hunter_]: "что за интсрумент такой крик?"
+
+17.11.2017 16:54:33: cchat "/09/04 /11/00/14/09/18/19/17/00" 255 0 0
+17.11.2017 16:54:33: Client has executed command "cchat "/09/04 /11/00/14/09/18/19/17/00" 255 0 0"
+
+17.11.2017 16:54:33: ServerControl >> Broadcast: ид канистра
+
+17.11.2017 16:54:33: Не обработано: ServerControl >> Broadcast: ид канистра
+17.11.2017 16:54:38: Client has executed command "players"
+
+17.11.2017 16:54:38: Players:
+PlayerID: 76561198170498361 Name: _Nick_Hunter_ Character: Nick_Hunter[RUS] Ping: 132
+PlayerID: 76561198423084997 Name: lovemariina Character: Rendy Ping: 138
+PlayerID: 76561198364621785 Name: Alexander A-K Character: AlexanderAGaming Ping: 155
+PlayerID: 76561198444494613 Name: vladkrigin Character: 666а Ping: 125
+PlayerID: 76561198106869292 Name: roman146rus Character: roman146rus Ping: 58
+PlayerID: 76561198408019916 Name: slava.fan555 Character: Славик Cухоруков Ping: 94
+
+17.11.2017 16:54:39: Client has executed command "bans"
+
+17.11.2017 16:54:39: Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 28509498
+PlayerID: 76561198395511982
+JudgeID: 0
+Reason: 999999 Duration: 31536000 Remaining: 30064250
+PlayerID: 76561198331180787
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30412468
+PlayerID: 76561198172502147
+JudgeID: 76561198237123262
+Reason: 3600 Duration: 31536000 Remaining: 30415862
+PlayerID: 76561198331252339
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30428195
+PlayerID: 76561198434258763
+JudgeID: 0
+Reason: reid Duration: 608400 Remaining: 194742
+
+17.11.2017 16:54:39: END
+17.11.2017 16:54:41: END
+17.11.2017 16:54:42: [World] Славик Cухоруков [slava.fan555]: "кирка"
+
+17.11.2017 16:54:43: cchat "=)) /15/24/05/16/32/19/11/00" 255 0 0
+17.11.2017 16:54:43: Client has executed command "cchat "=)) /15/24/05/16/32/19/11/00" 255 0 0"
+
+17.11.2017 16:54:43: ServerControl >> Broadcast: =)) очепятка
+
+17.11.2017 16:54:43: Не обработано: ServerControl >> Broadcast: =)) очепятка
+17.11.2017 16:54:51: Disconnecting: PlayerID: 76561198106869292 Name: roman146rus Character: roman146rus
+
+17.11.2017 16:54:58: Client has executed command "players"
+
+17.11.2017 16:54:58: Players:
+PlayerID: 76561198170498361 Name: _Nick_Hunter_ Character: Nick_Hunter[RUS] Ping: 138
+PlayerID: 76561198423084997 Name: lovemariina Character: Rendy Ping: 136
+PlayerID: 76561198364621785 Name: Alexander A-K Character: AlexanderAGaming Ping: 173
+PlayerID: 76561198444494613 Name: vladkrigin Character: 666а Ping: 122
+PlayerID: 76561198408019916 Name: slava.fan555 Character: Славик Cухоруков Ping: 98
+
+17.11.2017 16:54:59: Client has executed command "bans"
+
+17.11.2017 16:54:59: Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 28509478
+PlayerID: 76561198395511982
+JudgeID: 0
+Reason: 999999 Duration: 31536000 Remaining: 30064230
+PlayerID: 76561198331180787
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30412448
+PlayerID: 76561198172502147
+JudgeID: 76561198237123262
+Reason: 3600 Duration: 31536000 Remaining: 30415842
+PlayerID: 76561198331252339
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30428175
+PlayerID: 76561198434258763
+JudgeID: 0
+Reason: reid Duration: 608400 Remaining: 194722
+
+17.11.2017 16:54:59: END
+17.11.2017 16:55:01: END
+17.11.2017 16:55:09: cchat "/16/15/18/16/17/00/25/09/02/00/10/19/05 /11/15/14/18/15/12/29, /32 /05/06 /15/01/20/24/20" 255 0 0
+17.11.2017 16:55:09: Client has executed command "cchat "/16/15/18/16/17/00/25/09/02/00/10/19/05 /11/15/14/18/15/12/29, /32 /05/06 /15/01/20/24/20" 255 0 0"
+
+17.11.2017 16:55:09: ServerControl >> Broadcast: поспрашивайте консоль, я её обучу
+
+17.11.2017 16:55:09: Не обработано: ServerControl >> Broadcast: поспрашивайте консоль, я её обучу
+17.11.2017 16:55:15: cchat "/09/04 /11/15/01/17/00" 255 0 0
+17.11.2017 16:55:15: Client has executed command "cchat "/09/04 /11/15/01/17/00" 255 0 0"
+
+17.11.2017 16:55:15: ServerControl >> Broadcast: ид кобра
+
+17.11.2017 16:55:15: Не обработано: ServerControl >> Broadcast: ид кобра
+17.11.2017 16:55:18: Client has executed command "players"
+
+17.11.2017 16:55:18: Players:
+PlayerID: 76561198170498361 Name: _Nick_Hunter_ Character: Nick_Hunter[RUS] Ping: 127
+PlayerID: 76561198423084997 Name: lovemariina Character: Rendy Ping: 139
+PlayerID: 76561198364621785 Name: Alexander A-K Character: AlexanderAGaming Ping: 160
+PlayerID: 76561198444494613 Name: vladkrigin Character: 666а Ping: 126
+PlayerID: 76561198408019916 Name: slava.fan555 Character: Славик Cухоруков Ping: 83
+
+17.11.2017 16:55:19: Client has executed command "bans"
+
+17.11.2017 16:55:19: Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 28509458
+PlayerID: 76561198395511982
+JudgeID: 0
+Reason: 999999 Duration: 31536000 Remaining: 30064210
+PlayerID: 76561198331180787
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30412428
+PlayerID: 76561198172502147
+JudgeID: 76561198237123262
+Reason: 3600 Duration: 31536000 Remaining: 30415822
+PlayerID: 76561198331252339
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30428155
+PlayerID: 76561198434258763
+JudgeID: 0
+Reason: reid Duration: 608400 Remaining: 194702
+
+17.11.2017 16:55:19: END
+17.11.2017 16:55:21: END
+17.11.2017 16:55:31: MessageAnnouncer >> Broadcast: Наберите /rules (/r) для просмотра правил
+
+17.11.2017 16:55:31: MessageAnnouncer >> Наберите /rules (/r) для просмотра правил
+
+17.11.2017 16:55:34: [World] Nick_Hunter[RUS] [_Nick_Hunter_]: "ид кобра"
+
+17.11.2017 16:55:34: cchat "	99" 255 0 0
+17.11.2017 16:55:34: Client has executed command "cchat "	99" 255 0 0"
+
+17.11.2017 16:55:34: ServerControl >> Broadcast: 99
+
+17.11.2017 16:55:34: Не обработано: ServerControl >> Broadcast: 99
+17.11.2017 16:55:38: Client has executed command "players"
+
+17.11.2017 16:55:38: Players:
+PlayerID: 76561198170498361 Name: _Nick_Hunter_ Character: Nick_Hunter[RUS] Ping: 135
+PlayerID: 76561198423084997 Name: lovemariina Character: Rendy Ping: 139
+PlayerID: 76561198364621785 Name: Alexander A-K Character: AlexanderAGaming Ping: 177
+PlayerID: 76561198444494613 Name: vladkrigin Character: 666а Ping: 133
+PlayerID: 76561198408019916 Name: slava.fan555 Character: Славик Cухоруков Ping: 86
+
+17.11.2017 16:55:39: Client has executed command "bans"
+
+17.11.2017 16:55:39: Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 28509438
+PlayerID: 76561198395511982
+JudgeID: 0
+Reason: 999999 Duration: 31536000 Remaining: 30064190
+PlayerID: 76561198331180787
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30412408
+PlayerID: 76561198172502147
+JudgeID: 76561198237123262
+Reason: 3600 Duration: 31536000 Remaining: 30415802
+PlayerID: 76561198331252339
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30428135
+PlayerID: 76561198434258763
+JudgeID: 0
+Reason: reid Duration: 608400 Remaining: 194682
+
+17.11.2017 16:55:39: END
+17.11.2017 16:55:41: END
+17.11.2017 16:55:50: [World] Nick_Hunter[RUS] [_Nick_Hunter_]: "ид бита"
+
+17.11.2017 16:55:50: cchat "	105" 255 0 0
+17.11.2017 16:55:50: Client has executed command "cchat "	105" 255 0 0"
+
+17.11.2017 16:55:50: ServerControl >> Broadcast: 105
+
+17.11.2017 16:55:50: Не обработано: ServerControl >> Broadcast: 105
+17.11.2017 16:55:58: Client has executed command "players"
+
+17.11.2017 16:55:58: Players:
+PlayerID: 76561198170498361 Name: _Nick_Hunter_ Character: Nick_Hunter[RUS] Ping: 128
+PlayerID: 76561198423084997 Name: lovemariina Character: Rendy Ping: 138
+PlayerID: 76561198364621785 Name: Alexander A-K Character: AlexanderAGaming Ping: 148
+PlayerID: 76561198444494613 Name: vladkrigin Character: 666а Ping: 119
+PlayerID: 76561198408019916 Name: slava.fan555 Character: Славик Cухоруков Ping: 80
+
+17.11.2017 16:55:59: Client has executed command "bans"
+
+17.11.2017 16:55:59: Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 28509418
+PlayerID: 76561198395511982
+JudgeID: 0
+Reason: 999999 Duration: 31536000 Remaining: 30064170
+PlayerID: 76561198331180787
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30412388
+PlayerID: 76561198172502147
+JudgeID: 76561198237123262
+Reason: 3600 Duration: 31536000 Remaining: 30415782
+PlayerID: 76561198331252339
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30428115
+PlayerID: 76561198434258763
+JudgeID: 0
+Reason: reid Duration: 608400 Remaining: 194662
+
+17.11.2017 16:55:59: END
+17.11.2017 16:56:01: END
+17.11.2017 16:56:11: cchat "/38/18/12/09 /16/09/18/00/19/29 /02 /36/17/20/16/16/20, /19/15 /01/20/04/05/19 /12/09/24/14/15 /15/19/02/05/24/00/19/29" 255 0 0
+17.11.2017 16:56:11: Client has executed command "cchat "/38/18/12/09 /16/09/18/00/19/29 /02 /36/17/20/16/16/20, /19/15 /01/20/04/05/19 /12/09/24/14/15 /15/19/02/05/24/00/19/29" 255 0 0"
+
+17.11.2017 16:56:11: ServerControl >> Broadcast: Если писать в Группу, то будет лично отвечать
+
+17.11.2017 16:56:11: Не обработано: ServerControl >> Broadcast: Если писать в Группу, то будет лично отвечать
+17.11.2017 16:56:18: Client has executed command "players"
+
+17.11.2017 16:56:18: Players:
+PlayerID: 76561198170498361 Name: _Nick_Hunter_ Character: Nick_Hunter[RUS] Ping: 135
+PlayerID: 76561198423084997 Name: lovemariina Character: Rendy Ping: 127
+PlayerID: 76561198364621785 Name: Alexander A-K Character: AlexanderAGaming Ping: 147
+PlayerID: 76561198444494613 Name: vladkrigin Character: 666а Ping: 124
+PlayerID: 76561198408019916 Name: slava.fan555 Character: Славик Cухоруков Ping: 91
+
+17.11.2017 16:56:19: Client has executed command "bans"
+
+17.11.2017 16:56:19: Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 28509398
+PlayerID: 76561198395511982
+JudgeID: 0
+Reason: 999999 Duration: 31536000 Remaining: 30064150
+PlayerID: 76561198331180787
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30412368
+PlayerID: 76561198172502147
+JudgeID: 76561198237123262
+Reason: 3600 Duration: 31536000 Remaining: 30415762
+PlayerID: 76561198331252339
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30428095
+PlayerID: 76561198434258763
+JudgeID: 0
+Reason: reid Duration: 608400 Remaining: 194642
+
+17.11.2017 16:56:19: END
+17.11.2017 16:56:21: END
+17.11.2017 16:56:31: MessageAnnouncer >> Broadcast: Добро пожаловать на HGM. Тут рады вам больше, чем на любом другом сервере!
+
+17.11.2017 16:56:31: MessageAnnouncer >> Добро пожаловать на HGM. Тут рады вам больше, чем на любом другом сервере!
+
+17.11.2017 16:56:38: Client has executed command "players"
+
+17.11.2017 16:56:38: Players:
+PlayerID: 76561198170498361 Name: _Nick_Hunter_ Character: Nick_Hunter[RUS] Ping: 130
+PlayerID: 76561198423084997 Name: lovemariina Character: Rendy Ping: 134
+PlayerID: 76561198364621785 Name: Alexander A-K Character: AlexanderAGaming Ping: 168
+PlayerID: 76561198444494613 Name: vladkrigin Character: 666а Ping: 182
+PlayerID: 76561198408019916 Name: slava.fan555 Character: Славик Cухоруков Ping: 93
+
+17.11.2017 16:56:39: Client has executed command "bans"
+
+17.11.2017 16:56:39: Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 28509378
+PlayerID: 76561198395511982
+JudgeID: 0
+Reason: 999999 Duration: 31536000 Remaining: 30064130
+PlayerID: 76561198331180787
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30412348
+PlayerID: 76561198172502147
+JudgeID: 76561198237123262
+Reason: 3600 Duration: 31536000 Remaining: 30415742
+PlayerID: 76561198331252339
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30428075
+PlayerID: 76561198434258763
+JudgeID: 0
+Reason: reid Duration: 608400 Remaining: 194622
+
+17.11.2017 16:56:39: END
+17.11.2017 16:56:41: END
+17.11.2017 16:56:58: Client has executed command "players"
+
+17.11.2017 16:56:58: Players:
+PlayerID: 76561198170498361 Name: _Nick_Hunter_ Character: Nick_Hunter[RUS] Ping: 129
+PlayerID: 76561198423084997 Name: lovemariina Character: Rendy Ping: 135
+PlayerID: 76561198364621785 Name: Alexander A-K Character: AlexanderAGaming Ping: 172
+PlayerID: 76561198444494613 Name: vladkrigin Character: 666а Ping: 173
+PlayerID: 76561198408019916 Name: slava.fan555 Character: Славик Cухоруков Ping: 86
+
+17.11.2017 16:56:59: Client has executed command "bans"
+
+17.11.2017 16:56:59: Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 28509358
+PlayerID: 76561198395511982
+JudgeID: 0
+Reason: 999999 Duration: 31536000 Remaining: 30064110
+PlayerID: 76561198331180787
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30412328
+PlayerID: 76561198172502147
+JudgeID: 76561198237123262
+Reason: 3600 Duration: 31536000 Remaining: 30415722
+PlayerID: 76561198331252339
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30428055
+PlayerID: 76561198434258763
+JudgeID: 0
+Reason: reid Duration: 608400 Remaining: 194602
+
+17.11.2017 16:56:59: END
+17.11.2017 16:57:01: END
+17.11.2017 16:57:16: Connecting: PlayerID: 76561198443646437 Name: ya.yasliggg Character: ya.yasliggg
+
+17.11.2017 16:57:16: ya.yasliggg connected with IP 31.163.180.52
+
+17.11.2017 16:57:18: Client has executed command "players"
+
+17.11.2017 16:57:18: Players:
+PlayerID: 76561198170498361 Name: _Nick_Hunter_ Character: Nick_Hunter[RUS] Ping: 136
+PlayerID: 76561198423084997 Name: lovemariina Character: Rendy Ping: 140
+PlayerID: 76561198364621785 Name: Alexander A-K Character: AlexanderAGaming Ping: 226
+PlayerID: 76561198444494613 Name: vladkrigin Character: 666а Ping: 126
+PlayerID: 76561198408019916 Name: slava.fan555 Character: Славик Cухоруков Ping: 72
+PlayerID: 76561198443646437 Name: ya.yasliggg Character: ya.yasliggg Ping: 90
+
+17.11.2017 16:57:19: Client has executed command "bans"
+
+17.11.2017 16:57:19: Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 28509338
+PlayerID: 76561198395511982
+JudgeID: 0
+Reason: 999999 Duration: 31536000 Remaining: 30064090
+PlayerID: 76561198331180787
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30412308
+PlayerID: 76561198172502147
+JudgeID: 76561198237123262
+Reason: 3600 Duration: 31536000 Remaining: 30415702
+PlayerID: 76561198331252339
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30428035
+PlayerID: 76561198434258763
+JudgeID: 0
+Reason: reid Duration: 608400 Remaining: 194582
+
+17.11.2017 16:57:19: END
+17.11.2017 16:57:21: END
+17.11.2017 16:57:31: MessageAnnouncer >> Broadcast: Наберите /kit start, чтобы получить стартовый набор (еда, вода, топор)
+
+17.11.2017 16:57:31: MessageAnnouncer >> Наберите /kit start, чтобы получить стартовый набор (еда, вода, топор)
+
+17.11.2017 16:57:38: Client has executed command "players"
+
+17.11.2017 16:57:38: Players:
+PlayerID: 76561198170498361 Name: _Nick_Hunter_ Character: Nick_Hunter[RUS] Ping: 133
+PlayerID: 76561198423084997 Name: lovemariina Character: Rendy Ping: 143
+PlayerID: 76561198364621785 Name: Alexander A-K Character: AlexanderAGaming Ping: 146
+PlayerID: 76561198444494613 Name: vladkrigin Character: 666а Ping: 111
+PlayerID: 76561198408019916 Name: slava.fan555 Character: Славик Cухоруков Ping: 95
+PlayerID: 76561198443646437 Name: ya.yasliggg Character: ya.yasliggg Ping: 111
+
+17.11.2017 16:57:39: Client has executed command "bans"
+
+17.11.2017 16:57:39: Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 28509318
+PlayerID: 76561198395511982
+JudgeID: 0
+Reason: 999999 Duration: 31536000 Remaining: 30064070
+PlayerID: 76561198331180787
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30412288
+PlayerID: 76561198172502147
+JudgeID: 76561198237123262
+Reason: 3600 Duration: 31536000 Remaining: 30415682
+PlayerID: 76561198331252339
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30428015
+PlayerID: 76561198434258763
+JudgeID: 0
+Reason: reid Duration: 608400 Remaining: 194562
+
+17.11.2017 16:57:39: END
+17.11.2017 16:57:41: END
+17.11.2017 16:57:58: Client has executed command "players"
+
+17.11.2017 16:57:58: Players:
+PlayerID: 76561198170498361 Name: _Nick_Hunter_ Character: Nick_Hunter[RUS] Ping: 140
+PlayerID: 76561198423084997 Name: lovemariina Character: Rendy Ping: 139
+PlayerID: 76561198364621785 Name: Alexander A-K Character: AlexanderAGaming Ping: 157
+PlayerID: 76561198444494613 Name: vladkrigin Character: 666а Ping: 129
+PlayerID: 76561198408019916 Name: slava.fan555 Character: Славик Cухоруков Ping: 83
+PlayerID: 76561198443646437 Name: ya.yasliggg Character: ya.yasliggg Ping: 144
+
+17.11.2017 16:57:59: Client has executed command "bans"
+
+17.11.2017 16:57:59: Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 28509298
+PlayerID: 76561198395511982
+JudgeID: 0
+Reason: 999999 Duration: 31536000 Remaining: 30064050
+PlayerID: 76561198331180787
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30412268
+PlayerID: 76561198172502147
+JudgeID: 76561198237123262
+Reason: 3600 Duration: 31536000 Remaining: 30415662
+PlayerID: 76561198331252339
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30427995
+PlayerID: 76561198434258763
+JudgeID: 0
+Reason: reid Duration: 608400 Remaining: 194542
+
+17.11.2017 16:57:59: END
+17.11.2017 16:58:01: END
+17.11.2017 16:58:18: Client has executed command "players"
+
+17.11.2017 16:58:18: Players:
+PlayerID: 76561198170498361 Name: _Nick_Hunter_ Character: Nick_Hunter[RUS] Ping: 127
+PlayerID: 76561198423084997 Name: lovemariina Character: Rendy Ping: 137
+PlayerID: 76561198364621785 Name: Alexander A-K Character: AlexanderAGaming Ping: 165
+PlayerID: 76561198444494613 Name: vladkrigin Character: 666а Ping: 137
+PlayerID: 76561198408019916 Name: slava.fan555 Character: Славик Cухоруков Ping: 102
+PlayerID: 76561198443646437 Name: ya.yasliggg Character: ya.yasliggg Ping: 175
+
+17.11.2017 16:58:19: Client has executed command "bans"
+
+17.11.2017 16:58:19: Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 28509278
+PlayerID: 76561198395511982
+JudgeID: 0
+Reason: 999999 Duration: 31536000 Remaining: 30064030
+PlayerID: 76561198331180787
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30412248
+PlayerID: 76561198172502147
+JudgeID: 76561198237123262
+Reason: 3600 Duration: 31536000 Remaining: 30415642
+PlayerID: 76561198331252339
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30427975
+PlayerID: 76561198434258763
+JudgeID: 0
+Reason: reid Duration: 608400 Remaining: 194522
+
+17.11.2017 16:58:19: END
+17.11.2017 16:58:21: END
+17.11.2017 16:58:31: MessageAnnouncer >> Broadcast: Внимание! PvP-режим по субботам! PvP-режим!!!
+
+17.11.2017 16:58:31: MessageAnnouncer >> Внимание! PvP-режим по субботам! PvP-режим!!!
+
+17.11.2017 16:58:38: Client has executed command "players"
+
+17.11.2017 16:58:38: Players:
+PlayerID: 76561198170498361 Name: _Nick_Hunter_ Character: Nick_Hunter[RUS] Ping: 140
+PlayerID: 76561198423084997 Name: lovemariina Character: Rendy Ping: 141
+PlayerID: 76561198364621785 Name: Alexander A-K Character: AlexanderAGaming Ping: 149
+PlayerID: 76561198444494613 Name: vladkrigin Character: 666а Ping: 127
+PlayerID: 76561198408019916 Name: slava.fan555 Character: Славик Cухоруков Ping: 85
+PlayerID: 76561198443646437 Name: ya.yasliggg Character: ya.yasliggg Ping: 133
+
+17.11.2017 16:58:39: Client has executed command "bans"
+
+17.11.2017 16:58:39: Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 28509258
+PlayerID: 76561198395511982
+JudgeID: 0
+Reason: 999999 Duration: 31536000 Remaining: 30064010
+PlayerID: 76561198331180787
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30412228
+PlayerID: 76561198172502147
+JudgeID: 76561198237123262
+Reason: 3600 Duration: 31536000 Remaining: 30415622
+PlayerID: 76561198331252339
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30427955
+PlayerID: 76561198434258763
+JudgeID: 0
+Reason: reid Duration: 608400 Remaining: 194502
+
+17.11.2017 16:58:39: END
+17.11.2017 16:58:41: END
+17.11.2017 16:58:58: Client has executed command "players"
+
+17.11.2017 16:58:58: Players:
+PlayerID: 76561198170498361 Name: _Nick_Hunter_ Character: Nick_Hunter[RUS] Ping: 125
+PlayerID: 76561198423084997 Name: lovemariina Character: Rendy Ping: 134
+PlayerID: 76561198364621785 Name: Alexander A-K Character: AlexanderAGaming Ping: 155
+PlayerID: 76561198444494613 Name: vladkrigin Character: 666а Ping: 142
+PlayerID: 76561198408019916 Name: slava.fan555 Character: Славик Cухоруков Ping: 125
+PlayerID: 76561198443646437 Name: ya.yasliggg Character: ya.yasliggg Ping: 169
+
+17.11.2017 16:58:59: Client has executed command "bans"
+
+17.11.2017 16:58:59: Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 28509238
+PlayerID: 76561198395511982
+JudgeID: 0
+Reason: 999999 Duration: 31536000 Remaining: 30063990
+PlayerID: 76561198331180787
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30412208
+PlayerID: 76561198172502147
+JudgeID: 76561198237123262
+Reason: 3600 Duration: 31536000 Remaining: 30415602
+PlayerID: 76561198331252339
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30427935
+PlayerID: 76561198434258763
+JudgeID: 0
+Reason: reid Duration: 608400 Remaining: 194482
+
+17.11.2017 16:58:59: END
+17.11.2017 16:59:01: END
+17.11.2017 16:59:18: Client has executed command "players"
+
+17.11.2017 16:59:18: Players:
+PlayerID: 76561198170498361 Name: _Nick_Hunter_ Character: Nick_Hunter[RUS] Ping: 126
+PlayerID: 76561198423084997 Name: lovemariina Character: Rendy Ping: 143
+PlayerID: 76561198364621785 Name: Alexander A-K Character: AlexanderAGaming Ping: 153
+PlayerID: 76561198444494613 Name: vladkrigin Character: 666а Ping: 127
+PlayerID: 76561198408019916 Name: slava.fan555 Character: Славик Cухоруков Ping: 81
+PlayerID: 76561198443646437 Name: ya.yasliggg Character: ya.yasliggg Ping: 168
+
+17.11.2017 16:59:19: Client has executed command "bans"
+
+17.11.2017 16:59:19: Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 28509218
+PlayerID: 76561198395511982
+JudgeID: 0
+Reason: 999999 Duration: 31536000 Remaining: 30063970
+PlayerID: 76561198331180787
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30412188
+PlayerID: 76561198172502147
+JudgeID: 76561198237123262
+Reason: 3600 Duration: 31536000 Remaining: 30415582
+PlayerID: 76561198331252339
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30427915
+PlayerID: 76561198434258763
+JudgeID: 0
+Reason: reid Duration: 608400 Remaining: 194462
+
+17.11.2017 16:59:19: END
+17.11.2017 16:59:21: END
+17.11.2017 16:59:31: MessageAnnouncer >> Broadcast: vk.com/unturned_hgm - группа сервера ВК, уникальный кит в записи!
+
+17.11.2017 16:59:31: MessageAnnouncer >> vk.com/unturned_hgm - группа сервера ВК, уникальный кит в записи!
+
+17.11.2017 16:59:38: Client has executed command "players"
+
+17.11.2017 16:59:38: Players:
+PlayerID: 76561198170498361 Name: _Nick_Hunter_ Character: Nick_Hunter[RUS] Ping: 135
+PlayerID: 76561198423084997 Name: lovemariina Character: Rendy Ping: 151
+PlayerID: 76561198364621785 Name: Alexander A-K Character: AlexanderAGaming Ping: 157
+PlayerID: 76561198444494613 Name: vladkrigin Character: 666а Ping: 147
+PlayerID: 76561198408019916 Name: slava.fan555 Character: Славик Cухоруков Ping: 92
+PlayerID: 76561198443646437 Name: ya.yasliggg Character: ya.yasliggg Ping: 136
+
+17.11.2017 16:59:39: Client has executed command "bans"
+
+17.11.2017 16:59:39: Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 28509198
+PlayerID: 76561198395511982
+JudgeID: 0
+Reason: 999999 Duration: 31536000 Remaining: 30063950
+PlayerID: 76561198331180787
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30412168
+PlayerID: 76561198172502147
+JudgeID: 76561198237123262
+Reason: 3600 Duration: 31536000 Remaining: 30415562
+PlayerID: 76561198331252339
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30427895
+PlayerID: 76561198434258763
+JudgeID: 0
+Reason: reid Duration: 608400 Remaining: 194442
+
+17.11.2017 16:59:39: END
+17.11.2017 16:59:41: END
+17.11.2017 16:59:58: Client has executed command "players"
+
+17.11.2017 16:59:58: Players:
+PlayerID: 76561198170498361 Name: _Nick_Hunter_ Character: Nick_Hunter[RUS] Ping: 129
+PlayerID: 76561198423084997 Name: lovemariina Character: Rendy Ping: 148
+PlayerID: 76561198364621785 Name: Alexander A-K Character: AlexanderAGaming Ping: 170
+PlayerID: 76561198444494613 Name: vladkrigin Character: 666а Ping: 188
+PlayerID: 76561198408019916 Name: slava.fan555 Character: Славик Cухоруков Ping: 109
+PlayerID: 76561198443646437 Name: ya.yasliggg Character: ya.yasliggg Ping: 100
+
+17.11.2017 16:59:59: Client has executed command "bans"
+
+17.11.2017 16:59:59: Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 28509178
+PlayerID: 76561198395511982
+JudgeID: 0
+Reason: 999999 Duration: 31536000 Remaining: 30063930
+PlayerID: 76561198331180787
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30412148
+PlayerID: 76561198172502147
+JudgeID: 76561198237123262
+Reason: 3600 Duration: 31536000 Remaining: 30415542
+PlayerID: 76561198331252339
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30427875
+PlayerID: 76561198434258763
+JudgeID: 0
+Reason: reid Duration: 608400 Remaining: 194422
+
+17.11.2017 16:59:59: END
+17.11.2017 17:00:01: END
+17.11.2017 17:00:15: Connecting: PlayerID: 76561198345313735 Name: CukumdarSpoderman Character: xReadyToGame
+
+17.11.2017 17:00:15: xReadyToGame connected with IP 188.3.174.153
+
+17.11.2017 17:00:18: Client has executed command "players"
+
+17.11.2017 17:00:18: Players:
+PlayerID: 76561198170498361 Name: _Nick_Hunter_ Character: Nick_Hunter[RUS] Ping: 127
+PlayerID: 76561198423084997 Name: lovemariina Character: Rendy Ping: 145
+PlayerID: 76561198364621785 Name: Alexander A-K Character: AlexanderAGaming Ping: 161
+PlayerID: 76561198444494613 Name: vladkrigin Character: 666а Ping: 145
+PlayerID: 76561198408019916 Name: slava.fan555 Character: Славик Cухоруков Ping: 77
+PlayerID: 76561198443646437 Name: ya.yasliggg Character: ya.yasliggg Ping: 101
+PlayerID: 76561198345313735 Name: CukumdarSpoderman Character: xReadyToGame Ping: 0
+
+17.11.2017 17:00:19: Client has executed command "bans"
+
+17.11.2017 17:00:19: Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 28509158
+PlayerID: 76561198395511982
+JudgeID: 0
+Reason: 999999 Duration: 31536000 Remaining: 30063910
+PlayerID: 76561198331180787
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30412128
+PlayerID: 76561198172502147
+JudgeID: 76561198237123262
+Reason: 3600 Duration: 31536000 Remaining: 30415522
+PlayerID: 76561198331252339
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30427855
+PlayerID: 76561198434258763
+JudgeID: 0
+Reason: reid Duration: 608400 Remaining: 194402
+
+17.11.2017 17:00:19: END
+17.11.2017 17:00:21: END
+17.11.2017 17:00:24: Client has executed command "cchat "/33/09/17/04/17/15/16 /24/05/17/05/08 1 /24. " 255 255 0"
+ServerControl >> Broadcast: Аирдроп через 1 ч.
+
+17.11.2017 17:00:24: Не обработано: ServerControl >> Broadcast: Аирдроп через 1 ч.
+17.11.2017 17:00:31: MessageAnnouncer >> Broadcast: Посетите наш сайт. Вы будете удивлены! unturned.hemulgm.ru
+
+17.11.2017 17:00:31: MessageAnnouncer >> Посетите наш сайт. Вы будете удивлены! unturned.hemulgm.ru
+
+17.11.2017 17:00:38: Client has executed command "players"
+
+17.11.2017 17:00:38: Players:
+PlayerID: 76561198170498361 Name: _Nick_Hunter_ Character: Nick_Hunter[RUS] Ping: 136
+PlayerID: 76561198423084997 Name: lovemariina Character: Rendy Ping: 136
+PlayerID: 76561198364621785 Name: Alexander A-K Character: AlexanderAGaming Ping: 155
+PlayerID: 76561198444494613 Name: vladkrigin Character: 666а Ping: 151
+PlayerID: 76561198408019916 Name: slava.fan555 Character: Славик Cухоруков Ping: 71
+PlayerID: 76561198443646437 Name: ya.yasliggg Character: ya.yasliggg Ping: 157
+PlayerID: 76561198345313735 Name: CukumdarSpoderman Character: xReadyToGame Ping: 126
+
+17.11.2017 17:00:39: Client has executed command "bans"
+
+17.11.2017 17:00:39: Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 28509138
+PlayerID: 76561198395511982
+JudgeID: 0
+Reason: 999999 Duration: 31536000 Remaining: 30063890
+PlayerID: 76561198331180787
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30412108
+PlayerID: 76561198172502147
+JudgeID: 76561198237123262
+Reason: 3600 Duration: 31536000 Remaining: 30415502
+PlayerID: 76561198331252339
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30427835
+PlayerID: 76561198434258763
+JudgeID: 0
+Reason: reid Duration: 608400 Remaining: 194382
+
+17.11.2017 17:00:39: END
+17.11.2017 17:00:41: END
+17.11.2017 17:00:50: [World] xReadyToGame [CukumdarSpoderman]: "/kits"
+
+17.11.2017 17:00:57: [World] xReadyToGame [CukumdarSpoderman]: "/kits start"
+
+17.11.2017 17:00:58: Client has executed command "players"
+
+17.11.2017 17:00:58: Players:
+PlayerID: 76561198170498361 Name: _Nick_Hunter_ Character: Nick_Hunter[RUS] Ping: 125
+PlayerID: 76561198423084997 Name: lovemariina Character: Rendy Ping: 139
+PlayerID: 76561198364621785 Name: Alexander A-K Character: AlexanderAGaming Ping: 164
+PlayerID: 76561198444494613 Name: vladkrigin Character: 666а Ping: 159
+PlayerID: 76561198408019916 Name: slava.fan555 Character: Славик Cухоруков Ping: 112
+PlayerID: 76561198443646437 Name: ya.yasliggg Character: ya.yasliggg Ping: 164
+PlayerID: 76561198345313735 Name: CukumdarSpoderman Character: xReadyToGame Ping: 131
+
+17.11.2017 17:00:59: Client has executed command "bans"
+
+17.11.2017 17:00:59: Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 28509118
+PlayerID: 76561198395511982
+JudgeID: 0
+Reason: 999999 Duration: 31536000 Remaining: 30063870
+PlayerID: 76561198331180787
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30412088
+PlayerID: 76561198172502147
+JudgeID: 76561198237123262
+Reason: 3600 Duration: 31536000 Remaining: 30415482
+PlayerID: 76561198331252339
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30427815
+PlayerID: 76561198434258763
+JudgeID: 0
+Reason: reid Duration: 608400 Remaining: 194362
+
+17.11.2017 17:00:59: END
+17.11.2017 17:01:01: END
+17.11.2017 17:01:18: Client has executed command "players"
+
+17.11.2017 17:01:18: Players:
+PlayerID: 76561198170498361 Name: _Nick_Hunter_ Character: Nick_Hunter[RUS] Ping: 120
+PlayerID: 76561198423084997 Name: lovemariina Character: Rendy Ping: 134
+PlayerID: 76561198364621785 Name: Alexander A-K Character: AlexanderAGaming Ping: 154
+PlayerID: 76561198444494613 Name: vladkrigin Character: 666а Ping: 140
+PlayerID: 76561198408019916 Name: slava.fan555 Character: Славик Cухоруков Ping: 91
+PlayerID: 76561198443646437 Name: ya.yasliggg Character: ya.yasliggg Ping: 117
+PlayerID: 76561198345313735 Name: CukumdarSpoderman Character: xReadyToGame Ping: 135
+
+17.11.2017 17:01:19: Client has executed command "bans"
+
+17.11.2017 17:01:19: Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 28509098
+PlayerID: 76561198395511982
+JudgeID: 0
+Reason: 999999 Duration: 31536000 Remaining: 30063850
+PlayerID: 76561198331180787
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30412068
+PlayerID: 76561198172502147
+JudgeID: 76561198237123262
+Reason: 3600 Duration: 31536000 Remaining: 30415462
+PlayerID: 76561198331252339
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30427795
+PlayerID: 76561198434258763
+JudgeID: 0
+Reason: reid Duration: 608400 Remaining: 194342
+
+17.11.2017 17:01:19: END
+17.11.2017 17:01:20: [World] xReadyToGame [CukumdarSpoderman]: "sasd"
+
+17.11.2017 17:01:22: END
+17.11.2017 17:01:31: MessageAnnouncer >> Broadcast: Наберите /kit help, чтобы получить первую мед. помощь (бинты, таблетки, еда)
+
+17.11.2017 17:01:31: MessageAnnouncer >> Наберите /kit help, чтобы получить первую мед. помощь (бинты, таблетки, еда)
+
+17.11.2017 17:01:35: Connecting: PlayerID: 76561198347005611 Name: The Catalyst Character: The Catalyst
+
+17.11.2017 17:01:35: The Catalyst connected with IP 78.174.211.124
+
+17.11.2017 17:01:38: Client has executed command "players"
+
+17.11.2017 17:01:38: Players:
+PlayerID: 76561198170498361 Name: _Nick_Hunter_ Character: Nick_Hunter[RUS] Ping: 129
+PlayerID: 76561198423084997 Name: lovemariina Character: Rendy Ping: 143
+PlayerID: 76561198364621785 Name: Alexander A-K Character: AlexanderAGaming Ping: 164
+PlayerID: 76561198444494613 Name: vladkrigin Character: 666а Ping: 137
+PlayerID: 76561198408019916 Name: slava.fan555 Character: Славик Cухоруков Ping: 84
+PlayerID: 76561198443646437 Name: ya.yasliggg Character: ya.yasliggg Ping: 156
+PlayerID: 76561198345313735 Name: CukumdarSpoderman Character: xReadyToGame Ping: 143
+PlayerID: 76561198347005611 Name: The Catalyst Character: The Catalyst Ping: 0
+
+17.11.2017 17:01:39: Client has executed command "bans"
+
+17.11.2017 17:01:39: Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 28509078
+PlayerID: 76561198395511982
+JudgeID: 0
+Reason: 999999 Duration: 31536000 Remaining: 30063830
+PlayerID: 76561198331180787
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30412048
+PlayerID: 76561198172502147
+JudgeID: 76561198237123262
+Reason: 3600 Duration: 31536000 Remaining: 30415442
+PlayerID: 76561198331252339
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30427775
+PlayerID: 76561198434258763
+JudgeID: 0
+Reason: reid Duration: 608400 Remaining: 194322
+
+17.11.2017 17:01:39: END
+17.11.2017 17:01:41: END
+17.11.2017 17:01:58: Client has executed command "players"
+
+17.11.2017 17:01:58: Players:
+PlayerID: 76561198170498361 Name: _Nick_Hunter_ Character: Nick_Hunter[RUS] Ping: 128
+PlayerID: 76561198423084997 Name: lovemariina Character: Rendy Ping: 133
+PlayerID: 76561198364621785 Name: Alexander A-K Character: AlexanderAGaming Ping: 194
+PlayerID: 76561198444494613 Name: vladkrigin Character: 666а Ping: 129
+PlayerID: 76561198408019916 Name: slava.fan555 Character: Славик Cухоруков Ping: 89
+PlayerID: 76561198443646437 Name: ya.yasliggg Character: ya.yasliggg Ping: 145
+PlayerID: 76561198345313735 Name: CukumdarSpoderman Character: xReadyToGame Ping: 128
+PlayerID: 76561198347005611 Name: The Catalyst Character: The Catalyst Ping: 302
+
+17.11.2017 17:01:59: Client has executed command "bans"
+
+17.11.2017 17:01:59: Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 28509058
+PlayerID: 76561198395511982
+JudgeID: 0
+Reason: 999999 Duration: 31536000 Remaining: 30063810
+PlayerID: 76561198331180787
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30412028
+PlayerID: 76561198172502147
+JudgeID: 76561198237123262
+Reason: 3600 Duration: 31536000 Remaining: 30415422
+PlayerID: 76561198331252339
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30427755
+PlayerID: 76561198434258763
+JudgeID: 0
+Reason: reid Duration: 608400 Remaining: 194302
+
+17.11.2017 17:01:59: END
+17.11.2017 17:02:01: END
+17.11.2017 17:02:13: [World] The Catalyst [The Catalyst]: "/tpa"
+
+17.11.2017 17:02:18: Client has executed command "players"
+
+17.11.2017 17:02:18: Players:
+PlayerID: 76561198170498361 Name: _Nick_Hunter_ Character: Nick_Hunter[RUS] Ping: 125
+PlayerID: 76561198423084997 Name: lovemariina Character: Rendy Ping: 135
+PlayerID: 76561198364621785 Name: Alexander A-K Character: AlexanderAGaming Ping: 190
+PlayerID: 76561198444494613 Name: vladkrigin Character: 666а Ping: 118
+PlayerID: 76561198408019916 Name: slava.fan555 Character: Славик Cухоруков Ping: 80
+PlayerID: 76561198443646437 Name: ya.yasliggg Character: ya.yasliggg Ping: 163
+PlayerID: 76561198345313735 Name: CukumdarSpoderman Character: xReadyToGame Ping: 130
+PlayerID: 76561198347005611 Name: The Catalyst Character: The Catalyst Ping: 156
+
+17.11.2017 17:02:19: Client has executed command "bans"
+
+17.11.2017 17:02:19: Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 28509038
+PlayerID: 76561198395511982
+JudgeID: 0
+Reason: 999999 Duration: 31536000 Remaining: 30063790
+PlayerID: 76561198331180787
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30412008
+PlayerID: 76561198172502147
+JudgeID: 76561198237123262
+Reason: 3600 Duration: 31536000 Remaining: 30415402
+PlayerID: 76561198331252339
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30427735
+PlayerID: 76561198434258763
+JudgeID: 0
+Reason: reid Duration: 608400 Remaining: 194282
+
+17.11.2017 17:02:19: END
+17.11.2017 17:02:21: END
+17.11.2017 17:02:25: [World] The Catalyst [The Catalyst]: "/tpa xread"
+

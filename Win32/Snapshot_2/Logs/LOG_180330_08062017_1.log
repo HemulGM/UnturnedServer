@@ -1,0 +1,61 @@
+Не обработано: RocketRcon v2.4.8.0
+RocketRcon v2.4.8.0
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198165822970 Name: Indigo Character: Indigo Ping: 46
+PlayerID: 76561198114070067 Name: Маг1стрЙ0да- Character: Samurai Ping: 46
+PlayerID: 76561198305732269 Name: Owl Character: Owl Ping: 62
+PlayerID: 76561198177412437 Name: korak Character: korak Ping: 125
+PlayerID: 76561198314638573 Name: UDODMEN Character: udodmen Ping: 78
+PlayerID: 76561198293594446 Name: R_B_KOCMOCE Character: Lol-чик Ping: 101
+PlayerID: 76561198392992149 Name: ivan.evdokimov.07 Character: ivan.evdokimov.07 Ping: 70
+PlayerID: 76561198239840530 Name: BeToC Character: BeToC Ping: 93
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: [MODER]Expert1337 Ping: 156
+PlayerID: 76561198354362951 Name: m.m.vilkauss Character: miks Ping: 78
+PlayerID: 76561198256794301 Name: MaxPlayRus Character: MaxPlayRus Ping: 46
+PlayerID: 76561198333715440 Name: MartynoGaming Character: MartynoGaming Ping: 93
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294221993
+
+END with Bans:
+[World] ivan.evdokimov.07 [ivan.evdokimov.07]: "эм дай пж сундук"
+
+[World] [MODER]Expert1337 [Expert13372284200]: "ок"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198165822970 Name: Indigo Character: Indigo Ping: 46
+PlayerID: 76561198114070067 Name: Маг1стрЙ0да- Character: Samurai Ping: 46
+PlayerID: 76561198305732269 Name: Owl Character: Owl Ping: 62
+PlayerID: 76561198177412437 Name: korak Character: korak Ping: 132
+PlayerID: 76561198314638573 Name: UDODMEN Character: udodmen Ping: 70
+PlayerID: 76561198293594446 Name: R_B_KOCMOCE Character: Lol-чик Ping: 70
+PlayerID: 76561198392992149 Name: ivan.evdokimov.07 Character: ivan.evdokimov.07 Ping: 78
+PlayerID: 76561198239840530 Name: BeToC Character: BeToC Ping: 62
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: [MODER]Expert1337 Ping: 148
+PlayerID: 76561198354362951 Name: m.m.vilkauss Character: miks Ping: 78
+PlayerID: 76561198256794301 Name: MaxPlayRus Character: MaxPlayRus Ping: 62
+PlayerID: 76561198333715440 Name: MartynoGaming Character: MartynoGaming Ping: 109
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294221973
+
+END with Bans:

@@ -1,0 +1,39 @@
+15.08.2017 9:21:50: ClientSocketLookup
+15.08.2017 9:21:50: ClientSocketConnecting
+15.08.2017 9:21:52: ClientSocketConnect
+15.08.2017 9:21:52: ClientSocketWrite
+19.08.2017 10:00:31: ClientSocketError Соединение прервано
+19.08.2017 10:00:41: ClientSocketError eeSend
+19.08.2017 10:00:41: ClientSocketDisconnect
+19.08.2017 10:02:55: ClientSocketLookup
+19.08.2017 10:02:55: ClientSocketConnecting
+19.08.2017 10:02:55: ClientSocketConnect
+19.08.2017 10:02:55: ClientSocketWrite
+19.08.2017 11:08:00: ClientSocketError Соединение прервано
+19.08.2017 11:08:00: ClientSocketError eeSend
+19.08.2017 11:08:00: ClientSocketDisconnect
+19.08.2017 16:45:20: ClientSocketLookup
+19.08.2017 16:45:20: ClientSocketConnecting
+19.08.2017 16:45:20: ClientSocketConnect
+19.08.2017 16:45:20: ClientSocketWrite
+19.08.2017 21:31:30: ClientSocketError Соединение прервано
+19.08.2017 21:31:30: ClientSocketError eeSend
+19.08.2017 21:31:30: ClientSocketDisconnect
+19.08.2017 21:42:06: ClientSocketLookup
+19.08.2017 21:42:06: ClientSocketConnecting
+19.08.2017 21:42:06: ClientSocketConnect
+19.08.2017 21:42:06: ClientSocketWrite
+20.08.2017 9:17:45: ClientSocketError Соединение прервано
+20.08.2017 9:18:01: ClientSocketError eeSend
+20.08.2017 9:18:01: ClientSocketDisconnect
+20.08.2017 9:18:53: ClientSocketLookup
+20.08.2017 9:18:53: ClientSocketConnecting
+20.08.2017 9:18:53: ClientSocketConnect
+20.08.2017 9:18:53: ClientSocketWrite
+20.08.2017 10:37:26: ClientSocketError Соединение прервано
+20.08.2017 10:37:26: ClientSocketError eeSend
+20.08.2017 10:37:26: ClientSocketDisconnect
+20.08.2017 10:45:05: ClientSocketLookup
+20.08.2017 10:45:05: ClientSocketConnecting
+20.08.2017 10:45:05: ClientSocketConnect
+20.08.2017 10:45:05: ClientSocketWrite

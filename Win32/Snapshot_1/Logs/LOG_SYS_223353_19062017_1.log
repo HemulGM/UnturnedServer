@@ -1,0 +1,17 @@
+19.06.2017 22:33:53: ClientSocketLookup
+19.06.2017 22:33:53: ClientSocketConnecting
+19.06.2017 22:33:53: ClientSocketConnect
+19.06.2017 22:33:53: ClientSocketWrite
+20.06.2017 11:13:08: ClientSocketManagerLookup
+20.06.2017 11:13:08: ClientSocketManagerConnecting
+20.06.2017 11:13:08: ClientSocketManagerWrite
+20.06.2017 11:13:08: ClientSocketManagerRead
+20.06.2017 11:13:13: ClientSocketManagerRead
+22.06.2017 10:03:44: ClientSocketManagerError Соединение прервано
+22.06.2017 10:03:57: ClientSocketManagerDisconnect
+22.06.2017 10:03:57: ClientSocketManagerLookup
+22.06.2017 10:03:57: ClientSocketManagerConnecting
+22.06.2017 10:03:58: ClientSocketManagerError Не смог подключиться
+22.06.2017 13:03:22: ClientSocketError eeReceive
+22.06.2017 13:03:22: ClientSocketDisconnect
+22.06.2017 13:03:22: ClientSocketError Соединение прервано

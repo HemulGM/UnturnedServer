@@ -1,0 +1,146 @@
+RocketRcon v2.4.8.0
+
+login aVIPs22031994
+players
+Client has executed command "players"
+Players:
+PlayerID: 76561198273639213 Name: KuRwa Character: Морф Стоун Ping: 60
+PlayerID: 76561198411368239 Name: ProctoLeva Character: Лёва Дигнлов Ping: 33
+PlayerID: 76561198428670756 Name: greetje123 Character: noop Ping: 84
+Client has executed command "bans"
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 26437109
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 29317387
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 29317403
+
+END
+END
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [1008]
+
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198273639213 Name: KuRwa Character: Морф Стоун Ping: 53
+PlayerID: 76561198411368239 Name: ProctoLeva Character: Лёва Дигнлов Ping: 34
+PlayerID: 76561198428670756 Name: greetje123 Character: noop Ping: 89
+
+END
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 26437101
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 29317379
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 29317395
+
+END
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [1014]
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [1018]
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [1026]
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [1028]
+
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198273639213 Name: KuRwa Character: Морф Стоун Ping: 50
+PlayerID: 76561198411368239 Name: ProctoLeva Character: Лёва Дигнлов Ping: 37
+
+END
+PlayerID: 76561198428670756 Name: greetje123 Character: noop Ping: 104
+
+Не обработано: PlayerID: 76561198428670756 Name: greetje123 Character: noop Ping: 104
+Client has executed command "bans"
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 26437081
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 29317359
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 29317375
+
+END
+[World] noop [greetje123]: "/kits"
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [1036]
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [1038]
+
+MessageAnnouncer >> Broadcast: Если модератор ведёт себя неподобающе, пишите в группу или ЛС (vk.com/unturned_hgm, vk.com/hemulgm)
+
+MessageAnnouncer >> Если модератор ведёт себя неподобающе, пишите в группу или ЛС (vk.com/unturned_hgm, vk.com/hemulgm)
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [1046]
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [1048]
+
+[Area] Морф Стоун [KuRwa]: "/sell buldog"
+
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198273639213 Name: KuRwa Character: Морф Стоун Ping: 59
+PlayerID: 76561198411368239 Name: ProctoLeva Character: Лёва Дигнлов Ping: 38
+
+END
+PlayerID: 76561198428670756 Name: greetje123 Character: noop Ping: 97
+
+Не обработано: PlayerID: 76561198428670756 Name: greetje123 Character: noop Ping: 97
+Client has executed command "bans"
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 26437060
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 29317338
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 29317354
+
+END
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [1056]
+
+[World] noop [greetje123]: "/kit unturned.hemulgm.ru"
+

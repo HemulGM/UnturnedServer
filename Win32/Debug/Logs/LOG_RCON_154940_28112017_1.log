@@ -1,0 +1,121 @@
+RocketRcon v2.4.8.0
+
+login aVIPs22031994
+players
+Client has executed command "players"
+Players:
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 167
+PlayerID: 76561198203101308 Name: Dirooll Character: Алексей Вдувакин Ping: 82
+PlayerID: 76561198423084997 Name: lovemariina Character: мафия Ping: 132
+PlayerID: 76561198408019916 Name: slava.fan555 Character: Славик Cухоруков Ping: 66
+
+[World] Expert1337 [Expert13372284200]: "откат"
+
+Client has executed command "bans"
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27563018
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30443296
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30443312
+MessageAnnouncer >> Broadcast: vk.com/hemulgm - ЕДИНСТВЕННЫЙ администратор сервера
+MessageAnnouncer >> vk.com/hemulgm - ЕДИНСТВЕННЫЙ администратор сервера
+
+END
+END
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [699]
+
+[World] мафия [lovemariina]: "это моя комнота"
+
+[World] Славик Cухоруков [slava.fan555]: "ждать надо чтоли?"
+
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 140
+PlayerID: 76561198203101308 Name: Dirooll Character: Алексей Вдувакин Ping: 74
+PlayerID: 76561198423084997 Name: lovemariina Character: мафия Ping: 140
+PlayerID: 76561198408019916 Name: slava.fan555 Character: Славик Cухоруков Ping: 117
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [707]
+
+Client has executed command "bans"
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27563005
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30443283
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30443299
+
+END
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [709]
+
+[World] Expert1337 [Expert13372284200]: "20 сек"
+
+[World] мафия [lovemariina]: "я щас преду ок"
+
+END
+Disconnecting: PlayerID: 76561198423084997 Name: lovemariina Character: мафия
+
+[World] Славик Cухоруков [slava.fan555]: "ок"
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [717]
+
+[World] Expert1337 [Expert13372284200]: "/give слав 68/50"
+
+Successfully gave slava.fan555 68 x50!
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [719]
+
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 156
+PlayerID: 76561198203101308 Name: Dirooll Character: Алексей Вдувакин Ping: 85
+PlayerID: 76561198408019916 Name: slava.fan555 Character: Славик Cухоруков Ping: 109
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [727]
+
+[World] Славик Cухоруков [slava.fan555]: "мафия ща снова зайдёт"
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [729]
+
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27562982
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30443260
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30443276
+
+END

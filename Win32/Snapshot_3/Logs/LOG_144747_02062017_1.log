@@ -1,0 +1,449 @@
+Не обработано: RocketRcon v2.4.8.0
+RocketRcon v2.4.8.0
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198176817369 Name: ?. Character: GlodiS Ping: 62
+PlayerID: 76561198371041527 Name: ¦_s1mple_¦ Character: miguelhormat Ping: 31
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 132
+PlayerID: 76561198351213164 Name: _АхМеД_ Character: Виндяй Вечеслав Ping: 93
+PlayerID: 76561198275756732 Name: elistratovartem9 Character: mr_nzta Ping: 39
+PlayerID: 76561198336855464 Name: FACK_THE_SYSTEM Character: grosa Ping: 85
+PlayerID: 76561198376937344 Name: mr.dushukhin Character: mr.dushukhin Ping: 156
+PlayerID: 76561198300812301 Name: KiLeR00707 Character: KiLeR00707 Ping: 46
+PlayerID: 76561198295801599 Name: Lo[x] Character: Lo[x] Ping: 62
+PlayerID: 76561198391121800 Name: Джеимс Вурхиз Character: Джеимс Вурхиз Ping: 46
+PlayerID: 76561198309800376 Name: polinazamlinskaya Character: Полина Замлынская Ping: 54
+PlayerID: 76561198256154529 Name: |patriot| Character: Пизды дователь Ping: 46
+
+END with Players:
+TimerTerminateCommand.Enabled with Bans:
+Client has executed command "bans"
+Bans:
+PlayerID: 123123
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 31287969
+PlayerID: 123
+JudgeID: 0
+Reason: durila Duration: 4000 Remaining: 4294723763
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294752136
+
+END with Bans:
+[World] KiLeR00707 [KiLeR00707]: "PBE"
+
+Connecting: PlayerID: 76561198215014171 Name: imanvelders Character: imanvelders
+
+[World] Пизды дователь [|patriot|]: "ясн"
+
+Не обработано: MessageAnnouncer >> Broadcast: Если модератор ведёт себя неподобающе, пишите в группу или ЛС (vk.com/unturned_hgm, vk.com/hemulgm)
+MessageAnnouncer >> Broadcast: Если модератор ведёт себя неподобающе, пишите в группу или ЛС (vk.com/unturned_hgm, vk.com/hemulgm)
+
+Не обработано: MessageAnnouncer >> Если модератор ведёт себя неподобающе, пишите в группу или ЛС (vk.com/unturned_hgm, vk.com/hemulgm)
+MessageAnnouncer >> Если модератор ведёт себя неподобающе, пишите в группу или ЛС (vk.com/unturned_hgm, vk.com/hemulgm)
+
+[World] Пизды дователь [|patriot|]: "и что тут делать ?"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198176817369 Name: ?. Character: GlodiS Ping: 70
+PlayerID: 76561198371041527 Name: ¦_s1mple_¦ Character: miguelhormat Ping: 54
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 125
+PlayerID: 76561198351213164 Name: _АхМеД_ Character: Виндяй Вечеслав Ping: 117
+PlayerID: 76561198275756732 Name: elistratovartem9 Character: mr_nzta Ping: 31
+PlayerID: 76561198336855464 Name: FACK_THE_SYSTEM Character: grosa Ping: 93
+PlayerID: 76561198376937344 Name: mr.dushukhin Character: mr.dushukhin Ping: 164
+PlayerID: 76561198300812301 Name: KiLeR00707 Character: KiLeR00707 Ping: 78
+PlayerID: 76561198295801599 Name: Lo[x] Character: Lo[x] Ping: 62
+PlayerID: 76561198391121800 Name: Джеимс Вурхиз Character: Джеимс Вурхиз Ping: 54
+PlayerID: 76561198309800376 Name: polinazamlinskaya Character: Полина Замлынская Ping: 39
+PlayerID: 76561198256154529 Name: |patriot| Character: Пизды дователь Ping: 39
+PlayerID: 76561198215014171 Name: imanvelders Character: imanvelders Ping: 93
+
+END with Players:
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198176817369 Name: ?. Character: GlodiS Ping: 62
+PlayerID: 76561198371041527 Name: ¦_s1mple_¦ Character: miguelhormat Ping: 31
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 125
+PlayerID: 76561198351213164 Name: _АхМеД_ Character: Виндяй Вечеслав Ping: 93
+PlayerID: 76561198275756732 Name: elistratovartem9 Character: mr_nzta Ping: 31
+PlayerID: 76561198336855464 Name: FACK_THE_SYSTEM Character: grosa Ping: 117
+PlayerID: 76561198376937344 Name: mr.dushukhin Character: mr.dushukhin Ping: 171
+PlayerID: 76561198300812301 Name: KiLeR00707 Character: KiLeR00707 Ping: 31
+PlayerID: 76561198295801599 Name: Lo[x] Character: Lo[x] Ping: 62
+PlayerID: 76561198391121800 Name: Джеимс Вурхиз Character: Джеимс Вурхиз Ping: 46
+PlayerID: 76561198309800376 Name: polinazamlinskaya Character: Полина Замлынская Ping: 46
+PlayerID: 76561198256154529 Name: |patriot| Character: Пизды дователь Ping: 39
+PlayerID: 76561198215014171 Name: imanvelders Character: imanvelders Ping: 70
+
+TimerTerminateCommand.Enabled with Players:
+[World] miguelhormat [¦_s1mple_¦]: "/kit help"
+
+TimerTerminateCommand.Enabled with Players:
+[World] KiLeR00707 [KiLeR00707]: "готовится к выходным в выходные пвп"
+
+Не обработано: DeathMessagesRemastered >> Broadcast: Expert1337 has bled to death!
+Не обработано: Expert1337 [Expert13372284200] bled to death!
+TimerTerminateCommand.Enabled with Players:
+DeathMessagesRemastered >> Broadcast: Expert1337 has bled to death!
+Expert1337 [Expert13372284200] bled to death!
+
+END with Players:
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198176817369 Name: ?. Character: GlodiS Ping: 70
+PlayerID: 76561198371041527 Name: ¦_s1mple_¦ Character: miguelhormat Ping: 31
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 125
+PlayerID: 76561198351213164 Name: _АхМеД_ Character: Виндяй Вечеслав Ping: 101
+PlayerID: 76561198275756732 Name: elistratovartem9 Character: mr_nzta Ping: 39
+PlayerID: 76561198336855464 Name: FACK_THE_SYSTEM Character: grosa Ping: 70
+PlayerID: 76561198376937344 Name: mr.dushukhin Character: mr.dushukhin Ping: 203
+PlayerID: 76561198300812301 Name: KiLeR00707 Character: KiLeR00707 Ping: 46
+PlayerID: 76561198295801599 Name: Lo[x] Character: Lo[x] Ping: 54
+PlayerID: 76561198391121800 Name: Джеимс Вурхиз Character: Джеимс Вурхиз Ping: 54
+PlayerID: 76561198309800376 Name: polinazamlinskaya Character: Полина Замлынская Ping: 62
+PlayerID: 76561198256154529 Name: |patriot| Character: Пизды дователь Ping: 39
+PlayerID: 76561198215014171 Name: imanvelders Character: imanvelders Ping: 78
+
+TimerTerminateCommand.Enabled with Players:
+[World] Expert1337 [Expert13372284200]: "/tpa miguel"
+
+TimerTerminateCommand.Enabled with Players:
+[World] miguelhormat [¦_s1mple_¦]: "/tpa accept"
+
+END with Players:
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198176817369 Name: ?. Character: GlodiS Ping: 62
+PlayerID: 76561198371041527 Name: ¦_s1mple_¦ Character: miguelhormat Ping: 31
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 125
+PlayerID: 76561198351213164 Name: _АхМеД_ Character: Виндяй Вечеслав Ping: 93
+PlayerID: 76561198275756732 Name: elistratovartem9 Character: mr_nzta Ping: 31
+PlayerID: 76561198336855464 Name: FACK_THE_SYSTEM Character: grosa Ping: 93
+PlayerID: 76561198376937344 Name: mr.dushukhin Character: mr.dushukhin Ping: 250
+PlayerID: 76561198300812301 Name: KiLeR00707 Character: KiLeR00707 Ping: 23
+PlayerID: 76561198295801599 Name: Lo[x] Character: Lo[x] Ping: 54
+PlayerID: 76561198391121800 Name: Джеимс Вурхиз Character: Джеимс Вурхиз Ping: 39
+PlayerID: 76561198309800376 Name: polinazamlinskaya Character: Полина Замлынская Ping: 54
+PlayerID: 76561198256154529 Name: |patriot| Character: Пизды дователь Ping: 46
+PlayerID: 76561198215014171 Name: imanvelders Character: imanvelders Ping: 70
+
+END with Players:
+Connecting: PlayerID: 76561198055405356 Name: BAD_BOY Elitedrop.ru Character: BAD_BOY
+
+[World] Пизды дователь [|patriot|]: "что щас делать"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198176817369 Name: ?. Character: GlodiS Ping: 62
+PlayerID: 76561198371041527 Name: ¦_s1mple_¦ Character: miguelhormat Ping: 39
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 117
+PlayerID: 76561198351213164 Name: _АхМеД_ Character: Виндяй Вечеслав Ping: 85
+PlayerID: 76561198275756732 Name: elistratovartem9 Character: mr_nzta Ping: 31
+PlayerID: 76561198336855464 Name: FACK_THE_SYSTEM Character: grosa Ping: 101
+PlayerID: 76561198376937344 Name: mr.dushukhin Character: mr.dushukhin Ping: 187
+PlayerID: 76561198300812301 Name: KiLeR00707 Character: KiLeR00707 Ping: 31
+PlayerID: 76561198295801599 Name: Lo[x] Character: Lo[x] Ping: 62
+PlayerID: 76561198391121800 Name: Джеимс Вурхиз Character: Джеимс Вурхиз Ping: 62
+PlayerID: 76561198309800376 Name: polinazamlinskaya Character: Полина Замлынская Ping: 46
+PlayerID: 76561198256154529 Name: |patriot| Character: Пизды дователь Ping: 46
+PlayerID: 76561198215014171 Name: imanvelders Character: imanvelders Ping: 70
+PlayerID: 76561198055405356 Name: BAD_BOY Elitedrop.ru Character: BAD_BOY Ping: 39
+
+END with Players:
+[World] Виндяй Вечеслав [_АхМеД_]: "ШАДОУ СТАЛКЕЕЕЕР!!!"
+
+Connecting: PlayerID: 76561198272452567 Name: Wolf56 Character: Wolf56
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198176817369 Name: ?. Character: GlodiS Ping: 62
+PlayerID: 76561198371041527 Name: ¦_s1mple_¦ Character: miguelhormat Ping: 39
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 132
+PlayerID: 76561198351213164 Name: _АхМеД_ Character: Виндяй Вечеслав Ping: 85
+PlayerID: 76561198275756732 Name: elistratovartem9 Character: mr_nzta Ping: 31
+PlayerID: 76561198336855464 Name: FACK_THE_SYSTEM Character: grosa Ping: 93
+PlayerID: 76561198376937344 Name: mr.dushukhin Character: mr.dushukhin Ping: 250
+PlayerID: 76561198300812301 Name: KiLeR00707 Character: KiLeR00707 Ping: 46
+PlayerID: 76561198295801599 Name: Lo[x] Character: Lo[x] Ping: 62
+PlayerID: 76561198391121800 Name: Джеимс Вурхиз Character: Джеимс Вурхиз Ping: 54
+PlayerID: 76561198309800376 Name: polinazamlinskaya Character: Полина Замлынская Ping: 54
+PlayerID: 76561198256154529 Name: |patriot| Character: Пизды дователь Ping: 46
+PlayerID: 76561198215014171 Name: imanvelders Character: imanvelders Ping: 70
+PlayerID: 76561198055405356 Name: BAD_BOY Elitedrop.ru Character: BAD_BOY Ping: 39
+PlayerID: 76561198272452567 Name: Wolf56 Character: Wolf56 Ping: 0
+
+END with Players:
+[World] BAD_BOY [BAD_BOY Elitedrop.ru]: "/KITS"
+
+Не обработано: MessageAnnouncer >> Broadcast: vk.com/hemulgm - ЕДИНСТВЕННЫЙ администратор сервера
+MessageAnnouncer >> Broadcast: vk.com/hemulgm - ЕДИНСТВЕННЫЙ администратор сервера
+
+Не обработано: MessageAnnouncer >> vk.com/hemulgm - ЕДИНСТВЕННЫЙ администратор сервера
+MessageAnnouncer >> vk.com/hemulgm - ЕДИНСТВЕННЫЙ администратор сервера
+
+[World] BAD_BOY [BAD_BOY Elitedrop.ru]: "/kit start"
+
+Не обработано: DeathMessagesRemastered >> Broadcast: grosa has been mauled by a zombie! 
+DeathMessagesRemastered >> Broadcast: grosa has been mauled by a zombie! 
+
+Client has executed command "players"
+
+Не обработано: grosa [FACK_THE_SYSTEM] was mauled by a zombie!
+TimerTerminateCommand.Enabled with Players:
+grosa [FACK_THE_SYSTEM] was mauled by a zombie!
+Players:
+PlayerID: 76561198176817369 Name: ?. Character: GlodiS Ping: 62
+PlayerID: 76561198371041527 Name: ¦_s1mple_¦ Character: miguelhormat Ping: 39
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 148
+PlayerID: 76561198351213164 Name: _АхМеД_ Character: Виндяй Вечеслав Ping: 125
+PlayerID: 76561198275756732 Name: elistratovartem9 Character: mr_nzta Ping: 23
+PlayerID: 76561198336855464 Name: FACK_THE_SYSTEM Character: grosa Ping: 101
+PlayerID: 76561198376937344 Name: mr.dushukhin Character: mr.dushukhin Ping: 234
+PlayerID: 76561198300812301 Name: KiLeR00707 Character: KiLeR00707 Ping: 39
+PlayerID: 76561198295801599 Name: Lo[x] Character: Lo[x] Ping: 54
+PlayerID: 76561198391121800 Name: Джеимс Вурхиз Character: Джеимс Вурхиз Ping: 39
+PlayerID: 76561198309800376 Name: polinazamlinskaya Character: Полина Замлынская Ping: 39
+PlayerID: 76561198256154529 Name: |patriot| Character: Пизды дователь Ping: 54
+PlayerID: 76561198215014171 Name: imanvelders Character: imanvelders Ping: 78
+PlayerID: 76561198055405356 Name: BAD_BOY Elitedrop.ru Character: BAD_BOY Ping: 31
+PlayerID: 76561198272452567 Name: Wolf56 Character: Wolf56 Ping: 54
+
+TimerTerminateCommand.Enabled with Players:
+[World] Виндяй Вечеслав [_АхМеД_]: "Expert"
+
+TimerTerminateCommand.Enabled with Players:
+[World] Wolf56 [Wolf56]: "/KIT"
+
+END with Players:
+[World] BAD_BOY [BAD_BOY Elitedrop.ru]: "/kits"
+
+[World] Пизды дователь [|patriot|]: "Что тут делать ???ъъ\"
+
+[World] Expert1337 [Expert13372284200]: "что"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198176817369 Name: ?. Character: GlodiS Ping: 62
+PlayerID: 76561198371041527 Name: ¦_s1mple_¦ Character: miguelhormat Ping: 31
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 140
+PlayerID: 76561198351213164 Name: _АхМеД_ Character: Виндяй Вечеслав Ping: 148
+PlayerID: 76561198275756732 Name: elistratovartem9 Character: mr_nzta Ping: 31
+PlayerID: 76561198336855464 Name: FACK_THE_SYSTEM Character: grosa Ping: 109
+PlayerID: 76561198376937344 Name: mr.dushukhin Character: mr.dushukhin Ping: 148
+PlayerID: 76561198300812301 Name: KiLeR00707 Character: KiLeR00707 Ping: 39
+PlayerID: 76561198295801599 Name: Lo[x] Character: Lo[x] Ping: 46
+PlayerID: 76561198391121800 Name: Джеимс Вурхиз Character: Джеимс Вурхиз Ping: 46
+PlayerID: 76561198309800376 Name: polinazamlinskaya Character: Полина Замлынская Ping: 46
+PlayerID: 76561198256154529 Name: |patriot| Character: Пизды дователь Ping: 46
+PlayerID: 76561198215014171 Name: imanvelders Character: imanvelders Ping: 70
+PlayerID: 76561198055405356 Name: BAD_BOY Elitedrop.ru Character: BAD_BOY Ping: 31
+PlayerID: 76561198272452567 Name: Wolf56 Character: Wolf56 Ping: 70
+
+TimerTerminateCommand.Enabled with Players:
+[World] Wolf56 [Wolf56]: "/kitlist"
+
+END with Players:
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198176817369 Name: ?. Character: GlodiS Ping: 62
+PlayerID: 76561198371041527 Name: ¦_s1mple_¦ Character: miguelhormat Ping: 31
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 140
+PlayerID: 76561198351213164 Name: _АхМеД_ Character: Виндяй Вечеслав Ping: 117
+PlayerID: 76561198275756732 Name: elistratovartem9 Character: mr_nzta Ping: 23
+PlayerID: 76561198336855464 Name: FACK_THE_SYSTEM Character: grosa Ping: 101
+PlayerID: 76561198376937344 Name: mr.dushukhin Character: mr.dushukhin Ping: 125
+PlayerID: 76561198300812301 Name: KiLeR00707 Character: KiLeR00707 Ping: 15
+PlayerID: 76561198295801599 Name: Lo[x] Character: Lo[x] Ping: 62
+PlayerID: 76561198391121800 Name: Джеимс Вурхиз Character: Джеимс Вурхиз Ping: 54
+PlayerID: 76561198309800376 Name: polinazamlinskaya Character: Полина Замлынская Ping: 46
+PlayerID: 76561198256154529 Name: |patriot| Character: Пизды дователь Ping: 23
+PlayerID: 76561198215014171 Name: imanvelders Character: imanvelders Ping: 78
+PlayerID: 76561198055405356 Name: BAD_BOY Elitedrop.ru Character: BAD_BOY Ping: 39
+PlayerID: 76561198272452567 Name: Wolf56 Character: Wolf56 Ping: 54
+
+END with Players:
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198176817369 Name: ?. Character: GlodiS Ping: 62
+PlayerID: 76561198371041527 Name: ¦_s1mple_¦ Character: miguelhormat Ping: 31
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 132
+PlayerID: 76561198351213164 Name: _АхМеД_ Character: Виндяй Вечеслав Ping: 117
+PlayerID: 76561198275756732 Name: elistratovartem9 Character: mr_nzta Ping: 31
+PlayerID: 76561198336855464 Name: FACK_THE_SYSTEM Character: grosa Ping: 117
+PlayerID: 76561198376937344 Name: mr.dushukhin Character: mr.dushukhin Ping: 210
+PlayerID: 76561198300812301 Name: KiLeR00707 Character: KiLeR00707 Ping: 31
+PlayerID: 76561198295801599 Name: Lo[x] Character: Lo[x] Ping: 62
+PlayerID: 76561198391121800 Name: Джеимс Вурхиз Character: Джеимс Вурхиз Ping: 31
+PlayerID: 76561198309800376 Name: polinazamlinskaya Character: Полина Замлынская Ping: 39
+PlayerID: 76561198256154529 Name: |patriot| Character: Пизды дователь Ping: 31
+PlayerID: 76561198215014171 Name: imanvelders Character: imanvelders Ping: 78
+PlayerID: 76561198055405356 Name: BAD_BOY Elitedrop.ru Character: BAD_BOY Ping: 39
+PlayerID: 76561198272452567 Name: Wolf56 Character: Wolf56 Ping: 85
+
+END with Players:
+Disconnecting: PlayerID: 76561198215014171 Name: imanvelders Character: imanvelders
+
+[World] Пизды дователь [|patriot|]: "а чтоза пак с оруж"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198176817369 Name: ?. Character: GlodiS Ping: 78
+PlayerID: 76561198371041527 Name: ¦_s1mple_¦ Character: miguelhormat Ping: 31
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 156
+PlayerID: 76561198351213164 Name: _АхМеД_ Character: Виндяй Вечеслав Ping: 93
+PlayerID: 76561198275756732 Name: elistratovartem9 Character: mr_nzta Ping: 31
+PlayerID: 76561198336855464 Name: FACK_THE_SYSTEM Character: grosa Ping: 109
+PlayerID: 76561198376937344 Name: mr.dushukhin Character: mr.dushukhin Ping: 195
+PlayerID: 76561198300812301 Name: KiLeR00707 Character: KiLeR00707 Ping: 46
+PlayerID: 76561198295801599 Name: Lo[x] Character: Lo[x] Ping: 54
+PlayerID: 76561198391121800 Name: Джеимс Вурхиз Character: Джеимс Вурхиз Ping: 54
+PlayerID: 76561198309800376 Name: polinazamlinskaya Character: Полина Замлынская Ping: 39
+PlayerID: 76561198256154529 Name: |patriot| Character: Пизды дователь Ping: 31
+PlayerID: 76561198055405356 Name: BAD_BOY Elitedrop.ru Character: BAD_BOY Ping: 46
+PlayerID: 76561198272452567 Name: Wolf56 Character: Wolf56 Ping: 109
+
+TimerTerminateCommand.Enabled with Players:
+[World] Wolf56 [Wolf56]: "/kit med"
+
+TimerTerminateCommand.Enabled with Players:
+[World] Пизды дователь [|patriot|]: "вышл"
+
+END with Players:
+[World] Wolf56 [Wolf56]: "/kits"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198176817369 Name: ?. Character: GlodiS Ping: 70
+PlayerID: 76561198371041527 Name: ¦_s1mple_¦ Character: miguelhormat Ping: 31
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 132
+PlayerID: 76561198351213164 Name: _АхМеД_ Character: Виндяй Вечеслав Ping: 250
+PlayerID: 76561198275756732 Name: elistratovartem9 Character: mr_nzta Ping: 31
+PlayerID: 76561198336855464 Name: FACK_THE_SYSTEM Character: grosa Ping: 132
+PlayerID: 76561198376937344 Name: mr.dushukhin Character: mr.dushukhin Ping: 171
+PlayerID: 76561198300812301 Name: KiLeR00707 Character: KiLeR00707 Ping: 54
+PlayerID: 76561198295801599 Name: Lo[x] Character: Lo[x] Ping: 62
+PlayerID: 76561198391121800 Name: Джеимс Вурхиз Character: Джеимс Вурхиз Ping: 46
+PlayerID: 76561198309800376 Name: polinazamlinskaya Character: Полина Замлынская Ping: 54
+PlayerID: 76561198256154529 Name: |patriot| Character: Пизды дователь Ping: 62
+PlayerID: 76561198055405356 Name: BAD_BOY Elitedrop.ru Character: BAD_BOY Ping: 46
+PlayerID: 76561198272452567 Name: Wolf56 Character: Wolf56 Ping: 70
+
+END with Players:
+[World] Wolf56 [Wolf56]: "/kit start"
+
+Не обработано: MessageAnnouncer >> Broadcast: Используйте /report [ник], чтобы отправить жалобу на игрока
+MessageAnnouncer >> Broadcast: Используйте /report [ник], чтобы отправить жалобу на игрока
+
+Не обработано: MessageAnnouncer >> Используйте /report [ник], чтобы отправить жалобу на игрока
+MessageAnnouncer >> Используйте /report [ник], чтобы отправить жалобу на игрока
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198176817369 Name: ?. Character: GlodiS Ping: 46
+PlayerID: 76561198371041527 Name: ¦_s1mple_¦ Character: miguelhormat Ping: 31
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 125
+PlayerID: 76561198351213164 Name: _АхМеД_ Character: Виндяй Вечеслав Ping: 85
+PlayerID: 76561198275756732 Name: elistratovartem9 Character: mr_nzta Ping: 31
+PlayerID: 76561198336855464 Name: FACK_THE_SYSTEM Character: grosa Ping: 125
+PlayerID: 76561198376937344 Name: mr.dushukhin Character: mr.dushukhin Ping: 125
+PlayerID: 76561198300812301 Name: KiLeR00707 Character: KiLeR00707 Ping: 62
+PlayerID: 76561198295801599 Name: Lo[x] Character: Lo[x] Ping: 62
+PlayerID: 76561198391121800 Name: Джеимс Вурхиз Character: Джеимс Вурхиз Ping: 46
+PlayerID: 76561198309800376 Name: polinazamlinskaya Character: Полина Замлынская Ping: 39
+PlayerID: 76561198256154529 Name: |patriot| Character: Пизды дователь Ping: 46
+PlayerID: 76561198055405356 Name: BAD_BOY Elitedrop.ru Character: BAD_BOY Ping: 31
+PlayerID: 76561198272452567 Name: Wolf56 Character: Wolf56 Ping: 62
+
+END with Players:
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198176817369 Name: ?. Character: GlodiS Ping: 70
+PlayerID: 76561198371041527 Name: ¦_s1mple_¦ Character: miguelhormat Ping: 31
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 125
+PlayerID: 76561198351213164 Name: _АхМеД_ Character: Виндяй Вечеслав Ping: 148
+PlayerID: 76561198275756732 Name: elistratovartem9 Character: mr_nzta Ping: 31
+PlayerID: 76561198336855464 Name: FACK_THE_SYSTEM Character: grosa Ping: 171
+PlayerID: 76561198376937344 Name: mr.dushukhin Character: mr.dushukhin Ping: 148
+PlayerID: 76561198300812301 Name: KiLeR00707 Character: KiLeR00707 Ping: 31
+PlayerID: 76561198295801599 Name: Lo[x] Character: Lo[x] Ping: 62
+PlayerID: 76561198391121800 Name: Джеимс Вурхиз Character: Джеимс Вурхиз Ping: 54
+PlayerID: 76561198309800376 Name: polinazamlinskaya Character: Полина Замлынская Ping: 54
+PlayerID: 76561198256154529 Name: |patriot| Character: Пизды дователь Ping: 46
+PlayerID: 76561198055405356 Name: BAD_BOY Elitedrop.ru Character: BAD_BOY Ping: 39
+PlayerID: 76561198272452567 Name: Wolf56 Character: Wolf56 Ping: 46
+
+END with Players:
+[World] Виндяй Вечеслав [_АхМеД_]: "expert есть канистра?"
+
+[World] Expert1337 [Expert13372284200]: "lf"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198176817369 Name: ?. Character: GlodiS Ping: 54
+PlayerID: 76561198371041527 Name: ¦_s1mple_¦ Character: miguelhormat Ping: 31
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 125
+PlayerID: 76561198351213164 Name: _АхМеД_ Character: Виндяй Вечеслав Ping: 109
+PlayerID: 76561198275756732 Name: elistratovartem9 Character: mr_nzta Ping: 31
+PlayerID: 76561198336855464 Name: FACK_THE_SYSTEM Character: grosa Ping: 132
+PlayerID: 76561198376937344 Name: mr.dushukhin Character: mr.dushukhin Ping: 156
+PlayerID: 76561198300812301 Name: KiLeR00707 Character: KiLeR00707 Ping: 15
+PlayerID: 76561198295801599 Name: Lo[x] Character: Lo[x] Ping: 62
+PlayerID: 76561198391121800 Name: Джеимс Вурхиз Character: Джеимс Вурхиз Ping: 46
+PlayerID: 76561198309800376 Name: polinazamlinskaya Character: Полина Замлынская Ping: 46
+PlayerID: 76561198256154529 Name: |patriot| Character: Пизды дователь Ping: 54
+PlayerID: 76561198055405356 Name: BAD_BOY Elitedrop.ru Character: BAD_BOY Ping: 31
+PlayerID: 76561198272452567 Name: Wolf56 Character: Wolf56 Ping: 54
+
+TimerTerminateCommand.Enabled with Players:
+[World] Expert1337 [Expert13372284200]: "да"
+
+TimerTerminateCommand.Enabled with Players:
+[World] Виндяй Вечеслав [_АхМеД_]: "заправь машину пж"
+
+END with Players:
+[World] Expert1337 [Expert13372284200]: "ок"
+
+[World] Пизды дователь [|patriot|]: "ком м4 над ?\"
+
+Не обработано: Джеимс Вурхиз moved x:-648.6384 y:83.5177(+44.44537) z:398.6393 in the last second (1)
+Не обработано: DeathMessagesRemastered >> Broadcast: Wolf56 has been mauled by a zombie! 
+Не обработано: Wolf56 [Wolf56] was mauled by a zombie!
+Не обработано: MessageAnnouncer >> Broadcast: Наберите /rules (/r) для просмотра правил
+Не обработано: MessageAnnouncer >> Наберите /rules (/r) для просмотра правил
+Не обработано: DeathMessagesRemastered >> Broadcast: BAD_BOY has been mauled by a zombie! 
+Не обработано: BAD_BOY [BAD_BOY Elitedrop.ru] was mauled by a zombie!
+Не обработано: DeathMessagesRemastered >> Broadcast: Wolf56 has bled to death!
+Не обработано: Wolf56 [Wolf56] bled to death!

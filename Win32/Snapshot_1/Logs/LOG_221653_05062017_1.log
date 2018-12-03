@@ -1,0 +1,176 @@
+Не обработано: RocketRcon v2.4.8.0
+RocketRcon v2.4.8.0
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198336965559 Name: Bomjara Character: Bomjara Ping: 42
+PlayerID: 76561198363828451 Name: Ничоси Character: Кеша Ping: 42
+PlayerID: 76561198305732269 Name: Owl Character: Owl Ping: 66
+PlayerID: 76561198390891968 Name: artyr-zakirov-96 Character: alkash Ping: 62
+PlayerID: 76561198386134948 Name: ZAGNIAGNIA Character: zakary.tellier Ping: 101
+PlayerID: 76561198334346242 Name: мареонетка Character: [Кровавые]хмурый Ping: 125
+
+TimerTerminateCommand.Enabled with Players:
+[World] Bomjara [Bomjara]: "/kits"
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 123123
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 31001822
+PlayerID: 123
+JudgeID: 0
+Reason: durila Duration: 4000 Remaining: 4294437616
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294465989
+
+END with Bans:
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198336965559 Name: Bomjara Character: Bomjara Ping: 50
+PlayerID: 76561198363828451 Name: Ничоси Character: Кеша Ping: 39
+PlayerID: 76561198305732269 Name: Owl Character: Owl Ping: 66
+PlayerID: 76561198390891968 Name: artyr-zakirov-96 Character: alkash Ping: 121
+PlayerID: 76561198386134948 Name: ZAGNIAGNIA Character: zakary.tellier Ping: 105
+PlayerID: 76561198334346242 Name: мареонетка Character: [Кровавые]хмурый Ping: 113
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 123123
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 31001803
+PlayerID: 123
+JudgeID: 0
+Reason: durila Duration: 4000 Remaining: 4294437597
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294465970
+
+TimerTerminateCommand.Enabled with Bans:
+[World] Bomjara [Bomjara]: "/kit start"
+
+END with Bans:
+Не обработано: MessageAnnouncer >> Broadcast: Наберите /kit help, чтобы получить первую мед. помощь (бинты, таблетки, еда)
+MessageAnnouncer >> Broadcast: Наберите /kit help, чтобы получить первую мед. помощь (бинты, таблетки, еда)
+
+Не обработано: MessageAnnouncer >> Наберите /kit help, чтобы получить первую мед. помощь (бинты, таблетки, еда)
+MessageAnnouncer >> Наберите /kit help, чтобы получить первую мед. помощь (бинты, таблетки, еда)
+
+Disconnecting: PlayerID: 76561198390891968 Name: artyr-zakirov-96 Character: alkash
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198336965559 Name: Bomjara Character: Bomjara Ping: 50
+PlayerID: 76561198363828451 Name: Ничоси Character: Кеша Ping: 39
+PlayerID: 76561198305732269 Name: Owl Character: Owl Ping: 66
+PlayerID: 76561198386134948 Name: ZAGNIAGNIA Character: zakary.tellier Ping: 128
+PlayerID: 76561198334346242 Name: мареонетка Character: [Кровавые]хмурый Ping: 125
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 123123
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 31001783
+PlayerID: 123
+JudgeID: 0
+Reason: durila Duration: 4000 Remaining: 4294437577
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294465950
+
+END with Bans:
+Disconnecting: PlayerID: 76561198336965559 Name: Bomjara Character: Bomjara
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198363828451 Name: Ничоси Character: Кеша Ping: 35
+PlayerID: 76561198305732269 Name: Owl Character: Owl Ping: 66
+PlayerID: 76561198386134948 Name: ZAGNIAGNIA Character: zakary.tellier Ping: 117
+PlayerID: 76561198334346242 Name: мареонетка Character: [Кровавые]хмурый Ping: 113
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 123123
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 31001763
+PlayerID: 123
+JudgeID: 0
+Reason: durila Duration: 4000 Remaining: 4294437557
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294465930
+
+TimerTerminateCommand.Enabled with Bans:
+Client has executed command "players"
+
+END with Bans:
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198363828451 Name: Ничоси Character: Кеша Ping: 46
+PlayerID: 76561198305732269 Name: Owl Character: Owl Ping: 62
+PlayerID: 76561198386134948 Name: ZAGNIAGNIA Character: zakary.tellier Ping: 101
+PlayerID: 76561198334346242 Name: мареонетка Character: [Кровавые]хмурый Ping: 125
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 123123
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 31001759
+PlayerID: 123
+JudgeID: 0
+Reason: durila Duration: 4000 Remaining: 4294437553
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294465926
+
+TimerTerminateCommand.Enabled with Bans:
+Client has executed command "players"
+
+END with Bans:
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198363828451 Name: Ничоси Character: Кеша Ping: 35
+PlayerID: 76561198305732269 Name: Owl Character: Owl Ping: 66
+PlayerID: 76561198386134948 Name: ZAGNIAGNIA Character: zakary.tellier Ping: 93
+PlayerID: 76561198334346242 Name: мареонетка Character: [Кровавые]хмурый Ping: 121
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 123123
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 31001756
+PlayerID: 123
+JudgeID: 0
+Reason: durila Duration: 4000 Remaining: 4294437550
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294465923
+
+END with Bans:

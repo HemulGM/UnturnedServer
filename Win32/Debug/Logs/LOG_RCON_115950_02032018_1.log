@@ -1,0 +1,118 @@
+RocketRcon v2.4.8.0
+
+login aVIPs22031994
+players
+Client has executed command "players"
+Players:
+PlayerID: 76561198130308475 Name: алдуин csgofast.com Character: OXXXY Ping: 19
+PlayerID: 76561198366549870 Name: Expert1337 Character: Expert1337 Ping: 50
+PlayerID: 76561198423084997 Name: FACE Character: Элджей Ping: 113
+PlayerID: 76561198818151252 Name: vladimirtkacenko06 Character: Вова Ping: 117
+PlayerID: 76561198290478364 Name: Mr.Web56 Character: Webчик  Ping: 101
+PlayerID: 76561198314376473 Name: Злой Котик) Character: степан Ping: 113
+Client has executed command "bans"
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 19455285
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 22335563
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 22335579
+PlayerID: 76561198441524917
+JudgeID: 76561198237123262
+Reason: 100000 Duration: 31536000 Remaining: 27426745
+PlayerID: 76561198446923945
+JudgeID: 76561198237123262
+Reason: 60000 Duration: 31536000 Remaining: 28001709
+Client has executed command "players"
+Players:
+PlayerID: 76561198130308475 Name: алдуин csgofast.com Character: OXXXY Ping: 19
+PlayerID: 76561198366549870 Name: Expert1337 Character: Expert1337 Ping: 58
+PlayerID: 76561198423084997 Name: FACE Character: Элджей Ping: 121
+PlayerID: 76561198818151252 Name: vladimirtkacenko06 Character: Вова Ping: 121
+PlayerID: 76561198290478364 Name: Mr.Web56 Character: Webчик  Ping: 85
+PlayerID: 76561198314376473 Name: Злой Котик) Character: степан Ping: 121
+Client has executed command "GET NOW"
+ServerControl >> VALUE NOW [1] [0] [2113]
+
+END
+END
+Broadcast: [ZOMBIE] Вова был съеден зомби! 
+
+Не обработано: Broadcast: [ZOMBIE] Вова был съеден зомби! 
+Вова [vladimirtkacenko06] was mauled by a zombie!
+
+Не обработано: Вова [vladimirtkacenko06] was mauled by a zombie!
+END
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 19455282
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 22335560
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 22335576
+PlayerID: 76561198441524917
+JudgeID: 76561198237123262
+Reason: 100000 Duration: 31536000 Remaining: 27426742
+PlayerID: 76561198446923945
+JudgeID: 76561198237123262
+Reason: 60000 Duration: 31536000 Remaining: 28001706
+
+END
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [2123]
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [2123]
+
+Kicking for inactivity: PlayerID: 76561198818151252 Name: vladimirtkacenko06 Character: Вова
+
+Не обработано: Kicking for inactivity: PlayerID: 76561198818151252 Name: vladimirtkacenko06 Character: Вова
+Disconnecting: PlayerID: 76561198818151252 Name: vladimirtkacenko06 Character: Вова
+
+GET NOW
+Client has executed command "players"
+Players:
+PlayerID: 76561198130308475 Name: алдуин csgofast.com Character: OXXXY Ping: 15
+PlayerID: 76561198366549870 Name: Expert1337 Character: Expert1337 Ping: 42
+PlayerID: 76561198423084997 Name: FACE Character: Элджей Ping: 113
+PlayerID: 76561198290478364 Name: Mr.Web56 Character: Webчик  Ping: 85
+PlayerID: 76561198314376473 Name: Злой Котик) Character: степан Ping: 117
+Client has executed command "GET NOW"
+ServerControl >> VALUE NOW [1] [0] [2133]
+
+Client has executed command "GET NOW"
+ServerControl >> VALUE NOW [1] [0] [2134]
+
+END
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 19455262
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 22335540
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 22335556
+PlayerID: 76561198441524917
+JudgeID: 76561198237123262
+Reason: 100000 Duration: 31536000 Remaining: 27426722
+PlayerID: 76561198446923945
+JudgeID: 76561198237123262
+Reason: 60000 Duration: 31536000 Remaining: 28001686
+
+END

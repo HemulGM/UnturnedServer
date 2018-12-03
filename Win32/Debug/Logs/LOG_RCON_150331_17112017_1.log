@@ -1,0 +1,112 @@
+17.11.2017 15:03:32: RocketRcon v2.4.8.0
+
+17.11.2017 15:03:34: Client has executed command "players"
+Players:
+PlayerID: 76561198263148425 Name: __EHoT Character: zohan Ping: 45
+PlayerID: 76561198234232440 Name: FuSian Character: Fusian Ping: 62
+PlayerID: 76561198106869292 Name: roman146rus Character: roman146rus Ping: 62
+PlayerID: 76561198285625894 Name: _Wenrag0rn Character: _Wenrag0rn Ping: 60
+
+17.11.2017 15:03:35: Client has executed command "bans"
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 28516163
+PlayerID: 76561198395511982
+JudgeID: 0
+Reason: 999999 Duration: 31536000 Remaining: 30070915
+PlayerID: 76561198331180787
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30419133
+PlayerID: 76561198172502147
+JudgeID: 76561198237123262
+Reason: 3600 Duration: 31536000 Remaining: 30422527
+PlayerID: 76561198331252339
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30434860
+PlayerID: 76561198434258763
+JudgeID: 0
+Reason: reid Duration: 608400 Remaining: 201407
+
+17.11.2017 15:03:35: END
+17.11.2017 15:03:35: Client has executed command "bans"
+
+17.11.2017 15:03:35: Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 28516163
+PlayerID: 76561198395511982
+JudgeID: 0
+Reason: 999999 Duration: 31536000 Remaining: 30070915
+PlayerID: 76561198331180787
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30419133
+PlayerID: 76561198172502147
+JudgeID: 76561198237123262
+Reason: 3600 Duration: 31536000 Remaining: 30422527
+PlayerID: 76561198331252339
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30434860
+PlayerID: 76561198434258763
+JudgeID: 0
+Reason: reid Duration: 608400 Remaining: 201407
+
+17.11.2017 15:03:35: END
+17.11.2017 15:03:37: END
+17.11.2017 15:03:38: Client has executed command "players"
+
+17.11.2017 15:03:38: Players:
+PlayerID: 76561198263148425 Name: __EHoT Character: zohan Ping: 30
+PlayerID: 76561198234232440 Name: FuSian Character: Fusian Ping: 62
+PlayerID: 76561198106869292 Name: roman146rus Character: roman146rus Ping: 60
+PlayerID: 76561198285625894 Name: _Wenrag0rn Character: _Wenrag0rn Ping: 72
+
+17.11.2017 15:03:39: Client has executed command "bans"
+
+17.11.2017 15:03:39: Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 28516158
+PlayerID: 76561198395511982
+JudgeID: 0
+Reason: 999999 Duration: 31536000 Remaining: 30070910
+PlayerID: 76561198331180787
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30419128
+PlayerID: 76561198172502147
+JudgeID: 76561198237123262
+Reason: 3600 Duration: 31536000 Remaining: 30422522
+PlayerID: 76561198331252339
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30434855
+PlayerID: 76561198434258763
+JudgeID: 0
+Reason: reid Duration: 608400 Remaining: 201402
+
+17.11.2017 15:03:39: END
+17.11.2017 15:03:39: Client has executed command "bans"
+
+17.11.2017 15:03:39: Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 28516158
+PlayerID: 76561198395511982
+JudgeID: 0
+Reason: 999999 Duration: 31536000 Remaining: 30070910
+PlayerID: 76561198331180787
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30419128
+PlayerID: 76561198172502147
+JudgeID: 76561198237123262
+Reason: 3600 Duration: 31536000 Remaining: 30422522
+PlayerID: 76561198331252339
+JudgeID: 76561198151655003
+Reason: unspecified Duration: 31536000 Remaining: 30434855
+PlayerID: 76561198434258763
+JudgeID: 0
+Reason: reid Duration: 608400 Remaining: 201402
+
+17.11.2017 15:03:39: END
+17.11.2017 15:03:41: END
+17.11.2017 15:03:42: [World] Fusian [FuSian]: "wenrag го дружить"
+

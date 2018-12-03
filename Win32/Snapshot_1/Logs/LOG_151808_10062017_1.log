@@ -1,0 +1,82 @@
+Не обработано: RocketRcon v2.4.8.0
+RocketRcon v2.4.8.0
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198354953801 Name: торвей Character: торвей Ping: 137
+PlayerID: 76561198305732269 Name: Owl Character: Owl Ping: 62
+PlayerID: 76561198262878051 Name: Kolder Character: Kolder Ping: 53
+PlayerID: 76561198341646391 Name: bazanova-t Character: Подрывник Ping: 47
+PlayerID: 76561198165822970 Name: Indigo Character: Indigo Ping: 50
+PlayerID: 76561198151655003 Name: HemulGM Character: HemulGM Ping: 14
+PlayerID: 76561198388803679 Name: nikanorova2 Character: nikanorova2 Ping: 105
+PlayerID: 76561198278360341 Name: AcademeG Character: AcademeG Ping: 79
+PlayerID: 76561198300812301 Name: KiLeR00707 Character: KiLeR00707 Ping: 14
+PlayerID: 76561198341997660 Name: Dimacvit1996 Character: Dimacvit1996 Ping: 81
+
+TimerTerminateCommand.Enabled with Players:
+[World] Подрывник [bazanova-t]: "Меня уже можете не ждать"
+
+TimerTerminateCommand.Enabled with Players:
+[World] nikanorova2 [nikanorova2]: "прими"
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294059117
+
+Не обработано: DeathMessagesRemastered >> Broadcast: Indigo, HP: 100%, ran over Подрывник, using a Makeshift Vehicle!
+Не обработано: DropManager >> 3
+TimerTerminateCommand.Enabled with Bans:
+[World] Indigo [Indigo]: "/tpa a"
+DeathMessagesRemastered >> Broadcast: Indigo, HP: 100%, ran over Подрывник, using a Makeshift Vehicle!
+DropManager >> 3
+
+Не обработано: Подрывник [bazanova-t] was roadkilled by Indigo [Indigo]!
+TimerTerminateCommand.Enabled with Bans:
+Подрывник [bazanova-t] was roadkilled by Indigo [Indigo]!
+
+TimerTerminateCommand.Enabled with Bans:
+[World] Owl [Owl]: "/tpa dima"
+
+END with Bans:
+[World] nikanorova2 [nikanorova2]: "/tpa кол"
+
+[World] KiLeR00707 [KiLeR00707]: "/home"
+
+Не обработано: Подрывник moved x:-744.4502 y:58.56762(+19.15871) z:127.2084 in the last second (0.9748459)
+Подрывник moved x:-744.4502 y:58.56762(+19.15871) z:127.2084 in the last second (0.9748459)
+
+[World] nikanorova2 [nikanorova2]: "/tpa kol"
+
+[World] KiLeR00707 [KiLeR00707]: "/home"
+
+[World] nikanorova2 [nikanorova2]: "прими"
+
+[World] Dimacvit1996 [Dimacvit1996]: "/tpa a"
+
+Не обработано: Owl moved x:-938.5513 y:80.39483(+54.87919) z:957.2524 in the last second (0.5999985)
+Owl moved x:-938.5513 y:80.39483(+54.87919) z:957.2524 in the last second (0.5999985)
+
+[World] nikanorova2 [nikanorova2]: "я снему"
+
+TimerTerminateCommand.Enabled with Players:
+Client has executed command "players"
+Players:
+PlayerID: 76561198354953801 Name: торвей Character: торвей Ping: 174
+PlayerID: 76561198305732269 Name: Owl Character: Owl Ping: 204
+PlayerID: 76561198262878051 Name: Kolder Character: Kolder Ping: 53
+PlayerID: 76561198341646391 Name: bazanova-t Character: Подрывник Ping: 26
+PlayerID: 76561198165822970 Name: Indigo Character: Indigo Ping: 51
+PlayerID: 76561198151655003 Name: HemulGM Character: HemulGM Ping: 13
+PlayerID: 76561198388803679 Name: nikanorova2 Character: nikanorova2 Ping: 98
+PlayerID: 76561198278360341 Name: AcademeG Character: AcademeG Ping: 97
+PlayerID: 76561198300812301 Name: KiLeR00707 Character: KiLeR00707 Ping: 37
+PlayerID: 76561198341997660 Name: Dimacvit1996 Character: Dimacvit1996 Ping: 76
+

@@ -1,0 +1,103 @@
+Не обработано: RocketRcon v2.4.8.0
+RocketRcon v2.4.8.0
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 132
+PlayerID: 76561198280617288 Name: Незнаю какой придумать Character: Пипр Ping: 54
+PlayerID: 76561198341672556 Name: st.vladir Character: st.vladir Ping: 132
+PlayerID: 76561198157563744 Name: Jason Voorhees Character: Jason Voorhees Ping: 62
+PlayerID: 76561198056237987 Name: Calibrovshik Character: Calibrovshik Ping: 93
+PlayerID: 76561198200101595 Name: Deus vult Character: Nevalyasha4 Ping: 109
+PlayerID: 76561198119414469 Name: Postman Pat Character: Postman Pat Ping: 70
+PlayerID: 76561198391626023 Name: roman.sagitov.2017 Character: Roma Sagitow Ping: 39
+PlayerID: 76561198295801599 Name: Lo[x] Character: Lo[x] Ping: 62
+PlayerID: 76561198371041527 Name: ¦_s1mple_¦ Character: miguelhormat Ping: 31
+PlayerID: 76561198176817369 Name: ?. Character: GlodiS Ping: 62
+PlayerID: 76561198388679451 Name: jarobmw Character: inferno king Ping: 109
+PlayerID: 76561198263636845 Name: matic Character: matic Ping: 93
+PlayerID: 76561198339493373 Name: Good_4el Character: LORD Ping: 62
+PlayerID: 76561198349787658 Name: VIKTORIA_201577 Character: VIKTORIA Ping: 125
+
+END with Players:
+TimerTerminateCommand.Enabled with Bans:
+Client has executed command "bans"
+Bans:
+PlayerID: 123123
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 31371301
+PlayerID: 123
+JudgeID: 0
+Reason: durila Duration: 4000 Remaining: 4294807095
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294835468
+
+END with Bans:
+Client has executed command "2g"
+
+Client has executed command "2g5"
+
+Connecting: PlayerID: 76561198390364391 Name: glowinski Character: kamil;]
+
+[Area] Nevalyasha4 [Deus vult]: "тебе нужна обойма на ущи?"
+
+[Area] Nevalyasha4 [Deus vult]: "узи"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 109
+PlayerID: 76561198280617288 Name: Незнаю какой придумать Character: Пипр Ping: 62
+PlayerID: 76561198341672556 Name: st.vladir Character: st.vladir Ping: 132
+PlayerID: 76561198157563744 Name: Jason Voorhees Character: Jason Voorhees Ping: 78
+PlayerID: 76561198056237987 Name: Calibrovshik Character: Calibrovshik Ping: 93
+PlayerID: 76561198200101595 Name: Deus vult Character: Nevalyasha4 Ping: 93
+PlayerID: 76561198119414469 Name: Postman Pat Character: Postman Pat Ping: 62
+PlayerID: 76561198391626023 Name: roman.sagitov.2017 Character: Roma Sagitow Ping: 39
+PlayerID: 76561198295801599 Name: Lo[x] Character: Lo[x] Ping: 46
+PlayerID: 76561198371041527 Name: ¦_s1mple_¦ Character: miguelhormat Ping: 31
+PlayerID: 76561198176817369 Name: ?. Character: GlodiS Ping: 70
+PlayerID: 76561198388679451 Name: jarobmw Character: inferno king Ping: 109
+PlayerID: 76561198263636845 Name: matic Character: matic Ping: 93
+PlayerID: 76561198339493373 Name: Good_4el Character: LORD Ping: 70
+PlayerID: 76561198349787658 Name: VIKTORIA_201577 Character: VIKTORIA Ping: 132
+PlayerID: 76561198390364391 Name: glowinski Character: kamil;] Ping: 328
+
+END with Players:
+Connecting: PlayerID: 76561198292543416 Name: Mr_GiladKing Character: GamerYT
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 132
+PlayerID: 76561198280617288 Name: Незнаю какой придумать Character: Пипр Ping: 54
+PlayerID: 76561198341672556 Name: st.vladir Character: st.vladir Ping: 164
+PlayerID: 76561198157563744 Name: Jason Voorhees Character: Jason Voorhees Ping: 62
+PlayerID: 76561198056237987 Name: Calibrovshik Character: Calibrovshik Ping: 117
+PlayerID: 76561198200101595 Name: Deus vult Character: Nevalyasha4 Ping: 125
+PlayerID: 76561198119414469 Name: Postman Pat Character: Postman Pat Ping: 101
+PlayerID: 76561198391626023 Name: roman.sagitov.2017 Character: Roma Sagitow Ping: 31
+PlayerID: 76561198295801599 Name: Lo[x] Character: Lo[x] Ping: 62
+PlayerID: 76561198371041527 Name: ¦_s1mple_¦ Character: miguelhormat Ping: 39
+PlayerID: 76561198176817369 Name: ?. Character: GlodiS Ping: 62
+PlayerID: 76561198388679451 Name: jarobmw Character: inferno king Ping: 101
+PlayerID: 76561198263636845 Name: matic Character: matic Ping: 78
+PlayerID: 76561198339493373 Name: Good_4el Character: LORD Ping: 62
+PlayerID: 76561198349787658 Name: VIKTORIA_201577 Character: VIKTORIA Ping: 140
+PlayerID: 76561198390364391 Name: glowinski Character: kamil;] Ping: 531
+PlayerID: 76561198292543416 Name: Mr_GiladKing Character: GamerYT Ping: 93
+
+END with Players:
+[Area] Nevalyasha4 [Deus vult]: "ого"
+
+[Area] Nevalyasha4 [Deus vult]: "хони"
+
+Disconnecting: PlayerID: 76561198390364391 Name: glowinski Character: kamil;]
+
+[Area] Nevalyasha4 [Deus vult]: "Пошли)"
+

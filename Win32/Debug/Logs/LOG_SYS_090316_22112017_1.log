@@ -1,0 +1,16 @@
+ClientSocketLookup
+ClientSocketConnecting
+ClientSocketConnect
+ClientSocketWrite
+Can't connect to MySQL server on '127.0.0.1' (10061)
+ClientSocketDisconnect
+ClientSocketLookup
+ClientSocketConnecting
+ClientSocketConnect
+ClientSocketWrite
+ClientSocketError Соединение прервано
+ClientSocketDisconnect
+ClientSocketLookup
+ClientSocketConnecting
+ClientSocketConnect
+ClientSocketWrite

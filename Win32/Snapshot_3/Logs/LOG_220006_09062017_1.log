@@ -1,0 +1,75 @@
+Не обработано: RocketRcon v2.4.8.0
+RocketRcon v2.4.8.0
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198354953801 Name: торвей Character: торвей Ping: 62
+PlayerID: 76561198278360341 Name: AcademeG Character: AcademeG Ping: 70
+PlayerID: 76561198123840535 Name: ?????? Character: top Ping: 125
+PlayerID: 76561198268161521 Name: DOMIK Character: Listiger_wolf2 Ping: 46
+PlayerID: 76561198341997660 Name: Dimacvit1996 Character: Dimacvit1996 Ping: 62
+PlayerID: 76561198281003177 Name: PRO100VLAD Character: PRO100VLAD_Super Ping: 70
+PlayerID: 76561198390615121 Name: vadim.tulkin Character: vadim.tulkin Ping: 62
+PlayerID: 76561198152466685 Name: Blaster006 Character: Blaster006 Ping: 62
+PlayerID: 76561198181069523 Name: ?????? Character: Earl Ping: 78
+PlayerID: 76561198196406213 Name: SATANA Character: SATANA Ping: 187
+PlayerID: 76561198169603091 Name: StaceArgent Character: ALLOTROPY Ping: 93
+
+TimerTerminateCommand.Enabled with Players:
+[World] vadim.tulkin [vadim.tulkin]: "/tpa pro100"
+
+TimerTerminateCommand.Enabled with Players:
+[World] Listiger_wolf2 [DOMIK]: "ты не написал"
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294121395
+
+END with Bans:
+[World] PRO100VLAD_Super [PRO100VLAD]: "/tpa a"
+
+[World] Listiger_wolf2 [DOMIK]: "попробуй ещё раз"
+
+[World] top [??????]: "на писал"
+
+[World] Listiger_wolf2 [DOMIK]: "у меня нет запросов на тп"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198354953801 Name: торвей Character: торвей Ping: 54
+PlayerID: 76561198278360341 Name: AcademeG Character: AcademeG Ping: 70
+PlayerID: 76561198123840535 Name: ?????? Character: top Ping: 70
+PlayerID: 76561198268161521 Name: DOMIK Character: Listiger_wolf2 Ping: 39
+PlayerID: 76561198341997660 Name: Dimacvit1996 Character: Dimacvit1996 Ping: 62
+PlayerID: 76561198281003177 Name: PRO100VLAD Character: PRO100VLAD_Super Ping: 46
+PlayerID: 76561198390615121 Name: vadim.tulkin Character: vadim.tulkin Ping: 62
+PlayerID: 76561198152466685 Name: Blaster006 Character: Blaster006 Ping: 62
+PlayerID: 76561198181069523 Name: ?????? Character: Earl Ping: 62
+PlayerID: 76561198196406213 Name: SATANA Character: SATANA Ping: 179
+PlayerID: 76561198169603091 Name: StaceArgent Character: ALLOTROPY Ping: 93
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294121376
+
+TimerTerminateCommand.Enabled with Bans:
+[World] top [??????]: "/tpa wolf"
+
+TimerTerminateCommand.Enabled with Bans:
+Connecting: PlayerID: 76561198211763893 Name: пупефка Character: go
+
+END with Bans:

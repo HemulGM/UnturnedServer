@@ -1,0 +1,121 @@
+Не обработано: RocketRcon v2.4.8.0
+RocketRcon v2.4.8.0
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198114070067 Name: Маг1стрЙ0да- Character: Samurai Ping: 62
+PlayerID: 76561198305732269 Name: Owl Character: Owl Ping: 78
+PlayerID: 76561198152466685 Name: Blaster006 Character: Blaster006 Ping: 70
+PlayerID: 76561198261276323 Name: Phantom Character: Phantom Ping: 148
+PlayerID: 76561198199039913 Name: VirusShow Character: VirusShow Ping: 39
+PlayerID: 76561198261527485 Name: Shadovprise Character: Shadovprise Ping: 85
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 39
+PlayerID: 76561198165822970 Name: Indigo Character: Indigo Ping: 54
+PlayerID: 76561198128074009 Name: Barash-IQ(11) Character: Barash-IQ Ping: 132
+PlayerID: 76561198291118006 Name: Mord_Fustang Character: Tank Ping: 62
+PlayerID: 76561198304586110 Name: Ty Nik Character: Ty Nik Ping: 15
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294207377
+
+END with Bans:
+Client has executed command "say "Tekst krasnyy?"/255/0/0"
+
+Не обработано: Failed to find parameters in format [Text]/[R]/[G]/[B].
+Failed to find parameters in format [Text]/[R]/[G]/[B].
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198114070067 Name: Маг1стрЙ0да- Character: Samurai Ping: 31
+PlayerID: 76561198305732269 Name: Owl Character: Owl Ping: 54
+PlayerID: 76561198152466685 Name: Blaster006 Character: Blaster006 Ping: 54
+PlayerID: 76561198261276323 Name: Phantom Character: Phantom Ping: 148
+PlayerID: 76561198199039913 Name: VirusShow Character: VirusShow Ping: 39
+PlayerID: 76561198261527485 Name: Shadovprise Character: Shadovprise Ping: 70
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 54
+PlayerID: 76561198165822970 Name: Indigo Character: Indigo Ping: 85
+PlayerID: 76561198128074009 Name: Barash-IQ(11) Character: Barash-IQ Ping: 109
+PlayerID: 76561198291118006 Name: Mord_Fustang Character: Tank Ping: 62
+PlayerID: 76561198304586110 Name: Ty Nik Character: Ty Nik Ping: 39
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294207357
+
+END with Bans:
+[World] Tank [Mord_Fustang]: "/kit help"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198114070067 Name: Маг1стрЙ0да- Character: Samurai Ping: 46
+PlayerID: 76561198305732269 Name: Owl Character: Owl Ping: 54
+PlayerID: 76561198152466685 Name: Blaster006 Character: Blaster006 Ping: 62
+PlayerID: 76561198261276323 Name: Phantom Character: Phantom Ping: 156
+PlayerID: 76561198199039913 Name: VirusShow Character: VirusShow Ping: 31
+PlayerID: 76561198261527485 Name: Shadovprise Character: Shadovprise Ping: 78
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 46
+PlayerID: 76561198165822970 Name: Indigo Character: Indigo Ping: 54
+PlayerID: 76561198128074009 Name: Barash-IQ(11) Character: Barash-IQ Ping: 78
+PlayerID: 76561198291118006 Name: Mord_Fustang Character: Tank Ping: 117
+PlayerID: 76561198304586110 Name: Ty Nik Character: Ty Nik Ping: 46
+
+TimerTerminateCommand.Enabled with Players:
+[World] Samurai [Маг1стрЙ0да-]: "/home"
+
+Не обработано: Samurai moved x:594.2361 y:75.34627(+48.15594) z:720.751 in the last second (0.2379227)
+TimerTerminateCommand.Enabled with Players:
+Samurai moved x:594.2361 y:75.34627(+48.15594) z:720.751 in the last second (0.2379227)
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294207335
+
+END with Bans:
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198114070067 Name: Маг1стрЙ0да- Character: Samurai Ping: 39
+PlayerID: 76561198305732269 Name: Owl Character: Owl Ping: 117
+PlayerID: 76561198152466685 Name: Blaster006 Character: Blaster006 Ping: 54
+PlayerID: 76561198261276323 Name: Phantom Character: Phantom Ping: 132
+PlayerID: 76561198199039913 Name: VirusShow Character: VirusShow Ping: 39
+PlayerID: 76561198261527485 Name: Shadovprise Character: Shadovprise Ping: 78
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 31
+PlayerID: 76561198165822970 Name: Indigo Character: Indigo Ping: 62
+PlayerID: 76561198128074009 Name: Barash-IQ(11) Character: Barash-IQ Ping: 101
+PlayerID: 76561198291118006 Name: Mord_Fustang Character: Tank Ping: 54
+PlayerID: 76561198304586110 Name: Ty Nik Character: Ty Nik Ping: 93
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294207317
+
+END with Bans:

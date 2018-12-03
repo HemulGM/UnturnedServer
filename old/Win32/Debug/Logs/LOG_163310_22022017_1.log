@@ -1,0 +1,72 @@
+22.02.2017 16:33:30: Players:
+PlayerID: 76561198243530780 Name: LuckyMan ^-^csgo-happy.ru Character: LuckyMan ^-^ Ping: 132
+PlayerID: 76561198272167056 Name: ¦ Alexandr ¦ Character: Alexandr  Kotov Ping: 93
+PlayerID: 76561198330195927 Name: DEN Character: DEN Ping: 125
+PlayerID: 76561198198578146 Name: NightCatSan Character: NightCatSan Ping: 70
+PlayerID: 76561198176772491 Name: setepakha Character: Piskaed Ping: 289
+PlayerID: 76561198327741536 Name: matvejmincenko37 Character: matvejmincenko37 Ping: 95
+PlayerID: 76561198278618116 Name: Mizuki Character: Mizuki Ping: 0
+
+22.02.2017 16:33:30: Client has executed command "players"
+
+22.02.2017 16:33:30: Players:
+PlayerID: 76561198243530780 Name: LuckyMan ^-^csgo-happy.ru Character: LuckyMan ^-^ Ping: 142
+PlayerID: 76561198272167056 Name: ¦ Alexandr ¦ Character: Alexandr  Kotov Ping: 76
+PlayerID: 76561198330195927 Name: DEN Character: DEN Ping: 126
+PlayerID: 76561198198578146 Name: NightCatSan Character: NightCatSan Ping: 70
+PlayerID: 76561198176772491 Name: setepakha Character: Piskaed Ping: 289
+PlayerID: 76561198327741536 Name: matvejmincenko37 Character: matvejmincenko37 Ping: 95
+PlayerID: 76561198278618116 Name: Mizuki Character: Mizuki Ping: 0
+
+22.02.2017 16:33:30: Client has executed command "players"
+
+22.02.2017 16:33:30: Connecting: PlayerID: 76561198278618116 Name: Mizuki Character: Mizuki
+
+22.02.2017 16:33:29: Rocket.CoreException in Rocket.Core: System.IO.IOException: Write failure ---> System.Net.Sockets.SocketException: Удаленный хост принудительно разорвал существующее подключение.
+
+  at System.Net.Sockets.Socket.Send (System.Byte[] buf, Int32 offset, Int32 size, SocketFlags flags) [0x00000] in <filename unknown>:0 
+  at System.Net.Sockets.NetworkStream.Write (System.Byte[] buffer, Int32 offset, Int32 size) [0x00000] in <filename unknown>:0 
+  --- End of inner exception stack trace ---
+  at System.Net.Sockets.NetworkStream.Write (System.Byte[] buffer, Int32 offset, Int32 size) [0x00000] in <filename unknown>:0 
+  at Rocket.Core.RCON.RCONServer.Send (System.Net.Sockets.TcpClient client, System.String text) [0x00000] in <filename unknown>:0 
+  at Rocket.Core.RCON.RCONConnection.Send (System.String command, Boolean nonewline) [0x00000] in <filename unknown>:0 
+  at Rocket.Core.RCON.RCONServer.handleConnection (System.Object obj) [0x00000] in <filename unknown>:0 
+22.02.2017 16:33:21: Players:
+PlayerID: 76561198243530780 Name: LuckyMan ^-^csgo-happy.ru Character: LuckyMan ^-^ Ping: 169
+PlayerID: 76561198272167056 Name: ¦ Alexandr ¦ Character: Alexandr  Kotov Ping: 78
+PlayerID: 76561198330195927 Name: DEN Character: DEN Ping: 125
+PlayerID: 76561198198578146 Name: NightCatSan Character: NightCatSan Ping: 54
+PlayerID: 76561198176772491 Name: setepakha Character: Piskaed Ping: 0
+PlayerID: 76561198327741536 Name: matvejmincenko37 Character: matvejmincenko37 Ping: 0
+
+22.02.2017 16:33:21: Client has executed command "players"
+
+22.02.2017 16:33:21: Connecting: PlayerID: 76561198327741536 Name: matvejmincenko37 Character: matvejmincenko37
+
+22.02.2017 16:33:20: Failed to find parameters in format [Text]/[R]/[G]/[B].
+
+22.02.2017 16:33:20: Client has executed command "say """
+
+22.02.2017 16:33:19: Players:
+PlayerID: 76561198243530780 Name: LuckyMan ^-^csgo-happy.ru Character: LuckyMan ^-^ Ping: 136
+PlayerID: 76561198272167056 Name: ¦ Alexandr ¦ Character: Alexandr  Kotov Ping: 76
+PlayerID: 76561198330195927 Name: DEN Character: DEN Ping: 105
+PlayerID: 76561198198578146 Name: NightCatSan Character: NightCatSan Ping: 82
+PlayerID: 76561198176772491 Name: setepakha Character: Piskaed Ping: 0
+
+22.02.2017 16:33:19: Client has executed command "players"
+
+22.02.2017 16:33:19: Connecting: PlayerID: 76561198176772491 Name: setepakha Character: Piskaed
+
+22.02.2017 16:33:10: Players:
+PlayerID: 76561198243530780 Name: LuckyMan ^-^csgo-happy.ru Character: LuckyMan ^-^ Ping: 140
+PlayerID: 76561198272167056 Name: ¦ Alexandr ¦ Character: Alexandr  Kotov Ping: 74
+PlayerID: 76561198330195927 Name: DEN Character: DEN Ping: 138
+PlayerID: 76561198198578146 Name: NightCatSan Character: NightCatSan Ping: 70
+
+22.02.2017 16:33:10: Client has executed command "players"
+
+22.02.2017 16:33:10: NightCatSan moved x:-1967.951 y:139.5326(+42.29502) z:491.5125 in the last second (0.1367188)
+
+22.02.2017 16:33:10: RocketRcon v2.4.8.0
+

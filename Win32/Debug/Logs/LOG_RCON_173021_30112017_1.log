@@ -1,0 +1,53 @@
+RocketRcon v2.4.8.0
+
+login aVIPs22031994
+players
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198242496136 Name: _Official_Group_GameGuardian_ Character: mer_1560 Ping: 39
+PlayerID: 76561198315561906 Name: MaXiMuS Character: MaXiMuS Ping: 62
+PlayerID: 76561198407087458 Name: -_-Paer-_- Character: Паша Полянцев Ping: 31
+PlayerID: 76561198352329817 Name: X_RaY Character: Учиха_Саске Ping: 210
+PlayerID: 76561198205863883 Name: Крокодил Гена Character: krokodil gena Ping: 54
+PlayerID: 76561198366284525 Name: NikiRoC Character: Никита Калашников Ping: 62
+PlayerID: 76561198077303819 Name: Arcadia Character: Arcadia Ping: 62
+PlayerID: 76561198177412437 Name: Korak Character: Korak Ping: 156
+PlayerID: 76561198101403061 Name: antifist Character: Помелов Андрей Ping: 39
+PlayerID: 76561198237123262 Name: I'M Phenomenal Character: Anthonyyy Ping: 46
+PlayerID: 76561198106869292 Name: roman146rus Character: roman146rus Ping: 62
+
+END
+bans
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 27384178
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30264456
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30264472
+
+END
+MessageAnnouncer >> Broadcast: Добро пожаловать на HGM. Тут рады вам больше, чем на любом другом сервере!
+
+MessageAnnouncer >> Добро пожаловать на HGM. Тут рады вам больше, чем на любом другом сервере!
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [651]
+
+[Area] mer_1560 [_Official_Group_GameGuardian_]: "что моя?"
+
+[Area] mer_1560 [_Official_Group_GameGuardian_]: "то это"
+
+[Area] mer_1560 [_Official_Group_GameGuardian_]: "ааааа"
+
+players
+Client has executed command "players"
+

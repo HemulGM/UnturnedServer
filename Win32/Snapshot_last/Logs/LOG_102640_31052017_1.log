@@ -1,0 +1,59 @@
+RocketRcon v2.4.8.0
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 132
+PlayerID: 76561198276760430 Name: dnjmack Character: puppminer Ping: 238
+PlayerID: 76561198300812301 Name: KiLeR00707 Character: KiLeR00707 Ping: 23
+PlayerID: 76561198322193999 Name: ™_Game®_™ Character: Карл Иванович Ping: 54
+PlayerID: 76561198262878051 Name: Kolder Character: Kolder Ping: 62
+PlayerID: 76561198345092267 Name: demid3450 Character: [гл террористов] демид журавлёв Ping: 113
+PlayerID: 76561198357648706 Name: lessik1210 Character: Griman18 Ping: 50
+PlayerID: 76561198380474021 Name: Samotar Character: Страник Ping: 121
+PlayerID: 76561198200101595 Name: NEVALYASHA Character: NEVALYASHA Ping: 128
+PlayerID: 76561198253320744 Name: AIM_PEPPA_AIM Character: мс.ваня Ping: 152
+PlayerID: 76561198242198304 Name: Mr.Chet(138rus) Character: Mr.Chet Ping: 74
+
+TimerTerminateCommand.Enabled with Players:
+Client has executed command "bans"
+Bans:
+PlayerID: 123123
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 31476407
+
+TimerTerminateCommand.Enabled with Players:
+PlayerID: 123
+JudgeID: 0
+Reason: durila Duration: 4000 Remaining: 4294912201
+PlayerID: 76561198303283372
+JudgeID: 0
+Reason: za_reid Duration: 8000 Remaining: 4294932204
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4294940574
+
+[World] Expert1337 [Expert13372284200]: "скок стекл сделать"
+
+Connecting: PlayerID: 76561198388139923 Name: danik Character: danik
+
+[World] [гл террористов] демид журавлёв [demid3450]: "3"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 152
+PlayerID: 76561198276760430 Name: dnjmack Character: puppminer Ping: 269
+PlayerID: 76561198300812301 Name: KiLeR00707 Character: KiLeR00707 Ping: 23
+PlayerID: 76561198322193999 Name: ™_Game®_™ Character: Карл Иванович Ping: 58
+PlayerID: 76561198262878051 Name: Kolder Character: Kolder Ping: 58
+PlayerID: 76561198345092267 Name: demid3450 Character: [гл террористов] демид журавлёв Ping: 125
+PlayerID: 76561198357648706 Name: lessik1210 Character: Griman18 Ping: 58
+PlayerID: 76561198380474021 Name: Samotar Character: Страник Ping: 171
+PlayerID: 76561198200101595 Name: NEVALYASHA Character: NEVALYASHA Ping: 132
+PlayerID: 76561198253320744 Name: AIM_PEPPA_AIM Character: мс.ваня Ping: 171
+PlayerID: 76561198242198304 Name: Mr.Chet(138rus) Character: Mr.Chet Ping: 78
+PlayerID: 76561198388139923 Name: danik Character: danik Ping: 312
+

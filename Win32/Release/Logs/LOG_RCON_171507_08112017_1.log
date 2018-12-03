@@ -1,0 +1,6 @@
+08.11.2017 17:18:50: Не обработано: SqlNullValueException: Data is Null. This method or property cannot be called on Null values. - MySql.Data.MySqlClient.MySqlDataReader.GetFieldValue (Int32 index, Boolean checkNull)
+08.11.2017 17:18:50: Не обработано: MySql.Data.MySqlClient.MySqlDataReader.GetString (Int32 i)
+08.11.2017 17:18:50: Не обработано: MySql.Data.MySqlClient.MySqlDataReader.GetString (System.String column)
+08.11.2017 17:18:50: Не обработано: (wrapper remoting-invoke-with-check) MySql.Data.MySqlClient.MySqlDataReader:GetString (string)
+08.11.2017 17:18:50: Не обработано: PlayerInfoLibrary.DatabaseManager.PrecessExpiredPInfo ()
+08.11.2017 17:18:50: Не обработано: PlayerInfoLibrary.PlayerInfoLib.FixedUpdate ()

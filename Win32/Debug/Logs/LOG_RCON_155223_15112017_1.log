@@ -1,0 +1,36 @@
+15.11.2017 15:53:03: Не обработано: ServerControl >> Broadcast: Нет
+15.11.2017 15:53:26: Не обработано: ServerControl >> Broadcast: Только через 15 минут
+15.11.2017 15:54:21: Не обработано: ServerControl >> Broadcast: Что
+15.11.2017 15:54:38: Не обработано: ServerControl >> Broadcast: Вечером
+15.11.2017 15:55:07: Не обработано: ServerControl >> Broadcast: Через часов 5-6
+15.11.2017 15:56:02: Не обработано: ServerControl >> Broadcast: Эм
+15.11.2017 15:56:15: Не обработано: ServerControl >> Broadcast: Чел, я единственный администратор сервера
+15.11.2017 15:56:22: Не обработано: ServerControl >> Broadcast: Как ты думаешь
+15.11.2017 15:56:39: Не обработано: ServerControl >> Broadcast: Но выдавать их я конечно же тебе не буду
+15.11.2017 15:57:05: Не обработано: Reason: reid Duration: 608400 Remaining: 370998
+15.11.2017 15:57:05: Не обработано: ServerControl >> Broadcast: Я понимаю
+15.11.2017 15:57:17: Не обработано: PrivateMessages >> Sorry, you haven't received a message!
+15.11.2017 15:57:25: Не обработано: PrivateMessages >> Sorry, you haven't received a message!
+15.11.2017 16:00:03: Не обработано: zohan moved x:-133.7024 y:63.76215(+31.92747) z:922.2344 in the last second (0.2379189)
+15.11.2017 16:00:18: Не обработано: ServerControl >> Broadcast: Аирдроп через 4 ч.
+15.11.2017 16:00:59: Не обработано: ptifon moved x:-135.2599 y:63.62423(+39.33852) z:921.5552 in the last second (0.1000023)
+15.11.2017 16:01:25: Не обработано: ServerControl >> Broadcast: Да тчо
+15.11.2017 16:01:39: Не обработано: He_TTpugyMaJl_Huk [He_TTpugyMaJl_Huk] bled to death!
+15.11.2017 16:01:41: Не обработано: ServerControl >> Broadcast: Да чего вам в ночь не играется
+15.11.2017 16:01:51: Не обработано: ServerControl >> Broadcast: Есть кто против включения дня?
+15.11.2017 16:02:26: Не обработано: ServerControl >> Broadcast: На сайте смотри
+15.11.2017 16:02:38: Не обработано: ServerControl >> Broadcast: ./site
+15.11.2017 16:02:56: Не обработано: ServerControl >> Broadcast: Я устал это каждый раз писать
+15.11.2017 16:03:02: Не обработано: SqlNullValueException: Data is Null. This method or property cannot be called on Null values. - MySql.Data.MySqlClient.MySqlDataReader.GetFieldValue (Int32 index, Boolean checkNull)
+15.11.2017 16:03:02: Не обработано: MySql.Data.MySqlClient.MySqlDataReader.GetString (Int32 i)
+15.11.2017 16:03:02: Не обработано: MySql.Data.MySqlClient.MySqlDataReader.GetString (System.String column)
+15.11.2017 16:03:02: Не обработано: (wrapper remoting-invoke-with-check) MySql.Data.MySqlClient.MySqlDataReader:GetString (string)
+15.11.2017 16:03:02: Не обработано: PlayerInfoLibrary.DatabaseManager.PrecessExpiredPInfo ()
+15.11.2017 16:03:02: Не обработано: PlayerInfoLibrary.PlayerInfoLib.FixedUpdate ()
+15.11.2017 16:03:03: Сохранение сервера
+15.11.2017 16:03:08: Не обработано: ServerControl >> Broadcast: ./buy v.123
+15.11.2017 16:04:06: Не обработано: ServerControl >> Broadcast: Внимательнее смотри
+15.11.2017 16:04:11: Не обработано: ServerControl >> Broadcast: Наконец
+15.11.2017 16:04:49: Не обработано: ServerControl >> Broadcast: 23
+15.11.2017 16:05:27: Не обработано: zohan moved x:-133.7024 y:63.62423(+25.20596) z:922.2344 in the last second (0.1000023)
+15.11.2017 16:06:04: Не обработано: ptifon moved x:-135.2599 y:63.76215(+25.2226) z:921.5552 in the last second (0.2379189)

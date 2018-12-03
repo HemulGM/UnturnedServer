@@ -1,0 +1,239 @@
+RocketRcon v2.4.8.0
+
+login aVIPs22031994
+players
+Client has executed command "players"
+Players:
+PlayerID: 76561198425129304 Name: NOT GAME Character: Slava_kitel Ping: 39
+PlayerID: 76561198426897214 Name: TomiK Character: Roman_KIller Ping: 46
+Client has executed command "players"
+Players:
+PlayerID: 76561198425129304 Name: NOT GAME Character: Slava_kitel Ping: 39
+PlayerID: 76561198426897214 Name: TomiK Character: Roman_KIller Ping: 46
+Client has executed command "bans"
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 23168570
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 26048848
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 26048864
+PlayerID: 76561198441524917
+JudgeID: 76561198237123262
+Reason: 100000 Duration: 31536000 Remaining: 31140030
+Client has executed command "bans"
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 23168570
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 26048848
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 26048864
+PlayerID: 76561198441524917
+JudgeID: 76561198237123262
+Reason: 100000 Duration: 31536000 Remaining: 31140030
+
+END
+END
+END
+Client has executed command "GET NOW"
+ServerControl >> VALUE NOW [1] [0] [188]
+
+END
+Client has executed command "cchat "/33/09/17/04/17/15/16 /24/05/17/05/08 3 /24. 30 /13. " 255 255 0"
+
+ServerControl >> Broadcast: Аирдроп через 3 ч. 30 м.
+
+Не обработано: ServerControl >> Broadcast: Аирдроп через 3 ч. 30 м.
+Client has executed command "cchat "" 0 0 0"
+
+VehicleEvents >> Vehicle has been despawned
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [197]
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [198]
+
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198425129304 Name: NOT GAME Character: Slava_kitel Ping: 78
+PlayerID: 76561198426897214 Name: TomiK Character: Roman_KIller Ping: 39
+
+GET NOW
+Client has executed command "GET NOW"
+ServerControl >> VALUE NOW [1] [0] [208]
+[World] Slava_kitel [NOT GAME]: "/i 235"
+
+Дал Slava_kitel вещь 235:1
+Client has executed command "GET NOW"
+ServerControl >> VALUE NOW [1] [0] [209]
+
+Не обработано: Дал Slava_kitel вещь 235:1
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 23168545
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 26048823
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 26048839
+PlayerID: 76561198441524917
+JudgeID: 76561198237123262
+Reason: 100000 Duration: 31536000 Remaining: 31140005
+
+END
+END
+MessageAnnouncer >> Broadcast: Внимание! PvP-режим по субботам! PvP-режим!!!
+
+MessageAnnouncer >> Внимание! PvP-режим по субботам! PvP-режим!!!
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [218]
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [219]
+
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198425129304 Name: NOT GAME Character: Slava_kitel Ping: 39
+PlayerID: 76561198426897214 Name: TomiK Character: Roman_KIller Ping: 46
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [228]
+
+GET NOW
+Client has executed command "bans"
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 23168527
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 26048805
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 26048821
+PlayerID: 76561198441524917
+JudgeID: 76561198237123262
+Reason: 100000 Duration: 31536000 Remaining: 31139987
+
+END
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [230]
+
+END
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [238]
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [240]
+
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198425129304 Name: NOT GAME Character: Slava_kitel Ping: 31
+PlayerID: 76561198426897214 Name: TomiK Character: Roman_KIller Ping: 54
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [248]
+
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 23168507
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 26048785
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 26048801
+PlayerID: 76561198441524917
+JudgeID: 76561198237123262
+Reason: 100000 Duration: 31536000 Remaining: 31139967
+
+END
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [250]
+[World] Slava_kitel [NOT GAME]: "/i 236"
+Дал Slava_kitel вещь 236:1
+
+Не обработано: Дал Slava_kitel вещь 236:1
+END
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [258]
+
+GET NOW
+Client has executed command "GET NOW"
+ServerControl >> VALUE NOW [1] [0] [260]
+
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198425129304 Name: NOT GAME Character: Slava_kitel Ping: 31
+PlayerID: 76561198426897214 Name: TomiK Character: Roman_KIller Ping: 39
+Client has executed command "GET NOW"
+ServerControl >> VALUE NOW [1] [0] [268]
+
+END
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 23168486
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 26048764
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 26048780
+PlayerID: 76561198441524917
+JudgeID: 76561198237123262
+Reason: 100000 Duration: 31536000 Remaining: 31139946
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [270]
+
+END
+MessageAnnouncer >> Broadcast: vk.com/unturned_hgm - группа сервера ВК, уникальный кит в записи!
+
+MessageAnnouncer >> vk.com/unturned_hgm - группа сервера ВК, уникальный кит в записи!
+
+[World] Slava_kitel [NOT GAME]: "/i 237"
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [1] [0] [278]
+

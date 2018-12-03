@@ -1,0 +1,1066 @@
+Не обработано: RocketRcon v2.4.8.0
+RocketRcon v2.4.8.0
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 31
+PlayerID: 76561198145049762 Name: Inquisitor Character: Gon Sina Ping: 132
+PlayerID: 76561198259613636 Name: Iron Man Character: ОГУРЕЦ Ping: 93
+PlayerID: 76561198262280619 Name: Maikelele Character: Stani5laW Ping: 93
+PlayerID: 76561198156117496 Name: Z(o_O)M Character: Dima Ping: 62
+PlayerID: 76561198254795968 Name: Ruslan_Kaneki Character: Ken_Kaneki Ping: 85
+PlayerID: 76561198237246912 Name: (o.W.n)SPY Character: (o.W.n)spy Ping: 54
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 179
+PlayerID: 76561198165490172 Name: Gothic Character: \|Gothic|/ Ping: 23
+PlayerID: 76561198306926963 Name: ?SLASH? Character: FRIZI Ping: 85
+PlayerID: 76561198292543416 Name: Mr_GiladKing Character: Mr.GILADKING Ping: 54
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4293643061
+PlayerID: 76561198384007551
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 31471448
+
+TimerTerminateCommand.Enabled with Bans:
+[Area] Expert1337 [Expert13372284200]: "и этот дом я строить помогал когда модерка была"
+
+END with Bans:
+[Area] Expert1337 [Expert13372284200]: "е он ваще офф был"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 39
+PlayerID: 76561198145049762 Name: Inquisitor Character: Gon Sina Ping: 101
+PlayerID: 76561198259613636 Name: Iron Man Character: ОГУРЕЦ Ping: 109
+PlayerID: 76561198262280619 Name: Maikelele Character: Stani5laW Ping: 109
+PlayerID: 76561198156117496 Name: Z(o_O)M Character: Dima Ping: 70
+PlayerID: 76561198254795968 Name: Ruslan_Kaneki Character: Ken_Kaneki Ping: 101
+PlayerID: 76561198237246912 Name: (o.W.n)SPY Character: (o.W.n)spy Ping: 62
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 195
+PlayerID: 76561198165490172 Name: Gothic Character: \|Gothic|/ Ping: 31
+PlayerID: 76561198306926963 Name: ?SLASH? Character: FRIZI Ping: 78
+PlayerID: 76561198292543416 Name: Mr_GiladKing Character: Mr.GILADKING Ping: 46
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4293643041
+PlayerID: 76561198384007551
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 31471428
+
+END with Bans:
+[Area] \|Gothic|/ [Gothic]: "тебе никто не разрешал!"
+
+[Area] \|Gothic|/ [Gothic]: "ждите трое"
+
+[World] 7_AleX_3 [7_AleX_3]: "он помогал строить"
+
+[World] 7_AleX_3 [7_AleX_3]: "значит можно"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 54
+PlayerID: 76561198145049762 Name: Inquisitor Character: Gon Sina Ping: 109
+PlayerID: 76561198259613636 Name: Iron Man Character: ОГУРЕЦ Ping: 101
+PlayerID: 76561198262280619 Name: Maikelele Character: Stani5laW Ping: 125
+PlayerID: 76561198156117496 Name: Z(o_O)M Character: Dima Ping: 93
+PlayerID: 76561198254795968 Name: Ruslan_Kaneki Character: Ken_Kaneki Ping: 85
+PlayerID: 76561198237246912 Name: (o.W.n)SPY Character: (o.W.n)spy Ping: 62
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 171
+PlayerID: 76561198165490172 Name: Gothic Character: \|Gothic|/ Ping: 31
+PlayerID: 76561198306926963 Name: ?SLASH? Character: FRIZI Ping: 101
+PlayerID: 76561198292543416 Name: Mr_GiladKing Character: Mr.GILADKING Ping: 62
+
+TimerTerminateCommand.Enabled with Players:
+[Area] Expert1337 [Expert13372284200]: "ой далад я ток 1 раз такое сделал"
+
+Не обработано: Saving server
+TimerTerminateCommand.Enabled with Players:
+Saving server
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4293643018
+PlayerID: 76561198384007551
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 31471405
+
+END with Bans:
+[World] \|Gothic|/ [Gothic]: "благо знаю кyда sкидыvать..."
+
+[World] 7_AleX_3 [7_AleX_3]: "всем пофиг"
+
+[Area] Expert1337 [Expert13372284200]: "может договоримся"
+
+Не обработано: MessageAnnouncer >> Broadcast: Наберите /kit claim, чтобы получить Claim Flag
+MessageAnnouncer >> Broadcast: Наберите /kit claim, чтобы получить Claim Flag
+
+Не обработано: MessageAnnouncer >> Наберите /kit claim, чтобы получить Claim Flag
+MessageAnnouncer >> Наберите /kit claim, чтобы получить Claim Flag
+
+[World] 7_AleX_3 [7_AleX_3]: "я не придлогал"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 39
+PlayerID: 76561198145049762 Name: Inquisitor Character: Gon Sina Ping: 85
+PlayerID: 76561198259613636 Name: Iron Man Character: ОГУРЕЦ Ping: 93
+PlayerID: 76561198262280619 Name: Maikelele Character: Stani5laW Ping: 125
+PlayerID: 76561198156117496 Name: Z(o_O)M Character: Dima Ping: 70
+PlayerID: 76561198254795968 Name: Ruslan_Kaneki Character: Ken_Kaneki Ping: 85
+PlayerID: 76561198237246912 Name: (o.W.n)SPY Character: (o.W.n)spy Ping: 62
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 164
+PlayerID: 76561198165490172 Name: Gothic Character: \|Gothic|/ Ping: 132
+PlayerID: 76561198306926963 Name: ?SLASH? Character: FRIZI Ping: 171
+PlayerID: 76561198292543416 Name: Mr_GiladKing Character: Mr.GILADKING Ping: 54
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4293643001
+PlayerID: 76561198384007551
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 31471388
+
+TimerTerminateCommand.Enabled with Bans:
+[World] \|Gothic|/ [Gothic]: "окей)"
+
+END with Bans:
+[World] \|Gothic|/ [Gothic]: "потом разберёмыz"
+
+[World] Expert1337 [Expert13372284200]: "ок"
+
+[World] 7_AleX_3 [7_AleX_3]: "это твой"
+
+[World] 7_AleX_3 [7_AleX_3]: "да"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 46
+PlayerID: 76561198145049762 Name: Inquisitor Character: Gon Sina Ping: 85
+PlayerID: 76561198259613636 Name: Iron Man Character: ОГУРЕЦ Ping: 93
+PlayerID: 76561198262280619 Name: Maikelele Character: Stani5laW Ping: 125
+PlayerID: 76561198156117496 Name: Z(o_O)M Character: Dima Ping: 70
+PlayerID: 76561198254795968 Name: Ruslan_Kaneki Character: Ken_Kaneki Ping: 78
+PlayerID: 76561198237246912 Name: (o.W.n)SPY Character: (o.W.n)spy Ping: 78
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 187
+PlayerID: 76561198165490172 Name: Gothic Character: \|Gothic|/ Ping: 31
+PlayerID: 76561198306926963 Name: ?SLASH? Character: FRIZI Ping: 78
+PlayerID: 76561198292543416 Name: Mr_GiladKing Character: Mr.GILADKING Ping: 54
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4293642981
+PlayerID: 76561198384007551
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 31471368
+
+END with Bans:
+[World] Expert1337 [Expert13372284200]: "за эхосогласен"
+
+[World] 7_AleX_3 [7_AleX_3]: "меня рейдили"
+
+[World] 7_AleX_3 [7_AleX_3]: "и"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 54
+PlayerID: 76561198145049762 Name: Inquisitor Character: Gon Sina Ping: 85
+PlayerID: 76561198259613636 Name: Iron Man Character: ОГУРЕЦ Ping: 93
+PlayerID: 76561198262280619 Name: Maikelele Character: Stani5laW Ping: 101
+PlayerID: 76561198156117496 Name: Z(o_O)M Character: Dima Ping: 78
+PlayerID: 76561198254795968 Name: Ruslan_Kaneki Character: Ken_Kaneki Ping: 179
+PlayerID: 76561198237246912 Name: (o.W.n)SPY Character: (o.W.n)spy Ping: 46
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 171
+PlayerID: 76561198165490172 Name: Gothic Character: \|Gothic|/ Ping: 31
+PlayerID: 76561198306926963 Name: ?SLASH? Character: FRIZI Ping: 93
+PlayerID: 76561198292543416 Name: Mr_GiladKing Character: Mr.GILADKING Ping: 62
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4293642961
+PlayerID: 76561198384007551
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 31471348
+
+END with Bans:
+[World] 7_AleX_3 [7_AleX_3]: "я не скинул"
+
+[World] 7_AleX_3 [7_AleX_3]: "скрин"
+
+[World] Mr.GILADKING [Mr_GiladKing]: "а я"
+[World] (o.W.n)spy [(o.W.n)SPY]: "/kit claim"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 39
+PlayerID: 76561198145049762 Name: Inquisitor Character: Gon Sina Ping: 296
+PlayerID: 76561198259613636 Name: Iron Man Character: ОГУРЕЦ Ping: 109
+PlayerID: 76561198262280619 Name: Maikelele Character: Stani5laW Ping: 117
+PlayerID: 76561198156117496 Name: Z(o_O)M Character: Dima Ping: 85
+PlayerID: 76561198254795968 Name: Ruslan_Kaneki Character: Ken_Kaneki Ping: 85
+PlayerID: 76561198237246912 Name: (o.W.n)SPY Character: (o.W.n)spy Ping: 70
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 195
+PlayerID: 76561198165490172 Name: Gothic Character: \|Gothic|/ Ping: 31
+PlayerID: 76561198306926963 Name: ?SLASH? Character: FRIZI Ping: 117
+PlayerID: 76561198292543416 Name: Mr_GiladKing Character: Mr.GILADKING Ping: 54
+
+TimerTerminateCommand.Enabled with Players:
+[World] 7_AleX_3 [7_AleX_3]: "мне всёравно"
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4293642940
+PlayerID: 76561198384007551
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 31471327
+
+END with Bans:
+[World] 7_AleX_3 [7_AleX_3]: "на рейды моего дома"
+
+[World] Mr.GILADKING [Mr_GiladKing]: "/tpa exp"
+
+[World] \|Gothic|/ [Gothic]: "Боже... тебя рейдили, но ты то зачем не sкинyл и sам рейдишь?"
+
+[World] Expert1337 [Expert13372284200]: "/tpa a"
+
+Не обработано: ОГУРЕЦ moved x:-286.6 y:55.5104(+16.83306) z:97.94162 in the last second (1)
+ОГУРЕЦ moved x:-286.6 y:55.5104(+16.83306) z:97.94162 in the last second (1)
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 46
+PlayerID: 76561198145049762 Name: Inquisitor Character: Gon Sina Ping: 148
+PlayerID: 76561198259613636 Name: Iron Man Character: ОГУРЕЦ Ping: 93
+PlayerID: 76561198262280619 Name: Maikelele Character: Stani5laW Ping: 125
+PlayerID: 76561198156117496 Name: Z(o_O)M Character: Dima Ping: 85
+PlayerID: 76561198254795968 Name: Ruslan_Kaneki Character: Ken_Kaneki Ping: 78
+PlayerID: 76561198237246912 Name: (o.W.n)SPY Character: (o.W.n)spy Ping: 93
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 179
+PlayerID: 76561198165490172 Name: Gothic Character: \|Gothic|/ Ping: 15
+PlayerID: 76561198306926963 Name: ?SLASH? Character: FRIZI Ping: 70
+PlayerID: 76561198292543416 Name: Mr_GiladKing Character: Mr.GILADKING Ping: 70
+
+TimerTerminateCommand.Enabled with Players:
+[World] 7_AleX_3 [7_AleX_3]: "а зачем скидывать"
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4293642919
+PlayerID: 76561198384007551
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 31471306
+
+END with Bans:
+[World] \|Gothic|/ [Gothic]: "а зачем рейдить?"
+
+[World] 7_AleX_3 [7_AleX_3]: "всем пофиг"
+
+[World] 7_AleX_3 [7_AleX_3]: "я не предлогал рейд говорю"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 31
+PlayerID: 76561198145049762 Name: Inquisitor Character: Gon Sina Ping: 93
+PlayerID: 76561198259613636 Name: Iron Man Character: ОГУРЕЦ Ping: 93
+PlayerID: 76561198262280619 Name: Maikelele Character: Stani5laW Ping: 187
+PlayerID: 76561198156117496 Name: Z(o_O)M Character: Dima Ping: 78
+PlayerID: 76561198254795968 Name: Ruslan_Kaneki Character: Ken_Kaneki Ping: 78
+PlayerID: 76561198237246912 Name: (o.W.n)SPY Character: (o.W.n)spy Ping: 54
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 187
+PlayerID: 76561198165490172 Name: Gothic Character: \|Gothic|/ Ping: 62
+PlayerID: 76561198306926963 Name: ?SLASH? Character: FRIZI Ping: 70
+PlayerID: 76561198292543416 Name: Mr_GiladKing Character: Mr.GILADKING Ping: 54
+
+TimerTerminateCommand.Enabled with Players:
+[World] 7_AleX_3 [7_AleX_3]: "я согласился"
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4293642899
+PlayerID: 76561198384007551
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 31471286
+
+END with Bans:
+[World] \|Gothic|/ [Gothic]: "ты sоyчаsтник блин)"
+
+Не обработано: MessageAnnouncer >> Broadcast: Если модератор ведёт себя неподобающе, пишите в группу или ЛС (vk.com/unturned_hgm, vk.com/hemulgm)
+MessageAnnouncer >> Broadcast: Если модератор ведёт себя неподобающе, пишите в группу или ЛС (vk.com/unturned_hgm, vk.com/hemulgm)
+
+Не обработано: MessageAnnouncer >> Если модератор ведёт себя неподобающе, пишите в группу или ЛС (vk.com/unturned_hgm, vk.com/hemulgm)
+MessageAnnouncer >> Если модератор ведёт себя неподобающе, пишите в группу или ЛС (vk.com/unturned_hgm, vk.com/hemulgm)
+
+[World] \|Gothic|/ [Gothic]: "РФ законы, мб :)"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 62
+PlayerID: 76561198145049762 Name: Inquisitor Character: Gon Sina Ping: 85
+PlayerID: 76561198259613636 Name: Iron Man Character: ОГУРЕЦ Ping: 109
+PlayerID: 76561198262280619 Name: Maikelele Character: Stani5laW Ping: 148
+PlayerID: 76561198156117496 Name: Z(o_O)M Character: Dima Ping: 70
+PlayerID: 76561198254795968 Name: Ruslan_Kaneki Character: Ken_Kaneki Ping: 78
+PlayerID: 76561198237246912 Name: (o.W.n)SPY Character: (o.W.n)spy Ping: 46
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 210
+PlayerID: 76561198165490172 Name: Gothic Character: \|Gothic|/ Ping: 15
+PlayerID: 76561198306926963 Name: ?SLASH? Character: FRIZI Ping: 78
+PlayerID: 76561198292543416 Name: Mr_GiladKing Character: Mr.GILADKING Ping: 46
+
+TimerTerminateCommand.Enabled with Players:
+Disconnecting: PlayerID: 76561198262280619 Name: Maikelele Character: Stani5laW
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4293642880
+PlayerID: 76561198384007551
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 31471267
+
+TimerTerminateCommand.Enabled with Bans:
+[World] 7_AleX_3 [7_AleX_3]: "а что тут это значит"
+
+END with Bans:
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 39
+PlayerID: 76561198145049762 Name: Inquisitor Character: Gon Sina Ping: 85
+PlayerID: 76561198259613636 Name: Iron Man Character: ОГУРЕЦ Ping: 109
+PlayerID: 76561198156117496 Name: Z(o_O)M Character: Dima Ping: 70
+PlayerID: 76561198254795968 Name: Ruslan_Kaneki Character: Ken_Kaneki Ping: 85
+PlayerID: 76561198237246912 Name: (o.W.n)SPY Character: (o.W.n)spy Ping: 62
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 187
+PlayerID: 76561198165490172 Name: Gothic Character: \|Gothic|/ Ping: 23
+PlayerID: 76561198306926963 Name: ?SLASH? Character: FRIZI Ping: 78
+PlayerID: 76561198292543416 Name: Mr_GiladKing Character: Mr.GILADKING Ping: 54
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4293642861
+PlayerID: 76561198384007551
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 31471248
+
+END with Bans:
+[World] 7_AleX_3 [7_AleX_3]: "направо"
+
+[World] 7_AleX_3 [7_AleX_3]: "дай поведу"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 31
+PlayerID: 76561198145049762 Name: Inquisitor Character: Gon Sina Ping: 93
+PlayerID: 76561198259613636 Name: Iron Man Character: ОГУРЕЦ Ping: 93
+PlayerID: 76561198156117496 Name: Z(o_O)M Character: Dima Ping: 70
+PlayerID: 76561198254795968 Name: Ruslan_Kaneki Character: Ken_Kaneki Ping: 78
+PlayerID: 76561198237246912 Name: (o.W.n)SPY Character: (o.W.n)spy Ping: 54
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 164
+PlayerID: 76561198165490172 Name: Gothic Character: \|Gothic|/ Ping: 39
+PlayerID: 76561198306926963 Name: ?SLASH? Character: FRIZI Ping: 85
+PlayerID: 76561198292543416 Name: Mr_GiladKing Character: Mr.GILADKING Ping: 125
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4293642841
+PlayerID: 76561198384007551
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 31471228
+
+END with Bans:
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 31
+PlayerID: 76561198145049762 Name: Inquisitor Character: Gon Sina Ping: 85
+PlayerID: 76561198259613636 Name: Iron Man Character: ОГУРЕЦ Ping: 93
+PlayerID: 76561198156117496 Name: Z(o_O)M Character: Dima Ping: 70
+PlayerID: 76561198254795968 Name: Ruslan_Kaneki Character: Ken_Kaneki Ping: 85
+PlayerID: 76561198237246912 Name: (o.W.n)SPY Character: (o.W.n)spy Ping: 62
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 179
+PlayerID: 76561198165490172 Name: Gothic Character: \|Gothic|/ Ping: 39
+PlayerID: 76561198306926963 Name: ?SLASH? Character: FRIZI Ping: 70
+PlayerID: 76561198292543416 Name: Mr_GiladKing Character: Mr.GILADKING Ping: 85
+
+TimerTerminateCommand.Enabled with Players:
+Disconnecting: PlayerID: 76561198259613636 Name: Iron Man Character: ОГУРЕЦ
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4293642820
+PlayerID: 76561198384007551
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 31471207
+
+TimerTerminateCommand.Enabled with Bans:
+[World] \|Gothic|/ [Gothic]: "/home"
+
+Не обработано: \|Gothic|/ moved x:-949.185 y:78.55865(+20.35702) z:445.3337 in the last second (0.2379227)
+TimerTerminateCommand.Enabled with Bans:
+\|Gothic|/ moved x:-949.185 y:78.55865(+20.35702) z:445.3337 in the last second (0.2379227)
+
+END with Bans:
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 31
+PlayerID: 76561198145049762 Name: Inquisitor Character: Gon Sina Ping: 85
+PlayerID: 76561198156117496 Name: Z(o_O)M Character: Dima Ping: 93
+PlayerID: 76561198254795968 Name: Ruslan_Kaneki Character: Ken_Kaneki Ping: 85
+PlayerID: 76561198237246912 Name: (o.W.n)SPY Character: (o.W.n)spy Ping: 62
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 195
+PlayerID: 76561198165490172 Name: Gothic Character: \|Gothic|/ Ping: 31
+PlayerID: 76561198306926963 Name: ?SLASH? Character: FRIZI Ping: 78
+PlayerID: 76561198292543416 Name: Mr_GiladKing Character: Mr.GILADKING Ping: 62
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4293642801
+PlayerID: 76561198384007551
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 31471188
+
+END with Bans:
+[World] Expert1337 [Expert13372284200]: "/tpa \"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 31
+PlayerID: 76561198145049762 Name: Inquisitor Character: Gon Sina Ping: 85
+PlayerID: 76561198156117496 Name: Z(o_O)M Character: Dima Ping: 62
+PlayerID: 76561198254795968 Name: Ruslan_Kaneki Character: Ken_Kaneki Ping: 93
+PlayerID: 76561198237246912 Name: (o.W.n)SPY Character: (o.W.n)spy Ping: 54
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 234
+PlayerID: 76561198165490172 Name: Gothic Character: \|Gothic|/ Ping: 23
+PlayerID: 76561198306926963 Name: ?SLASH? Character: FRIZI Ping: 62
+PlayerID: 76561198292543416 Name: Mr_GiladKing Character: Mr.GILADKING Ping: 46
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4293642781
+PlayerID: 76561198384007551
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 31471168
+
+END with Bans:
+Не обработано: MessageAnnouncer >> Broadcast: vk.com/hemulgm - ЕДИНСТВЕННЫЙ администратор сервера
+Не обработано: MessageAnnouncer >> vk.com/hemulgm - ЕДИНСТВЕННЫЙ администратор сервера
+MessageAnnouncer >> Broadcast: vk.com/hemulgm - ЕДИНСТВЕННЫЙ администратор сервера
+MessageAnnouncer >> vk.com/hemulgm - ЕДИНСТВЕННЫЙ администратор сервера
+
+TimerTerminateCommand.Enabled with Players:
+Client has executed command "players"
+Players:
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 15
+PlayerID: 76561198145049762 Name: Inquisitor Character: Gon Sina Ping: 85
+PlayerID: 76561198156117496 Name: Z(o_O)M Character: Dima Ping: 78
+PlayerID: 76561198254795968 Name: Ruslan_Kaneki Character: Ken_Kaneki Ping: 78
+PlayerID: 76561198237246912 Name: (o.W.n)SPY Character: (o.W.n)spy Ping: 54
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 164
+PlayerID: 76561198165490172 Name: Gothic Character: \|Gothic|/ Ping: 39
+PlayerID: 76561198306926963 Name: ?SLASH? Character: FRIZI Ping: 54
+PlayerID: 76561198292543416 Name: Mr_GiladKing Character: Mr.GILADKING Ping: 54
+
+END with Players:
+TimerTerminateCommand.Enabled with Bans:
+Client has executed command "bans"
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4293642757
+PlayerID: 76561198384007551
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 31471144
+[World] Mr.GILADKING [Mr_GiladKing]: "го к бандитам"
+[World] 7_AleX_3 [7_AleX_3]: "что"
+
+TimerTerminateCommand.Enabled with Bans:
+Disconnecting: PlayerID: 76561198145049762 Name: Inquisitor Character: Gon Sina
+
+END with Bans:
+TimerTerminateCommand.Enabled with Players:
+Client has executed command "players"
+Players:
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 31
+PlayerID: 76561198156117496 Name: Z(o_O)M Character: Dima Ping: 62
+PlayerID: 76561198254795968 Name: Ruslan_Kaneki Character: Ken_Kaneki Ping: 78
+PlayerID: 76561198237246912 Name: (o.W.n)SPY Character: (o.W.n)spy Ping: 54
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 187
+PlayerID: 76561198165490172 Name: Gothic Character: \|Gothic|/ Ping: 31
+PlayerID: 76561198306926963 Name: ?SLASH? Character: FRIZI Ping: 62
+PlayerID: 76561198292543416 Name: Mr_GiladKing Character: Mr.GILADKING Ping: 62
+[World] \|Gothic|/ [Gothic]: "/tpa a"
+
+TimerTerminateCommand.Enabled with Players:
+[World] \|Gothic|/ [Gothic]: "/tp a"
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4293642733
+PlayerID: 76561198384007551
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 31471120
+
+END with Bans:
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 31
+PlayerID: 76561198156117496 Name: Z(o_O)M Character: Dima Ping: 70
+PlayerID: 76561198254795968 Name: Ruslan_Kaneki Character: Ken_Kaneki Ping: 70
+PlayerID: 76561198237246912 Name: (o.W.n)SPY Character: (o.W.n)spy Ping: 54
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 164
+PlayerID: 76561198165490172 Name: Gothic Character: \|Gothic|/ Ping: 15
+PlayerID: 76561198306926963 Name: ?SLASH? Character: FRIZI Ping: 93
+PlayerID: 76561198292543416 Name: Mr_GiladKing Character: Mr.GILADKING Ping: 31
+
+TimerTerminateCommand.Enabled with Players:
+[World] \|Gothic|/ [Gothic]: "/tpa yes"
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4293642720
+PlayerID: 76561198384007551
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 31471107
+
+END with Bans:
+[World] 7_AleX_3 [7_AleX_3]: "мой"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 31
+PlayerID: 76561198156117496 Name: Z(o_O)M Character: Dima Ping: 70
+PlayerID: 76561198254795968 Name: Ruslan_Kaneki Character: Ken_Kaneki Ping: 85
+PlayerID: 76561198237246912 Name: (o.W.n)SPY Character: (o.W.n)spy Ping: 54
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 164
+PlayerID: 76561198165490172 Name: Gothic Character: \|Gothic|/ Ping: 46
+PlayerID: 76561198306926963 Name: ?SLASH? Character: FRIZI Ping: 85
+PlayerID: 76561198292543416 Name: Mr_GiladKing Character: Mr.GILADKING Ping: 39
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4293642700
+PlayerID: 76561198384007551
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 31471087
+
+TimerTerminateCommand.Enabled with Bans:
+[World] 7_AleX_3 [7_AleX_3]: "/kit help"
+
+END with Bans:
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 31
+PlayerID: 76561198156117496 Name: Z(o_O)M Character: Dima Ping: 70
+PlayerID: 76561198254795968 Name: Ruslan_Kaneki Character: Ken_Kaneki Ping: 85
+PlayerID: 76561198237246912 Name: (o.W.n)SPY Character: (o.W.n)spy Ping: 62
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 179
+PlayerID: 76561198165490172 Name: Gothic Character: \|Gothic|/ Ping: 7
+PlayerID: 76561198306926963 Name: ?SLASH? Character: FRIZI Ping: 78
+PlayerID: 76561198292543416 Name: Mr_GiladKing Character: Mr.GILADKING Ping: 54
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4293642680
+PlayerID: 76561198384007551
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 31471067
+
+END with Bans:
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 39
+PlayerID: 76561198156117496 Name: Z(o_O)M Character: Dima Ping: 62
+PlayerID: 76561198254795968 Name: Ruslan_Kaneki Character: Ken_Kaneki Ping: 85
+PlayerID: 76561198237246912 Name: (o.W.n)SPY Character: (o.W.n)spy Ping: 62
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 171
+PlayerID: 76561198165490172 Name: Gothic Character: \|Gothic|/ Ping: 31
+PlayerID: 76561198306926963 Name: ?SLASH? Character: FRIZI Ping: 70
+PlayerID: 76561198292543416 Name: Mr_GiladKing Character: Mr.GILADKING Ping: 46
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4293642660
+PlayerID: 76561198384007551
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 31471047
+
+END with Bans:
+Не обработано: MessageAnnouncer >> Broadcast: Используйте /report [ник], чтобы отправить жалобу на игрока
+MessageAnnouncer >> Broadcast: Используйте /report [ник], чтобы отправить жалобу на игрока
+
+Не обработано: MessageAnnouncer >> Используйте /report [ник], чтобы отправить жалобу на игрока
+MessageAnnouncer >> Используйте /report [ник], чтобы отправить жалобу на игрока
+
+TimerTerminateCommand.Enabled with Players:
+[World] 7_AleX_3 [7_AleX_3]: "эксперт"
+Client has executed command "players"
+Players:
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 31
+PlayerID: 76561198156117496 Name: Z(o_O)M Character: Dima Ping: 62
+PlayerID: 76561198254795968 Name: Ruslan_Kaneki Character: Ken_Kaneki Ping: 85
+PlayerID: 76561198237246912 Name: (o.W.n)SPY Character: (o.W.n)spy Ping: 54
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 179
+PlayerID: 76561198165490172 Name: Gothic Character: \|Gothic|/ Ping: 23
+PlayerID: 76561198306926963 Name: ?SLASH? Character: FRIZI Ping: 78
+PlayerID: 76561198292543416 Name: Mr_GiladKing Character: Mr.GILADKING Ping: 46
+[World] Mr.GILADKING [Mr_GiladKing]: "спс"
+[World] Expert1337 [Expert13372284200]: "что"
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4293642630
+PlayerID: 76561198384007551
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 31471017
+
+END with Bans:
+[World] 7_AleX_3 [7_AleX_3]: "вы там"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 46
+PlayerID: 76561198156117496 Name: Z(o_O)M Character: Dima Ping: 101
+PlayerID: 76561198254795968 Name: Ruslan_Kaneki Character: Ken_Kaneki Ping: 93
+PlayerID: 76561198237246912 Name: (o.W.n)SPY Character: (o.W.n)spy Ping: 70
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 171
+PlayerID: 76561198165490172 Name: Gothic Character: \|Gothic|/ Ping: 39
+PlayerID: 76561198306926963 Name: ?SLASH? Character: FRIZI Ping: 70
+PlayerID: 76561198292543416 Name: Mr_GiladKing Character: Mr.GILADKING Ping: 46
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4293642620
+PlayerID: 76561198384007551
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 31471007
+
+END with Bans:
+[World] Expert1337 [Expert13372284200]: "где"
+
+[World] 7_AleX_3 [7_AleX_3]: "правда де"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 39
+PlayerID: 76561198156117496 Name: Z(o_O)M Character: Dima Ping: 78
+PlayerID: 76561198254795968 Name: Ruslan_Kaneki Character: Ken_Kaneki Ping: 125
+PlayerID: 76561198237246912 Name: (o.W.n)SPY Character: (o.W.n)spy Ping: 46
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 171
+PlayerID: 76561198165490172 Name: Gothic Character: \|Gothic|/ Ping: 15
+PlayerID: 76561198306926963 Name: ?SLASH? Character: FRIZI Ping: 101
+PlayerID: 76561198292543416 Name: Mr_GiladKing Character: Mr.GILADKING Ping: 39
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4293642600
+PlayerID: 76561198384007551
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 31470987
+
+Не обработано: 7_AleX_3 moved x:-718.1624 y:64.1569(+25.67958) z:-718.1124 in the last second (17.49699)
+TimerTerminateCommand.Enabled with Bans:
+7_AleX_3 moved x:-718.1624 y:64.1569(+25.67958) z:-718.1124 in the last second (17.49699)
+
+END with Bans:
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 31
+PlayerID: 76561198156117496 Name: Z(o_O)M Character: Dima Ping: 70
+PlayerID: 76561198254795968 Name: Ruslan_Kaneki Character: Ken_Kaneki Ping: 78
+PlayerID: 76561198237246912 Name: (o.W.n)SPY Character: (o.W.n)spy Ping: 54
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 187
+PlayerID: 76561198165490172 Name: Gothic Character: \|Gothic|/ Ping: 46
+PlayerID: 76561198306926963 Name: ?SLASH? Character: FRIZI Ping: 70
+PlayerID: 76561198292543416 Name: Mr_GiladKing Character: Mr.GILADKING Ping: 39
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4293642580
+PlayerID: 76561198384007551
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 31470967
+
+END with Bans:
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 31
+PlayerID: 76561198156117496 Name: Z(o_O)M Character: Dima Ping: 78
+PlayerID: 76561198254795968 Name: Ruslan_Kaneki Character: Ken_Kaneki Ping: 226
+PlayerID: 76561198237246912 Name: (o.W.n)SPY Character: (o.W.n)spy Ping: 62
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 171
+PlayerID: 76561198165490172 Name: Gothic Character: \|Gothic|/ Ping: 70
+PlayerID: 76561198306926963 Name: ?SLASH? Character: FRIZI Ping: 85
+PlayerID: 76561198292543416 Name: Mr_GiladKing Character: Mr.GILADKING Ping: 46
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4293642560
+PlayerID: 76561198384007551
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 31470947
+
+END with Bans:
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 31
+PlayerID: 76561198156117496 Name: Z(o_O)M Character: Dima Ping: 78
+PlayerID: 76561198254795968 Name: Ruslan_Kaneki Character: Ken_Kaneki Ping: 109
+PlayerID: 76561198237246912 Name: (o.W.n)SPY Character: (o.W.n)spy Ping: 54
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 312
+PlayerID: 76561198165490172 Name: Gothic Character: \|Gothic|/ Ping: 31
+PlayerID: 76561198306926963 Name: ?SLASH? Character: FRIZI Ping: 62
+PlayerID: 76561198292543416 Name: Mr_GiladKing Character: Mr.GILADKING Ping: 54
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4293642540
+PlayerID: 76561198384007551
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 31470927
+
+END with Bans:
+Disconnecting: PlayerID: 76561198292543416 Name: Mr_GiladKing Character: Mr.GILADKING
+
+Не обработано: MessageAnnouncer >> Broadcast: Наберите /rules (/r) для просмотра правил
+MessageAnnouncer >> Broadcast: Наберите /rules (/r) для просмотра правил
+
+Не обработано: MessageAnnouncer >> Наберите /rules (/r) для просмотра правил
+MessageAnnouncer >> Наберите /rules (/r) для просмотра правил
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 31
+PlayerID: 76561198156117496 Name: Z(o_O)M Character: Dima Ping: 62
+PlayerID: 76561198254795968 Name: Ruslan_Kaneki Character: Ken_Kaneki Ping: 93
+PlayerID: 76561198237246912 Name: (o.W.n)SPY Character: (o.W.n)spy Ping: 62
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 195
+PlayerID: 76561198165490172 Name: Gothic Character: \|Gothic|/ Ping: 31
+PlayerID: 76561198306926963 Name: ?SLASH? Character: FRIZI Ping: 85
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4293642520
+PlayerID: 76561198384007551
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 31470907
+
+END with Bans:
+Не обработано: 7_AleX_3 moved x:-708.2768 y:84.51485(+35.70068) z:332.7213 in the last second (1.751419)
+7_AleX_3 moved x:-708.2768 y:84.51485(+35.70068) z:332.7213 in the last second (1.751419)
+
+[World] 7_AleX_3 [7_AleX_3]: "я дом"
+
+[World] 7_AleX_3 [7_AleX_3]: "а"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 31
+PlayerID: 76561198156117496 Name: Z(o_O)M Character: Dima Ping: 78
+PlayerID: 76561198254795968 Name: Ruslan_Kaneki Character: Ken_Kaneki Ping: 85
+PlayerID: 76561198237246912 Name: (o.W.n)SPY Character: (o.W.n)spy Ping: 62
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 187
+PlayerID: 76561198165490172 Name: Gothic Character: \|Gothic|/ Ping: 7
+PlayerID: 76561198306926963 Name: ?SLASH? Character: FRIZI Ping: 117
+[World] Expert1337 [Expert13372284200]: "gothic ты за эхо согласен не палить"
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4293642500
+PlayerID: 76561198384007551
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 31470887
+
+END with Bans:
+[World] 7_AleX_3 [7_AleX_3]: "что"
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 31
+PlayerID: 76561198156117496 Name: Z(o_O)M Character: Dima Ping: 125
+PlayerID: 76561198254795968 Name: Ruslan_Kaneki Character: Ken_Kaneki Ping: 140
+PlayerID: 76561198237246912 Name: (o.W.n)SPY Character: (o.W.n)spy Ping: 54
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 164
+PlayerID: 76561198165490172 Name: Gothic Character: \|Gothic|/ Ping: 23
+PlayerID: 76561198306926963 Name: ?SLASH? Character: FRIZI Ping: 140
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4293642480
+PlayerID: 76561198384007551
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 31470867
+
+END with Bans:
+[World] \|Gothic|/ [Gothic]: "жа yже на vаш хом тепнyлsя)"
+
+[World] Expert1337 [Expert13372284200]: "ща я приеду"
+
+Connecting: PlayerID: 76561198292543416 Name: Mr_GiladKing Character: Mr.GILADKING
+[World] 7_AleX_3 [7_AleX_3]: "кто"
+
+TimerTerminateCommand.Enabled with Players:
+Client has executed command "players"
+Players:
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 39
+PlayerID: 76561198156117496 Name: Z(o_O)M Character: Dima Ping: 70
+PlayerID: 76561198254795968 Name: Ruslan_Kaneki Character: Ken_Kaneki Ping: 78
+PlayerID: 76561198237246912 Name: (o.W.n)SPY Character: (o.W.n)spy Ping: 62
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 195
+PlayerID: 76561198165490172 Name: Gothic Character: \|Gothic|/ Ping: 15
+PlayerID: 76561198306926963 Name: ?SLASH? Character: FRIZI Ping: 78
+PlayerID: 76561198292543416 Name: Mr_GiladKing Character: Mr.GILADKING Ping: 54
+
+TimerTerminateCommand.Enabled with Players:
+[World] (o.W.n)spy [(o.W.n)SPY]: "/kit sniper"
+
+END with Players:
+TimerTerminateCommand.Enabled with Bans:
+Client has executed command "bans"
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4293642442
+PlayerID: 76561198384007551
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 31470829
+
+END with Bans:
+Не обработано: DeathMessagesRemastered >> Broadcast: FRIZI истёк кровью!
+DeathMessagesRemastered >> Broadcast: FRIZI истёк кровью!
+
+Не обработано: DropManager >> 3
+Не обработано: FRIZI [?SLASH?] bled to death!
+DropManager >> 3
+FRIZI [?SLASH?] bled to death!
+
+Client has executed command "players"
+
+TimerTerminateCommand.Enabled with Players:
+Players:
+PlayerID: 76561198140053978 Name: 7_AleX_3 Character: 7_AleX_3 Ping: 46
+PlayerID: 76561198156117496 Name: Z(o_O)M Character: Dima Ping: 85
+PlayerID: 76561198254795968 Name: Ruslan_Kaneki Character: Ken_Kaneki Ping: 101
+PlayerID: 76561198237246912 Name: (o.W.n)SPY Character: (o.W.n)spy Ping: 54
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 179
+PlayerID: 76561198165490172 Name: Gothic Character: \|Gothic|/ Ping: 15
+PlayerID: 76561198306926963 Name: ?SLASH? Character: FRIZI Ping: 109
+PlayerID: 76561198292543416 Name: Mr_GiladKing Character: Mr.GILADKING Ping: 46
+
+TimerTerminateCommand.Enabled with Players:
+[Area] \|Gothic|/ [Gothic]: "я тепнyлsя..."
+
+END with Players:
+Client has executed command "bans"
+
+TimerTerminateCommand.Enabled with Bans:
+Bans:
+PlayerID: 76561198274427357
+JudgeID: 0
+Reason: you were vote kicked Duration: 180 Remaining: 4293642428
+PlayerID: 76561198384007551
+JudgeID: 0
+Reason: unspecified Duration: 31536000 Remaining: 31470815
+
+TimerTerminateCommand.Enabled with Bans:
+[World] Mr.GILADKING [Mr_GiladKing]: "/tpa exp"
+
+TimerTerminateCommand.Enabled with Bans:
+[World] FRIZI [?SLASH?]: "/tpa dima"
+

@@ -1,0 +1,1246 @@
+RocketRcon v2.4.8.0
+
+login aVIPs22031994
+players
+Client has executed command "players"
+Players:
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 216
+PlayerID: 76561198385149949 Name: GoDNooB Character: GoDNooB Ping: 122
+PlayerID: 76561198315561906 Name: MaXiMuS Character: valuxa1984 Ping: 52
+PlayerID: 76561198430964141 Name: tolikoleshki Character: tolik Ping: 129
+PlayerID: 76561198265247601 Name: BisonbonasusPlay Character: Dmitriy Ping: 85
+PlayerID: 76561198384139999 Name: agat84 Character: Mr.Shadou Ping: 95
+
+Client has executed command "bans"
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 28076334
+PlayerID: 76561198336969313
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 191567
+PlayerID: 76561198212486347
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 191898
+PlayerID: 76561198391097237
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 354385
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30956612
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30956628
+
+END
+END
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2727]
+
+cchat "76561198385149949" "/49/17/09/02/05/12/05/03/09/09 /02/11/12/31/24/05/14/28" 255 255 255
+p add 76561198385149949 Moderators
+Client has executed command "cchat "76561198385149949" "/49/17/09/02/05/12/05/03/09/09 /02/11/12/31/24/05/14/28" 255 255 255"
+ServerControl >> /49/17/09/02/05/12/05/03/09/09 /02/11/12/31/24/05/14/28 255 255 255
+
+Не обработано: ServerControl >> /49/17/09/02/05/12/05/03/09/09 /02/11/12/31/24/05/14/28 255 255 255
+Client has executed command "p add 76561198385149949 Moderators"
+
+GoDNooB был добавлен к группе Moderators
+
+Не обработано: GoDNooB был добавлен к группе Moderators
+[World] Expert1337 [Expert13372284200]: "/i cardboard"
+
+Дал Expert1337 вещь 17602:1
+
+Не обработано: Дал Expert1337 вещь 17602:1
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 197
+PlayerID: 76561198385149949 Name: GoDNooB Character: GoDNooB Ping: 140
+PlayerID: 76561198315561906 Name: MaXiMuS Character: valuxa1984 Ping: 52
+PlayerID: 76561198430964141 Name: tolikoleshki Character: tolik Ping: 122
+PlayerID: 76561198265247601 Name: BisonbonasusPlay Character: Dmitriy Ping: 91
+PlayerID: 76561198384139999 Name: agat84 Character: Mr.Shadou Ping: 86
+
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 28076323
+PlayerID: 76561198336969313
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 191556
+PlayerID: 76561198212486347
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 191887
+PlayerID: 76561198391097237
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 354374
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30956601
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30956617
+
+END
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2737]
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2737]
+
+END
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2747]
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2747]
+
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 203
+PlayerID: 76561198385149949 Name: GoDNooB Character: GoDNooB Ping: 139
+PlayerID: 76561198315561906 Name: MaXiMuS Character: valuxa1984 Ping: 51
+PlayerID: 76561198430964141 Name: tolikoleshki Character: tolik Ping: 138
+PlayerID: 76561198265247601 Name: BisonbonasusPlay Character: Dmitriy Ping: 82
+PlayerID: 76561198384139999 Name: agat84 Character: Mr.Shadou Ping: 91
+
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 28076303
+PlayerID: 76561198336969313
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 191536
+PlayerID: 76561198212486347
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 191867
+PlayerID: 76561198391097237
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 354354
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30956581
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30956597
+
+END
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2757]
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2757]
+
+END
+[World] Mr.Shadou [agat84]: "експерт тп кте"
+
+MessageAnnouncer >> Broadcast: Наберите /rules (/r) для просмотра правил
+
+MessageAnnouncer >> Наберите /rules (/r) для просмотра правил
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2767]
+
+Client has executed command "GET NOW"
+ServerControl >> VALUE NOW [0] [0] [2767]
+
+[World] Dmitriy [BisonbonasusPlay]: "/buy 1353"
+
+[World] Expert1337 [Expert13372284200]: "/tp mr"
+
+Expert1337 телепортирован к Mr.Shadou
+
+Не обработано: Expert1337 телепортирован к Mr.Shadou
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 201
+PlayerID: 76561198385149949 Name: GoDNooB Character: GoDNooB Ping: 122
+PlayerID: 76561198315561906 Name: MaXiMuS Character: valuxa1984 Ping: 57
+PlayerID: 76561198430964141 Name: tolikoleshki Character: tolik Ping: 108
+PlayerID: 76561198265247601 Name: BisonbonasusPlay Character: Dmitriy Ping: 92
+PlayerID: 76561198384139999 Name: agat84 Character: Mr.Shadou Ping: 90
+
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 28076283
+PlayerID: 76561198336969313
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 191516
+PlayerID: 76561198212486347
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 191847
+PlayerID: 76561198391097237
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 354334
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30956561
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30956577
+
+END
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2777]
+Client has executed command "GET NOW"
+ServerControl >> VALUE NOW [0] [0] [2777]
+
+END
+cchat "76561198385149949" "/02/28/16/15/12/14/09 /11/15/13/00/14/04/20 ./god" 255 0 0
+Client has executed command "cchat "76561198385149949" "/02/28/16/15/12/14/09 /11/15/13/00/14/04/20 ./god" 255 0 0"
+
+ServerControl >> /02/28/16/15/12/14/09 /11/15/13/00/14/04/20 ./god 255 0 0
+
+Не обработано: ServerControl >> /02/28/16/15/12/14/09 /11/15/13/00/14/04/20 ./god 255 0 0
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2787]
+Client has executed command "GET NOW"
+ServerControl >> VALUE NOW [0] [0] [2787]
+
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 216
+PlayerID: 76561198385149949 Name: GoDNooB Character: GoDNooB Ping: 139
+PlayerID: 76561198315561906 Name: MaXiMuS Character: valuxa1984 Ping: 55
+PlayerID: 76561198430964141 Name: tolikoleshki Character: tolik Ping: 112
+PlayerID: 76561198265247601 Name: BisonbonasusPlay Character: Dmitriy Ping: 80
+PlayerID: 76561198384139999 Name: agat84 Character: Mr.Shadou Ping: 90
+
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 28076263
+PlayerID: 76561198336969313
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 191496
+PlayerID: 76561198212486347
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 191827
+PlayerID: 76561198391097237
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 354314
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30956541
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30956557
+
+END
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2797]
+
+Client has executed command "GET NOW"
+ServerControl >> VALUE NOW [0] [0] [2798]
+
+END
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2807]
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2808]
+
+[World] Expert1337 [Expert13372284200]: "/home"
+
+GET GODMODE 76561198385149949
+Client has executed command "GET GODMODE 76561198385149949"
+
+ServerControl >> VALUE GODMODE 76561198385149949 [0]
+
+Expert1337 moved x:914.0295 y:80.96259(+39.92496) z:579.4417 in the last second (0.09944153)
+
+Не обработано: Expert1337 moved x:914.0295 y:80.96259(+39.92496) z:579.4417 in the last second (0.09944153)
+GET GODMODE 76561198385149949
+Client has executed command "GET GODMODE 76561198385149949"
+
+ServerControl >> VALUE GODMODE 76561198385149949 [0]
+
+[World] GoDNooB [GoDNooB]: "Пацаны в какой вкладке делается факел?"
+
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 210
+PlayerID: 76561198385149949 Name: GoDNooB Character: GoDNooB Ping: 129
+PlayerID: 76561198315561906 Name: MaXiMuS Character: valuxa1984 Ping: 54
+PlayerID: 76561198430964141 Name: tolikoleshki Character: tolik Ping: 96
+PlayerID: 76561198265247601 Name: BisonbonasusPlay Character: Dmitriy Ping: 107
+PlayerID: 76561198384139999 Name: agat84 Character: Mr.Shadou Ping: 91
+
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 28076243
+PlayerID: 76561198336969313
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 191476
+PlayerID: 76561198212486347
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 191807
+PlayerID: 76561198391097237
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 354294
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30956521
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30956537
+
+END
+[World] Expert1337 [Expert13372284200]: "/tphere mr"
+Mr.Shadou был телепортирован к Expert1337
+
+Не обработано: Mr.Shadou был телепортирован к Expert1337
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2817]
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2818]
+
+Mr.Shadou moved x:912.2297 y:80.30318(+41.6258) z:583.9326 in the last second (0.411026)
+
+Не обработано: Mr.Shadou moved x:912.2297 y:80.30318(+41.6258) z:583.9326 in the last second (0.411026)
+cchat "76561198385149949" "/02/28/16/15/12/14/09 /11/15/13/00/14/04/20 ./god" 255 0 0
+Client has executed command "cchat "76561198385149949" "/02/28/16/15/12/14/09 /11/15/13/00/14/04/20 ./god" 255 0 0"
+
+ServerControl >> /02/28/16/15/12/14/09 /11/15/13/00/14/04/20 ./god 255 0 0
+
+Не обработано: ServerControl >> /02/28/16/15/12/14/09 /11/15/13/00/14/04/20 ./god 255 0 0
+cchat "76561198385149949" "/02/28/16/15/12/14/09 /11/15/13/00/14/04/20 ./god" 255 0 0
+Client has executed command "cchat "76561198385149949" "/02/28/16/15/12/14/09 /11/15/13/00/14/04/20 ./god" 255 0 0"
+
+ServerControl >> /02/28/16/15/12/14/09 /11/15/13/00/14/04/20 ./god 255 0 0
+
+Не обработано: ServerControl >> /02/28/16/15/12/14/09 /11/15/13/00/14/04/20 ./god 255 0 0
+cchat "76561198385149949" "/02/28/16/15/12/14/09 /11/15/13/00/14/04/20 ./god" 255 0 0
+Client has executed command "cchat "76561198385149949" "/02/28/16/15/12/14/09 /11/15/13/00/14/04/20 ./god" 255 0 0"
+
+[World] Expert1337 [Expert13372284200]: "хз"
+ServerControl >> /02/28/16/15/12/14/09 /11/15/13/00/14/04/20 ./god 255 0 0
+
+Не обработано: ServerControl >> /02/28/16/15/12/14/09 /11/15/13/00/14/04/20 ./god 255 0 0
+END
+MessageAnnouncer >> Broadcast: Добро пожаловать на HGM. Тут рады вам больше, чем на любом другом сервере!
+
+MessageAnnouncer >> Добро пожаловать на HGM. Тут рады вам больше, чем на любом другом сервере!
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2827]
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2828]
+
+[World] tolik [tolikoleshki]: "енергия"
+
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 209
+PlayerID: 76561198385149949 Name: GoDNooB Character: GoDNooB Ping: 173
+PlayerID: 76561198315561906 Name: MaXiMuS Character: valuxa1984 Ping: 54
+PlayerID: 76561198430964141 Name: tolikoleshki Character: tolik Ping: 98
+PlayerID: 76561198265247601 Name: BisonbonasusPlay Character: Dmitriy Ping: 83
+PlayerID: 76561198384139999 Name: agat84 Character: Mr.Shadou Ping: 95
+
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 28076223
+PlayerID: 76561198336969313
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 191456
+PlayerID: 76561198212486347
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 191787
+PlayerID: 76561198391097237
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 354274
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30956501
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30956517
+
+END
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2837]
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2838]
+
+[Area] Expert1337 [Expert13372284200]: "yt"
+
+END
+[Area] Expert1337 [Expert13372284200]: "не"
+
+[World] GoDNooB [GoDNooB]: "Мене модера беплатно дали"
+
+[Area] Expert1337 [Expert13372284200]: "ок"
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2847]
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2848]
+
+[World] Mr.Shadou [agat84]: "как"
+
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 209
+PlayerID: 76561198385149949 Name: GoDNooB Character: GoDNooB Ping: 172
+PlayerID: 76561198315561906 Name: MaXiMuS Character: valuxa1984 Ping: 57
+PlayerID: 76561198430964141 Name: tolikoleshki Character: tolik Ping: 90
+PlayerID: 76561198265247601 Name: BisonbonasusPlay Character: Dmitriy Ping: 79
+PlayerID: 76561198384139999 Name: agat84 Character: Mr.Shadou Ping: 82
+
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 28076203
+PlayerID: 76561198336969313
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 191436
+PlayerID: 76561198212486347
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 191767
+PlayerID: 76561198391097237
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 354254
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30956481
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30956497
+
+END
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2857]
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2858]
+
+[World] Expert1337 [Expert13372284200]: "всм бесплатно"
+
+[World] GoDNooB [GoDNooB]: "хз"
+
+GET GODMODE 76561198385149949
+END
+Client has executed command "GET GODMODE 76561198385149949"
+
+ServerControl >> VALUE GODMODE 76561198385149949 [0]
+
+Client has executed command "GET NOW"
+ServerControl >> VALUE NOW [0] [0] [2867]
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2868]
+
+cchat "76561198385149949" "/02/28/16/15/12/14/09 /11/15/13/00/14/04/20 ./god" 255 0 0
+Client has executed command "cchat "76561198385149949" "/02/28/16/15/12/14/09 /11/15/13/00/14/04/20 ./god" 255 0 0"
+
+ServerControl >> /02/28/16/15/12/14/09 /11/15/13/00/14/04/20 ./god 255 0 0
+
+Не обработано: ServerControl >> /02/28/16/15/12/14/09 /11/15/13/00/14/04/20 ./god 255 0 0
+cchat "76561198385149949" "/02/28/16/15/12/14/09 /11/15/13/00/14/04/20 ./god" 255 0 0
+Client has executed command "cchat "76561198385149949" "/02/28/16/15/12/14/09 /11/15/13/00/14/04/20 ./god" 255 0 0"
+
+ServerControl >> /02/28/16/15/12/14/09 /11/15/13/00/14/04/20 ./god 255 0 0
+
+Не обработано: ServerControl >> /02/28/16/15/12/14/09 /11/15/13/00/14/04/20 ./god 255 0 0
+cchat "76561198385149949" "/02/28/16/15/12/14/09 /11/15/13/00/14/04/20 ./god" 255 0 0
+Client has executed command "cchat "76561198385149949" "/02/28/16/15/12/14/09 /11/15/13/00/14/04/20 ./god" 255 0 0"
+
+ServerControl >> /02/28/16/15/12/14/09 /11/15/13/00/14/04/20 ./god 255 0 0
+
+Не обработано: ServerControl >> /02/28/16/15/12/14/09 /11/15/13/00/14/04/20 ./god 255 0 0
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 227
+PlayerID: 76561198385149949 Name: GoDNooB Character: GoDNooB Ping: 130
+PlayerID: 76561198315561906 Name: MaXiMuS Character: valuxa1984 Ping: 56
+PlayerID: 76561198430964141 Name: tolikoleshki Character: tolik Ping: 105
+PlayerID: 76561198265247601 Name: BisonbonasusPlay Character: Dmitriy Ping: 108
+PlayerID: 76561198384139999 Name: agat84 Character: Mr.Shadou Ping: 91
+
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 28076183
+PlayerID: 76561198336969313
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 191416
+PlayerID: 76561198212486347
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 191747
+PlayerID: 76561198391097237
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 354234
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30956461
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30956477
+
+END
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2877]
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2878]
+
+END
+[World] Expert1337 [Expert13372284200]: "походу админ напутал или выйграл"
+
+MessageAnnouncer >> Broadcast: Наберите /kit start, чтобы получить стартовый набор (еда, вода, топор)
+
+MessageAnnouncer >> Наберите /kit start, чтобы получить стартовый набор (еда, вода, топор)
+
+[World] GoDNooB [GoDNooB]: "я мирно играл бац тут модер"
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2887]
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2888]
+
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 222
+PlayerID: 76561198385149949 Name: GoDNooB Character: GoDNooB Ping: 116
+PlayerID: 76561198315561906 Name: MaXiMuS Character: valuxa1984 Ping: 58
+PlayerID: 76561198430964141 Name: tolikoleshki Character: tolik Ping: 163
+PlayerID: 76561198265247601 Name: BisonbonasusPlay Character: Dmitriy Ping: 74
+PlayerID: 76561198384139999 Name: agat84 Character: Mr.Shadou Ping: 94
+
+[World] Expert1337 [Expert13372284200]: "я напишу"
+
+cchat "76561198385149949" " /16/17/15/18/19/15 /16/17/15/02/05/17/32/31" 255 0 0
+Client has executed command "cchat "76561198385149949" " /16/17/15/18/19/15 /16/17/15/02/05/17/32/31" 255 0 0"
+
+ServerControl >> /16/17/15/18/19/15 /16/17/15/02/05/17/32/31 255 0 0
+
+Не обработано: ServerControl >> /16/17/15/18/19/15 /16/17/15/02/05/17/32/31 255 0 0
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 28076162
+PlayerID: 76561198336969313
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 191395
+PlayerID: 76561198212486347
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 191726
+PlayerID: 76561198391097237
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 354213
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30956440
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30956456
+
+END
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2897]
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2898]
+
+[World] Expert1337 [Expert13372284200]: "ему"
+
+END
+[World] GoDNooB [GoDNooB]: ".ок"
+
+cchat "/49/17/15/18/19/15 /16/17/15/02/05/17/32/31" 255 0 0
+Client has executed command "cchat "/49/17/15/18/19/15 /16/17/15/02/05/17/32/31" 255 0 0"
+
+ServerControl >> Broadcast: Просто проверяю
+
+Не обработано: ServerControl >> Broadcast: Просто проверяю
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2907]
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2908]
+
+Disconnecting: PlayerID: 76561198385149949 Name: GoDNooB Character: GoDNooB
+
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 208
+PlayerID: 76561198315561906 Name: MaXiMuS Character: valuxa1984 Ping: 56
+PlayerID: 76561198430964141 Name: tolikoleshki Character: tolik Ping: 93
+PlayerID: 76561198265247601 Name: BisonbonasusPlay Character: Dmitriy Ping: 91
+PlayerID: 76561198384139999 Name: agat84 Character: Mr.Shadou Ping: 84
+
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 28076143
+PlayerID: 76561198336969313
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 191376
+PlayerID: 76561198212486347
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 191707
+PlayerID: 76561198391097237
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 354194
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30956421
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30956437
+
+END
+GET GODMODE 76561198385149949
+Client has executed command "GET GODMODE 76561198385149949"
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2917]
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2918]
+
+END
+[World] Mr.Shadou [agat84]: "а даш мне пж"
+
+[World] Mr.Shadou [agat84]: "админ пж"
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2928]
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2928]
+
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 213
+PlayerID: 76561198315561906 Name: MaXiMuS Character: valuxa1984 Ping: 53
+PlayerID: 76561198430964141 Name: tolikoleshki Character: tolik Ping: 84
+PlayerID: 76561198265247601 Name: BisonbonasusPlay Character: Dmitriy Ping: 74
+PlayerID: 76561198384139999 Name: agat84 Character: Mr.Shadou Ping: 89
+
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 28076123
+PlayerID: 76561198336969313
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 191356
+PlayerID: 76561198212486347
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 191687
+PlayerID: 76561198391097237
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 354174
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30956401
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30956417
+
+END
+[World] Expert1337 [Expert13372284200]: "'n gjregfnm yflj"
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2937]
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2938]
+
+p "76561198385149949"
+Client has executed command "p "76561198385149949""
+
+s p_groups: Normal, Guest, Moderators
+s p_perm: tp(20), heal(60), tphere, god, i(30), v(100), day(3000), night(3000), give(30), vehicle(60), vanish, mute(120), unmute, sell, servercontrol.a, a, server, p, rules, r, donat, site, vk, home(60), tpa.*, kit, kit.start, kit.map, kit.help, kit.claim, kit.hgm1, kits, report, balance, buy, cost, exchange, pm, reply, pay, checkowner
+
+Не обработано: s p_perm: tp(20), heal(60), tphere, god, i(30), v(100), day(3000), night(3000), give(30), vehicle(60), vanish, mute(120), unmute, sell, servercontrol.a, a, server, p, rules, r, donat, site, vk, home(60), tpa.*, kit, kit.start, kit.map, kit.help, kit.claim, kit.hgm1, kits, report, balance, buy, cost, exchange, pm, reply, pay, checkowner
+[World] Mr.Shadou [agat84]: "модера"
+
+[World] Expert1337 [Expert13372284200]: "покупать надо"
+
+END
+p remove 76561198385149949 Moderators
+p "76561198385149949"
+Client has executed command "p remove 76561198385149949 Moderators"
+
+NULL был удалён из группы Moderators
+
+Не обработано: NULL был удалён из группы Moderators
+Client has executed command "p "76561198385149949""
+
+s p_groups: Normal, Guest
+s p_perm: sell, servercontrol.a, a, server, p, rules, r, donat, site, vk, home(60), tpa.*, kit, kit.start, kit.map, kit.help, kit.claim, kit.hgm1, kits, report, balance, buy, cost, exchange, pm, reply, pay, checkowner
+
+Не обработано: s p_perm: sell, servercontrol.a, a, server, p, rules, r, donat, site, vk, home(60), tpa.*, kit, kit.start, kit.map, kit.help, kit.claim, kit.hgm1, kits, report, balance, buy, cost, exchange, pm, reply, pay, checkowner
+MessageAnnouncer >> Broadcast: Внимание! PvP-режим по субботам! PvP-режим!!!
+
+MessageAnnouncer >> Внимание! PvP-режим по субботам! PvP-режим!!!
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2947]
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2948]
+
+[World] Expert1337 [Expert13372284200]: "100 рубле неделя"
+
+cchat "/47/05/19, /01/05/18/16/12/00/19/14/15 /14/05 /04/00/31" 255 0 0
+Client has executed command "cchat "/47/05/19, /01/05/18/16/12/00/19/14/15 /14/05 /04/00/31" 255 0 0"
+
+ServerControl >> Broadcast: Нет, бесплатно не даю
+
+Не обработано: ServerControl >> Broadcast: Нет, бесплатно не даю
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 204
+PlayerID: 76561198315561906 Name: MaXiMuS Character: valuxa1984 Ping: 54
+PlayerID: 76561198430964141 Name: tolikoleshki Character: tolik Ping: 110
+PlayerID: 76561198265247601 Name: BisonbonasusPlay Character: Dmitriy Ping: 82
+PlayerID: 76561198384139999 Name: agat84 Character: Mr.Shadou Ping: 96
+
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 28076103
+PlayerID: 76561198336969313
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 191336
+PlayerID: 76561198212486347
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 191667
+PlayerID: 76561198391097237
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 354154
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30956381
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30956397
+
+END
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2957]
+
+[World] Mr.Shadou [agat84]: "ну пж"
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2958]
+
+END
+[World] Expert1337 [Expert13372284200]: "350 месяц"
+
+[World] Mr.Shadou [agat84]: "умоляю"
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2968]
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2968]
+
+cchat "/47/05 /19/00/11 /20/07 /09 /04/15/17/15/03/15" 255 0 0
+Client has executed command "cchat "/47/05 /19/00/11 /20/07 /09 /04/15/17/15/03/15" 255 0 0"
+
+ServerControl >> Broadcast: Не так уж и дорого
+
+Не обработано: ServerControl >> Broadcast: Не так уж и дорого
+[World] Expert1337 [Expert13372284200]: "он не даст"
+
+cchat "100/17 /14/00/11/15/16/09/19/29" 255 0 0
+Client has executed command "cchat "100/17 /14/00/11/15/16/09/19/29" 255 0 0"
+
+ServerControl >> Broadcast: 100р накопить
+
+Не обработано: ServerControl >> Broadcast: 100р накопить
+Client has executed command "cchat "/33/09/17/04/17/15/16 /24/05/17/05/08 30 /13. " 255 255 0"
+
+ServerControl >> Broadcast: Аирдроп через 30 м.
+
+Не обработано: ServerControl >> Broadcast: Аирдроп через 30 м.
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 196
+PlayerID: 76561198315561906 Name: MaXiMuS Character: valuxa1984 Ping: 59
+PlayerID: 76561198430964141 Name: tolikoleshki Character: tolik Ping: 154
+PlayerID: 76561198265247601 Name: BisonbonasusPlay Character: Dmitriy Ping: 79
+PlayerID: 76561198384139999 Name: agat84 Character: Mr.Shadou Ping: 92
+
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 28076083
+PlayerID: 76561198336969313
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 191316
+PlayerID: 76561198212486347
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 191647
+PlayerID: 76561198391097237
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 354134
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30956361
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30956377
+
+END
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2978]
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2978]
+
+END
+[World] Expert1337 [Expert13372284200]: "можно дождь выключить?"
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2988]
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2988]
+
+[World] Mr.Shadou [agat84]: "ну плиз умоляю я пропиару твой серв"
+
+weather storm
+Client has executed command "weather storm"
+
+Successfully set weather to storm!
+
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 229
+PlayerID: 76561198315561906 Name: MaXiMuS Character: valuxa1984 Ping: 51
+PlayerID: 76561198430964141 Name: tolikoleshki Character: tolik Ping: 188
+PlayerID: 76561198265247601 Name: BisonbonasusPlay Character: Dmitriy Ping: 76
+PlayerID: 76561198384139999 Name: agat84 Character: Mr.Shadou Ping: 87
+
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 28076063
+PlayerID: 76561198336969313
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 191296
+PlayerID: 76561198212486347
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 191627
+PlayerID: 76561198391097237
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 354114
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30956341
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30956357
+
+END
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2998]
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [2998]
+
+END
+Disconnecting: PlayerID: 76561198430964141 Name: tolikoleshki Character: tolik
+
+MessageAnnouncer >> Broadcast: vk.com/unturned_hgm - группа сервера ВК, уникальный кит в записи!
+
+MessageAnnouncer >> vk.com/unturned_hgm - группа сервера ВК, уникальный кит в записи!
+
+[World] Expert1337 [Expert13372284200]: "спасибо"
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [3008]
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [3008]
+
+[World] Expert1337 [Expert13372284200]: "/i table"
+
+Дал Expert1337 вещь 17677:1
+
+Не обработано: Дал Expert1337 вещь 17677:1
+[World] Mr.Shadou [agat84]: "пжжжж"
+
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 203
+PlayerID: 76561198315561906 Name: MaXiMuS Character: valuxa1984 Ping: 61
+PlayerID: 76561198265247601 Name: BisonbonasusPlay Character: Dmitriy Ping: 80
+PlayerID: 76561198384139999 Name: agat84 Character: Mr.Shadou Ping: 87
+
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 28076043
+PlayerID: 76561198336969313
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 191276
+PlayerID: 76561198212486347
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 191607
+PlayerID: 76561198391097237
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 354094
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30956321
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30956337
+
+END
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [3018]
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [3018]
+
+END
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [3028]
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [3028]
+Connecting: PlayerID: 76561198373217525 Name: Weruklof Character: Циско Рамон
+Циско Рамон connected with IP 92.124.54.100
+
+Connecting: PlayerID: 76561198444929071 Name: dexter.mixer Character: Junumehup
+
+Junumehup connected with IP 109.120.25.58
+
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 224
+PlayerID: 76561198315561906 Name: MaXiMuS Character: valuxa1984 Ping: 59
+PlayerID: 76561198265247601 Name: BisonbonasusPlay Character: Dmitriy Ping: 87
+PlayerID: 76561198384139999 Name: agat84 Character: Mr.Shadou Ping: 85
+PlayerID: 76561198373217525 Name: Weruklof Character: Циско Рамон Ping: 396
+PlayerID: 76561198444929071 Name: dexter.mixer Character: Junumehup Ping: 24
+
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 28076023
+PlayerID: 76561198336969313
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 191256
+PlayerID: 76561198212486347
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 191587
+PlayerID: 76561198391097237
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 354074
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30956301
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30956317
+
+END
+[World] Mr.Shadou [agat84]: "ну пжж"
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [3038]
+
+Connecting: PlayerID: 76561198349888524 Name: PLUS.GG  csgobounty.com Character: hotdog
+hotdog connected with IP 46.146.125.112
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [3038]
+
+[World] Expert1337 [Expert13372284200]: "/day"
+
+END
+Connecting: PlayerID: 76561198430964141 Name: tolikoleshki Character: tolik
+
+tolik connected with IP 91.225.117.4
+
+[World] Expert1337 [Expert13372284200]: "он не даст да не проси"
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [3048]
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [3048]
+
+[World] Junumehup [dexter.mixer]: "/kit"
+
+[World] Junumehup [dexter.mixer]: "/kits"
+
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 203
+PlayerID: 76561198315561906 Name: MaXiMuS Character: valuxa1984 Ping: 53
+PlayerID: 76561198265247601 Name: BisonbonasusPlay Character: Dmitriy Ping: 91
+PlayerID: 76561198384139999 Name: agat84 Character: Mr.Shadou Ping: 86
+PlayerID: 76561198373217525 Name: Weruklof Character: Циско Рамон Ping: 98
+PlayerID: 76561198444929071 Name: dexter.mixer Character: Junumehup Ping: 28
+PlayerID: 76561198349888524 Name: PLUS.GG  csgobounty.com Character: hotdog Ping: 28
+PlayerID: 76561198430964141 Name: tolikoleshki Character: tolik Ping: 239
+
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 28076003
+PlayerID: 76561198336969313
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 191236
+PlayerID: 76561198212486347
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 191567
+PlayerID: 76561198391097237
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 354054
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30956281
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30956297
+
+END
+END
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [3058]
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [3059]
+
+[World] hotdog [PLUS.GG  csgobounty.com]: "GHTN"
+
+MessageAnnouncer >> Broadcast: Посетите наш сайт. Вы будете удивлены! unturned.hemulgm.ru
+
+MessageAnnouncer >> Посетите наш сайт. Вы будете удивлены! unturned.hemulgm.ru
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [3068]
+
+[World] hotdog [PLUS.GG  csgobounty.com]: "ПРЕТ"
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [3069]
+
+[World] hotdog [PLUS.GG  csgobounty.com]: "ОТДАМ VIPER"
+
+Client has executed command "players"
+
+Players:
+PlayerID: 76561198366549870 Name: Expert13372284200 Character: Expert1337 Ping: 208
+PlayerID: 76561198315561906 Name: MaXiMuS Character: valuxa1984 Ping: 55
+PlayerID: 76561198265247601 Name: BisonbonasusPlay Character: Dmitriy Ping: 192
+PlayerID: 76561198384139999 Name: agat84 Character: Mr.Shadou Ping: 85
+PlayerID: 76561198373217525 Name: Weruklof Character: Циско Рамон Ping: 92
+PlayerID: 76561198444929071 Name: dexter.mixer Character: Junumehup Ping: 33
+PlayerID: 76561198349888524 Name: PLUS.GG  csgobounty.com Character: hotdog Ping: 28
+PlayerID: 76561198430964141 Name: tolikoleshki Character: tolik Ping: 133
+
+Client has executed command "bans"
+
+Bans:
+PlayerID: 76561197966773788
+JudgeID: 0
+Reason: 900000 Duration: 31536000 Remaining: 28075983
+PlayerID: 76561198336969313
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 191216
+PlayerID: 76561198212486347
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 191547
+PlayerID: 76561198391097237
+JudgeID: 0
+Reason: reid Duration: 604800 Remaining: 354034
+PlayerID: 76561198190667017
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30956261
+PlayerID: 76561198374710965
+JudgeID: 0
+Reason: cheater Duration: 31104000 Remaining: 30956277
+
+END
+[World] hotdog [PLUS.GG  csgobounty.com]: "ng"
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [3078]
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [3079]
+
+END
+[World] hotdog [PLUS.GG  csgobounty.com]: "тп"
+
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [3088]
+
+GET NOW
+Client has executed command "GET NOW"
+
+ServerControl >> VALUE NOW [0] [0] [3089]
+
