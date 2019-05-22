@@ -458,7 +458,9 @@ begin
    STable:=FDatabase.GetTable(GetSQL);
    while not STable.EOF do
     begin
-     Table.Add(Item.Create(STable.FieldAsInteger(0), STable.FieldAsString(1), STable.FieldAsInteger(2)));
+     Item := TKitItem.Create(STable.FieldAsInteger(0), STable.FieldAsString(1), STable.FieldAsInteger(2));
+
+     Table.Add(Item);
      STable.Next;
     end;
    EndCreate;

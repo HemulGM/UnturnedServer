@@ -2378,9 +2378,9 @@ begin
    FGameEventManager.Start;
   end;
 
- Log(FLogSystem, 'Запуск потока работы с Телеграмом');
- Application.ProcessMessages;
- FThreadTelegram.Start;
+ //Log(FLogSystem, 'Запуск потока работы с Телеграмом');
+ //Application.ProcessMessages;
+ //FThreadTelegram.Start;
 
  Log(FLogSystem, 'Загрузка данных из базы данных сервера');
  RefreshPlayerInfo;
@@ -3029,9 +3029,19 @@ begin
 end;
 
 procedure TFormMain.FUpdateUExplorerData;
+var i, k: Integer;
+    BMP: TBitmap;
 begin
  FUExplorer.GetDataItems(TDisplayDataItems(FUItems));
  FUExplorer.GetDataVehicles(TDisplayDataVehicles(FUVehicles));
+ BMP := TBitmap.Create;
+ for k:= 0 to FKits.Count-1 do
+  for i := 0 to FKits[k].Count - 1 do
+  begin
+    FUExplorer.GetItemIcon(StrToInt(FKits[k][i].ID), BMP);
+    FKits[k][i].Pic.Assign(BMP);
+  end;
+ BMP.Free;
 end;
 
 procedure TFormMain.GetCommands(Data: TStringList);
@@ -3340,414 +3350,162 @@ begin
    AddColumn('Дата регистрации', 120);
    AddColumn('Баланс', 100);
    AddColumn('Счёт', 100);
+
   end;
 
  with TableExBans do
   begin
-   with Columns[AddColumn] do
-    begin
-     Caption:='Steam ID';
-     Width:=130;
-    end;
-   with Columns[AddColumn] do
-    begin
-     Caption:='Steam';
-     Width:=100;
-    end;
-   with Columns[AddColumn] do
-    begin
-     Caption:='Ник';
-     Width:=100;
-    end;
-   with Columns[AddColumn] do
-    begin
-     Caption:='Модер.';
-     Width:=90;
-    end;
-   with Columns[AddColumn] do
-    begin
-     Caption:='Причина';
-     Width:=120;
-    end;
-   with Columns[AddColumn] do
-    begin
-     Caption:='Срок';
-     Width:=70;
-    end;
-   with Columns[AddColumn] do
-    begin
-     Caption:='Осталось';
-     Width:=110;
-    end;
+   AddColumn('Steam ID', 130);
+   AddColumn('Steam', 100);
+   AddColumn('Ник', 100);
+   AddColumn('Модер.', 90);
+   AddColumn('Причина', 120);
+   AddColumn('Срок', 70);
+   AddColumn('Осталось', 110);
    SetMaxColumn(6);
   end;
 
  with TableExChat do
   begin
-   with Columns[AddColumn] do
-    begin
-     Caption:='';
-     Width:=30;
-    end;
-   with Columns[AddColumn] do
-    begin
-     Caption:='Игрок';
-     Width:=150;
-    end;
-   with Columns[AddColumn] do
-    begin
-     Caption:='Сообщение';
-     Width:=450;
-    end;
-   with Columns[AddColumn] do
-    begin
-     Caption:='Время';
-     Width:=120;
-    end;
+   AddColumn('', 30);
+   AddColumn('Игрок', 150);
+   AddColumn('Сообщение', 450);
+   AddColumn('Время', 120);
    SetMaxColumn(2);
   end;
 
  with TableExMiniChat do
   begin
-   with Columns[AddColumn] do
-    begin
-     Caption:='';
-     Width:=20;
-    end;
-   with Columns[AddColumn] do
-    begin
-     Caption:='Игрок';
-     Width:=110;
-    end;
-   with Columns[AddColumn] do
-    begin
-     Caption:='Сообщение';
-     Width:=190;
-    end;
-   with Columns[AddColumn] do
-    begin
-     Caption:='Время';
-     Width:=50;
-    end;
+   AddColumn('', 20);
+   AddColumn('Игрок', 110);
+   AddColumn('Сообщение', 190);
+   AddColumn('Время', 50);
    SetMaxColumn(2);
   end;
 
  with TableExFastChat do
   begin
-   with Columns[AddColumn] do
-    begin
-     Caption:='';
-     Width:=20;
-    end;
-   with Columns[AddColumn] do
-    begin
-     Caption:='Игрок';
-     Width:=55;
-    end;
-   with Columns[AddColumn] do
-    begin
-     Caption:='Сообщение';
-     Width:=160;
-    end;
+   AddColumn('', 20);
+   AddColumn('Игрок', 55);
+   AddColumn('Сообщение', 160);
    SetMaxColumn(2);
   end;
 
  with TableExAdmins do
   begin
-   with Columns[AddColumn] do
-    begin
-     Caption:='Steam ID';
-     Width:=130;
-    end;
-   with Columns[AddColumn] do
-    begin
-     Caption:='Steam';
-     Width:=100;
-    end;
-   with Columns[AddColumn] do
-    begin
-     Caption:='Ник';
-     Width:=100;
-    end;
-   with Columns[AddColumn] do
-    begin
-     Caption:='Модер.';
-     Width:=90;
-    end;
+   AddColumn('Steam ID', 130);
+   AddColumn('Steam', 100);
+   AddColumn('Ник', 100);
+   AddColumn('Модер.', 90);
    SetMaxColumn(3);
   end;
 
  with TableExPlayersRev do
   begin
-   with Columns[AddColumn] do
-    begin
-     Caption:='';
-     Width:=20;
-    end;
-   with Columns[AddColumn] do
-    begin
-     Caption:='Событие';
-     Width:=90;
-    end;
-   with Columns[AddColumn] do
-    begin
-     Caption:='Игрок';
-     Width:=150;
-    end;
-   with Columns[AddColumn] do
-    begin
-     Caption:='Время';
-     Width:=50;
-    end;
+   AddColumn('', 20);
+   AddColumn('Событие', 90);
+   AddColumn('Игрок', 150);
+   AddColumn('Время', 50);
    SetMaxColumn(3);
   end;
 
  with TableExKits do
   begin
-   with Columns[AddColumn] do
-    begin
-     Caption:='';
-     Width:=32;
-    end; 
-   with Columns[AddColumn] do
-    begin
-     Caption:='Название';
-     Width:=100;
-    end;
-   with Columns[AddColumn] do
-    begin
-     Caption:='Элементов';
-     Width:=70;
-    end;
-   with Columns[AddColumn] do
-    begin
-     Caption:='';
-     Width:=70;
-     AsButton:=True;
-    end;
+   AddColumn('', 32);
+   AddColumn('Название', 100);
+   AddColumn('Элементов', 70);
+   Columns[AddColumn('', 70)].AsButton := True;
    SetMaxColumn(1);
   end;
 
  with TableExKitData do
   begin
-   with Columns[AddColumn] do
-    begin
-     Caption:='';
-     Width:=32;
-    end; 
-   with Columns[AddColumn] do
-    begin
-     Caption:='';
-     Width:=32;
-    end;   
-   with Columns[AddColumn] do
-    begin
-     Caption:='ID';
-     Width:=80;
-    end;
-   with Columns[AddColumn] do
-    begin
-     Caption:='Название';
-     Width:=170;
-    end;
-   with Columns[AddColumn] do
-    begin
-     Caption:='Элементов';
-     Width:=70;
-    end;   
-   with Columns[AddColumn] do
-    begin
-     Caption:='';
-     Width:=70;
-     AsButton:=True;
-    end;
+   AddColumn('', 32);
+   AddColumn('', 32);
+   AddColumn('ID', 80);
+   AddColumn('Название', 170);
+   AddColumn('Элементов', 70);
+   Columns[AddColumn('', 70)].AsButton := True;
    SetMaxColumn(3);
   end; 
 
  with TableExGroupPlayers do
   begin
-   with Columns[AddColumn] do
-    begin
-     Caption:='№ п/п';
-     Width:=50;
-    end;
-   with Columns[AddColumn] do
-    begin
-     Caption:='Игрок';
-     Width:=100;
-    end;
-   with Columns[AddColumn] do
-    begin
-     Caption:='';
-     Width:=90;
-     AsButton:=True;
+   AddColumn('№ п/п', 50);
+   AddColumn('Игрок', 100);
+   with Columns[AddColumn('', 90)] do
+   begin
      ShowButtonOnlySelect:=True;
-    end;
+     AsButton := True;
+   end;
    SetMaxColumn(1);
   end;
 
  with TableExMapPoints do
   begin
-   with Columns[AddColumn] do
-    begin
-     Caption:='Название';
-     Width:=50;
-    end;
+   AddColumn('Название', 50);
    SetMaxColumn(0);
   end;
 
  with TableExActions do
   begin
-   with Columns[AddColumn] do
-    begin
-     Caption:='';
-     Width:=120;
-    end;
-   with Columns[AddColumn] do
-    begin
-     Caption:='Действие';
-     Width:=220;
-    end;
+   AddColumn('', 120);
+   AddColumn('Действие', 220);
    SetMaxColumn(1);
   end;
 
  with TableExLogSystem do
   begin
-   with Columns[AddColumn] do
-    begin
-     Caption:='';
-     Width:=120;
-    end;
-   with Columns[AddColumn] do
-    begin
-     Caption:='Данные';
-     Width:=220;
-    end;
+   AddColumn('', 120);
+   AddColumn('Данные', 220);
    SetMaxColumn(1);
   end;
 
  with TableExLogCommands do
   begin
-   with Columns[AddColumn] do
-    begin
-     Caption:='';
-     Width:=120;
-    end;
-   with Columns[AddColumn] do
-    begin
-     Caption:='Данные';
-     Width:=220;
-    end;
+   AddColumn('', 120);
+   AddColumn('Данные', 220);
    SetMaxColumn(1);
   end;
 
  with TableExLogGamePlay do
   begin
-   with Columns[AddColumn] do
-    begin
-     Caption:='';
-     Width:=120;
-    end;
-   with Columns[AddColumn] do
-    begin
-     Caption:='Данные';
-     Width:=220;
-    end;
+   AddColumn('', 120);
+   AddColumn('Данные', 220);
    SetMaxColumn(1);
   end;
 
  with TableExLogRCON do
   begin
-   with Columns[AddColumn] do
-    begin
-     Caption:='';
-     Width:=120;
-    end;
-   with Columns[AddColumn] do
-    begin
-     Caption:='Данные';
-     Width:=220;
-    end;
+   AddColumn('', 120);
+   AddColumn('Данные', 220);
    SetMaxColumn(1);
   end;
 
  with TableExLogSystemFace do
   begin
-   with Columns[AddColumn] do
-    begin
-     Caption:='';
-     Width:=120;
-    end;
-   with Columns[AddColumn] do
-    begin
-     Caption:='Данные';
-     Width:=220;
-    end;
+   AddColumn('', 120);
+   AddColumn('Данные', 220);
    SetMaxColumn(1);
   end;
 
  with TableExDonat do
   begin
-   with Columns[AddColumn] do
-    begin
-     Caption:='';
-     Width:=20;
-    end;
-   with Columns[AddColumn] do
-    begin
-     Caption:='Игрок';
-     Width:=260;
-    end;     
-   with Columns[AddColumn] do
-    begin
-     Caption:='Группа';
-     Width:=100;
-    end;
-   with Columns[AddColumn] do
-    begin
-     Caption:='Дата начала';
-     Width:=160;
-    end;
-   with Columns[AddColumn] do
-    begin
-     Caption:='Дата окончания';
-     Width:=160;
-    end;
-   with Columns[AddColumn] do
-    begin
-     Caption:='Состояние';
-     Width:=100;
-    end;
+   AddColumn('', 20);
+   AddColumn('Игрок', 260);
+   AddColumn('Группа', 100);
+   AddColumn('Дата начала', 160);
+   AddColumn('Дата окончания', 160);
+   AddColumn('Состояние', 100);
   end;
 
  with TableExMSG do
   begin
-   with Columns[AddColumn] do
-    begin
-     Caption:='';
-     Width:=30;
-    end;
-   with Columns[AddColumn] do
-    begin
-     Caption:='';
-     Width:=20;
-    end;
-   with Columns[AddColumn] do
-    begin
-     Caption:='Текст сообщения';
-     Width:=500;
-    end;
-   with Columns[AddColumn] do
-    begin
-     Caption:='Цвет';
-     Width:=100;
-    end;
-   with Columns[AddColumn] do
-    begin
-     Caption:='';
-     Width:=100;
-     AsButton:=True;
-    end;
+   AddColumn('', 30);
+   AddColumn('', 20);
+   AddColumn('Текст сообщения', 500);
+   AddColumn('Цвет', 100);
+   Columns[AddColumn('', 100)].AsButton := True;
   end;
 end;
 
@@ -5414,20 +5172,13 @@ begin
 end;
 
 procedure TFormMain.TableExKitDataDrawCellData(Sender: TObject; ACol, ARow: Integer; Rect: TRect; State: TGridDrawState);
-var PNG:TPngImage;
 begin
  if not IndexInList(FSelKit, FKits.Count) then Exit;
  if not IndexInList(ARow, FKits[FSelKit].Count) then Exit;
  if ACol = 0 then
   begin
-   PNG:=TPngImage.Create;
-   if FUExplorer.GetItemIcon(StrToInt(FKits[FSelKit][ARow].ID), PNG, False) then
-    begin
-     PNG.TransparentColor:=clWhite;
-     PNG.Transparent:=True;
-     TableExKitData.Canvas.Draw(Rect.Left, Rect.Top, PNG);
-    end;
-   PNG.Free;
+    if Assigned(FKits[FSelKit][ARow].Pic) then
+     TableExKitData.Canvas.Draw(Rect.Left, Rect.Top, FKits[FSelKit][ARow].Pic);
   end;
 end;
 
@@ -5519,21 +5270,14 @@ begin
 end;
 
 procedure TFormMain.TableExKitsDrawCellData(Sender: TObject; ACol, ARow: Integer; Rect: TRect; State: TGridDrawState);
-var PNG:TPngImage;
-    i:Integer;
+var i:Integer;
 begin
  if not IndexInList(ARow, FKits.Count) then Exit;
  if ACol = 0 then
   begin
-   PNG:=TPngImage.Create;
    for i:= 0 to Min(3, FKits[ARow].Count-1) do
-    if FUExplorer.GetItemIcon(StrToInt(FKits[ARow][i].ID), PNG, False) then
-     begin
-      PNG.TransparentColor:=clWhite;
-      PNG.Transparent:=True;
-      TableExKits.Canvas.Draw(Rect.Left+i*2, Rect.Top+i*2, PNG);
-     end;
-   PNG.Free;
+     if Assigned(FKits[ARow][i].Pic) then
+       TableExKits.Canvas.Draw(Rect.Left+i*2, Rect.Top+i*2, FKits[ARow][i].Pic);
   end;
 end;
 

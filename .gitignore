@@ -73,3 +73,6 @@ modules/
 Win32/Release/Config.ini
 Win32/Release/database.db
 *.db
+*.log
+*.db
+*.ini

@@ -649,6 +649,7 @@
           OnItemClick = TableExMiniChatItemClick
           GetData = TableExFastChatGetData
           OnEdit = TableExFastChatEdit
+          Columns = <>
           ShowScrollBar = False
           CanNoSelect = False
           ItemCount = 2
@@ -677,11 +678,7 @@
           ColumnsFont.Height = -11
           ColumnsFont.Name = 'Tahoma'
           ColumnsFont.Style = []
-          ColWidths = (
-            249)
-          RowHeights = (
-            25
-            25)
+          LastColumnAutoSize = False
         end
       end
       object PanelOnline: TPanel
@@ -724,6 +721,7 @@
           OnDrawCellData = ListBoxExPlayersDrawCellData
           ItemIndex = -1
           OnItemClick = ListBoxExPlayersItemClick
+          Columns = <>
           DefaultDataDrawing = False
           ShowScrollBar = False
           CanNoSelect = False
@@ -754,13 +752,7 @@
           ColumnsFont.Height = -11
           ColumnsFont.Name = 'Tahoma'
           ColumnsFont.Style = [fsBold]
-          ColWidths = (
-            249)
-          RowHeights = (
-            30
-            30
-            30
-            30)
+          LastColumnAutoSize = False
         end
         object PanelPlayersInfo: TPanel
           Left = 0
@@ -1001,6 +993,7 @@
         TabOrder = 1
         ItemIndex = -1
         GetData = TableExLogGamePlayGetData
+        Columns = <>
         ShowScrollBar = False
         CanNoSelect = False
         ItemCount = 2
@@ -1029,11 +1022,7 @@
         ColumnsFont.Height = -11
         ColumnsFont.Name = 'Tahoma'
         ColumnsFont.Style = []
-        ColWidths = (
-          476)
-        RowHeights = (
-          25
-          25)
+        LastColumnAutoSize = False
       end
       object Panel26: TPanel
         Left = 0
@@ -1074,6 +1063,7 @@
           TabOrder = 0
           ItemIndex = -1
           GetData = TableExLogCommandsGetData
+          Columns = <>
           ShowScrollBar = False
           CanNoSelect = False
           ItemCount = 2
@@ -1102,11 +1092,7 @@
           ColumnsFont.Height = -11
           ColumnsFont.Name = 'Tahoma'
           ColumnsFont.Style = []
-          ColWidths = (
-            337)
-          RowHeights = (
-            25
-            25)
+          LastColumnAutoSize = False
         end
         object TableExLogSystemFace: TTableEx
           Left = 339
@@ -1128,6 +1114,7 @@
           ItemIndex = -1
           GetData = TableExLogSystemGetData
           OnEdit = TableExLogSystemFaceEdit
+          Columns = <>
           ShowScrollBar = False
           CanNoSelect = False
           ItemCount = 2
@@ -1156,11 +1143,7 @@
           ColumnsFont.Height = -11
           ColumnsFont.Name = 'Tahoma'
           ColumnsFont.Style = []
-          ColWidths = (
-            378)
-          RowHeights = (
-            25
-            25)
+          LastColumnAutoSize = False
         end
       end
     end
@@ -1184,16 +1167,12 @@
         Margins.Top = 0
         Margins.Right = 0
         Margins.Bottom = 0
-        ActivePage = TabSheetDB
+        ActivePage = TabSheetMain
         Anchors = [akLeft, akTop, akRight, akBottom]
         TabOrder = 0
         object TabSheetMain: TTabSheet
           Caption = #1043#1083#1072#1074#1085#1072#1103
           TabVisible = False
-          ExplicitLeft = 0
-          ExplicitTop = 0
-          ExplicitWidth = 0
-          ExplicitHeight = 0
           object ScrollBoxMonitor: TScrollBox
             Left = 0
             Top = 0
@@ -1861,6 +1840,7 @@
                 OnItemClick = TableExMiniChatItemClick
                 GetData = TableExMiniChatGetData
                 OnEdit = TableExFastChatEdit
+                Columns = <>
                 ShowScrollBar = False
                 CanNoSelect = False
                 VisibleEdit = False
@@ -1890,11 +1870,7 @@
                 ColumnsFont.Height = -11
                 ColumnsFont.Name = 'Tahoma'
                 ColumnsFont.Style = []
-                ColWidths = (
-                  396)
-                RowHeights = (
-                  31
-                  31)
+                LastColumnAutoSize = False
               end
             end
             object PanelStat: TPanelCollapsed
@@ -2668,7 +2644,7 @@
                   Left = 3
                   Top = 0
                   Width = 9
-                  Height = 21
+                  Height = 23
                   Hint = 'TimerUpdate'
                   Margins.Top = 0
                   Margins.Bottom = 0
@@ -2680,13 +2656,14 @@
                   Font.Name = 'Tahoma'
                   Font.Style = []
                   ParentFont = False
+                  ExplicitHeight = 21
                 end
                 object LabelTimerRestart: TLabel
                   AlignWithMargins = True
                   Left = 48
                   Top = 0
                   Width = 9
-                  Height = 21
+                  Height = 23
                   Hint = 'TimerRestart'
                   Margins.Top = 0
                   Margins.Bottom = 0
@@ -2698,13 +2675,14 @@
                   Font.Name = 'Tahoma'
                   Font.Style = []
                   ParentFont = False
+                  ExplicitHeight = 21
                 end
                 object LabelTimerCheckDonat: TLabel
                   AlignWithMargins = True
                   Left = 18
                   Top = 0
                   Width = 9
-                  Height = 21
+                  Height = 23
                   Hint = 'TimerCheckDonat'
                   Margins.Top = 0
                   Margins.Bottom = 0
@@ -2716,13 +2694,14 @@
                   Font.Name = 'Tahoma'
                   Font.Style = []
                   ParentFont = False
+                  ExplicitHeight = 21
                 end
                 object LabelTimerHearthBeat: TLabel
                   AlignWithMargins = True
                   Left = 33
                   Top = 0
                   Width = 9
-                  Height = 21
+                  Height = 23
                   Hint = 'TimerHearthBeat'
                   Margins.Top = 0
                   Margins.Bottom = 0
@@ -2734,6 +2713,7 @@
                   Font.Name = 'Tahoma'
                   Font.Style = []
                   ParentFont = False
+                  ExplicitHeight = 21
                 end
               end
             end
@@ -3141,6 +3121,7 @@
                 ItemIndex = -1
                 OnItemClick = TableExMapPointsItemClick
                 GetData = TableExMapPointsGetData
+                Columns = <>
                 ShowScrollBar = False
                 CanNoSelect = False
                 ItemCount = 4
@@ -3170,13 +3151,6 @@
                 ColumnsFont.Height = -11
                 ColumnsFont.Name = 'Tahoma'
                 ColumnsFont.Style = [fsBold]
-                ColWidths = (
-                  199)
-                RowHeights = (
-                  30
-                  30
-                  30
-                  30)
               end
               object EditTPPlace: TEdit
                 AlignWithMargins = True
@@ -3263,6 +3237,7 @@
                 ItemIndex = -1
                 OnItemClick = TableExPlayersRevItemClick
                 GetData = TableExPlayersRevGetData
+                Columns = <>
                 ShowScrollBar = False
                 CanNoSelect = False
                 ItemCount = 2
@@ -3292,11 +3267,7 @@
                 ColumnsFont.Height = -11
                 ColumnsFont.Name = 'Tahoma'
                 ColumnsFont.Style = []
-                ColWidths = (
-                  396)
-                RowHeights = (
-                  25
-                  25)
+                LastColumnAutoSize = False
               end
               object Panel18: TPanel
                 AlignWithMargins = True
@@ -4261,6 +4232,7 @@
                 ItemIndex = -1
                 GetData = TableExActionsGetData
                 OnEdit = TableExActionsEdit
+                Columns = <>
                 ShowScrollBar = False
                 CanNoSelect = False
                 ItemCount = 2
@@ -4290,11 +4262,7 @@
                 ColumnsFont.Height = -11
                 ColumnsFont.Name = 'Tahoma'
                 ColumnsFont.Style = []
-                ColWidths = (
-                  396)
-                RowHeights = (
-                  25
-                  25)
+                LastColumnAutoSize = False
               end
               object Panel24: TPanel
                 AlignWithMargins = True
@@ -4732,10 +4700,6 @@
           Caption = #1051#1086#1075
           ImageIndex = 1
           TabVisible = False
-          ExplicitLeft = 0
-          ExplicitTop = 0
-          ExplicitWidth = 0
-          ExplicitHeight = 0
           object SplitterSysLog: TSplitter
             Left = 0
             Top = 406
@@ -4769,6 +4733,7 @@
             TabOrder = 0
             ItemIndex = -1
             GetData = TableExLogRCONGetData
+            Columns = <>
             ShowScrollBar = False
             CanNoSelect = False
             ItemCount = 2
@@ -4797,11 +4762,6 @@
             ColumnsFont.Height = -11
             ColumnsFont.Name = 'Tahoma'
             ColumnsFont.Style = []
-            ColWidths = (
-              930)
-            RowHeights = (
-              25
-              25)
           end
           object TableExLogSystem: TTableEx
             Left = 0
@@ -4822,6 +4782,7 @@
             TabOrder = 1
             ItemIndex = -1
             GetData = TableExLogSystemGetData
+            Columns = <>
             ShowScrollBar = False
             CanNoSelect = False
             ItemCount = 2
@@ -4850,21 +4811,12 @@
             ColumnsFont.Height = -11
             ColumnsFont.Name = 'Tahoma'
             ColumnsFont.Style = []
-            ColWidths = (
-              930)
-            RowHeights = (
-              25
-              25)
           end
         end
         object TabSheetChat: TTabSheet
           Caption = #1063#1072#1090
           ImageIndex = 2
           TabVisible = False
-          ExplicitLeft = 0
-          ExplicitTop = 0
-          ExplicitWidth = 0
-          ExplicitHeight = 0
           object TableExChat: TTableEx
             Left = 0
             Top = 30
@@ -4882,6 +4834,7 @@
             OnItemClick = TableExChatItemClick
             GetData = TableExChatGetData
             OnEdit = TableExChatEdit
+            Columns = <>
             CanNoSelect = False
             VisibleEdit = False
             ItemCount = 1
@@ -4910,11 +4863,6 @@
             ColumnsFont.Height = -11
             ColumnsFont.Name = 'Tahoma'
             ColumnsFont.Style = [fsBold]
-            ColWidths = (
-              913)
-            RowHeights = (
-              30
-              25)
           end
           object PanelChatSend: TPanel
             Left = 0
@@ -5182,11 +5130,12 @@
               Left = 33
               Top = 3
               Width = 44
-              Height = 16
+              Height = 24
               Margins.Left = 6
               Align = alLeft
               Caption = #1060#1080#1083#1100#1090#1088
               Layout = tlCenter
+              ExplicitHeight = 16
             end
             object SpeedButtonChatFilter: TsSpeedButton
               Left = 347
@@ -5370,10 +5319,6 @@
           Caption = #1041#1088#1072#1091#1079#1077#1088
           ImageIndex = 5
           TabVisible = False
-          ExplicitLeft = 0
-          ExplicitTop = 0
-          ExplicitWidth = 0
-          ExplicitHeight = 0
           object WebBrowserInfo: TWebBrowser
             Left = 0
             Top = 34
@@ -5978,10 +5923,6 @@
           Caption = #1053#1072#1089#1090#1088#1086#1081#1082#1080
           ImageIndex = 6
           TabVisible = False
-          ExplicitLeft = 0
-          ExplicitTop = 0
-          ExplicitWidth = 0
-          ExplicitHeight = 0
           object ScrollBox1: TScrollBox
             Left = 0
             Top = 0
@@ -6084,7 +6025,7 @@
                   Left = 3
                   Top = 3
                   Width = 150
-                  Height = 16
+                  Height = 17
                   Align = alLeft
                   Caption = #1041#1072#1079#1072' '#1076#1072#1085#1085#1099#1093' Unturned'
                   Font.Charset = DEFAULT_CHARSET
@@ -6093,6 +6034,7 @@
                   Font.Name = 'Tahoma'
                   Font.Style = [fsBold]
                   ParentFont = False
+                  ExplicitHeight = 16
                 end
                 object Panel21: TPanel
                   Left = 0
@@ -6268,7 +6210,7 @@
                   Left = 3
                   Top = 3
                   Width = 127
-                  Height = 16
+                  Height = 17
                   Align = alLeft
                   Caption = #1051#1086#1082#1072#1083#1100#1085#1099#1077' '#1092#1072#1081#1083#1099
                   Font.Charset = DEFAULT_CHARSET
@@ -6277,6 +6219,7 @@
                   Font.Name = 'Tahoma'
                   Font.Style = [fsBold]
                   ParentFont = False
+                  ExplicitHeight = 16
                 end
                 object Panel20: TPanel
                   Left = 0
@@ -6376,7 +6319,7 @@
                   Left = 3
                   Top = 3
                   Width = 34
-                  Height = 16
+                  Height = 18
                   Align = alLeft
                   Caption = 'RCON'
                   Font.Charset = DEFAULT_CHARSET
@@ -6385,6 +6328,7 @@
                   Font.Name = 'Tahoma'
                   Font.Style = [fsBold]
                   ParentFont = False
+                  ExplicitHeight = 16
                 end
                 object Panel10: TPanel
                   Left = 0
@@ -6513,7 +6457,7 @@
                   Left = 3
                   Top = 3
                   Width = 127
-                  Height = 16
+                  Height = 17
                   Align = alLeft
                   Caption = #1041#1072#1079#1072' '#1076#1072#1085#1085#1099#1093' '#1089#1072#1081#1090#1072
                   Font.Charset = DEFAULT_CHARSET
@@ -6522,6 +6466,7 @@
                   Font.Name = 'Tahoma'
                   Font.Style = [fsBold]
                   ParentFont = False
+                  ExplicitHeight = 16
                 end
                 object Panel22: TPanel
                   Left = 0
@@ -6696,7 +6641,7 @@
                   Left = 2
                   Top = 0
                   Width = 213
-                  Height = 25
+                  Height = 26
                   Margins.Left = 2
                   Margins.Top = 0
                   Margins.Right = 2
@@ -6709,6 +6654,7 @@
                   Font.Name = 'Segoe UI Light'
                   Font.Style = []
                   ParentFont = False
+                  ExplicitHeight = 25
                 end
               end
               object Panel14: TPanel
@@ -6730,7 +6676,7 @@
                   Left = 2
                   Top = 0
                   Width = 155
-                  Height = 25
+                  Height = 26
                   Margins.Left = 2
                   Margins.Top = 0
                   Margins.Right = 2
@@ -6743,6 +6689,7 @@
                   Font.Name = 'Segoe UI Light'
                   Font.Style = []
                   ParentFont = False
+                  ExplicitHeight = 25
                 end
               end
               object PanelVK: TPanel
@@ -6765,7 +6712,7 @@
                   Left = 3
                   Top = 3
                   Width = 67
-                  Height = 16
+                  Height = 17
                   Align = alLeft
                   Caption = #1043#1088#1091#1087#1087#1072' '#1042#1050
                   Font.Charset = DEFAULT_CHARSET
@@ -6774,6 +6721,7 @@
                   Font.Name = 'Tahoma'
                   Font.Style = [fsBold]
                   ParentFont = False
+                  ExplicitHeight = 16
                 end
                 object Panel5: TPanel
                   Left = 0
@@ -6924,7 +6872,7 @@
                   Left = 3
                   Top = 3
                   Width = 108
-                  Height = 16
+                  Height = 18
                   Align = alLeft
                   Caption = #1040#1076#1088#1077#1089#1072' '#1089#1090#1088#1072#1085#1080#1094
                   Font.Charset = DEFAULT_CHARSET
@@ -6933,6 +6881,7 @@
                   Font.Name = 'Tahoma'
                   Font.Style = [fsBold]
                   ParentFont = False
+                  ExplicitHeight = 16
                 end
                 object Panel17: TPanel
                   Left = 0
@@ -6956,20 +6905,22 @@
                     Left = 3
                     Top = 3
                     Width = 87
-                    Height = 14
+                    Height = 23
                     Align = alLeft
                     Caption = #1057#1072#1081#1090' '#1089#1077#1088#1074#1077#1088#1072':'
                     Layout = tlCenter
+                    ExplicitHeight = 14
                   end
                   object Label25: TLabel
                     AlignWithMargins = True
                     Left = 425
                     Top = 3
                     Width = 95
-                    Height = 14
+                    Height = 23
                     Align = alLeft
                     Caption = #1050#1072#1088#1090#1072' '#1089#1077#1088#1074#1077#1088#1072':'
                     Layout = tlCenter
+                    ExplicitHeight = 14
                   end
                   object EditSiteAddress: TEdit
                     AlignWithMargins = True
@@ -7039,7 +6990,7 @@
                   Left = 2
                   Top = 0
                   Width = 109
-                  Height = 25
+                  Height = 26
                   Margins.Left = 2
                   Margins.Top = 0
                   Margins.Right = 2
@@ -7052,6 +7003,7 @@
                   Font.Name = 'Segoe UI Light'
                   Font.Style = []
                   ParentFont = False
+                  ExplicitHeight = 25
                 end
               end
               object Panel33: TPanel
@@ -7074,7 +7026,7 @@
                   Left = 3
                   Top = 3
                   Width = 201
-                  Height = 16
+                  Height = 14
                   Align = alLeft
                   Caption = #1041#1072#1079#1072' '#1087#1088#1077#1076#1084#1077#1090#1086#1074' '#1080' '#1090#1088#1072#1085#1089#1087#1086#1088#1090#1072
                   Font.Charset = DEFAULT_CHARSET
@@ -7083,6 +7035,7 @@
                   Font.Name = 'Tahoma'
                   Font.Style = [fsBold]
                   ParentFont = False
+                  ExplicitHeight = 16
                 end
                 object Panel34: TPanel
                   Left = 0
@@ -7172,7 +7125,7 @@
                   Left = 3
                   Top = 3
                   Width = 55
-                  Height = 16
+                  Height = 14
                   Align = alLeft
                   Caption = #1041#1088#1072#1091#1079#1077#1088
                   Font.Charset = DEFAULT_CHARSET
@@ -7181,6 +7134,7 @@
                   Font.Name = 'Tahoma'
                   Font.Style = [fsBold]
                   ParentFont = False
+                  ExplicitHeight = 16
                 end
                 object Panel43: TPanel
                   Left = 0
@@ -7232,10 +7186,6 @@
           Caption = #1059#1087#1088#1072#1074#1083#1077#1085#1080#1077' '#1089#1087#1080#1089#1082#1072#1084#1080
           ImageIndex = 7
           TabVisible = False
-          ExplicitLeft = 0
-          ExplicitTop = 0
-          ExplicitWidth = 0
-          ExplicitHeight = 0
           object Panel28: TPanel
             Left = 0
             Top = 0
@@ -7320,6 +7270,7 @@
                 GetData = TableExMSGGetData
                 OnEdit = TableExMSGEdit
                 OnEditOk = TableExMSGEditOk
+                Columns = <>
                 CanNoSelect = False
                 VisibleEdit = False
                 ItemCount = 1
@@ -7348,11 +7299,6 @@
                 ColumnsFont.Height = -11
                 ColumnsFont.Name = 'Tahoma'
                 ColumnsFont.Style = [fsBold]
-                ColWidths = (
-                  903)
-                RowHeights = (
-                  30
-                  30)
               end
             end
             object Panel37: TPanel
@@ -7386,6 +7332,7 @@
                 GetData = TableExKitsGetData
                 OnEdit = TableExKitsEdit
                 OnEditOk = TableExKitsEditOk
+                Columns = <>
                 CanNoSelect = False
                 VisibleEdit = False
                 ItemCount = 1
@@ -7414,11 +7361,6 @@
                 ColumnsFont.Height = -11
                 ColumnsFont.Name = 'Tahoma'
                 ColumnsFont.Style = [fsBold]
-                ColWidths = (
-                  395)
-                RowHeights = (
-                  30
-                  30)
               end
               object Panel38: TPanel
                 Left = 0
@@ -7497,6 +7439,7 @@
                 GetData = TableExKitDataGetData
                 OnEdit = TableExKitDataEdit
                 OnEditOk = TableExKitDataEditOk
+                Columns = <>
                 CanNoSelect = False
                 VisibleEdit = False
                 ItemCount = 1
@@ -7525,11 +7468,6 @@
                 ColumnsFont.Height = -11
                 ColumnsFont.Name = 'Tahoma'
                 ColumnsFont.Style = [fsBold]
-                ColWidths = (
-                  486)
-                RowHeights = (
-                  30
-                  30)
               end
               object Panel40: TPanel
                 Left = 0
@@ -7584,10 +7522,6 @@
           Caption = #1040#1076#1084#1080#1085#1099
           ImageIndex = 15
           TabVisible = False
-          ExplicitLeft = 0
-          ExplicitTop = 0
-          ExplicitWidth = 0
-          ExplicitHeight = 0
           object Panel13: TPanel
             Left = 0
             Top = 0
@@ -7798,6 +7732,7 @@
             ItemIndex = -1
             OnItemClick = TableExAdminsItemClick
             GetData = TableExAdminsGetData
+            Columns = <>
             CanNoSelect = False
             ItemCount = 4
             LineColor = 3355443
@@ -7825,24 +7760,12 @@
             ColumnsFont.Height = -11
             ColumnsFont.Name = 'Tahoma'
             ColumnsFont.Style = [fsBold]
-            ColWidths = (
-              913)
-            RowHeights = (
-              30
-              30
-              30
-              30
-              30)
           end
         end
         object TabSheetDBBans: TTabSheet
           Caption = #1041#1072#1085'-'#1083#1080#1089#1090
           ImageIndex = 13
           TabVisible = False
-          ExplicitLeft = 0
-          ExplicitTop = 0
-          ExplicitWidth = 0
-          ExplicitHeight = 0
           object TableExBans: TTableEx
             Left = 0
             Top = 30
@@ -7863,6 +7786,7 @@
             ItemIndex = -1
             OnItemClick = TableExBansItemClick
             GetData = TableExBansGetData
+            Columns = <>
             CanNoSelect = False
             ItemCount = 4
             LineColor = 3355443
@@ -7890,14 +7814,6 @@
             ColumnsFont.Height = -11
             ColumnsFont.Name = 'Tahoma'
             ColumnsFont.Style = [fsBold]
-            ColWidths = (
-              913)
-            RowHeights = (
-              30
-              30
-              30
-              30
-              30)
           end
           object Panel1: TPanel
             Left = 0
@@ -8098,10 +8014,6 @@
         object TabSheetDBPlayersInfo: TTabSheet
           Caption = #1042#1089#1077' '#1080#1075#1088#1086#1082#1080
           TabVisible = False
-          ExplicitLeft = 0
-          ExplicitTop = 0
-          ExplicitWidth = 0
-          ExplicitHeight = 0
           object TableExPlayerInfo: TTableEx
             Left = 0
             Top = 30
@@ -8124,6 +8036,7 @@
             OnColumnClick = TableExPlayerInfoColumnClick
             OnItemClick = TableExPlayerInfoItemClick
             GetData = TableExPlayerInfoGetData
+            Columns = <>
             CanNoSelect = False
             ItemCount = 4
             LineColor = 3355443
@@ -8151,14 +8064,6 @@
             ColumnsFont.Height = -11
             ColumnsFont.Name = 'Tahoma'
             ColumnsFont.Style = [fsBold]
-            ColWidths = (
-              913)
-            RowHeights = (
-              30
-              30
-              30
-              30
-              30)
           end
           object ProgressBarProc: TProgressBar
             Left = 0
@@ -8398,12 +8303,13 @@
               Left = 10
               Top = 3
               Width = 53
-              Height = 13
+              Height = 24
               Margins.Left = 10
               Margins.Right = 10
               Align = alLeft
               Caption = '1 '#1080#1079' 20000'
               Layout = tlCenter
+              ExplicitHeight = 13
             end
           end
         end
@@ -8411,10 +8317,6 @@
           Caption = #1048#1074#1077#1085#1090
           ImageIndex = 9
           TabVisible = False
-          ExplicitLeft = 0
-          ExplicitTop = 0
-          ExplicitWidth = 0
-          ExplicitHeight = 0
           object Panel2: TPanel
             Left = 0
             Top = 0
@@ -8451,6 +8353,7 @@
               ItemIndex = -1
               OnItemColClick = TableExGroupPlayersItemColClick
               GetData = TableExGroupPlayersGetData
+              Columns = <>
               ShowScrollBar = False
               CanNoSelect = False
               VisibleEdit = False
@@ -8481,10 +8384,6 @@
               ColumnsFont.Height = -11
               ColumnsFont.Name = 'Tahoma'
               ColumnsFont.Style = [fsBold]
-              ColWidths = (
-                300)
-              RowHeights = (
-                30)
             end
             object PanelCollapsed1: TPanelCollapsed
               AlignWithMargins = True
@@ -8517,7 +8416,6 @@
               FontCaption.Style = [fsBold]
               ShowSimpleBorder = True
               CaptionHeight = 30
-              ExplicitHeight = 604
               object SpeedButtonGroupHeal: TsSpeedButton
                 Left = 1
                 Top = 37
@@ -8900,6 +8798,7 @@
                 TabOrder = 2
                 ItemIndex = -1
                 GetData = TableExMapPointsGetData
+                Columns = <>
                 ShowScrollBar = False
                 CanNoSelect = False
                 ItemCount = 4
@@ -8929,13 +8828,6 @@
                 ColumnsFont.Height = -11
                 ColumnsFont.Name = 'Tahoma'
                 ColumnsFont.Style = [fsBold]
-                ColWidths = (
-                  229)
-                RowHeights = (
-                  30
-                  30
-                  30
-                  30)
               end
               object ComboBox1: TComboBox
                 Left = 222
@@ -9011,10 +8903,6 @@
           Caption = #1044#1086#1085#1072#1090
           ImageIndex = 10
           TabVisible = False
-          ExplicitLeft = 0
-          ExplicitTop = 0
-          ExplicitWidth = 0
-          ExplicitHeight = 0
           object Panel15: TPanel
             Left = 0
             Top = 0
@@ -9308,7 +9196,7 @@
                 Left = 93
                 Top = 2
                 Width = 47
-                Height = 19
+                Height = 22
                 Margins.Left = 2
                 Margins.Top = 2
                 Margins.Right = 2
@@ -9351,6 +9239,7 @@
             ItemIndex = -1
             OnItemClick = TableExDonatItemClick
             GetData = TableExDonatGetData
+            Columns = <>
             CanNoSelect = False
             ItemCount = 4
             LineColor = 3355443
@@ -9378,14 +9267,6 @@
             ColumnsFont.Height = -11
             ColumnsFont.Name = 'Tahoma'
             ColumnsFont.Style = [fsBold]
-            ColWidths = (
-              913)
-            RowHeights = (
-              30
-              30
-              30
-              30
-              30)
           end
         end
         object TabSheetDB: TTabSheet
@@ -9443,6 +9324,7 @@
                     GetData = TableExKitsGetData
                     OnEdit = TableExKitsEdit
                     OnEditOk = TableExKitsEditOk
+                    Columns = <>
                     CanNoSelect = False
                     VisibleEdit = False
                     ItemCount = 1
@@ -9471,21 +9353,12 @@
                     ColumnsFont.Height = -11
                     ColumnsFont.Name = 'Tahoma'
                     ColumnsFont.Style = [fsBold]
-                    ColWidths = (
-                      395)
-                    RowHeights = (
-                      30
-                      30)
                   end
                 end
                 object TabSheet2: TTabSheet
                   Caption = 'TabSheet2'
                   ImageIndex = 1
                   TabVisible = False
-                  ExplicitLeft = 0
-                  ExplicitTop = 0
-                  ExplicitWidth = 0
-                  ExplicitHeight = 0
                 end
               end
               object Panel50: TPanel
@@ -10079,7 +9952,7 @@
     Left = 1094
     Top = 280
     Bitmap = {
-      494C01011700EC05800620002000FFFFFFFF2110FFFFFFFFFFFFFFFF424D3600
+      494C01011700EC05840620002000FFFFFFFF2110FFFFFFFFFFFFFFFF424D3600
       000000000000360000002800000080000000C000000001002000000000000080
       0100000000000000000000000000000000000000000000000000000000000000
       0000000000000000000000000000000000000000000000000000000000000000
@@ -13259,7 +13132,7 @@
     Left = 1092
     Top = 328
     Bitmap = {
-      494C010123001C01F00510001000FFFFFFFF2110FFFFFFFFFFFFFFFF424D3600
+      494C010123001C01F40510001000FFFFFFFF2110FFFFFFFFFFFFFFFF424D3600
       0000000000003600000028000000400000009000000001002000000000000090
       0000000000000000000000000000000000000000000000000000000000000000
       0000000000000000000000000000000000000000000000000000000000000000
@@ -14502,7 +14375,7 @@
     Left = 980
     Top = 272
     Bitmap = {
-      494C0101160030029C0518001800FFFFFFFF2110FFFFFFFFFFFFFFFF424D3600
+      494C010116003002A00518001800FFFFFFFF2110FFFFFFFFFFFFFFFF424D3600
       00000000000036000000280000006000000090000000010020000000000000D8
       0000000000000000000000000000000000000000000000000000000000000000
       0000000000000000000000000000000000000000000000000000000000000000
@@ -16351,7 +16224,7 @@
     Left = 984
     Top = 420
     Bitmap = {
-      494C010103000800640030003000FFFFFFFF2110FFFFFFFFFFFFFFFF424D3600
+      494C010103000800680030003000FFFFFFFF2110FFFFFFFFFFFFFFFF424D3600
       0000000000003600000028000000C00000003000000001002000000000000090
       0000000000000000000000000000000000000000000000000000000000000000
       0000000000000000000000000000000000000000000000000000000000000000

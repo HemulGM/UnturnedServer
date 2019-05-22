@@ -163,8 +163,9 @@ interface
   TKitItem = record
    DBID:Integer;
    ID:string;
+   Pic: TBitmap;
    Count:Integer;
-   function Create(pDBID:Integer; pID:String; pCount:Integer):TKitItem;
+   class function Create(pDBID:Integer; pID:String; pCount:Integer):TKitItem; static;
   end;
   TKit = class(TList<TKitItem>)
    private
@@ -609,12 +610,12 @@ end;
 
 { TKitItem }
 
-function TKitItem.Create(pDBID:Integer; pID: String; pCount: Integer): TKitItem;
+class function TKitItem.Create(pDBID:Integer; pID: String; pCount: Integer): TKitItem;
 begin
- DBID:=pDBID;
- ID:=pID;
- Count:=pCount;
- Result:=Self;
+ Result.DBID:=pDBID;
+ Result.ID:=pID;
+ Result.Count:=pCount;
+ Result.Pic:=TBitmap.Create;
 end;
 
 { TPlayer }
