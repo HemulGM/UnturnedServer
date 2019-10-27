@@ -1167,7 +1167,7 @@
         Margins.Top = 0
         Margins.Right = 0
         Margins.Bottom = 0
-        ActivePage = TabSheetMain
+        ActivePage = TabSheetSettings
         Anchors = [akLeft, akTop, akRight, akBottom]
         TabOrder = 0
         object TabSheetMain: TTabSheet
@@ -5931,7 +5931,6 @@
             HorzScrollBar.Smooth = True
             HorzScrollBar.Style = ssFlat
             HorzScrollBar.Tracking = True
-            VertScrollBar.Position = 56
             VertScrollBar.Smooth = True
             VertScrollBar.Style = ssFlat
             VertScrollBar.Tracking = True
@@ -5944,9 +5943,9 @@
             TabOrder = 0
             object Panel8: TPanel
               Left = 0
-              Top = -56
+              Top = 0
               Width = 913
-              Height = 703
+              Height = 778
               Align = alTop
               AutoSize = True
               BevelOuter = bvNone
@@ -5956,12 +5955,13 @@
               object Panel16: TPanel
                 AlignWithMargins = True
                 Left = 10
-                Top = 46
+                Top = 39
                 Width = 893
                 Height = 72
                 Margins.Left = 10
-                Margins.Top = 5
+                Margins.Top = 1
                 Margins.Right = 10
+                Margins.Bottom = 0
                 Align = alTop
                 BevelOuter = bvNone
                 Color = 3355443
@@ -6008,18 +6008,20 @@
               object PanelDB: TPanel
                 AlignWithMargins = True
                 Left = 10
-                Top = 289
+                Top = 351
                 Width = 893
                 Height = 53
                 Margins.Left = 10
-                Margins.Top = 5
+                Margins.Top = 1
                 Margins.Right = 10
+                Margins.Bottom = 0
                 Align = alTop
                 BevelOuter = bvNone
                 Color = 3355443
                 ParentBackground = False
                 ShowCaption = False
                 TabOrder = 1
+                ExplicitTop = 312
                 object Label15: TLabel
                   AlignWithMargins = True
                   Left = 3
@@ -6087,7 +6089,6 @@
                     ParentCtl3D = False
                     ParentFont = False
                     TabOrder = 0
-                    Text = '188.234.213.65'
                     TextHint = 'IP-'#1072#1076#1088#1077#1089
                   end
                   object EditDBPort: TEdit
@@ -6136,7 +6137,6 @@
                     ParentCtl3D = False
                     ParentFont = False
                     TabOrder = 2
-                    Text = 'unturned_russia1'
                     TextHint = #1041#1072#1079#1072' '#1076#1072#1085#1085#1099#1093
                   end
                   object EditDBUser: TEdit
@@ -6160,7 +6160,6 @@
                     ParentCtl3D = False
                     ParentFont = False
                     TabOrder = 3
-                    Text = 'root'
                     TextHint = #1051#1086#1075#1080#1085
                   end
                   object EditDBPass: TEdit
@@ -6185,7 +6184,6 @@
                     ParentFont = False
                     PasswordChar = #9679
                     TabOrder = 4
-                    Text = 'aVIPs22031994'
                     TextHint = #1055#1072#1088#1086#1083#1100
                   end
                 end
@@ -6193,18 +6191,20 @@
               object PanelManager: TPanel
                 AlignWithMargins = True
                 Left = 10
-                Top = 167
+                Top = 243
                 Width = 893
                 Height = 53
                 Margins.Left = 10
-                Margins.Top = 5
+                Margins.Top = 1
                 Margins.Right = 10
+                Margins.Bottom = 0
                 Align = alTop
                 BevelOuter = bvNone
                 Color = 3355443
                 ParentBackground = False
                 ShowCaption = False
                 TabOrder = 2
+                ExplicitTop = 204
                 object Label11: TLabel
                   AlignWithMargins = True
                   Left = 3
@@ -6239,7 +6239,7 @@
                   ParentFont = False
                   TabOrder = 0
                   object sSpeedButton6: TsSpeedButton
-                    Left = 760
+                    Left = 790
                     Top = 0
                     Width = 30
                     Height = 30
@@ -6276,7 +6276,7 @@
                   end
                   object EditServerName: TEdit
                     AlignWithMargins = True
-                    Left = 594
+                    Left = 624
                     Top = 3
                     Width = 163
                     Height = 24
@@ -6296,24 +6296,69 @@
                     ParentFont = False
                     TabOrder = 1
                     TextHint = #1048#1084#1103' '#1089#1077#1088#1074#1077#1088#1072
+                    ExplicitLeft = 594
+                  end
+                  object ButtonFlatOpenLocalDir: TButtonFlat
+                    AlignWithMargins = True
+                    Left = 594
+                    Top = 3
+                    Width = 24
+                    Height = 24
+                    Align = alLeft
+                    Caption = ''
+                    ColorNormal = 3355443
+                    ColorOver = 5395026
+                    ColorPressed = 4210752
+                    Font.Charset = DEFAULT_CHARSET
+                    Font.Color = clWindowText
+                    Font.Height = -13
+                    Font.Name = 'Tahoma'
+                    Font.Style = []
+                    FontOver.Charset = DEFAULT_CHARSET
+                    FontOver.Color = clWindowText
+                    FontOver.Height = -13
+                    FontOver.Name = 'Tahoma'
+                    FontOver.Style = []
+                    FontDown.Charset = DEFAULT_CHARSET
+                    FontDown.Color = clWindowText
+                    FontDown.Height = -13
+                    FontDown.Name = 'Tahoma'
+                    FontDown.Style = []
+                    IgnorBounds = True
+                    ImageIndentLeft = 4
+                    ImageIndex = 25
+                    Images = ImageList16
+                    OnClick = ButtonFlatOpenLocalDirClick
+                    RoundRectParam = 0
+                    ShowFocusRect = False
+                    TabOrder = 2
+                    TabStop = True
+                    TextFormat = [tfCenter, tfSingleLine, tfVerticalCenter]
+                    SubTextFont.Charset = DEFAULT_CHARSET
+                    SubTextFont.Color = clWhite
+                    SubTextFont.Height = -13
+                    SubTextFont.Name = 'Tahoma'
+                    SubTextFont.Style = []
                   end
                 end
               end
               object PanelRCON: TPanel
                 AlignWithMargins = True
                 Left = 10
-                Top = 228
+                Top = 297
                 Width = 893
                 Height = 53
                 Margins.Left = 10
-                Margins.Top = 5
+                Margins.Top = 1
                 Margins.Right = 10
+                Margins.Bottom = 0
                 Align = alTop
                 BevelOuter = bvNone
                 Color = 3355443
                 ParentBackground = False
                 ShowCaption = False
                 TabOrder = 3
+                ExplicitTop = 258
                 object Label13: TLabel
                   AlignWithMargins = True
                   Left = 3
@@ -6358,8 +6403,8 @@
                     Images = ImageList16
                     ImageIndex = 0
                     WordWrap = False
-                    ExplicitLeft = 153
-                    ExplicitHeight = 30
+                    ExplicitLeft = 425
+                    ExplicitTop = -3
                   end
                   object EditRCONHost: TEdit
                     AlignWithMargins = True
@@ -6382,7 +6427,6 @@
                     ParentCtl3D = False
                     ParentFont = False
                     TabOrder = 0
-                    Text = '188.234.213.65'
                     TextHint = 'IP-'#1072#1076#1088#1077#1089
                   end
                   object EditRCONPort: TEdit
@@ -6432,7 +6476,6 @@
                     ParentFont = False
                     PasswordChar = #9679
                     TabOrder = 2
-                    Text = 'aVIPs22031994'
                     TextHint = #1055#1072#1088#1086#1083#1100
                   end
                 end
@@ -6440,18 +6483,20 @@
               object PanelSDB: TPanel
                 AlignWithMargins = True
                 Left = 10
-                Top = 350
+                Top = 405
                 Width = 893
                 Height = 53
                 Margins.Left = 10
-                Margins.Top = 5
+                Margins.Top = 1
                 Margins.Right = 10
+                Margins.Bottom = 0
                 Align = alTop
                 BevelOuter = bvNone
                 Color = 3355443
                 ParentBackground = False
                 ShowCaption = False
                 TabOrder = 4
+                ExplicitTop = 366
                 object Label14: TLabel
                   AlignWithMargins = True
                   Left = 3
@@ -6519,7 +6564,6 @@
                     ParentCtl3D = False
                     ParentFont = False
                     TabOrder = 0
-                    Text = '188.234.213.65'
                     TextHint = 'IP-'#1072#1076#1088#1077#1089
                   end
                   object EditSDBPort: TEdit
@@ -6568,7 +6612,6 @@
                     ParentCtl3D = False
                     ParentFont = False
                     TabOrder = 2
-                    Text = 'wordpress93'
                     TextHint = #1041#1072#1079#1072' '#1076#1072#1085#1085#1099#1093
                   end
                   object EditSDBUser: TEdit
@@ -6592,7 +6635,6 @@
                     ParentCtl3D = False
                     ParentFont = False
                     TabOrder = 3
-                    Text = 'servermanager'
                     TextHint = #1051#1086#1075#1080#1085
                   end
                   object EditSDBPass: TEdit
@@ -6617,7 +6659,6 @@
                     ParentFont = False
                     PasswordChar = #9679
                     TabOrder = 4
-                    Text = '1q2w3e4r!@#$#@!'
                     TextHint = #1055#1072#1088#1086#1083#1100
                   end
                 end
@@ -6625,17 +6666,19 @@
               object Panel27: TPanel
                 AlignWithMargins = True
                 Left = 10
-                Top = 131
+                Top = 214
                 Width = 893
                 Height = 28
                 Margins.Left = 10
                 Margins.Top = 10
                 Margins.Right = 10
+                Margins.Bottom = 0
                 Align = alTop
                 BevelOuter = bvNone
                 Color = 3355443
                 ParentBackground = False
                 TabOrder = 5
+                ExplicitTop = 175
                 object Label16: TLabel
                   AlignWithMargins = True
                   Left = 2
@@ -6666,6 +6709,7 @@
                 Margins.Left = 10
                 Margins.Top = 10
                 Margins.Right = 10
+                Margins.Bottom = 0
                 Align = alTop
                 BevelOuter = bvNone
                 Color = 3355443
@@ -6695,18 +6739,20 @@
               object PanelVK: TPanel
                 AlignWithMargins = True
                 Left = 10
-                Top = 411
+                Top = 513
                 Width = 893
                 Height = 53
                 Margins.Left = 10
-                Margins.Top = 5
+                Margins.Top = 1
                 Margins.Right = 10
+                Margins.Bottom = 0
                 Align = alTop
                 BevelOuter = bvNone
                 Color = 3355443
                 ParentBackground = False
                 ShowCaption = False
                 TabOrder = 7
+                ExplicitTop = 474
                 object Label12: TLabel
                   AlignWithMargins = True
                   Left = 3
@@ -6741,7 +6787,7 @@
                   ParentFont = False
                   TabOrder = 0
                   object SpeedButtonVKCon: TsSpeedButton
-                    Left = 591
+                    Left = 760
                     Top = 0
                     Width = 30
                     Height = 30
@@ -6751,13 +6797,13 @@
                     Images = ImageList16
                     ImageIndex = 0
                     WordWrap = False
-                    ExplicitLeft = 145
+                    ExplicitLeft = 592
                   end
                   object EditVKHTTP: TEdit
                     AlignWithMargins = True
                     Left = 3
                     Top = 3
-                    Width = 150
+                    Width = 247
                     Height = 24
                     Align = alLeft
                     BevelInner = bvSpace
@@ -6775,33 +6821,9 @@
                     ParentFont = False
                     TabOrder = 0
                     Text = 'https:\\vk.com'
-                    TextHint = 'ID '#1075#1088#1091#1087#1087#1099' '#1042#1050
+                    TextHint = #1040#1076#1088#1077#1089' '#1042#1050
                   end
                   object EditVKGID: TEdit
-                    AlignWithMargins = True
-                    Left = 159
-                    Top = 3
-                    Width = 91
-                    Height = 24
-                    Align = alLeft
-                    BevelInner = bvSpace
-                    BevelKind = bkFlat
-                    BevelOuter = bvRaised
-                    BorderStyle = bsNone
-                    Color = 3355443
-                    Ctl3D = True
-                    Font.Charset = DEFAULT_CHARSET
-                    Font.Color = clSilver
-                    Font.Height = -15
-                    Font.Name = 'Tahoma'
-                    Font.Style = []
-                    ParentCtl3D = False
-                    ParentFont = False
-                    TabOrder = 1
-                    Text = '125679402'
-                    TextHint = 'ID '#1075#1088#1091#1087#1087#1099' '#1042#1050
-                  end
-                  object EditVKLogin: TEdit
                     AlignWithMargins = True
                     Left = 256
                     Top = 3
@@ -6821,11 +6843,10 @@
                     Font.Style = []
                     ParentCtl3D = False
                     ParentFont = False
-                    TabOrder = 2
-                    Text = '+79326192572'
-                    TextHint = #1051#1086#1075#1080#1085
+                    TabOrder = 1
+                    TextHint = 'ID '#1075#1088#1091#1087#1087#1099' '#1042#1050
                   end
-                  object EditVKPass: TEdit
+                  object EditVKLogin: TEdit
                     AlignWithMargins = True
                     Left = 425
                     Top = 3
@@ -6845,9 +6866,31 @@
                     Font.Style = []
                     ParentCtl3D = False
                     ParentFont = False
+                    TabOrder = 2
+                    TextHint = #1051#1086#1075#1080#1085
+                  end
+                  object EditVKPass: TEdit
+                    AlignWithMargins = True
+                    Left = 594
+                    Top = 3
+                    Width = 163
+                    Height = 24
+                    Align = alLeft
+                    BevelInner = bvSpace
+                    BevelKind = bkFlat
+                    BevelOuter = bvRaised
+                    BorderStyle = bsNone
+                    Color = 3355443
+                    Ctl3D = True
+                    Font.Charset = DEFAULT_CHARSET
+                    Font.Color = clSilver
+                    Font.Height = -15
+                    Font.Name = 'Tahoma'
+                    Font.Style = []
+                    ParentCtl3D = False
+                    ParentFont = False
                     PasswordChar = #9679
                     TabOrder = 3
-                    Text = 'aVIPs22031994'
                     TextHint = #1055#1072#1088#1086#1083#1100
                   end
                 end
@@ -6855,18 +6898,20 @@
               object Panel9: TPanel
                 AlignWithMargins = True
                 Left = 10
-                Top = 472
+                Top = 567
                 Width = 893
                 Height = 53
                 Margins.Left = 10
-                Margins.Top = 5
+                Margins.Top = 1
                 Margins.Right = 10
+                Margins.Bottom = 0
                 Align = alTop
                 BevelOuter = bvNone
                 Color = 3355443
                 ParentBackground = False
                 ShowCaption = False
                 TabOrder = 8
+                ExplicitTop = 528
                 object Label23: TLabel
                   AlignWithMargins = True
                   Left = 3
@@ -6943,13 +6988,13 @@
                     ParentCtl3D = False
                     ParentFont = False
                     TabOrder = 0
-                    TextHint = 'http:\\unturned.hemulgm.ru'
+                    TextHint = #1053#1072#1087#1088#1080#1084#1077#1088', https:\\unturned.hemulgm.ru'
                   end
                   object EditMapAddress: TEdit
                     AlignWithMargins = True
                     Left = 526
                     Top = 3
-                    Width = 231
+                    Width = 359
                     Height = 23
                     Align = alLeft
                     BevelInner = bvSpace
@@ -6967,24 +7012,26 @@
                     ParentCtl3D = False
                     ParentFont = False
                     TabOrder = 1
-                    TextHint = 'http:\\hemulgm.ru:27888'
+                    TextHint = #1053#1072#1087#1088#1080#1084#1077#1088', https:\\hemulgm.ru:27888'
                   end
                 end
               end
               object Panel32: TPanel
                 AlignWithMargins = True
                 Left = 10
-                Top = 538
+                Top = 630
                 Width = 893
                 Height = 28
                 Margins.Left = 10
                 Margins.Top = 10
                 Margins.Right = 10
+                Margins.Bottom = 0
                 Align = alTop
                 BevelOuter = bvNone
                 Color = 3355443
                 ParentBackground = False
                 TabOrder = 9
+                ExplicitTop = 591
                 object Label42: TLabel
                   AlignWithMargins = True
                   Left = 2
@@ -7009,24 +7056,26 @@
               object Panel33: TPanel
                 AlignWithMargins = True
                 Left = 10
-                Top = 574
+                Top = 659
                 Width = 893
                 Height = 53
                 Margins.Left = 10
-                Margins.Top = 5
+                Margins.Top = 1
                 Margins.Right = 10
+                Margins.Bottom = 0
                 Align = alTop
                 BevelOuter = bvNone
                 Color = 3355443
                 ParentBackground = False
                 ShowCaption = False
                 TabOrder = 10
+                ExplicitTop = 620
                 object Label43: TLabel
                   AlignWithMargins = True
                   Left = 3
                   Top = 3
                   Width = 201
-                  Height = 14
+                  Height = 18
                   Align = alLeft
                   Caption = #1041#1072#1079#1072' '#1087#1088#1077#1076#1084#1077#1090#1086#1074' '#1080' '#1090#1088#1072#1085#1089#1087#1086#1088#1090#1072
                   Font.Charset = DEFAULT_CHARSET
@@ -7039,9 +7088,9 @@
                 end
                 object Panel34: TPanel
                   Left = 0
-                  Top = 20
+                  Top = 24
                   Width = 893
-                  Height = 33
+                  Height = 29
                   Align = alBottom
                   Alignment = taLeftJustify
                   BevelEdges = [beBottom]
@@ -7058,7 +7107,7 @@
                     Left = 185
                     Top = 0
                     Width = 311
-                    Height = 33
+                    Height = 29
                     Align = alLeft
                     Caption = #1054#1073#1085#1086#1074#1080#1090#1100' '#1073#1072#1079#1091' '#1080#1079#1086#1073#1088#1072#1078#1077#1085#1080#1081' '#1090#1088#1072#1085#1089#1087#1086#1088#1090#1072
                     Flat = True
@@ -7066,12 +7115,13 @@
                     Images = ImageList16
                     ImageIndex = 0
                     WordWrap = False
+                    ExplicitHeight = 33
                   end
                   object SpeedButtonUEUpdate: TsSpeedButton
                     Left = 0
                     Top = 0
                     Width = 185
-                    Height = 33
+                    Height = 29
                     Align = alLeft
                     Caption = #1054#1073#1085#1086#1074#1080#1090#1100' '#1073#1072#1079#1091
                     Flat = True
@@ -7080,6 +7130,7 @@
                     ImageIndex = 0
                     WordWrap = False
                     ExplicitLeft = 8
+                    ExplicitHeight = 33
                   end
                 end
                 object ProgressBarUELoad: TProgressBar
@@ -7087,45 +7138,49 @@
                   Left = 210
                   Top = 7
                   Width = 675
-                  Height = 8
+                  Height = 12
                   Margins.Top = 7
                   Margins.Right = 8
                   Margins.Bottom = 5
                   Align = alClient
                   TabOrder = 1
                   Visible = False
+                  ExplicitHeight = 8
                 end
               end
               object Panel35: TPanel
                 Left = 0
-                Top = 691
+                Top = 766
                 Width = 913
                 Height = 12
                 Align = alTop
                 BevelOuter = bvNone
                 TabOrder = 11
+                ExplicitTop = 727
               end
               object Panel42: TPanel
                 AlignWithMargins = True
                 Left = 10
-                Top = 635
+                Top = 713
                 Width = 893
                 Height = 53
                 Margins.Left = 10
-                Margins.Top = 5
+                Margins.Top = 1
                 Margins.Right = 10
+                Margins.Bottom = 0
                 Align = alTop
                 BevelOuter = bvNone
                 Color = 3355443
                 ParentBackground = False
                 ShowCaption = False
                 TabOrder = 12
+                ExplicitTop = 674
                 object Label45: TLabel
                   AlignWithMargins = True
                   Left = 3
                   Top = 3
                   Width = 55
-                  Height = 14
+                  Height = 18
                   Align = alLeft
                   Caption = #1041#1088#1072#1091#1079#1077#1088
                   Font.Charset = DEFAULT_CHARSET
@@ -7134,13 +7189,13 @@
                   Font.Name = 'Tahoma'
                   Font.Style = [fsBold]
                   ParentFont = False
-                  ExplicitHeight = 16
+                  ExplicitHeight = 13
                 end
                 object Panel43: TPanel
                   Left = 0
-                  Top = 20
+                  Top = 24
                   Width = 893
-                  Height = 33
+                  Height = 29
                   Align = alBottom
                   Alignment = taLeftJustify
                   BevelEdges = [beBottom]
@@ -7157,25 +7212,247 @@
                     Left = 0
                     Top = 0
                     Width = 228
-                    Height = 33
+                    Height = 29
                     Align = alLeft
                     Caption = #1055#1086#1095#1080#1085#1080#1090#1100' '#1074#1089#1090#1088#1086#1077#1085#1085#1099#1081' '#1073#1088#1072#1091#1079#1077#1088
                     Flat = True
                     OnClick = SpeedButtonFixIEClick
                     Images = ImageList16
                     WordWrap = False
+                    ExplicitHeight = 33
                   end
                   object SpeedButtonClearCache: TsSpeedButton
                     Left = 228
                     Top = 0
                     Width = 99
-                    Height = 33
+                    Height = 29
                     Align = alLeft
                     Caption = #1054#1095#1080#1089#1090#1080#1090#1100' '#1082#1077#1096
                     Flat = True
                     OnClick = SpeedButtonClearCacheClick
                     Images = ImageList16
                     WordWrap = False
+                    ExplicitHeight = 33
+                  end
+                end
+              end
+              object PanelTelegram: TPanel
+                AlignWithMargins = True
+                Left = 10
+                Top = 459
+                Width = 893
+                Height = 53
+                Margins.Left = 10
+                Margins.Top = 1
+                Margins.Right = 10
+                Margins.Bottom = 0
+                Align = alTop
+                BevelOuter = bvNone
+                Color = 3355443
+                ParentBackground = False
+                ShowCaption = False
+                TabOrder = 13
+                ExplicitTop = 420
+                object Label1: TLabel
+                  AlignWithMargins = True
+                  Left = 3
+                  Top = 3
+                  Width = 59
+                  Height = 17
+                  Align = alLeft
+                  Caption = 'Telegram'
+                  Font.Charset = DEFAULT_CHARSET
+                  Font.Color = clSilver
+                  Font.Height = -13
+                  Font.Name = 'Tahoma'
+                  Font.Style = [fsBold]
+                  ParentFont = False
+                  ExplicitHeight = 16
+                end
+                object Panel48: TPanel
+                  Left = 0
+                  Top = 23
+                  Width = 893
+                  Height = 30
+                  Align = alBottom
+                  Alignment = taLeftJustify
+                  BevelEdges = [beBottom]
+                  BevelOuter = bvNone
+                  Color = 16316664
+                  Font.Charset = DEFAULT_CHARSET
+                  Font.Color = clWhite
+                  Font.Height = -12
+                  Font.Name = 'Tahoma'
+                  Font.Style = [fsBold]
+                  ParentFont = False
+                  TabOrder = 0
+                  object SpeedButtonTGRecon: TsSpeedButton
+                    Left = 760
+                    Top = 0
+                    Width = 30
+                    Height = 30
+                    Align = alLeft
+                    Flat = True
+                    OnClick = SpeedButtonTGReconClick
+                    Images = ImageList16
+                    ImageIndex = 0
+                    WordWrap = False
+                    ExplicitLeft = 763
+                  end
+                  object EditTGChatID: TEdit
+                    AlignWithMargins = True
+                    Left = 3
+                    Top = 3
+                    Width = 150
+                    Height = 24
+                    Align = alLeft
+                    BevelInner = bvSpace
+                    BevelKind = bkFlat
+                    BevelOuter = bvRaised
+                    BorderStyle = bsNone
+                    Color = 3355443
+                    Ctl3D = True
+                    Font.Charset = DEFAULT_CHARSET
+                    Font.Color = clSilver
+                    Font.Height = -15
+                    Font.Name = 'Tahoma'
+                    Font.Style = []
+                    ParentCtl3D = False
+                    ParentFont = False
+                    TabOrder = 0
+                    TextHint = 'ID '#1095#1072#1090#1072
+                  end
+                  object EditTGBotToken: TEdit
+                    AlignWithMargins = True
+                    Left = 159
+                    Top = 3
+                    Width = 598
+                    Height = 24
+                    Align = alLeft
+                    BevelInner = bvSpace
+                    BevelKind = bkFlat
+                    BevelOuter = bvRaised
+                    BorderStyle = bsNone
+                    Color = 3355443
+                    Ctl3D = True
+                    Font.Charset = DEFAULT_CHARSET
+                    Font.Color = clSilver
+                    Font.Height = -15
+                    Font.Name = 'Tahoma'
+                    Font.Style = []
+                    ParentCtl3D = False
+                    ParentFont = False
+                    TabOrder = 1
+                    TextHint = #1058#1086#1082#1077#1085' '#1073#1086#1090#1072
+                  end
+                end
+              end
+              object Panel47: TPanel
+                AlignWithMargins = True
+                Left = 10
+                Top = 112
+                Width = 893
+                Height = 92
+                Margins.Left = 10
+                Margins.Top = 1
+                Margins.Right = 10
+                Margins.Bottom = 0
+                Align = alTop
+                BevelOuter = bvNone
+                Color = 3355443
+                ParentBackground = False
+                ShowCaption = False
+                TabOrder = 14
+                object Label9: TLabel
+                  AlignWithMargins = True
+                  Left = 3
+                  Top = 3
+                  Width = 887
+                  Height = 21
+                  Align = alTop
+                  Caption = #1053#1072#1089#1090#1088#1086#1081#1082#1080
+                  Font.Charset = DEFAULT_CHARSET
+                  Font.Color = clSilver
+                  Font.Height = -13
+                  Font.Name = 'Tahoma'
+                  Font.Style = [fsBold]
+                  ParentFont = False
+                end
+                object Panel51: TPanel
+                  Left = 0
+                  Top = 26
+                  Width = 893
+                  Height = 66
+                  Align = alBottom
+                  Alignment = taLeftJustify
+                  BevelEdges = [beBottom]
+                  BevelOuter = bvNone
+                  Color = 16316664
+                  Font.Charset = DEFAULT_CHARSET
+                  Font.Color = clWhite
+                  Font.Height = -12
+                  Font.Name = 'Tahoma'
+                  Font.Style = [fsBold]
+                  ParentFont = False
+                  TabOrder = 0
+                  ExplicitLeft = -14
+                  ExplicitTop = 30
+                  object Label46: TLabel
+                    AlignWithMargins = True
+                    Left = 5
+                    Top = 34
+                    Width = 210
+                    Height = 14
+                    Caption = #1050#1086#1083'-'#1074#1086' '#1089#1087#1072#1084' '#1089#1086#1086#1073#1097#1077#1085#1080#1081' '#1076#1086' '#1082#1080#1082#1072':'
+                    Layout = tlCenter
+                  end
+                  object Label48: TLabel
+                    AlignWithMargins = True
+                    Left = 5
+                    Top = 7
+                    Width = 185
+                    Height = 14
+                    Caption = 'SteamName '#1072#1076#1084#1080#1085#1080#1089#1090#1088#1072#1090#1086#1088#1072':'
+                    Layout = tlCenter
+                  end
+                  object EditAdminSteamName: TEdit
+                    AlignWithMargins = True
+                    Left = 196
+                    Top = 2
+                    Width = 150
+                    Height = 23
+                    BevelInner = bvSpace
+                    BevelKind = bkFlat
+                    BevelOuter = bvRaised
+                    BorderStyle = bsNone
+                    Color = 3355443
+                    Ctl3D = True
+                    Font.Charset = DEFAULT_CHARSET
+                    Font.Color = clSilver
+                    Font.Height = -15
+                    Font.Name = 'Tahoma'
+                    Font.Style = []
+                    ParentCtl3D = False
+                    ParentFont = False
+                    TabOrder = 0
+                    TextHint = 'SteamName'
+                    OnChange = EditAdminSteamNameChange
+                  end
+                  object SpinEditChatDblToKick: TlkSpinEdit
+                    Left = 221
+                    Top = 31
+                    Width = 125
+                    Height = 22
+                    BorderStyle = bsNone
+                    BevelInner = bvSpace
+                    BevelKind = bkFlat
+                    BevelOuter = bvRaised
+                    Color = 3355443
+                    MaxValue = 100
+                    MinValue = 3
+                    TabOrder = 1
+                    Value = 3
+                    OnChange = SpinEditChatDblToKickChange
                   end
                 end
               end
@@ -9569,6 +9846,7 @@
       TextAlignment = taLeftJustify
       ImageIndex = 13
       WordWrap = False
+      ExplicitLeft = -3
     end
     object SpeedButtonMenuLog: TsSpeedButton
       Left = 0
@@ -9952,7 +10230,7 @@
     Left = 1094
     Top = 280
     Bitmap = {
-      494C01011700EC05840620002000FFFFFFFF2110FFFFFFFFFFFFFFFF424D3600
+      494C01011700EC05900620002000FFFFFFFF2110FFFFFFFFFFFFFFFF424D3600
       000000000000360000002800000080000000C000000001002000000000000080
       0100000000000000000000000000000000000000000000000000000000000000
       0000000000000000000000000000000000000000000000000000000000000000
@@ -13132,7 +13410,7 @@
     Left = 1092
     Top = 328
     Bitmap = {
-      494C010123001C01F40510001000FFFFFFFF2110FFFFFFFFFFFFFFFF424D3600
+      494C010123001C01000610001000FFFFFFFF2110FFFFFFFFFFFFFFFF424D3600
       0000000000003600000028000000400000009000000001002000000000000090
       0000000000000000000000000000000000000000000000000000000000000000
       0000000000000000000000000000000000000000000000000000000000000000
@@ -14375,7 +14653,7 @@
     Left = 980
     Top = 272
     Bitmap = {
-      494C010116003002A00518001800FFFFFFFF2110FFFFFFFFFFFFFFFF424D3600
+      494C010116003002AC0518001800FFFFFFFF2110FFFFFFFFFFFFFFFF424D3600
       00000000000036000000280000006000000090000000010020000000000000D8
       0000000000000000000000000000000000000000000000000000000000000000
       0000000000000000000000000000000000000000000000000000000000000000
@@ -16224,7 +16502,7 @@
     Left = 984
     Top = 420
     Bitmap = {
-      494C010103000800680030003000FFFFFFFF2110FFFFFFFFFFFFFFFF424D3600
+      494C010103000800740030003000FFFFFFFF2110FFFFFFFFFFFFFFFF424D3600
       0000000000003600000028000000C00000003000000001002000000000000090
       0000000000000000000000000000000000000000000000000000000000000000
       0000000000000000000000000000000000000000000000000000000000000000
