@@ -23,15 +23,15 @@ uses
   UServer.Banning in 'UServer.Banning.pas' {FormBan},
   VK.Classes in 'VK.Classes.pas',
   UServer.Database in 'UServer.Database.pas',
-  SQLite3 in '..\SQLite\SQLite3.pas',
-  SQLiteTable3 in '..\SQLite\SQLiteTable3.pas',
-  SQLLang in '..\SQLite\SQLLang.pas',
   UServer.Notify in 'UServer.Notify.pas',
   UServer.Memo in 'UServer.Memo.pas' {FormMemo},
   UServer.Donat in 'UServer.Donat.pas' {FormDonat},
   Vcl.Themes,
   Vcl.Styles,
-  UnturnedIDB in '..\UnturnedExplorer\UnturnedIDB.pas';
+  UnturnedIDB in '..\UnturnedExplorer\UnturnedIDB.pas',
+  HGM.SQLang in '..\SQLite\HGM.SQLang.pas',
+  HGM.SQLite in '..\SQLite\HGM.SQLite.pas',
+  HGM.SQLite.Wrapper in '..\SQLite\HGM.SQLite.Wrapper.pas';
 
 {$R *.res}
 

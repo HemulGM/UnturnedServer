@@ -3,7 +3,7 @@ unit UServer.Database;
 interface
 
 uses
-  Vcl.Graphics, System.SysUtils, SQLiteTable3, SQLLang, UServer.Types,
+  Vcl.Graphics, System.SysUtils, HGM.SQLite, HGM.SQLang, UServer.Types,
   System.Generics.Collections, Data.SqlExpr;
 
 type
@@ -187,7 +187,7 @@ begin
     TableName := tableKits;
     AddValue(fieldKTName, KT_Name);
     FDatabase.ExecSQL(GetSQL);
-    Result := FDatabase.GetLastInsertRowID;
+    Result := FDatabase.LastInsertRowID;
     EndCreate;
   end;
 end;
@@ -200,7 +200,7 @@ begin
     AddValue(fieldKD_Item, KD_ITEM);
     AddValue(fieldKD_Count, KD_COUNT);
     FDatabase.ExecSQL(GetSQL);
-    Result := FDatabase.GetLastInsertRowID;
+    Result := FDatabase.LastInsertRowID;
     EndCreate;
   end;
 end;
@@ -213,7 +213,7 @@ begin
     AddValue(fieldMK_INT, ValueInt);
     AddValue(fieldMK_DATE, Now);
     FDatabase.ExecSQL(GetSQL);
-    Result := FDatabase.GetLastInsertRowID;
+    Result := FDatabase.LastInsertRowID;
     EndCreate;
   end;
 end;
@@ -226,7 +226,7 @@ begin
     AddValue(fieldMSG_TEXT, pText);
     AddValue(fieldMSG_COLOR, pColor);
     FDatabase.ExecSQL(GetSQL);
-    Result := FDatabase.GetLastInsertRowID;
+    Result := FDatabase.LastInsertRowID;
     EndCreate;
   end;
 end;
@@ -240,7 +240,7 @@ begin
     AddValue(fieldSTDate, Now);
     AddValue(fieldSTValue, Value);
     FDatabase.ExecSQL(GetSQL);
-    Result := FDatabase.GetLastInsertRowID;
+    Result := FDatabase.LastInsertRowID;
     EndCreate;
   end;
 end;
@@ -251,7 +251,7 @@ begin
   begin
     WhereFieldEqual(fieldMK_ID, ID);
     FDatabase.ExecSQL(GetSQL);
-    Result := FDatabase.GetLastChangedRows > 0;
+    Result := FDatabase.LastInsertRowID > 0;
     EndCreate;
   end;
 end;
@@ -262,7 +262,7 @@ begin
   begin
     WhereFieldEqual(fieldMSG_ID, pID);
     FDatabase.ExecSQL(GetSQL);
-    Result := FDatabase.GetLastChangedRows > 0;
+    Result := FDatabase.LastInsertRowID > 0;
     EndCreate;
   end;
 end;
@@ -276,7 +276,7 @@ begin
     AddValue(fieldMK_DATE, Now);
     WhereFieldEqual(fieldMK_ID, ID);
     FDatabase.ExecSQL(GetSQL);
-    Result := FDatabase.GetLastChangedRows > 0;
+    Result := FDatabase.LastInsertRowID > 0;
     EndCreate;
   end;
 end;
@@ -289,7 +289,7 @@ begin
     AddValue(fieldMSG_COLOR, pColor);
     WhereFieldEqual(fieldMSG_ID, pID);
     FDatabase.ExecSQL(GetSQL);
-    Result := FDatabase.GetLastChangedRows > 0;
+    Result := FDatabase.LastInsertRowID > 0;
     EndCreate;
   end;
 end;

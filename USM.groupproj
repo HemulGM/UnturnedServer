@@ -6,45 +6,6 @@
         <Projects Include="UServer.dproj">
             <Dependencies/>
         </Projects>
-        <Projects Include="..\Components\LKDUPackage.dproj">
-            <Dependencies/>
-        </Projects>
-        <Projects Include="DOSDie\DOSDie.dproj">
-            <Dependencies/>
-        </Projects>
-        <Projects Include="..\Unturned Explorer\UExplorer.dproj">
-            <Dependencies/>
-        </Projects>
-        <Projects Include="..\CMW Cross Platform\CMW.dproj">
-            <Dependencies/>
-        </Projects>
-        <Projects Include="..\TelegramBot\TelegramBot.dproj">
-            <Dependencies/>
-        </Projects>
-        <Projects Include="..\SupportApp\SupportApp.dproj">
-            <Dependencies/>
-        </Projects>
-        <Projects Include="..\2048\G2048.dproj">
-            <Dependencies/>
-        </Projects>
-        <Projects Include="..\Clock\Clock.dproj">
-            <Dependencies/>
-        </Projects>
-        <Projects Include="..\Cars\Cars.dproj">
-            <Dependencies/>
-        </Projects>
-        <Projects Include="..\ColorToStrNew\CTS.dproj">
-            <Dependencies/>
-        </Projects>
-        <Projects Include="D:\OneDrive\Проекты\Games\3Match\Match3.dproj">
-            <Dependencies/>
-        </Projects>
-        <Projects Include="..\Jackal\JackalGame.dproj">
-            <Dependencies/>
-        </Projects>
-        <Projects Include="..\Self\PromptMe.dproj">
-            <Dependencies/>
-        </Projects>
     </ItemGroup>
     <ProjectExtensions>
         <Borland.Personality>Default.Personality.12</Borland.Personality>
@@ -62,131 +23,14 @@
     <Target Name="UServer:Make">
         <MSBuild Projects="UServer.dproj" Targets="Make"/>
     </Target>
-    <Target Name="LKDUPackage">
-        <MSBuild Projects="..\Components\LKDUPackage.dproj"/>
-    </Target>
-    <Target Name="LKDUPackage:Clean">
-        <MSBuild Projects="..\Components\LKDUPackage.dproj" Targets="Clean"/>
-    </Target>
-    <Target Name="LKDUPackage:Make">
-        <MSBuild Projects="..\Components\LKDUPackage.dproj" Targets="Make"/>
-    </Target>
-    <Target Name="DOSDie">
-        <MSBuild Projects="DOSDie\DOSDie.dproj"/>
-    </Target>
-    <Target Name="DOSDie:Clean">
-        <MSBuild Projects="DOSDie\DOSDie.dproj" Targets="Clean"/>
-    </Target>
-    <Target Name="DOSDie:Make">
-        <MSBuild Projects="DOSDie\DOSDie.dproj" Targets="Make"/>
-    </Target>
-    <Target Name="UExplorer">
-        <MSBuild Projects="..\Unturned Explorer\UExplorer.dproj"/>
-    </Target>
-    <Target Name="UExplorer:Clean">
-        <MSBuild Projects="..\Unturned Explorer\UExplorer.dproj" Targets="Clean"/>
-    </Target>
-    <Target Name="UExplorer:Make">
-        <MSBuild Projects="..\Unturned Explorer\UExplorer.dproj" Targets="Make"/>
-    </Target>
-    <Target Name="CMW">
-        <MSBuild Projects="..\CMW Cross Platform\CMW.dproj"/>
-    </Target>
-    <Target Name="CMW:Clean">
-        <MSBuild Projects="..\CMW Cross Platform\CMW.dproj" Targets="Clean"/>
-    </Target>
-    <Target Name="CMW:Make">
-        <MSBuild Projects="..\CMW Cross Platform\CMW.dproj" Targets="Make"/>
-    </Target>
-    <Target Name="TelegramBot">
-        <MSBuild Projects="..\TelegramBot\TelegramBot.dproj"/>
-    </Target>
-    <Target Name="TelegramBot:Clean">
-        <MSBuild Projects="..\TelegramBot\TelegramBot.dproj" Targets="Clean"/>
-    </Target>
-    <Target Name="TelegramBot:Make">
-        <MSBuild Projects="..\TelegramBot\TelegramBot.dproj" Targets="Make"/>
-    </Target>
-    <Target Name="SupportApp">
-        <MSBuild Projects="..\SupportApp\SupportApp.dproj"/>
-    </Target>
-    <Target Name="SupportApp:Clean">
-        <MSBuild Projects="..\SupportApp\SupportApp.dproj" Targets="Clean"/>
-    </Target>
-    <Target Name="SupportApp:Make">
-        <MSBuild Projects="..\SupportApp\SupportApp.dproj" Targets="Make"/>
-    </Target>
-    <Target Name="G2048">
-        <MSBuild Projects="..\2048\G2048.dproj"/>
-    </Target>
-    <Target Name="G2048:Clean">
-        <MSBuild Projects="..\2048\G2048.dproj" Targets="Clean"/>
-    </Target>
-    <Target Name="G2048:Make">
-        <MSBuild Projects="..\2048\G2048.dproj" Targets="Make"/>
-    </Target>
-    <Target Name="Clock">
-        <MSBuild Projects="..\Clock\Clock.dproj"/>
-    </Target>
-    <Target Name="Clock:Clean">
-        <MSBuild Projects="..\Clock\Clock.dproj" Targets="Clean"/>
-    </Target>
-    <Target Name="Clock:Make">
-        <MSBuild Projects="..\Clock\Clock.dproj" Targets="Make"/>
-    </Target>
-    <Target Name="Cars">
-        <MSBuild Projects="..\Cars\Cars.dproj"/>
-    </Target>
-    <Target Name="Cars:Clean">
-        <MSBuild Projects="..\Cars\Cars.dproj" Targets="Clean"/>
-    </Target>
-    <Target Name="Cars:Make">
-        <MSBuild Projects="..\Cars\Cars.dproj" Targets="Make"/>
-    </Target>
-    <Target Name="CTS">
-        <MSBuild Projects="..\ColorToStrNew\CTS.dproj"/>
-    </Target>
-    <Target Name="CTS:Clean">
-        <MSBuild Projects="..\ColorToStrNew\CTS.dproj" Targets="Clean"/>
-    </Target>
-    <Target Name="CTS:Make">
-        <MSBuild Projects="..\ColorToStrNew\CTS.dproj" Targets="Make"/>
-    </Target>
-    <Target Name="Match3">
-        <MSBuild Projects="D:\OneDrive\Проекты\Games\3Match\Match3.dproj"/>
-    </Target>
-    <Target Name="Match3:Clean">
-        <MSBuild Projects="D:\OneDrive\Проекты\Games\3Match\Match3.dproj" Targets="Clean"/>
-    </Target>
-    <Target Name="Match3:Make">
-        <MSBuild Projects="D:\OneDrive\Проекты\Games\3Match\Match3.dproj" Targets="Make"/>
-    </Target>
-    <Target Name="JackalGame">
-        <MSBuild Projects="..\Jackal\JackalGame.dproj"/>
-    </Target>
-    <Target Name="JackalGame:Clean">
-        <MSBuild Projects="..\Jackal\JackalGame.dproj" Targets="Clean"/>
-    </Target>
-    <Target Name="JackalGame:Make">
-        <MSBuild Projects="..\Jackal\JackalGame.dproj" Targets="Make"/>
-    </Target>
-    <Target Name="PromptMe">
-        <MSBuild Projects="..\Self\PromptMe.dproj"/>
-    </Target>
-    <Target Name="PromptMe:Clean">
-        <MSBuild Projects="..\Self\PromptMe.dproj" Targets="Clean"/>
-    </Target>
-    <Target Name="PromptMe:Make">
-        <MSBuild Projects="..\Self\PromptMe.dproj" Targets="Make"/>
-    </Target>
     <Target Name="Build">
-        <CallTarget Targets="UServer;LKDUPackage;DOSDie;UExplorer;CMW;TelegramBot;SupportApp;G2048;Clock;Cars;CTS;Match3;JackalGame;PromptMe"/>
+        <CallTarget Targets="UServer"/>
     </Target>
     <Target Name="Clean">
-        <CallTarget Targets="UServer:Clean;LKDUPackage:Clean;DOSDie:Clean;UExplorer:Clean;CMW:Clean;TelegramBot:Clean;SupportApp:Clean;G2048:Clean;Clock:Clean;Cars:Clean;CTS:Clean;Match3:Clean;JackalGame:Clean;PromptMe:Clean"/>
+        <CallTarget Targets="UServer:Clean"/>
     </Target>
     <Target Name="Make">
-        <CallTarget Targets="UServer:Make;LKDUPackage:Make;DOSDie:Make;UExplorer:Make;CMW:Make;TelegramBot:Make;SupportApp:Make;G2048:Make;Clock:Make;Cars:Make;CTS:Make;Match3:Make;JackalGame:Make;PromptMe:Make"/>
+        <CallTarget Targets="UServer:Make"/>
     </Target>
     <Import Project="$(BDS)\Bin\CodeGear.Group.Targets" Condition="Exists('$(BDS)\Bin\CodeGear.Group.Targets')"/>
 </Project>

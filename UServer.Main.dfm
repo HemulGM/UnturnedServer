@@ -76,16 +76,16 @@
         DesignSize = (
           249
           190)
-        object SpeedButtonPlayerCtrl: TsSpeedButton
+        object SpeedButtonPlayerCtrl: TSpeedButton
           Left = 226
           Top = 49
           Width = 23
           Height = 22
           Anchors = [akTop, akRight]
+          ImageIndex = 5
+          Images = ImageList16
           Flat = True
           OnClick = SpeedButtonPlayerCtrlClick
-          Images = ImageList16
-          ImageIndex = 5
           ExplicitLeft = 228
         end
         object EditPlayerSteamID: TEdit
@@ -222,113 +222,106 @@
             Align = alBottom
             BevelOuter = bvNone
             TabOrder = 4
-            object SpeedButtonPCBan: TsSpeedButton
+            object SpeedButtonPCBan: TSpeedButton
               Left = 0
               Top = 0
               Width = 23
               Height = 25
               Hint = #1047#1072#1073#1072#1085#1080#1090#1100' '#1080#1075#1088#1086#1082#1072' ('#1085#1077#1086#1073#1093#1086#1076#1080#1084#1086' '#1091#1082#1072#1079#1072#1090#1100' '#1074#1088#1077#1084#1103' '#1080' '#1087#1088#1080#1095#1080#1085#1091')'
               Align = alLeft
+              ImageIndex = 6
+              Images = ImageList16
               Flat = True
               OnClick = SpeedButtonExeBanClick
-              Images = ImageList16
-              TextAlignment = taLeftJustify
-              ImageIndex = 6
               ExplicitLeft = 28
               ExplicitTop = 3
               ExplicitHeight = 22
             end
-            object SpeedButtonPCKick: TsSpeedButton
+            object SpeedButtonPCKick: TSpeedButton
               Left = 23
               Top = 0
               Width = 23
               Height = 25
               Hint = #1050#1080#1082#1085#1091#1090#1100' '#1080#1075#1088#1086#1082#1072' '#1089' '#1089#1077#1088#1074#1077#1088#1072
               Align = alLeft
+              ImageIndex = 7
+              Images = ImageList16
               Flat = True
               OnClick = SpeedButtonPCKickClick
-              Images = ImageList16
-              TextAlignment = taLeftJustify
-              ImageIndex = 7
               ExplicitLeft = 51
               ExplicitTop = 3
               ExplicitHeight = 22
             end
-            object SpeedButtonPCKill: TsSpeedButton
+            object SpeedButtonPCKill: TSpeedButton
               Left = 46
               Top = 0
               Width = 23
               Height = 25
               Hint = #1059#1073#1080#1090#1100' '#1087#1077#1089#1088#1086#1085#1072#1078#1072' '#1080#1075#1088#1086#1082#1072
               Align = alLeft
+              ImageIndex = 16
+              Images = ImageList16
               Flat = True
               OnClick = SpeedButtonPCKillClick
-              Images = ImageList16
-              TextAlignment = taLeftJustify
-              ImageIndex = 16
               ExplicitLeft = 74
               ExplicitTop = 3
               ExplicitHeight = 22
             end
-            object SpeedButtonCurSteamInfo: TsSpeedButton
+            object SpeedButtonCurSteamInfo: TSpeedButton
               Left = 226
               Top = 0
               Width = 23
               Height = 25
               Hint = #1048#1085#1092#1086#1088#1072#1094#1080#1103' '#1087#1086#1083#1100#1079#1086#1074#1072#1090#1077#1083#1103' Steam'
               Align = alRight
+              ImageIndex = 17
+              Images = ImageList16
               Flat = True
               OnClick = ActionSteamInfoExecute
-              Images = ImageList16
-              TextAlignment = taLeftJustify
-              ImageIndex = 17
               ExplicitLeft = 13
               ExplicitTop = 3
               ExplicitHeight = 22
             end
-            object SpeedButtonTPTarget: TsSpeedButton
+            object SpeedButtonTPTarget: TSpeedButton
               Left = 96
               Top = 0
               Width = 23
               Height = 25
               Hint = #1059#1089#1090#1072#1085#1086#1074#1080#1090#1100' '#1082#1072#1082' '#1094#1077#1083#1100' '#1076#1083#1103' '#1058#1055
               Align = alLeft
+              ImageIndex = 29
+              Images = ImageList16
               Flat = True
               OnClick = SpeedButtonTPTargetClick
-              Images = ImageList16
-              TextAlignment = taLeftJustify
-              ImageIndex = 29
               ExplicitLeft = 126
               ExplicitTop = -8
             end
-            object SpeedButtonPCPerm: TsSpeedButton
+            object SpeedButtonPCPerm: TSpeedButton
               Left = 203
               Top = 0
               Width = 23
               Height = 25
               Hint = #1055#1088#1080#1074#1077#1083#1077#1075#1080#1080
               Align = alRight
+              ImageIndex = 30
+              Images = ImageList16
               Flat = True
               OnClick = ButtonGetPlayerPClick
-              Images = ImageList16
-              TextAlignment = taLeftJustify
-              ImageIndex = 30
               ExplicitLeft = 120
               ExplicitTop = 3
               ExplicitHeight = 22
             end
-            object SpeedButtonPCMute: TsSpeedButton
+            object SpeedButtonPCMute: TSpeedButton
               Left = 69
               Top = 0
               Width = 23
               Height = 25
               Hint = #1047#1072#1087#1088#1077#1090#1080#1090#1100' '#1095#1072#1090
               Align = alLeft
+              ImageIndex = 34
+              Images = ImageList16
               Flat = True
               OnClick = SpeedButtonPCMuteClick
-              Images = ImageList16
-              TextAlignment = taLeftJustify
-              ImageIndex = 34
               ExplicitLeft = 143
               ExplicitTop = 3
               ExplicitHeight = 22
@@ -350,18 +343,17 @@
               ExplicitTop = 3
               ExplicitHeight = 19
             end
-            object SpeedButtonPInfo: TsSpeedButton
+            object SpeedButtonPInfo: TSpeedButton
               Left = 180
               Top = 0
               Width = 23
               Height = 25
               Hint = #1042#1089#1077' '#1076#1072#1085#1085#1099#1077
               Align = alRight
+              ImageIndex = 20
+              Images = ImageList16
               Flat = True
               OnClick = SpeedButtonPInfoClick
-              Images = ImageList16
-              TextAlignment = taLeftJustify
-              ImageIndex = 20
               ExplicitLeft = 120
               ExplicitTop = 3
               ExplicitHeight = 22
@@ -394,7 +386,7 @@
           Color = 4539717
           ParentBackground = False
           TabOrder = 0
-          object SpeedButtonFastChatSend: TsSpeedButton
+          object SpeedButtonFastChatSend: TSpeedButton
             AlignWithMargins = True
             Left = 221
             Top = 0
@@ -483,7 +475,7 @@
             OnClick = SpeedButtonFastChatSendClick
             ExplicitLeft = 225
           end
-          object SpeedButtonFastChatDown: TsSpeedButton
+          object SpeedButtonFastChatDown: TSpeedButton
             Left = 196
             Top = 0
             Width = 25
@@ -643,6 +635,7 @@
           Font.Style = []
           ParentFont = False
           TabOrder = 1
+          StyleElements = [seBorder]
           OnMouseUp = TableExMiniChatMouseUp
           OnDrawCellData = TableExFastChatDrawCellData
           ItemIndex = -1
@@ -716,6 +709,7 @@
           Font.Style = []
           ParentFont = False
           TabOrder = 0
+          StyleElements = [seBorder]
           OnStartDrag = ListBoxExPlayersStartDrag
           OnMouseDown = ListBoxExPlayersMouseDown
           OnDrawCellData = ListBoxExPlayersDrawCellData
@@ -782,17 +776,15 @@
             Layout = tlCenter
             ExplicitHeight = 14
           end
-          object SpeedButtonPlayersUpdate: TsSpeedButton
+          object SpeedButtonPlayersUpdate: TSpeedButton
             Left = 226
             Top = 0
             Width = 23
             Height = 25
             Action = ActionPlayersUpdate
             Align = alRight
-            Flat = True
             Images = ImageList16
-            ImageIndex = 0
-            ShowCaption = False
+            Flat = True
             ExplicitLeft = 186
             ExplicitTop = 3
             ExplicitHeight = 30
@@ -835,7 +827,7 @@
         Color = 4539717
         ParentBackground = False
         TabOrder = 0
-        object SpeedButtonCommandExe: TsSpeedButton
+        object SpeedButtonCommandExe: TSpeedButton
           AlignWithMargins = True
           Left = 3
           Top = 0
@@ -991,6 +983,7 @@
         Font.Style = []
         ParentFont = False
         TabOrder = 1
+        StyleElements = [seBorder]
         ItemIndex = -1
         GetData = TableExLogGamePlayGetData
         Columns = <>
@@ -1061,6 +1054,7 @@
           Font.Style = []
           ParentFont = False
           TabOrder = 0
+          StyleElements = [seBorder]
           ItemIndex = -1
           GetData = TableExLogCommandsGetData
           Columns = <>
@@ -1111,6 +1105,7 @@
           Font.Style = []
           ParentFont = False
           TabOrder = 1
+          StyleElements = [seBorder]
           ItemIndex = -1
           GetData = TableExLogSystemGetData
           OnEdit = TableExLogSystemFaceEdit
@@ -1547,7 +1542,7 @@
                 Color = 4539717
                 ParentBackground = False
                 TabOrder = 0
-                object SpeedButtonMiniChatSend: TsSpeedButton
+                object SpeedButtonMiniChatSend: TSpeedButton
                   Left = 371
                   Top = 0
                   Width = 25
@@ -1636,7 +1631,7 @@
                   OnClick = SpeedButtonMiniChatSendClick
                   ExplicitLeft = 374
                 end
-                object SpeedButtonMiniChatDown: TsSpeedButton
+                object SpeedButtonMiniChatDown: TSpeedButton
                   Left = 346
                   Top = 0
                   Width = 25
@@ -1834,6 +1829,7 @@
                 Font.Style = []
                 ParentFont = False
                 TabOrder = 1
+                StyleElements = [seBorder]
                 OnMouseUp = TableExMiniChatMouseUp
                 OnDrawCellData = TableExFastChatDrawCellData
                 ItemIndex = -1
@@ -2230,49 +2226,45 @@
                 IgnorBounds = True
                 EllipseRectVertical = False
               end
-              object sSpeedButton11: TsSpeedButton
+              object sSpeedButton11: TSpeedButton
                 Left = 5
                 Top = 35
                 Width = 17
                 Height = 17
                 Hint = #1040#1082#1090#1080#1074#1085#1086#1089#1090#1100' '#1041#1044' '#1089#1077#1088#1074#1077#1088#1072
-                Flat = True
-                Images = ImageList16
                 ImageIndex = 20
-                WordWrap = False
+                Images = ImageList16
+                Flat = True
               end
-              object sSpeedButton13: TsSpeedButton
+              object sSpeedButton13: TSpeedButton
                 Left = 23
                 Top = 35
                 Width = 17
                 Height = 17
                 Hint = #1040#1082#1090#1080#1074#1085#1086#1089#1090#1100' '#1095#1072#1090#1072' '#1089#1072#1081#1090#1072
-                Flat = True
-                Images = ImageList16
                 ImageIndex = 22
-                WordWrap = False
+                Images = ImageList16
+                Flat = True
               end
-              object sSpeedButton14: TsSpeedButton
+              object sSpeedButton14: TSpeedButton
                 Left = 41
                 Top = 35
                 Width = 17
                 Height = 17
                 Hint = #1040#1082#1090#1080#1074#1085#1086#1089#1090#1100' '#1058#1077#1083#1077#1075#1088#1072#1084#1084#1072
-                Flat = True
-                Images = ImageList16
                 ImageIndex = 23
-                WordWrap = False
+                Images = ImageList16
+                Flat = True
               end
-              object sSpeedButton15: TsSpeedButton
+              object sSpeedButton15: TSpeedButton
                 Left = 59
                 Top = 35
                 Width = 17
                 Height = 17
                 Hint = #1040#1082#1090#1080#1074#1085#1086#1089#1090#1100' '#1084#1086#1076#1091#1083#1103' '#1080#1075#1088#1086#1074#1099#1093' '#1089#1086#1073#1099#1090#1080#1081
-                Flat = True
-                Images = ImageList16
                 ImageIndex = 24
-                WordWrap = False
+                Images = ImageList16
+                Flat = True
               end
               object LabelEx1: TLabelEx
                 Left = 6
@@ -2291,15 +2283,14 @@
                 IgnorBounds = True
                 EllipseRectVertical = False
               end
-              object sSpeedButton16: TsSpeedButton
+              object sSpeedButton16: TSpeedButton
                 Left = 77
                 Top = 35
                 Width = 17
                 Height = 17
-                Flat = True
-                Images = ImageList16
                 ImageIndex = 19
-                WordWrap = False
+                Images = ImageList16
+                Flat = True
               end
               object LabelExRCON: TLabelEx
                 Left = 83
@@ -2319,16 +2310,15 @@
                 IgnorBounds = True
                 EllipseRectVertical = False
               end
-              object sSpeedButton17: TsSpeedButton
+              object sSpeedButton17: TSpeedButton
                 Left = 375
                 Top = 35
                 Width = 17
                 Height = 17
+                ImageIndex = 25
+                Images = ImageList16
                 Flat = True
                 OnClick = ButtonManagerReconClick
-                Images = ImageList16
-                ImageIndex = 25
-                WordWrap = False
               end
               object LabelExConPath: TLabelEx
                 Left = 381
@@ -2348,16 +2338,15 @@
                 IgnorBounds = True
                 EllipseRectVertical = False
               end
-              object sSpeedButton12: TsSpeedButton
+              object sSpeedButton12: TSpeedButton
                 Left = 357
                 Top = 35
                 Width = 17
                 Height = 17
+                ImageIndex = 20
+                Images = ImageList16
                 Flat = True
                 OnClick = ButtonSDBReconClick
-                Images = ImageList16
-                ImageIndex = 20
-                WordWrap = False
               end
               object LabelExConDBS: TLabelEx
                 Left = 363
@@ -2377,17 +2366,16 @@
                 IgnorBounds = True
                 EllipseRectVertical = False
               end
-              object sSpeedButton20: TsSpeedButton
+              object sSpeedButton20: TSpeedButton
                 Left = 320
                 Top = 35
                 Width = 17
                 Height = 17
                 Hint = #1055#1086#1076#1082#1083#1102#1095#1077#1085#1080#1077' '#1082' '#1041#1044' '#1089#1077#1088#1074#1077#1088#1072
+                ImageIndex = 20
+                Images = ImageList16
                 Flat = True
                 OnClick = ButtonDBReconClick
-                Images = ImageList16
-                ImageIndex = 20
-                WordWrap = False
               end
               object LabelExConDBU: TLabelEx
                 Left = 326
@@ -2406,16 +2394,15 @@
                 IgnorBounds = True
                 EllipseRectVertical = False
               end
-              object SpeedButtonConProc: TsSpeedButton
+              object SpeedButtonConProc: TSpeedButton
                 Left = 338
                 Top = 35
                 Width = 17
                 Height = 17
+                ImageIndex = 26
+                Images = ImageList16
                 Flat = True
                 OnClick = SpeedButtonConProcClick
-                Images = ImageList16
-                ImageIndex = 26
-                WordWrap = False
               end
               object LabelExConCP: TLabelEx
                 Left = 344
@@ -2435,17 +2422,16 @@
                 IgnorBounds = True
                 EllipseRectVertical = False
               end
-              object sSpeedButton22: TsSpeedButton
+              object sSpeedButton22: TSpeedButton
                 Left = 302
                 Top = 35
                 Width = 17
                 Height = 17
                 Hint = #1055#1086#1076#1082#1083#1102#1095#1077#1085#1080#1077' '#1082' RCON'
+                ImageIndex = 19
+                Images = ImageList16
                 Flat = True
                 OnClick = ButtonRCONReconClick
-                Images = ImageList16
-                ImageIndex = 19
-                WordWrap = False
               end
               object LabelExConRCON: TLabelEx
                 Left = 308
@@ -2503,17 +2489,16 @@
                 Font.Style = []
                 ParentFont = False
               end
-              object sSpeedButton1: TsSpeedButton
+              object sSpeedButton1: TSpeedButton
                 Left = 284
                 Top = 35
                 Width = 17
                 Height = 17
                 Hint = #1055#1086#1076#1082#1083#1102#1095#1077#1085#1080#1077' '#1082' '#1042#1082#1086#1085#1090#1072#1082#1090#1077
+                ImageIndex = 27
+                Images = ImageList16
                 Flat = True
                 OnClick = SpeedButtonVKConClick
-                Images = ImageList16
-                ImageIndex = 27
-                WordWrap = False
               end
               object LabelExConVK: TLabelEx
                 Left = 290
@@ -2532,15 +2517,14 @@
                 IgnorBounds = True
                 EllipseRectVertical = False
               end
-              object sSpeedButton2: TsSpeedButton
+              object sSpeedButton2: TSpeedButton
                 Left = 95
                 Top = 35
                 Width = 17
                 Height = 17
-                Flat = True
-                Images = ImageList16
                 ImageIndex = 26
-                WordWrap = False
+                Images = ImageList16
+                Flat = True
               end
               object LabelExThProc: TLabelEx
                 Left = 101
@@ -2560,15 +2544,14 @@
                 IgnorBounds = True
                 EllipseRectVertical = False
               end
-              object sSpeedButton31: TsSpeedButton
+              object sSpeedButton31: TSpeedButton
                 Left = 113
                 Top = 35
                 Width = 17
                 Height = 17
-                Flat = True
-                Images = ImageList16
                 ImageIndex = 31
-                WordWrap = False
+                Images = ImageList16
+                Flat = True
               end
               object LabelExThGet: TLabelEx
                 Left = 119
@@ -2588,12 +2571,14 @@
                 IgnorBounds = True
                 EllipseRectVertical = False
               end
-              object SpeedButtonShutdown: TsSpeedButton
+              object SpeedButtonShutdown: TSpeedButton
                 Left = 239
                 Top = 88
                 Width = 146
                 Height = 29
                 Caption = #1042#1082#1083'/'#1042#1099#1082#1083
+                ImageIndex = 19
+                Images = ImageListMed
                 Flat = True
                 Font.Charset = DEFAULT_CHARSET
                 Font.Color = clSilver
@@ -2602,18 +2587,15 @@
                 Font.Style = [fsBold]
                 ParentFont = False
                 OnClick = SpeedButtonShutdownClick
-                Alignment = taLeftJustify
-                Images = ImageListMed
-                TextAlignment = taLeftJustify
-                ImageIndex = 19
-                WordWrap = False
               end
-              object SpeedButtonRestart: TsSpeedButton
+              object SpeedButtonRestart: TSpeedButton
                 Left = 239
                 Top = 117
                 Width = 146
                 Height = 29
                 Caption = #1055#1077#1088#1077#1079#1072#1087#1091#1089#1090#1080#1090#1100
+                ImageIndex = 20
+                Images = ImageListMed
                 Flat = True
                 Font.Charset = DEFAULT_CHARSET
                 Font.Color = clSilver
@@ -2622,11 +2604,6 @@
                 Font.Style = [fsBold]
                 ParentFont = False
                 OnClick = SpeedButtonRestartClick
-                Alignment = taLeftJustify
-                Images = ImageListMed
-                TextAlignment = taLeftJustify
-                ImageIndex = 20
-                WordWrap = False
               end
               object Panel44: TPanel
                 Left = 180
@@ -2644,7 +2621,7 @@
                   Left = 3
                   Top = 0
                   Width = 9
-                  Height = 23
+                  Height = 21
                   Hint = 'TimerUpdate'
                   Margins.Top = 0
                   Margins.Bottom = 0
@@ -2656,14 +2633,13 @@
                   Font.Name = 'Tahoma'
                   Font.Style = []
                   ParentFont = False
-                  ExplicitHeight = 21
                 end
                 object LabelTimerRestart: TLabel
                   AlignWithMargins = True
                   Left = 48
                   Top = 0
                   Width = 9
-                  Height = 23
+                  Height = 21
                   Hint = 'TimerRestart'
                   Margins.Top = 0
                   Margins.Bottom = 0
@@ -2675,14 +2651,13 @@
                   Font.Name = 'Tahoma'
                   Font.Style = []
                   ParentFont = False
-                  ExplicitHeight = 21
                 end
                 object LabelTimerCheckDonat: TLabel
                   AlignWithMargins = True
                   Left = 18
                   Top = 0
                   Width = 9
-                  Height = 23
+                  Height = 21
                   Hint = 'TimerCheckDonat'
                   Margins.Top = 0
                   Margins.Bottom = 0
@@ -2694,14 +2669,13 @@
                   Font.Name = 'Tahoma'
                   Font.Style = []
                   ParentFont = False
-                  ExplicitHeight = 21
                 end
                 object LabelTimerHearthBeat: TLabel
                   AlignWithMargins = True
                   Left = 33
                   Top = 0
                   Width = 9
-                  Height = 23
+                  Height = 21
                   Hint = 'TimerHearthBeat'
                   Margins.Top = 0
                   Margins.Bottom = 0
@@ -2713,7 +2687,6 @@
                   Font.Name = 'Tahoma'
                   Font.Style = []
                   ParentFont = False
-                  ExplicitHeight = 21
                 end
               end
             end
@@ -2747,13 +2720,15 @@
               FontCaption.Style = [fsBold]
               ShowSimpleBorder = True
               CaptionHeight = 30
-              object SpeedButtonAirdrop: TsSpeedButton
+              object SpeedButtonAirdrop: TSpeedButton
                 Left = 7
                 Top = 97
                 Width = 182
                 Height = 30
                 Hint = #1054#1090#1087#1088#1072#1074#1080#1090#1100' '#1072#1080#1088#1076#1088#1086#1087
                 Caption = #1055#1086#1089#1083#1072#1090#1100' Airdrop'
+                ImageIndex = 3
+                Images = ImageListMed
                 Flat = True
                 Font.Charset = DEFAULT_CHARSET
                 Font.Color = clWindowText
@@ -2762,20 +2737,16 @@
                 Font.Style = []
                 ParentFont = False
                 OnClick = SpeedButtonAirdropClick
-                Alignment = taLeftJustify
-                ButtonStyle = tbsDropDown
-                DropdownMenu = PopupMenuAirdrop
-                Images = ImageListMed
-                TextAlignment = taLeftJustify
-                ImageIndex = 3
               end
-              object SpeedButtonExeHeal: TsSpeedButton
+              object SpeedButtonExeHeal: TSpeedButton
                 Left = 204
                 Top = 37
                 Width = 186
                 Height = 30
                 Hint = #1048#1079#1083#1077#1095#1080#1090#1100' '#1074#1099#1073#1088#1072#1085#1085#1086#1075#1086' '#1080#1075#1088#1086#1082#1072
                 Caption = #1048#1079#1083#1077#1095#1080#1090#1100
+                ImageIndex = 1
+                Images = ImageListMed
                 Flat = True
                 Font.Charset = DEFAULT_CHARSET
                 Font.Color = clWindowText
@@ -2784,10 +2755,6 @@
                 Font.Style = []
                 ParentFont = False
                 OnClick = SpeedButtonExeHealClick
-                Alignment = taLeftJustify
-                Images = ImageListMed
-                TextAlignment = taLeftJustify
-                ImageIndex = 1
               end
               object Shape13: TShape
                 Left = 195
@@ -2797,13 +2764,15 @@
                 Brush.Color = 13816530
                 Pen.Color = 13816530
               end
-              object SpeedButtonSetDay: TsSpeedButton
+              object SpeedButtonSetDay: TSpeedButton
                 Left = 7
                 Top = 127
                 Width = 182
                 Height = 30
                 Hint = #1059#1089#1090#1072#1085#1086#1074#1080#1090#1100' '#1076#1085#1077#1074#1085#1086#1077' '#1074#1088#1077#1084#1103
                 Caption = #1059#1089#1090#1072#1085#1086#1074#1080#1090#1100' '#1076#1077#1085#1100
+                ImageIndex = 11
+                Images = ImageListMed
                 Flat = True
                 Font.Charset = DEFAULT_CHARSET
                 Font.Color = clWindowText
@@ -2812,18 +2781,16 @@
                 Font.Style = []
                 ParentFont = False
                 OnClick = SpeedButtonSetDayClick
-                Alignment = taLeftJustify
-                Images = ImageListMed
-                TextAlignment = taLeftJustify
-                ImageIndex = 11
               end
-              object SpeedButtonSetNight: TsSpeedButton
+              object SpeedButtonSetNight: TSpeedButton
                 Left = 7
                 Top = 157
                 Width = 182
                 Height = 30
                 Hint = #1059#1089#1090#1072#1085#1086#1074#1080#1090#1100' '#1085#1086#1095#1085#1086#1077' '#1074#1088#1077#1084#1103
                 Caption = #1059#1089#1090#1072#1085#1086#1074#1080#1090#1100' '#1085#1086#1095#1100
+                ImageIndex = 7
+                Images = ImageListMed
                 Flat = True
                 Font.Charset = DEFAULT_CHARSET
                 Font.Color = clWindowText
@@ -2832,18 +2799,16 @@
                 Font.Style = []
                 ParentFont = False
                 OnClick = SpeedButtonSetNightClick
-                Alignment = taLeftJustify
-                Images = ImageListMed
-                TextAlignment = taLeftJustify
-                ImageIndex = 7
               end
-              object SpeedButtonSetStorm: TsSpeedButton
+              object SpeedButtonSetStorm: TSpeedButton
                 Left = 7
                 Top = 187
                 Width = 182
                 Height = 30
                 Hint = #1059#1089#1090#1072#1085#1086#1074#1080#1090#1100'/'#1091#1073#1088#1072#1090#1100' '#1087#1072#1089#1084#1091#1088#1085#1091#1102' '#1087#1086#1075#1086#1076#1091
                 Caption = #1055#1072#1089#1084#1091#1088#1085#1086
+                ImageIndex = 8
+                Images = ImageListMed
                 Flat = True
                 Font.Charset = DEFAULT_CHARSET
                 Font.Color = clWindowText
@@ -2852,18 +2817,16 @@
                 Font.Style = []
                 ParentFont = False
                 OnClick = SpeedButtonSetStormClick
-                Alignment = taLeftJustify
-                Images = ImageListMed
-                TextAlignment = taLeftJustify
-                ImageIndex = 8
               end
-              object SpeedButtonExeKill: TsSpeedButton
+              object SpeedButtonExeKill: TSpeedButton
                 Left = 204
                 Top = 67
                 Width = 186
                 Height = 30
                 Hint = #1059#1073#1080#1090#1100' '#1074#1099#1073#1088#1072#1085#1085#1086#1075#1086' '#1080#1075#1088#1086#1082#1072
                 Caption = #1059#1073#1080#1090#1100' '#1087#1077#1088#1089#1086#1085#1072#1078#1072
+                ImageIndex = 5
+                Images = ImageListMed
                 Flat = True
                 Font.Charset = DEFAULT_CHARSET
                 Font.Color = clWindowText
@@ -2872,18 +2835,16 @@
                 Font.Style = []
                 ParentFont = False
                 OnClick = SpeedButtonExeKillClick
-                Alignment = taLeftJustify
-                Images = ImageListMed
-                TextAlignment = taLeftJustify
-                ImageIndex = 5
               end
-              object SpeedButtonExeKick: TsSpeedButton
+              object SpeedButtonExeKick: TSpeedButton
                 Left = 204
                 Top = 97
                 Width = 186
                 Height = 30
                 Hint = #1050#1080#1082#1085#1091#1090#1100' '#1080#1075#1088#1086#1082#1072
                 Caption = #1042#1099#1075#1085#1072#1090#1100' '#1089' '#1089#1077#1088#1074#1077#1088#1072
+                ImageIndex = 12
+                Images = ImageListMed
                 Flat = True
                 Font.Charset = DEFAULT_CHARSET
                 Font.Color = clWindowText
@@ -2892,18 +2853,16 @@
                 Font.Style = []
                 ParentFont = False
                 OnClick = SpeedButtonExeKickClick
-                Alignment = taLeftJustify
-                Images = ImageListMed
-                TextAlignment = taLeftJustify
-                ImageIndex = 12
               end
-              object SpeedButtonExeBan: TsSpeedButton
+              object SpeedButtonExeBan: TSpeedButton
                 Left = 204
                 Top = 127
                 Width = 186
                 Height = 30
                 Hint = #1047#1072#1073#1072#1085#1080#1090#1100' '#1080#1075#1088#1086#1082#1072' '#1085#1072' '#1091#1082#1072#1079#1072#1085#1085#1086#1077' '#1074#1088#1077#1084#1103
                 Caption = #1054#1090#1087#1088#1072#1074#1080#1090#1100' '#1074' '#1041#1040#1053
+                ImageIndex = 13
+                Images = ImageListMed
                 Flat = True
                 Font.Charset = DEFAULT_CHARSET
                 Font.Color = clWindowText
@@ -2912,12 +2871,6 @@
                 Font.Style = []
                 ParentFont = False
                 OnClick = SpeedButtonExeBanClick
-                Alignment = taLeftJustify
-                ButtonStyle = tbsDropDown
-                DropdownMenu = PopupMenuBan
-                Images = ImageListMed
-                TextAlignment = taLeftJustify
-                ImageIndex = 13
               end
               object Shape17: TShape
                 Left = 1
@@ -2935,12 +2888,14 @@
                 Brush.Color = 13816530
                 Pen.Color = 13816530
               end
-              object SpeedButtonTP: TsSpeedButton
+              object SpeedButtonTP: TSpeedButton
                 Left = 369
                 Top = 286
                 Width = 24
                 Height = 26
                 Hint = #1058#1077#1083#1077#1087#1086#1088#1090#1080#1088#1086#1074#1072#1090#1100
+                ImageIndex = 18
+                Images = ImageListMed
                 Flat = True
                 Font.Charset = DEFAULT_CHARSET
                 Font.Color = clWindowText
@@ -2949,16 +2904,14 @@
                 Font.Style = []
                 ParentFont = False
                 OnClick = SpeedButtonTPClick
-                Alignment = taLeftJustify
-                Images = ImageListMed
-                TextAlignment = taLeftJustify
-                ImageIndex = 18
               end
-              object SpeedButtonDayTime: TsSpeedButton
+              object SpeedButtonDayTime: TSpeedButton
                 Left = 7
                 Top = 35
                 Width = 48
                 Height = 48
+                ImageIndex = 0
+                Images = ImageListState48
                 Flat = True
                 Font.Charset = DEFAULT_CHARSET
                 Font.Color = clWindowText
@@ -2967,10 +2920,6 @@
                 Font.Style = []
                 ParentFont = False
                 OnClick = SpeedButtonDayTimeClick
-                Alignment = taLeftJustify
-                Images = ImageListState48
-                TextAlignment = taLeftJustify
-                ImageIndex = 0
               end
               object LabelTimeOnServer: TLabel
                 Left = 65
@@ -2990,82 +2939,6 @@
                 Top = 32
                 Width = 25
                 Height = 26
-                Picture.Data = {
-                  0B54504E474772617068696336090000424D3609000000000000360000002800
-                  0000180000001800000001002000000000000009000000000000000000000000
-                  0000000000000000000000000000000000000000000000000000000000000000
-                  0000000000000000000000000000000000000000000000000000000000000000
-                  0000000000000000000000000000000000000000000000000000000000000000
-                  0000000000000000000000000000000000000000000000000000000000000000
-                  000000000000000000004646460B4646460B4646460B4646460B4646460B4646
-                  460B333333050000000000000000000000000000000000000000000000000000
-                  0000000000000000000000000000000000000000000000000000000000000000
-                  0000000000005353532E595958D4585858D6585858D6585858D6585858D65858
-                  58D6585858800000000000000000000000000000000000000000000000000000
-                  0000000000000000000000000000000000000000000000000000000000000000
-                  0000000000005656565F585858FE595959FF595959FF595959FF595959FF5959
-                  59FF575757BE0000000100000000000000000000000000000000000000000000
-                  0000000000000000000000000000000000000000000000000000000000000000
-                  00000000000057575789585858FE595959FF595959FF595959FF595959FF5959
-                  59FF585858DD5050501000000000000000000000000000000000000000000000
-                  0000000000000000000000000000000000000000000000000000000000000000
-                  000000000000575757B8595959FF595959FF595959FF595959FF595959FF5959
-                  59FF595959FA5252521F00000000000000000000000000000000000000000000
-                  0000000000000000000000000000000000000000000000000000000000000000
-                  000051515113585858DB595959FF595959FF595959FF595959FF595959FF5959
-                  59FF595959FD5555555400000000000000000000000000000000000000000000
-                  0000000000000000000000000000000000000000000000000000000000004D4D
-                  4D0A575757AC585858FE585858EE565656945757575256565647565656735757
-                  57D2595959FD585858E455555530000000000000000000000000000000000000
-                  0000000000000000000000000000000000000000000000000000000000005656
-                  5676595959FD585858E457575732000000000000000000000000000000004949
-                  490E575757A8595959FD585858CE555555030000000000000000000000000000
-                  0000000000000000000000000000000000000000000000000000333333055858
-                  58EA585858F55656564A00000000000000000000000000000000000000000000
-                  00005B5B5B0E575757CD585858FE565656530000000000000000000000000000
-                  00000000000000000000000000000000000000000000000000005252523E5959
-                  59FD585858CE4040400400000000000000000000000000000000000000000000
-                  00000000000055555572585858FC5858589F0000000000000000000000000000
-                  0000000000000000000000000000000000000000000000000000565656595858
-                  58FE575757A40000000000000000000000000000000000000000000000000000
-                  00000000000055555545585858F8585858BA0000000000000000000000000000
-                  0000000000000000000000000000000000000000000000000000555555545858
-                  58FE585858AE0000000000000000000000000000000000000000000000000000
-                  00000000000056565650585858F8585858B60000000000000000000000000000
-                  0000000000000000000000000000000000000000000000000000535353255858
-                  58FB585858E05555551200000000000000000000000000000000000000000000
-                  00000000000056565691585858FE575757840000000000000000000000000000
-                  0000000000000000000000000000000000000000000000000000000000005858
-                  58CB595959FD5656568300000000000000000000000000000000000000000000
-                  000057575732585858EA595959FD5959592E0000000000000000000000000000
-                  0000000000000000000000000000000000000000000000000000000000005858
-                  5840595959F4595959FD56565683555555120000000000000000404040045454
-                  5449585858E3585858FE57575793000000000000000000000000000000000000
-                  0000000000000000000000000000000000000000000000000000000000000000
-                  000157575761585858F9585858FE585858E3575757B2575757A7575757CF5858
-                  58F8585858FE585858B05555550C000000000000000000000000000000000000
-                  0000000000000000000000000000000000000000000000000000000000000000
-                  000049494907585858CA595959FF595959FF595959FF595959FF595959FF5959
-                  59FF595959FD5555553600000000000000000000000000000000000000000000
-                  0000000000000000000000000000000000000000000000000000000000000000
-                  000000000000575757AA585858FE595959FF595959FF595959FF595959FF5959
-                  59FF585858F35858581A00000000000000000000000000000000000000000000
-                  0000000000000000000000000000000000000000000000000000000000000000
-                  00000000000057575775585858FE595959FF595959FF595959FF595959FF5959
-                  59FF575757CF5555550900000000000000000000000000000000000000000000
-                  0000000000000000000000000000000000000000000000000000000000000000
-                  00000000000054545452595959FD595959FF595959FF595959FF595959FF5959
-                  59FF575757B30000000000000000000000000000000000000000000000000000
-                  0000000000000000000000000000000000000000000000000000000000000000
-                  0000000000005959591457575781575757815757578157575781575757815757
-                  5781575757460000000000000000000000000000000000000000000000000000
-                  0000000000000000000000000000000000000000000000000000000000000000
-                  0000000000000000000000000000000000000000000000000000000000000000
-                  0000000000000000000000000000000000000000000000000000000000000000
-                  0000000000000000000000000000000000000000000000000000000000000000
-                  0000000000000000000000000000000000000000000000000000000000000000
-                  0000000000000000000000000000000000000000000000000000000000000000
-                  000000000000}
               end
               object LabelDayTime: TLabel
                 Left = 64
@@ -3118,6 +2991,7 @@
                 Font.Style = []
                 ParentFont = False
                 TabOrder = 2
+                StyleElements = [seBorder]
                 ItemIndex = -1
                 OnItemClick = TableExMapPointsItemClick
                 GetData = TableExMapPointsGetData
@@ -3233,6 +3107,7 @@
                 Font.Style = []
                 ParentFont = False
                 TabOrder = 0
+                StyleElements = [seBorder]
                 OnDrawCellData = TableExPlayersRevDrawCellData
                 ItemIndex = -1
                 OnItemClick = TableExPlayersRevItemClick
@@ -3284,7 +3159,7 @@
                 Color = 4539717
                 ParentBackground = False
                 TabOrder = 2
-                object SpeedButtonEventsDown: TsSpeedButton
+                object SpeedButtonEventsDown: TSpeedButton
                   Left = 369
                   Top = 0
                   Width = 27
@@ -3462,7 +3337,7 @@
                 Color = 4539717
                 ParentBackground = False
                 TabOrder = 2
-                object SpeedButtonGEventRun: TsSpeedButton
+                object SpeedButtonGEventRun: TSpeedButton
                   Left = 0
                   Top = 0
                   Width = 25
@@ -3550,7 +3425,7 @@
                     0000000000000000000000000000000000000000000000000000}
                   OnClick = SpeedButtonGEventRunClick
                 end
-                object SpeedButtonGEventReset: TsSpeedButton
+                object SpeedButtonGEventReset: TSpeedButton
                   Left = 25
                   Top = 0
                   Width = 25
@@ -3638,7 +3513,7 @@
                     0000000000000000000000000000000000000000000000000000}
                   OnClick = SpeedButtonGEventResetClick
                 end
-                object SpeedButtonGEventState: TsSpeedButton
+                object SpeedButtonGEventState: TSpeedButton
                   Left = 50
                   Top = 0
                   Width = 25
@@ -3758,12 +3633,14 @@
               FontCaption.Style = [fsBold]
               ShowSimpleBorder = True
               CaptionHeight = 30
-              object ButtonPermAdd: TsSpeedButton
+              object ButtonPermAdd: TSpeedButton
                 Left = 8
                 Top = 104
                 Width = 161
                 Height = 26
                 Caption = #1044#1086#1073#1072#1074#1080#1090#1100' '#1074' '#1075#1088#1091#1087#1087#1091
+                ImageIndex = 5
+                Images = ImageList16
                 Flat = True
                 Font.Charset = DEFAULT_CHARSET
                 Font.Color = clSilver
@@ -3772,18 +3649,15 @@
                 Font.Style = []
                 ParentFont = False
                 OnClick = ButtonPermAddClick
-                Alignment = taLeftJustify
-                Images = ImageList16
-                TextAlignment = taLeftJustify
-                ImageIndex = 5
-                WordWrap = False
               end
-              object ButtonGetPlayerP: TsSpeedButton
+              object ButtonGetPlayerP: TSpeedButton
                 Left = 8
                 Top = 72
                 Width = 161
                 Height = 26
                 Caption = #1055#1086#1083#1091#1095#1080#1090#1100' '#1076#1072#1085#1085#1099#1077' '#1080#1075#1088#1086#1082#1072
+                ImageIndex = 0
+                Images = ImageList16
                 Flat = True
                 Font.Charset = DEFAULT_CHARSET
                 Font.Color = clSilver
@@ -3792,18 +3666,15 @@
                 Font.Style = []
                 ParentFont = False
                 OnClick = ButtonGetPlayerPClick
-                Alignment = taLeftJustify
-                Images = ImageList16
-                TextAlignment = taLeftJustify
-                ImageIndex = 0
-                WordWrap = False
               end
-              object ButtonPermRemove: TsSpeedButton
+              object ButtonPermRemove: TSpeedButton
                 Left = 8
                 Top = 136
                 Width = 161
                 Height = 26
                 Caption = #1059#1076#1072#1083#1080#1090#1100' '#1080#1079' '#1075#1088#1091#1087#1087#1099
+                ImageIndex = 15
+                Images = ImageList16
                 Flat = True
                 Font.Charset = DEFAULT_CHARSET
                 Font.Color = clSilver
@@ -3812,18 +3683,15 @@
                 Font.Style = []
                 ParentFont = False
                 OnClick = ButtonPermRemoveClick
-                Alignment = taLeftJustify
-                Images = ImageList16
-                TextAlignment = taLeftJustify
-                ImageIndex = 15
-                WordWrap = False
               end
-              object SpeedButtonCreateDonat: TsSpeedButton
+              object SpeedButtonCreateDonat: TSpeedButton
                 Left = 8
                 Top = 258
                 Width = 161
                 Height = 26
                 Caption = #1047#1072#1092#1080#1082#1089#1080#1088#1086#1074#1072#1090#1100' '#1076#1086#1085#1072#1090
+                ImageIndex = 32
+                Images = ImageList16
                 Flat = True
                 Font.Charset = DEFAULT_CHARSET
                 Font.Color = clSilver
@@ -3832,11 +3700,6 @@
                 Font.Style = []
                 ParentFont = False
                 OnClick = SpeedButtonCreateDonatClick
-                Alignment = taLeftJustify
-                Images = ImageList16
-                TextAlignment = taLeftJustify
-                ImageIndex = 32
-                WordWrap = False
               end
               object LabelEx3: TLabelEx
                 Left = 6
@@ -4086,7 +3949,7 @@
                 Color = 4539717
                 ParentBackground = False
                 TabOrder = 1
-                object SpeedButtonPIReSpy: TsSpeedButton
+                object SpeedButtonPIReSpy: TSpeedButton
                   Left = 371
                   Top = 0
                   Width = 25
@@ -4229,6 +4092,7 @@
                 Font.Style = []
                 ParentFont = False
                 TabOrder = 0
+                StyleElements = [seBorder]
                 ItemIndex = -1
                 GetData = TableExActionsGetData
                 OnEdit = TableExActionsEdit
@@ -4279,7 +4143,7 @@
                 Color = 4539717
                 ParentBackground = False
                 TabOrder = 2
-                object sSpeedButton27: TsSpeedButton
+                object sSpeedButton27: TSpeedButton
                   Left = 369
                   Top = 0
                   Width = 27
@@ -4400,12 +4264,14 @@
               FontCaption.Style = [fsBold]
               ShowSimpleBorder = True
               CaptionHeight = 30
-              object SpeedButtonGiveExp: TsSpeedButton
+              object SpeedButtonGiveExp: TSpeedButton
                 Left = 321
                 Top = 62
                 Width = 69
                 Height = 26
                 Caption = #1042#1099#1076#1072#1090#1100
+                ImageIndex = 5
+                Images = ImageList16
                 Flat = True
                 Font.Charset = DEFAULT_CHARSET
                 Font.Color = clSilver
@@ -4414,11 +4280,6 @@
                 Font.Style = []
                 ParentFont = False
                 OnClick = SpeedButtonGiveExpClick
-                Alignment = taLeftJustify
-                Images = ImageList16
-                TextAlignment = taLeftJustify
-                ImageIndex = 5
-                WordWrap = False
               end
               object Label36: TLabel
                 Left = 8
@@ -4448,12 +4309,14 @@
                 ParentFont = False
                 Transparent = True
               end
-              object SpeedButtonGiveEP: TsSpeedButton
+              object SpeedButtonGiveEP: TSpeedButton
                 Left = 319
                 Top = 112
                 Width = 71
                 Height = 26
                 Caption = #1042#1099#1076#1072#1090#1100
+                ImageIndex = 5
+                Images = ImageList16
                 Flat = True
                 Font.Charset = DEFAULT_CHARSET
                 Font.Color = clSilver
@@ -4462,11 +4325,6 @@
                 Font.Style = []
                 ParentFont = False
                 OnClick = SpeedButtonGiveEPClick
-                Alignment = taLeftJustify
-                Images = ImageList16
-                TextAlignment = taLeftJustify
-                ImageIndex = 5
-                WordWrap = False
               end
               object Label38: TLabel
                 Left = 8
@@ -4482,12 +4340,14 @@
                 ParentFont = False
                 Transparent = True
               end
-              object SpeedButtonGiveItems: TsSpeedButton
+              object SpeedButtonGiveItems: TSpeedButton
                 Left = 319
                 Top = 163
                 Width = 71
                 Height = 26
                 Caption = #1042#1099#1076#1072#1090#1100
+                ImageIndex = 5
+                Images = ImageList16
                 Flat = True
                 Font.Charset = DEFAULT_CHARSET
                 Font.Color = clSilver
@@ -4496,11 +4356,6 @@
                 Font.Style = []
                 ParentFont = False
                 OnClick = SpeedButtonGiveItemsClick
-                Alignment = taLeftJustify
-                Images = ImageList16
-                TextAlignment = taLeftJustify
-                ImageIndex = 5
-                WordWrap = False
               end
               object Label39: TLabel
                 Left = 8
@@ -4516,12 +4371,14 @@
                 ParentFont = False
                 Transparent = True
               end
-              object SpeedButtonGiveVehicle: TsSpeedButton
+              object SpeedButtonGiveVehicle: TSpeedButton
                 Left = 319
                 Top = 215
                 Width = 71
                 Height = 26
                 Caption = #1042#1099#1076#1072#1090#1100
+                ImageIndex = 5
+                Images = ImageList16
                 Flat = True
                 Font.Charset = DEFAULT_CHARSET
                 Font.Color = clSilver
@@ -4530,11 +4387,6 @@
                 Font.Style = []
                 ParentFont = False
                 OnClick = SpeedButtonGiveVehicleClick
-                Alignment = taLeftJustify
-                Images = ImageList16
-                TextAlignment = taLeftJustify
-                ImageIndex = 5
-                WordWrap = False
               end
               object Label41: TLabel
                 Left = 8
@@ -4550,12 +4402,14 @@
                 ParentFont = False
                 Transparent = True
               end
-              object SpeedButtonGiveKit: TsSpeedButton
+              object SpeedButtonGiveKit: TSpeedButton
                 Left = 319
                 Top = 268
                 Width = 71
                 Height = 26
                 Caption = #1042#1099#1076#1072#1090#1100
+                ImageIndex = 5
+                Images = ImageList16
                 Flat = True
                 Font.Charset = DEFAULT_CHARSET
                 Font.Color = clSilver
@@ -4564,18 +4418,15 @@
                 Font.Style = []
                 ParentFont = False
                 OnClick = SpeedButtonGiveKitClick
-                Alignment = taLeftJustify
-                Images = ImageList16
-                TextAlignment = taLeftJustify
-                ImageIndex = 5
-                WordWrap = False
               end
-              object SpeedButtonGiveEPAFK: TsSpeedButton
+              object SpeedButtonGiveEPAFK: TSpeedButton
                 Left = 259
                 Top = 112
                 Width = 54
                 Height = 26
                 Caption = #1040#1060#1050
+                ImageIndex = 5
+                Images = ImageList16
                 Flat = True
                 Font.Charset = DEFAULT_CHARSET
                 Font.Color = clSilver
@@ -4584,11 +4435,6 @@
                 Font.Style = []
                 ParentFont = False
                 OnClick = SpeedButtonGiveEPAFKClick
-                Alignment = taLeftJustify
-                Images = ImageList16
-                TextAlignment = taLeftJustify
-                ImageIndex = 5
-                WordWrap = False
               end
               object EditGiveExp: TEdit
                 Left = 11
@@ -4675,6 +4521,7 @@
                 ParentFont = False
                 TabOrder = 5
                 Value = 1
+                LightButtons = False
               end
               object ComboBoxGiveKit: TComboBox
                 Left = 11
@@ -4731,6 +4578,7 @@
             Font.Style = []
             ParentFont = False
             TabOrder = 0
+            StyleElements = [seBorder]
             ItemIndex = -1
             GetData = TableExLogRCONGetData
             Columns = <>
@@ -4780,6 +4628,7 @@
             Font.Style = []
             ParentFont = False
             TabOrder = 1
+            StyleElements = [seBorder]
             ItemIndex = -1
             GetData = TableExLogSystemGetData
             Columns = <>
@@ -4828,6 +4677,7 @@
             Color = 3355443
             DefaultRowHeight = 25
             TabOrder = 0
+            StyleElements = [seBorder]
             OnMouseUp = TableExChatMouseUp
             OnDrawCellData = TableExChatDrawCellData
             ItemIndex = -1
@@ -4874,7 +4724,7 @@
             Color = 4539717
             ParentBackground = False
             TabOrder = 1
-            object SpeedButtonChatSend: TsSpeedButton
+            object SpeedButtonChatSend: TSpeedButton
               AlignWithMargins = True
               Left = 52
               Top = 0
@@ -4964,7 +4814,7 @@
               ExplicitLeft = 77
               ExplicitTop = -1
             end
-            object SpeedButtonChatDown: TsSpeedButton
+            object SpeedButtonChatDown: TSpeedButton
               AlignWithMargins = True
               Left = 3
               Top = 0
@@ -5137,34 +4987,32 @@
               Layout = tlCenter
               ExplicitHeight = 16
             end
-            object SpeedButtonChatFilter: TsSpeedButton
+            object SpeedButtonChatFilter: TSpeedButton
               Left = 347
               Top = 0
               Width = 23
               Height = 30
               Hint = #1054#1090#1092#1080#1083#1100#1090#1088#1086#1074#1072#1090#1100
               Align = alLeft
+              ImageIndex = 33
+              Images = ImageList16
               Flat = True
               OnClick = SpeedButtonChatFilterClick
-              Images = ImageList16
-              TextAlignment = taLeftJustify
-              ImageIndex = 33
               ExplicitLeft = 340
               ExplicitTop = 2
               ExplicitHeight = 22
             end
-            object SpeedButtonChatRefresh: TsSpeedButton
+            object SpeedButtonChatRefresh: TSpeedButton
               Left = 0
               Top = 0
               Width = 27
               Height = 30
               Hint = #1057#1073#1088#1086#1089#1080#1090#1100' '#1092#1080#1083#1100#1090#1088'/'#1086#1073#1085#1086#1074#1080#1090#1100' '#1089#1087#1080#1089#1086#1082
               Align = alLeft
+              ImageIndex = 0
+              Images = ImageList16
               Flat = True
               OnClick = SpeedButtonChatRefreshClick
-              Images = ImageList16
-              TextAlignment = taLeftJustify
-              ImageIndex = 0
             end
             object Panel31: TPanel
               AlignWithMargins = True
@@ -5181,7 +5029,7 @@
               Color = 4539717
               ParentBackground = False
               TabOrder = 0
-              object sSpeedButton33: TsSpeedButton
+              object sSpeedButton33: TSpeedButton
                 AlignWithMargins = True
                 Left = 334
                 Top = 0
@@ -5347,7 +5195,7 @@
             Color = 3355443
             ParentBackground = False
             TabOrder = 1
-            object SpeedButtonSNPrev: TsSpeedButton
+            object SpeedButtonSNPrev: TSpeedButton
               AlignWithMargins = True
               Left = 0
               Top = 0
@@ -5437,7 +5285,7 @@
               OnClick = SpeedButtonSNPrevClick
               ExplicitTop = 6
             end
-            object SpeedButtonSNNext: TsSpeedButton
+            object SpeedButtonSNNext: TSpeedButton
               AlignWithMargins = True
               Left = 30
               Top = 0
@@ -5527,7 +5375,7 @@
               OnClick = SpeedButtonSNNextClick
               ExplicitLeft = 8
             end
-            object SpeedButtonSNRefresh: TsSpeedButton
+            object SpeedButtonSNRefresh: TSpeedButton
               AlignWithMargins = True
               Left = 60
               Top = 0
@@ -5618,7 +5466,7 @@
               ExplicitLeft = 110
               ExplicitTop = -3
             end
-            object SpeedButtonWBHome: TsSpeedButton
+            object SpeedButtonWBHome: TSpeedButton
               AlignWithMargins = True
               Left = 90
               Top = 0
@@ -5708,7 +5556,7 @@
               OnClick = SpeedButtonWBHomeClick
               ExplicitTop = -3
             end
-            object SpeedButtonMap: TsSpeedButton
+            object SpeedButtonMap: TSpeedButton
               AlignWithMargins = True
               Left = 120
               Top = 0
@@ -5799,7 +5647,7 @@
               ExplicitLeft = 146
               ExplicitTop = -3
             end
-            object SpeedButtonClearCookies: TsSpeedButton
+            object SpeedButtonClearCookies: TSpeedButton
               AlignWithMargins = True
               Left = 900
               Top = 0
@@ -6021,7 +5869,6 @@
                 ParentBackground = False
                 ShowCaption = False
                 TabOrder = 1
-                ExplicitTop = 312
                 object Label15: TLabel
                   AlignWithMargins = True
                   Left = 3
@@ -6055,17 +5902,16 @@
                   Font.Style = [fsBold]
                   ParentFont = False
                   TabOrder = 0
-                  object sSpeedButton7: TsSpeedButton
+                  object sSpeedButton7: TSpeedButton
                     Left = 760
                     Top = 0
                     Width = 30
                     Height = 30
                     Align = alLeft
+                    ImageIndex = 0
+                    Images = ImageList16
                     Flat = True
                     OnClick = ButtonDBReconClick
-                    Images = ImageList16
-                    ImageIndex = 0
-                    WordWrap = False
                     ExplicitLeft = 140
                   end
                   object EditDBHost: TEdit
@@ -6204,7 +6050,6 @@
                 ParentBackground = False
                 ShowCaption = False
                 TabOrder = 2
-                ExplicitTop = 204
                 object Label11: TLabel
                   AlignWithMargins = True
                   Left = 3
@@ -6238,17 +6083,16 @@
                   Font.Style = [fsBold]
                   ParentFont = False
                   TabOrder = 0
-                  object sSpeedButton6: TsSpeedButton
+                  object sSpeedButton6: TSpeedButton
                     Left = 790
                     Top = 0
                     Width = 30
                     Height = 30
                     Align = alLeft
+                    ImageIndex = 0
+                    Images = ImageList16
                     Flat = True
                     OnClick = ButtonManagerReconClick
-                    Images = ImageList16
-                    ImageIndex = 0
-                    WordWrap = False
                     ExplicitLeft = 140
                   end
                   object EditLocalPath: TEdit
@@ -6296,7 +6140,6 @@
                     ParentFont = False
                     TabOrder = 1
                     TextHint = #1048#1084#1103' '#1089#1077#1088#1074#1077#1088#1072
-                    ExplicitLeft = 594
                   end
                   object ButtonFlatOpenLocalDir: TButtonFlat
                     AlignWithMargins = True
@@ -6358,7 +6201,6 @@
                 ParentBackground = False
                 ShowCaption = False
                 TabOrder = 3
-                ExplicitTop = 258
                 object Label13: TLabel
                   AlignWithMargins = True
                   Left = 3
@@ -6392,17 +6234,16 @@
                   Font.Style = [fsBold]
                   ParentFont = False
                   TabOrder = 0
-                  object sSpeedButton4: TsSpeedButton
+                  object sSpeedButton4: TSpeedButton
                     Left = 422
                     Top = 0
                     Width = 30
                     Height = 29
                     Align = alLeft
+                    ImageIndex = 0
+                    Images = ImageList16
                     Flat = True
                     OnClick = ButtonRCONReconClick
-                    Images = ImageList16
-                    ImageIndex = 0
-                    WordWrap = False
                     ExplicitLeft = 425
                     ExplicitTop = -3
                   end
@@ -6496,7 +6337,6 @@
                 ParentBackground = False
                 ShowCaption = False
                 TabOrder = 4
-                ExplicitTop = 366
                 object Label14: TLabel
                   AlignWithMargins = True
                   Left = 3
@@ -6530,17 +6370,16 @@
                   Font.Style = [fsBold]
                   ParentFont = False
                   TabOrder = 0
-                  object sSpeedButton10: TsSpeedButton
+                  object sSpeedButton10: TSpeedButton
                     Left = 760
                     Top = 0
                     Width = 30
                     Height = 30
                     Align = alLeft
+                    ImageIndex = 0
+                    Images = ImageList16
                     Flat = True
                     OnClick = ButtonSDBReconClick
-                    Images = ImageList16
-                    ImageIndex = 0
-                    WordWrap = False
                     ExplicitLeft = 145
                   end
                   object EditSDBHost: TEdit
@@ -6678,12 +6517,11 @@
                 Color = 3355443
                 ParentBackground = False
                 TabOrder = 5
-                ExplicitTop = 175
                 object Label16: TLabel
                   AlignWithMargins = True
                   Left = 2
                   Top = 0
-                  Width = 213
+                  Width = 214
                   Height = 26
                   Margins.Left = 2
                   Margins.Top = 0
@@ -6752,7 +6590,6 @@
                 ParentBackground = False
                 ShowCaption = False
                 TabOrder = 7
-                ExplicitTop = 474
                 object Label12: TLabel
                   AlignWithMargins = True
                   Left = 3
@@ -6786,17 +6623,16 @@
                   Font.Style = [fsBold]
                   ParentFont = False
                   TabOrder = 0
-                  object SpeedButtonVKCon: TsSpeedButton
+                  object SpeedButtonVKCon: TSpeedButton
                     Left = 760
                     Top = 0
                     Width = 30
                     Height = 30
                     Align = alLeft
+                    ImageIndex = 0
+                    Images = ImageList16
                     Flat = True
                     OnClick = SpeedButtonVKConClick
-                    Images = ImageList16
-                    ImageIndex = 0
-                    WordWrap = False
                     ExplicitLeft = 592
                   end
                   object EditVKHTTP: TEdit
@@ -6911,7 +6747,6 @@
                 ParentBackground = False
                 ShowCaption = False
                 TabOrder = 8
-                ExplicitTop = 528
                 object Label23: TLabel
                   AlignWithMargins = True
                   Left = 3
@@ -7031,7 +6866,6 @@
                 Color = 3355443
                 ParentBackground = False
                 TabOrder = 9
-                ExplicitTop = 591
                 object Label42: TLabel
                   AlignWithMargins = True
                   Left = 2
@@ -7069,7 +6903,6 @@
                 ParentBackground = False
                 ShowCaption = False
                 TabOrder = 10
-                ExplicitTop = 620
                 object Label43: TLabel
                   AlignWithMargins = True
                   Left = 3
@@ -7103,32 +6936,30 @@
                   Font.Style = [fsBold]
                   ParentFont = False
                   TabOrder = 0
-                  object SpeedButtonUEUpdateVehicles: TsSpeedButton
+                  object SpeedButtonUEUpdateVehicles: TSpeedButton
                     Left = 185
                     Top = 0
                     Width = 311
                     Height = 29
                     Align = alLeft
                     Caption = #1054#1073#1085#1086#1074#1080#1090#1100' '#1073#1072#1079#1091' '#1080#1079#1086#1073#1088#1072#1078#1077#1085#1080#1081' '#1090#1088#1072#1085#1089#1087#1086#1088#1090#1072
+                    ImageIndex = 0
+                    Images = ImageList16
                     Flat = True
                     OnClick = SpeedButtonUEUpdateVehiclesClick
-                    Images = ImageList16
-                    ImageIndex = 0
-                    WordWrap = False
                     ExplicitHeight = 33
                   end
-                  object SpeedButtonUEUpdate: TsSpeedButton
+                  object SpeedButtonUEUpdate: TSpeedButton
                     Left = 0
                     Top = 0
                     Width = 185
                     Height = 29
                     Align = alLeft
                     Caption = #1054#1073#1085#1086#1074#1080#1090#1100' '#1073#1072#1079#1091
+                    ImageIndex = 0
+                    Images = ImageList16
                     Flat = True
                     OnClick = SpeedButtonUEUpdateClick
-                    Images = ImageList16
-                    ImageIndex = 0
-                    WordWrap = False
                     ExplicitLeft = 8
                     ExplicitHeight = 33
                   end
@@ -7145,7 +6976,6 @@
                   Align = alClient
                   TabOrder = 1
                   Visible = False
-                  ExplicitHeight = 8
                 end
               end
               object Panel35: TPanel
@@ -7156,7 +6986,6 @@
                 Align = alTop
                 BevelOuter = bvNone
                 TabOrder = 11
-                ExplicitTop = 727
               end
               object Panel42: TPanel
                 AlignWithMargins = True
@@ -7174,7 +7003,6 @@
                 ParentBackground = False
                 ShowCaption = False
                 TabOrder = 12
-                ExplicitTop = 674
                 object Label45: TLabel
                   AlignWithMargins = True
                   Left = 3
@@ -7189,7 +7017,7 @@
                   Font.Name = 'Tahoma'
                   Font.Style = [fsBold]
                   ParentFont = False
-                  ExplicitHeight = 13
+                  ExplicitHeight = 16
                 end
                 object Panel43: TPanel
                   Left = 0
@@ -7208,30 +7036,28 @@
                   Font.Style = [fsBold]
                   ParentFont = False
                   TabOrder = 0
-                  object SpeedButtonFixIE: TsSpeedButton
+                  object SpeedButtonFixIE: TSpeedButton
                     Left = 0
                     Top = 0
                     Width = 228
                     Height = 29
                     Align = alLeft
                     Caption = #1055#1086#1095#1080#1085#1080#1090#1100' '#1074#1089#1090#1088#1086#1077#1085#1085#1099#1081' '#1073#1088#1072#1091#1079#1077#1088
+                    Images = ImageList16
                     Flat = True
                     OnClick = SpeedButtonFixIEClick
-                    Images = ImageList16
-                    WordWrap = False
                     ExplicitHeight = 33
                   end
-                  object SpeedButtonClearCache: TsSpeedButton
+                  object SpeedButtonClearCache: TSpeedButton
                     Left = 228
                     Top = 0
                     Width = 99
                     Height = 29
                     Align = alLeft
                     Caption = #1054#1095#1080#1089#1090#1080#1090#1100' '#1082#1077#1096
+                    Images = ImageList16
                     Flat = True
                     OnClick = SpeedButtonClearCacheClick
-                    Images = ImageList16
-                    WordWrap = False
                     ExplicitHeight = 33
                   end
                 end
@@ -7252,7 +7078,6 @@
                 ParentBackground = False
                 ShowCaption = False
                 TabOrder = 13
-                ExplicitTop = 420
                 object Label1: TLabel
                   AlignWithMargins = True
                   Left = 3
@@ -7286,17 +7111,16 @@
                   Font.Style = [fsBold]
                   ParentFont = False
                   TabOrder = 0
-                  object SpeedButtonTGRecon: TsSpeedButton
+                  object SpeedButtonTGRecon: TSpeedButton
                     Left = 760
                     Top = 0
                     Width = 30
                     Height = 30
                     Align = alLeft
+                    ImageIndex = 0
+                    Images = ImageList16
                     Flat = True
                     OnClick = SpeedButtonTGReconClick
-                    Images = ImageList16
-                    ImageIndex = 0
-                    WordWrap = False
                     ExplicitLeft = 763
                   end
                   object EditTGChatID: TEdit
@@ -7368,7 +7192,7 @@
                   Left = 3
                   Top = 3
                   Width = 887
-                  Height = 21
+                  Height = 16
                   Align = alTop
                   Caption = #1053#1072#1089#1090#1088#1086#1081#1082#1080
                   Font.Charset = DEFAULT_CHARSET
@@ -7377,6 +7201,7 @@
                   Font.Name = 'Tahoma'
                   Font.Style = [fsBold]
                   ParentFont = False
+                  ExplicitWidth = 69
                 end
                 object Panel51: TPanel
                   Left = 0
@@ -7395,8 +7220,6 @@
                   Font.Style = [fsBold]
                   ParentFont = False
                   TabOrder = 0
-                  ExplicitLeft = -14
-                  ExplicitTop = 30
                   object Label46: TLabel
                     AlignWithMargins = True
                     Left = 5
@@ -7453,6 +7276,7 @@
                     TabOrder = 1
                     Value = 3
                     OnChange = SpinEditChatDblToKickChange
+                    LightButtons = False
                   end
                 end
               end
@@ -7506,7 +7330,7 @@
                   ParentColor = False
                   ParentFont = False
                 end
-                object SpeedButtonMSGAdd: TsSpeedButton
+                object SpeedButtonMSGAdd: TSpeedButton
                   AlignWithMargins = True
                   Left = 173
                   Top = 6
@@ -7515,11 +7339,10 @@
                   Hint = #1044#1086#1073#1072#1074#1080#1090#1100
                   Margins.Top = 6
                   Align = alLeft
+                  ImageIndex = 5
+                  Images = ImageList16
                   Flat = True
                   OnClick = SpeedButtonMSGAddClick
-                  Images = ImageList16
-                  TextAlignment = taLeftJustify
-                  ImageIndex = 5
                   ExplicitLeft = 194
                   ExplicitTop = 7
                   ExplicitHeight = 22
@@ -7541,6 +7364,7 @@
                 Color = 3355443
                 DefaultRowHeight = 30
                 TabOrder = 1
+                StyleElements = [seBorder]
                 OnDrawCellData = TableExMSGDrawCellData
                 ItemIndex = -1
                 OnItemColClick = TableExMSGItemColClick
@@ -7602,6 +7426,7 @@
                 Color = 3355443
                 DefaultRowHeight = 30
                 TabOrder = 0
+                StyleElements = [seBorder]
                 OnDrawCellData = TableExKitsDrawCellData
                 ItemIndex = -1
                 OnItemClick = TableExKitsItemClick
@@ -7666,7 +7491,7 @@
                   ExplicitLeft = 49
                   ExplicitTop = 6
                 end
-                object SpeedButtonKitAdd: TsSpeedButton
+                object SpeedButtonKitAdd: TSpeedButton
                   AlignWithMargins = True
                   Left = 148
                   Top = 6
@@ -7675,11 +7500,10 @@
                   Hint = #1044#1086#1073#1072#1074#1080#1090#1100
                   Margins.Top = 6
                   Align = alLeft
+                  ImageIndex = 5
+                  Images = ImageList16
                   Flat = True
                   OnClick = SpeedButtonKitAddClick
-                  Images = ImageList16
-                  TextAlignment = taLeftJustify
-                  ImageIndex = 5
                   ExplicitLeft = 194
                   ExplicitTop = 7
                   ExplicitHeight = 22
@@ -7710,6 +7534,7 @@
                 Color = 3355443
                 DefaultRowHeight = 30
                 TabOrder = 0
+                StyleElements = [seBorder]
                 OnDrawCellData = TableExKitDataDrawCellData
                 ItemIndex = -1
                 OnItemColClick = TableExKitDataItemColClick
@@ -7754,7 +7579,7 @@
                 Align = alTop
                 BevelOuter = bvNone
                 TabOrder = 1
-                object SpeedButtonKitItemAdd: TsSpeedButton
+                object SpeedButtonKitItemAdd: TSpeedButton
                   AlignWithMargins = True
                   Left = 136
                   Top = 6
@@ -7763,11 +7588,10 @@
                   Hint = #1044#1086#1073#1072#1074#1080#1090#1100
                   Margins.Top = 6
                   Align = alLeft
+                  ImageIndex = 5
+                  Images = ImageList16
                   Flat = True
                   OnClick = SpeedButtonKitItemAddClick
-                  Images = ImageList16
-                  TextAlignment = taLeftJustify
-                  ImageIndex = 5
                   ExplicitLeft = 361
                   ExplicitTop = 19
                   ExplicitHeight = 22
@@ -7815,7 +7639,7 @@
             ParentBackground = False
             ParentFont = False
             TabOrder = 0
-            object SpeedButtonRefreshAdmins: TsSpeedButton
+            object SpeedButtonRefreshAdmins: TSpeedButton
               Left = 0
               Top = 0
               Width = 27
@@ -7824,10 +7648,10 @@
               Margins.Top = 0
               Margins.Bottom = 0
               Align = alLeft
+              ImageIndex = 0
+              Images = ImageList16
               Flat = True
               OnClick = SpeedButtonRefreshAdminsClick
-              Images = ImageList16
-              ImageIndex = 0
               ExplicitLeft = -5
               ExplicitTop = -3
             end
@@ -7848,7 +7672,7 @@
               ExplicitTop = 0
               ExplicitHeight = 30
             end
-            object SpeedButtonUnadmin: TsSpeedButton
+            object SpeedButtonUnadmin: TSpeedButton
               Left = 31
               Top = 0
               Width = 90
@@ -7858,10 +7682,10 @@
               Margins.Bottom = 0
               Align = alLeft
               Caption = #1059#1076#1072#1083#1080#1090#1100
+              ImageIndex = 7
+              Images = ImageList16
               Flat = True
               OnClick = SpeedButtonUnadminClick
-              Images = ImageList16
-              ImageIndex = 7
               ExplicitLeft = 39
             end
             object Panel6: TPanel
@@ -7879,7 +7703,7 @@
               Color = 4539717
               ParentBackground = False
               TabOrder = 0
-              object sSpeedButton19: TsSpeedButton
+              object sSpeedButton19: TSpeedButton
                 AlignWithMargins = True
                 Left = 269
                 Top = 0
@@ -8006,6 +7830,7 @@
             Color = 3355443
             DefaultRowHeight = 30
             TabOrder = 1
+            StyleElements = [seBorder]
             ItemIndex = -1
             OnItemClick = TableExAdminsItemClick
             GetData = TableExAdminsGetData
@@ -8060,6 +7885,7 @@
             Font.Style = []
             ParentFont = False
             TabOrder = 0
+            StyleElements = [seBorder]
             ItemIndex = -1
             OnItemClick = TableExBansItemClick
             GetData = TableExBansGetData
@@ -8108,7 +7934,7 @@
             ParentBackground = False
             ParentFont = False
             TabOrder = 1
-            object SpeedButtonRefreshBans: TsSpeedButton
+            object SpeedButtonRefreshBans: TSpeedButton
               Left = 0
               Top = 0
               Width = 27
@@ -8117,10 +7943,10 @@
               Margins.Top = 0
               Margins.Bottom = 0
               Align = alLeft
+              ImageIndex = 0
+              Images = ImageList16
               Flat = True
               OnClick = SpeedButtonRefreshBansClick
-              Images = ImageList16
-              ImageIndex = 0
               ExplicitLeft = -5
               ExplicitTop = -3
             end
@@ -8141,7 +7967,7 @@
               ExplicitTop = 0
               ExplicitHeight = 30
             end
-            object SpeedButtonUnban: TsSpeedButton
+            object SpeedButtonUnban: TSpeedButton
               Left = 31
               Top = 0
               Width = 90
@@ -8151,10 +7977,10 @@
               Margins.Bottom = 0
               Align = alLeft
               Caption = #1056#1072#1079#1073#1072#1085#1080#1090#1100
+              ImageIndex = 7
+              Images = ImageList16
               Flat = True
               OnClick = SpeedButtonUnbanClick
-              Images = ImageList16
-              ImageIndex = 7
             end
             object Panel12: TPanel
               AlignWithMargins = True
@@ -8171,7 +7997,7 @@
               Color = 4539717
               ParentBackground = False
               TabOrder = 0
-              object sSpeedButton8: TsSpeedButton
+              object sSpeedButton8: TSpeedButton
                 AlignWithMargins = True
                 Left = 269
                 Top = 0
@@ -8309,6 +8135,7 @@
             Font.Style = []
             ParentFont = False
             TabOrder = 0
+            StyleElements = [seBorder]
             ItemIndex = -1
             OnColumnClick = TableExPlayerInfoColumnClick
             OnItemClick = TableExPlayerInfoItemClick
@@ -8365,7 +8192,7 @@
             Color = 3355443
             ParentBackground = False
             TabOrder = 2
-            object SpeedButtonDBPIRefresh: TsSpeedButton
+            object SpeedButtonDBPIRefresh: TSpeedButton
               Left = 0
               Top = 0
               Width = 27
@@ -8374,10 +8201,10 @@
               Margins.Top = 0
               Margins.Bottom = 0
               Align = alLeft
+              ImageIndex = 0
+              Images = ImageList16
               Flat = True
               OnClick = SpeedButtonDBPIRefreshClick
-              Images = ImageList16
-              ImageIndex = 0
               ExplicitLeft = -5
               ExplicitTop = -3
             end
@@ -8398,7 +8225,7 @@
               ExplicitTop = 0
               ExplicitHeight = 30
             end
-            object SpeedButtonDBPIGeo: TsSpeedButton
+            object SpeedButtonDBPIGeo: TSpeedButton
               Left = 31
               Top = 0
               Width = 27
@@ -8407,14 +8234,14 @@
               Margins.Top = 0
               Margins.Bottom = 0
               Align = alLeft
+              ImageIndex = 11
+              Images = ImageList16
               Flat = True
               OnClick = SpeedButtonDBPIGeoClick
-              Images = ImageList16
-              ImageIndex = 11
               ExplicitLeft = 34
               ExplicitTop = -3
             end
-            object SpeedButtonDBPIGeoStop: TsSpeedButton
+            object SpeedButtonDBPIGeoStop: TSpeedButton
               Left = 58
               Top = 0
               Width = 30
@@ -8423,11 +8250,11 @@
               Margins.Top = 0
               Margins.Bottom = 0
               Align = alLeft
+              ImageIndex = 10
+              Images = ImageList16
               Flat = True
               Visible = False
               OnClick = SpeedButtonDBPIGeoStopClick
-              Images = ImageList16
-              ImageIndex = 10
               ExplicitLeft = 64
               ExplicitTop = -3
             end
@@ -8446,7 +8273,7 @@
               Color = 4539717
               ParentBackground = False
               TabOrder = 0
-              object sSpeedButton18: TsSpeedButton
+              object sSpeedButton18: TSpeedButton
                 AlignWithMargins = True
                 Left = 269
                 Top = 0
@@ -8580,13 +8407,12 @@
               Left = 10
               Top = 3
               Width = 53
-              Height = 24
+              Height = 13
               Margins.Left = 10
               Margins.Right = 10
               Align = alLeft
               Caption = '1 '#1080#1079' 20000'
               Layout = tlCenter
-              ExplicitHeight = 13
             end
           end
         end
@@ -8625,6 +8451,7 @@
               Font.Style = []
               ParentFont = False
               TabOrder = 0
+              StyleElements = [seBorder]
               OnDragDrop = TableExGroupPlayersDragDrop
               OnDragOver = TableExGroupPlayersDragOver
               ItemIndex = -1
@@ -8693,12 +8520,14 @@
               FontCaption.Style = [fsBold]
               ShowSimpleBorder = True
               CaptionHeight = 30
-              object SpeedButtonGroupHeal: TsSpeedButton
+              object SpeedButtonGroupHeal: TSpeedButton
                 Left = 1
                 Top = 37
                 Width = 186
                 Height = 30
                 Caption = #1048#1079#1083#1077#1095#1080#1090#1100
+                ImageIndex = 1
+                Images = ImageListMed
                 Flat = True
                 Font.Charset = DEFAULT_CHARSET
                 Font.Color = clSilver
@@ -8708,18 +8537,15 @@
                 Layout = blGlyphRight
                 ParentFont = False
                 Spacing = 0
-                Alignment = taRightJustify
-                Images = ImageListMed
-                TextAlignment = taLeftJustify
-                ImageIndex = 1
-                TextOffset = 5
               end
-              object SpeedButtonGroupKill: TsSpeedButton
+              object SpeedButtonGroupKill: TSpeedButton
                 Left = 1
                 Top = 69
                 Width = 186
                 Height = 30
                 Caption = #1059#1073#1080#1090#1100' '#1087#1077#1088#1089#1086#1085#1072#1078#1072
+                ImageIndex = 5
+                Images = ImageListMed
                 Flat = True
                 Font.Charset = DEFAULT_CHARSET
                 Font.Color = clSilver
@@ -8729,18 +8555,15 @@
                 Layout = blGlyphRight
                 ParentFont = False
                 Spacing = 0
-                Alignment = taRightJustify
-                Images = ImageListMed
-                TextAlignment = taLeftJustify
-                ImageIndex = 5
-                TextOffset = 5
               end
-              object SpeedButtonGroupKick: TsSpeedButton
+              object SpeedButtonGroupKick: TSpeedButton
                 Left = 1
                 Top = 101
                 Width = 186
                 Height = 30
                 Caption = #1042#1099#1075#1085#1072#1090#1100' '#1089' '#1089#1077#1088#1074#1077#1088#1072
+                ImageIndex = 12
+                Images = ImageListMed
                 Flat = True
                 Font.Charset = DEFAULT_CHARSET
                 Font.Color = clSilver
@@ -8750,18 +8573,15 @@
                 Layout = blGlyphRight
                 ParentFont = False
                 Spacing = 0
-                Alignment = taRightJustify
-                Images = ImageListMed
-                TextAlignment = taLeftJustify
-                ImageIndex = 12
-                TextOffset = 5
               end
-              object SpeedButtonGroupBan: TsSpeedButton
+              object SpeedButtonGroupBan: TSpeedButton
                 Left = 1
                 Top = 133
                 Width = 186
                 Height = 30
                 Caption = #1054#1090#1087#1088#1072#1074#1080#1090#1100' '#1074' '#1041#1040#1053
+                ImageIndex = 13
+                Images = ImageListMed
                 Flat = True
                 Font.Charset = DEFAULT_CHARSET
                 Font.Color = clSilver
@@ -8771,18 +8591,15 @@
                 Layout = blGlyphRight
                 ParentFont = False
                 Spacing = 0
-                Alignment = taRightJustify
-                Images = ImageListMed
-                TextAlignment = taLeftJustify
-                ImageIndex = 13
-                TextOffset = 5
               end
-              object sSpeedButton21: TsSpeedButton
+              object sSpeedButton21: TSpeedButton
                 Left = 193
                 Top = 37
                 Width = 142
                 Height = 30
                 Caption = #1042#1099#1076#1072#1090#1100' '#1087#1088#1077#1076#1084#1077#1090#1099
+                ImageIndex = 17
+                Images = ImageListMed
                 Flat = True
                 Font.Charset = DEFAULT_CHARSET
                 Font.Color = clSilver
@@ -8790,17 +8607,15 @@
                 Font.Name = 'Tahoma'
                 Font.Style = []
                 ParentFont = False
-                Alignment = taLeftJustify
-                Images = ImageListMed
-                TextAlignment = taLeftJustify
-                ImageIndex = 17
               end
-              object sSpeedButton24: TsSpeedButton
+              object sSpeedButton24: TSpeedButton
                 Left = 193
                 Top = 102
                 Width = 142
                 Height = 30
                 Caption = #1042#1099#1076#1072#1090#1100' '#1087#1088#1077#1076#1084#1077#1090#1099
+                ImageIndex = 17
+                Images = ImageListMed
                 Flat = True
                 Font.Charset = DEFAULT_CHARSET
                 Font.Color = clSilver
@@ -8808,17 +8623,15 @@
                 Font.Name = 'Tahoma'
                 Font.Style = []
                 ParentFont = False
-                Alignment = taLeftJustify
-                Images = ImageListMed
-                TextAlignment = taLeftJustify
-                ImageIndex = 17
               end
-              object SpeedButtonGroupTP: TsSpeedButton
+              object SpeedButtonGroupTP: TSpeedButton
                 Left = 358
                 Top = 529
                 Width = 229
                 Height = 21
                 Caption = #1058#1077#1083#1077#1087#1086#1088#1090
+                ImageIndex = 18
+                Images = ImageListMed
                 Flat = True
                 Font.Charset = DEFAULT_CHARSET
                 Font.Color = clSilver
@@ -8828,11 +8641,6 @@
                 Layout = blGlyphRight
                 ParentFont = False
                 Spacing = 0
-                Alignment = taRightJustify
-                Images = ImageListMed
-                TextAlignment = taLeftJustify
-                ImageIndex = 18
-                TextOffset = 5
               end
               object Label47: TLabel
                 Left = 8
@@ -8848,12 +8656,14 @@
                 ParentFont = False
                 Transparent = True
               end
-              object SpeedButtonGroupEP: TsSpeedButton
+              object SpeedButtonGroupEP: TSpeedButton
                 Left = 193
                 Top = 205
                 Width = 71
                 Height = 26
                 Caption = #1042#1099#1076#1072#1090#1100
+                ImageIndex = 5
+                Images = ImageList16
                 Flat = True
                 Font.Charset = DEFAULT_CHARSET
                 Font.Color = clSilver
@@ -8861,11 +8671,6 @@
                 Font.Name = 'Tahoma'
                 Font.Style = []
                 ParentFont = False
-                Alignment = taLeftJustify
-                Images = ImageList16
-                TextAlignment = taLeftJustify
-                ImageIndex = 5
-                WordWrap = False
               end
               object Label49: TLabel
                 Left = 8
@@ -8881,12 +8686,14 @@
                 ParentFont = False
                 Transparent = True
               end
-              object SpeedButtonGroupVehicle: TsSpeedButton
+              object SpeedButtonGroupVehicle: TSpeedButton
                 Left = 193
                 Top = 257
                 Width = 71
                 Height = 26
                 Caption = #1042#1099#1076#1072#1090#1100
+                ImageIndex = 5
+                Images = ImageList16
                 Flat = True
                 Font.Charset = DEFAULT_CHARSET
                 Font.Color = clSilver
@@ -8895,11 +8702,6 @@
                 Font.Style = []
                 ParentFont = False
                 OnClick = SpeedButtonGiveVehicleClick
-                Alignment = taLeftJustify
-                Images = ImageList16
-                TextAlignment = taLeftJustify
-                ImageIndex = 5
-                WordWrap = False
               end
               object Panel7: TPanel
                 Left = 0
@@ -8911,7 +8713,7 @@
                 Color = 4539717
                 ParentBackground = False
                 TabOrder = 1
-                object SpeedButtonGroupChatSend: TsSpeedButton
+                object SpeedButtonGroupChatSend: TSpeedButton
                   AlignWithMargins = True
                   Left = 574
                   Top = 0
@@ -9073,6 +8875,7 @@
                 Font.Style = []
                 ParentFont = False
                 TabOrder = 2
+                StyleElements = [seBorder]
                 ItemIndex = -1
                 GetData = TableExMapPointsGetData
                 Columns = <>
@@ -9190,7 +8993,7 @@
             Color = 3355443
             ParentBackground = False
             TabOrder = 0
-            object SpeedButtonRefreshDonat: TsSpeedButton
+            object SpeedButtonRefreshDonat: TSpeedButton
               Left = 0
               Top = 0
               Width = 27
@@ -9199,10 +9002,10 @@
               Margins.Top = 0
               Margins.Bottom = 0
               Align = alLeft
+              ImageIndex = 0
+              Images = ImageList16
               Flat = True
               OnClick = SpeedButtonRefreshDonatClick
-              Images = ImageList16
-              ImageIndex = 0
               ExplicitLeft = -5
               ExplicitTop = -3
             end
@@ -9223,7 +9026,7 @@
               ExplicitTop = 0
               ExplicitHeight = 30
             end
-            object SpeedButtonDonatDeactivate: TsSpeedButton
+            object SpeedButtonDonatDeactivate: TSpeedButton
               Left = 132
               Top = 0
               Width = 120
@@ -9233,16 +9036,14 @@
               Margins.Bottom = 0
               Align = alLeft
               Caption = #1044#1077#1082#1072#1090#1080#1074#1080#1088#1086#1074#1072#1090#1100
+              ImageIndex = 6
+              Images = ImageList16
               Flat = True
               OnClick = SpeedButtonDonatDeactivateClick
-              Alignment = taLeftJustify
-              Images = ImageList16
-              TextAlignment = taLeftJustify
-              ImageIndex = 6
               ExplicitLeft = 230
               ExplicitTop = -3
             end
-            object SpeedButtonDonatUnlimit: TsSpeedButton
+            object SpeedButtonDonatUnlimit: TSpeedButton
               Left = 252
               Top = 0
               Width = 98
@@ -9252,15 +9053,13 @@
               Margins.Bottom = 0
               Align = alLeft
               Caption = #1041#1077#1089#1089#1088#1086#1095#1085#1099#1081
+              ImageIndex = 9
+              Images = ImageList16
               Flat = True
               OnClick = SpeedButtonDonatUnlimitClick
-              Alignment = taLeftJustify
-              Images = ImageList16
-              TextAlignment = taLeftJustify
-              ImageIndex = 9
               ExplicitLeft = 151
             end
-            object SpeedButtonDonatDelete: TsSpeedButton
+            object SpeedButtonDonatDelete: TSpeedButton
               Left = 58
               Top = 0
               Width = 74
@@ -9270,16 +9069,14 @@
               Margins.Bottom = 0
               Align = alLeft
               Caption = #1059#1076#1072#1083#1080#1090#1100
+              ImageIndex = 7
+              Images = ImageList16
               Flat = True
               OnClick = SpeedButtonDonatDeleteClick
-              Alignment = taLeftJustify
-              Images = ImageList16
-              TextAlignment = taLeftJustify
-              ImageIndex = 7
               ExplicitLeft = 98
               ExplicitTop = -3
             end
-            object SpeedButtonDonatAdd: TsSpeedButton
+            object SpeedButtonDonatAdd: TSpeedButton
               Left = 31
               Top = 0
               Width = 27
@@ -9288,10 +9085,10 @@
               Margins.Top = 0
               Margins.Bottom = 0
               Align = alLeft
+              ImageIndex = 5
+              Images = ImageList16
               Flat = True
               OnClick = SpeedButtonDonatAddClick
-              Images = ImageList16
-              ImageIndex = 5
               ExplicitLeft = 58
               ExplicitTop = -3
             end
@@ -9310,7 +9107,7 @@
               Color = 4539717
               ParentBackground = False
               TabOrder = 0
-              object sSpeedButton32: TsSpeedButton
+              object sSpeedButton32: TSpeedButton
                 AlignWithMargins = True
                 Left = 269
                 Top = 0
@@ -9445,7 +9242,7 @@
               Color = 4539717
               ParentBackground = False
               TabOrder = 1
-              object SpeedButtonDonatExtend: TsSpeedButton
+              object SpeedButtonDonatExtend: TSpeedButton
                 AlignWithMargins = True
                 Left = 2
                 Top = 2
@@ -9457,12 +9254,10 @@
                 Margins.Bottom = 2
                 Align = alClient
                 Caption = #1055#1088#1086#1076#1083#1077#1085#1080#1077
+                ImageIndex = 32
+                Images = ImageList16
                 Flat = True
                 OnClick = SpeedButtonDonatExtendClick
-                Alignment = taLeftJustify
-                Images = ImageList16
-                TextAlignment = taLeftJustify
-                ImageIndex = 32
                 ExplicitLeft = 8
                 ExplicitTop = 0
                 ExplicitWidth = 120
@@ -9473,7 +9268,7 @@
                 Left = 93
                 Top = 2
                 Width = 47
-                Height = 22
+                Height = 19
                 Margins.Left = 2
                 Margins.Top = 2
                 Margins.Right = 2
@@ -9492,6 +9287,7 @@
                 ParentFont = False
                 TabOrder = 0
                 Value = 7
+                LightButtons = False
               end
             end
           end
@@ -9513,6 +9309,7 @@
             Font.Style = []
             ParentFont = False
             TabOrder = 1
+            StyleElements = [seBorder]
             ItemIndex = -1
             OnItemClick = TableExDonatItemClick
             GetData = TableExDonatGetData
@@ -9594,6 +9391,7 @@
                     Color = 3355443
                     DefaultRowHeight = 30
                     TabOrder = 0
+                    StyleElements = [seBorder]
                     OnDrawCellData = TableExKitsDrawCellData
                     ItemIndex = -1
                     OnItemClick = TableExKitsItemClick
@@ -9670,7 +9468,7 @@
       end
     end
   end
-  object PanelMenu: TsPanel
+  object PanelMenu: TPanel
     Left = 0
     Top = 0
     Width = 40
@@ -9690,7 +9488,7 @@
     ParentFont = False
     TabOrder = 0
     TabStop = True
-    object SpeedButtonMenuReload: TsSpeedButton
+    object SpeedButtonMenuReload: TSpeedButton
       Left = 0
       Top = 623
       Width = 40
@@ -9700,6 +9498,8 @@
         ' '#1072' '#1091' '#1074#1072#1089' - '#1085#1077#1090', '#13#10' '#1090#1086' '#1085#1072#1078#1084#1080#1090#1077' '#1101#1090#1091' '#1082#1085#1086#1087#1082#1091' '#1080' '#1087#1088#1086#1074#1077#1088#1100#1090#1077' '#1077#1097#1105' '#1088#1072#1079
       Align = alBottom
       Caption = #1054#1073#1085#1086#1074#1080#1090#1100
+      ImageIndex = 18
+      Images = ImageList24
       Flat = True
       Font.Charset = DEFAULT_CHARSET
       Font.Color = clBtnFace
@@ -9710,14 +9510,9 @@
       ParentFont = False
       Spacing = 20
       OnClick = SpeedButtonMenuReloadClick
-      Alignment = taLeftJustify
-      Images = ImageList24
-      TextAlignment = taLeftJustify
-      ImageIndex = 18
-      WordWrap = False
       ExplicitTop = 628
     end
-    object SpeedButtonMenuAbout: TsSpeedButton
+    object SpeedButtonMenuAbout: TSpeedButton
       Left = 0
       Top = 719
       Width = 40
@@ -9725,6 +9520,8 @@
       Hint = #1054' '#1087#1088#1086#1075#1088#1072#1084#1084#1077
       Align = alBottom
       Caption = #1054' '#1087#1088#1086#1075#1088#1072#1084#1084#1077
+      ImageIndex = 0
+      Images = ImageList24
       Flat = True
       Font.Charset = DEFAULT_CHARSET
       Font.Color = clBtnFace
@@ -9734,14 +9531,9 @@
       Margin = 0
       ParentFont = False
       Spacing = 20
-      Alignment = taLeftJustify
-      Images = ImageList24
-      TextAlignment = taLeftJustify
-      ImageIndex = 0
-      WordWrap = False
       ExplicitTop = 709
     end
-    object SpeedButtonMenuQuit: TsSpeedButton
+    object SpeedButtonMenuQuit: TSpeedButton
       AlignWithMargins = True
       Left = 0
       Top = 755
@@ -9754,6 +9546,8 @@
       Margins.Bottom = 0
       Align = alBottom
       Caption = #1042#1099#1093#1086#1076
+      ImageIndex = 20
+      Images = ImageList24
       Flat = True
       Font.Charset = DEFAULT_CHARSET
       Font.Color = clBtnFace
@@ -9764,15 +9558,10 @@
       ParentFont = False
       Spacing = 20
       OnClick = SpeedButtonMenuQuitClick
-      Alignment = taLeftJustify
-      Images = ImageList24
-      TextAlignment = taLeftJustify
-      ImageIndex = 20
-      WordWrap = False
       ExplicitLeft = -2
       ExplicitTop = 740
     end
-    object SpeedButtonMenuSettings: TsSpeedButton
+    object SpeedButtonMenuSettings: TSpeedButton
       Left = 0
       Top = 689
       Width = 40
@@ -9780,6 +9569,8 @@
       Hint = #1054#1090#1082#1088#1099#1090#1100' '#1086#1082#1085#1086' '#1085#1072#1089#1090#1088#1086#1077#1082
       Align = alBottom
       Caption = #1053#1072#1089#1090#1088#1086#1081#1082#1080
+      ImageIndex = 7
+      Images = ImageList24
       Flat = True
       Font.Charset = DEFAULT_CHARSET
       Font.Color = clBtnFace
@@ -9790,14 +9581,9 @@
       ParentFont = False
       Spacing = 20
       OnClick = SpeedButtonMenuSettingsClick
-      Alignment = taLeftJustify
-      Images = ImageList24
-      TextAlignment = taLeftJustify
-      ImageIndex = 7
-      WordWrap = False
       ExplicitTop = 664
     end
-    object SpeedButtonMenuChat: TsSpeedButton
+    object SpeedButtonMenuChat: TSpeedButton
       Left = 0
       Top = 76
       Width = 40
@@ -9805,6 +9591,8 @@
       Hint = #1048#1075#1088#1086#1074#1086#1081' '#1095#1072#1090
       Align = alTop
       Caption = #1048#1075#1088#1086#1074#1086#1081' '#1095#1072#1090
+      ImageIndex = 1
+      Images = ImageList24
       Flat = True
       Font.Charset = DEFAULT_CHARSET
       Font.Color = clBtnFace
@@ -9815,15 +9603,10 @@
       ParentFont = False
       Spacing = 20
       OnClick = SpeedButtonMenuChatClick
-      Alignment = taLeftJustify
-      Images = ImageList24
-      TextAlignment = taLeftJustify
-      ImageIndex = 1
-      WordWrap = False
       ExplicitLeft = -8
       ExplicitTop = 133
     end
-    object SpeedButtonMenuMonitor: TsSpeedButton
+    object SpeedButtonMenuMonitor: TSpeedButton
       Left = 0
       Top = 40
       Width = 40
@@ -9831,6 +9614,8 @@
       Hint = #1052#1086#1085#1080#1090#1086#1088#1080#1085#1075
       Align = alTop
       Caption = #1052#1086#1085#1080#1090#1086#1088#1080#1085#1075
+      ImageIndex = 13
+      Images = ImageList24
       Flat = True
       Font.Charset = DEFAULT_CHARSET
       Font.Color = clBtnFace
@@ -9841,14 +9626,9 @@
       ParentFont = False
       Spacing = 20
       OnClick = SpeedButtonMenuMonitorClick
-      Alignment = taLeftJustify
-      Images = ImageList24
-      TextAlignment = taLeftJustify
-      ImageIndex = 13
-      WordWrap = False
       ExplicitLeft = -3
     end
-    object SpeedButtonMenuLog: TsSpeedButton
+    object SpeedButtonMenuLog: TSpeedButton
       Left = 0
       Top = 659
       Width = 40
@@ -9856,6 +9636,8 @@
       Hint = #1054#1073#1097#1080#1081' '#1078#1091#1088#1085#1072#1083' RCON'
       Align = alBottom
       Caption = #1046#1091#1088#1085#1072#1083
+      ImageIndex = 17
+      Images = ImageList24
       Flat = True
       Font.Charset = DEFAULT_CHARSET
       Font.Color = clBtnFace
@@ -9866,19 +9648,15 @@
       ParentFont = False
       Spacing = 20
       OnClick = SpeedButtonMenuLogClick
-      Alignment = taLeftJustify
-      Images = ImageList24
-      TextAlignment = taLeftJustify
-      ImageIndex = 17
-      WordWrap = False
       ExplicitTop = 660
     end
-    object sSpeedButton9: TsSpeedButton
+    object sSpeedButton9: TSpeedButton
       Left = 0
       Top = 30
       Width = 40
       Height = 10
       Align = alTop
+      ImageIndex = 5
       Flat = True
       Font.Charset = DEFAULT_CHARSET
       Font.Color = clBtnFace
@@ -9888,13 +9666,9 @@
       Margin = 3
       ParentFont = False
       Spacing = 20
-      Alignment = taLeftJustify
-      ButtonStyle = tbsSeparator
-      TextAlignment = taLeftJustify
-      ImageIndex = 5
       ExplicitWidth = 38
     end
-    object SpeedButtonMenuPlayers: TsSpeedButton
+    object SpeedButtonMenuPlayers: TSpeedButton
       Left = 0
       Top = 232
       Width = 40
@@ -9902,6 +9676,8 @@
       Hint = #1041#1072#1079#1072' '#1076#1072#1085#1085#1099#1093' '#1080#1075#1088#1086#1082#1086#1074
       Align = alTop
       Caption = #1041#1072#1079#1072' '#1076#1072#1085#1085#1099#1093' '#1080#1075#1088#1086#1082#1086#1074
+      ImageIndex = 3
+      Images = ImageList24
       Flat = True
       Font.Charset = DEFAULT_CHARSET
       Font.Color = clBtnFace
@@ -9912,15 +9688,10 @@
       ParentFont = False
       Spacing = 20
       OnClick = SpeedButtonMenuPlayersClick
-      Alignment = taLeftJustify
-      Images = ImageList24
-      TextAlignment = taLeftJustify
-      ImageIndex = 3
-      WordWrap = False
       ExplicitLeft = -3
       ExplicitTop = 179
     end
-    object SpeedButtonMenuMain: TsSpeedButton
+    object SpeedButtonMenuMain: TSpeedButton
       Left = 0
       Top = 0
       Width = 40
@@ -9928,6 +9699,8 @@
       Hint = #1043#1083#1072#1074#1085#1086#1077' '#1084#1077#1085#1102
       Align = alTop
       Caption = #1043#1083#1072#1074#1085#1086#1077' '#1084#1077#1085#1102
+      ImageIndex = 2
+      Images = ImageList24
       Flat = True
       Font.Charset = DEFAULT_CHARSET
       Font.Color = clBtnFace
@@ -9938,11 +9711,6 @@
       ParentFont = False
       Spacing = 20
       OnClick = SpeedButtonMenuMainClick
-      Alignment = taLeftJustify
-      Images = ImageList24
-      TextAlignment = taLeftJustify
-      ImageIndex = 2
-      WordWrap = False
       ExplicitLeft = -6
     end
     object Shape1: TShape
@@ -10013,7 +9781,7 @@
       ExplicitTop = 597
       ExplicitWidth = 28
     end
-    object SpeedButtonMenuWeb: TsSpeedButton
+    object SpeedButtonMenuWeb: TSpeedButton
       Left = 0
       Top = 328
       Width = 40
@@ -10021,6 +9789,8 @@
       Hint = #1041#1088#1072#1091#1079#1077#1088
       Align = alTop
       Caption = #1041#1088#1072#1091#1079#1077#1088
+      ImageIndex = 11
+      Images = ImageList24
       Flat = True
       Font.Charset = DEFAULT_CHARSET
       Font.Color = clBtnFace
@@ -10031,14 +9801,9 @@
       ParentFont = False
       Spacing = 20
       OnClick = SpeedButtonMenuWebClick
-      Alignment = taLeftJustify
-      Images = ImageList24
-      TextAlignment = taLeftJustify
-      ImageIndex = 11
-      WordWrap = False
       ExplicitTop = 238
     end
-    object SpeedButtonMenuKits: TsSpeedButton
+    object SpeedButtonMenuKits: TSpeedButton
       Left = 0
       Top = 106
       Width = 40
@@ -10046,6 +9811,8 @@
       Hint = #1059#1087#1088#1072#1074#1083#1077#1085#1080#1077' '#1089#1087#1080#1089#1082#1072#1084#1080
       Align = alTop
       Caption = #1059#1087#1088#1072#1074#1083#1077#1085#1080#1077' '#1089#1087#1080#1089#1082#1072#1084#1080
+      ImageIndex = 12
+      Images = ImageList24
       Flat = True
       Font.Charset = DEFAULT_CHARSET
       Font.Color = clBtnFace
@@ -10056,11 +9823,6 @@
       ParentFont = False
       Spacing = 20
       OnClick = SpeedButtonMenuKitsClick
-      Alignment = taLeftJustify
-      Images = ImageList24
-      TextAlignment = taLeftJustify
-      ImageIndex = 12
-      WordWrap = False
       ExplicitLeft = -3
       ExplicitTop = 120
     end
@@ -10080,7 +9842,7 @@
       ExplicitLeft = 3
       ExplicitTop = 233
     end
-    object SpeedButtonMenuBans: TsSpeedButton
+    object SpeedButtonMenuBans: TSpeedButton
       Left = 0
       Top = 262
       Width = 40
@@ -10088,6 +9850,8 @@
       Hint = #1041#1072#1085#1099
       Align = alTop
       Caption = #1041#1072#1085#1099
+      ImageIndex = 16
+      Images = ImageList24
       Flat = True
       Font.Charset = DEFAULT_CHARSET
       Font.Color = clBtnFace
@@ -10098,14 +9862,9 @@
       ParentFont = False
       Spacing = 20
       OnClick = SpeedButtonMenuBansClick
-      Alignment = taLeftJustify
-      Images = ImageList24
-      TextAlignment = taLeftJustify
-      ImageIndex = 16
-      WordWrap = False
       ExplicitTop = 147
     end
-    object SpeedButtonMenuAdmins: TsSpeedButton
+    object SpeedButtonMenuAdmins: TSpeedButton
       Left = 0
       Top = 292
       Width = 40
@@ -10113,6 +9872,8 @@
       Hint = #1040#1076#1084#1080#1085#1080#1089#1090#1088#1072#1090#1086#1088#1099
       Align = alTop
       Caption = #1040#1076#1084#1080#1085#1080#1089#1090#1088#1072#1090#1086#1088#1099
+      ImageIndex = 9
+      Images = ImageList24
       Flat = True
       Font.Charset = DEFAULT_CHARSET
       Font.Color = clBtnFace
@@ -10123,14 +9884,9 @@
       ParentFont = False
       Spacing = 20
       OnClick = SpeedButtonMenuAdminsClick
-      Alignment = taLeftJustify
-      Images = ImageList24
-      TextAlignment = taLeftJustify
-      ImageIndex = 9
-      WordWrap = False
       ExplicitTop = 192
     end
-    object SpeedButtonWork: TsSpeedButton
+    object SpeedButtonWork: TSpeedButton
       Left = 0
       Top = 136
       Width = 40
@@ -10138,6 +9894,8 @@
       Hint = #1056#1072#1073#1086#1090#1072' '#1089' '#1080#1075#1088#1086#1082#1072#1084#1080
       Align = alTop
       Caption = #1056#1072#1073#1086#1090#1072' '#1089' '#1080#1075#1088#1086#1082#1072#1084#1080
+      ImageIndex = 15
+      Images = ImageList24
       Flat = True
       Font.Charset = DEFAULT_CHARSET
       Font.Color = clBtnFace
@@ -10148,15 +9906,10 @@
       ParentFont = False
       Spacing = 20
       OnClick = SpeedButtonWorkClick
-      Alignment = taLeftJustify
-      Images = ImageList24
-      TextAlignment = taLeftJustify
-      ImageIndex = 15
-      WordWrap = False
       ExplicitLeft = -3
       ExplicitTop = 112
     end
-    object SpeedButtonDonat: TsSpeedButton
+    object SpeedButtonDonat: TSpeedButton
       Left = 0
       Top = 202
       Width = 40
@@ -10164,6 +9917,8 @@
       Hint = #1044#1086#1085#1072#1090
       Align = alTop
       Caption = #1044#1086#1085#1072#1090
+      ImageIndex = 22
+      Images = ImageList24
       Flat = True
       Font.Charset = DEFAULT_CHARSET
       Font.Color = clBtnFace
@@ -10174,15 +9929,10 @@
       ParentFont = False
       Spacing = 20
       OnClick = SpeedButtonDonatClick
-      Alignment = taLeftJustify
-      Images = ImageList24
-      TextAlignment = taLeftJustify
-      ImageIndex = 22
-      WordWrap = False
       ExplicitLeft = -3
       ExplicitTop = 175
     end
-    object SpeedButtonMenuDB: TsSpeedButton
+    object SpeedButtonMenuDB: TSpeedButton
       Left = 0
       Top = 166
       Width = 40
@@ -10190,6 +9940,8 @@
       Hint = #1041#1072#1079#1072' '#1076#1072#1085#1085#1099#1093
       Align = alTop
       Caption = #1041#1072#1079#1072' '#1076#1072#1085#1085#1099#1093
+      ImageIndex = 19
+      Images = ImageList24
       Flat = True
       Font.Charset = DEFAULT_CHARSET
       Font.Color = clBtnFace
@@ -10200,11 +9952,6 @@
       ParentFont = False
       Spacing = 20
       OnClick = SpeedButtonMenuDBClick
-      Alignment = taLeftJustify
-      Images = ImageList24
-      TextAlignment = taLeftJustify
-      ImageIndex = 19
-      WordWrap = False
       ExplicitLeft = -3
       ExplicitTop = 152
     end
@@ -10230,7 +9977,7 @@
     Left = 1094
     Top = 280
     Bitmap = {
-      494C01011700EC05900620002000FFFFFFFF2110FFFFFFFFFFFFFFFF424D3600
+      494C01011700EC05040020002000FFFFFFFF2110FFFFFFFFFFFFFFFF424D3600
       000000000000360000002800000080000000C000000001002000000000000080
       0100000000000000000000000000000000000000000000000000000000000000
       0000000000000000000000000000000000000000000000000000000000000000
@@ -13410,7 +13157,7 @@
     Left = 1092
     Top = 328
     Bitmap = {
-      494C010123001C01000610001000FFFFFFFF2110FFFFFFFFFFFFFFFF424D3600
+      494C010123001C01040010001000FFFFFFFF2110FFFFFFFFFFFFFFFF424D3600
       0000000000003600000028000000400000009000000001002000000000000090
       0000000000000000000000000000000000000000000000000000000000000000
       0000000000000000000000000000000000000000000000000000000000000000
@@ -14653,7 +14400,7 @@
     Left = 980
     Top = 272
     Bitmap = {
-      494C010116003002AC0518001800FFFFFFFF2110FFFFFFFFFFFFFFFF424D3600
+      494C010116003002040018001800FFFFFFFF2110FFFFFFFFFFFFFFFF424D3600
       00000000000036000000280000006000000090000000010020000000000000D8
       0000000000000000000000000000000000000000000000000000000000000000
       0000000000000000000000000000000000000000000000000000000000000000
@@ -16502,7 +16249,7 @@
     Left = 984
     Top = 420
     Bitmap = {
-      494C010103000800740030003000FFFFFFFF2110FFFFFFFFFFFFFFFF424D3600
+      494C010103000800040030003000FFFFFFFF2110FFFFFFFFFFFFFFFF424D3600
       0000000000003600000028000000C00000003000000001002000000000000090
       0000000000000000000000000000000000000000000000000000000000000000
       0000000000000000000000000000000000000000000000000000000000000000
